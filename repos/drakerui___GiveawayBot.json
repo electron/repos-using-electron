@@ -6,7 +6,7 @@
   "owner": {
     "login": "drakerui",
     "id": 18153914,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/18153914?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/18153914?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/drakerui",
     "htmlUrl": "https://github.com/drakerui",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/drakerui/GiveawayBot/deployments",
   "createdAt": "2016-12-10T22:24:38.000Z",
   "updatedAt": "2016-12-16T12:42:09.000Z",
-  "pushedAt": "2017-02-21T15:37:56.000Z",
+  "pushedAt": "2017-09-23T00:59:17.000Z",
   "gitUrl": "git://github.com/drakerui/GiveawayBot.git",
   "sshUrl": "git@github.com:drakerui/GiveawayBot.git",
   "cloneUrl": "https://github.com/drakerui/GiveawayBot.git",
   "svnUrl": "https://github.com/drakerui/GiveawayBot",
   "homepage": null,
-  "size": 280,
+  "size": 282,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -76,15 +76,8 @@
       "test": "electron .",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/drakerui/GiveawayBot.git"
-    },
-    "author": "Drake",
+    "repository": "https://github.com/drakerui/GiveawayBot",
     "license": "UNLICENCED",
-    "bugs": {
-      "url": "https://github.com/drakerui/GiveawayBot/issues"
-    },
     "homepage": "https://github.com/drakerui/GiveawayBot#readme",
     "dependencies": {
       "electron-is": ">=2.4.0",
@@ -101,6 +94,12 @@
     "build": {
       "appId": "com.drake.giveawaybot",
       "category": "general"
+    },
+    "other": {
+      "author": "Drake",
+      "bugs": {
+        "url": "https://github.com/drakerui/GiveawayBot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:51.696Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:40.341Z"
+  "lastFetchedAt": "2017-10-23T17:21:31.022Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:40.341Z",
+  "archived": false
 }

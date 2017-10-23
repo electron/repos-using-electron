@@ -5,7 +5,7 @@
   "owner": {
     "login": "Git-Together",
     "id": 22820487,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22820487?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22820487?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Git-Together",
     "htmlUrl": "https://github.com/Git-Together",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Git-Together",
     "id": 22820487,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22820487?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22820487?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Git-Together",
     "htmlUrl": "https://github.com/Git-Together",
@@ -112,19 +112,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -240,6 +229,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -268,6 +267,7 @@
   "filename": "Git-Together___GitTogether.json",
   "sourceRepo": "MiladNazeri/RGit",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:36.406Z",
-  "packageLastFetchedAt": "2017-05-04T22:17:45.115Z"
+  "lastFetchedAt": "2017-10-23T17:14:20.346Z",
+  "packageLastFetchedAt": "2017-05-04T22:17:45.115Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nakajmg",
     "id": 1995370,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1995370?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1995370?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nakajmg",
     "htmlUrl": "https://github.com/nakajmg",
@@ -78,7 +78,6 @@
       "postinstall": "cd app && npm install",
       "build": "rm -rf builds/cgmd-browser-darwin-x64 && npm run pack && electron-packager ./app cgmd-browser --out=builds --platform=darwin --arch=x64 --overwrite=true"
     },
-    "author": "nakajmg",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -131,6 +130,9 @@
       "lodash": "^4.16.1",
       "open": "0.0.5",
       "request": "^2.75.0"
+    },
+    "other": {
+      "author": "nakajmg"
     }
   },
   "packageStatus": 200,
@@ -158,6 +160,7 @@
   },
   "filename": "nakajmg___cgmd-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:31.301Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:03.803Z"
+  "lastFetchedAt": "2017-10-23T18:46:06.190Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:03.803Z",
+  "archived": false
 }

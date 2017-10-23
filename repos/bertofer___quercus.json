@@ -5,7 +5,7 @@
   "owner": {
     "login": "bertofer",
     "id": 1634229,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1634229?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1634229?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bertofer",
     "htmlUrl": "https://github.com/bertofer",
@@ -62,12 +62,8 @@
       "start": "npm run clean && webpack && electron .",
       "start-watch": "npm run clean && webpack --progress --watch"
     },
-    "author": "",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bertofer/quercus"
-    },
+    "repository": "https://github.com/bertofer/quercus",
     "devDependencies": {
       "babel-core": "^6.11.4",
       "babel-loader": "^6.2.4",
@@ -112,6 +108,9 @@
       "redux": "^3.5.2",
       "redux-saga": "^0.11.0",
       "shelljs": "bertofer/shelljs"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "bertofer___quercus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:51.135Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:47.065Z"
+  "lastFetchedAt": "2017-10-23T19:29:04.416Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:47.065Z",
+  "archived": false
 }

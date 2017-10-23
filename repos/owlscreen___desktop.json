@@ -5,7 +5,7 @@
   "owner": {
     "login": "owlscreen",
     "id": 20980446,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20980446?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20980446?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/owlscreen",
     "htmlUrl": "https://github.com/owlscreen",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "owlscreen",
     "id": 20980446,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20980446?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20980446?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/owlscreen",
     "htmlUrl": "https://github.com/owlscreen",
@@ -94,20 +94,13 @@
       "build": "webpack",
       "start": "webpack-dev-server --content-base build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/owlscreen/owlscreen.git"
-    },
+    "repository": "https://github.com/owlscreen/owlscreen",
     "keywords": [
       "electron",
       "share",
       "screen"
     ],
-    "author": "owlscreen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/owlscreen/owlscreen/issues"
-    },
     "homepage": "https://owlscreen.github.io",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -120,6 +113,12 @@
       "sass-loader": "^1.5.1",
       "webpack": "^1.12.12",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "owlscreen",
+      "bugs": {
+        "url": "https://github.com/owlscreen/owlscreen/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "owlscreen___desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:23.868Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:16.455Z"
+  "lastFetchedAt": "2017-10-23T20:55:27.114Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:16.455Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "blurrah",
     "id": 2852507,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2852507?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2852507?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/blurrah",
     "htmlUrl": "https://github.com/blurrah",
@@ -59,10 +59,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/blurrah/WsChat.git"
-    },
+    "repository": "https://github.com/blurrah/WsChat",
     "keywords": [
       "League",
       "Legends",
@@ -71,11 +68,7 @@
       "JavaScript",
       "XMPP"
     ],
-    "author": "Boris Besemer",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/blurrah/WsChat/issues"
-    },
     "homepage": "https://github.com/blurrah/WsChat",
     "devDependencies": {
       "electron-prebuilt": "^0.25.3-2",
@@ -110,6 +103,12 @@
     "dependencies": {
       "alt": "^0.16.5",
       "ws": "^0.7.2"
+    },
+    "other": {
+      "author": "Boris Besemer",
+      "bugs": {
+        "url": "https://github.com/blurrah/WsChat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   },
   "filename": "blurrah___WsChat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:04:13.933Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:56.534Z"
+  "lastFetchedAt": "2017-10-23T18:47:31.344Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:56.534Z",
+  "archived": false
 }

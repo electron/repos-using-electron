@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "timer",
     "version": "1.0.0",
@@ -80,10 +80,12 @@
       "simple timer",
       "electron timer"
     ],
-    "author": "Muhammed Furkan AYDIN",
     "license": "GPL",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Muhammed Furkan AYDIN"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,6 @@
   },
   "filename": "turkishdeveloper___timer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:29:25.065Z",
+  "lastFetchedAt": "2017-10-23T19:19:26.787Z",
   "packageLastFetchedAt": "2017-05-05T16:59:21.504Z"
 }

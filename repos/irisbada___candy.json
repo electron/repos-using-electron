@@ -5,7 +5,7 @@
   "owner": {
     "login": "irisbada",
     "id": 17698927,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17698927?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17698927?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/irisbada",
     "htmlUrl": "https://github.com/irisbada",
@@ -74,15 +74,8 @@
       "start": "electron .",
       "candy": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/irisbada/candy.git"
-    },
-    "author": "irisbada",
+    "repository": "https://github.com/irisbada/candy",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/irisbada/candy/issues"
-    },
     "homepage": "https://github.com/irisbada/candy#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.10"
@@ -90,6 +83,12 @@
     "dependencies": {
       "bootstrap": "^3.3.6",
       "node-notifier": "^4.5.0"
+    },
+    "other": {
+      "author": "irisbada",
+      "bugs": {
+        "url": "https://github.com/irisbada/candy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "irisbada___candy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:42.689Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:21.622Z"
+  "lastFetchedAt": "2017-10-23T17:32:56.291Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:21.622Z",
+  "archived": false
 }

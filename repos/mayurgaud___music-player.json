@@ -5,7 +5,7 @@
   "owner": {
     "login": "mayurgaud",
     "id": 2283682,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2283682?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2283682?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mayurgaud",
     "htmlUrl": "https://github.com/mayurgaud",
@@ -74,19 +74,12 @@
       "test": "npm test",
       "start": "electron index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mayurgaud/music-player.git"
-    },
+    "repository": "https://github.com/mayurgaud/music-player",
     "keywords": [
       "music",
       "soundcloud"
     ],
-    "author": "Mayur Gaud",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/mayurgaud/music-player/issues"
-    },
     "homepage": "https://github.com/mayurgaud/music-player#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -97,6 +90,12 @@
       "babel-preset-react": "^6.5.0",
       "react": "^15.1.0",
       "react-dom": "^15.1.0"
+    },
+    "other": {
+      "author": "Mayur Gaud",
+      "bugs": {
+        "url": "https://github.com/mayurgaud/music-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "mayurgaud___music-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:54.005Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:09.732Z"
+  "lastFetchedAt": "2017-10-23T17:48:32.921Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:09.732Z",
+  "archived": false
 }

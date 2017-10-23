@@ -5,7 +5,7 @@
   "owner": {
     "login": "IvanSotelo",
     "id": 2218681,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2218681?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2218681?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IvanSotelo",
     "htmlUrl": "https://github.com/IvanSotelo",
@@ -20,12 +20,12 @@
   "description": "App para Deskode Ads",
   "fork": false,
   "createdAt": "2016-05-08T18:17:15.000Z",
-  "updatedAt": "2016-05-12T03:04:46.000Z",
+  "updatedAt": "2017-08-28T13:05:13.000Z",
   "pushedAt": "2016-06-29T17:52:35.000Z",
   "homepage": null,
   "size": 448504,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -60,23 +60,22 @@
       "start": "electron main.js",
       "package": "electron-packager ./ DeskodeAds --all --out ~/DeskodeAds --version 1.0.0 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/IvanSotelo/DeskodeAds_Desktop.git"
-    },
-    "author": "Deskode",
+    "repository": "https://github.com/IvanSotelo/DeskodeAds_Desktop",
     "license": "CC0-1.0",
     "dependencies": {
       "jquery": "^2.1.4",
       "nconf": "^0.8.4"
     },
-    "bugs": {
-      "url": "https://github.com/IvanSotelo/DeskodeAds_Desktop/issues"
-    },
     "homepage": "http://deskode.com",
     "devDependencies": {
       "electron-packager": "^7.0.4",
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "author": "Deskode",
+      "bugs": {
+        "url": "https://github.com/IvanSotelo/DeskodeAds_Desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/IvanSotelo/DeskodeAds_Desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:31:54.307Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:21.051Z"
+  "lastFetchedAt": "2017-10-23T17:36:40.718Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:21.051Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "claudio-destro",
     "id": 11568024,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11568024?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11568024?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/claudio-destro",
     "htmlUrl": "https://github.com/claudio-destro",
@@ -49,7 +49,6 @@
     "name": "lpcflashutility",
     "version": "0.0.3",
     "description": "NXP LPC Microprocessor Programmer GUI",
-    "author": "Claudio Destro <claudio.destro@gmail.com>",
     "license": "LGPL-3.0",
     "dependencies": {
       "angular2": "2.0.0-beta.9",
@@ -80,13 +79,7 @@
       "typings": "^0.7.8",
       "webpack": "^1.12.14"
     },
-    "bugs": {
-      "url": "https://github.com/claudio-destro/LPCFlash/issues"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/claudio-destro/LPCFlash.git"
-    },
+    "repository": "https://github.com/claudio-destro/LPCFlash",
     "keywords": [
       "angular2",
       "electron",
@@ -99,7 +92,13 @@
       "serialport",
       "typescript"
     ],
-    "scripts": {}
+    "scripts": {},
+    "other": {
+      "author": "Claudio Destro <claudio.destro@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/claudio-destro/LPCFlash/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/claudio-destro/LPCFlash",
@@ -146,6 +145,7 @@
   },
   "filename": "claudio-destro___LPCFlash.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:23:52.401Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:48.749Z"
+  "lastFetchedAt": "2017-10-23T17:11:38.100Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:48.749Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "HenderOrlando",
     "id": 3482465,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3482465?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3482465?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HenderOrlando",
     "htmlUrl": "https://github.com/HenderOrlando",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "dermike",
       "id": 4582134,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4582134?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4582134?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/dermike",
       "htmlUrl": "https://github.com/dermike",
@@ -99,27 +99,28 @@
     "downloadsUrl": "https://api.github.com/repos/dermike/slide-beacon-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/dermike/slide-beacon-app/deployments",
     "createdAt": "2015-09-24T10:25:30.000Z",
-    "updatedAt": "2017-04-26T17:38:27.000Z",
-    "pushedAt": "2017-02-02T19:41:12.000Z",
+    "updatedAt": "2017-10-01T04:44:46.000Z",
+    "pushedAt": "2017-10-03T16:28:37.000Z",
     "gitUrl": "git://github.com/dermike/slide-beacon-app.git",
     "sshUrl": "git@github.com:dermike/slide-beacon-app.git",
     "cloneUrl": "https://github.com/dermike/slide-beacon-app.git",
     "svnUrl": "https://github.com/dermike/slide-beacon-app",
     "homepage": "",
     "size": 1244,
-    "stargazersCount": 97,
-    "watchersCount": 97,
+    "stargazersCount": 109,
+    "watchersCount": 109,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 4,
+    "forksCount": 6,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 97,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 109,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "dermike",
       "id": 4582134,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4582134?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4582134?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/dermike",
       "htmlUrl": "https://github.com/dermike",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/dermike/slide-beacon-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/dermike/slide-beacon-app/deployments",
     "createdAt": "2015-09-24T10:25:30.000Z",
-    "updatedAt": "2017-04-26T17:38:27.000Z",
-    "pushedAt": "2017-02-02T19:41:12.000Z",
+    "updatedAt": "2017-10-01T04:44:46.000Z",
+    "pushedAt": "2017-10-03T16:28:37.000Z",
     "gitUrl": "git://github.com/dermike/slide-beacon-app.git",
     "sshUrl": "git@github.com:dermike/slide-beacon-app.git",
     "cloneUrl": "https://github.com/dermike/slide-beacon-app.git",
     "svnUrl": "https://github.com/dermike/slide-beacon-app",
     "homepage": "",
     "size": 1244,
-    "stargazersCount": 97,
-    "watchersCount": 97,
+    "stargazersCount": 109,
+    "watchersCount": 109,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 4,
+    "forksCount": 6,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 97,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 109,
     "defaultBranch": "master"
   },
-  "networkCount": 4,
+  "networkCount": 6,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -195,14 +197,10 @@
       "electron": "node ./node_modules/electron/cli.js .",
       "rebuild": "node ./node_modules/.bin/electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/dermike/slide-beacon-app.git"
-    },
+    "repository": "https://github.com/dermike/slide-beacon-app",
     "keywords": [
       "electron"
     ],
-    "author": "Mikael Jergefelt",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "8.1.0",
@@ -213,6 +211,9 @@
       "mdns": "2.3.3",
       "eddystone-beacon": "1.0.6",
       "ws": "1.1.1"
+    },
+    "other": {
+      "author": "Mikael Jergefelt"
     }
   },
   "packageStatus": 200,
@@ -241,6 +242,7 @@
   "filename": "HenderOrlando___slide-beacon-app.json",
   "sourceRepo": "dermike/slide-beacon-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:03.771Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:05.582Z"
+  "lastFetchedAt": "2017-10-23T19:02:42.085Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:05.582Z",
+  "archived": false
 }

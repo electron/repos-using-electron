@@ -5,7 +5,7 @@
   "owner": {
     "login": "EduMake",
     "id": 3767896,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3767896?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3767896?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EduMake",
     "htmlUrl": "https://github.com/EduMake",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "EduMake",
     "id": 3767896,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3767896?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3767896?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EduMake",
     "htmlUrl": "https://github.com/EduMake",
@@ -75,15 +75,8 @@
       "start": "node_modules/.bin/electron main.js",
       "test": "jasmine-node specs/"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/EduMake/logicexplorer.git"
-    },
-    "author": "Martyn Eggleton <martyn@edumake.org>",
+    "repository": "https://github.com/EduMake/logicexplorer",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/EduMake/logicexplorer/issues"
-    },
     "dependencies": {
       "electron-prebuilt": "^1.2.3",
       "i2c-bus": "^1.1.0",
@@ -94,6 +87,12 @@
     },
     "devDependencies": {
       "electron-rebuild": "^1.1.5"
+    },
+    "other": {
+      "author": "Martyn Eggleton <martyn@edumake.org>",
+      "bugs": {
+        "url": "https://github.com/EduMake/logicexplorer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "EduMake___logicexplorer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:13:46.239Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:32.204Z"
+  "lastFetchedAt": "2017-10-23T17:59:17.218Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:32.204Z",
+  "archived": false
 }

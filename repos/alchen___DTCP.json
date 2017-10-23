@@ -5,7 +5,7 @@
   "owner": {
     "login": "alchen",
     "id": 1053824,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1053824?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1053824?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alchen",
     "htmlUrl": "https://github.com/alchen",
@@ -20,10 +20,10 @@
   "description": "Desktop Twitter Client Project",
   "fork": false,
   "createdAt": "2015-05-24T05:25:58.000Z",
-  "updatedAt": "2017-03-24T00:09:36.000Z",
-  "pushedAt": "2016-08-21T08:57:48.000Z",
+  "updatedAt": "2017-09-12T00:58:00.000Z",
+  "pushedAt": "2017-09-12T00:09:15.000Z",
   "homepage": "",
-  "size": 1303,
+  "size": 1311,
   "stargazersCount": 38,
   "watchersCount": 38,
   "language": "JavaScript",
@@ -49,7 +49,7 @@
     "featured": false
   },
   "networkCount": 4,
-  "subscribersCount": 5,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "DTCP",
@@ -61,15 +61,8 @@
       "start": "./node_modules/.bin/electron .",
       "test": "./node_modules/.bin/istanbul instrument src --output instrumented && ./node_modules/.bin/electron spec --ci"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alchen/DTCP.git"
-    },
-    "author": "uinoka",
+    "repository": "https://github.com/alchen/DTCP",
     "license": "AGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/alchen/DTCP/issues"
-    },
     "homepage": "https://github.com/alchen/DTCP",
     "devDependencies": {
       "asar": "^0.12.1",
@@ -134,6 +127,12 @@
       "twitter-text": "^1.14.0",
       "vue": "^1.0.26",
       "which": "^1.2.10"
+    },
+    "other": {
+      "author": "uinoka",
+      "bugs": {
+        "url": "https://github.com/alchen/DTCP/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   },
   "filename": "alchen___DTCP.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:18.617Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:24.406Z"
+  "lastFetchedAt": "2017-10-23T19:29:20.814Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:24.406Z",
+  "archived": false
 }

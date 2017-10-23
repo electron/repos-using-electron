@@ -5,7 +5,7 @@
   "owner": {
     "login": "xyDiva",
     "id": 3214033,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3214033?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3214033?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xyDiva",
     "htmlUrl": "https://github.com/xyDiva",
@@ -53,25 +53,24 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "ssh2": "^0.5.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "xyDiva___electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:59:13.766Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:55.025Z"
+  "lastFetchedAt": "2017-10-23T19:05:11.198Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:55.025Z",
+  "archived": false
 }

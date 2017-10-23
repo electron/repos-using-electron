@@ -6,7 +6,7 @@
   "owner": {
     "login": "cpsdqs",
     "id": 5412095,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5412095?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5412095?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cpsdqs",
     "htmlUrl": "https://github.com/cpsdqs",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/cpsdqs/tweet",
-  "description": "Twitter Client",
+  "description": "Twitter Client (barely functional)",
   "fork": false,
   "url": "https://api.github.com/repos/cpsdqs/tweet",
   "forksUrl": "https://api.github.com/repos/cpsdqs/tweet/forks",
@@ -36,13 +36,13 @@
   "downloadsUrl": "https://api.github.com/repos/cpsdqs/tweet/downloads",
   "deploymentsUrl": "https://api.github.com/repos/cpsdqs/tweet/deployments",
   "createdAt": "2017-03-31T14:57:07.000Z",
-  "updatedAt": "2017-03-31T14:58:39.000Z",
+  "updatedAt": "2017-09-05T15:23:57.000Z",
   "pushedAt": "2017-03-31T18:46:28.000Z",
   "gitUrl": "git://github.com/cpsdqs/tweet.git",
   "sshUrl": "git@github.com:cpsdqs/tweet.git",
   "cloneUrl": "https://github.com/cpsdqs/tweet.git",
   "svnUrl": "https://github.com/cpsdqs/tweet",
-  "homepage": null,
+  "homepage": "",
   "size": 207,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T14:25:59.985Z",
+  "lastFetchedAt": "2017-10-23T18:59:16.641Z",
   "packageJSON": {
     "name": "tweet",
     "version": "0.0.0",
@@ -83,7 +83,6 @@
       "start": "./node_modules/.bin/electron .",
       "compile-styles": "./node_modules/.bin/gulp compile-styles"
     },
-    "author": "cpsdqs",
     "license": "MIT",
     "dependencies": {
       "coffeescript": "^2.0.0-alpha1",
@@ -100,8 +99,12 @@
       "gulp-less": "^3.3.0",
       "gulp-sourcemaps": "^2.4.1",
       "gulp-watch": "^4.3.11"
+    },
+    "other": {
+      "author": "cpsdqs"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:38:32.444Z"
+  "packageLastFetchedAt": "2017-05-05T17:38:32.444Z",
+  "archived": false
 }

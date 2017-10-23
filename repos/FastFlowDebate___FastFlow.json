@@ -5,7 +5,7 @@
   "owner": {
     "login": "FastFlowDebate",
     "id": 19640250,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19640250?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19640250?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FastFlowDebate",
     "htmlUrl": "https://github.com/FastFlowDebate",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/FastFlowDebate/FastFlow/downloads",
   "deploymentsUrl": "https://api.github.com/repos/FastFlowDebate/FastFlow/deployments",
   "createdAt": "2015-11-06T16:36:02.000Z",
-  "updatedAt": "2016-10-27T13:49:33.000Z",
+  "updatedAt": "2017-09-22T01:21:51.000Z",
   "pushedAt": "2017-03-24T20:45:36.000Z",
   "gitUrl": "git://github.com/FastFlowDebate/FastFlow.git",
   "sshUrl": "git@github.com:FastFlowDebate/FastFlow.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/FastFlowDebate/FastFlow",
   "homepage": "http://fastflowdebate.com",
   "size": 184695,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 8,
   "openIssues": 8,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "FastFlowDebate",
     "id": 19640250,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19640250?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19640250?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FastFlowDebate",
     "htmlUrl": "https://github.com/FastFlowDebate",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 2,
-  "subscribersCount": 6,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "FastFlow",
@@ -121,15 +121,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FastFlowDebate/fastflow.git"
-    },
-    "author": "Adam Towers <adam.towers@icloud.com> (https://github.com/zarkoix)",
+    "repository": "https://github.com/FastFlowDebate/fastflow",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/FastFlowDebate/FastFlow/issues"
-    },
     "keywords": [
       "electron",
       "debate"
@@ -163,6 +156,12 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": "Adam Towers <adam.towers@icloud.com> (https://github.com/zarkoix)",
+      "bugs": {
+        "url": "https://github.com/FastFlowDebate/FastFlow/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +189,7 @@
   },
   "filename": "FastFlowDebate___FastFlow.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:38:31.689Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:29.305Z"
+  "lastFetchedAt": "2017-10-23T17:38:20.885Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:29.305Z",
+  "archived": false
 }

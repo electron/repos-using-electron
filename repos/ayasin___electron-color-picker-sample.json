@@ -5,7 +5,7 @@
   "owner": {
     "login": "ayasin",
     "id": 3696949,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3696949?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3696949?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ayasin",
     "htmlUrl": "https://github.com/ayasin",
@@ -20,12 +20,12 @@
   "description": "a sample project to demonstrate using electron-request-response.",
   "fork": false,
   "createdAt": "2016-04-13T19:32:46.000Z",
-  "updatedAt": "2017-02-26T20:20:46.000Z",
+  "updatedAt": "2017-08-19T01:37:49.000Z",
   "pushedAt": "2016-04-18T21:22:47.000Z",
   "homepage": null,
   "size": 215,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -60,7 +60,6 @@
       "package-darwin": "./node_modules/.bin/electron-packager ./app ElectronQuickStart --platform darwin --arch all --out ./bin/ElectronQuickStart --version 0.37.4 --overwrite --icon=./app/icon.icns",
       "package-linux": "./node_modules/.bin/electron-packager ./app ElectronQuickStart --platform linux --arch all --out ./bin/ElectronQuickStart --version 0.37.4 --overwrite --icon=./app/icon.icns"
     },
-    "author": "ayasin@datatensor.com",
     "license": "ISC",
     "devDependencies": {
       "babel-core": "^6.7.4",
@@ -76,6 +75,9 @@
       "electron-request-response": "^1.0.2",
       "react": "^0.14.8",
       "react-dom": "^0.14.8"
+    },
+    "other": {
+      "author": "ayasin@datatensor.com"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
   "svnUrl": "https://github.com/ayasin/electron-color-picker-sample",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:52:43.119Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:49.072Z"
+  "lastFetchedAt": "2017-10-23T20:23:16.742Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:49.072Z",
+  "archived": false
 }

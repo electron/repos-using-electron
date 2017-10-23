@@ -5,7 +5,7 @@
   "owner": {
     "login": "joostory",
     "id": 830864,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/830864?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/830864?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joostory",
     "htmlUrl": "https://github.com/joostory",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/joostory/tistory-editor/downloads",
   "deploymentsUrl": "https://api.github.com/repos/joostory/tistory-editor/deployments",
   "createdAt": "2016-11-05T05:21:05.000Z",
-  "updatedAt": "2017-04-10T02:19:10.000Z",
-  "pushedAt": "2017-04-27T02:45:10.000Z",
+  "updatedAt": "2017-10-19T06:09:37.000Z",
+  "pushedAt": "2017-10-13T01:38:08.000Z",
   "gitUrl": "git://github.com/joostory/tistory-editor.git",
   "sshUrl": "git@github.com:joostory/tistory-editor.git",
   "cloneUrl": "https://github.com/joostory/tistory-editor.git",
   "svnUrl": "https://github.com/joostory/tistory-editor",
   "homepage": "https://joostory.github.io/tistory-editor",
-  "size": 7990,
-  "stargazersCount": 14,
-  "watchersCount": 14,
+  "size": 12333,
+  "stargazersCount": 26,
+  "watchersCount": 26,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": true,
-  "forksCount": 4,
+  "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 14,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 26,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 4,
-  "subscribersCount": 7,
+  "networkCount": 5,
+  "subscribersCount": 11,
   "status": 200,
   "packageJSON": {
     "name": "tistory-editor",
@@ -88,23 +88,12 @@
       "dist-linux": "build -l --x64",
       "dist-win": "build -w --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/joostory/tistory-editor.git"
-    },
+    "repository": "https://github.com/joostory/tistory-editor",
     "keywords": [
       "editor",
       "tistory"
     ],
-    "author": {
-      "name": "Joo",
-      "email": "joo@joostory.net",
-      "url": "http://joostory.net"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/joostory/tistory-editor/issues"
-    },
     "homepage": "https://github.com/joostory/tistory-editor#readme",
     "devDependencies": {
       "babel-core": "^6.23.1",
@@ -162,6 +151,16 @@
     },
     "build": {
       "appId": "net.joostory.tistory-editor"
+    },
+    "other": {
+      "author": {
+        "name": "Joo",
+        "email": "joo@joostory.net",
+        "url": "http://joostory.net"
+      },
+      "bugs": {
+        "url": "https://github.com/joostory/tistory-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   },
   "filename": "joostory___tistory-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:32:51.866Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:49.286Z"
+  "lastFetchedAt": "2017-10-23T19:22:52.114Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:49.286Z",
+  "archived": false
 }

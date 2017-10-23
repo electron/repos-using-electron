@@ -5,7 +5,7 @@
   "owner": {
     "login": "APE-EDX",
     "id": 20481357,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20481357?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20481357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/APE-EDX",
     "htmlUrl": "https://github.com/APE-EDX",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "APE-EDX",
     "id": 20481357,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20481357?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20481357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/APE-EDX",
     "htmlUrl": "https://github.com/APE-EDX",
@@ -97,12 +97,6 @@
       "watch": "cross-env NODE_ENV=production node ./node_modules/webpack/bin/webpack --watch --config webpack.config.js --progress --profile --bail",
       "start": "electron ."
     },
-    "contributors": [
-      {
-        "name": "Foo Bar",
-        "email": "foo.bar@example.com"
-      }
-    ],
     "license": "MIT",
     "dependencies": {
       "bootstrap": "^3.3.5",
@@ -131,7 +125,12 @@
       "webpack": "^1.13.1"
     },
     "other": {
-      "author": ""
+      "contributors": [
+        {
+          "name": "Foo Bar",
+          "email": "foo.bar@example.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -159,11 +158,7 @@
   },
   "filename": "APE-EDX___APE.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:46.779Z",
+  "lastFetchedAt": "2017-10-23T19:32:51.501Z",
   "packageLastFetchedAt": "2017-05-04T22:21:44.695Z",
-  "contributors": [
-    "gpascualg",
-    "Blaron",
-    "psjuan97"
-  ]
+  "archived": false
 }

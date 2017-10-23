@@ -5,7 +5,7 @@
   "owner": {
     "login": "ryanpcmcquen",
     "id": 772937,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/772937?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/772937?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ryanpcmcquen",
     "htmlUrl": "https://github.com/ryanpcmcquen",
@@ -20,12 +20,12 @@
   "description": "A cross-platform electron Amazon Cloud Drive app.",
   "fork": false,
   "createdAt": "2016-02-06T03:43:18.000Z",
-  "updatedAt": "2017-03-13T18:27:07.000Z",
-  "pushedAt": "2016-10-14T13:36:04.000Z",
+  "updatedAt": "2017-09-13T00:26:34.000Z",
+  "pushedAt": "2017-08-25T03:37:17.000Z",
   "homepage": "",
   "size": 11,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -59,23 +59,22 @@
     "scripts": {
       "start": "electron main.js &"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ryanpcmcquen/amatron.git"
-    },
+    "repository": "https://github.com/ryanpcmcquen/amatron",
     "keywords": [
       "Electron",
       "Amazon",
       "cloud drive"
     ],
-    "author": "Ryan P.C. McQuen",
     "license": "GPL-2.0+",
-    "bugs": {
-      "url": "https://github.com/ryanpcmcquen/amatron/issues"
-    },
     "homepage": "https://github.com/ryanpcmcquen/amatron",
     "devDependencies": {
       "electron": "*"
+    },
+    "other": {
+      "author": "Ryan P.C. McQuen",
+      "bugs": {
+        "url": "https://github.com/ryanpcmcquen/amatron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   "svnUrl": "https://github.com/ryanpcmcquen/amatron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:39:55.577Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:57.778Z"
+  "lastFetchedAt": "2017-10-23T18:01:30.472Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:57.778Z",
+  "archived": false
 }

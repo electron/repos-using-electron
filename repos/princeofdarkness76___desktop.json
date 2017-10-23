@@ -164,17 +164,13 @@
   },
   "networkCount": 142,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mattermost-desktop",
     "productName": "Mattermost",
     "version": "1.3.0",
     "description": "Mattermost Desktop application for Windows, Mac and Linux",
     "main": "main.js",
-    "author": {
-      "name": "Yuya Ochiai",
-      "email": "yuya0321@gmail.com"
-    },
     "license": "Apache-2.0",
     "engines": {
       "node": ">=4.2.0"
@@ -234,10 +230,16 @@
         "target": "deb"
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "app": "dist",
-      "output": "release"
+    "other": {
+      "author": {
+        "name": "Yuya Ochiai",
+        "email": "yuya0321@gmail.com"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "app": "dist",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -286,6 +288,6 @@
   "filename": "princeofdarkness76___desktop.json",
   "sourceRepo": "mattermost/desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:05:13.245Z",
+  "lastFetchedAt": "2017-10-23T17:17:06.561Z",
   "packageLastFetchedAt": "2017-05-04T22:47:27.028Z"
 }

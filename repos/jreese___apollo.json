@@ -5,7 +5,7 @@
   "owner": {
     "login": "jreese",
     "id": 6444,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6444?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6444?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jreese",
     "htmlUrl": "https://github.com/jreese",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jreese/apollo/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jreese/apollo/deployments",
   "createdAt": "2013-07-31T05:13:56.000Z",
-  "updatedAt": "2015-07-16T02:34:49.000Z",
+  "updatedAt": "2017-06-08T17:33:35.000Z",
   "pushedAt": "2015-09-07T04:32:47.000Z",
   "gitUrl": "git://github.com/jreese/apollo.git",
   "sshUrl": "git@github.com:jreese/apollo.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/jreese/apollo",
   "homepage": "",
   "size": 1248,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -76,11 +76,6 @@
     "app_id": "com.noswap.apollo",
     "version": "0.1.0",
     "description": "elegant IRC client",
-    "author": {
-      "name": "John Reese",
-      "email": "john@noswap.com",
-      "url": "https://noswap.com"
-    },
     "company": "noswap.com",
     "icons": {
       "default": "images/logobig.png",
@@ -97,7 +92,6 @@
     ],
     "license": "MIT",
     "repository": "jreese/apollo",
-    "bugs": "https://github.com/jreese/apollo/issues",
     "main": "src/main.js",
     "bin": {
       "apollo": "bin/apollo.js"
@@ -121,6 +115,14 @@
     },
     "optionalDependencies": {
       "appdmg": "0.3.x"
+    },
+    "other": {
+      "author": {
+        "name": "John Reese",
+        "email": "john@noswap.com",
+        "url": "https://noswap.com"
+      },
+      "bugs": "https://github.com/jreese/apollo/issues"
     }
   },
   "packageStatus": 200,
@@ -148,6 +150,7 @@
   },
   "filename": "jreese___apollo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:12:08.698Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:43.481Z"
+  "lastFetchedAt": "2017-10-23T19:09:51.728Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:43.481Z",
+  "archived": false
 }

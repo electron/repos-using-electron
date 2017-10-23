@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sentinel",
     "version": "1.0.0",
@@ -72,7 +72,6 @@
     "scripts": {
       "start": "electron src/main/main"
     },
-    "author": "Tino Caer",
     "license": "MIT",
     "dependencies": {
       "codemirror": "^5.21.0",
@@ -82,6 +81,9 @@
     "devDependencies": {
       "gulp": "^3.9.1",
       "gulp-clean-css": "^2.2.1"
+    },
+    "other": {
+      "author": "Tino Caer"
     }
   },
   "packageStatus": 200,
@@ -110,6 +112,6 @@
   "filename": "morlauth___Sentinel.json",
   "sourceRepo": "tcaer/sentinel",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:04.993Z",
+  "lastFetchedAt": "2017-10-23T17:17:33.561Z",
   "packageLastFetchedAt": "2017-05-05T01:20:09.756Z"
 }

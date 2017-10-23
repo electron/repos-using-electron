@@ -72,14 +72,13 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T05:08:22.909Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T20:06:42.766Z",
   "packageJSON": {
     "name": "magnesium",
     "productName": "magnesium",
     "version": "0.0.26",
     "description": "streaming music player",
-    "author": "rob",
     "main": "main/index.js",
     "scripts": {
       "start": "electron .",
@@ -108,10 +107,7 @@
         "assets/**/*"
       ]
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/robblue2x/magnesium.git"
-    },
+    "repository": "https://github.com/robblue2x/magnesium",
     "devDependencies": {
       "ajv": "^5.0.1",
       "babel-core": "^6.24.1",
@@ -151,6 +147,9 @@
       "fs-extra": "^2.1.2",
       "jsdom": "^9.12.0",
       "unescape": "^0.2.0"
+    },
+    "other": {
+      "author": "rob"
     }
   },
   "packageStatus": 200,

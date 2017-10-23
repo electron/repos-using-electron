@@ -5,7 +5,7 @@
   "owner": {
     "login": "D5-SDD",
     "id": 22227306,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22227306?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22227306?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/D5-SDD",
     "htmlUrl": "https://github.com/D5-SDD",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "D5-SDD",
     "id": 22227306,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22227306?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22227306?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/D5-SDD",
     "htmlUrl": "https://github.com/D5-SDD",
@@ -83,7 +83,6 @@
     "name": "brokenmold",
     "productName": "Broken Mold",
     "description": "Dungeons & Dragons companion application",
-    "author": "D5",
     "version": "0.1.1",
     "main": "main.js",
     "scripts": {
@@ -96,13 +95,7 @@
       "start": "cross-env NODE_ENV=dev electron .",
       "watch": "cross-env NODE_ENV=dev webpack --progress --colors --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/D5-SDD/broken-mold.git"
-    },
-    "bugs": {
-      "url": "https://github.com/D5-SDD/broken-mold/issues"
-    },
+    "repository": "https://github.com/D5-SDD/broken-mold",
     "homepage": "https://github.com/D5-SDD/broken-mold#readme",
     "dependencies": {
       "electron": "^1.4.3",
@@ -141,6 +134,12 @@
       "webpack": "^1.13.2",
       "webpack-target-electron-renderer": "^0.4.0",
       "webpack-validator": "^2.2.9"
+    },
+    "other": {
+      "author": "D5",
+      "bugs": {
+        "url": "https://github.com/D5-SDD/broken-mold/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   },
   "filename": "D5-SDD___broken-mold.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:58.343Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:29.893Z"
+  "lastFetchedAt": "2017-10-23T20:55:31.105Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:29.893Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dfmcphee",
     "id": 478990,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/478990?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/478990?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dfmcphee",
     "htmlUrl": "https://github.com/dfmcphee",
@@ -20,21 +20,21 @@
   "description": "A simple proxy for OS X.",
   "fork": false,
   "createdAt": "2015-10-16T18:45:46.000Z",
-  "updatedAt": "2017-03-25T01:56:32.000Z",
+  "updatedAt": "2017-10-05T19:42:25.000Z",
   "pushedAt": "2016-07-16T14:39:57.000Z",
   "homepage": "",
   "size": 42992,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 14,
+  "watchersCount": 14,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 1,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 7,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 14,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,14 +51,7 @@
     "version": "0.0.3",
     "description": "A simple reverse proxy for OS X.",
     "license": "MIT",
-    "repository": {
-      "url": "dfmcphee/simple-proxy"
-    },
-    "author": {
-      "name": "Dominic McPhee",
-      "email": "dominic.mcphee@shopify.com",
-      "url": "dfmcphee.com"
-    },
+    "repository": "https://github.com/dfmcphee/simple-proxy",
     "engines": {
       "node": ">=4"
     },
@@ -85,6 +78,13 @@
     "devDependencies": {
       "electron-packager": "^5.1.0",
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "author": {
+        "name": "Dominic McPhee",
+        "email": "dominic.mcphee@shopify.com",
+        "url": "dfmcphee.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +132,7 @@
   },
   "filename": "dfmcphee___simple-proxy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:23:01.772Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:00.021Z"
+  "lastFetchedAt": "2017-10-23T19:17:47.573Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:00.021Z",
+  "archived": false
 }

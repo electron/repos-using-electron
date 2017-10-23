@@ -5,7 +5,7 @@
   "owner": {
     "login": "shakster96",
     "id": 14940976,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14940976?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14940976?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shakster96",
     "htmlUrl": "https://github.com/shakster96",
@@ -95,20 +95,13 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-api-demos.git"
-    },
+    "repository": "https://github.com/electron/electron-api-demos",
     "keywords": [
       "Electron",
       "API",
       "demo"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-api-demos/issues"
-    },
     "homepage": "https://github.com/electron/electron-api-demos#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -134,6 +127,12 @@
     "standard": {
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-api-demos/issues"
       }
     }
   },
@@ -162,6 +161,7 @@
   },
   "filename": "shakster96___electronDemo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:57:12.814Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:50.882Z"
+  "lastFetchedAt": "2017-10-23T18:45:07.059Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:50.882Z",
+  "archived": false
 }

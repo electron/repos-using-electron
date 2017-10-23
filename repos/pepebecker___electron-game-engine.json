@@ -5,7 +5,7 @@
   "owner": {
     "login": "pepebecker",
     "id": 6045310,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6045310?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6045310?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pepebecker",
     "htmlUrl": "https://github.com/pepebecker",
@@ -74,7 +74,6 @@
       "start": "electron .",
       "prepare": "cp fixes/generateMultiTextureShader.js node_modules/pixi.js/src/core/sprites/webgl/generateMultiTextureShader.js"
     },
-    "author": "Pepe Becker <mail@pepebecker.com>",
     "license": "MIT",
     "devDependencies": {
       "electron-builder": "^6.6.1"
@@ -85,6 +84,9 @@
       "electron": "^1.4.0",
       "pixi.js": "^4.0.1",
       "queue": "^4.0.0"
+    },
+    "other": {
+      "author": "Pepe Becker <mail@pepebecker.com>"
     }
   },
   "packageStatus": 200,
@@ -112,6 +114,7 @@
   },
   "filename": "pepebecker___electron-game-engine.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:39.671Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:21.233Z"
+  "lastFetchedAt": "2017-10-23T17:33:39.428Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:21.233Z",
+  "archived": false
 }

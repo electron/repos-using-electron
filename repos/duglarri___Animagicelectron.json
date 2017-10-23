@@ -5,7 +5,7 @@
   "owner": {
     "login": "duglarri",
     "id": 749652,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/749652?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/749652?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/duglarri",
     "htmlUrl": "https://github.com/duglarri",
@@ -76,15 +76,11 @@
     "version": "0.1.0",
     "main": "main.js",
     "productName": "Animagic",
-    "author": "Eden Logic Ltd",
     "description": "Asset Management System",
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "Animagic",
@@ -92,12 +88,15 @@
       "Management"
     ],
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.2"
+    },
+    "other": {
+      "author": "Eden Logic Ltd",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "filename": "duglarri___Animagicelectron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:38.999Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:05.456Z"
+  "lastFetchedAt": "2017-10-23T20:59:30.208Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:05.456Z",
+  "archived": false
 }

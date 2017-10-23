@@ -5,7 +5,7 @@
   "owner": {
     "login": "c-bata",
     "id": 5564044,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5564044?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5564044?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/c-bata",
     "htmlUrl": "https://github.com/c-bata",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/c-bata/comet/downloads",
   "deploymentsUrl": "https://api.github.com/repos/c-bata/comet/deployments",
   "createdAt": "2016-10-11T06:21:14.000Z",
-  "updatedAt": "2017-05-02T14:56:13.000Z",
+  "updatedAt": "2017-09-29T19:45:09.000Z",
   "pushedAt": "2017-05-04T12:21:15.000Z",
   "gitUrl": "git://github.com/c-bata/comet.git",
   "sshUrl": "git@github.com:c-bata/comet.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/c-bata/comet",
   "homepage": "",
   "size": 19638,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 11,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -80,23 +80,22 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "electron": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/c-bata/shooting-tweets.git"
-    },
+    "repository": "https://github.com/c-bata/shooting-tweets",
     "keywords": [
       "electron",
       "twitter"
     ],
-    "author": "c-bata <contact@c-bata.link>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/c-bata/shooting-tweets/issues"
-    },
     "homepage": "https://github.com/c-bata/shooting-tweets#readme",
     "dependencies": {
       "electron-prebuilt": "^1.4.3",
       "twitter": "^1.4.0"
+    },
+    "other": {
+      "author": "c-bata <contact@c-bata.link>",
+      "bugs": {
+        "url": "https://github.com/c-bata/shooting-tweets/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "c-bata___comet.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:47.057Z",
-  "packageLastFetchedAt": "2017-05-05T14:47:00.976Z"
+  "lastFetchedAt": "2017-10-23T17:14:36.378Z",
+  "packageLastFetchedAt": "2017-05-05T14:47:00.976Z",
+  "archived": false
 }

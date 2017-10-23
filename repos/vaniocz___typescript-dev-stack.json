@@ -5,7 +5,7 @@
   "owner": {
     "login": "vaniocz",
     "id": 9007625,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9007625?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9007625?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vaniocz",
     "htmlUrl": "https://github.com/vaniocz",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "vaniocz",
     "id": 9007625,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9007625?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9007625?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vaniocz",
     "htmlUrl": "https://github.com/vaniocz",
@@ -69,7 +69,6 @@
     "name": "webstack",
     "version": "0.2.0",
     "description": "Development stack for building modern web applications or libraries based on webpack using modified TypeScript 1.8 together with Babel (async/await and generators in ES5)",
-    "author": "Marek Štípek <mario.dweller@seznam.cz>",
     "license": "MIT",
     "keywords": [
       "typescript",
@@ -82,10 +81,7 @@
       "async",
       "await"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/vaniocz/typescript-dev-stack.git"
-    },
+    "repository": "https://github.com/vaniocz/typescript-dev-stack",
     "scripts": {
       "postinstall": "node_modules/.bin/typings install",
       "start": "webpack-dev-server --hot --content-base ./build",
@@ -158,6 +154,9 @@
       "webpack": "^1.12.14",
       "webpack-dev-server": "^1.14.1",
       "webpack-split-by-path": "0.0.8"
+    },
+    "other": {
+      "author": "Marek Štípek <mario.dweller@seznam.cz>"
     }
   },
   "packageStatus": 200,
@@ -205,6 +204,7 @@
   },
   "filename": "vaniocz___typescript-dev-stack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:06:50.952Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:22.576Z"
+  "lastFetchedAt": "2017-10-23T19:23:13.131Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:22.576Z",
+  "archived": false
 }

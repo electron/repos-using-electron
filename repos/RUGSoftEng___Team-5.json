@@ -5,7 +5,7 @@
   "owner": {
     "login": "RUGSoftEng",
     "id": 17049951,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17049951?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17049951?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RUGSoftEng",
     "htmlUrl": "https://github.com/RUGSoftEng",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "RUGSoftEng",
     "id": 17049951,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17049951?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17049951?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RUGSoftEng",
     "htmlUrl": "https://github.com/RUGSoftEng",
@@ -78,16 +78,12 @@
       "pretest": "jshint ./tests && jshint ./app",
       "test": "intern-client config=tests/internLocal"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/RUGSoftEng/Team-5"
-    },
+    "repository": "https://github.com/RUGSoftEng/Team-5",
     "keywords": [
       "language",
       "learning",
       "slimstampen"
     ],
-    "author": "Language Learning team",
     "license": "ISC",
     "homepage": "https://github.com/RUGSoftEng/Team-5#readme",
     "devDependencies": {
@@ -113,6 +109,9 @@
       "sqlite": "0.0.4",
       "underscore": "^1.8.3",
       "xlsx": "^0.8.0"
+    },
+    "other": {
+      "author": "Language Learning team"
     }
   },
   "packageStatus": 200,
@@ -160,6 +159,7 @@
   },
   "filename": "RUGSoftEng___Team-5.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:36.414Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:46.333Z"
+  "lastFetchedAt": "2017-10-23T18:28:32.303Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:46.333Z",
+  "archived": false
 }

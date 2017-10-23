@@ -6,7 +6,7 @@
   "owner": {
     "login": "Revolutionary-Games",
     "id": 2249537,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2249537?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2249537?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Revolutionary-Games",
     "htmlUrl": "https://github.com/Revolutionary-Games",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Revolutionary-Games/Thrive-Launcher",
-  "description": "Thrive Launcher for all your Thrive-launching-needs",
+  "description": "Thrive Launcher for installing and automatically updating Thrive",
   "fork": false,
   "url": "https://api.github.com/repos/Revolutionary-Games/Thrive-Launcher",
   "forksUrl": "https://api.github.com/repos/Revolutionary-Games/Thrive-Launcher/forks",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/Revolutionary-Games/Thrive-Launcher/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Revolutionary-Games/Thrive-Launcher/deployments",
   "createdAt": "2017-04-12T18:20:29.000Z",
-  "updatedAt": "2017-04-13T08:56:00.000Z",
-  "pushedAt": "2017-04-30T11:03:02.000Z",
+  "updatedAt": "2017-09-13T19:03:09.000Z",
+  "pushedAt": "2017-09-13T19:02:10.000Z",
   "gitUrl": "git://github.com/Revolutionary-Games/Thrive-Launcher.git",
   "sshUrl": "git@github.com:Revolutionary-Games/Thrive-Launcher.git",
   "cloneUrl": "https://github.com/Revolutionary-Games/Thrive-Launcher.git",
   "svnUrl": "https://github.com/Revolutionary-Games/Thrive-Launcher",
-  "homepage": null,
-  "size": 1651,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "homepage": "",
+  "size": 1620,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -54,9 +54,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 2,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "Revolutionary-Games",
     "id": 2249537,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2249537?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2249537?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Revolutionary-Games",
     "htmlUrl": "https://github.com/Revolutionary-Games",
@@ -85,9 +85,9 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 16,
+  "subscribersCount": 17,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:38:38.912Z",
+  "lastFetchedAt": "2017-10-23T20:37:05.004Z",
   "packageJSON": {
     "name": "thrive-launcher",
     "productName": "Thrive Launcher",
@@ -103,7 +103,6 @@
       "launcher",
       "installer"
     ],
-    "author": "Revolutionary Games",
     "license": "MIT",
     "devDependencies": {
       "electron": "~1.6.2"
@@ -116,8 +115,12 @@
       "moment": "^2.18.1",
       "request": "^2.81.0",
       "strip-json-comments": "^2.0.1"
+    },
+    "other": {
+      "author": "Revolutionary Games"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:49:12.214Z"
+  "packageLastFetchedAt": "2017-05-05T14:49:12.214Z",
+  "archived": false
 }

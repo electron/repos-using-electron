@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fritzbox-menulet",
     "productName": "FritzboxMenulet",
@@ -73,14 +73,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "Felix Kaminski",
-      "email": "kaminski.felix@gmail.com"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
     "keywords": [],
     "devDependencies": {
@@ -162,6 +155,12 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Felix Kaminski",
+        "email": "kaminski.felix@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -209,6 +208,6 @@
   },
   "filename": "Figedi___Fritzbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:20.750Z",
+  "lastFetchedAt": "2017-10-23T17:58:20.134Z",
   "packageLastFetchedAt": "2017-05-05T15:33:10.971Z"
 }

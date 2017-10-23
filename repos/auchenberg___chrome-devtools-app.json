@@ -5,7 +5,7 @@
   "owner": {
     "login": "auchenberg",
     "id": 173559,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/173559?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/173559?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/auchenberg",
     "htmlUrl": "https://github.com/auchenberg",
@@ -20,21 +20,21 @@
   "description": "Chrome DevTools packaged as an app via Electron",
   "fork": false,
   "createdAt": "2014-11-17T06:06:51.000Z",
-  "updatedAt": "2017-04-28T13:05:45.000Z",
+  "updatedAt": "2017-10-20T14:12:58.000Z",
   "pushedAt": "2015-11-20T08:39:32.000Z",
   "homepage": "",
   "size": 226344,
-  "stargazersCount": 1389,
-  "watchersCount": 1389,
+  "stargazersCount": 1430,
+  "watchersCount": 1430,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 81,
-  "openIssuesCount": 15,
-  "openIssues": 15,
-  "watchers": 1389,
+  "forksCount": 86,
+  "openIssuesCount": 16,
+  "openIssues": 16,
+  "watchers": 1430,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,14 +48,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 81,
-  "subscribersCount": 49,
+  "networkCount": 86,
+  "subscribersCount": 46,
   "status": 200,
   "packageJSON": {
     "name": "chrome-devtools",
     "version": "1.1.0",
     "description": "Chrome DevTools packaged as an desktop app",
-    "author": "Kenneth Auchenberg",
     "license": "MIT",
     "dependencies": {
       "bower": "~1.3.12"
@@ -84,14 +83,14 @@
       "start": "node ./tasks/start",
       "test": "node ./tasks/start --env=test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/auchenberg/chrome-devtools-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/auchenberg/chrome-devtools-app/issues"
-    },
-    "homepage": "https://github.com/auchenberg/chrome-devtools-app"
+    "repository": "https://github.com/auchenberg/chrome-devtools-app",
+    "homepage": "https://github.com/auchenberg/chrome-devtools-app",
+    "other": {
+      "author": "Kenneth Auchenberg",
+      "bugs": {
+        "url": "https://github.com/auchenberg/chrome-devtools-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +137,7 @@
   "svnUrl": "https://github.com/auchenberg/chrome-devtools-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:55:49.552Z",
-  "packageLastFetchedAt": "2017-05-05T14:52:57.606Z"
+  "lastFetchedAt": "2017-10-23T20:44:12.806Z",
+  "packageLastFetchedAt": "2017-05-05T14:52:57.606Z",
+  "archived": false
 }

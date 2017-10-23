@@ -5,7 +5,7 @@
   "owner": {
     "login": "kid143",
     "id": 2619055,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2619055?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2619055?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kid143",
     "htmlUrl": "https://github.com/kid143",
@@ -61,17 +61,13 @@
       "start": "NODE_ENV=production electron .",
       "start-dev": "NODE_ENV=development electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/kid143/babel-enc-coffee.git"
-    },
+    "repository": "https://github.com/kid143/babel-enc-coffee",
     "keywords": [
       "coffeescript",
       "encoding",
       "react.js",
       "electron"
     ],
-    "author": "kid143",
     "license": "MIT",
     "devDependencies": {
       "coffee-loader": "^0.7.2",
@@ -95,6 +91,9 @@
       "jquery": "^2.1.4",
       "react-bootstrap": "^0.27.3",
       "uuid": "^2.0.1"
+    },
+    "other": {
+      "author": "kid143"
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "kid143___babel-enc-coffee.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:32:35.572Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:46.474Z"
+  "lastFetchedAt": "2017-10-23T17:51:26.280Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:46.474Z",
+  "archived": false
 }

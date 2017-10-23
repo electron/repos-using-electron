@@ -5,7 +5,7 @@
   "owner": {
     "login": "vlewin",
     "id": 611466,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/611466?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/611466?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vlewin",
     "htmlUrl": "https://github.com/vlewin",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/vlewin/electron-tray-player/downloads",
   "deploymentsUrl": "https://api.github.com/repos/vlewin/electron-tray-player/deployments",
   "createdAt": "2016-05-28T18:24:25.000Z",
-  "updatedAt": "2017-04-02T16:11:40.000Z",
+  "updatedAt": "2017-09-08T22:49:17.000Z",
   "pushedAt": "2017-02-01T19:45:11.000Z",
   "gitUrl": "git://github.com/vlewin/electron-tray-player.git",
   "sshUrl": "git@github.com:vlewin/electron-tray-player.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/vlewin/electron-tray-player",
   "homepage": "",
   "size": 6250,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 4,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
-  "subscribersCount": 3,
+  "networkCount": 4,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "electron-tray-player",
@@ -84,16 +84,12 @@
       "build": "electron-packager . TrayPlayer --platform=darwin --arch=x64 --app-version=1.0.0 --overwrite --icon='./images/App.icns' --out=build --ignore='node_modules/electron-(packager|prebuild)'",
       "build:all": "electron-packager . TrayPlayer --platform=all --arch=x64 --app-version=1.0.0 --overwrite --icon='./images/App.icns' --out=build --ignore='node_modules/electron-(packager|prebuild)'"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/vlewin/electron-tray-player"
-    },
+    "repository": "https://github.com/vlewin/electron-tray-player",
     "keywords": [
       "electron",
       "vue",
       "framework7"
     ],
-    "author": "vlewin",
     "license": "MIT",
     "dependencies": {
       "electron-rpc": "latest",
@@ -121,6 +117,9 @@
         "TrayPlayer.app/**",
         "TrayPlayer-darwin-x64.app/**"
       ]
+    },
+    "other": {
+      "author": "vlewin"
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   },
   "filename": "vlewin___electron-tray-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:36:18.812Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:54.085Z"
+  "lastFetchedAt": "2017-10-23T20:06:56.818Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:54.085Z",
+  "archived": false
 }

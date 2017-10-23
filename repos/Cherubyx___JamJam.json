@@ -5,7 +5,7 @@
   "owner": {
     "login": "Cherubyx",
     "id": 4602301,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4602301?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4602301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cherubyx",
     "htmlUrl": "https://github.com/Cherubyx",
@@ -60,15 +60,8 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Cherubyx/JamJam.git"
-    },
-    "author": "Tiffany Ip",
+    "repository": "https://github.com/Cherubyx/JamJam",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Cherubyx/JamJam.git/issues"
-    },
     "homepage": "https://github.com/Cherubyx/JamJam.git#readme",
     "dependencies": {
       "axios": "^0.12.0",
@@ -84,6 +77,12 @@
       "react-dom": "^15.1.0",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "Tiffany Ip",
+      "bugs": {
+        "url": "https://github.com/Cherubyx/JamJam.git/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "Cherubyx___JamJam.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:38.645Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:48.907Z"
+  "lastFetchedAt": "2017-10-23T21:03:15.526Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:48.907Z",
+  "archived": false
 }

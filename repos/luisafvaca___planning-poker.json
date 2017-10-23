@@ -5,7 +5,7 @@
   "owner": {
     "login": "luisafvaca",
     "id": 11619953,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11619953?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11619953?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/luisafvaca",
     "htmlUrl": "https://github.com/luisafvaca",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "planning-poker",
@@ -74,16 +74,8 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/luisafvaca/planning-poker.git"
-    },
-    "author": "Luisa Fernanda Vaca Correa <luisafernanda9111@gmail.com> (https://github.com/luisafvaca)",
-    "contributors": "Guillermo Rodas <garethderioth@gmail.com> (http://guillermorodas.com)",
+    "repository": "https://github.com/luisafvaca/planning-poker",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/luisafvaca/planning-poker/issues"
-    },
     "homepage": "https://github.com/luisafvaca/planning-poker#readme",
     "devDependencies": {
       "electron-prebuilt": "0.37.7",
@@ -93,7 +85,14 @@
       "eslint-plugin-jsx-a11y": "1.2.0",
       "eslint-plugin-react": "5.0.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Luisa Fernanda Vaca Correa <luisafernanda9111@gmail.com> (https://github.com/luisafvaca)",
+      "bugs": {
+        "url": "https://github.com/luisafvaca/planning-poker/issues"
+      },
+      "contributors": "Guillermo Rodas <garethderioth@gmail.com> (http://guillermorodas.com)"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +119,7 @@
   },
   "filename": "luisafvaca___planning-poker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:45:05.761Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:17.214Z"
+  "lastFetchedAt": "2017-10-23T18:36:50.299Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:17.214Z",
+  "archived": false
 }

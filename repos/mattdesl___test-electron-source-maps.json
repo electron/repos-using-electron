@@ -5,7 +5,7 @@
   "owner": {
     "login": "mattdesl",
     "id": 1383811,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1383811?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1383811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mattdesl",
     "htmlUrl": "https://github.com/mattdesl",
@@ -77,11 +77,6 @@
     "description": "testing a bug",
     "main": "index.js",
     "license": "MIT",
-    "author": {
-      "name": "Matt DesLauriers",
-      "email": "dave.des@gmail.com",
-      "url": "https://github.com/mattdesl"
-    },
     "private": true,
     "dependencies": {},
     "devDependencies": {
@@ -96,13 +91,17 @@
       "browser": "npm run bundle && http-server -o"
     },
     "keywords": [],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mattdesl/test-electron-source-maps.git"
-    },
+    "repository": "https://github.com/mattdesl/test-electron-source-maps",
     "homepage": "https://github.com/mattdesl/test-electron-source-maps",
-    "bugs": {
-      "url": "https://github.com/mattdesl/test-electron-source-maps/issues"
+    "other": {
+      "author": {
+        "name": "Matt DesLauriers",
+        "email": "dave.des@gmail.com",
+        "url": "https://github.com/mattdesl"
+      },
+      "bugs": {
+        "url": "https://github.com/mattdesl/test-electron-source-maps/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "mattdesl___test-electron-source-maps.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:47.211Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:49.457Z"
+  "lastFetchedAt": "2017-10-23T20:58:23.402Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:49.457Z",
+  "archived": false
 }

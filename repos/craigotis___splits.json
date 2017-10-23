@@ -5,7 +5,7 @@
   "owner": {
     "login": "craigotis",
     "id": 1620098,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1620098?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1620098?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/craigotis",
     "htmlUrl": "https://github.com/craigotis",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Splits is a running stats analyzer",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -64,7 +60,6 @@
       "node": ">= 0.10.0"
     },
     "main": "main.js",
-    "author": "Craig Otis",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -88,6 +83,13 @@
       "ember-truth-helpers": "1.2.0",
       "emberx-select": "2.1.1",
       "loader.js": "^4.0.1"
+    },
+    "other": {
+      "author": "Craig Otis",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +137,7 @@
   "svnUrl": "https://github.com/craigotis/splits",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:41:01.580Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:15.711Z"
+  "lastFetchedAt": "2017-10-23T20:07:03.828Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:15.711Z",
+  "archived": false
 }

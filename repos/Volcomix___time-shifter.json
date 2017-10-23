@@ -5,7 +5,7 @@
   "owner": {
     "login": "Volcomix",
     "id": 7324857,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7324857?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7324857?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Volcomix",
     "htmlUrl": "https://github.com/Volcomix",
@@ -50,9 +50,6 @@
     "version": "1.0.0",
     "description": "Todo list app with time shifting capabilities",
     "main": "main.js",
-    "directories": {
-      "doc": "doc"
-    },
     "scripts": {
       "build": "webpack",
       "serve": "webpack-dev-server --inline --hot",
@@ -61,7 +58,6 @@
       "start:transparent": "electron . --dev --enable-transparent-visuals",
       "start": "npm run build && electron ."
     },
-    "author": "Volcomix",
     "license": "ISC",
     "dependencies": {
       "lodash": "latest",
@@ -83,6 +79,12 @@
       "typescript": "latest",
       "webpack": "latest",
       "webpack-dev-server": "latest"
+    },
+    "other": {
+      "author": "Volcomix",
+      "directories": {
+        "doc": "doc"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +132,7 @@
   "svnUrl": "https://github.com/Volcomix/time-shifter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:18:54.646Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:25.722Z"
+  "lastFetchedAt": "2017-10-23T20:36:16.954Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:25.722Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "casperstorm",
     "id": 2248455,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2248455?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2248455?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/casperstorm",
     "htmlUrl": "https://github.com/casperstorm",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/casperstorm/preme-bot/downloads",
   "deploymentsUrl": "https://api.github.com/repos/casperstorm/preme-bot/deployments",
   "createdAt": "2016-08-26T14:31:59.000Z",
-  "updatedAt": "2016-08-30T20:52:20.000Z",
+  "updatedAt": "2017-10-23T00:28:25.000Z",
   "pushedAt": "2016-09-01T12:48:00.000Z",
   "gitUrl": "git://github.com/casperstorm/preme-bot.git",
   "sshUrl": "git@github.com:casperstorm/preme-bot.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/casperstorm/preme-bot",
   "homepage": null,
   "size": 1985,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -76,11 +76,7 @@
       "pack": "npm run compile && build --dir",
       "dist": "npm run compile && build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/casperstorm/preme-bot.git"
-    },
-    "author": "Casper Storm Larsen",
+    "repository": "https://github.com/casperstorm/preme-bot",
     "license": "MIT",
     "dependencies": {
       "cheerio": "^0.22.0",
@@ -110,6 +106,9 @@
           }
         ]
       }
+    },
+    "other": {
+      "author": "Casper Storm Larsen"
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "casperstorm___preme-bot.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:15.954Z",
-  "packageLastFetchedAt": "2017-05-05T15:42:25.293Z"
+  "lastFetchedAt": "2017-10-23T18:13:04.630Z",
+  "packageLastFetchedAt": "2017-05-05T15:42:25.293Z",
+  "archived": false
 }

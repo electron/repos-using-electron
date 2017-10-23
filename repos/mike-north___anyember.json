@@ -5,7 +5,7 @@
   "owner": {
     "login": "mike-north",
     "id": 558005,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/558005?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/558005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mike-north",
     "htmlUrl": "https://github.com/mike-north",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-04-07T21:53:39.000Z",
   "updatedAt": "2016-04-07T21:54:12.000Z",
-  "pushedAt": "2016-04-08T11:25:29.000Z",
+  "pushedAt": "2017-05-22T11:44:06.000Z",
   "homepage": null,
-  "size": 2241,
+  "size": 2240,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "Objective-C",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": true,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for anyember goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -144,6 +139,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -191,6 +193,7 @@
   },
   "filename": "mike-north___anyember.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:39:36.577Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:09.502Z"
+  "lastFetchedAt": "2017-10-23T19:15:32.356Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:09.502Z",
+  "archived": false
 }

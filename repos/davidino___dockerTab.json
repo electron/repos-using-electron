@@ -5,7 +5,7 @@
   "owner": {
     "login": "davidino",
     "id": 265253,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/265253?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/265253?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/davidino",
     "htmlUrl": "https://github.com/davidino",
@@ -83,11 +83,7 @@
       "build": "electron-packager . Monu --platform=darwin --arch=x64 --version=0.36.4 --icon=images/Monu.icns",
       "publish": "publish-release --template notes.md --assets Monu.zip"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/davidino/dockerTab"
-    },
-    "author": "David Funaro <ing.davidino@gmail.com>",
+    "repository": "https://github.com/davidino/dockerTab",
     "license": "BSD-2-Clause",
     "dependencies": {
       "debug": "^2.1.3",
@@ -111,6 +107,9 @@
       "ignore": [
         "Monu.app/**"
       ]
+    },
+    "other": {
+      "author": "David Funaro <ing.davidino@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "davidino___dockerTab.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:29.306Z",
-  "packageLastFetchedAt": "2017-05-05T17:20:59.017Z"
+  "lastFetchedAt": "2017-10-23T18:08:22.147Z",
+  "packageLastFetchedAt": "2017-05-05T17:20:59.017Z",
+  "archived": false
 }

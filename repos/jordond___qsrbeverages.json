@@ -5,7 +5,7 @@
   "owner": {
     "login": "jordond",
     "id": 528792,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/528792?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/528792?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jordond",
     "htmlUrl": "https://github.com/jordond",
@@ -70,7 +70,6 @@
     "version": "0.0.1",
     "description": "QSR Beverages",
     "main": "./bin/server.js",
-    "author": "Jordon de Hoog",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 0",
       "lint": "eslint -c .eslintrc src",
@@ -182,6 +181,9 @@
       "style-loader": "^0.13.0",
       "url-loader": "^0.5.7",
       "webpack": "^1.12.14"
+    },
+    "other": {
+      "author": "Jordon de Hoog"
     }
   },
   "packageStatus": 200,
@@ -209,6 +211,7 @@
   },
   "filename": "jordond___qsrbeverages.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:44:08.377Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:22.133Z"
+  "lastFetchedAt": "2017-10-23T17:39:27.997Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:22.133Z",
+  "archived": false
 }

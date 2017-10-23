@@ -5,7 +5,7 @@
   "owner": {
     "login": "Maqsim",
     "id": 1107049,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1107049?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1107049?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Maqsim",
     "htmlUrl": "https://github.com/Maqsim",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Maqsim/stackoverflow-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Maqsim/stackoverflow-app/deployments",
   "createdAt": "2016-06-07T11:18:14.000Z",
-  "updatedAt": "2017-01-26T20:29:59.000Z",
+  "updatedAt": "2017-10-15T19:22:07.000Z",
   "pushedAt": "2017-02-21T23:37:09.000Z",
   "gitUrl": "git://github.com/Maqsim/stackoverflow-app.git",
   "sshUrl": "git@github.com:Maqsim/stackoverflow-app.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Maqsim/stackoverflow-app",
   "homepage": "http://livecoding.tv/max_diachenko",
   "size": 2872,
-  "stargazersCount": 23,
-  "watchersCount": 23,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 23,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -95,20 +95,13 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Maqsim/stackoverflow-app.git"
-    },
+    "repository": "https://github.com/Maqsim/stackoverflow-app",
     "keywords": [
       "Stackoverflow",
       "Desktop",
       "App"
     ],
-    "author": "Max Diachenko",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Maqsim/stackoverflow-app/issues"
-    },
     "homepage": "https://github.com/Maqsim/stackoverflow-app#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -143,6 +136,12 @@
       "env": {
         "mocha": true
       }
+    },
+    "other": {
+      "author": "Max Diachenko",
+      "bugs": {
+        "url": "https://github.com/Maqsim/stackoverflow-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -170,6 +169,7 @@
   },
   "filename": "Maqsim___stackoverflow-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:06:03.351Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:42.079Z"
+  "lastFetchedAt": "2017-10-23T17:38:39.895Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:42.079Z",
+  "archived": false
 }

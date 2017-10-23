@@ -5,7 +5,7 @@
   "owner": {
     "login": "umbrella-yuri-makarenko",
     "id": 9796561,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9796561?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9796561?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/umbrella-yuri-makarenko",
     "htmlUrl": "https://github.com/umbrella-yuri-makarenko",
@@ -60,25 +60,24 @@
       "start": "electron .",
       "build": "electron-packager /Users/makxxx/workspace/sites/wordpress-admin/ --platform=darwin --arch=x64 --overwrite --out=bin --tmpdir=false"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^7.5.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "umbrella-yuri-makarenko___wordpress-admin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:59.508Z",
-  "packageLastFetchedAt": "2017-05-05T01:33:49.027Z"
+  "lastFetchedAt": "2017-10-23T18:39:26.506Z",
+  "packageLastFetchedAt": "2017-05-05T01:33:49.027Z",
+  "archived": false
 }

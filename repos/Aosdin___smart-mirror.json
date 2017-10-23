@@ -5,7 +5,7 @@
   "owner": {
     "login": "Aosdin",
     "id": 6511212,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6511212?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6511212?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Aosdin",
     "htmlUrl": "https://github.com/Aosdin",
@@ -76,21 +76,14 @@
       "microphone-debug": "electron scripts/microphone-debug/main.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "install": "^0.6.1",
@@ -104,6 +97,12 @@
       "express": "^4.13.4",
       "fitbit-oauth2": "0.0.1",
       "fs": "0.0.2"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "Aosdin___smart-mirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:55.058Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:45.276Z"
+  "lastFetchedAt": "2017-10-23T19:08:43.615Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:45.276Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "rickmed",
     "id": 7104786,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7104786?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7104786?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rickmed",
     "htmlUrl": "https://github.com/rickmed",
@@ -84,21 +84,14 @@
       "electron-main-dev": "nodemon -w app/es6-main.js -x \"babel app/es6-main.js --out-file app/main.js && electron app/main.js",
       "electron-dev": "start npm run webpack-dev && npm run electron-main-dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "dependencies": {
       "mobx": "^2.0.0",
@@ -119,6 +112,12 @@
       "electron-reload": "^0.3.0",
       "webpack": "^1.12.14",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   "filename": "rickmed___Electron-Babel-Boostrap.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:50:58.587Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:57.075Z"
+  "lastFetchedAt": "2017-10-23T20:48:25.326Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:57.075Z",
+  "archived": false
 }

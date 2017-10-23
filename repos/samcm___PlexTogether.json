@@ -6,7 +6,7 @@
   "owner": {
     "login": "samcm",
     "id": 8144395,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8144395?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8144395?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/samcm",
     "htmlUrl": "https://github.com/samcm",
@@ -36,41 +36,46 @@
   "downloadsUrl": "https://api.github.com/repos/samcm/PlexTogether/downloads",
   "deploymentsUrl": "https://api.github.com/repos/samcm/PlexTogether/deployments",
   "createdAt": "2016-12-03T07:11:17.000Z",
-  "updatedAt": "2017-05-03T21:56:53.000Z",
-  "pushedAt": "2017-04-25T07:12:10.000Z",
+  "updatedAt": "2017-10-22T11:47:11.000Z",
+  "pushedAt": "2017-09-24T05:52:12.000Z",
   "gitUrl": "git://github.com/samcm/PlexTogether.git",
   "sshUrl": "git@github.com:samcm/PlexTogether.git",
   "cloneUrl": "https://github.com/samcm/PlexTogether.git",
   "svnUrl": "https://github.com/samcm/PlexTogether",
   "homepage": "https://plextogether.com",
-  "size": 1870,
-  "stargazersCount": 191,
-  "watchersCount": 191,
+  "size": 2200,
+  "stargazersCount": 263,
+  "watchersCount": 263,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
+  "forksCount": 16,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 191,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 263,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 11,
-  "subscribersCount": 31,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
+  "networkCount": 16,
+  "subscribersCount": 34,
   "status": 200,
   "packageJSON": {
     "name": "pt",
     "version": "1.0.0",
     "description": "PlexTogether",
-    "author": "samcm",
     "private": true,
     "scripts": {
       "dev": "node build/dev-server.js",
@@ -168,6 +173,9 @@
       "webpack-dev-middleware": "^1.8.3",
       "webpack-hot-middleware": "^2.12.2",
       "webpack-merge": "^0.14.1"
+    },
+    "other": {
+      "author": "samcm"
     }
   },
   "packageStatus": 200,
@@ -194,6 +202,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:20:16.831Z",
-  "packageLastFetchedAt": "2017-05-04T22:28:30.110Z"
+  "lastFetchedAt": "2017-10-23T20:59:56.665Z",
+  "packageLastFetchedAt": "2017-05-04T22:28:30.110Z",
+  "archived": false
 }

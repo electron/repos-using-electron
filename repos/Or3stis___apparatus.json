@@ -5,7 +5,7 @@
   "owner": {
     "login": "Or3stis",
     "id": 11923550,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11923550?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11923550?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Or3stis",
     "htmlUrl": "https://github.com/Or3stis",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Or3stis/apparatus",
-  "description": "A graphical security analysis tool for networks",
+  "description": "A graphical security analysis tool for IoT networks",
   "fork": false,
   "url": "https://api.github.com/repos/Or3stis/apparatus",
   "forksUrl": "https://api.github.com/repos/Or3stis/apparatus/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Or3stis/apparatus/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Or3stis/apparatus/deployments",
   "createdAt": "2016-05-30T20:24:25.000Z",
-  "updatedAt": "2017-03-18T00:24:37.000Z",
-  "pushedAt": "2017-04-26T20:30:49.000Z",
+  "updatedAt": "2017-10-23T02:20:19.000Z",
+  "pushedAt": "2017-10-23T17:25:31.000Z",
   "gitUrl": "git://github.com/Or3stis/apparatus.git",
   "sshUrl": "git@github.com:Or3stis/apparatus.git",
   "cloneUrl": "https://github.com/Or3stis/apparatus.git",
   "svnUrl": "https://github.com/Or3stis/apparatus",
-  "homepage": "",
-  "size": 45015,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "homepage": "https://or3stis.github.io/apparatus/",
+  "size": 58265,
+  "stargazersCount": 153,
+  "watchersCount": 153,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
-  "hasPages": false,
-  "forksCount": 0,
+  "hasPages": true,
+  "forksCount": 60,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 153,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
-  "subscribersCount": 2,
+  "networkCount": 60,
+  "subscribersCount": 25,
   "status": 200,
   "packageJSON": {
     "name": "apparatus",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Or3stis/apparatus"
-    },
+    "repository": "https://github.com/Or3stis/apparatus",
     "keywords": [
       "Electron",
       "network",
       "security"
     ],
-    "author": "or3stis",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Or3stis/apparatus//issues"
-    },
     "homepage": "https://github.com/Or3stis/apparatus/#readme",
     "devDependencies": {
       "devtron": "^1.4.0",
       "electron": "^1.6.2",
       "jsonfile": "^2.4.0"
+    },
+    "other": {
+      "author": "or3stis",
+      "bugs": {
+        "url": "https://github.com/Or3stis/apparatus//issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,7 +123,8 @@
     }
   },
   "filename": "Or3stis___apparatus.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:40:00.975Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:37.050Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T20:45:27.104Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:37.050Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "vnabet",
     "id": 1830490,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1830490?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1830490?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vnabet",
     "htmlUrl": "https://github.com/vnabet",
@@ -80,21 +80,14 @@
       "start": "electron main.js",
       "install": "typings install"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "awesome-typescript-loader": "^0.17.0",
@@ -116,6 +109,12 @@
       "rxjs": "5.0.0-beta.6",
       "zone.js": "~0.6.12",
       "es7-reflect-metadata": "^1.6.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "vnabet___angular2-dev.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:25.940Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:47.812Z"
+  "lastFetchedAt": "2017-10-23T17:30:31.121Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:47.812Z",
+  "archived": false
 }

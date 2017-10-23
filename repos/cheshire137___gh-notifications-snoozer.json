@@ -5,7 +5,7 @@
   "owner": {
     "login": "cheshire137",
     "id": 82317,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/82317?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/82317?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cheshire137",
     "htmlUrl": "https://github.com/cheshire137",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/cheshire137/gh-notifications-snoozer/downloads",
   "deploymentsUrl": "https://api.github.com/repos/cheshire137/gh-notifications-snoozer/deployments",
   "createdAt": "2016-07-12T22:59:44.000Z",
-  "updatedAt": "2017-02-15T16:16:07.000Z",
+  "updatedAt": "2017-08-02T18:14:34.000Z",
   "pushedAt": "2017-03-21T21:31:50.000Z",
   "gitUrl": "git://github.com/cheshire137/gh-notifications-snoozer.git",
   "sshUrl": "git@github.com:cheshire137/gh-notifications-snoozer.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/cheshire137/gh-notifications-snoozer",
   "homepage": "",
   "size": 1316,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 25,
   "openIssues": 25,
-  "watchers": 9,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 9,
-  "subscribersCount": 3,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "GHSnooze",
@@ -129,16 +129,15 @@
       "build-linux": "npm run build-css && if [ -d dist/GHSnooze-linux-ia32 ]; then rm -r dist/GHSnooze-linux-ia32; fi && if [ -d dist/GHSnooze-linux-x64 ]; then rm -r dist/GHSnooze-linux-x64; fi && electron-packager . --version=1.4.3 --out=dist --app-version=$npm_package_version --prune --asar --overwrite --platform=linux --arch=all --ignore=test",
       "build-windows-wine": "npm run build-css && if [ -d dist/GHSnooze-win32-ia32 ]; then rm -r dist/GHSnooze-win32-ia32; fi && if [ -d dist/GHSnooze-win32-x64 ]; then rm -r dist/GHSnooze-win32-x64; fi && electron-packager . --version=1.4.3 --out=dist --app-version=$npm_package_version --prune --asar --overwrite --platform=win32 --arch=all --ignore=test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cheshire137/gh-notifications-snoozer.git"
-    },
-    "author": "probablycorey, cheshire137, summasmiff",
+    "repository": "https://github.com/cheshire137/gh-notifications-snoozer",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cheshire137/gh-notifications-snoozer/issues"
-    },
-    "homepage": "https://github.com/cheshire137/gh-notifications-snoozer#readme"
+    "homepage": "https://github.com/cheshire137/gh-notifications-snoozer#readme",
+    "other": {
+      "author": "probablycorey, cheshire137, summasmiff",
+      "bugs": {
+        "url": "https://github.com/cheshire137/gh-notifications-snoozer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -165,6 +164,7 @@
   },
   "filename": "cheshire137___gh-notifications-snoozer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:16.320Z",
-  "packageLastFetchedAt": "2017-05-05T13:58:04.525Z"
+  "lastFetchedAt": "2017-10-23T19:35:18.097Z",
+  "packageLastFetchedAt": "2017-05-05T13:58:04.525Z",
+  "archived": false
 }

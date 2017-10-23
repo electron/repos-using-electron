@@ -5,7 +5,7 @@
   "owner": {
     "login": "Mercieral",
     "id": 10813646,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10813646?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10813646?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mercieral",
     "htmlUrl": "https://github.com/Mercieral",
@@ -69,16 +69,12 @@
     "name": "electron_with_notifications",
     "version": "1.1.0",
     "description": "A repository that recreates an issue where node-notifier will silently fail when using electron's ASAR archive to package applications",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Mercieral/Electron-with-notifications.git"
-    },
+    "repository": "https://github.com/Mercieral/Electron-with-notifications",
     "scripts": {
       "packageWIN": "build --win",
       "packageMAC": "build --mac",
       "start": "cd electron_build && node ./start-electron.js development"
     },
-    "author": "Aaron Mercier",
     "license": "",
     "dependencies": {
       "node-notifier": "^4.6.0"
@@ -95,13 +91,16 @@
       },
       "asar": true
     },
-    "directories": {
-      "app": "electron_build"
-    },
     "engineStrict": true,
     "engines": {
       "node": ">=0.12.7 <4.0.0",
       "npm": ">=2.11.3 <2.14.2"
+    },
+    "other": {
+      "author": "Aaron Mercier",
+      "directories": {
+        "app": "electron_build"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "Mercieral___Electron-with-notifications.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:44:32.496Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:46.255Z"
+  "lastFetchedAt": "2017-10-23T17:32:47.468Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:46.255Z",
+  "archived": false
 }

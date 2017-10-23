@@ -5,7 +5,7 @@
   "owner": {
     "login": "unfoldingWord-dev",
     "id": 11397506,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11397506?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11397506?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/unfoldingWord-dev",
     "htmlUrl": "https://github.com/unfoldingWord-dev",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/unfoldingWord-dev/ts-desktop/deployments",
   "createdAt": "2015-01-05T18:52:07.000Z",
   "updatedAt": "2017-04-30T20:36:42.000Z",
-  "pushedAt": "2017-04-15T17:11:58.000Z",
+  "pushedAt": "2017-08-23T17:42:10.000Z",
   "gitUrl": "git://github.com/unfoldingWord-dev/ts-desktop.git",
   "sshUrl": "git@github.com:unfoldingWord-dev/ts-desktop.git",
   "cloneUrl": "https://github.com/unfoldingWord-dev/ts-desktop.git",
   "svnUrl": "https://github.com/unfoldingWord-dev/ts-desktop",
   "homepage": "https://unfoldingword.org/translationstudio/",
-  "size": 295146,
+  "size": 295149,
   "stargazersCount": 16,
   "watchersCount": 16,
   "language": "HTML",
@@ -50,10 +50,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 19,
+  "forksCount": 22,
   "mirrorUrl": null,
-  "openIssuesCount": 128,
-  "openIssues": 128,
+  "openIssuesCount": 144,
+  "openIssues": 144,
   "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
@@ -71,7 +71,7 @@
   "organization": {
     "login": "unfoldingWord-dev",
     "id": 11397506,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11397506?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11397506?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/unfoldingWord-dev",
     "htmlUrl": "https://github.com/unfoldingWord-dev",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/unfoldingWord-dev/received_events",
     "type": "Organization"
   },
-  "networkCount": 19,
+  "networkCount": 22,
   "subscribersCount": 17,
   "status": 200,
   "packageJSON": {
@@ -93,16 +93,7 @@
     "description": "A utility for translating the Bible and biblical content into any language.",
     "keywords": [],
     "homepage": "https://github.com/unfoldingWord-dev/ts-desktop",
-    "bugs": "https://github.com/unfoldingWord-dev/ts-desktop/issues",
-    "author": {
-      "name": "Joel Lonbeck",
-      "email": "",
-      "url": "https://github.com/neutrinog"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:unfoldingWord-dev/ts-desktop.git"
-    },
+    "repository": "https://github.com/unfoldingWord-dev/ts-desktop",
     "jest": {
       "testPathIgnorePatterns": [
         "out"
@@ -155,7 +146,15 @@
       "test": "jest"
     },
     "main": "src/js/main.js",
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "other": {
+      "author": {
+        "name": "Joel Lonbeck",
+        "email": "",
+        "url": "https://github.com/neutrinog"
+      },
+      "bugs": "https://github.com/unfoldingWord-dev/ts-desktop/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -182,6 +181,7 @@
   },
   "filename": "unfoldingWord-dev___ts-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:07.526Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:36.820Z"
+  "lastFetchedAt": "2017-10-23T19:07:23.735Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:36.820Z",
+  "archived": false
 }

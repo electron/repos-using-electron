@@ -5,7 +5,7 @@
   "owner": {
     "login": "slamby",
     "id": 16559715,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16559715?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16559715?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/slamby",
     "htmlUrl": "https://github.com/slamby",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "slamby",
     "id": 16559715,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16559715?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16559715?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/slamby",
     "htmlUrl": "https://github.com/slamby",
@@ -89,12 +89,6 @@
     "name": "slambyinsight",
     "description": "Slamby Insight Application",
     "version": "1.4.0",
-    "author": "Slamby",
-    "contributors": [
-      "Zsolt Illés <zsolt.illes@slamby.com>",
-      "Béla Soós <bela.soos@slamby.com>",
-      "Attila László <attila.laszlo@slamby.com>"
-    ],
     "main": "src/main.js",
     "homepage": "https://www.slamby.com",
     "scripts": {
@@ -211,7 +205,15 @@
       "electron-installer-debian": "^0.4.0",
       "electron-installer-redhat": "^0.3.0"
     },
-    "repository": {}
+    "repository": {},
+    "other": {
+      "author": "Slamby",
+      "contributors": [
+        "Zsolt Illés <zsolt.illes@slamby.com>",
+        "Béla Soós <bela.soos@slamby.com>",
+        "Attila László <attila.laszlo@slamby.com>"
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -238,6 +240,7 @@
   },
   "filename": "slamby___slamby-insight.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:21.057Z",
-  "packageLastFetchedAt": "2017-05-05T15:19:30.849Z"
+  "lastFetchedAt": "2017-10-23T17:39:04.098Z",
+  "packageLastFetchedAt": "2017-05-05T15:19:30.849Z",
+  "archived": false
 }

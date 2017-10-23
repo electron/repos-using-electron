@@ -5,7 +5,7 @@
   "owner": {
     "login": "ungoldman",
     "id": 427322,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/427322?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/427322?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ungoldman",
     "htmlUrl": "https://github.com/ungoldman",
@@ -55,10 +55,6 @@
     "name": "proton",
     "description": "electron + photon",
     "version": "0.0.0",
-    "author": "Nate Goldman <nate@ngoldman.me>",
-    "bugs": {
-      "url": "https://github.com/ngoldman/proton/issues"
-    },
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
       "standard": "^5.3.1",
@@ -77,13 +73,16 @@
     "license": "ISC",
     "main": "src/index.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ngoldman/proton.git"
-    },
+    "repository": "https://github.com/ngoldman/proton",
     "scripts": {
       "start": "electron src",
       "test": "standard && tape test/*.js | tap-spec"
+    },
+    "other": {
+      "author": "Nate Goldman <nate@ngoldman.me>",
+      "bugs": {
+        "url": "https://github.com/ngoldman/proton/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "svnUrl": "https://github.com/ungoldman/proton",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:20:01.153Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:29.019Z"
+  "lastFetchedAt": "2017-10-23T20:38:43.592Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:29.019Z",
+  "archived": false
 }

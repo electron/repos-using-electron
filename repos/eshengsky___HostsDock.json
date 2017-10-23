@@ -5,7 +5,7 @@
   "owner": {
     "login": "eshengsky",
     "id": 9640122,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9640122?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9640122?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eshengsky",
     "htmlUrl": "https://github.com/eshengsky",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/eshengsky/HostsDock",
-  "description": ":tada: Store, manage and switch your hosts. 存储、管理、快速切换你的hosts。",
+  "description": ":tada: Store, manage and switch your hosts quickly. 存储、管理、快速切换你的hosts。",
   "fork": false,
   "url": "https://api.github.com/repos/eshengsky/HostsDock",
   "forksUrl": "https://api.github.com/repos/eshengsky/HostsDock/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/eshengsky/HostsDock/downloads",
   "deploymentsUrl": "https://api.github.com/repos/eshengsky/HostsDock/deployments",
   "createdAt": "2016-06-05T09:01:00.000Z",
-  "updatedAt": "2017-05-03T02:12:18.000Z",
-  "pushedAt": "2016-06-12T05:56:53.000Z",
+  "updatedAt": "2017-10-22T16:33:43.000Z",
+  "pushedAt": "2017-10-23T09:42:24.000Z",
   "gitUrl": "git://github.com/eshengsky/HostsDock.git",
   "sshUrl": "git@github.com:eshengsky/HostsDock.git",
   "cloneUrl": "https://github.com/eshengsky/HostsDock.git",
   "svnUrl": "https://github.com/eshengsky/HostsDock",
-  "homepage": "",
-  "size": 634,
-  "stargazersCount": 43,
-  "watchersCount": 43,
+  "homepage": "http://eshengsky.github.io/HostsDock/",
+  "size": 2647,
+  "stargazersCount": 61,
+  "watchersCount": 61,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
-  "hasPages": false,
-  "forksCount": 11,
+  "hasPages": true,
+  "forksCount": 15,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 43,
+  "watchers": 61,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 11,
-  "subscribersCount": 4,
+  "networkCount": 15,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "hostsdock",
@@ -82,10 +82,7 @@
       "start": "electron .",
       "dev": "electron . --debug"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/eshengsky/HostsDock.git"
-    },
+    "repository": "https://github.com/eshengsky/HostsDock",
     "keywords": [
       "HostsDock",
       "storage",
@@ -93,11 +90,7 @@
       "switch",
       "hosts"
     ],
-    "author": "Sky Sun",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/eshengsky/HostsDock/issues"
-    },
     "homepage": "https://github.com/eshengsky/HostsDock#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.2"
@@ -109,6 +102,12 @@
       "node-notifier": "^4.6.0",
       "request": "^2.72.0",
       "shortid": "^2.2.6"
+    },
+    "other": {
+      "author": "Sky Sun",
+      "bugs": {
+        "url": "https://github.com/eshengsky/HostsDock/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "eshengsky___HostsDock.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:00.692Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:40.684Z"
+  "lastFetchedAt": "2017-10-23T19:27:36.272Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:40.684Z",
+  "archived": false
 }

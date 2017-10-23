@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -73,22 +73,13 @@
   "status": 200,
   "packageJSON": {
     "name": "snack-app",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/azu/snack-app.git"
-    },
+    "repository": "https://github.com/azu/snack-app",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/snack-app",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/snack-app/issues"
-    },
     "version": "1.0.0",
     "description": "snack like slack.",
     "main": "snack.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "start": "electron ."
     },
@@ -97,7 +88,6 @@
       "slack",
       "webview"
     ],
-    "author": "azu",
     "devDependencies": {
       "babel-cli": "^6.14.0",
       "babel-preset-es2015": "^6.14.0",
@@ -113,6 +103,15 @@
       "mkdirp": "^0.5.1",
       "react": "^15.3.1",
       "react-dom": "^15.3.1"
+    },
+    "other": {
+      "author": "azu",
+      "bugs": {
+        "url": "https://github.com/azu/snack-app/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "azu___snack-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:40.055Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:54.593Z"
+  "lastFetchedAt": "2017-10-23T17:16:28.488Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:54.593Z",
+  "archived": false
 }

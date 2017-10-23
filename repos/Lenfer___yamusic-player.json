@@ -5,7 +5,7 @@
   "owner": {
     "login": "Lenfer",
     "id": 1062547,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1062547?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1062547?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Lenfer",
     "htmlUrl": "https://github.com/Lenfer",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Lenfer/yamusic-player/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Lenfer/yamusic-player/deployments",
   "createdAt": "2015-06-08T20:33:07.000Z",
-  "updatedAt": "2017-03-31T23:53:55.000Z",
-  "pushedAt": "2017-03-31T23:55:26.000Z",
+  "updatedAt": "2017-08-21T19:36:15.000Z",
+  "pushedAt": "2017-08-21T16:17:58.000Z",
   "gitUrl": "git://github.com/Lenfer/yamusic-player.git",
   "sshUrl": "git@github.com:Lenfer/yamusic-player.git",
   "cloneUrl": "https://github.com/Lenfer/yamusic-player.git",
   "svnUrl": "https://github.com/Lenfer/yamusic-player",
   "homepage": null,
   "size": 1495,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -98,16 +98,15 @@
       "dist": "build",
       "postinstall": "rm -f \"./node_modules/_\" && ln -s \"../app/\" \"./node_modules/_\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Lenfer/yamusic-player.git"
-    },
-    "author": "Dergaev Andrey",
+    "repository": "https://github.com/Lenfer/yamusic-player",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Lenfer/yamusic-player/issues"
-    },
-    "homepage": "https://github.com/Lenfer/yamusic-player#readme"
+    "homepage": "https://github.com/Lenfer/yamusic-player#readme",
+    "other": {
+      "author": "Dergaev Andrey",
+      "bugs": {
+        "url": "https://github.com/Lenfer/yamusic-player/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +133,7 @@
   },
   "filename": "Lenfer___yamusic-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:09.369Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:50.590Z"
+  "lastFetchedAt": "2017-10-23T19:11:21.925Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:50.590Z",
+  "archived": false
 }

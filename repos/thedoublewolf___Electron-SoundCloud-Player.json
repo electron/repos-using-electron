@@ -5,7 +5,7 @@
   "owner": {
     "login": "thedoublewolf",
     "id": 14181814,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14181814?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14181814?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thedoublewolf",
     "htmlUrl": "https://github.com/thedoublewolf",
@@ -74,7 +74,6 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "author": "thedoublewolf",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
       "babel-preset-react": "^6.5.0",
@@ -89,6 +88,9 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "thedoublewolf"
     }
   },
   "packageStatus": 200,
@@ -116,6 +118,7 @@
   },
   "filename": "thedoublewolf___Electron-SoundCloud-Player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:08:28.694Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:41.703Z"
+  "lastFetchedAt": "2017-10-23T18:59:55.625Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:41.703Z",
+  "archived": false
 }

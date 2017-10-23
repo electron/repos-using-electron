@@ -5,7 +5,7 @@
   "owner": {
     "login": "thom-nic",
     "id": 95562,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/95562?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/95562?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thom-nic",
     "htmlUrl": "https://github.com/thom-nic",
@@ -20,12 +20,12 @@
   "description": "A simple Electron (Atom shell) demo app.",
   "fork": false,
   "createdAt": "2015-04-23T20:33:08.000Z",
-  "updatedAt": "2017-04-29T03:50:47.000Z",
+  "updatedAt": "2017-09-15T06:25:24.000Z",
   "pushedAt": "2015-05-27T20:33:33.000Z",
   "homepage": null,
   "size": 171,
-  "stargazersCount": 29,
-  "watchersCount": 29,
+  "stargazersCount": 28,
+  "watchersCount": 28,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 4,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 29,
+  "watchers": 28,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -58,21 +58,14 @@
       "lint": "gulp lint",
       "clean": "gulp clean"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/thom-nic/electron-demo.git"
-    },
+    "repository": "https://github.com/thom-nic/electron-demo",
     "keywords": [
       "es6",
       "chromium",
       "atom-shell",
       "electron"
     ],
-    "author": "Thom Nichols <thom.nichols@voltserver.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/thom-nic/electron-demo/issues"
-    },
     "homepage": "https://github.com/thom-nic/electron-demo",
     "dependencies": {
       "async": "^0.9.0",
@@ -99,6 +92,12 @@
       "phantom": "^0.7.2",
       "sinon": "^1.14.1",
       "skeleton-less": "^2.0.1"
+    },
+    "other": {
+      "author": "Thom Nichols <thom.nichols@voltserver.com>",
+      "bugs": {
+        "url": "https://github.com/thom-nic/electron-demo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "svnUrl": "https://github.com/thom-nic/electron-demo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:37:52.580Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:00.467Z"
+  "lastFetchedAt": "2017-10-23T19:16:56.600Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:00.467Z",
+  "archived": false
 }

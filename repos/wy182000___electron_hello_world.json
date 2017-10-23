@@ -5,7 +5,7 @@
   "owner": {
     "login": "wy182000",
     "id": 2117407,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2117407?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2117407?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wy182000",
     "htmlUrl": "https://github.com/wy182000",
@@ -61,20 +61,13 @@
       "pack": "electron-packager ./ hello_world --platform=win32 --arch=x64 --asar --overwrite --out ./pack --app-version=1.0.0",
       "build": "build --platform win32 --arch x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "hellor",
       "world"
     ],
-    "author": "wy182000",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "asar": "^0.12.0",
@@ -89,6 +82,12 @@
       "win": {
         "msi": true,
         "iconUrl": "https://github.com/${u}/${p}/blob/master/build/icon.ico?raw=true"
+      }
+    },
+    "other": {
+      "author": "wy182000",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
       }
     }
   },
@@ -137,6 +136,7 @@
   },
   "filename": "wy182000___electron_hello_world.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:21:02.485Z",
-  "packageLastFetchedAt": "2017-05-05T17:46:28.810Z"
+  "lastFetchedAt": "2017-10-23T20:36:58.972Z",
+  "packageLastFetchedAt": "2017-05-05T17:46:28.810Z",
+  "archived": false
 }

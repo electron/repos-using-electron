@@ -5,7 +5,7 @@
   "owner": {
     "login": "ryanleesipes",
     "id": 2141621,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2141621?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2141621?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ryanleesipes",
     "htmlUrl": "https://github.com/ryanleesipes",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/ryanleesipes/desktop-habitica/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ryanleesipes/desktop-habitica/deployments",
   "createdAt": "2016-11-01T21:12:08.000Z",
-  "updatedAt": "2017-04-04T23:47:57.000Z",
+  "updatedAt": "2017-08-29T20:11:34.000Z",
   "pushedAt": "2017-04-05T16:41:36.000Z",
   "gitUrl": "git://github.com/ryanleesipes/desktop-habitica.git",
   "sshUrl": "git@github.com:ryanleesipes/desktop-habitica.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/ryanleesipes/desktop-habitica",
   "homepage": "https://habitica.com",
   "size": 34,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "desktop-habitica",
@@ -90,20 +90,13 @@
         ]
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ryanleesipes/desktop-habitica.git"
-    },
+    "repository": "https://github.com/ryanleesipes/desktop-habitica",
     "keywords": [
       "habitica",
       "habitRPG",
       "electron-app"
     ],
-    "author": "Ryan Sipes, ryan@sipes.us",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ryanleesipes/desktop-habitica/issues"
-    },
     "homepage": "https://github.com/ryanleesipes/desktop-habitica#readme",
     "devDependencies": {
       "electron-builder": "latest",
@@ -112,6 +105,12 @@
     },
     "dependencies": {
       "electron-window-state": "*"
+    },
+    "other": {
+      "author": "Ryan Sipes, ryan@sipes.us",
+      "bugs": {
+        "url": "https://github.com/ryanleesipes/desktop-habitica/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "ryanleesipes___desktop-habitica.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:18.057Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:36.398Z"
+  "lastFetchedAt": "2017-10-23T19:12:19.988Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:36.398Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dripcap",
     "id": 14368337,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14368337?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14368337?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dripcap",
     "htmlUrl": "https://github.com/dripcap",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/dripcap/dripcap/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dripcap/dripcap/deployments",
   "createdAt": "2015-06-14T04:02:31.000Z",
-  "updatedAt": "2017-05-04T13:39:08.000Z",
+  "updatedAt": "2017-10-17T15:59:27.000Z",
   "pushedAt": "2017-02-19T04:01:40.000Z",
   "gitUrl": "git://github.com/dripcap/dripcap.git",
   "sshUrl": "git@github.com:dripcap/dripcap.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/dripcap/dripcap",
   "homepage": "https://dripcap.org",
   "size": 12340,
-  "stargazersCount": 1442,
-  "watchersCount": 1442,
+  "stargazersCount": 1519,
+  "watchersCount": 1519,
   "language": "C++",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 60,
+  "forksCount": 71,
   "mirrorUrl": null,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 1442,
+  "watchers": 1519,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "dripcap",
     "id": 14368337,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14368337?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14368337?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dripcap",
     "htmlUrl": "https://github.com/dripcap",
@@ -82,25 +82,21 @@
     "receivedEventsUrl": "https://api.github.com/users/dripcap/received_events",
     "type": "Organization"
   },
-  "networkCount": 60,
-  "subscribersCount": 40,
+  "networkCount": 71,
+  "subscribersCount": 47,
   "status": 200,
   "packageJSON": {
     "name": "dripcap",
     "productName": "Dripcap",
     "version": "0.6.15",
     "description": "☕️ Caffeinated packet analyzer",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dripcap/dripcap.git"
-    },
+    "repository": "https://github.com/dripcap/dripcap",
     "readme": "see README.md",
     "main": "node_modules/dripcap-core/main.js",
     "scripts": {
       "test": "node --harmony_async_await node_modules/gulp/bin/gulp.js mocha",
       "bench": "electron --enable-logging --js-flags=--no-memory-reducer uispec/benchmark/main.es"
     },
-    "author": "h2so5",
     "license": "MIT",
     "dependencies": {
       "bindings": "~1.2.1",
@@ -166,6 +162,9 @@
           }
         ]
       ]
+    },
+    "other": {
+      "author": "h2so5"
     }
   },
   "packageStatus": 200,
@@ -193,6 +192,7 @@
   },
   "filename": "dripcap___dripcap.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:51.341Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:52.361Z"
+  "lastFetchedAt": "2017-10-23T18:08:54.187Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:52.361Z",
+  "archived": false
 }

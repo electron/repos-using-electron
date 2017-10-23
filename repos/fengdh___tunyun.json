@@ -5,7 +5,7 @@
   "owner": {
     "login": "fengdh",
     "id": 4262924,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4262924?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4262924?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fengdh",
     "htmlUrl": "https://github.com/fengdh",
@@ -70,15 +70,11 @@
     "version": "0.1.0",
     "description": "吞云 for 微盘：批量下载+多线程+断点续传",
     "main": "main.js",
-    "author": "funbook@Hi!PDA - http://www.hi-pda.com/forum/space.php?uid=709426",
     "license": "MIT",
     "scripts": {
       "mining": "electron main-mining.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fengdh/vdisk-exploiter"
-    },
+    "repository": "https://github.com/fengdh/vdisk-exploiter",
     "keywords": [
       "Electron",
       "vdisk",
@@ -92,6 +88,9 @@
       "mt-downloader": "^1.4.1",
       "jquery": "^2.1.4",
       "d3": "^4.0.0"
+    },
+    "other": {
+      "author": "funbook@Hi!PDA - http://www.hi-pda.com/forum/space.php?uid=709426"
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "fengdh___tunyun.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:02.016Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:22.070Z"
+  "lastFetchedAt": "2017-10-23T17:11:56.117Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:22.070Z",
+  "archived": false
 }

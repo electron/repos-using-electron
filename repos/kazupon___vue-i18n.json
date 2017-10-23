@@ -6,7 +6,7 @@
   "owner": {
     "login": "kazupon",
     "id": 72989,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/72989?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/72989?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kazupon",
     "htmlUrl": "https://github.com/kazupon",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/kazupon/vue-i18n/downloads",
   "deploymentsUrl": "https://api.github.com/repos/kazupon/vue-i18n/deployments",
   "createdAt": "2014-05-02T17:32:14.000Z",
-  "updatedAt": "2017-05-04T09:12:04.000Z",
-  "pushedAt": "2017-05-02T08:08:00.000Z",
+  "updatedAt": "2017-10-23T14:37:38.000Z",
+  "pushedAt": "2017-10-21T11:09:45.000Z",
   "gitUrl": "git://github.com/kazupon/vue-i18n.git",
   "sshUrl": "git@github.com:kazupon/vue-i18n.git",
   "cloneUrl": "https://github.com/kazupon/vue-i18n.git",
   "svnUrl": "https://github.com/kazupon/vue-i18n",
   "homepage": "https://kazupon.github.io/vue-i18n/",
-  "size": 5720,
-  "stargazersCount": 926,
-  "watchersCount": 926,
+  "size": 7104,
+  "stargazersCount": 1630,
+  "watchersCount": 1630,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 86,
+  "forksCount": 157,
   "mirrorUrl": null,
-  "openIssuesCount": 22,
-  "openIssues": 22,
-  "watchers": 926,
+  "openIssuesCount": 25,
+  "openIssues": 25,
+  "watchers": 1630,
   "defaultBranch": "dev",
   "permissions": {
     "admin": false,
@@ -69,20 +69,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 86,
-  "subscribersCount": 48,
+  "networkCount": 157,
+  "subscribersCount": 60,
   "status": 200,
   "packageJSON": {
     "name": "vue-i18n",
     "description": "Internationalization plugin for Vue.js",
     "version": "6.1.1",
-    "author": {
-      "name": "kazuya kawaguchi",
-      "email": "kawakazu80@gmail.com"
-    },
-    "bugs": {
-      "url": "https://github.com/kazupon/vue-i18n/issues"
-    },
     "dependencies": {},
     "devDependencies": {
       "babel-core": "^6.22.1",
@@ -159,10 +152,7 @@
     "license": "MIT",
     "main": "dist/vue-i18n.common.js",
     "module": "dist/vue-i18n.esm.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kazupon/vue-i18n.git"
-    },
+    "repository": "https://github.com/kazupon/vue-i18n",
     "scripts": {
       "build": "node config/build.js",
       "changelog": "conventional-changelog -i CHANGELOG.md -s -n ./node_modules/git-commit-message-convention/convention.js",
@@ -184,7 +174,16 @@
       "test:e2e": "npm run build && node test/e2e/runner.js",
       "test:unit": "BABEL_ENV=test karma start config/karma.unit.conf.js"
     },
-    "unpkg": "dist/vue-i18n.js"
+    "unpkg": "dist/vue-i18n.js",
+    "other": {
+      "author": {
+        "name": "kazuya kawaguchi",
+        "email": "kawakazu80@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/kazupon/vue-i18n/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -210,6 +209,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:00.353Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:50.831Z"
+  "lastFetchedAt": "2017-10-23T18:06:09.951Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:50.831Z",
+  "archived": false
 }

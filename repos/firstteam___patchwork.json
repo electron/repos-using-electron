@@ -5,7 +5,7 @@
   "owner": {
     "login": "firstteam",
     "id": 1211911,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1211911?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1211911?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/firstteam",
     "htmlUrl": "https://github.com/firstteam",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "firstteam",
     "id": 1211911,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1211911?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1211911?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/firstteam",
     "htmlUrl": "https://github.com/firstteam",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "ssbc",
       "id": 10190339,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10190339?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10190339?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ssbc",
       "htmlUrl": "https://github.com/ssbc",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/ssbc/patchwork/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ssbc/patchwork/deployments",
     "createdAt": "2015-06-24T16:00:09.000Z",
-    "updatedAt": "2017-05-04T15:13:22.000Z",
-    "pushedAt": "2017-04-28T00:21:09.000Z",
+    "updatedAt": "2017-10-23T16:57:08.000Z",
+    "pushedAt": "2017-10-19T12:21:20.000Z",
     "gitUrl": "git://github.com/ssbc/patchwork.git",
     "sshUrl": "git@github.com:ssbc/patchwork.git",
     "cloneUrl": "https://github.com/ssbc/patchwork.git",
     "svnUrl": "https://github.com/ssbc/patchwork",
     "homepage": "https://www.scuttlebutt.nz",
-    "size": 14868,
-    "stargazersCount": 988,
-    "watchersCount": 988,
+    "size": 15419,
+    "stargazersCount": 1279,
+    "watchersCount": 1279,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 84,
+    "forksCount": 118,
     "mirrorUrl": null,
-    "openIssuesCount": 64,
-    "openIssues": 64,
-    "watchers": 988,
+    "archived": false,
+    "openIssuesCount": 76,
+    "openIssues": 76,
+    "watchers": 1279,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "ssbc",
       "id": 10190339,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10190339?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10190339?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ssbc",
       "htmlUrl": "https://github.com/ssbc",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/ssbc/patchwork/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ssbc/patchwork/deployments",
     "createdAt": "2015-06-24T16:00:09.000Z",
-    "updatedAt": "2017-05-04T15:13:22.000Z",
-    "pushedAt": "2017-04-28T00:21:09.000Z",
+    "updatedAt": "2017-10-23T16:57:08.000Z",
+    "pushedAt": "2017-10-19T12:21:20.000Z",
     "gitUrl": "git://github.com/ssbc/patchwork.git",
     "sshUrl": "git@github.com:ssbc/patchwork.git",
     "cloneUrl": "https://github.com/ssbc/patchwork.git",
     "svnUrl": "https://github.com/ssbc/patchwork",
     "homepage": "https://www.scuttlebutt.nz",
-    "size": 14868,
-    "stargazersCount": 988,
-    "watchersCount": 988,
+    "size": 15419,
+    "stargazersCount": 1279,
+    "watchersCount": 1279,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 84,
+    "forksCount": 118,
     "mirrorUrl": null,
-    "openIssuesCount": 64,
-    "openIssues": 64,
-    "watchers": 988,
+    "archived": false,
+    "openIssuesCount": 76,
+    "openIssues": 76,
+    "watchers": 1279,
     "defaultBranch": "master"
   },
-  "networkCount": 84,
+  "networkCount": 118,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -184,10 +186,7 @@
     "version": "1.1.2",
     "description": "safe secure sharing",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ssbc/patchwork.git"
-    },
+    "repository": "https://github.com/ssbc/patchwork",
     "scripts": {
       "start": "electron .",
       "test": "set -e; for t in api/test/*.js; do node $t; done",
@@ -205,7 +204,6 @@
       "pack:win": "electron-builder \"dist/win/Patchwork-win32\" --platform=win --out=\"dist/win\" --config=packager.json",
       "prepublish": "npm run build:ui"
     },
-    "author": "Paul Frazee <pfrazee@gmail.com>",
     "license": "?",
     "devDependencies": {
       "electron-builder": "^2.0.0",
@@ -251,6 +249,9 @@
     },
     "bin": {
       "patchwork": "./bin.js"
+    },
+    "other": {
+      "author": "Paul Frazee <pfrazee@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -298,6 +299,7 @@
   "svnUrl": "https://github.com/firstteam/patchwork",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:13:56.771Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:31.797Z"
+  "lastFetchedAt": "2017-10-23T19:17:36.687Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:31.797Z",
+  "archived": false
 }

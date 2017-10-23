@@ -1,11 +1,11 @@
 {
-  "id": 56365986,
+  "id": 99763977,
   "name": "gamewave-tabletop",
   "fullName": "jswaldon/gamewave-tabletop",
   "owner": {
     "login": "jswaldon",
     "id": 1331334,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1331334?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1331334?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jswaldon",
     "htmlUrl": "https://github.com/jswaldon",
@@ -34,18 +34,18 @@
   "mergesUrl": "https://api.github.com/repos/jswaldon/gamewave-tabletop/merges",
   "downloadsUrl": "https://api.github.com/repos/jswaldon/gamewave-tabletop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jswaldon/gamewave-tabletop/deployments",
-  "createdAt": "2016-04-16T04:43:28.000Z",
-  "updatedAt": "2016-11-09T18:36:12.000Z",
-  "pushedAt": "2016-11-10T20:55:36.000Z",
+  "createdAt": "2017-08-09T04:09:39.000Z",
+  "updatedAt": "2017-08-09T04:12:28.000Z",
+  "pushedAt": "2017-08-29T21:15:20.000Z",
   "gitUrl": "git://github.com/jswaldon/gamewave-tabletop.git",
   "sshUrl": "git@github.com:jswaldon/gamewave-tabletop.git",
   "cloneUrl": "https://github.com/jswaldon/gamewave-tabletop.git",
   "svnUrl": "https://github.com/jswaldon/gamewave-tabletop",
   "homepage": null,
-  "size": 8,
+  "size": 99,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "JavaScript",
+  "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -62,10 +62,10 @@
     "pull": true
   },
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdxId": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
   "networkCount": 0,
@@ -81,15 +81,8 @@
       "postinstall": "bower install",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jswaldon/gamewave-tabletop.git"
-    },
-    "author": "Jerhemy Waldon",
+    "repository": "https://github.com/jswaldon/gamewave-tabletop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jswaldon/gamewave-tabletop/issues"
-    },
     "homepage": "https://github.com/jswaldon/gamewave-tabletop#readme",
     "dependencies": {},
     "devDependencies": {
@@ -100,6 +93,12 @@
       "gulp-angular-filesort": "^1.1.1",
       "gulp-inject": "^4.1.0",
       "main-bower-files": "^2.13.1"
+    },
+    "other": {
+      "author": "Jerhemy Waldon",
+      "bugs": {
+        "url": "https://github.com/jswaldon/gamewave-tabletop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "jswaldon___gamewave-tabletop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:35.686Z",
-  "packageLastFetchedAt": "2017-05-05T17:25:17.677Z"
+  "lastFetchedAt": "2017-10-23T17:12:15.156Z",
+  "packageLastFetchedAt": "2017-05-05T17:25:17.677Z",
+  "archived": false
 }

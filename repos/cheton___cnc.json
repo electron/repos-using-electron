@@ -5,7 +5,7 @@
   "owner": {
     "login": "cncjs",
     "id": 25358834,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/25358834?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/25358834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cncjs",
     "htmlUrl": "https://github.com/cncjs",
@@ -20,21 +20,21 @@
   "description": "A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG.",
   "fork": false,
   "createdAt": "2015-08-21T09:39:18.000Z",
-  "updatedAt": "2017-05-04T15:59:04.000Z",
-  "pushedAt": "2017-05-04T02:53:50.000Z",
+  "updatedAt": "2017-10-23T14:03:05.000Z",
+  "pushedAt": "2017-10-22T03:51:32.000Z",
   "homepage": "https://cnc.js.org",
-  "size": 78639,
-  "stargazersCount": 200,
-  "watchersCount": 200,
+  "size": 80183,
+  "stargazersCount": 284,
+  "watchersCount": 284,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 56,
-  "openIssuesCount": 15,
-  "openIssues": 15,
-  "watchers": 200,
+  "forksCount": 75,
+  "openIssuesCount": 27,
+  "openIssues": 27,
+  "watchers": 284,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,15 +48,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 56,
-  "subscribersCount": 51,
+  "networkCount": 75,
+  "subscribersCount": 63,
   "status": 200,
   "packageJSON": {
     "name": "cncjs",
     "version": "1.9.4",
     "description": "A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG",
     "homepage": "https://github.com/cncjs/cncjs",
-    "author": "Cheton Wu <cheton@gmail.com>",
     "main": "./dist/cnc/cnc.js",
     "bin": {
       "cnc": "./bin/cnc",
@@ -67,10 +66,7 @@
       "dist",
       "static"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:cncjs/cncjs.git"
-    },
+    "repository": "https://github.com/cncjs/cncjs",
     "license": "MIT",
     "engines": {
       "node": ">=4"
@@ -356,7 +352,10 @@
     },
     "pre-push": [
       "eslint:debug"
-    ]
+    ],
+    "other": {
+      "author": "Cheton Wu <cheton@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/cncjs/cncjs",
@@ -406,7 +405,7 @@
   "organization": {
     "login": "cncjs",
     "id": 25358834,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/25358834?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/25358834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cncjs",
     "htmlUrl": "https://github.com/cncjs",
@@ -417,6 +416,7 @@
     "receivedEventsUrl": "https://api.github.com/users/cncjs/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T18:01:30.788Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:06.791Z"
+  "lastFetchedAt": "2017-10-23T18:47:04.597Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:06.791Z",
+  "archived": false
 }

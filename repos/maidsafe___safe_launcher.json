@@ -5,7 +5,7 @@
   "owner": {
     "login": "maidsafe",
     "id": 536423,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/536423?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/536423?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maidsafe",
     "htmlUrl": "https://github.com/maidsafe",
@@ -20,21 +20,21 @@
   "description": "Node.js App for SAFE Launcher",
   "fork": false,
   "createdAt": "2015-10-11T10:39:20.000Z",
-  "updatedAt": "2017-04-19T12:03:20.000Z",
+  "updatedAt": "2017-09-22T02:25:33.000Z",
   "pushedAt": "2017-04-06T18:54:27.000Z",
   "homepage": "",
   "size": 27763,
-  "stargazersCount": 92,
-  "watchersCount": 92,
+  "stargazersCount": 108,
+  "watchersCount": 108,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 43,
+  "forksCount": 42,
   "openIssuesCount": 21,
   "openIssues": 21,
-  "watchers": 92,
+  "watchers": 108,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "maidsafe",
     "id": 536423,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/536423?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/536423?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maidsafe",
     "htmlUrl": "https://github.com/maidsafe",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/maidsafe/received_events",
     "type": "Organization"
   },
-  "networkCount": 43,
-  "subscribersCount": 45,
+  "networkCount": 42,
+  "subscribersCount": 50,
   "status": 200,
   "packageJSON": {
     "name": "safe-launcher",
@@ -94,18 +94,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maidsafe/safe_launcher.git"
-    },
-    "author": {
-      "name": "MaidSafe",
-      "email": "qa@maidsafe.net",
-      "url": "https://maidsafe.net"
-    },
-    "bugs": {
-      "url": "https://github.com/maidsafe/safe_launcher/issues"
-    },
+    "repository": "https://github.com/maidsafe/safe_launcher",
     "keywords": [
       "maidsafe",
       "launcher"
@@ -197,6 +186,16 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "MaidSafe",
+        "email": "qa@maidsafe.net",
+        "url": "https://maidsafe.net"
+      },
+      "bugs": {
+        "url": "https://github.com/maidsafe/safe_launcher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +243,7 @@
   },
   "filename": "maidsafe___safe_launcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:43.278Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:33.848Z"
+  "lastFetchedAt": "2017-10-23T18:50:18.628Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:33.848Z",
+  "archived": false
 }

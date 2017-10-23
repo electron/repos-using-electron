@@ -5,7 +5,7 @@
   "owner": {
     "login": "chrisgervang",
     "id": 2461547,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2461547?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2461547?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chrisgervang",
     "htmlUrl": "https://github.com/chrisgervang",
@@ -17,10 +17,10 @@
     "type": "User"
   },
   "private": false,
-  "description": "A new smart mirror design.",
+  "description": "DIY Smart Mirror built with Electron",
   "fork": false,
   "createdAt": "2015-12-03T17:48:56.000Z",
-  "updatedAt": "2017-04-22T15:13:29.000Z",
+  "updatedAt": "2017-06-03T18:22:52.000Z",
   "pushedAt": "2016-09-22T15:44:14.000Z",
   "homepage": "https://hackaday.io/project/9026-reflectrum",
   "size": 63799,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "openIssuesCount": 8,
   "openIssues": 8,
   "watchers": 4,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chrisgervang/SmartMirror.git"
-    },
+    "repository": "https://github.com/chrisgervang/SmartMirror",
     "keywords": [
       "Electron",
       "raspberry pi",
@@ -64,11 +61,7 @@
       "morning",
       "routine"
     ],
-    "author": "Chris Gervang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chrisgervang/SmartMirror/issues"
-    },
     "homepage": "https://github.com/chrisgervang/SmartMirror#readme",
     "dependencies": {
       "request-promise": "*",
@@ -103,6 +96,12 @@
     },
     "devDependencies": {
       "jspm": "^0.16.23"
+    },
+    "other": {
+      "author": "Chris Gervang",
+      "bugs": {
+        "url": "https://github.com/chrisgervang/SmartMirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   "svnUrl": "https://github.com/chrisgervang/reflectrum",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:05:25.730Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:50.554Z"
+  "lastFetchedAt": "2017-10-23T17:17:03.545Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:50.554Z",
+  "archived": false
 }

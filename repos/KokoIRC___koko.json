@@ -5,7 +5,7 @@
   "owner": {
     "login": "KokoIRC",
     "id": 23329387,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23329387?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23329387?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/KokoIRC",
     "htmlUrl": "https://github.com/KokoIRC",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/KokoIRC/koko/downloads",
   "deploymentsUrl": "https://api.github.com/repos/KokoIRC/koko/deployments",
   "createdAt": "2015-03-19T07:35:26.000Z",
-  "updatedAt": "2017-05-03T06:58:46.000Z",
+  "updatedAt": "2017-10-20T13:02:16.000Z",
   "pushedAt": "2016-11-10T23:45:40.000Z",
   "gitUrl": "git://github.com/KokoIRC/koko.git",
   "sshUrl": "git@github.com:KokoIRC/koko.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/KokoIRC/koko",
   "homepage": "https://github.com/KokoIRC/koko",
   "size": 4557,
-  "stargazersCount": 260,
-  "watchersCount": 260,
+  "stargazersCount": 282,
+  "watchersCount": 282,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 26,
+  "forksCount": 29,
   "mirrorUrl": null,
   "openIssuesCount": 21,
   "openIssues": 21,
-  "watchers": 260,
+  "watchers": 282,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "KokoIRC",
     "id": 23329387,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23329387?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23329387?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/KokoIRC",
     "htmlUrl": "https://github.com/KokoIRC",
@@ -82,28 +82,15 @@
     "receivedEventsUrl": "https://api.github.com/users/KokoIRC/received_events",
     "type": "Organization"
   },
-  "networkCount": 26,
-  "subscribersCount": 9,
+  "networkCount": 29,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "koko",
     "version": "0.2.1",
     "description": "Yet another IRC client for me and you",
-    "author": "Jun <me@noraesae.net>",
-    "contributors": [
-      {
-        "name": "Hyunje Alex Jun",
-        "email": "me@noraesae.net"
-      }
-    ],
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/KokoIRC/koko.git"
-    },
-    "bugs": {
-      "url": "https://github.com/KokoIRC/koko/issues"
-    },
+    "repository": "https://github.com/KokoIRC/koko",
     "keywords": [
       "irc",
       "electron"
@@ -126,6 +113,18 @@
     },
     "scripts": {
       "test": "make"
+    },
+    "other": {
+      "author": "Jun <me@noraesae.net>",
+      "bugs": {
+        "url": "https://github.com/KokoIRC/koko/issues"
+      },
+      "contributors": [
+        {
+          "name": "Hyunje Alex Jun",
+          "email": "me@noraesae.net"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   "filename": "KokoIRC___koko.json",
   "sourceRepo": "noraesae/koko",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:36.088Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:03.617Z"
+  "lastFetchedAt": "2017-10-23T18:13:11.628Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:03.617Z",
+  "archived": false
 }

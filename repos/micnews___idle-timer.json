@@ -5,7 +5,7 @@
   "owner": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/micnews/idle-timer/downloads",
   "deploymentsUrl": "https://api.github.com/repos/micnews/idle-timer/deployments",
   "createdAt": "2016-02-16T20:25:24.000Z",
-  "updatedAt": "2017-04-09T09:33:41.000Z",
+  "updatedAt": "2017-08-11T14:03:14.000Z",
   "pushedAt": "2017-01-21T16:27:15.000Z",
   "gitUrl": "git://github.com/micnews/idle-timer.git",
   "sshUrl": "git@github.com:micnews/idle-timer.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/micnews/idle-timer",
   "homepage": null,
   "size": 58,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -77,7 +77,7 @@
     "type": "Organization"
   },
   "networkCount": 2,
-  "subscribersCount": 12,
+  "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
     "name": "idle-timer",
@@ -87,19 +87,12 @@
     "scripts": {
       "test": "browserify test.js | testron | faucet"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/micnews/idle-timer.git"
-    },
+    "repository": "https://github.com/micnews/idle-timer",
     "keywords": [
       "idle",
       "timer"
     ],
-    "author": "mic.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/micnews/idle-timer/issues"
-    },
     "homepage": "https://github.com/micnews/idle-timer#readme",
     "devDependencies": {
       "browserify": "^13.0.0",
@@ -107,6 +100,12 @@
       "faucet": "0.0.1",
       "tape": "^4.4.0",
       "testron": "^1.2.0"
+    },
+    "other": {
+      "author": "mic.com",
+      "bugs": {
+        "url": "https://github.com/micnews/idle-timer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "micnews___idle-timer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:29:53.701Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:59.275Z"
+  "lastFetchedAt": "2017-10-23T18:17:43.189Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:59.275Z",
+  "archived": false
 }

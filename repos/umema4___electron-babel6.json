@@ -5,7 +5,7 @@
   "owner": {
     "login": "umema4",
     "id": 2021512,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2021512?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2021512?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/umema4",
     "htmlUrl": "https://github.com/umema4",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -76,10 +76,7 @@
     "version": "0.1.0",
     "description": "A electron app template",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/umema4/electron-babel6.git"
-    },
+    "repository": "https://github.com/umema4/electron-babel6",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -87,7 +84,6 @@
       "electron",
       "babel"
     ],
-    "author": "umema4",
     "license": "MIT",
     "devDependencies": {
       "autoprefixer": "^6.3.3",
@@ -126,6 +122,9 @@
       "bootstrap": "^4.0.0-alpha.2",
       "jquery": "^2.2.1",
       "tether": "^1.2.0"
+    },
+    "other": {
+      "author": "umema4"
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   },
   "filename": "umema4___electron-babel6.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:15.140Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:27.560Z"
+  "lastFetchedAt": "2017-10-23T20:39:15.909Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:27.560Z",
+  "archived": false
 }

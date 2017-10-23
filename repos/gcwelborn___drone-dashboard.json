@@ -5,7 +5,7 @@
   "owner": {
     "login": "gcwelborn",
     "id": 5946100,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5946100?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5946100?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gcwelborn",
     "htmlUrl": "https://github.com/gcwelborn",
@@ -20,21 +20,21 @@
   "description": "Dashboard and key-bindings for the Parrot bebop drone. Made w/ Electron & jQuery",
   "fork": false,
   "createdAt": "2016-03-06T02:22:31.000Z",
-  "updatedAt": "2017-02-17T11:23:46.000Z",
+  "updatedAt": "2017-08-29T04:13:46.000Z",
   "pushedAt": "2016-03-16T23:52:00.000Z",
   "homepage": "",
   "size": 5944,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 4,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/unlicense",
     "featured": false
   },
-  "networkCount": 2,
-  "subscribersCount": 2,
+  "networkCount": 4,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "drone-dashboard",
@@ -59,7 +59,6 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "author": "gcwelborn",
     "license": "UNLICENSED",
     "devDependencies": {
       "electron-prebuilt": "^0.36.8"
@@ -69,10 +68,7 @@
       "node-bebop": "^0.4.1",
       "skeleton-css": "^2.0.4"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gcwelborn/drone-dashboard.git"
-    },
+    "repository": "https://github.com/gcwelborn/drone-dashboard",
     "keywords": [
       "Parrot",
       "Drone",
@@ -82,10 +78,13 @@
       "Github",
       "Electron"
     ],
-    "bugs": {
-      "url": "https://github.com/gcwelborn/drone-dashboard/issues"
-    },
-    "homepage": "https://github.com/gcwelborn/drone-dashboard#readme"
+    "homepage": "https://github.com/gcwelborn/drone-dashboard#readme",
+    "other": {
+      "author": "gcwelborn",
+      "bugs": {
+        "url": "https://github.com/gcwelborn/drone-dashboard/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/gcwelborn/drone-dashboard",
@@ -132,6 +131,7 @@
   },
   "filename": "gcwelborn___drone-dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:15.589Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:10.698Z"
+  "lastFetchedAt": "2017-10-23T18:48:16.427Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:10.698Z",
+  "archived": false
 }

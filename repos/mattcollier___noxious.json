@@ -5,7 +5,7 @@
   "owner": {
     "login": "mattcollier",
     "id": 902041,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/902041?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/902041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mattcollier",
     "htmlUrl": "https://github.com/mattcollier",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/mattcollier/noxious/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mattcollier/noxious/deployments",
   "createdAt": "2015-03-03T23:06:58.000Z",
-  "updatedAt": "2017-02-02T06:07:10.000Z",
-  "pushedAt": "2016-08-14T00:40:58.000Z",
+  "updatedAt": "2017-06-03T20:28:18.000Z",
+  "pushedAt": "2017-10-08T14:00:44.000Z",
   "gitUrl": "git://github.com/mattcollier/noxious.git",
   "sshUrl": "git@github.com:mattcollier/noxious.git",
   "cloneUrl": "https://github.com/mattcollier/noxious.git",
   "svnUrl": "https://github.com/mattcollier/noxious",
   "homepage": "",
-  "size": 513,
+  "size": 489,
   "stargazersCount": 22,
   "watchersCount": 22,
   "language": "JavaScript",
@@ -79,15 +79,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mattcollier/noxious.git"
-    },
-    "author": "",
+    "repository": "https://github.com/mattcollier/noxious",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mattcollier/noxious/issues"
-    },
     "homepage": "https://github.com/mattcollier/noxious",
     "dependencies": {
       "bootstrap": "^3.3.2",
@@ -97,6 +90,12 @@
       "node-forge": "^0.6.25",
       "socksv5": "0.0.6",
       "ths": "git+https://github.com/Mowje/node-ths.git#dev"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/mattcollier/noxious/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "mattcollier___noxious.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:17.907Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:14.117Z"
+  "lastFetchedAt": "2017-10-23T17:58:14.134Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:14.117Z",
+  "archived": false
 }

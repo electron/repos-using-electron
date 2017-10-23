@@ -5,7 +5,7 @@
   "owner": {
     "login": "cdiezmoran",
     "id": 13502661,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13502661?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13502661?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cdiezmoran",
     "htmlUrl": "https://github.com/cdiezmoran",
@@ -118,22 +118,10 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cdiezmoran/Gamedock-desktop"
-    },
-    "author": {
-      "name": "Carlos Diez",
-      "email": "cdiezmoran@gmail.com",
-      "url": "https://github.com/cdiezmoran"
-    },
+    "repository": "https://github.com/cdiezmoran/Gamedock-desktop",
     "keywords": [
       "electron",
       "boilerplate",
@@ -227,6 +215,17 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Carlos Diez",
+        "email": "cdiezmoran@gmail.com",
+        "url": "https://github.com/cdiezmoran"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -254,6 +253,7 @@
   },
   "filename": "cdiezmoran___Gamedock-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:57.509Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:33.193Z"
+  "lastFetchedAt": "2017-10-23T18:51:04.724Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:33.193Z",
+  "archived": false
 }

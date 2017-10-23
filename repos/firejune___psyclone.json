@@ -5,7 +5,7 @@
   "owner": {
     "login": "firejune",
     "id": 68166,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/68166?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/68166?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/firejune",
     "htmlUrl": "https://github.com/firejune",
@@ -55,13 +55,7 @@
     "bin": {
       "psyclone": "./scripts/cmd.js"
     },
-    "bugs": {
-      "url": "https://git.rsupport.com/psyclone/studio/issues"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/firejune/psyclone"
-    },
+    "repository": "https://github.com/firejune/psyclone",
     "dependencies": {
       "adbkit": "^2.4.0",
       "adbkit-apkreader": "^1.0.0",
@@ -147,6 +141,11 @@
       "build-linux": "npm run build -- linux",
       "build-darwin": "npm run build -- darwin",
       "clean": "node ./scripts/clean.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://git.rsupport.com/psyclone/studio/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -194,6 +193,7 @@
   "svnUrl": "https://github.com/firejune/psyclone",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:22:06.829Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:06.946Z"
+  "lastFetchedAt": "2017-10-23T20:30:52.580Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:06.946Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dfmcphee",
     "id": 478990,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/478990?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/478990?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dfmcphee",
     "htmlUrl": "https://github.com/dfmcphee",
@@ -20,12 +20,12 @@
   "description": "A Google Inbox client for OS X that supports multiple accounts.",
   "fork": false,
   "createdAt": "2015-12-09T14:01:33.000Z",
-  "updatedAt": "2017-04-25T15:27:25.000Z",
+  "updatedAt": "2017-05-13T17:53:27.000Z",
   "pushedAt": "2015-12-14T03:17:26.000Z",
   "homepage": "",
   "size": 152,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,20 +61,13 @@
       "start": "electron .",
       "build": "electron-packager . $npm_package_productName --out=dist --platform=darwin --arch=x64 icon='./Inbox.icns' --ignore='^/dist$' --version=$npm_package_electronVersion --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dfmcphee/inbox-client"
-    },
+    "repository": "https://github.com/dfmcphee/inbox-client",
     "keywords": [
       "electron",
       "inbox",
       "gmail"
     ],
-    "author": "Dominic McPhee",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/dfmcphee/inbox-client/issues"
-    },
     "homepage": "https://github.com/dfmcphee/inbox-client#readme",
     "engines": {
       "node": ">=4"
@@ -91,6 +84,12 @@
       "chance": "^0.8.0",
       "electron-gh-releases": "^2.0.2",
       "nedb": "^1.5.0"
+    },
+    "other": {
+      "author": "Dominic McPhee",
+      "bugs": {
+        "url": "https://github.com/dfmcphee/inbox-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "dfmcphee___inbox-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:38:44.684Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:48.467Z"
+  "lastFetchedAt": "2017-10-23T20:47:23.176Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:48.467Z",
+  "archived": false
 }

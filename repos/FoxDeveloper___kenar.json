@@ -5,7 +5,7 @@
   "owner": {
     "login": "FoxDeveloper",
     "id": 6569962,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6569962?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6569962?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FoxDeveloper",
     "htmlUrl": "https://github.com/FoxDeveloper",
@@ -75,10 +75,7 @@
       "clean": "rm -rf build/*",
       "package": "./node_modules/.bin/electron-packager ./ kenar --out=./build --app-version 1.0.0 --version=0.35.1  --ignore='/res(/|$)' --ignore='/debian(/|$)' --ignore='/build(/|$)' --ignore='/test(/|$)' --ignore='/electron-packager(/|$)' --ignore='/electron-tmp-.+(/|$)' --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FoxDeveloper/kenar.git"
-    },
+    "repository": "https://github.com/FoxDeveloper/kenar",
     "keywords": [
       "irc",
       "web",
@@ -86,11 +83,7 @@
       "desktop",
       "client"
     ],
-    "author": "Benjamin Gaudé <development@gaudebenjamin.com>",
     "license": "AGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/FoxDeveloper/navis/issues"
-    },
     "homepage": "https://github.com/FoxDeveloper/navis#readme",
     "devDependencies": {
       "electron-packager": "^5.1.0",
@@ -103,6 +96,12 @@
       "nedb": "^1.5.0",
       "peerjs": "^0.3.14",
       "shortid": "^2.2.4"
+    },
+    "other": {
+      "author": "Benjamin Gaudé <development@gaudebenjamin.com>",
+      "bugs": {
+        "url": "https://github.com/FoxDeveloper/navis/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "FoxDeveloper___kenar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T13:05:33.646Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:42.685Z"
+  "lastFetchedAt": "2017-10-23T19:02:00.857Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:42.685Z",
+  "archived": false
 }

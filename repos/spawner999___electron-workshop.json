@@ -5,7 +5,7 @@
   "owner": {
     "login": "spawner999",
     "id": 14125641,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14125641?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14125641?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/spawner999",
     "htmlUrl": "https://github.com/spawner999",
@@ -75,14 +75,6 @@
     "name": "electron-workshop",
     "description": "A Markdown-to-HTML renderer",
     "version": "1.0.0",
-    "author": {
-      "name": "Feross Aboukhadijeh",
-      "email": "feross@feross.org",
-      "url": "http://feross.org/"
-    },
-    "bugs": {
-      "url": "https://github.com/feross/electron-workshop/issues"
-    },
     "dependencies": {
       "drag-drop": "^2.12.1",
       "jquery": "^3.1.1",
@@ -102,14 +94,21 @@
     "license": "MIT",
     "main": "lib/main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/feross/electron-workshop.git"
-    },
+    "repository": "https://github.com/feross/electron-workshop",
     "scripts": {
       "package": "electron-packager . 'Markdown Editor'",
       "package-all": "electron-packager . 'Markdown Editor' --platform=all --arch=all",
       "start": "electron ."
+    },
+    "other": {
+      "author": {
+        "name": "Feross Aboukhadijeh",
+        "email": "feross@feross.org",
+        "url": "http://feross.org/"
+      },
+      "bugs": {
+        "url": "https://github.com/feross/electron-workshop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   "filename": "spawner999___electron-workshop.json",
   "sourceRepo": "feross/electron-workshop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:05.809Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:23.005Z"
+  "lastFetchedAt": "2017-10-23T20:39:13.315Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:23.005Z",
+  "archived": false
 }

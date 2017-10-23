@@ -5,7 +5,7 @@
   "owner": {
     "login": "SoraWorld",
     "id": 19830593,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19830593?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19830593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SoraWorld",
     "htmlUrl": "https://github.com/SoraWorld",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "SoraWorld",
     "id": 19830593,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19830593?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19830593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SoraWorld",
     "htmlUrl": "https://github.com/SoraWorld",
@@ -89,15 +89,8 @@
       "start": "electron .",
       "pack": "electron-packager ./ --platform=win32 --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SoraWorld/SoraClient.git"
-    },
-    "author": "Himmelt",
+    "repository": "https://github.com/SoraWorld/SoraClient",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/SoraWorld/SoraClient/issues"
-    },
     "homepage": "https://github.com/SoraWorld/SoraClient#readme",
     "keywords": [
       "SoraClient",
@@ -115,6 +108,12 @@
     "devDependencies": {
       "babel-cli": "^6.18.0",
       "babel-preset-react": "^6.16.0"
+    },
+    "other": {
+      "author": "Himmelt",
+      "bugs": {
+        "url": "https://github.com/SoraWorld/SoraClient/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "SoraWorld___SoraClientElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:11.649Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:52.441Z"
+  "lastFetchedAt": "2017-10-23T19:14:50.407Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:52.441Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "thomasdenney",
     "id": 20356546,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20356546?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20356546?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thomasdenney",
     "htmlUrl": "https://github.com/thomasdenney",
@@ -69,7 +69,6 @@
     "name": "code-the-microbit",
     "version": "1.0.0",
     "description": "Blocks / Javascript editor",
-    "author": "Microsoft",
     "main": "main.js",
     "scripts": {
       "start": "node_modules/.bin/electron ."
@@ -77,6 +76,9 @@
     "devDependencies": {
       "electron": "*",
       "pxt-microbit": "*"
+    },
+    "other": {
+      "author": "Microsoft"
     }
   },
   "packageStatus": 200,
@@ -104,6 +106,7 @@
   },
   "filename": "thomasdenney___pxt-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:04:34.752Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:04.566Z"
+  "lastFetchedAt": "2017-10-23T20:45:40.996Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:04.566Z",
+  "archived": false
 }

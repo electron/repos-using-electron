@@ -6,7 +6,7 @@
   "owner": {
     "login": "mjvalade",
     "id": 16725412,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16725412?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16725412?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mjvalade",
     "htmlUrl": "https://github.com/mjvalade",
@@ -70,7 +70,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electron-recipes",
@@ -81,16 +81,9 @@
       "start": "electron .",
       "test": "mocha tests/test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mjvalade/electron-recipes.git"
-    },
+    "repository": "https://github.com/mjvalade/electron-recipes",
     "keywords": [],
-    "author": "Casey Cross and MaryJane Valade",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/mjvalade/electron-recipes/issues"
-    },
     "homepage": "https://github.com/mjvalade/electron-recipes#readme",
     "dependencies": {
       "electron": "^1.4.12",
@@ -110,6 +103,12 @@
       "file-bin": "^0.7.0",
       "mocha": "^3.2.0",
       "spectron": "^3.4.0"
+    },
+    "other": {
+      "author": "Casey Cross and MaryJane Valade",
+      "bugs": {
+        "url": "https://github.com/mjvalade/electron-recipes/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:13.207Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:13.075Z"
+  "lastFetchedAt": "2017-10-23T19:29:18.761Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:13.075Z",
+  "archived": false
 }

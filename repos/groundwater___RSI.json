@@ -5,7 +5,7 @@
   "owner": {
     "login": "groundwater",
     "id": 538488,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/538488?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/538488?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/groundwater",
     "htmlUrl": "https://github.com/groundwater",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/groundwater/RSI/deployments",
   "createdAt": "2016-10-31T00:12:51.000Z",
   "updatedAt": "2016-11-06T22:51:44.000Z",
-  "pushedAt": "2017-01-03T03:56:23.000Z",
+  "pushedAt": "2017-06-09T17:44:26.000Z",
   "gitUrl": "git://github.com/groundwater/RSI.git",
   "sshUrl": "git@github.com:groundwater/RSI.git",
   "cloneUrl": "https://github.com/groundwater/RSI.git",
   "svnUrl": "https://github.com/groundwater/RSI",
   "homepage": null,
-  "size": 37,
+  "size": 69,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 3,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "RSI",
@@ -83,16 +83,9 @@
       "postinstall": "install-app-deps",
       "start": "electron app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/groundwater/RSI.git"
-    },
+    "repository": "https://github.com/groundwater/RSI",
     "keywords": [],
-    "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/groundwater/RSI/issues"
-    },
     "build": {
       "appId": "groundwater.github.io",
       "win": {},
@@ -108,7 +101,13 @@
         ]
       }
     },
-    "homepage": "https://github.com/groundwater/RSI#readme"
+    "homepage": "https://github.com/groundwater/RSI#readme",
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/groundwater/RSI/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +134,7 @@
   },
   "filename": "groundwater___RSI.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:23.012Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:45.226Z"
+  "lastFetchedAt": "2017-10-23T17:41:10.194Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:45.226Z",
+  "archived": false
 }

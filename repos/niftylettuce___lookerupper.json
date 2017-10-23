@@ -5,7 +5,7 @@
   "owner": {
     "login": "niftylettuce",
     "id": 523141,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/523141?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/523141?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/niftylettuce",
     "htmlUrl": "https://github.com/niftylettuce",
@@ -66,10 +66,7 @@
       "dist": "npm run lint && npm run build && npm run package && npm run codesign",
       "zip": "electron-builder \"LookerUpper-darwin-x64/LookerUpper.app\" --platform=osx --out=\"dist/osx\" --config=builder.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/niftylettuce/lookerupper"
-    },
+    "repository": "https://github.com/niftylettuce/lookerupper",
     "keywords": [
       "lookup",
       "highlight",
@@ -87,11 +84,7 @@
       "electron",
       "atom"
     ],
-    "author": "Nick Baugh <niftylettuce@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/niftylettuce/lookerupper"
-    },
     "homepage": "https://github.com/niftylettuce/lookerupper#readme",
     "devDependencies": {
       "babel-cli": "^6.4.5",
@@ -108,6 +101,12 @@
       "babel-regenerator-runtime": "^6.5.0",
       "electron-gh-releases": "^2.0.2",
       "npm-registry-client": "^7.0.9"
+    },
+    "other": {
+      "author": "Nick Baugh <niftylettuce@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/niftylettuce/lookerupper"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   },
   "filename": "niftylettuce___lookerupper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:27.544Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:47.698Z"
+  "lastFetchedAt": "2017-10-23T18:10:46.336Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:47.698Z",
+  "archived": false
 }

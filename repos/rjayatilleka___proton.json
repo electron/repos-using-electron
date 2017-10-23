@@ -5,7 +5,7 @@
   "owner": {
     "login": "rjayatilleka",
     "id": 5570434,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5570434?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5570434?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rjayatilleka",
     "htmlUrl": "https://github.com/rjayatilleka",
@@ -60,15 +60,8 @@
       "start": "electron build/main.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rjayatilleka/proton.git"
-    },
-    "author": "Ramith Jayatilleka",
+    "repository": "https://github.com/rjayatilleka/proton",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rjayatilleka/proton/issues"
-    },
     "homepage": "https://github.com/rjayatilleka/proton#readme",
     "devDependencies": {
       "babel-eslint": "^4.1.6",
@@ -92,6 +85,12 @@
       "js-yaml": "^3.4.5",
       "rx": "^4.0.7",
       "tail": "^0.4.0"
+    },
+    "other": {
+      "author": "Ramith Jayatilleka",
+      "bugs": {
+        "url": "https://github.com/rjayatilleka/proton/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   "svnUrl": "https://github.com/rjayatilleka/proton",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:59:26.011Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:04.638Z"
+  "lastFetchedAt": "2017-10-23T19:33:33.318Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:04.638Z",
+  "archived": false
 }

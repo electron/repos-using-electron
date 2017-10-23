@@ -6,7 +6,7 @@
   "owner": {
     "login": "MeirionHughes",
     "id": 3584509,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3584509?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3584509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MeirionHughes",
     "htmlUrl": "https://github.com/MeirionHughes",
@@ -36,17 +36,17 @@
   "downloadsUrl": "https://api.github.com/repos/MeirionHughes/aurelia-webpack-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/MeirionHughes/aurelia-webpack-electron/deployments",
   "createdAt": "2017-04-06T07:39:19.000Z",
-  "updatedAt": "2017-05-04T16:40:33.000Z",
-  "pushedAt": "2017-05-03T11:13:56.000Z",
+  "updatedAt": "2017-10-11T09:51:47.000Z",
+  "pushedAt": "2017-09-25T11:38:48.000Z",
   "gitUrl": "git://github.com/MeirionHughes/aurelia-webpack-electron.git",
   "sshUrl": "git@github.com:MeirionHughes/aurelia-webpack-electron.git",
   "cloneUrl": "https://github.com/MeirionHughes/aurelia-webpack-electron.git",
   "svnUrl": "https://github.com/MeirionHughes/aurelia-webpack-electron",
   "homepage": null,
-  "size": 20,
-  "stargazersCount": 5,
-  "watchersCount": 5,
-  "language": "CSS",
+  "size": 69,
+  "stargazersCount": 15,
+  "watchersCount": 15,
+  "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,9 +65,9 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 4,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T18:33:43.016Z",
+  "lastFetchedAt": "2017-10-23T19:24:06.393Z",
   "packageJSON": {
     "name": "your-app-name",
     "private": true,
@@ -82,7 +82,6 @@
       "debug": "concurrently \"cross-env NODE_ENV=debug webpack-dev-server --content-base build --watch\" \"wait-on http://localhost:8080 && electron . --enable-logging --remote-debugging-port=9222",
       "develop": "concurrently \"cross-env NODE_ENV=develop webpack-dev-server --content-base build --hot\" \"wait-on http://localhost:8080 && electron .\""
     },
-    "author": "Meirion Hughes <crakinshot@yahoo.com>",
     "license": "MIT",
     "devDependencies": {
       "@types/electron": "^1.4.35",
@@ -122,8 +121,12 @@
     },
     "dependencies": {
       "electron": "^1.4.2"
+    },
+    "other": {
+      "author": "Meirion Hughes <crakinshot@yahoo.com>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:30:42.765Z"
+  "packageLastFetchedAt": "2017-05-05T01:30:42.765Z",
+  "archived": false
 }

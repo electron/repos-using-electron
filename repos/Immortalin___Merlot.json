@@ -5,7 +5,7 @@
   "owner": {
     "login": "Immortalin",
     "id": 7126128,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7126128?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7126128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Immortalin",
     "htmlUrl": "https://github.com/Immortalin",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/Immortalin/Merlot/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Immortalin/Merlot/deployments",
   "createdAt": "2016-10-04T13:06:29.000Z",
-  "updatedAt": "2016-11-09T13:36:21.000Z",
-  "pushedAt": "2016-11-09T13:36:20.000Z",
+  "updatedAt": "2017-08-17T04:48:04.000Z",
+  "pushedAt": "2017-06-20T04:47:08.000Z",
   "gitUrl": "git://github.com/Immortalin/Merlot.git",
   "sshUrl": "git@github.com:Immortalin/Merlot.git",
   "cloneUrl": "https://github.com/Immortalin/Merlot.git",
   "svnUrl": "https://github.com/Immortalin/Merlot",
   "homepage": null,
-  "size": 6,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 12,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 3,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -74,10 +74,7 @@
       "start": "electron .",
       "build": "tsc app.ts"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Immortalin/Merlot"
-    },
+    "repository": "https://github.com/Immortalin/Merlot",
     "keywords": [
       "Rapid Application Development",
       "web template editor",
@@ -91,11 +88,7 @@
       "RAD",
       "RWD"
     ],
-    "author": "",
     "license": "(GPL-3.0 OR Apache-2.0)",
-    "bugs": {
-      "url": "https://github.com/Immortalin/Merlot/issues"
-    },
     "homepage": "https://github.com/Immortalin/Merlot#readme",
     "dependencies": {
       "grapesjs": "^0.3.18",
@@ -103,6 +96,12 @@
     },
     "devDependencies": {
       "electron": "^1.3.4"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/Immortalin/Merlot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "Immortalin___Merlot.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:14:43.768Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:18.143Z"
+  "lastFetchedAt": "2017-10-23T20:19:24.273Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:18.143Z",
+  "archived": false
 }

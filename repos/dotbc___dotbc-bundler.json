@@ -5,7 +5,7 @@
   "owner": {
     "login": "dotbc",
     "id": 21201895,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21201895?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21201895?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dotbc",
     "htmlUrl": "https://github.com/dotbc",
@@ -20,12 +20,12 @@
   "description": null,
   "fork": false,
   "createdAt": "2016-08-25T13:00:08.000Z",
-  "updatedAt": "2017-04-18T16:51:15.000Z",
-  "pushedAt": "2016-08-26T14:23:34.000Z",
+  "updatedAt": "2017-10-07T02:25:53.000Z",
+  "pushedAt": "2017-05-17T14:25:41.000Z",
   "homepage": null,
-  "size": 996,
-  "stargazersCount": 19,
-  "watchersCount": 19,
+  "size": 1061,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 9,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 19,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "dotbc",
     "id": 21201895,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21201895?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21201895?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dotbc",
     "htmlUrl": "https://github.com/dotbc",
@@ -63,17 +63,13 @@
     "type": "Organization"
   },
   "networkCount": 9,
-  "subscribersCount": 17,
+  "subscribersCount": 16,
   "status": 200,
   "packageJSON": {
     "name": "dotbc-desktop",
     "version": "0.0.0",
     "description": "Small description for dotbc-desktop goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -173,6 +168,13 @@
       "extend": "^3.0.0",
       "mkdirp": "^0.5.1",
       "objectify-folder": "^1.0.0"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -220,6 +222,7 @@
   "svnUrl": "https://github.com/dotbc/dotbc-bundler",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:51:19.848Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:19.020Z"
+  "lastFetchedAt": "2017-10-23T17:38:56.961Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:19.020Z",
+  "archived": false
 }

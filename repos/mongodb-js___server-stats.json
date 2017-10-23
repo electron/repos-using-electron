@@ -64,18 +64,13 @@
   },
   "networkCount": 1,
   "subscribersCount": 14,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mongodb-server-stats",
     "description": "MongoDB Server Stats UI Component",
-    "author": "Durran Jordan <durran@gmail.com>",
-    "bugs": "https://github.com/mongodb-js/server-stats/issues",
     "homepage": "https://github.com/mongodb-js/server-stats",
     "version": "0.0.1",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mongodb-js/server-stats.git"
-    },
+    "repository": "https://github.com/mongodb-js/server-stats",
     "license": "Apache-2.0",
     "keywords": [
       "mongodb-js"
@@ -114,6 +109,10 @@
       "mongodb-js-precommit": "^0.2.8",
       "mongodb-runner": "^3.3.2",
       "pre-commit": "^1.1.3"
+    },
+    "other": {
+      "author": "Durran Jordan <durran@gmail.com>",
+      "bugs": "https://github.com/mongodb-js/server-stats/issues"
     }
   },
   "packageStatus": 200,
@@ -161,6 +160,6 @@
   "svnUrl": "https://github.com/mongodb-js/server-stats",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:39:10.775Z",
+  "lastFetchedAt": "2017-10-23T19:02:53.923Z",
   "packageLastFetchedAt": "2017-05-04T22:02:04.063Z"
 }

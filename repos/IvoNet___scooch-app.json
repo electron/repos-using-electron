@@ -5,7 +5,7 @@
   "owner": {
     "login": "IvoNet",
     "id": 741238,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/741238?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/741238?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IvoNet",
     "htmlUrl": "https://github.com/IvoNet",
@@ -87,25 +87,11 @@
       "installer": "node ./script/installer.js",
       "clean": "node ./script/clean.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/IvoNet/scooch-app.git"
-    },
+    "repository": "https://github.com/IvoNet/scooch-app",
     "keywords": [
       "slides, presentations, slideshows, keynote, powerpoint, scooch"
     ],
-    "author": {
-      "name": "Ivo Woltring",
-      "email": "webmaster@ivonet.nl",
-      "url": "http://www.ivonet.nl"
-    },
     "license": "Apache-2.0",
-    "contributors": [
-      {
-        "name": "Philippe Tjon-A-Hen",
-        "url": "https://github.com/pnmtjonahen"
-      }
-    ],
     "devDependencies": {
       "chai": "^3.5.0",
       "chai-as-promised": "^6.0.0",
@@ -154,6 +140,19 @@
       "jquery": "^3.1.1",
       "mathjax": "2.6.1",
       "reveal.js": "^3.3.0"
+    },
+    "other": {
+      "author": {
+        "name": "Ivo Woltring",
+        "email": "webmaster@ivonet.nl",
+        "url": "http://www.ivonet.nl"
+      },
+      "contributors": [
+        {
+          "name": "Philippe Tjon-A-Hen",
+          "url": "https://github.com/pnmtjonahen"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   },
   "filename": "IvoNet___scooch-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:57.480Z",
-  "packageLastFetchedAt": "2017-05-05T15:05:05.540Z"
+  "lastFetchedAt": "2017-10-23T18:09:20.234Z",
+  "packageLastFetchedAt": "2017-05-05T15:05:05.540Z",
+  "archived": false
 }

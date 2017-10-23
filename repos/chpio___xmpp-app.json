@@ -5,7 +5,7 @@
   "owner": {
     "login": "chpio",
     "id": 545659,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/545659?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/545659?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chpio",
     "htmlUrl": "https://github.com/chpio",
@@ -76,7 +76,6 @@
     "version": "0.0.0",
     "description": "xmpp app",
     "main": "lib/main.js",
-    "author": "Thomas Heck <t@b128.net>",
     "license": "GPL3",
     "dependencies": {
       "babel-core": "^6.4.5",
@@ -92,6 +91,9 @@
     "scripts": {
       "install": "neon build",
       "start": "electron ."
+    },
+    "other": {
+      "author": "Thomas Heck <t@b128.net>"
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,7 @@
   },
   "filename": "chpio___xmpp-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:15.195Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:03.702Z"
+  "lastFetchedAt": "2017-10-23T20:34:54.558Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:03.702Z",
+  "archived": false
 }

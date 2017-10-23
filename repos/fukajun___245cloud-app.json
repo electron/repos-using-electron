@@ -5,7 +5,7 @@
   "owner": {
     "login": "fukajun",
     "id": 505115,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/505115?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/505115?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fukajun",
     "htmlUrl": "https://github.com/fukajun",
@@ -80,19 +80,12 @@
       "start": "cd ./build && NODE_ENV=development electron ./index.js",
       "build": "./build.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fukajun/245cloud-app"
-    },
+    "repository": "https://github.com/fukajun/245cloud-app",
     "keywords": [
       "245cloud",
       "menubar"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/fukajun/245cloud-app/issues"
-    },
     "homepage": "https://github.com/fukajun/245cloud-app",
     "devDependencies": {
       "babel-preset-es2015": "^6.3.13",
@@ -111,6 +104,12 @@
       "menubar": "^5.0.0",
       "node-notifier": "^4.4.0",
       "request": "^2.67.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/fukajun/245cloud-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "fukajun___245cloud-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:06:02.002Z",
-  "packageLastFetchedAt": "2017-05-04T22:28:19.053Z"
+  "lastFetchedAt": "2017-10-23T20:53:53.907Z",
+  "packageLastFetchedAt": "2017-05-04T22:28:19.053Z",
+  "archived": false
 }

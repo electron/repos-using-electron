@@ -5,7 +5,7 @@
   "owner": {
     "login": "jonasknutsen",
     "id": 5656425,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5656425?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5656425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jonasknutsen",
     "htmlUrl": "https://github.com/jonasknutsen",
@@ -73,23 +73,22 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jonasknutsen/electron-xml.git"
-    },
+    "repository": "https://github.com/jonasknutsen/electron-xml",
     "keywords": [
       "XML",
       "Electron"
     ],
-    "author": "Jonas Knutsen",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jonasknutsen/electron-xml/issues"
-    },
     "homepage": "https://github.com/jonasknutsen/electron-xml#readme",
     "dependencies": {
       "electron-prebuilt": "^1.3.4",
       "marked": "^0.3.6"
+    },
+    "other": {
+      "author": "Jonas Knutsen",
+      "bugs": {
+        "url": "https://github.com/jonasknutsen/electron-xml/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "jonasknutsen___electron-xml.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:12:22.856Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:42.117Z"
+  "lastFetchedAt": "2017-10-23T18:27:27.294Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:42.117Z",
+  "archived": false
 }

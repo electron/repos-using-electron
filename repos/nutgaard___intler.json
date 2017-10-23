@@ -5,7 +5,7 @@
   "owner": {
     "login": "nutgaard",
     "id": 1413417,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1413417?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1413417?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nutgaard",
     "htmlUrl": "https://github.com/nutgaard",
@@ -76,7 +76,6 @@
       "dev:style": "node-sass -w app/main.scss style.css",
       "dev": "concurrently --kill-others \"npm run dev:js\" \"npm run dev:style\""
     },
-    "author": "Nicklas Utgaard",
     "license": "MIT",
     "dependencies": {
       "electron": "^0.4.1",
@@ -100,6 +99,9 @@
       "mobx-react-devtools": "^4.2.0",
       "node-sass": "^3.7.0",
       "watchify": "^3.7.0"
+    },
+    "other": {
+      "author": "Nicklas Utgaard"
     }
   },
   "packageStatus": 200,
@@ -127,6 +129,7 @@
   },
   "filename": "nutgaard___intler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:57:07.771Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:07.896Z"
+  "lastFetchedAt": "2017-10-23T17:05:37.838Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:07.896Z",
+  "archived": false
 }

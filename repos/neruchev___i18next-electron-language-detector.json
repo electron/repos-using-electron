@@ -5,7 +5,7 @@
   "owner": {
     "login": "neruchev",
     "id": 12457398,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12457398?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12457398?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/neruchev",
     "htmlUrl": "https://github.com/neruchev",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/neruchev/i18next-electron-language-detector/deployments",
   "createdAt": "2016-10-02T14:15:56.000Z",
   "updatedAt": "2016-12-17T11:21:41.000Z",
-  "pushedAt": "2016-10-22T21:50:17.000Z",
+  "pushedAt": "2017-06-10T21:13:03.000Z",
   "gitUrl": "git://github.com/neruchev/i18next-electron-language-detector.git",
   "sshUrl": "git@github.com:neruchev/i18next-electron-language-detector.git",
   "cloneUrl": "https://github.com/neruchev/i18next-electron-language-detector.git",
   "svnUrl": "https://github.com/neruchev/i18next-electron-language-detector",
   "homepage": null,
-  "size": 4,
+  "size": 6,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -82,18 +82,8 @@
       "i18next-language-detector"
     ],
     "license": "MIT",
-    "author": {
-      "name": "Cyril Neruchev",
-      "email": "k.neruchev@gmail.com"
-    },
     "homepage": "https://github.com/neruchev/i18next-electron-language-detector",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:neruchev/i18next-electron-language-detector.git"
-    },
-    "bugs": {
-      "url": "https://github.com/neruchev/i18next-electron-language-detector/issues"
-    },
+    "repository": "https://github.com/neruchev/i18next-electron-language-detector",
     "main": "build/index.js",
     "scripts": {
       "build": "babel src -d build"
@@ -107,6 +97,15 @@
       "babel-plugin-add-module-exports": "*",
       "babel-preset-es2015": "*",
       "babel-register": "*"
+    },
+    "other": {
+      "author": {
+        "name": "Cyril Neruchev",
+        "email": "k.neruchev@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/neruchev/i18next-electron-language-detector/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "neruchev___i18next-electron-language-detector.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:38.993Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:58.884Z"
+  "lastFetchedAt": "2017-10-23T20:33:47.195Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:58.884Z",
+  "archived": false
 }

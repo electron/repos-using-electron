@@ -5,7 +5,7 @@
   "owner": {
     "login": "seanchas116",
     "id": 1025246,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1025246?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1025246?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/seanchas116",
     "htmlUrl": "https://github.com/seanchas116",
@@ -20,12 +20,12 @@
   "description": "Safe communication between main process and renderer processes in Electron",
   "fork": false,
   "createdAt": "2015-07-08T05:17:48.000Z",
-  "updatedAt": "2017-04-01T11:28:56.000Z",
+  "updatedAt": "2017-09-22T22:33:11.000Z",
   "pushedAt": "2015-11-05T08:53:31.000Z",
   "homepage": "",
   "size": 176,
-  "stargazersCount": 22,
-  "watchersCount": 22,
+  "stargazersCount": 24,
+  "watchersCount": 24,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 22,
+  "watchers": 24,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,15 +56,11 @@
     "version": "0.6.2",
     "description": "Safe communication between main process and renderer processes in Electron",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "renderer-bundle": "browserify guest.js -o guest-bundle.js -s electronSafeIpc",
       "pretest": "npm run renderer-bundle",
       "test": "electron test/webview && electron test/browser-window"
     },
-    "author": "Ryohei Ikegami <iofg2100@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "browserify": "^11.0.1",
@@ -77,14 +73,17 @@
       "electron",
       "ipc"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/seanchas116/electron-safe-ipc.git"
-    },
-    "bugs": {
-      "url": "https://github.com/seanchas116/electron-safe-ipc/issues"
-    },
-    "homepage": "https://github.com/seanchas116/electron-safe-ipc#readme"
+    "repository": "https://github.com/seanchas116/electron-safe-ipc",
+    "homepage": "https://github.com/seanchas116/electron-safe-ipc#readme",
+    "other": {
+      "author": "Ryohei Ikegami <iofg2100@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/seanchas116/electron-safe-ipc/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/seanchas116/electron-safe-ipc",
@@ -131,6 +130,7 @@
   },
   "filename": "seanchas116___electron-safe-ipc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:29:33.715Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:19.447Z"
+  "lastFetchedAt": "2017-10-23T18:30:30.485Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:19.447Z",
+  "archived": false
 }

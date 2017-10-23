@@ -5,7 +5,7 @@
   "owner": {
     "login": "dceejay",
     "id": 5375409,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5375409?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5375409?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dceejay",
     "htmlUrl": "https://github.com/dceejay",
@@ -20,21 +20,21 @@
   "description": "Electron Node-RED template",
   "fork": true,
   "createdAt": "2016-05-06T12:14:49.000Z",
-  "updatedAt": "2016-11-30T23:57:27.000Z",
-  "pushedAt": "2017-04-22T16:49:39.000Z",
+  "updatedAt": "2017-06-28T16:09:28.000Z",
+  "pushedAt": "2017-10-19T08:03:25.000Z",
   "homepage": null,
-  "size": 362,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 367,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": false,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "owner": {
       "login": "natcl",
       "id": 77556,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/77556?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/77556?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/natcl",
       "htmlUrl": "https://github.com/natcl",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/natcl/electron-node-red/downloads",
     "deploymentsUrl": "https://api.github.com/repos/natcl/electron-node-red/deployments",
     "createdAt": "2016-03-09T21:48:13.000Z",
-    "updatedAt": "2017-03-16T16:48:20.000Z",
-    "pushedAt": "2016-10-19T18:35:12.000Z",
+    "updatedAt": "2017-10-18T02:51:21.000Z",
+    "pushedAt": "2017-10-06T20:13:43.000Z",
     "gitUrl": "git://github.com/natcl/electron-node-red.git",
     "sshUrl": "git@github.com:natcl/electron-node-red.git",
     "cloneUrl": "https://github.com/natcl/electron-node-red.git",
     "svnUrl": "https://github.com/natcl/electron-node-red",
     "homepage": null,
-    "size": 327,
-    "stargazersCount": 9,
-    "watchersCount": 9,
+    "size": 366,
+    "stargazersCount": 17,
+    "watchersCount": 17,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 12,
+    "forksCount": 16,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 9,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 17,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "natcl",
       "id": 77556,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/77556?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/77556?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/natcl",
       "htmlUrl": "https://github.com/natcl",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/natcl/electron-node-red/downloads",
     "deploymentsUrl": "https://api.github.com/repos/natcl/electron-node-red/deployments",
     "createdAt": "2016-03-09T21:48:13.000Z",
-    "updatedAt": "2017-03-16T16:48:20.000Z",
-    "pushedAt": "2016-10-19T18:35:12.000Z",
+    "updatedAt": "2017-10-18T02:51:21.000Z",
+    "pushedAt": "2017-10-06T20:13:43.000Z",
     "gitUrl": "git://github.com/natcl/electron-node-red.git",
     "sshUrl": "git@github.com:natcl/electron-node-red.git",
     "cloneUrl": "https://github.com/natcl/electron-node-red.git",
     "svnUrl": "https://github.com/natcl/electron-node-red",
     "homepage": null,
-    "size": 327,
-    "stargazersCount": 9,
-    "watchersCount": 9,
+    "size": 366,
+    "stargazersCount": 17,
+    "watchersCount": 17,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 12,
+    "forksCount": 16,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 9,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 17,
     "defaultBranch": "master"
   },
-  "networkCount": 12,
+  "networkCount": 16,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -190,10 +192,7 @@
       "build:win64": "npm run pack:win64 && ./makewin64.js",
       "build:armv7l": "npm run pack:armv7l && fpm -s dir -t deb -f -n node-red-electron -v $npm_package_version -m conway@uk.ibm.com -a armv7l -p ../electron-bin -C build/Node-RED-linux-armv7l --prefix=/opt/node-red --after-install=afterinst.sh ./"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dceejay/electron-node-red.git"
-    },
+    "repository": "https://github.com/dceejay/electron-node-red",
     "dependencies": {
       "node-red": "*",
       "node-red-dashboard": "node-red/node-red-dashboard",
@@ -210,24 +209,26 @@
       "quick start",
       "node-red"
     ],
-    "contributors": [
-      {
-        "name": "Dave Conway-Jones"
-      },
-      {
-        "name": "Nathanaël Lécaudé"
-      }
-    ],
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/dceejay/electron-node-red/issues"
-    },
     "homepage": "https://github.com/dceejay/electron-node-red#readme",
     "devDependencies": {
       "electron": "^1.4.13",
       "electron-rebuild": "*",
       "electron-squirrel-startup": "*",
       "electron-winstaller": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dceejay/electron-node-red/issues"
+      },
+      "contributors": [
+        {
+          "name": "Dave Conway-Jones"
+        },
+        {
+          "name": "Nathanaël Lécaudé"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -276,6 +277,7 @@
   "filename": "dceejay___electron-node-red.json",
   "sourceRepo": "natcl/electron-node-red",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:46.780Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:22.041Z"
+  "lastFetchedAt": "2017-10-23T18:12:34.689Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:22.041Z",
+  "archived": false
 }

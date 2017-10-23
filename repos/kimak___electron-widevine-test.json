@@ -5,7 +5,7 @@
   "owner": {
     "login": "kimak",
     "id": 1573707,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1573707?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1573707?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kimak",
     "htmlUrl": "https://github.com/kimak",
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/kimak/electron-widevine-test",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:41:46.699Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:21.026Z"
+  "lastFetchedAt": "2017-10-23T17:56:56.001Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:21.026Z",
+  "archived": false
 }

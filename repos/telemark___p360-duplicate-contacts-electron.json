@@ -5,7 +5,7 @@
   "owner": {
     "login": "telemark",
     "id": 2202656,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2202656?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2202656?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/telemark",
     "htmlUrl": "https://github.com/telemark",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "telemark",
     "id": 2202656,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2202656?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2202656?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/telemark",
     "htmlUrl": "https://github.com/telemark",
@@ -95,21 +95,14 @@
       "setup": "npm install && node setup.js",
       "ship": "electron-packager ./ p360Duplicates --all --out ~/Desktop/p360Duplicates --version 0.36.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/telemark/p360-duplicate-contacts-electron.git"
-    },
+    "repository": "https://github.com/telemark/p360-duplicate-contacts-electron",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/telemark/p360-duplicate-contacts-electron/issues"
-    },
     "homepage": "https://github.com/telemark/p360-duplicate-contacts-electron",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -118,6 +111,12 @@
     "dependencies": {
       "opn": "^4.0.0",
       "p360-duplicate-contacts": "^2.0.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/telemark/p360-duplicate-contacts-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "telemark___p360-duplicate-contacts-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:26.166Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:05.749Z"
+  "lastFetchedAt": "2017-10-23T18:55:46.212Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:05.749Z",
+  "archived": false
 }

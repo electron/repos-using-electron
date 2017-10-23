@@ -5,7 +5,7 @@
   "owner": {
     "login": "ungoldman",
     "id": 427322,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/427322?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/427322?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ungoldman",
     "htmlUrl": "https://github.com/ungoldman",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/ungoldman/hi8/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ungoldman/hi8/deployments",
   "createdAt": "2016-10-04T00:03:44.000Z",
-  "updatedAt": "2017-03-28T17:23:15.000Z",
+  "updatedAt": "2017-07-09T20:34:11.000Z",
   "pushedAt": "2017-02-05T01:09:13.000Z",
   "gitUrl": "git://github.com/ungoldman/hi8.git",
   "sshUrl": "git@github.com:ungoldman/hi8.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/ungoldman/hi8",
   "homepage": "",
   "size": 533,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 9,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,19 +68,15 @@
     "url": "https://api.github.com/licenses/isc",
     "featured": false
   },
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "hi8",
     "description": "See Earth from Himawari-8 on your desktop every 10 minutes.",
     "version": "0.1.2",
-    "author": "Nate Goldman <ungoldman@gmail.com>",
     "bin": {
       "hi8": "./bin.js"
-    },
-    "bugs": {
-      "url": "https://github.com/ungoldman/hi8/issues"
     },
     "dependencies": {
       "daemon": "^1.1.0",
@@ -109,10 +105,7 @@
     ],
     "license": "ISC",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ungoldman/hi8.git"
-    },
+    "repository": "https://github.com/ungoldman/hi8",
     "scripts": {
       "gh-pages": "npm run site && gh-pages -d site",
       "preview": "npm-run-all site --parallel serve:*",
@@ -124,6 +117,12 @@
       "site:img": "cp -R assets/ site/assets/",
       "start": "electron .",
       "test": "standard"
+    },
+    "other": {
+      "author": "Nate Goldman <ungoldman@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/ungoldman/hi8/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "ungoldman___hi8.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:17:57.071Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:54.685Z"
+  "lastFetchedAt": "2017-10-23T18:15:42.896Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:54.685Z",
+  "archived": false
 }

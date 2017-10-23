@@ -5,7 +5,7 @@
   "owner": {
     "login": "asiaszumial",
     "id": 15234423,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15234423?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15234423?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/asiaszumial",
     "htmlUrl": "https://github.com/asiaszumial",
@@ -70,9 +70,6 @@
     "version": "1.0.0",
     "description": "Multi-criteria decision making system using AHP method",
     "main": "./app/main.js",
-    "author": {
-      "name": "js"
-    },
     "scripts": {
       "build": "webpack --progress --profile --colors --display-error-details --display-cached",
       "watch": "webpack --watch --progress --profile --colors --display-error-details --display-cached",
@@ -99,6 +96,11 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.26",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": {
+        "name": "js"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +128,7 @@
   },
   "filename": "asiaszumial___mcdm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:52.803Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:49.912Z"
+  "lastFetchedAt": "2017-10-23T17:50:57.163Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:49.912Z",
+  "archived": false
 }

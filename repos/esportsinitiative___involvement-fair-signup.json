@@ -5,7 +5,7 @@
   "owner": {
     "login": "esportsinitiative",
     "id": 17685512,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17685512?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17685512?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/esportsinitiative",
     "htmlUrl": "https://github.com/esportsinitiative",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "esportsinitiative",
     "id": 17685512,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17685512?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17685512?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/esportsinitiative",
     "htmlUrl": "https://github.com/esportsinitiative",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "electron",
       "id": 13409222,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13409222?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13409222?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/electron",
       "htmlUrl": "https://github.com/electron",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/electron/electron-quick-start/downloads",
     "deploymentsUrl": "https://api.github.com/repos/electron/electron-quick-start/deployments",
     "createdAt": "2015-10-16T23:56:39.000Z",
-    "updatedAt": "2017-05-04T04:38:50.000Z",
-    "pushedAt": "2017-04-05T19:18:19.000Z",
+    "updatedAt": "2017-10-23T19:53:58.000Z",
+    "pushedAt": "2017-09-27T22:05:59.000Z",
     "gitUrl": "git://github.com/electron/electron-quick-start.git",
     "sshUrl": "git@github.com:electron/electron-quick-start.git",
     "cloneUrl": "https://github.com/electron/electron-quick-start.git",
     "svnUrl": "https://github.com/electron/electron-quick-start",
     "homepage": "https://electron.atom.io/docs/tutorial/quick-start/",
-    "size": 42,
-    "stargazersCount": 2360,
-    "watchersCount": 2360,
+    "size": 44,
+    "stargazersCount": 3026,
+    "watchersCount": 3026,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1096,
+    "forksCount": 1497,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 2360,
+    "archived": false,
+    "openIssuesCount": 18,
+    "openIssues": 18,
+    "watchers": 3026,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "electron",
       "id": 13409222,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13409222?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13409222?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/electron",
       "htmlUrl": "https://github.com/electron",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/electron/electron-quick-start/downloads",
     "deploymentsUrl": "https://api.github.com/repos/electron/electron-quick-start/deployments",
     "createdAt": "2015-10-16T23:56:39.000Z",
-    "updatedAt": "2017-05-04T04:38:50.000Z",
-    "pushedAt": "2017-04-05T19:18:19.000Z",
+    "updatedAt": "2017-10-23T19:53:58.000Z",
+    "pushedAt": "2017-09-27T22:05:59.000Z",
     "gitUrl": "git://github.com/electron/electron-quick-start.git",
     "sshUrl": "git@github.com:electron/electron-quick-start.git",
     "cloneUrl": "https://github.com/electron/electron-quick-start.git",
     "svnUrl": "https://github.com/electron/electron-quick-start",
     "homepage": "https://electron.atom.io/docs/tutorial/quick-start/",
-    "size": 42,
-    "stargazersCount": 2360,
-    "watchersCount": 2360,
+    "size": 44,
+    "stargazersCount": 3026,
+    "watchersCount": 3026,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1096,
+    "forksCount": 1497,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 2360,
+    "archived": false,
+    "openIssuesCount": 18,
+    "openIssues": 18,
+    "watchers": 3026,
     "defaultBranch": "master"
   },
-  "networkCount": 1096,
+  "networkCount": 1497,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -188,25 +190,24 @@
       "start": "electron .",
       "build": "electron-packager . test --all --ignore=node_modules/electron-*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/esportsinitiative/involvement-fair-signup.git"
-    },
+    "repository": "https://github.com/esportsinitiative/involvement-fair-signup",
     "keywords": [
       "esi",
       "signup",
       "osu",
       "involvement fair"
     ],
-    "author": "eSports Initiative",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/esportsinitiative/involvement-fair-signup/issues"
-    },
     "homepage": "https://github.com/esportsinitiative/involvement-fair-signup#readme",
     "devDependencies": {
       "electron-packager": "^7.7.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "eSports Initiative",
+      "bugs": {
+        "url": "https://github.com/esportsinitiative/involvement-fair-signup/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -255,6 +256,7 @@
   "svnUrl": "https://github.com/esportsinitiative/involvement-fair-signup",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:09:58.213Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:25.557Z"
+  "lastFetchedAt": "2017-10-23T20:46:08.152Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:25.557Z",
+  "archived": false
 }

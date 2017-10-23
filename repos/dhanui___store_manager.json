@@ -5,7 +5,7 @@
   "owner": {
     "login": "dhanui",
     "id": 3590306,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3590306?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3590306?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dhanui",
     "htmlUrl": "https://github.com/dhanui",
@@ -56,14 +56,7 @@
     "description": "A simple desktop to manage your store",
     "version": "1.0.0",
     "license": "MIT",
-    "author": {
-      "name": "Danny Andrianto",
-      "email": "danny_andrianto@hotmail.com"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dhanui/store_manager.git"
-    },
+    "repository": "https://github.com/dhanui/store_manager",
     "main": "index.js",
     "scripts": {
       "start": "electron ."
@@ -77,6 +70,12 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.35.2"
+    },
+    "other": {
+      "author": {
+        "name": "Danny Andrianto",
+        "email": "danny_andrianto@hotmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "dhanui___store_manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:41.422Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:39.149Z"
+  "lastFetchedAt": "2017-10-23T18:13:28.616Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:39.149Z",
+  "archived": false
 }

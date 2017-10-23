@@ -5,7 +5,7 @@
   "owner": {
     "login": "sergiandreplace",
     "id": 541020,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/541020?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/541020?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sergiandreplace",
     "htmlUrl": "https://github.com/sergiandreplace",
@@ -73,26 +73,25 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sergiandreplace/over-desktop.git"
-    },
+    "repository": "https://github.com/sergiandreplace/over-desktop",
     "keywords": [
       "over",
       "android",
       "desktop",
       "pixel-perfect"
     ],
-    "author": "Sergi Martínez <sergi.martinez@gmail.com>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/sergiandreplace/over-desktop/issues"
-    },
     "homepage": "https://github.com/sergiandreplace/over-desktop#readme",
     "dependencies": {
       "electron-prebuilt": "^0.36.1",
       "node-localstorage": "^0.6.0",
       "ws": "^0.8.1"
+    },
+    "other": {
+      "author": "Sergi Martínez <sergi.martinez@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/sergiandreplace/over-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   },
   "filename": "sergiandreplace___over-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:38.966Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:20.270Z"
+  "lastFetchedAt": "2017-10-23T18:15:45.889Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:20.270Z",
+  "archived": false
 }

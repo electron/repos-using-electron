@@ -5,7 +5,7 @@
   "owner": {
     "login": "tomb0y",
     "id": 405732,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/405732?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/405732?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomb0y",
     "htmlUrl": "https://github.com/tomb0y",
@@ -64,8 +64,10 @@
       "start": "electron .",
       "package": "electron-packager ./ WaniKani --all --out=../wk-release --version=0.33.0 --ignore=./node_modules"
     },
-    "author": "tomboy",
-    "license": "GLPv3"
+    "license": "GLPv3",
+    "other": {
+      "author": "tomboy"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/tomb0y/wanikani-desktop",
@@ -112,6 +114,7 @@
   },
   "filename": "tomb0y___wanikani-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:30:41.150Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:38.484Z"
+  "lastFetchedAt": "2017-10-23T20:34:48.566Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:38.484Z",
+  "archived": false
 }

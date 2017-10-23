@@ -6,7 +6,7 @@
   "owner": {
     "login": "Ral15",
     "id": 11182088,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11182088?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11182088?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Ral15",
     "htmlUrl": "https://github.com/Ral15",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/Ral15/jp2_offline/deployments",
   "createdAt": "2017-02-17T16:13:05.000Z",
   "updatedAt": "2017-03-21T16:17:51.000Z",
-  "pushedAt": "2017-05-03T19:41:46.000Z",
+  "pushedAt": "2017-05-12T20:30:51.000Z",
   "gitUrl": "git://github.com/Ral15/jp2_offline.git",
   "sshUrl": "git@github.com:Ral15/jp2_offline.git",
   "cloneUrl": "https://github.com/Ral15/jp2_offline.git",
   "svnUrl": "https://github.com/Ral15/jp2_offline",
   "homepage": null,
-  "size": 1897,
+  "size": 2369,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 4,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:09:03.844Z",
+  "lastFetchedAt": "2017-10-23T18:17:57.189Z",
   "packageJSON": {
     "name": "jp2_offline",
     "version": "1.0.0",
@@ -79,15 +79,8 @@
       "build": "./node_modules/.bin/electron-packager . jp2",
       "lint": "./node_modules/.bin/eslint ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ral15/jp2_offline.git"
-    },
-    "author": "",
+    "repository": "https://github.com/Ral15/jp2_offline",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Ral15/jp2_offline/issues"
-    },
     "homepage": "https://github.com/Ral15/jp2_offline#readme",
     "devDependencies": {
       "electron": "^1.4.15",
@@ -103,8 +96,15 @@
       "bcryptjs": "^2.4.3",
       "chai": "^3.5.0",
       "chai-as-promised": "^6.0.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/Ral15/jp2_offline/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:46:32.802Z"
+  "packageLastFetchedAt": "2017-05-05T14:46:32.802Z",
+  "archived": false
 }

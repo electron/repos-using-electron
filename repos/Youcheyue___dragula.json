@@ -6,7 +6,7 @@
   "owner": {
     "login": "Youcheyue",
     "id": 17919914,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17919914?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17919914?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Youcheyue",
     "htmlUrl": "https://github.com/Youcheyue",
@@ -66,7 +66,7 @@
   "organization": {
     "login": "Youcheyue",
     "id": 17919914,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17919914?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17919914?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Youcheyue",
     "htmlUrl": "https://github.com/Youcheyue",
@@ -84,7 +84,7 @@
     "owner": {
       "login": "bevacqua",
       "id": 934293,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/934293?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/934293?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bevacqua",
       "htmlUrl": "https://github.com/bevacqua",
@@ -114,27 +114,28 @@
     "downloadsUrl": "https://api.github.com/repos/bevacqua/dragula/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bevacqua/dragula/deployments",
     "createdAt": "2015-04-13T21:35:38.000Z",
-    "updatedAt": "2017-05-04T07:32:44.000Z",
-    "pushedAt": "2017-04-24T15:42:18.000Z",
+    "updatedAt": "2017-10-23T15:59:54.000Z",
+    "pushedAt": "2017-08-15T13:00:45.000Z",
     "gitUrl": "git://github.com/bevacqua/dragula.git",
     "sshUrl": "git@github.com:bevacqua/dragula.git",
     "cloneUrl": "https://github.com/bevacqua/dragula.git",
     "svnUrl": "https://github.com/bevacqua/dragula",
     "homepage": "https://bevacqua.github.io/dragula/",
-    "size": 1813,
-    "stargazersCount": 15817,
-    "watchersCount": 15817,
+    "size": 1826,
+    "stargazersCount": 16719,
+    "watchersCount": 16719,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 1074,
+    "forksCount": 1225,
     "mirrorUrl": null,
-    "openIssuesCount": 124,
-    "openIssues": 124,
-    "watchers": 15817,
+    "archived": false,
+    "openIssuesCount": 151,
+    "openIssues": 151,
+    "watchers": 16719,
     "defaultBranch": "master"
   },
   "source": {
@@ -144,7 +145,7 @@
     "owner": {
       "login": "bevacqua",
       "id": 934293,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/934293?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/934293?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bevacqua",
       "htmlUrl": "https://github.com/bevacqua",
@@ -174,30 +175,31 @@
     "downloadsUrl": "https://api.github.com/repos/bevacqua/dragula/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bevacqua/dragula/deployments",
     "createdAt": "2015-04-13T21:35:38.000Z",
-    "updatedAt": "2017-05-04T07:32:44.000Z",
-    "pushedAt": "2017-04-24T15:42:18.000Z",
+    "updatedAt": "2017-10-23T15:59:54.000Z",
+    "pushedAt": "2017-08-15T13:00:45.000Z",
     "gitUrl": "git://github.com/bevacqua/dragula.git",
     "sshUrl": "git@github.com:bevacqua/dragula.git",
     "cloneUrl": "https://github.com/bevacqua/dragula.git",
     "svnUrl": "https://github.com/bevacqua/dragula",
     "homepage": "https://bevacqua.github.io/dragula/",
-    "size": 1813,
-    "stargazersCount": 15817,
-    "watchersCount": 15817,
+    "size": 1826,
+    "stargazersCount": 16719,
+    "watchersCount": 16719,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 1074,
+    "forksCount": 1225,
     "mirrorUrl": null,
-    "openIssuesCount": 124,
-    "openIssues": 124,
-    "watchers": 15817,
+    "archived": false,
+    "openIssuesCount": 151,
+    "openIssues": 151,
+    "watchers": 16719,
     "defaultBranch": "master"
   },
-  "networkCount": 1074,
+  "networkCount": 1225,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -220,15 +222,8 @@
       "test": "npm run lint && browserify test/*.js | tape-run",
       "test-watch": "hihat test/*.js -p tap-dev-tool"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bevacqua/dragula.git"
-    },
-    "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+    "repository": "https://github.com/bevacqua/dragula",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bevacqua/dragula/issues"
-    },
     "homepage": "https://github.com/bevacqua/dragula",
     "dependencies": {
       "contra": "1.9.1",
@@ -250,6 +245,12 @@
       "tape-run": "^2.1.3",
       "uglify-js": "2.4.24",
       "watchify": "3.3.0"
+    },
+    "other": {
+      "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+      "bugs": {
+        "url": "https://github.com/bevacqua/dragula/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -277,6 +278,7 @@
   },
   "sourceRepo": "bevacqua/dragula",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T09:03:36.922Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:31.129Z"
+  "lastFetchedAt": "2017-10-23T17:45:02.624Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:31.129Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "devfred",
     "id": 235255,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/235255?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/235255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/devfred",
     "htmlUrl": "https://github.com/devfred",
@@ -61,18 +61,17 @@
       "win-bundle": "electron-packager . --platform=win32 --arch=ia32 --version=0.35.4 --icon=icon.ico",
       "linux-64-bundle": "electron-packager . --platform=linux --arch=x64 --version=0.35.4 ignore='node_modules/(electron-packager|electron-prebuilt)'"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/devfred/electron-application-starter.git"
-    },
+    "repository": "https://github.com/devfred/electron-application-starter",
     "keywords": [
       "electron"
     ],
-    "author": "Creative Wizardry",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Creative Wizardry"
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "svnUrl": "https://github.com/devfred/electron-application-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:39:22.831Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:26.086Z"
+  "lastFetchedAt": "2017-10-23T17:24:19.391Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:26.086Z",
+  "archived": false
 }

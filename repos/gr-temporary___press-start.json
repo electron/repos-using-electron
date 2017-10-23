@@ -5,7 +5,7 @@
   "owner": {
     "login": "gr-temporary",
     "id": 5462791,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5462791?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5462791?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gr-temporary",
     "htmlUrl": "https://github.com/gr-temporary",
@@ -79,20 +79,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gr-temporary/press-start.git"
-    },
+    "repository": "https://github.com/gr-temporary/press-start",
     "keywords": [
       "nes",
       "emulator",
       "electron"
     ],
-    "author": "Grgd",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/gr-temporary/press-start/issues"
-    },
     "homepage": "https://github.com/gr-temporary/press-start#readme",
     "dependencies": {
       "electron-prebuilt": "^1.3.3",
@@ -100,6 +93,12 @@
       "ip": "^1.1.3",
       "node-ip": "^0.1.2",
       "socket.io": "^1.4.8"
+    },
+    "other": {
+      "author": "Grgd",
+      "bugs": {
+        "url": "https://github.com/gr-temporary/press-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "gr-temporary___press-start.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:40:42.540Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:32.449Z"
+  "lastFetchedAt": "2017-10-23T17:36:42.721Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:32.449Z",
+  "archived": false
 }

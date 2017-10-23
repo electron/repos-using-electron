@@ -5,7 +5,7 @@
   "owner": {
     "login": "noboru-i",
     "id": 1567757,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1567757?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1567757?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/noboru-i",
     "htmlUrl": "https://github.com/noboru-i",
@@ -58,16 +58,9 @@
       "lint": "eslint src",
       "package": "gulp package:darwin"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/noboru-i/issue-hub.git"
-    },
+    "repository": "https://github.com/noboru-i/issue-hub",
     "keywords": [],
-    "author": "noboru-i",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/noboru-i/issue-hub/issues"
-    },
     "homepage": "https://github.com/noboru-i/issue-hub",
     "devDependencies": {
       "babel-core": "^6.3.13",
@@ -100,6 +93,12 @@
       "react-addons-update": "^0.14.0",
       "react-dom": "^0.14.0",
       "url": "^0.11.0"
+    },
+    "other": {
+      "author": "noboru-i",
+      "bugs": {
+        "url": "https://github.com/noboru-i/issue-hub/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "noboru-i___issue-hub.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:31.775Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:29.925Z"
+  "lastFetchedAt": "2017-10-23T18:06:01.937Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:29.925Z",
+  "archived": false
 }

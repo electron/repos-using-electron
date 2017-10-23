@@ -5,7 +5,7 @@
   "owner": {
     "login": "Praseetha-KR",
     "id": 1054350,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1054350?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1054350?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Praseetha-KR",
     "htmlUrl": "https://github.com/Praseetha-KR",
@@ -20,12 +20,12 @@
   "description": "✅ Todo list manager Menubar App for OSX",
   "fork": false,
   "createdAt": "2016-08-17T00:16:24.000Z",
-  "updatedAt": "2017-01-31T10:14:00.000Z",
+  "updatedAt": "2017-08-20T19:47:47.000Z",
   "pushedAt": "2016-08-24T23:21:44.000Z",
   "homepage": "",
   "size": 77412,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -93,16 +93,15 @@
       "dist": "npm run build && build",
       "release": "npm run build && build --publish=onTagOrDraft"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Praseetha-KR/postit.git"
-    },
-    "author": "Praseetha KR",
+    "repository": "https://github.com/Praseetha-KR/postit",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Praseetha-KR/postit/issues"
-    },
-    "homepage": "https://github.com/Praseetha-KR/postit#readme"
+    "homepage": "https://github.com/Praseetha-KR/postit#readme",
+    "other": {
+      "author": "Praseetha KR",
+      "bugs": {
+        "url": "https://github.com/Praseetha-KR/postit/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -149,6 +148,7 @@
   "svnUrl": "https://github.com/Praseetha-KR/postit-todo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:18:08.105Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:55.699Z"
+  "lastFetchedAt": "2017-10-23T19:31:02.552Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:55.699Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "wttechsolutions",
     "id": 18379477,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18379477?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18379477?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wttechsolutions",
     "htmlUrl": "https://github.com/wttechsolutions",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "wttechsolutions",
     "id": 18379477,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18379477?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18379477?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wttechsolutions",
     "htmlUrl": "https://github.com/wttechsolutions",
@@ -96,21 +96,14 @@
       "microphone-debug": "electron scripts/microphone-debug/main.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "install": "^0.6.1",
@@ -124,6 +117,12 @@
       "express": "^4.13.4",
       "fitbit-oauth2": "0.0.1",
       "fs": "0.0.2"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "wttechsolutions___Mirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:22.288Z",
-  "packageLastFetchedAt": "2017-05-04T22:35:09.549Z"
+  "lastFetchedAt": "2017-10-23T17:23:27.230Z",
+  "packageLastFetchedAt": "2017-05-04T22:35:09.549Z",
+  "archived": false
 }

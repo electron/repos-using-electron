@@ -5,7 +5,7 @@
   "owner": {
     "login": "rgbkrk",
     "id": 836375,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/836375?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/836375?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rgbkrk",
     "htmlUrl": "https://github.com/rgbkrk",
@@ -20,12 +20,12 @@
   "description": ":speedboat: Little side display of Jupyter kernel rich output",
   "fork": true,
   "createdAt": "2015-09-03T13:19:44.000Z",
-  "updatedAt": "2017-03-06T16:02:41.000Z",
+  "updatedAt": "2017-10-10T15:19:03.000Z",
   "pushedAt": "2015-09-17T20:04:05.000Z",
   "homepage": "",
   "size": 192,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": false,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 8,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -55,7 +55,7 @@
     "owner": {
       "login": "nteract",
       "id": 12401040,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/nteract",
       "htmlUrl": "https://github.com/nteract",
@@ -85,27 +85,28 @@
     "downloadsUrl": "https://api.github.com/repos/nteract/sidecar/downloads",
     "deploymentsUrl": "https://api.github.com/repos/nteract/sidecar/deployments",
     "createdAt": "2015-04-30T05:54:11.000Z",
-    "updatedAt": "2017-04-29T04:25:46.000Z",
-    "pushedAt": "2017-05-02T04:59:15.000Z",
+    "updatedAt": "2017-08-28T07:26:18.000Z",
+    "pushedAt": "2017-07-19T16:46:35.000Z",
     "gitUrl": "git://github.com/nteract/sidecar.git",
     "sshUrl": "git@github.com:nteract/sidecar.git",
     "cloneUrl": "https://github.com/nteract/sidecar.git",
     "svnUrl": "https://github.com/nteract/sidecar",
     "homepage": "",
-    "size": 117,
-    "stargazersCount": 80,
-    "watchersCount": 80,
+    "size": 118,
+    "stargazersCount": 81,
+    "watchersCount": 81,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 8,
+    "forksCount": 9,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 80,
+    "archived": false,
+    "openIssuesCount": 7,
+    "openIssues": 7,
+    "watchers": 81,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "nteract",
       "id": 12401040,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/nteract",
       "htmlUrl": "https://github.com/nteract",
@@ -145,30 +146,31 @@
     "downloadsUrl": "https://api.github.com/repos/nteract/sidecar/downloads",
     "deploymentsUrl": "https://api.github.com/repos/nteract/sidecar/deployments",
     "createdAt": "2015-04-30T05:54:11.000Z",
-    "updatedAt": "2017-04-29T04:25:46.000Z",
-    "pushedAt": "2017-05-02T04:59:15.000Z",
+    "updatedAt": "2017-08-28T07:26:18.000Z",
+    "pushedAt": "2017-07-19T16:46:35.000Z",
     "gitUrl": "git://github.com/nteract/sidecar.git",
     "sshUrl": "git@github.com:nteract/sidecar.git",
     "cloneUrl": "https://github.com/nteract/sidecar.git",
     "svnUrl": "https://github.com/nteract/sidecar",
     "homepage": "",
-    "size": 117,
-    "stargazersCount": 80,
-    "watchersCount": 80,
+    "size": 118,
+    "stargazersCount": 81,
+    "watchersCount": 81,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 8,
+    "forksCount": 9,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 80,
+    "archived": false,
+    "openIssuesCount": 7,
+    "openIssues": 7,
+    "watchers": 81,
     "defaultBranch": "master"
   },
-  "networkCount": 8,
+  "networkCount": 9,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -179,10 +181,7 @@
     "bin": {
       "sidecar": "./app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rgbkrk/jupyter-sidecar.git"
-    },
+    "repository": "https://github.com/rgbkrk/jupyter-sidecar",
     "keywords": [
       "jupyter",
       "ipython",
@@ -191,11 +190,7 @@
       "garbage",
       "periwinkle"
     ],
-    "author": "Kyle Kelley",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/rgbkrk/jupyter-sidecar/issues"
-    },
     "homepage": "https://github.com/rgbkrk/jupyter-sidecar",
     "electronVersion": "0.30.1",
     "dependencies": {
@@ -219,6 +214,12 @@
     },
     "devDependencies": {
       "electron-packager": "^4.1.3"
+    },
+    "other": {
+      "author": "Kyle Kelley",
+      "bugs": {
+        "url": "https://github.com/rgbkrk/jupyter-sidecar/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -267,6 +268,7 @@
   "filename": "rgbkrk___jupyter-sidecar.json",
   "sourceRepo": "nteract/sidecar",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:48.687Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:34.831Z"
+  "lastFetchedAt": "2017-10-23T17:08:24.993Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:34.831Z",
+  "archived": false
 }

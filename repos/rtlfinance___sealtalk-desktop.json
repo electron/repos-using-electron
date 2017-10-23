@@ -5,7 +5,7 @@
   "owner": {
     "login": "rtlfinance",
     "id": 19488344,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19488344?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19488344?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rtlfinance",
     "htmlUrl": "https://github.com/rtlfinance",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "rtlfinance",
     "id": 19488344,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19488344?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19488344?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rtlfinance",
     "htmlUrl": "https://github.com/rtlfinance",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "sealtalk",
       "id": 17310999,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/17310999?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17310999?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/sealtalk",
       "htmlUrl": "https://github.com/sealtalk",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/sealtalk/sealtalk-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/sealtalk/sealtalk-desktop/deployments",
     "createdAt": "2016-02-29T10:17:50.000Z",
-    "updatedAt": "2017-05-04T00:58:31.000Z",
-    "pushedAt": "2017-03-01T09:52:32.000Z",
+    "updatedAt": "2017-10-08T12:32:33.000Z",
+    "pushedAt": "2017-08-04T10:02:04.000Z",
     "gitUrl": "git://github.com/sealtalk/sealtalk-desktop.git",
     "sshUrl": "git@github.com:sealtalk/sealtalk-desktop.git",
     "cloneUrl": "https://github.com/sealtalk/sealtalk-desktop.git",
     "svnUrl": "https://github.com/sealtalk/sealtalk-desktop",
     "homepage": "sealtalk.im",
-    "size": 2112,
-    "stargazersCount": 21,
-    "watchersCount": 21,
+    "size": 2115,
+    "stargazersCount": 27,
+    "watchersCount": 27,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 17,
+    "forksCount": 21,
     "mirrorUrl": null,
-    "openIssuesCount": 5,
-    "openIssues": 5,
-    "watchers": 21,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 27,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "sealtalk",
       "id": 17310999,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/17310999?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/17310999?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/sealtalk",
       "htmlUrl": "https://github.com/sealtalk",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/sealtalk/sealtalk-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/sealtalk/sealtalk-desktop/deployments",
     "createdAt": "2016-02-29T10:17:50.000Z",
-    "updatedAt": "2017-05-04T00:58:31.000Z",
-    "pushedAt": "2017-03-01T09:52:32.000Z",
+    "updatedAt": "2017-10-08T12:32:33.000Z",
+    "pushedAt": "2017-08-04T10:02:04.000Z",
     "gitUrl": "git://github.com/sealtalk/sealtalk-desktop.git",
     "sshUrl": "git@github.com:sealtalk/sealtalk-desktop.git",
     "cloneUrl": "https://github.com/sealtalk/sealtalk-desktop.git",
     "svnUrl": "https://github.com/sealtalk/sealtalk-desktop",
     "homepage": "sealtalk.im",
-    "size": 2112,
-    "stargazersCount": 21,
-    "watchersCount": 21,
+    "size": 2115,
+    "stargazersCount": 27,
+    "watchersCount": 27,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 17,
+    "forksCount": 21,
     "mirrorUrl": null,
-    "openIssuesCount": 5,
-    "openIssues": 5,
-    "watchers": 21,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 27,
     "defaultBranch": "master"
   },
-  "networkCount": 17,
+  "networkCount": 21,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -193,20 +195,13 @@
       "build:win32": "electron-builder \"build/SealTalk-win32-ia32\" --platform=win --out=\"dist/win32\" --config=builder.json",
       "build:win64": "electron-builder \"build/SealTalk-win32-x64\" --platform=win --out=\"dist/win64\" --config=builder.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@gitlab.rongcloud.net:web-team/sealtalk-desktop.git"
-    },
+    "repository": "https://github.com/web-team/sealtalk-desktop",
     "keywords": [
       "SealTalk",
       "RongCloud",
       "IM"
     ],
-    "author": "RongCloud",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rongcloud/sealtalk-desktop/issues"
-    },
     "homepage": "https://github.com/rongcloud/sealtalk-desktop#readme",
     "devDependencies": {
       "electron-builder": "^2.6.0",
@@ -227,6 +222,12 @@
       "electron-prebuilt": "^0.36.9",
       "i18n": "^0.5.0",
       "jsonfile": "^2.2.3"
+    },
+    "other": {
+      "author": "RongCloud",
+      "bugs": {
+        "url": "https://github.com/rongcloud/sealtalk-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -275,6 +276,7 @@
   "filename": "rtlfinance___sealtalk-desktop.json",
   "sourceRepo": "sealtalk/sealtalk-desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:39:34.980Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:25.527Z"
+  "lastFetchedAt": "2017-10-23T20:49:35.544Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:25.527Z",
+  "archived": false
 }

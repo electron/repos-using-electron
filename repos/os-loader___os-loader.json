@@ -5,7 +5,7 @@
   "owner": {
     "login": "os-loader",
     "id": 20151909,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20151909?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20151909?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/os-loader",
     "htmlUrl": "https://github.com/os-loader",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "os-loader",
     "id": 20151909,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20151909?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20151909?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/os-loader",
     "htmlUrl": "https://github.com/os-loader",
@@ -93,26 +93,25 @@
     "scripts": {
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mkg20001/os-loader.git"
-    },
+    "repository": "https://github.com/mkg20001/os-loader",
     "keywords": [
       "os-loader",
       "portable",
       "os",
       "usb"
     ],
-    "author": "Maciej Krüger <mkg20001@gmail.com>",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/os-loader/os-loader/issues"
-    },
     "homepage": "https://github.com/os-loader/os-loader#readme",
     "devDependencies": {
       "chai": "^3.5.0",
       "mocha": "^3.0.2",
       "socket.io": "^1.4.8"
+    },
+    "other": {
+      "author": "Maciej Krüger <mkg20001@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/os-loader/os-loader/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "os-loader___os-loader.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:10:48.172Z",
-  "packageLastFetchedAt": "2017-05-05T11:37:15.666Z"
+  "lastFetchedAt": "2017-10-23T20:58:31.414Z",
+  "packageLastFetchedAt": "2017-05-05T11:37:15.666Z",
+  "archived": false
 }

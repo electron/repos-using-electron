@@ -5,7 +5,7 @@
   "owner": {
     "login": "J4Wx",
     "id": 3397311,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3397311?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3397311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/J4Wx",
     "htmlUrl": "https://github.com/J4Wx",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/J4Wx/Adoption-Matters-Salesforce-App/downloads",
   "deploymentsUrl": "https://api.github.com/repos/J4Wx/Adoption-Matters-Salesforce-App/deployments",
   "createdAt": "2016-08-02T10:58:42.000Z",
-  "updatedAt": "2016-09-12T13:37:44.000Z",
+  "updatedAt": "2017-09-23T02:12:54.000Z",
   "pushedAt": "2016-09-30T15:44:53.000Z",
   "gitUrl": "git://github.com/J4Wx/Adoption-Matters-Salesforce-App.git",
   "sshUrl": "git@github.com:J4Wx/Adoption-Matters-Salesforce-App.git",
@@ -48,7 +48,7 @@
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
-  "hasWiki": false,
+  "hasWiki": true,
   "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
@@ -80,15 +80,8 @@
       "start": "node_modules/.bin/electron .",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/J4Wx/sfelectron.git"
-    },
-    "author": "Jamie Wood <Jamie.Wood@TheIbex.net>",
+    "repository": "https://github.com/J4Wx/sfelectron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/J4Wx/sfelectron/issues"
-    },
     "homepage": "https://github.com/J4Wx/sfelectron#readme",
     "devDependencies": {
       "electron-builder": "^6.3.1",
@@ -107,6 +100,12 @@
       "app-category-type": "private",
       "win": {
         "msi": false
+      }
+    },
+    "other": {
+      "author": "Jamie Wood <Jamie.Wood@TheIbex.net>",
+      "bugs": {
+        "url": "https://github.com/J4Wx/sfelectron/issues"
       }
     }
   },
@@ -135,6 +134,7 @@
   },
   "filename": "J4Wx___Adoption-Matters-Salesforce-App.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:13.158Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:20.045Z"
+  "lastFetchedAt": "2017-10-23T20:18:51.227Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:20.045Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ezbizmobile",
     "id": 3325106,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3325106?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3325106?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ezbizmobile",
     "htmlUrl": "https://github.com/ezbizmobile",
@@ -21,9 +21,9 @@
   "fork": true,
   "createdAt": "2016-07-15T18:59:32.000Z",
   "updatedAt": "2016-11-04T04:49:04.000Z",
-  "pushedAt": "2017-04-30T16:19:33.000Z",
+  "pushedAt": "2017-07-01T13:43:21.000Z",
   "homepage": "",
-  "size": 12275,
+  "size": 12865,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "NathanWalker",
       "id": 457187,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/457187?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/457187?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/NathanWalker",
       "htmlUrl": "https://github.com/NathanWalker",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/NathanWalker/angular-seed-advanced/downloads",
     "deploymentsUrl": "https://api.github.com/repos/NathanWalker/angular-seed-advanced/deployments",
     "createdAt": "2016-01-27T07:12:46.000Z",
-    "updatedAt": "2017-05-04T12:50:42.000Z",
-    "pushedAt": "2017-05-03T23:21:10.000Z",
+    "updatedAt": "2017-10-23T18:33:35.000Z",
+    "pushedAt": "2017-08-29T04:02:01.000Z",
     "gitUrl": "git://github.com/NathanWalker/angular-seed-advanced.git",
     "sshUrl": "git@github.com:NathanWalker/angular-seed-advanced.git",
     "cloneUrl": "https://github.com/NathanWalker/angular-seed-advanced.git",
     "svnUrl": "https://github.com/NathanWalker/angular-seed-advanced",
     "homepage": "",
-    "size": 12419,
-    "stargazersCount": 1691,
-    "watchersCount": 1691,
+    "size": 13066,
+    "stargazersCount": 2012,
+    "watchersCount": 2012,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 373,
+    "forksCount": 449,
     "mirrorUrl": null,
-    "openIssuesCount": 13,
-    "openIssues": 13,
-    "watchers": 1691,
+    "archived": false,
+    "openIssuesCount": 29,
+    "openIssues": 29,
+    "watchers": 2012,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "NathanWalker",
       "id": 457187,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/457187?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/457187?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/NathanWalker",
       "htmlUrl": "https://github.com/NathanWalker",
@@ -139,39 +140,38 @@
     "downloadsUrl": "https://api.github.com/repos/NathanWalker/angular-seed-advanced/downloads",
     "deploymentsUrl": "https://api.github.com/repos/NathanWalker/angular-seed-advanced/deployments",
     "createdAt": "2016-01-27T07:12:46.000Z",
-    "updatedAt": "2017-05-04T12:50:42.000Z",
-    "pushedAt": "2017-05-03T23:21:10.000Z",
+    "updatedAt": "2017-10-23T18:33:35.000Z",
+    "pushedAt": "2017-08-29T04:02:01.000Z",
     "gitUrl": "git://github.com/NathanWalker/angular-seed-advanced.git",
     "sshUrl": "git@github.com:NathanWalker/angular-seed-advanced.git",
     "cloneUrl": "https://github.com/NathanWalker/angular-seed-advanced.git",
     "svnUrl": "https://github.com/NathanWalker/angular-seed-advanced",
     "homepage": "",
-    "size": 12419,
-    "stargazersCount": 1691,
-    "watchersCount": 1691,
+    "size": 13066,
+    "stargazersCount": 2012,
+    "watchersCount": 2012,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 373,
+    "forksCount": 449,
     "mirrorUrl": null,
-    "openIssuesCount": 13,
-    "openIssues": 13,
-    "watchers": 1691,
+    "archived": false,
+    "openIssuesCount": 29,
+    "openIssues": 29,
+    "watchers": 2012,
     "defaultBranch": "master"
   },
-  "networkCount": 373,
+  "networkCount": 449,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -227,12 +227,6 @@
       "compodoc": "node_modules/.bin/compodoc -p src/client/tsconfig.json",
       "serve.compodoc": "node_modules/.bin/compodoc -s"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "@angular/compiler-cli": "^4.0.0",
@@ -360,6 +354,14 @@
       "rxjs": "~5.2.0",
       "systemjs": "0.19.41",
       "zone.js": "^0.8.4"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -408,6 +410,7 @@
   "svnUrl": "https://github.com/ezbizmobile/angular2-seed-advanced",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:18:33.011Z",
-  "packageLastFetchedAt": "2017-05-05T15:00:04.867Z"
+  "lastFetchedAt": "2017-10-23T18:42:31.027Z",
+  "packageLastFetchedAt": "2017-05-05T15:00:04.867Z",
+  "archived": false
 }

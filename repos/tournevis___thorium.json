@@ -64,12 +64,11 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "thorium",
     "version": "1.0.0",
     "description": "Twitter Experiment ",
-    "author": "tournevis <arthur.ro92@gmail.com>",
     "private": true,
     "scripts": {
       "start": "npm run dev",
@@ -145,6 +144,9 @@
       "webpack-dev-middleware": "^1.4.0",
       "webpack-hot-middleware": "^2.6.0",
       "webpack-merge": "^0.8.3"
+    },
+    "other": {
+      "author": "tournevis <arthur.ro92@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -172,6 +174,6 @@
   },
   "filename": "tournevis___thorium.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:32.717Z",
+  "lastFetchedAt": "2017-10-23T17:43:41.372Z",
   "packageLastFetchedAt": "2017-05-05T14:47:09.032Z"
 }

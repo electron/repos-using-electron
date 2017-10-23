@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -20,21 +20,21 @@
   "description": ":speedboat: Little side display of Jupyter kernel rich output",
   "fork": false,
   "createdAt": "2015-04-30T05:54:11.000Z",
-  "updatedAt": "2017-04-29T04:25:46.000Z",
-  "pushedAt": "2017-05-02T04:59:15.000Z",
+  "updatedAt": "2017-08-28T07:26:18.000Z",
+  "pushedAt": "2017-07-19T16:46:35.000Z",
   "homepage": "",
-  "size": 117,
-  "stargazersCount": 80,
-  "watchersCount": 80,
+  "size": 118,
+  "stargazersCount": 81,
+  "watchersCount": 81,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 8,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 80,
+  "forksCount": 9,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 81,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/nteract/received_events",
     "type": "Organization"
   },
-  "networkCount": 8,
-  "subscribersCount": 28,
+  "networkCount": 9,
+  "subscribersCount": 37,
   "status": 200,
   "packageJSON": {
     "name": "jupyter-sidecar",
@@ -73,21 +73,14 @@
     "bin": {
       "sidecar": "./app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rgbkrk/jupyter-sidecar.git"
-    },
+    "repository": "https://github.com/rgbkrk/jupyter-sidecar",
     "keywords": [
       "jupyter",
       "ipython",
       "sidecar",
       "output"
     ],
-    "author": "Kyle Kelley",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/rgbkrk/jupyter-sidecar/issues"
-    },
     "homepage": "https://github.com/rgbkrk/jupyter-sidecar",
     "electronVersion": "0.33.0",
     "dependencies": {
@@ -110,6 +103,12 @@
     },
     "devDependencies": {
       "electron-packager": "^8.5.0"
+    },
+    "other": {
+      "author": "Kyle Kelley",
+      "bugs": {
+        "url": "https://github.com/rgbkrk/jupyter-sidecar/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   "svnUrl": "https://github.com/nteract/sidecar",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:15:17.576Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:19.319Z"
+  "lastFetchedAt": "2017-10-23T21:02:15.936Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:19.319Z",
+  "archived": false
 }

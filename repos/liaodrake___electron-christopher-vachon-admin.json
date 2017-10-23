@@ -5,7 +5,7 @@
   "owner": {
     "login": "liaodrake",
     "id": 5806093,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5806093?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5806093?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/liaodrake",
     "htmlUrl": "https://github.com/liaodrake",
@@ -61,15 +61,8 @@
       "start": "electron .",
       "build": "electron-packager ./ CMVA --platform=darwin --arch=all --version=0.28.2 --asar --overwrite --version-string.ProductName=CMVA"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/liaodrake/electron-christopher-vachon-admin.git"
-    },
-    "author": "Christopher Vachon",
+    "repository": "https://github.com/liaodrake/electron-christopher-vachon-admin",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/liaodrake/electron-christopher-vachon-admin/issues"
-    },
     "homepage": "https://github.com/liaodrake/electron-christopher-vachon-admin",
     "devDependencies": {
       "electron-packager": "^5.0.1",
@@ -78,6 +71,12 @@
       "grunt-contrib-jade": "^0.15.0",
       "grunt-contrib-less": "^1.0.1",
       "grunt-contrib-watch": "^0.6.1"
+    },
+    "other": {
+      "author": "Christopher Vachon",
+      "bugs": {
+        "url": "https://github.com/liaodrake/electron-christopher-vachon-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "liaodrake___electron-christopher-vachon-admin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:37.682Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:26.949Z"
+  "lastFetchedAt": "2017-10-23T20:30:50.599Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:26.949Z",
+  "archived": false
 }

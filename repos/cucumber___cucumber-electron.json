@@ -6,7 +6,7 @@
   "owner": {
     "login": "cucumber",
     "id": 320565,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/320565?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/320565?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cucumber",
     "htmlUrl": "https://github.com/cucumber",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/cucumber/cucumber-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/cucumber/cucumber-electron/deployments",
   "createdAt": "2016-11-20T11:34:16.000Z",
-  "updatedAt": "2017-04-19T17:42:36.000Z",
-  "pushedAt": "2017-04-26T20:52:02.000Z",
+  "updatedAt": "2017-10-23T17:50:21.000Z",
+  "pushedAt": "2017-10-11T09:20:17.000Z",
   "gitUrl": "git://github.com/cucumber/cucumber-electron.git",
   "sshUrl": "git@github.com:cucumber/cucumber-electron.git",
   "cloneUrl": "https://github.com/cucumber/cucumber-electron.git",
   "svnUrl": "https://github.com/cucumber/cucumber-electron",
   "homepage": "",
-  "size": 47,
-  "stargazersCount": 78,
-  "watchersCount": 78,
+  "size": 78,
+  "stargazersCount": 85,
+  "watchersCount": 85,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 78,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 85,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "cucumber",
     "id": 320565,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/320565?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/320565?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cucumber",
     "htmlUrl": "https://github.com/cucumber",
@@ -83,8 +83,8 @@
     "receivedEventsUrl": "https://api.github.com/users/cucumber/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
-  "subscribersCount": 38,
+  "networkCount": 5,
+  "subscribersCount": 47,
   "status": 200,
   "packageJSON": {
     "name": "cucumber-electron",
@@ -98,7 +98,6 @@
       "test": "cucumber-js && node ./bin/cucumber-electron.js && npm run eslint",
       "eslint": "eslint '**/*.js' --ignore 'node_modules/**/*.js'"
     },
-    "author": "Josh Chisholm <joshuachisholm@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "ansi-to-html": "0.6.0",
@@ -106,10 +105,7 @@
       "electron-window": "0.8.1",
       "gherkin": "4.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/featurist/cucumber-electron.git"
-    },
+    "repository": "https://github.com/featurist/cucumber-electron",
     "devDependencies": {
       "colors": "^1.1.2",
       "electron": "1.6.2",
@@ -117,6 +113,9 @@
       "fs-promise": "^2.0.0",
       "mkdirp-promise": "^5.0.1",
       "rmfr": "^1.0.1"
+    },
+    "other": {
+      "author": "Josh Chisholm <joshuachisholm@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "sourceRepo": "featurist/cucumber-electron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:09.160Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:11.994Z"
+  "lastFetchedAt": "2017-10-23T18:25:24.957Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:11.994Z",
+  "archived": false
 }

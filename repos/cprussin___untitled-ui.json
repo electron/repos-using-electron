@@ -5,7 +5,7 @@
   "owner": {
     "login": "cprussin",
     "id": 297575,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/297575?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/297575?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cprussin",
     "htmlUrl": "https://github.com/cprussin",
@@ -69,10 +69,6 @@
     "name": "ui",
     "version": "0.0.1",
     "description": "You know, a UI.",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -85,7 +81,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "Connor Prussin <connor@prussin.net>",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -155,6 +150,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "Connor Prussin <connor@prussin.net>",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +184,7 @@
   },
   "filename": "cprussin___untitled-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:33.379Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:42.924Z"
+  "lastFetchedAt": "2017-10-23T17:40:06.201Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:42.924Z",
+  "archived": false
 }

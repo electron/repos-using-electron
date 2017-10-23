@@ -5,7 +5,7 @@
   "owner": {
     "login": "robinfoe",
     "id": 10343878,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10343878?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10343878?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robinfoe",
     "htmlUrl": "https://github.com/robinfoe",
@@ -70,10 +70,6 @@
     "version": "0.0.1",
     "main": "main.js",
     "description": "Singapore Deals 4 u interactive kiosk",
-    "author": {
-      "name": "singaporedeals4u",
-      "email": "sgdeals@www.com"
-    },
     "scripts": {
       "start": "ENV=development SETUP_PATH=./config electron main.js",
       "server": "babel-node server.js",
@@ -136,6 +132,12 @@
       "webpack-dev-middleware": "^1.6.1",
       "webpack-hot-middleware": "^2.10.0",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "author": {
+        "name": "singaporedeals4u",
+        "email": "sgdeals@www.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +165,7 @@
   },
   "filename": "robinfoe___singaporedeals-kiosk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:57:35.828Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:27.295Z"
+  "lastFetchedAt": "2017-10-23T18:29:05.395Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:27.295Z",
+  "archived": false
 }

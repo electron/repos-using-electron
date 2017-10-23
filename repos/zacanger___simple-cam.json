@@ -6,7 +6,7 @@
   "owner": {
     "login": "zacanger",
     "id": 12520493,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12520493?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12520493?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zacanger",
     "htmlUrl": "https://github.com/zacanger",
@@ -51,7 +51,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -69,18 +69,13 @@
     "url": "https://api.github.com/licenses/wtfpl",
     "featured": false
   },
-  "networkCount": 0,
-  "subscribersCount": 0,
+  "networkCount": 1,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "simple-cam",
     "description": "Very simple webcam viewer for desktop.",
     "version": "0.0.4",
-    "author": {
-      "name": "Zac Anger",
-      "email": "zac@zacanger.com",
-      "url": "http://zacanger.com"
-    },
     "license": "WTFPL",
     "main": "app.js",
     "preferGlobal": true,
@@ -92,11 +87,7 @@
       "start": "node index"
     },
     "homepage": "https://github.com/zacanger/simple-cam#readme",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zacanger/simple-cam.git"
-    },
-    "bugs": "https://github.com/zacanger/simple-cam/issues",
+    "repository": "https://github.com/zacanger/simple-cam",
     "keywords": [
       "cam",
       "camera",
@@ -112,6 +103,14 @@
     "devDependencies": {},
     "engines": {
       "node": ">=6.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "Zac Anger",
+        "email": "zac@zacanger.com",
+        "url": "http://zacanger.com"
+      },
+      "bugs": "https://github.com/zacanger/simple-cam/issues"
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:02:50.341Z",
-  "packageLastFetchedAt": "2017-05-04T22:49:20.661Z"
+  "lastFetchedAt": "2017-10-23T17:45:58.628Z",
+  "packageLastFetchedAt": "2017-05-04T22:49:20.661Z",
+  "archived": false
 }

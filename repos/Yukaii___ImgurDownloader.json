@@ -5,7 +5,7 @@
   "owner": {
     "login": "Yukaii",
     "id": 4230968,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4230968?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4230968?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Yukaii",
     "htmlUrl": "https://github.com/Yukaii",
@@ -20,12 +20,12 @@
   "description": "an simple imgur album downloader using react, redux and electron.",
   "fork": false,
   "createdAt": "2015-12-27T10:36:24.000Z",
-  "updatedAt": "2017-04-19T03:43:14.000Z",
+  "updatedAt": "2017-10-15T19:25:53.000Z",
   "pushedAt": "2016-01-01T07:01:55.000Z",
   "homepage": "",
   "size": 6692,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "imgur-downloader",
@@ -113,19 +113,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Yukaii/ImgurDownloader.git"
-    },
-    "author": {
-      "name": "Yukai Huang",
-      "email": "yukaihuang1993@hotmail.com",
-      "url": "https://github.com/Yukaii"
-    },
+    "repository": "https://github.com/Yukaii/ImgurDownloader",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Yukaii/ImgurDownloader/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -199,6 +188,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Yukai Huang",
+        "email": "yukaihuang1993@hotmail.com",
+        "url": "https://github.com/Yukaii"
+      },
+      "bugs": {
+        "url": "https://github.com/Yukaii/ImgurDownloader/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -246,6 +245,7 @@
   "svnUrl": "https://github.com/Yukaii/ImgurDownloader",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:10:40.252Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:27.015Z"
+  "lastFetchedAt": "2017-10-23T20:58:54.460Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:27.015Z",
+  "archived": false
 }

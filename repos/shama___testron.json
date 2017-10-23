@@ -5,7 +5,7 @@
   "owner": {
     "login": "shama",
     "id": 99604,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/99604?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/99604?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shama",
     "htmlUrl": "https://github.com/shama",
@@ -20,7 +20,7 @@
   "description": ":electric_plug: CI your client side tests with Electron",
   "fork": false,
   "createdAt": "2015-07-21T01:24:26.000Z",
-  "updatedAt": "2017-02-13T20:03:31.000Z",
+  "updatedAt": "2017-08-16T20:19:07.000Z",
   "pushedAt": "2016-07-19T23:47:20.000Z",
   "homepage": "",
   "size": 140,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "openIssuesCount": 3,
   "openIssues": 3,
   "watchers": 72,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
-  "subscribersCount": 3,
+  "networkCount": 5,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "testron",
@@ -56,10 +56,7 @@
     "scripts": {
       "test": "node test/test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/shama/testron.git"
-    },
+    "repository": "https://github.com/shama/testron",
     "keywords": [
       "test",
       "client",
@@ -68,11 +65,7 @@
       "electron",
       "ci"
     ],
-    "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shama/testron/issues"
-    },
     "homepage": "https://github.com/shama/testron#readme",
     "dependencies": {
       "electron-spawn": "^3.0.0",
@@ -83,6 +76,12 @@
     "devDependencies": {
       "electron-prebuilt": "^0.30.0",
       "tape": "^4.0.1"
+    },
+    "other": {
+      "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+      "bugs": {
+        "url": "https://github.com/shama/testron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "svnUrl": "https://github.com/shama/testron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:14:49.783Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:40.550Z"
+  "lastFetchedAt": "2017-10-23T18:52:02.825Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:40.550Z",
+  "archived": false
 }

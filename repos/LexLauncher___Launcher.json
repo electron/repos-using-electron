@@ -5,7 +5,7 @@
   "owner": {
     "login": "LexLauncher",
     "id": 20614378,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20614378?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20614378?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LexLauncher",
     "htmlUrl": "https://github.com/LexLauncher",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "LexLauncher",
     "id": 20614378,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20614378?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20614378?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LexLauncher",
     "htmlUrl": "https://github.com/LexLauncher",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/LexLauncher/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -91,15 +91,8 @@
     "version": "1.0.0",
     "description": "A Minecraft launcher designed to be compatible with Mojang's own while still providing fantastic modpack support.",
     "main": "launcher.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/LexLauncher/Launcher.git"
-    },
-    "author": "Jamie Mansfield",
+    "repository": "https://github.com/LexLauncher/Launcher",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/LexLauncher/Launcher/issues"
-    },
     "homepage": "https://github.com/LexLauncher/Launcher",
     "devDependencies": {
       "electron": "^1.4.1",
@@ -114,6 +107,12 @@
     "dependencies": {
       "bluebird": "^3.4.6",
       "lodash": "^4.16.2"
+    },
+    "other": {
+      "author": "Jamie Mansfield",
+      "bugs": {
+        "url": "https://github.com/LexLauncher/Launcher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "LexLauncher___Launcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:42.008Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:55.772Z"
+  "lastFetchedAt": "2017-10-23T20:10:30.229Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:55.772Z",
+  "archived": false
 }

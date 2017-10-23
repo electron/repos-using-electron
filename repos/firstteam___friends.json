@@ -5,7 +5,7 @@
   "owner": {
     "login": "firstteam",
     "id": 1211911,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1211911?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1211911?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/firstteam",
     "htmlUrl": "https://github.com/firstteam",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "firstteam",
     "id": 1211911,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1211911?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1211911?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/firstteam",
     "htmlUrl": "https://github.com/firstteam",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "moose-team",
       "id": 12131733,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12131733?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12131733?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/moose-team",
       "htmlUrl": "https://github.com/moose-team",
@@ -99,7 +99,7 @@
     "downloadsUrl": "https://api.github.com/repos/moose-team/friends/downloads",
     "deploymentsUrl": "https://api.github.com/repos/moose-team/friends/deployments",
     "createdAt": "2015-04-26T04:02:23.000Z",
-    "updatedAt": "2017-05-04T03:31:16.000Z",
+    "updatedAt": "2017-10-23T02:35:48.000Z",
     "pushedAt": "2017-03-22T21:24:17.000Z",
     "gitUrl": "git://github.com/moose-team/friends.git",
     "sshUrl": "git@github.com:moose-team/friends.git",
@@ -107,19 +107,20 @@
     "svnUrl": "https://github.com/moose-team/friends",
     "homepage": "http://moose-team.github.io/friends/",
     "size": 1510,
-    "stargazersCount": 2736,
-    "watchersCount": 2736,
+    "stargazersCount": 2815,
+    "watchersCount": 2815,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 294,
+    "forksCount": 315,
     "mirrorUrl": null,
-    "openIssuesCount": 57,
-    "openIssues": 57,
-    "watchers": 2736,
+    "archived": false,
+    "openIssuesCount": 56,
+    "openIssues": 56,
+    "watchers": 2815,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "moose-team",
       "id": 12131733,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12131733?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12131733?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/moose-team",
       "htmlUrl": "https://github.com/moose-team",
@@ -159,7 +160,7 @@
     "downloadsUrl": "https://api.github.com/repos/moose-team/friends/downloads",
     "deploymentsUrl": "https://api.github.com/repos/moose-team/friends/deployments",
     "createdAt": "2015-04-26T04:02:23.000Z",
-    "updatedAt": "2017-05-04T03:31:16.000Z",
+    "updatedAt": "2017-10-23T02:35:48.000Z",
     "pushedAt": "2017-03-22T21:24:17.000Z",
     "gitUrl": "git://github.com/moose-team/friends.git",
     "sshUrl": "git@github.com:moose-team/friends.git",
@@ -167,40 +168,29 @@
     "svnUrl": "https://github.com/moose-team/friends",
     "homepage": "http://moose-team.github.io/friends/",
     "size": 1510,
-    "stargazersCount": 2736,
-    "watchersCount": 2736,
+    "stargazersCount": 2815,
+    "watchersCount": 2815,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 294,
+    "forksCount": 315,
     "mirrorUrl": null,
-    "openIssuesCount": 57,
-    "openIssues": 57,
-    "watchers": 2736,
+    "archived": false,
+    "openIssuesCount": 56,
+    "openIssues": 56,
+    "watchers": 2815,
     "defaultBranch": "master"
   },
-  "networkCount": 294,
+  "networkCount": 315,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "friends",
     "description": "p2p chat",
     "version": "1.0.0",
-    "author": [
-      "feross",
-      "maxogden",
-      "mafintosh",
-      "ngoldman",
-      "shama",
-      "jlord",
-      "chrisdickinson"
-    ],
-    "bugs": {
-      "url": "https://github.com/moose-team/friends/issues"
-    },
     "dependencies": {
       "cat-names": "^1.0.2",
       "ctype": "^0.5.4",
@@ -262,10 +252,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/moose-team/friends.git"
-    },
+    "repository": "https://github.com/moose-team/friends",
     "browserify": {
       "transforms": [
         "brfs"
@@ -281,6 +268,20 @@
       "watch-css": "mkdirp dist && stylus -u nib css/app.styl -o dist/ -w",
       "web": "beefy web.js:bundle.js",
       "rebuild-leveldb": "cd node_modules/leveldown && set HOME=~/.electron-gyp && node-gyp rebuild --target=0.25.1 --arch=x64 --dist-url=https://atom.io/download/atom-shell"
+    },
+    "other": {
+      "author": [
+        "feross",
+        "maxogden",
+        "mafintosh",
+        "ngoldman",
+        "shama",
+        "jlord",
+        "chrisdickinson"
+      ],
+      "bugs": {
+        "url": "https://github.com/moose-team/friends/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -329,6 +330,7 @@
   "sourceRepo": "moose-team/friends",
   "filename": "firstteam___friends.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:47.527Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:48.272Z"
+  "lastFetchedAt": "2017-10-23T20:35:26.843Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:48.272Z",
+  "archived": false
 }

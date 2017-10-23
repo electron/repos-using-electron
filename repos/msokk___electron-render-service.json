@@ -5,7 +5,7 @@
   "owner": {
     "login": "msokk",
     "id": 231978,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/231978?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/231978?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/msokk",
     "htmlUrl": "https://github.com/msokk",
@@ -20,21 +20,21 @@
   "description": "Microservice for rendering PDF/PNG/JPEG from HTML with Electron",
   "fork": false,
   "createdAt": "2016-01-16T20:13:35.000Z",
-  "updatedAt": "2017-05-01T01:00:44.000Z",
-  "pushedAt": "2017-04-29T23:44:18.000Z",
+  "updatedAt": "2017-09-27T15:09:01.000Z",
+  "pushedAt": "2017-10-16T19:34:09.000Z",
   "homepage": "",
-  "size": 479,
-  "stargazersCount": 54,
-  "watchersCount": 54,
+  "size": 522,
+  "stargazersCount": 68,
+  "watchersCount": 68,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 13,
-  "openIssuesCount": 11,
-  "openIssues": 11,
-  "watchers": 54,
+  "forksCount": 17,
+  "openIssuesCount": 15,
+  "openIssues": 15,
+  "watchers": 68,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 13,
-  "subscribersCount": 4,
+  "networkCount": 17,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "electron-render-service",
@@ -73,12 +73,8 @@
       "html",
       "microservice"
     ],
-    "author": "Mihkel Sokk <mihkelsokk@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/msokk/electron-render-service.git"
-    },
+    "repository": "https://github.com/msokk/electron-render-service",
     "dependencies": {
       "async": "^2.1.5",
       "electron": "^1.6.2",
@@ -94,6 +90,9 @@
       "eslint-plugin-import": "^2.2.0",
       "mocha": "^3.2.0",
       "supertest": "^3.0.0"
+    },
+    "other": {
+      "author": "Mihkel Sokk <mihkelsokk@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "svnUrl": "https://github.com/msokk/electron-render-service",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:22:51.843Z",
-  "packageLastFetchedAt": "2017-05-04T22:00:36.821Z"
+  "lastFetchedAt": "2017-10-23T20:33:45.384Z",
+  "packageLastFetchedAt": "2017-05-04T22:00:36.821Z",
+  "archived": false
 }

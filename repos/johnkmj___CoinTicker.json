@@ -5,7 +5,7 @@
   "owner": {
     "login": "johnkmj",
     "id": 3216162,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3216162?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3216162?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/johnkmj",
     "htmlUrl": "https://github.com/johnkmj",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/johnkmj/CoinTicker/downloads",
   "deploymentsUrl": "https://api.github.com/repos/johnkmj/CoinTicker/deployments",
   "createdAt": "2016-09-16T04:44:29.000Z",
-  "updatedAt": "2016-12-17T23:10:07.000Z",
+  "updatedAt": "2017-05-09T05:28:17.000Z",
   "pushedAt": "2016-12-17T23:10:05.000Z",
   "gitUrl": "git://github.com/johnkmj/CoinTicker.git",
   "sshUrl": "git@github.com:johnkmj/CoinTicker.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/johnkmj/CoinTicker",
   "homepage": null,
   "size": 40746,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -77,11 +77,7 @@
     "version": "1.0.2",
     "description": "Menubar bitcoin ticker.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/johnthedong/cointicker.git"
-    },
-    "author": "John Koh <me@johnkoh.net> (johnkoh.net)",
+    "repository": "https://github.com/johnthedong/cointicker",
     "scripts": {
       "test": "xo",
       "start": "electron .",
@@ -113,11 +109,14 @@
         "browser"
       ]
     },
-    "bugs": {
-      "url": "https://github.com/johnthedong/cointicker/issues"
-    },
     "homepage": "https://github.com/johnthedong/cointicker#readme",
-    "main": "index.js"
+    "main": "index.js",
+    "other": {
+      "author": "John Koh <me@johnkoh.net> (johnkoh.net)",
+      "bugs": {
+        "url": "https://github.com/johnthedong/cointicker/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +143,7 @@
   },
   "filename": "johnkmj___CoinTicker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:01.832Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:28.550Z"
+  "lastFetchedAt": "2017-10-23T18:24:51.872Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:28.550Z",
+  "archived": false
 }

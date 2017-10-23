@@ -5,7 +5,7 @@
   "owner": {
     "login": "Girlfriends",
     "id": 16803389,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16803389?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16803389?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Girlfriends",
     "htmlUrl": "https://github.com/Girlfriends",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Girlfriends",
     "id": 16803389,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16803389?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16803389?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Girlfriends",
     "htmlUrl": "https://github.com/Girlfriends",
@@ -75,18 +75,11 @@
       "build": "babel src -d lib && cp src/*.html lib && rm -rf lib/pixijs && cp -r pixi.js/bin lib/pixijs",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Girlfriends/Billy.git"
-    },
+    "repository": "https://github.com/Girlfriends/Billy",
     "keywords": [
       "max"
     ],
-    "author": "Sam Tarakajian",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Girlfriends/Billy/issues"
-    },
     "homepage": "https://github.com/Girlfriends/Billy#readme",
     "devDependencies": {
       "babel-cli": "^6.6.5",
@@ -106,6 +99,12 @@
       "pixi": "https://github.com/drkibitz/node-pixi/archive/master.tar.gz",
       "redux": "^3.3.1",
       "tone": "^0.6.1"
+    },
+    "other": {
+      "author": "Sam Tarakajian",
+      "bugs": {
+        "url": "https://github.com/Girlfriends/Billy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   "svnUrl": "https://github.com/Girlfriends/Billy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:35:10.133Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:08.006Z"
+  "lastFetchedAt": "2017-10-23T18:44:36.989Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:08.006Z",
+  "archived": false
 }

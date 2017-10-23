@@ -5,7 +5,7 @@
   "owner": {
     "login": "haimich",
     "id": 2170127,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2170127?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2170127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/haimich",
     "htmlUrl": "https://github.com/haimich",
@@ -80,15 +80,8 @@
       "start": "electron .",
       "rebuild": "electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/haimich/lenny.git"
-    },
-    "author": "",
+    "repository": "https://github.com/haimich/lenny",
     "license": "Apache",
-    "bugs": {
-      "url": "https://github.com/haimich/lenny/issues"
-    },
     "homepage": "https://github.com/haimich/lenny#readme",
     "dependencies": {
       "@webcomponents/custom-elements": "^1.0.0-alpha.3",
@@ -99,6 +92,12 @@
     },
     "devDependencies": {
       "electron-rebuild": "^1.2.1"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/haimich/lenny/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "haimich___lenny.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:52.206Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:51.670Z"
+  "lastFetchedAt": "2017-10-23T18:27:22.174Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:51.670Z",
+  "archived": false
 }

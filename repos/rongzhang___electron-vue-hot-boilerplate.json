@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron_vue_hot_boilterplate",
     "productName": "electron_vue_hot_boilterplate",
@@ -63,19 +63,12 @@
       "dev": "gulp dev",
       "dev-run": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rongzhang/electron-vue-hot-boilerplate.git"
-    },
+    "repository": "https://github.com/rongzhang/electron-vue-hot-boilerplate",
     "keywords": [
       "vue.js",
       "electron"
     ],
-    "author": "Rong Zhang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rongzhang/electron-vue-hot-boilerplate/issues"
-    },
     "homepage": "https://github.com/rongzhang/electron-vue-hot-boilerplate/#readme",
     "dependencies": {
       "vue": "^1.0.10",
@@ -117,6 +110,12 @@
     },
     "optionalDependencies": {
       "appdmg": "^0.3.5"
+    },
+    "other": {
+      "author": "Rong Zhang",
+      "bugs": {
+        "url": "https://github.com/rongzhang/electron-vue-hot-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,6 @@
   "svnUrl": "https://github.com/rongzhang/electron-vue-hot-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:13:34.504Z",
+  "lastFetchedAt": "2017-10-23T18:31:30.670Z",
   "packageLastFetchedAt": "2017-05-04T22:27:53.910Z"
 }

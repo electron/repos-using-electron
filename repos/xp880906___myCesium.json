@@ -5,7 +5,7 @@
   "owner": {
     "login": "xp880906",
     "id": 4232190,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4232190?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4232190?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xp880906",
     "htmlUrl": "https://github.com/xp880906",
@@ -77,14 +77,6 @@
     "description": "Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.",
     "homepage": "http://cesiumjs.org",
     "license": "Apache-2.0",
-    "author": {
-      "name": "Analytical Graphics, Inc.",
-      "url": "http://www.agi.com"
-    },
-    "contributors": {
-      "name": "Cesium community",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
-    },
     "keywords": [
       "3D",
       "webgl",
@@ -92,14 +84,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -169,6 +154,20 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status-pending": "gulp deploy-status-pending",
       "deploy-status-success": "gulp deploy-status-success"
+    },
+    "other": {
+      "author": {
+        "name": "Analytical Graphics, Inc.",
+        "url": "http://www.agi.com"
+      },
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      },
+      "contributors": {
+        "name": "Cesium community",
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,7 @@
   "filename": "xp880906___myCesium.json",
   "sourceRepo": "AnalyticalGraphicsInc/cesium",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:30:23.823Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:45.341Z"
+  "lastFetchedAt": "2017-10-23T17:10:13.280Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:45.341Z",
+  "archived": false
 }

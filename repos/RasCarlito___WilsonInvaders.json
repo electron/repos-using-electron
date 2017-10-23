@@ -5,7 +5,7 @@
   "owner": {
     "login": "RasCarlito",
     "id": 407268,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/407268?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/407268?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RasCarlito",
     "htmlUrl": "https://github.com/RasCarlito",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "eleven-labs",
       "id": 5772631,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5772631?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5772631?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/eleven-labs",
       "htmlUrl": "https://github.com/eleven-labs",
@@ -103,6 +103,7 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
     "watchers": 0,
@@ -115,7 +116,7 @@
     "owner": {
       "login": "eleven-labs",
       "id": 5772631,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/5772631?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5772631?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/eleven-labs",
       "htmlUrl": "https://github.com/eleven-labs",
@@ -163,6 +164,7 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
     "watchers": 0,
@@ -180,21 +182,14 @@
       "postinstall": "bower install",
       "start": "electron app/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/eleven-labs/WilsonInvaders.git"
-    },
+    "repository": "https://github.com/eleven-labs/WilsonInvaders",
     "keywords": [
       "WilsonInvaders",
       "wilson",
       "invaders",
       "game"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/eleven-labs/WilsonInvaders/issues"
-    },
     "homepage": "https://github.com/eleven-labs/WilsonInvaders#readme",
     "devDependencies": {
       "cz-conventional-changelog": "^1.1.5",
@@ -203,6 +198,12 @@
     "config": {
       "commitizen": {
         "path": "./node_modules/cz-conventional-changelog"
+      }
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/eleven-labs/WilsonInvaders/issues"
       }
     }
   },
@@ -251,6 +252,7 @@
   },
   "filename": "RasCarlito___WilsonInvaders.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:57.211Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:00.403Z"
+  "lastFetchedAt": "2017-10-23T17:58:15.221Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:00.403Z",
+  "archived": false
 }

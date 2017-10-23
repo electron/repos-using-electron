@@ -5,7 +5,7 @@
   "owner": {
     "login": "Dalimil",
     "id": 4202539,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4202539?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4202539?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Dalimil",
     "htmlUrl": "https://github.com/Dalimil",
@@ -74,10 +74,12 @@
       "start": "electron .",
       "package": "electron-packager . DemoApp --platform=darwin,linux --arch=x64 --out ./build --overwrite --icon=./icon.png"
     },
-    "author": "Dalimil Hajek",
     "devDependencies": {
       "electron-packager": "^7.4.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Dalimil Hajek"
     }
   },
   "packageStatus": 200,
@@ -105,6 +107,7 @@
   },
   "filename": "Dalimil___Electron-Quickstart.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:56:18.301Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:05.967Z"
+  "lastFetchedAt": "2017-10-23T20:47:10.171Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:05.967Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "vutran47",
     "id": 19276944,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19276944?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19276944?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vutran47",
     "htmlUrl": "https://github.com/vutran47",
@@ -73,7 +73,6 @@
     "scripts": {
       "start": "browserify -t [ babelify ] app/script_react.js -o app/bundle_react.js && electron main.js"
     },
-    "author": "Vu",
     "license": "ISC",
     "dependencies": {
       "babel-preset-es2015": "^6.16.0",
@@ -86,6 +85,9 @@
       "react": "^15.3.2",
       "react-dom": "^15.3.2",
       "tingodb": "^0.4.2"
+    },
+    "other": {
+      "author": "Vu"
     }
   },
   "packageStatus": 200,
@@ -113,6 +115,7 @@
   },
   "filename": "vutran47___tps.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:13.330Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:58.980Z"
+  "lastFetchedAt": "2017-10-23T19:02:20.867Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:58.980Z",
+  "archived": false
 }

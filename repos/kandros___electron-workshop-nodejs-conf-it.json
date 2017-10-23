@@ -5,7 +5,7 @@
   "owner": {
     "login": "kandros",
     "id": 4562878,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4562878?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4562878?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kandros",
     "htmlUrl": "https://github.com/kandros",
@@ -69,20 +69,12 @@
     "featured": false
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electron-workshop",
     "description": "A Markdown-to-HTML renderer",
     "version": "1.0.0",
-    "author": {
-      "name": "Feross Aboukhadijeh",
-      "email": "feross@feross.org",
-      "url": "http://feross.org/"
-    },
-    "bugs": {
-      "url": "https://github.com/feross/electron-workshop/issues"
-    },
     "dependencies": {
       "drag-drop": "^2.12.1",
       "jquery": "^3.1.1",
@@ -102,14 +94,21 @@
     "license": "MIT",
     "main": "lib/main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/feross/electron-workshop.git"
-    },
+    "repository": "https://github.com/feross/electron-workshop",
     "scripts": {
       "package": "electron-packager . 'Markdown Editor'",
       "package-all": "electron-packager . 'Markdown Editor' --platform=all --arch=all",
       "start": "electron ."
+    },
+    "other": {
+      "author": {
+        "name": "Feross Aboukhadijeh",
+        "email": "feross@feross.org",
+        "url": "http://feross.org/"
+      },
+      "bugs": {
+        "url": "https://github.com/feross/electron-workshop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   "filename": "kandros___electron-workshop-nodejs-conf-it.json",
   "sourceRepo": "feross/electron-workshop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:55:30.483Z",
-  "packageLastFetchedAt": "2017-05-05T15:35:01.409Z"
+  "lastFetchedAt": "2017-10-23T17:12:01.123Z",
+  "packageLastFetchedAt": "2017-05-05T15:35:01.409Z",
+  "archived": false
 }

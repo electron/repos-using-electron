@@ -5,7 +5,7 @@
   "owner": {
     "login": "jserodio",
     "id": 5813094,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5813094?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5813094?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jserodio",
     "htmlUrl": "https://github.com/jserodio",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jserodio/electrocam.git"
-    },
+    "repository": "https://github.com/jserodio/electrocam",
     "keywords": [
       "Electron",
       "electrocam",
       "webcam",
       "test"
     ],
-    "author": "jserodio",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/jserodio/electrocam/issues"
-    },
     "homepage": "https://github.com/jserodio/electrocam",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "jserodio",
+      "bugs": {
+        "url": "https://github.com/jserodio/electrocam/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "jserodio___electrocam.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:00.043Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:15.543Z"
+  "lastFetchedAt": "2017-10-23T18:09:32.262Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:15.543Z",
+  "archived": false
 }

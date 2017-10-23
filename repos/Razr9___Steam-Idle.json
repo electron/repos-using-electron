@@ -5,7 +5,7 @@
   "owner": {
     "login": "DevNvll",
     "id": 3536261,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3536261?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3536261?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DevNvll",
     "htmlUrl": "https://github.com/DevNvll",
@@ -51,16 +51,8 @@
     "version": "2.0.0",
     "description": "A simple application for idling games on Steam.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/DevNvll/Steam-Idle.git"
-    },
+    "repository": "https://github.com/DevNvll/Steam-Idle",
     "homepage": "https://github.com/DevNvll/Steam-Idle",
-    "author": {
-      "name": "Henrick Mello",
-      "email": "devnoir@protonmail.com",
-      "url": "DevNvll.github.io"
-    },
     "scripts": {
       "start": "cross-env NODE_ENV=development electron .",
       "watch": "cross-env NODE_ENV=development webpack --config ./webpack.config.babel.js --watch",
@@ -123,6 +115,13 @@
       "style-loader": "^0.13.1",
       "url-loader": "^0.5.7",
       "webpack": "^1.13.2"
+    },
+    "other": {
+      "author": {
+        "name": "Henrick Mello",
+        "email": "devnoir@protonmail.com",
+        "url": "DevNvll.github.io"
+      }
     }
   },
   "packageStatus": 200,
@@ -170,6 +169,7 @@
   "svnUrl": "https://github.com/DevNvll/Steam-Idle",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:31:21.718Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:31.749Z"
+  "lastFetchedAt": "2017-10-23T18:40:04.864Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:31.749Z",
+  "archived": false
 }

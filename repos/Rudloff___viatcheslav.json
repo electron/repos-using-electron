@@ -5,7 +5,7 @@
   "owner": {
     "login": "Rudloff",
     "id": 840125,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/840125?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/840125?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Rudloff",
     "htmlUrl": "https://github.com/Rudloff",
@@ -20,12 +20,12 @@
   "description": "Open-source client for Molotov.tv",
   "fork": false,
   "createdAt": "2016-07-20T18:17:59.000Z",
-  "updatedAt": "2016-07-20T18:18:09.000Z",
-  "pushedAt": "2017-03-20T22:38:01.000Z",
+  "updatedAt": "2017-07-08T16:06:21.000Z",
+  "pushedAt": "2017-10-02T17:17:05.000Z",
   "homepage": null,
   "size": 21,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -55,14 +55,6 @@
     "name": "viatcheslav",
     "description": "Open-source client for Molotov.tv",
     "version": "0.1.2",
-    "author": {
-      "name": "Pierre Rudloff",
-      "email": "contact@rudloff.pro",
-      "url": "https://www.rudloff.pro/"
-    },
-    "bugs": {
-      "url": "https://github.com/Rudloff/viatcheslav/issues"
-    },
     "dependencies": {
       "electron": "~1.4.5"
     },
@@ -80,14 +72,21 @@
     ],
     "license": "GPL-3.0",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Rudloff/viatcheslav.git"
-    },
+    "repository": "https://github.com/Rudloff/viatcheslav",
     "scripts": {
       "linux-run": "WIDEVINE_PATH=widevine/opt/google/chrome/libwidevinecdmadapter.so WIDEVINE_VERSION=1.4.8.903 npm start",
       "linux-setup": "scripts/linux-setup.sh",
       "start": "electron ."
+    },
+    "other": {
+      "author": {
+        "name": "Pierre Rudloff",
+        "email": "contact@rudloff.pro",
+        "url": "https://www.rudloff.pro/"
+      },
+      "bugs": {
+        "url": "https://github.com/Rudloff/viatcheslav/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "Rudloff___viatcheslav.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:35:21.452Z",
-  "packageLastFetchedAt": "2017-05-04T22:31:59.414Z"
+  "lastFetchedAt": "2017-10-23T18:42:43.861Z",
+  "packageLastFetchedAt": "2017-05-04T22:31:59.414Z",
+  "archived": false
 }

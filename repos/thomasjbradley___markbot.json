@@ -5,7 +5,7 @@
   "owner": {
     "login": "thomasjbradley",
     "id": 105192,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/105192?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/105192?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thomasjbradley",
     "htmlUrl": "https://github.com/thomasjbradley",
@@ -20,21 +20,21 @@
   "description": "This is an application I use that automatically tests and marks student code assignments in Algonquin College Graphic Design’s Web Dev courses.",
   "fork": false,
   "createdAt": "2016-01-28T18:14:49.000Z",
-  "updatedAt": "2017-03-28T14:41:28.000Z",
-  "pushedAt": "2017-04-16T15:48:36.000Z",
+  "updatedAt": "2017-06-27T13:23:51.000Z",
+  "pushedAt": "2017-10-15T16:34:07.000Z",
   "homepage": null,
-  "size": 1144,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 2211,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 18,
-  "openIssues": 18,
-  "watchers": 2,
+  "openIssuesCount": 25,
+  "openIssues": 25,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,9 +56,7 @@
     "version": "5.10.0",
     "license": "GPL",
     "description": "An automated marking application for code projects in the Algonquin College Graphic Design program.",
-    "author": "Thomas J Bradley <hey@thomasjbradley.ca>",
     "homepage": "https://github.com/thomasjbradley/markbot",
-    "bugs": "https://github.com/thomasjbradley/markbot/issues",
     "private": true,
     "main": "markbot.js",
     "dependencies": {
@@ -109,10 +107,7 @@
       "hash-passcode": "node ./scripts/hash-passcode.js",
       "gen-https-cert": "./scripts/gen-https-cert.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/thomasjbradley/markbot.git"
-    },
+    "repository": "https://github.com/thomasjbradley/markbot",
     "build": {
       "appId": "ca.thomasjbradley.markbot",
       "copyright": "© Thomas J Bradley",
@@ -149,6 +144,10 @@
           }
         ]
       }
+    },
+    "other": {
+      "author": "Thomas J Bradley <hey@thomasjbradley.ca>",
+      "bugs": "https://github.com/thomasjbradley/markbot/issues"
     }
   },
   "packageStatus": 200,
@@ -196,6 +195,7 @@
   "svnUrl": "https://github.com/thomasjbradley/markbot",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T04:59:15.773Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:29.191Z"
+  "lastFetchedAt": "2017-10-23T20:46:19.287Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:29.191Z",
+  "archived": false
 }

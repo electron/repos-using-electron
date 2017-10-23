@@ -5,7 +5,7 @@
   "owner": {
     "login": "Doklet",
     "id": 7962185,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7962185?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7962185?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Doklet",
     "htmlUrl": "https://github.com/Doklet",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "Doklet",
     "id": 7962185,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7962185?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7962185?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Doklet",
     "htmlUrl": "https://github.com/Doklet",
@@ -67,17 +67,16 @@
       "start": "electron ./app Doklet",
       "build": "electron-packager ./app Doklet --out=dist --ignore=dist --prune --platform=darwin --arch=x64 --version=0.36.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Doklet/doklet_electron.git"
-    },
-    "author": "Marcus Nilsson",
-    "bugs": {
-      "url": "https://github.com/Doklet/doklet_electron/issues"
-    },
+    "repository": "https://github.com/Doklet/doklet_electron",
     "homepage": "https://github.com/Doklet/doklet_electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Marcus Nilsson",
+      "bugs": {
+        "url": "https://github.com/Doklet/doklet_electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "Doklet___doklet_electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:01.383Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:46.096Z"
+  "lastFetchedAt": "2017-10-23T20:47:09.166Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:46.096Z",
+  "archived": false
 }

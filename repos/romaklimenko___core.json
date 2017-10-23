@@ -5,7 +5,7 @@
   "owner": {
     "login": "romaklimenko",
     "id": 490552,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/490552?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/490552?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/romaklimenko",
     "htmlUrl": "https://github.com/romaklimenko",
@@ -75,16 +75,15 @@
       "start": "electron dist",
       "test": "tape \"scripts/**/*test.js\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/romaklimenko/core.git"
-    },
-    "author": "romaklimenko",
+    "repository": "https://github.com/romaklimenko/core",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/romaklimenko/core/issues"
-    },
-    "homepage": "https://github.com/romaklimenko/core#readme"
+    "homepage": "https://github.com/romaklimenko/core#readme",
+    "other": {
+      "author": "romaklimenko",
+      "bugs": {
+        "url": "https://github.com/romaklimenko/core/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,7 @@
   "svnUrl": "https://github.com/romaklimenko/core",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:40:11.663Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:26.966Z"
+  "lastFetchedAt": "2017-10-23T18:49:48.594Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:26.966Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "scipper92",
     "id": 15401854,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15401854?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15401854?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scipper92",
     "htmlUrl": "https://github.com/scipper92",
@@ -77,16 +77,6 @@
     "description": "Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.",
     "homepage": "http://cesiumjs.org",
     "license": "Apache-2.0",
-    "author": {
-      "name": "Analytical Graphics, Inc.",
-      "url": "http://www.agi.com"
-    },
-    "contributors": [
-      {
-        "name": "Cesium community",
-        "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
-      }
-    ],
     "keywords": [
       "3D",
       "webgl",
@@ -94,14 +84,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -171,6 +154,22 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "author": {
+        "name": "Analytical Graphics, Inc.",
+        "url": "http://www.agi.com"
+      },
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      },
+      "contributors": [
+        {
+          "name": "Cesium community",
+          "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -198,6 +197,7 @@
   },
   "filename": "scipper92___CesiumTracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:17.517Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:28.735Z"
+  "lastFetchedAt": "2017-10-23T19:18:17.608Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:28.735Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "shaozj",
     "id": 7326406,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7326406?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7326406?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shaozj",
     "htmlUrl": "https://github.com/shaozj",
@@ -74,20 +74,13 @@
       "start": "tnpm install && gulp watch",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shaozj/ErEditor.git"
-    },
+    "repository": "https://github.com/shaozj/ErEditor",
     "keywords": [
       "editor",
       "electron",
       "react"
     ],
-    "author": "shaozj",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/shaozj/ErEditor/issues"
-    },
     "homepage": "https://github.com/shaozj/ErEditor#readme",
     "dependencies": {
       "babel-core": "~6.11.4",
@@ -104,6 +97,12 @@
       "gulp-run": "^1.6.11",
       "react": "^0.14",
       "react-dom": "^0.14.0"
+    },
+    "other": {
+      "author": "shaozj",
+      "bugs": {
+        "url": "https://github.com/shaozj/ErEditor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "shaozj___ErEditor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:58.353Z",
-  "packageLastFetchedAt": "2017-05-05T17:09:31.207Z"
+  "lastFetchedAt": "2017-10-23T18:47:07.358Z",
+  "packageLastFetchedAt": "2017-05-05T17:09:31.207Z",
+  "archived": false
 }

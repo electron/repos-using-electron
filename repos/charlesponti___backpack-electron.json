@@ -5,7 +5,7 @@
   "owner": {
     "login": "charlesponti",
     "id": 1757624,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1757624?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1757624?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/charlesponti",
     "htmlUrl": "https://github.com/charlesponti",
@@ -83,21 +83,14 @@
       "test": "node_modules/.bin/karma start karma.conf.js",
       "test:single": "npm run test -- --single-run"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8",
@@ -162,6 +155,12 @@
       "redux": "^3.3.1",
       "redux-thunk": "^2.0.1",
       "sw-toolbox": "^3.1.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   },
   "filename": "charlesponti___backpack-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:25.238Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:08.787Z"
+  "lastFetchedAt": "2017-10-23T21:08:10.079Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:08.787Z",
+  "archived": false
 }

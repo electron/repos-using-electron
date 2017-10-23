@@ -6,7 +6,7 @@
   "owner": {
     "login": "TinyTanic",
     "id": 1487907,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1487907?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1487907?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TinyTanic",
     "htmlUrl": "https://github.com/TinyTanic",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/TinyTanic/ElectronReactRedux-Boilerplate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/TinyTanic/ElectronReactRedux-Boilerplate/deployments",
   "createdAt": "2016-08-22T17:27:34.000Z",
-  "updatedAt": "2017-03-31T04:28:48.000Z",
+  "updatedAt": "2017-05-28T02:13:31.000Z",
   "pushedAt": "2017-03-27T21:40:16.000Z",
   "gitUrl": "git://github.com/TinyTanic/ElectronReactRedux-Boilerplate.git",
   "sshUrl": "git@github.com:TinyTanic/ElectronReactRedux-Boilerplate.git",
@@ -44,19 +44,19 @@
   "svnUrl": "https://github.com/TinyTanic/ElectronReactRedux-Boilerplate",
   "homepage": null,
   "size": 20,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,10 +70,10 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:39:07.802Z",
+  "lastFetchedAt": "2017-10-23T17:17:37.583Z",
   "packageJSON": {
     "name": "electron-react-redux-boilerplate",
     "version": "1.0.0",
@@ -83,21 +83,14 @@
       "dev": "gulp",
       "start": "electron .  "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/punch92/ElectronReactRedux-Boilerplate.git"
-    },
+    "repository": "https://github.com/punch92/ElectronReactRedux-Boilerplate",
     "keywords": [
       "electron",
       "react",
       "redux",
       "boilerplate"
     ],
-    "author": "Aguzzoli Luca",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/punch92/ElectronReactRedux-Boilerplate/issues"
-    },
     "homepage": "https://github.com/punch92/ElectronReactRedux-Boilerplate#readme",
     "dependencies": {
       "electron": "^1.6.2",
@@ -119,8 +112,15 @@
       "gulp-notify": "^2.2.0",
       "gulp-plumber": "^1.1.0",
       "gulp-sourcemaps": "^1.6.0"
+    },
+    "other": {
+      "author": "Aguzzoli Luca",
+      "bugs": {
+        "url": "https://github.com/punch92/ElectronReactRedux-Boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:39:08.884Z"
+  "packageLastFetchedAt": "2017-05-04T22:39:08.884Z",
+  "archived": false
 }

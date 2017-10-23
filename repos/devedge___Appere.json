@@ -5,7 +5,7 @@
   "owner": {
     "login": "devedge",
     "id": 16330401,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16330401?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16330401?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/devedge",
     "htmlUrl": "https://github.com/devedge",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/devedge/Appere",
-  "description": "A simple, minimalistic image viewer",
+  "description": "A simple, minimalist image viewer",
   "fork": false,
   "url": "https://api.github.com/repos/devedge/Appere",
   "forksUrl": "https://api.github.com/repos/devedge/Appere/forks",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/devedge/Appere/downloads",
   "deploymentsUrl": "https://api.github.com/repos/devedge/Appere/deployments",
   "createdAt": "2016-09-18T21:11:43.000Z",
-  "updatedAt": "2017-03-06T20:25:52.000Z",
-  "pushedAt": "2017-03-09T02:19:39.000Z",
+  "updatedAt": "2017-06-03T16:30:25.000Z",
+  "pushedAt": "2017-08-13T03:41:59.000Z",
   "gitUrl": "git://github.com/devedge/Appere.git",
   "sshUrl": "git@github.com:devedge/Appere.git",
   "cloneUrl": "https://github.com/devedge/Appere.git",
   "svnUrl": "https://github.com/devedge/Appere",
   "homepage": "",
-  "size": 986,
+  "size": 2196,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -62,10 +62,10 @@
     "pull": true
   },
   "license": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
-    "spdxId": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
   "networkCount": 0,
@@ -80,11 +80,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/devedge/Appere.git"
-    },
-    "author": "devedge",
+    "repository": "https://github.com/devedge/Appere",
     "license": "Apache-2.0",
     "dependencies": {
       "alphanum-sort": "^1.0.2",
@@ -95,7 +91,10 @@
       "image-size": "^0.5.1",
       "read-chunk": "^2.0.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "devedge"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +121,7 @@
   },
   "filename": "devedge___Appere.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:59:18.061Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:58.211Z"
+  "lastFetchedAt": "2017-10-23T18:10:13.375Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:58.211Z",
+  "archived": false
 }

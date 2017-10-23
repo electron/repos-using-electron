@@ -5,7 +5,7 @@
   "owner": {
     "login": "tomasmcm",
     "id": 6323928,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6323928?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6323928?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomasmcm",
     "htmlUrl": "https://github.com/tomasmcm",
@@ -20,21 +20,21 @@
   "description": "Electron wrapper of play.spotify.com",
   "fork": false,
   "createdAt": "2016-04-15T11:45:13.000Z",
-  "updatedAt": "2017-04-12T09:05:51.000Z",
-  "pushedAt": "2017-04-12T19:50:35.000Z",
+  "updatedAt": "2017-10-15T03:19:05.000Z",
+  "pushedAt": "2017-09-14T14:13:23.000Z",
   "homepage": null,
-  "size": 29659,
-  "stargazersCount": 84,
-  "watchersCount": 84,
+  "size": 29923,
+  "stargazersCount": 90,
+  "watchersCount": 90,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 9,
-  "openIssuesCount": 13,
-  "openIssues": 13,
-  "watchers": 84,
+  "forksCount": 11,
+  "openIssuesCount": 17,
+  "openIssues": 17,
+  "watchers": 90,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/cc-by-sa-4.0",
     "featured": false
   },
-  "networkCount": 9,
-  "subscribersCount": 10,
+  "networkCount": 11,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "SpotiWeb",
@@ -71,16 +71,12 @@
       "build:linux": "npm run package:linux && npm run zip:linux",
       "build": "npm run build:mac && npm run build:win && npm run build:linux"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tomasmcm/SpotiWeb.git"
-    },
+    "repository": "https://github.com/tomasmcm/SpotiWeb",
     "keywords": [
       "Electron",
       "Spotify",
       "Web"
     ],
-    "author": "tomasmcm",
     "license": "CC0-1.0",
     "homepage": "https://github.com/tomasmcm/SpotiWeb",
     "dependencies": {
@@ -93,6 +89,9 @@
     },
     "devDependencies": {
       "devtron": "^1.1.2"
+    },
+    "other": {
+      "author": "tomasmcm"
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   "svnUrl": "https://github.com/tomasmcm/SpotiWeb",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:20:08.326Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:38.362Z"
+  "lastFetchedAt": "2017-10-23T18:25:53.999Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:38.362Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Quizzly",
     "id": 21211535,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21211535?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21211535?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Quizzly",
     "htmlUrl": "https://github.com/Quizzly",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Quizzly",
     "id": 21211535,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21211535?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21211535?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Quizzly",
     "htmlUrl": "https://github.com/Quizzly",
@@ -117,7 +117,6 @@
       "dev": "NODE_ENV=development supervisor --harmony --ignore build/ -e js server & NODE_ENV=development node hotLoadServer.js",
       "start": "NODE_ENV=production node server"
     },
-    "author": "Conner Frey",
     "license": "ISC",
     "devDependencies": {
       "babel-loader": "^6.2.4",
@@ -136,6 +135,9 @@
       "sass-loader": "^3.2.0",
       "style-loader": "^0.13.1",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "Conner Frey"
     }
   },
   "packageStatus": 200,
@@ -163,6 +165,7 @@
   },
   "filename": "Quizzly___quizzly-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:22:11.899Z",
-  "packageLastFetchedAt": "2017-05-05T15:01:41.971Z"
+  "lastFetchedAt": "2017-10-23T17:39:22.000Z",
+  "packageLastFetchedAt": "2017-05-05T15:01:41.971Z",
+  "archived": false
 }

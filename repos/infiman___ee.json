@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron_indeed",
     "version": "0.0.1",
@@ -73,10 +73,12 @@
     "scripts": {
       "start": "electron . & cd app && npm start"
     },
-    "author": "Igor Shabat - (a. k. a. infiman)",
     "license": "MIT",
     "dependencies": {
       "electron-prebuilt": "^0.37.2"
+    },
+    "other": {
+      "author": "Igor Shabat - (a. k. a. infiman)"
     }
   },
   "packageStatus": 200,
@@ -104,6 +106,6 @@
   },
   "filename": "infiman___ee.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:56:29.461Z",
+  "lastFetchedAt": "2017-10-23T19:11:24.872Z",
   "packageLastFetchedAt": "2017-05-05T17:51:05.448Z"
 }

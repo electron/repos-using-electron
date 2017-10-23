@@ -5,7 +5,7 @@
   "owner": {
     "login": "enahum",
     "id": 6757047,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6757047?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6757047?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/enahum",
     "htmlUrl": "https://github.com/enahum",
@@ -70,7 +70,6 @@
     "version": "1.1.1",
     "description": "Test application with electron",
     "main": "app.js",
-    "author": "Elias Nahum",
     "scripts": {
       "prestart": "./node_modules/.bin/gulp",
       "test": "./node_modules/.bin/karma start --single-run",
@@ -115,6 +114,9 @@
       "node-notifier": "^4.2.3",
       "noty": "^2.3.6",
       "socket.io-client": "^1.3.6"
+    },
+    "other": {
+      "author": "Elias Nahum"
     }
   },
   "packageStatus": 200,
@@ -142,6 +144,7 @@
   },
   "filename": "enahum___ZboxTest.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:41.858Z",
-  "packageLastFetchedAt": "2017-05-05T14:49:02.411Z"
+  "lastFetchedAt": "2017-10-23T17:46:29.710Z",
+  "packageLastFetchedAt": "2017-05-05T14:49:02.411Z",
+  "archived": false
 }

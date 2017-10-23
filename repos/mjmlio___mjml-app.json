@@ -5,7 +5,7 @@
   "owner": {
     "login": "mjmlio",
     "id": 16115896,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16115896?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16115896?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mjmlio",
     "htmlUrl": "https://github.com/mjmlio",
@@ -20,21 +20,21 @@
   "description": ":email: The desktop app for MJML",
   "fork": false,
   "createdAt": "2016-02-22T20:07:09.000Z",
-  "updatedAt": "2017-05-04T04:25:18.000Z",
-  "pushedAt": "2017-05-04T20:42:15.000Z",
+  "updatedAt": "2017-10-21T16:17:01.000Z",
+  "pushedAt": "2017-10-13T21:59:19.000Z",
   "homepage": "http://mjmlio.github.io/mjml-app/",
-  "size": 9329,
-  "stargazersCount": 371,
-  "watchersCount": 371,
+  "size": 10322,
+  "stargazersCount": 425,
+  "watchersCount": 425,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 27,
-  "openIssuesCount": 12,
-  "openIssues": 12,
-  "watchers": 371,
+  "forksCount": 36,
+  "openIssuesCount": 15,
+  "openIssues": 15,
+  "watchers": 425,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "mjmlio",
     "id": 16115896,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16115896?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16115896?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mjmlio",
     "htmlUrl": "https://github.com/mjmlio",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/mjmlio/received_events",
     "type": "Organization"
   },
-  "networkCount": 27,
-  "subscribersCount": 21,
+  "networkCount": 36,
+  "subscribersCount": 22,
   "status": 200,
   "packageJSON": {
     "private": true,
@@ -132,19 +132,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/meriadec/mjml-app.git"
-    },
-    "author": {
-      "name": "Meriadec Pillet",
-      "email": "meriadec.pillet@gmail.com",
-      "url": "https://github.com/meriadec"
-    },
+    "repository": "https://github.com/meriadec/mjml-app",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/meriadec/mjml-app/issues"
-    },
     "keywords": [
       "mjml",
       "app"
@@ -226,6 +215,16 @@
       "semver": "^5.3.0",
       "source-map-support": "^0.4.15",
       "superagent-promise": "^1.1.0"
+    },
+    "other": {
+      "author": {
+        "name": "Meriadec Pillet",
+        "email": "meriadec.pillet@gmail.com",
+        "url": "https://github.com/meriadec"
+      },
+      "bugs": {
+        "url": "https://github.com/meriadec/mjml-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -273,6 +272,7 @@
   },
   "filename": "mjmlio___mjml-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:56.412Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:16.907Z"
+  "lastFetchedAt": "2017-10-23T17:47:51.851Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:16.907Z",
+  "archived": false
 }

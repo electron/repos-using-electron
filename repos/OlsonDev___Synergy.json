@@ -5,7 +5,7 @@
   "owner": {
     "login": "OlsonDev",
     "id": 308072,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/308072?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/308072?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OlsonDev",
     "htmlUrl": "https://github.com/OlsonDev",
@@ -71,15 +71,8 @@
     "description": "Private",
     "private": true,
     "main": "dist/main/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OlsonDev/Synergy.git"
-    },
-    "bugs": {
-      "url": "https://github.com/OlsonDev/Synergy/issues"
-    },
+    "repository": "https://github.com/OlsonDev/Synergy",
     "homepage": "https://github.com/OlsonDev/Synergy#readme",
-    "author": "Josh Olson",
     "license": "UNLICENSED",
     "dependencies": {
       "fs-extra": "^0.27.0",
@@ -107,6 +100,12 @@
       "copy-vendor": "xcopy \"src/browser/vendor\" \"dist/browser/vendor\" /y /q /i /s",
       "server": "node dist/server/index.js",
       "electron": "electron ."
+    },
+    "other": {
+      "author": "Josh Olson",
+      "bugs": {
+        "url": "https://github.com/OlsonDev/Synergy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "OlsonDev___Synergy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:44:41.533Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:05.236Z"
+  "lastFetchedAt": "2017-10-23T19:06:06.320Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:05.236Z",
+  "archived": false
 }

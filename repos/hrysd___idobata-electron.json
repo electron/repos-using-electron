@@ -5,7 +5,7 @@
   "owner": {
     "login": "hrysd",
     "id": 1663465,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1663465?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1663465?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hrysd",
     "htmlUrl": "https://github.com/hrysd",
@@ -20,21 +20,21 @@
   "description": "Unofficial Idobata client built on Electron",
   "fork": false,
   "createdAt": "2015-06-04T09:20:44.000Z",
-  "updatedAt": "2017-03-29T08:27:59.000Z",
+  "updatedAt": "2017-06-02T02:35:07.000Z",
   "pushedAt": "2017-02-03T09:43:29.000Z",
   "homepage": null,
   "size": 69,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 7,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 21,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 7,
-  "subscribersCount": 8,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "idobata-electron",
@@ -61,11 +61,13 @@
       "build": "./bin/build",
       "idobata": "electron index.js"
     },
-    "author": "Hiroshi Yoshida",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "8.5.0",
       "electron": "1.4.14"
+    },
+    "other": {
+      "author": "Hiroshi Yoshida"
     }
   },
   "packageStatus": 200,
@@ -113,6 +115,7 @@
   "svnUrl": "https://github.com/hrysd/idobata-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:05:25.750Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:35.718Z"
+  "lastFetchedAt": "2017-10-23T17:48:20.958Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:35.718Z",
+  "archived": false
 }

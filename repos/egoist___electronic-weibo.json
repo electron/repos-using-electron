@@ -5,7 +5,7 @@
   "owner": {
     "login": "egoist",
     "id": 8784712,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8784712?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8784712?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/egoist",
     "htmlUrl": "https://github.com/egoist",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-05-06T15:22:37.000Z",
   "updatedAt": "2017-04-13T15:05:50.000Z",
-  "pushedAt": "2016-05-13T05:28:11.000Z",
+  "pushedAt": "2017-07-25T13:54:59.000Z",
   "homepage": null,
-  "size": 667,
+  "size": 659,
   "stargazersCount": 10,
   "watchersCount": 10,
   "language": "JavaScript",
@@ -57,7 +57,6 @@
       "build:osx": "electron-packager . --overwrite --asar --out dist --prune --platform=darwin --arch=x64 --ignore='^/media/(?!Icon.icns$).*' --icon=media/weibo.icns  --app-version=$npm_package_version",
       "build:win": "electron-packager . --overwrite --asar --out dist --prune --platform=win32 --arch=ia32 --ignore='^/media/(?!Icon.icns$).*' --icon=media/weibo.ico  --app-version=$npm_package_version"
     },
-    "author": "",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^7.0.1",
@@ -66,6 +65,9 @@
     "dependencies": {
       "electron-debug": "^0.7.0",
       "electron-dl": "^0.2.0"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -113,6 +115,7 @@
   },
   "filename": "egoist___electronic-weibo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:58.446Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:35.102Z"
+  "lastFetchedAt": "2017-10-23T17:17:25.621Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:35.102Z",
+  "archived": false
 }

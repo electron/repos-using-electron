@@ -5,7 +5,7 @@
   "owner": {
     "login": "gossi",
     "id": 283700,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/283700?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/283700?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gossi",
     "htmlUrl": "https://github.com/gossi",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for boombox goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -162,6 +157,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +191,7 @@
   },
   "filename": "gossi___Boombox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:25:24.637Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:21.587Z"
+  "lastFetchedAt": "2017-10-23T20:11:23.328Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:21.587Z",
+  "archived": false
 }

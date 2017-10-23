@@ -5,7 +5,7 @@
   "owner": {
     "login": "Printrbot",
     "id": 4736634,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4736634?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4736634?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Printrbot",
     "htmlUrl": "https://github.com/Printrbot",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Printrbot",
     "id": 4736634,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4736634?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4736634?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Printrbot",
     "htmlUrl": "https://github.com/Printrbot",
@@ -88,7 +88,6 @@
       "start": "electron .",
       "build": "electron-packager . pbCNC --platform=darwin --arch=x64 --version=0.36.0 --asar=true --prune=true"
     },
-    "author": "mick",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "0.36.0",
@@ -97,6 +96,9 @@
     "dependencies": {
       "jquery": "^2.2.1",
       "tinyg": "git+https://github.com/giseburt/TinyG-node.git"
+    },
+    "other": {
+      "author": "mick"
     }
   },
   "packageStatus": 200,
@@ -124,6 +126,7 @@
   },
   "filename": "Printrbot___cnc-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:55.459Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:20.675Z"
+  "lastFetchedAt": "2017-10-23T17:16:15.489Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:20.675Z",
+  "archived": false
 }

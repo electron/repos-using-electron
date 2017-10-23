@@ -5,7 +5,7 @@
   "owner": {
     "login": "DmytroVasin",
     "id": 1914001,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1914001?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1914001?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DmytroVasin",
     "htmlUrl": "https://github.com/DmytroVasin",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/DmytroVasin/TimeTracker/downloads",
   "deploymentsUrl": "https://api.github.com/repos/DmytroVasin/TimeTracker/deployments",
   "createdAt": "2016-09-01T05:48:51.000Z",
-  "updatedAt": "2017-04-06T12:54:30.000Z",
+  "updatedAt": "2017-10-21T15:08:16.000Z",
   "pushedAt": "2016-11-15T06:28:08.000Z",
   "gitUrl": "git://github.com/DmytroVasin/TimeTracker.git",
   "sshUrl": "git@github.com:DmytroVasin/TimeTracker.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/DmytroVasin/TimeTracker",
   "homepage": "",
   "size": 2950,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -76,11 +76,7 @@
     "version": "0.0.1",
     "license": "MIT",
     "description": "App is based on Electron, React, Redux + Rails as a back end.",
-    "author": "Dmytro Vasin <dmytro.vasin@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/DmytroVasin/TimeTracker.git"
-    },
+    "repository": "https://github.com/DmytroVasin/TimeTracker",
     "scripts": {
       "clean": "rm -rf app/electron-app/ && rm -rf app/browser-app/ && rm -rf dist/",
       "browser": "NODE_ENV=development webpack-dev-server --config webpack.config.js --hot --inline",
@@ -153,6 +149,9 @@
       "appRepo": "https://github.com/DmytroVasin/TimeTracker",
       "apiRepo": "https://github.com/DmytroVasin/TimeTrakerAPI",
       "apiApp": "https://time-tracker-api.herokuapp.com/"
+    },
+    "other": {
+      "author": "Dmytro Vasin <dmytro.vasin@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -180,6 +179,7 @@
   },
   "filename": "DmytroVasin___TimeTracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:52.613Z",
-  "packageLastFetchedAt": "2017-05-05T15:37:25.696Z"
+  "lastFetchedAt": "2017-10-23T18:56:50.298Z",
+  "packageLastFetchedAt": "2017-05-05T15:37:25.696Z",
+  "archived": false
 }

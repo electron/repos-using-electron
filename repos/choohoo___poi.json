@@ -5,7 +5,7 @@
   "owner": {
     "login": "choohoo",
     "id": 20371009,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20371009?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20371009?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/choohoo",
     "htmlUrl": "https://github.com/choohoo",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "poooi",
       "id": 11751187,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/11751187?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/11751187?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/poooi",
       "htmlUrl": "https://github.com/poooi",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/poooi/poi/downloads",
     "deploymentsUrl": "https://api.github.com/repos/poooi/poi/deployments",
     "createdAt": "2015-05-04T05:19:54.000Z",
-    "updatedAt": "2017-05-03T19:28:01.000Z",
-    "pushedAt": "2017-05-04T11:59:57.000Z",
+    "updatedAt": "2017-10-22T15:12:24.000Z",
+    "pushedAt": "2017-10-21T04:08:30.000Z",
     "gitUrl": "git://github.com/poooi/poi.git",
     "sshUrl": "git@github.com:poooi/poi.git",
     "cloneUrl": "https://github.com/poooi/poi.git",
     "svnUrl": "https://github.com/poooi/poi",
     "homepage": "https://poi.io",
-    "size": 34422,
-    "stargazersCount": 725,
-    "watchersCount": 725,
+    "size": 35410,
+    "stargazersCount": 857,
+    "watchersCount": 857,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 227,
+    "forksCount": 256,
     "mirrorUrl": null,
-    "openIssuesCount": 63,
-    "openIssues": 63,
-    "watchers": 725,
+    "archived": false,
+    "openIssuesCount": 85,
+    "openIssues": 85,
+    "watchers": 857,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "poooi",
       "id": 11751187,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/11751187?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/11751187?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/poooi",
       "htmlUrl": "https://github.com/poooi",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/poooi/poi/downloads",
     "deploymentsUrl": "https://api.github.com/repos/poooi/poi/deployments",
     "createdAt": "2015-05-04T05:19:54.000Z",
-    "updatedAt": "2017-05-03T19:28:01.000Z",
-    "pushedAt": "2017-05-04T11:59:57.000Z",
+    "updatedAt": "2017-10-22T15:12:24.000Z",
+    "pushedAt": "2017-10-21T04:08:30.000Z",
     "gitUrl": "git://github.com/poooi/poi.git",
     "sshUrl": "git@github.com:poooi/poi.git",
     "cloneUrl": "https://github.com/poooi/poi.git",
     "svnUrl": "https://github.com/poooi/poi",
     "homepage": "https://poi.io",
-    "size": 34422,
-    "stargazersCount": 725,
-    "watchersCount": 725,
+    "size": 35410,
+    "stargazersCount": 857,
+    "watchersCount": 857,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 227,
+    "forksCount": 256,
     "mirrorUrl": null,
-    "openIssuesCount": 63,
-    "openIssues": 63,
-    "watchers": 725,
+    "archived": false,
+    "openIssuesCount": 85,
+    "openIssues": 85,
+    "watchers": 857,
     "defaultBranch": "master"
   },
-  "networkCount": 227,
+  "networkCount": 256,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -182,23 +184,13 @@
       "update": "gulp update",
       "compile": "gulp compile"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/poooi/poi.git"
-    },
+    "repository": "https://github.com/poooi/poi",
     "keywords": [
       "KanColle",
       "Browser",
       "Tool"
     ],
-    "author": {
-      "name": "Magica",
-      "email": "readme.md@gmail.com"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/poooi/poi/issues"
-    },
     "homepage": "https://github.com/poooi/poi",
     "dependencies": {
       "babel-core": "^6.9.0",
@@ -301,8 +293,17 @@
         ]
       }
     },
-    "directories": {
-      "app": "app_compiled"
+    "other": {
+      "author": {
+        "name": "Magica",
+        "email": "readme.md@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/poooi/poi/issues"
+      },
+      "directories": {
+        "app": "app_compiled"
+      }
     }
   },
   "packageStatus": 200,
@@ -351,6 +352,7 @@
   "filename": "choohoo___poi.json",
   "sourceRepo": "poooi/poi",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:09.822Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:02.489Z"
+  "lastFetchedAt": "2017-10-23T17:50:18.198Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:02.489Z",
+  "archived": false
 }

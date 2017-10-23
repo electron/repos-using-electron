@@ -5,7 +5,7 @@
   "owner": {
     "login": "Algram",
     "id": 5053729,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5053729?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5053729?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Algram",
     "htmlUrl": "https://github.com/Algram",
@@ -20,12 +20,12 @@
   "description": "A modern IRC client built on the latest technologies of the web",
   "fork": false,
   "createdAt": "2015-12-30T23:35:27.000Z",
-  "updatedAt": "2016-12-06T08:33:15.000Z",
+  "updatedAt": "2017-05-15T21:40:09.000Z",
   "pushedAt": "2016-07-16T19:41:43.000Z",
   "homepage": "",
   "size": 1109,
-  "stargazersCount": 13,
-  "watchersCount": 13,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 4,
   "openIssuesCount": 14,
   "openIssues": 14,
-  "watchers": 13,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 4,
-  "subscribersCount": 8,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "Hypha",
@@ -60,21 +60,14 @@
       "start": "electron main.js",
       "gulp": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/algram/hypha.git"
-    },
+    "repository": "https://github.com/algram/hypha",
     "keywords": [
       "hypha",
       "irc",
       "client",
       "electron"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/algram/hypha/issues"
-    },
     "homepage": "https://github.com/algram/hypha#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -83,6 +76,12 @@
     "dependencies": {
       "irc": "~0.4.0",
       "spellchecker": "~3.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/algram/hypha/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "Algram___Hypha.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:10:07.195Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:00.707Z"
+  "lastFetchedAt": "2017-10-23T18:20:38.417Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:00.707Z",
+  "archived": false
 }

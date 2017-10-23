@@ -5,7 +5,7 @@
   "owner": {
     "login": "skewten-incubator",
     "id": 23045994,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/23045994?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/23045994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/skewten-incubator",
     "htmlUrl": "https://github.com/skewten-incubator",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "skewten-incubator",
     "id": 23045994,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/23045994?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/23045994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/skewten-incubator",
     "htmlUrl": "https://github.com/skewten-incubator",
@@ -70,21 +70,14 @@
       "buildrun": "npm run build && npm run run",
       "run": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/boorium/boorium.git"
-    },
+    "repository": "https://github.com/boorium/boorium",
     "keywords": [
       "booru",
       "client",
       "standalone",
       "electron"
     ],
-    "author": "ivan k <ivan@sq10.net>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/boorium/boorium/issues"
-    },
     "homepage": "https://github.com/boorium/boorium#readme",
     "devDependencies": {
       "babel-cli": "^6.6.5",
@@ -109,6 +102,12 @@
           2,
           "always"
         ]
+      }
+    },
+    "other": {
+      "author": "ivan k <ivan@sq10.net>",
+      "bugs": {
+        "url": "https://github.com/boorium/boorium/issues"
       }
     }
   },
@@ -157,6 +156,7 @@
   },
   "filename": "boorium___boorium.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:55.463Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:32.163Z"
+  "lastFetchedAt": "2017-10-23T17:24:35.743Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:32.163Z",
+  "archived": false
 }

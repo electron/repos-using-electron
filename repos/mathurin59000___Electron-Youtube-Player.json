@@ -5,7 +5,7 @@
   "owner": {
     "login": "mathurin59000",
     "id": 7778641,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7778641?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7778641?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mathurin59000",
     "htmlUrl": "https://github.com/mathurin59000",
@@ -81,7 +81,6 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "author": "mathurin59000",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -100,6 +99,9 @@
       "react-youtube-player": "^0.3.3",
       "reactify": "*",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "mathurin59000"
     }
   },
   "packageStatus": 200,
@@ -127,6 +129,7 @@
   },
   "filename": "mathurin59000___Electron-Youtube-Player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:56:05.888Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:56.445Z"
+  "lastFetchedAt": "2017-10-23T20:49:41.447Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:56.445Z",
+  "archived": false
 }

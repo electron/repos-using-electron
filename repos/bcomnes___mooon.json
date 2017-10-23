@@ -5,7 +5,7 @@
   "owner": {
     "login": "bcomnes",
     "id": 166301,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/166301?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/166301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bcomnes",
     "htmlUrl": "https://github.com/bcomnes",
@@ -20,12 +20,12 @@
   "description": ":new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon: in your tray",
   "fork": false,
   "createdAt": "2015-05-01T02:12:36.000Z",
-  "updatedAt": "2017-02-21T02:50:48.000Z",
+  "updatedAt": "2017-07-21T09:11:53.000Z",
   "pushedAt": "2017-04-30T21:18:39.000Z",
   "homepage": "",
   "size": 1167,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 7,
   "openIssues": 7,
-  "watchers": 6,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -55,10 +55,6 @@
     "name": "mooon",
     "description": "Displays the moon phase in your staus bar/tray",
     "version": "1.0.0",
-    "author": "Bret Comnes <bcomnes@gmail.com>",
-    "bugs": {
-      "url": "https://github.com/bcomnes/mooon/issues"
-    },
     "devDependencies": {
       "electron-packager": "^5.1.0",
       "electron-prebuilt": "^0.34.3",
@@ -72,10 +68,7 @@
     ],
     "license": "ISC",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bcomnes/mooon.git"
-    },
+    "repository": "https://github.com/bcomnes/mooon",
     "scripts": {
       "test": "tape test/*.js | tap-spec && standard",
       "start": "electron index.js",
@@ -89,6 +82,12 @@
       "electron-prebuilt": "^0.32.3",
       "moonmoji": "0.0.5",
       "node-schedule": "^0.3.0"
+    },
+    "other": {
+      "author": "Bret Comnes <bcomnes@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/bcomnes/mooon/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/bcomnes/mooon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:20:01.784Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:19.347Z"
+  "lastFetchedAt": "2017-10-23T17:03:43.484Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:19.347Z",
+  "archived": false
 }

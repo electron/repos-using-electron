@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Vagalume-Manager",
     "version": "0.0.3",
@@ -79,22 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ftonato/vagalume-manager"
-    },
+    "repository": "https://github.com/ftonato/vagalume-manager",
     "keywords": [
       "node-vagalume",
       "vagalume-manager",
       "vagalume",
       "musica"
     ],
-    "author": "Ademílson F. Tonato - @ftonato",
-    "contributors": [],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ftonato/vagalume-manager/issues"
-    },
     "homepage": "https://github.com/ftonato/vagalume-manager#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -103,6 +95,13 @@
       "electron-default-menu": "^0.1.1",
       "vagalume": "0.0.5",
       "dns": "^0.2.2"
+    },
+    "other": {
+      "author": "Ademílson F. Tonato - @ftonato",
+      "bugs": {
+        "url": "https://github.com/ftonato/vagalume-manager/issues"
+      },
+      "contributors": []
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,6 @@
   },
   "filename": "ftonato___vagalume-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:15.165Z",
+  "lastFetchedAt": "2017-10-23T18:17:46.126Z",
   "packageLastFetchedAt": "2017-05-04T22:32:33.559Z"
 }

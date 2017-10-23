@@ -5,7 +5,7 @@
   "owner": {
     "login": "wyrover",
     "id": 3905610,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3905610?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3905610?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wyrover",
     "htmlUrl": "https://github.com/wyrover",
@@ -78,14 +78,13 @@
     "scripts": {
       "start": "electron ./app/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dbackowski/electron-boilerplate.git"
-    },
-    "author": "Damian Baćkowski",
+    "repository": "https://github.com/dbackowski/electron-boilerplate",
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^0.36.9"
+    },
+    "other": {
+      "author": "Damian Baćkowski"
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   },
   "filename": "wyrover___electron-simple.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:22.657Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:31.886Z"
+  "lastFetchedAt": "2017-10-23T20:47:45.232Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:31.886Z",
+  "archived": false
 }

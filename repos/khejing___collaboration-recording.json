@@ -5,7 +5,7 @@
   "owner": {
     "login": "khejing",
     "id": 7954004,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7954004?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7954004?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/khejing",
     "htmlUrl": "https://github.com/khejing",
@@ -79,15 +79,8 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/khejing/collaboration-recording.git"
-    },
-    "author": "Will Lee",
+    "repository": "https://github.com/khejing/collaboration-recording",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/khejing/collaboration-recording/issues"
-    },
     "homepage": "https://github.com/khejing/collaboration-recording",
     "dependencies": {
       "electron-prebuilt": "^0.28.2",
@@ -98,6 +91,12 @@
       "mqtt": "^1.3.2",
       "portfinder": "^0.4.0",
       "pouchdb": "^3.6.0"
+    },
+    "other": {
+      "author": "Will Lee",
+      "bugs": {
+        "url": "https://github.com/khejing/collaboration-recording/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "khejing___collaboration-recording.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:36.506Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:27.932Z"
+  "lastFetchedAt": "2017-10-23T17:47:39.863Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:27.932Z",
+  "archived": false
 }

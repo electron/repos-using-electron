@@ -6,7 +6,7 @@
   "owner": {
     "login": "raccy",
     "id": 8274392,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8274392?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8274392?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/raccy",
     "htmlUrl": "https://github.com/raccy",
@@ -36,17 +36,17 @@
   "downloadsUrl": "https://api.github.com/repos/raccy/oshirasekun/downloads",
   "deploymentsUrl": "https://api.github.com/repos/raccy/oshirasekun/deployments",
   "createdAt": "2016-12-01T21:22:01.000Z",
-  "updatedAt": "2016-12-01T21:22:37.000Z",
-  "pushedAt": "2017-02-01T04:28:09.000Z",
+  "updatedAt": "2017-10-10T11:59:16.000Z",
+  "pushedAt": "2017-10-19T11:40:19.000Z",
   "gitUrl": "git://github.com/raccy/oshirasekun.git",
   "sshUrl": "git@github.com:raccy/oshirasekun.git",
   "cloneUrl": "https://github.com/raccy/oshirasekun.git",
   "svnUrl": "https://github.com/raccy/oshirasekun",
   "homepage": null,
-  "size": 106,
+  "size": 307,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "TypeScript",
+  "language": "CoffeeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -90,7 +90,6 @@
       "clean": "rimraf dst && rimraf pkg",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "raccy",
     "license": "MIT",
     "devDependencies": {
       "@types/electron": "1.4.28",
@@ -138,6 +137,9 @@
       "redux-form": "^6.4.3",
       "redux-logger": "^2.7.4",
       "redux-thunk": "^2.1.0"
+    },
+    "other": {
+      "author": "raccy"
     }
   },
   "packageStatus": 200,
@@ -164,6 +166,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:13.034Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:53.097Z"
+  "lastFetchedAt": "2017-10-23T17:42:05.259Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:53.097Z",
+  "archived": false
 }

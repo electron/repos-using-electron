@@ -72,15 +72,14 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T08:01:18.556Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T20:52:33.818Z",
   "packageJSON": {
     "name": "autosplash",
     "version": "0.0.1",
     "description": "Autosplash",
     "main": "app.js",
     "repository": "github.com/rawnly/autosplash",
-    "author": "Rawnly <fedevitale99@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "chili-js": "^1.3.1",
@@ -98,6 +97,9 @@
     },
     "scripts": {
       "build": "./node_modules/electron-packager/index.js . AutoSplash --platform=darwin --arch=x64 --output=./build"
+    },
+    "other": {
+      "author": "Rawnly <fedevitale99@gmail.com>"
     }
   },
   "packageStatus": 200,

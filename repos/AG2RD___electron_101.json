@@ -5,7 +5,7 @@
   "owner": {
     "login": "AG2RD",
     "id": 4852428,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4852428?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4852428?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AG2RD",
     "htmlUrl": "https://github.com/AG2RD",
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/AG2RD/electron_101",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:43:41.232Z",
-  "packageLastFetchedAt": "2017-05-04T22:51:41.466Z"
+  "lastFetchedAt": "2017-10-23T19:33:00.863Z",
+  "packageLastFetchedAt": "2017-05-04T22:51:41.466Z",
+  "archived": false
 }

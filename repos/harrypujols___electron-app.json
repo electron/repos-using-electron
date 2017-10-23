@@ -5,7 +5,7 @@
   "owner": {
     "login": "harrypujols",
     "id": 1799480,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1799480?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1799480?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/harrypujols",
     "htmlUrl": "https://github.com/harrypujols",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/harrypujols/electron-app/deployments",
   "createdAt": "2016-04-23T05:12:31.000Z",
   "updatedAt": "2016-04-27T04:24:00.000Z",
-  "pushedAt": "2016-04-27T04:35:05.000Z",
+  "pushedAt": "2017-08-12T17:26:30.000Z",
   "gitUrl": "git://github.com/harrypujols/electron-app.git",
   "sshUrl": "git@github.com:harrypujols/electron-app.git",
   "cloneUrl": "https://github.com/harrypujols/electron-app.git",
   "svnUrl": "https://github.com/harrypujols/electron-app",
   "homepage": "",
-  "size": 137908,
+  "size": 118354,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "CSS",
@@ -80,13 +80,15 @@
       "start": "electron ./app/main.js",
       "build": "electron-packager ./app $npm_package_productName --platform=darwin --arch=x64 --ignore=node_modules --icon=icons/icon --overwrite --out=./release"
     },
-    "author": "Harry",
     "license": "GNU",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.37.7",
       "gulp": "^3.9.1",
       "gulp-electron": "^0.1.2"
+    },
+    "other": {
+      "author": "Harry"
     }
   },
   "packageStatus": 200,
@@ -114,6 +116,7 @@
   },
   "filename": "harrypujols___electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:37:18.480Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:47.322Z"
+  "lastFetchedAt": "2017-10-23T18:05:57.935Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:47.322Z",
+  "archived": false
 }

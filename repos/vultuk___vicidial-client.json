@@ -5,7 +5,7 @@
   "owner": {
     "login": "vultuk",
     "id": 271838,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/271838?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/271838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vultuk",
     "htmlUrl": "https://github.com/vultuk",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/vultuk/vicidial-client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/vultuk/vicidial-client/deployments",
   "createdAt": "2016-05-27T20:05:32.000Z",
-  "updatedAt": "2016-05-27T20:18:15.000Z",
+  "updatedAt": "2017-06-07T19:34:06.000Z",
   "pushedAt": "2016-05-28T18:09:11.000Z",
   "gitUrl": "git://github.com/vultuk/vicidial-client.git",
   "sshUrl": "git@github.com:vultuk/vicidial-client.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/vultuk/vicidial-client",
   "homepage": null,
   "size": 369,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 0,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
-  "subscribersCount": 3,
+  "networkCount": 1,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "vicidial-client",
@@ -81,21 +81,14 @@
       "grunt-watch": "./node_modules/grunt/bin/grunt watch",
       "start": "electron electron.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vultuk/vicidial-client"
-    },
+    "repository": "https://github.com/vultuk/vicidial-client",
     "keywords": [
       "Vicidial",
       "dialler",
       "client",
       "goautodial"
     ],
-    "author": "Vultuk",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vultuk/vicidial-client/issues"
-    },
     "homepage": "https://github.com/vultuk/vicidial-client#readme",
     "devDependencies": {
       "angular": "^1.5.5",
@@ -108,6 +101,12 @@
       "grunt-contrib-watch": "^1.0.0",
       "grunt-sass": "^1.2.0",
       "serve-static": "^1.10.2"
+    },
+    "other": {
+      "author": "Vultuk",
+      "bugs": {
+        "url": "https://github.com/vultuk/vicidial-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "vultuk___vicidial-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:07.800Z",
-  "packageLastFetchedAt": "2017-05-05T17:20:07.919Z"
+  "lastFetchedAt": "2017-10-23T17:24:27.388Z",
+  "packageLastFetchedAt": "2017-05-05T17:20:07.919Z",
+  "archived": false
 }

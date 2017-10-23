@@ -5,7 +5,7 @@
   "owner": {
     "login": "defconcepts",
     "id": 9161722,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9161722?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9161722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/defconcepts",
     "htmlUrl": "https://github.com/defconcepts",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "defconcepts",
     "id": 9161722,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9161722?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9161722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/defconcepts",
     "htmlUrl": "https://github.com/defconcepts",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "cpsubrian",
       "id": 319152,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/319152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/319152?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/cpsubrian",
       "htmlUrl": "https://github.com/cpsubrian",
@@ -93,7 +93,7 @@
     "downloadsUrl": "https://api.github.com/repos/cpsubrian/redis-explorer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/cpsubrian/redis-explorer/deployments",
     "createdAt": "2014-03-28T20:59:02.000Z",
-    "updatedAt": "2017-05-03T02:48:15.000Z",
+    "updatedAt": "2017-09-21T02:47:37.000Z",
     "pushedAt": "2015-07-14T23:00:51.000Z",
     "gitUrl": "git://github.com/cpsubrian/redis-explorer.git",
     "sshUrl": "git@github.com:cpsubrian/redis-explorer.git",
@@ -101,8 +101,8 @@
     "svnUrl": "https://github.com/cpsubrian/redis-explorer",
     "homepage": "",
     "size": 5728,
-    "stargazersCount": 143,
-    "watchersCount": 143,
+    "stargazersCount": 149,
+    "watchersCount": 149,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -111,9 +111,10 @@
     "hasPages": false,
     "forksCount": 14,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 143,
+    "watchers": 149,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "cpsubrian",
       "id": 319152,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/319152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/319152?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/cpsubrian",
       "htmlUrl": "https://github.com/cpsubrian",
@@ -153,7 +154,7 @@
     "downloadsUrl": "https://api.github.com/repos/cpsubrian/redis-explorer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/cpsubrian/redis-explorer/deployments",
     "createdAt": "2014-03-28T20:59:02.000Z",
-    "updatedAt": "2017-05-03T02:48:15.000Z",
+    "updatedAt": "2017-09-21T02:47:37.000Z",
     "pushedAt": "2015-07-14T23:00:51.000Z",
     "gitUrl": "git://github.com/cpsubrian/redis-explorer.git",
     "sshUrl": "git@github.com:cpsubrian/redis-explorer.git",
@@ -161,8 +162,8 @@
     "svnUrl": "https://github.com/cpsubrian/redis-explorer",
     "homepage": "",
     "size": 5728,
-    "stargazersCount": 143,
-    "watchersCount": 143,
+    "stargazersCount": 149,
+    "watchersCount": 149,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -171,9 +172,10 @@
     "hasPages": false,
     "forksCount": 14,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 143,
+    "watchers": 149,
     "defaultBranch": "master"
   },
   "networkCount": 14,
@@ -184,24 +186,17 @@
     "version": "0.0.6",
     "description": "A GUI for Redis",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/cpsubrian/redis-explorer.git"
-    },
+    "repository": "https://github.com/cpsubrian/redis-explorer",
     "homepage": "https://github.com/cpsubrian/redis-explorer",
     "keywords": [
       "redis"
     ],
-    "author": "Brian Link <cpsubrian@gmail.com>",
     "licenses": [
       {
         "type": "Apache-2.0",
         "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
       }
     ],
-    "bugs": {
-      "url": "https://github.com/cpsubrian/redis-explorer/issues"
-    },
     "scripts": {
       "test": "echo 'No Tests'"
     },
@@ -253,6 +248,12 @@
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.3.1",
       "standard": "^4.3.3"
+    },
+    "other": {
+      "author": "Brian Link <cpsubrian@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/cpsubrian/redis-explorer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -301,6 +302,7 @@
   "svnUrl": "https://github.com/defconcepts/redis-explorer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:08:49.973Z",
-  "packageLastFetchedAt": "2017-05-05T17:53:56.878Z"
+  "lastFetchedAt": "2017-10-23T18:51:17.858Z",
+  "packageLastFetchedAt": "2017-05-05T17:53:56.878Z",
+  "archived": false
 }

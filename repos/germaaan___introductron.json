@@ -5,7 +5,7 @@
   "owner": {
     "login": "germaaan",
     "id": 5518719,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5518719?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5518719?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/germaaan",
     "htmlUrl": "https://github.com/germaaan",
@@ -78,11 +78,6 @@
     "description": "Aplicación de prueba del framework Electron",
     "license": "GPL-3.0",
     "repository": "germaaan/introductron",
-    "author": {
-      "name": "German Martinez",
-      "email": "germaaan@gmail.com",
-      "url": "germaaan.github.io"
-    },
     "main": "main.js",
     "keywords": [
       "electron-app",
@@ -113,6 +108,13 @@
       "libs": "bower install",
       "sass": "node-sass public/style/scss/*.scss -o public/style/css",
       "postinstall": "npm run libs && npm run sass"
+    },
+    "other": {
+      "author": {
+        "name": "German Martinez",
+        "email": "germaaan@gmail.com",
+        "url": "germaaan.github.io"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +142,7 @@
   },
   "filename": "germaaan___introductron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:23.524Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:41.735Z"
+  "lastFetchedAt": "2017-10-23T19:36:30.557Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:41.735Z",
+  "archived": false
 }

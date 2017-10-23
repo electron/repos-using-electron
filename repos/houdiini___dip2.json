@@ -5,7 +5,7 @@
   "owner": {
     "login": "houdiini",
     "id": 10813617,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10813617?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10813617?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/houdiini",
     "htmlUrl": "https://github.com/houdiini",
@@ -74,7 +74,6 @@
       "start": "./node_modules/.bin/electron .",
       "build": "electron-packager ./ biTools --all --out=dist --overwrite --ignore=dist"
     },
-    "author": "Houdiini",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
     },
@@ -87,6 +86,9 @@
       "mongoose": "^4.5.0",
       "random-name": "^0.1.1",
       "xlsx": "^0.8.0"
+    },
+    "other": {
+      "author": "Houdiini"
     }
   },
   "packageStatus": 200,
@@ -114,6 +116,7 @@
   },
   "filename": "houdiini___dip2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:40:59.130Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:04.560Z"
+  "lastFetchedAt": "2017-10-23T20:48:38.363Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:04.560Z",
+  "archived": false
 }

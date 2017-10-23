@@ -5,7 +5,7 @@
   "owner": {
     "login": "LongSteve",
     "id": 7988024,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7988024?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7988024?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LongSteve",
     "htmlUrl": "https://github.com/LongSteve",
@@ -80,10 +80,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "run": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/LongSteve/code-stream-guard.git"
-    },
+    "repository": "https://github.com/LongSteve/code-stream-guard",
     "keywords": [
       "xmpp",
       "irc",
@@ -94,11 +91,7 @@
       "programming",
       "streaming"
     ],
-    "author": "Steve Longhurst",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/LongSteve/code-stream-guard/issues"
-    },
     "homepage": "https://github.com/LongSteve/code-stream-guard#readme",
     "dependencies": {
       "app-root-path": "^2.0.1",
@@ -121,6 +114,12 @@
       "request": "^2.75.0",
       "socket.io": "^1.7.0",
       "winston": "^2.2.0"
+    },
+    "other": {
+      "author": "Steve Longhurst",
+      "bugs": {
+        "url": "https://github.com/LongSteve/code-stream-guard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   },
   "filename": "LongSteve___code-stream-guard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:34:30.144Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:48.402Z"
+  "lastFetchedAt": "2017-10-23T20:44:00.797Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:48.402Z",
+  "archived": false
 }

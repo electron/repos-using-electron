@@ -5,7 +5,7 @@
   "owner": {
     "login": "jellyfishgh",
     "id": 3036042,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3036042?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3036042?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jellyfishgh",
     "htmlUrl": "https://github.com/jellyfishgh",
@@ -75,20 +75,13 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jellyfishgh/electron-api-demos.git"
-    },
+    "repository": "https://github.com/jellyfishgh/electron-api-demos",
     "keywords": [
       "Electron",
       "API",
       "demo"
     ],
-    "author": "jellyfishgh",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jellyfishgh/electron-api-demos/issues"
-    },
     "homepage": "https://github.com/jellyfishgh/electron-api-demos#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -114,6 +107,12 @@
     "standard": {
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "author": "jellyfishgh",
+      "bugs": {
+        "url": "https://github.com/jellyfishgh/electron-api-demos/issues"
       }
     }
   },
@@ -163,6 +162,7 @@
   "svnUrl": "https://github.com/jellyfishgh/electron-api-demos",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:22:47.185Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:29.816Z"
+  "lastFetchedAt": "2017-10-23T19:06:00.247Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:29.816Z",
+  "archived": false
 }

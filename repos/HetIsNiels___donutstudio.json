@@ -5,7 +5,7 @@
   "owner": {
     "login": "nielsvanvelzen",
     "id": 2305178,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2305178?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2305178?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nielsvanvelzen",
     "htmlUrl": "https://github.com/nielsvanvelzen",
@@ -49,22 +49,21 @@
     "name": "donut-studio",
     "version": "1.0.0",
     "description": "Donut studio game",
-    "author": "HetIsNiels",
     "license": "CC0-1.0",
     "homepage": "http://hetisniels.itch.io/donut-studio",
     "main": "main.js",
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/HetIsNiels/donutstudio.git"
-    },
-    "bugs": {
-      "url": "https://github.com/HetIsNiels/donutstudio/issues"
-    },
+    "repository": "https://github.com/HetIsNiels/donutstudio",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "HetIsNiels",
+      "bugs": {
+        "url": "https://github.com/HetIsNiels/donutstudio/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,7 @@
   },
   "filename": "HetIsNiels___donutstudio.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:18.997Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:48.061Z"
+  "lastFetchedAt": "2017-10-23T18:47:11.667Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:48.061Z",
+  "archived": false
 }

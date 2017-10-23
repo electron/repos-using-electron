@@ -6,7 +6,7 @@
   "owner": {
     "login": "ara4n",
     "id": 1294269,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1294269?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1294269?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ara4n",
     "htmlUrl": "https://github.com/ara4n",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "daemongh",
       "id": 231312,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/231312?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/231312?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/daemongh",
       "htmlUrl": "https://github.com/daemongh",
@@ -118,6 +118,7 @@
     "hasPages": false,
     "forksCount": 0,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -130,7 +131,7 @@
     "owner": {
       "login": "daemongh",
       "id": 231312,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/231312?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/231312?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/daemongh",
       "htmlUrl": "https://github.com/daemongh",
@@ -178,6 +179,7 @@
     "hasPages": false,
     "forksCount": 0,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -190,15 +192,14 @@
     "name": "vector-desktop",
     "version": "0.0.1",
     "description": "Vector Desktop",
-    "author": "Steven Hammerton",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/stevenhammerton/vector-desktop"
-    },
+    "repository": "https://github.com/stevenhammerton/vector-desktop",
     "license": "Apache-2.0",
     "devDependencies": {
       "electron-prebuilt": "^0.34.1"
+    },
+    "other": {
+      "author": "Steven Hammerton"
     }
   },
   "packageStatus": 200,
@@ -225,6 +226,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:58.167Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:13.071Z"
+  "lastFetchedAt": "2017-10-23T17:23:05.297Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:13.071Z",
+  "archived": false
 }

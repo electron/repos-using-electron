@@ -5,7 +5,7 @@
   "owner": {
     "login": "ExodusMovement",
     "id": 16415174,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16415174?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16415174?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ExodusMovement",
     "htmlUrl": "https://github.com/ExodusMovement",
@@ -35,37 +35,43 @@
   "downloadsUrl": "https://api.github.com/repos/ExodusMovement/simdb/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ExodusMovement/simdb/deployments",
   "createdAt": "2016-11-20T21:08:55.000Z",
-  "updatedAt": "2016-11-20T21:09:44.000Z",
-  "pushedAt": "2016-11-20T21:44:02.000Z",
+  "updatedAt": "2017-09-19T12:52:49.000Z",
+  "pushedAt": "2017-08-19T21:04:56.000Z",
   "gitUrl": "git://github.com/ExodusMovement/simdb.git",
   "sshUrl": "git@github.com:ExodusMovement/simdb.git",
   "cloneUrl": "https://github.com/ExodusMovement/simdb.git",
   "svnUrl": "https://github.com/ExodusMovement/simdb",
   "homepage": null,
-  "size": 5,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 7,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
   "organization": {
     "login": "ExodusMovement",
     "id": 16415174,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16415174?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16415174?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ExodusMovement",
     "htmlUrl": "https://github.com/ExodusMovement",
@@ -76,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/ExodusMovement/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -92,20 +98,13 @@
       "test": "npm run lint && npm run unit",
       "unit": "electron-mocha --renderer -r babel-register test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/exodusmovement/simdb.git"
-    },
+    "repository": "https://github.com/exodusmovement/simdb",
     "keywords": [
       "indexeddb",
       "simple",
       "db"
     ],
-    "author": "Exodus Movement, Inc.",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/exodusmovement/simdb/issues"
-    },
     "homepage": "https://github.com/exodusmovement/simdb#readme",
     "files": [
       "index.js"
@@ -117,6 +116,12 @@
       "electron": "^1.4.7",
       "electron-mocha": "^3.2.0",
       "standard": "^8.5.0"
+    },
+    "other": {
+      "author": "Exodus Movement, Inc.",
+      "bugs": {
+        "url": "https://github.com/exodusmovement/simdb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +149,7 @@
   },
   "filename": "ExodusMovement___simdb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:29.939Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:13.670Z"
+  "lastFetchedAt": "2017-10-23T18:48:02.398Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:13.670Z",
+  "archived": false
 }

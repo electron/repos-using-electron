@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "stickynotes",
     "version": "1.0.0",
@@ -79,11 +79,7 @@
       "Sticky",
       "Notes"
     ],
-    "author": "Antonio Gil",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/antoniogil/StickyNotes.git"
-    },
+    "repository": "https://github.com/antoniogil/StickyNotes",
     "license": "MIT",
     "dependencies": {
       "angular": "^1.5.8",
@@ -97,6 +93,9 @@
     },
     "devDependencies": {
       "electron": "^1.3.4"
+    },
+    "other": {
+      "author": "Antonio Gil"
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   },
   "filename": "antoniogil___StickyNotes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:27:29.328Z",
+  "lastFetchedAt": "2017-10-23T19:17:01.473Z",
   "packageLastFetchedAt": "2017-05-05T17:43:33.263Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Code4PPL",
     "id": 15831433,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15831433?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15831433?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Code4PPL",
     "htmlUrl": "https://github.com/Code4PPL",
@@ -76,15 +76,11 @@
     "description": "MyMedia -- media center.",
     "version": "1.0.0",
     "main": "mymedia_main.js",
-    "author": "BiosWare",
     "keywords": [],
     "licenses": {
       "type": "none"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/BiosWare/MyMedia"
-    },
+    "repository": "https://github.com/BiosWare/MyMedia",
     "dependencies": {
       "bluebird": "^2.10.0",
       "body-parser": "^1.13.3",
@@ -105,8 +101,11 @@
       "run_unit_testing_db": "mocha ./test/db_test/db_unit_test.js && exit"
     },
     "license": "ISC",
-    "directories": {
-      "test": "test"
+    "other": {
+      "author": "BiosWare",
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "BinaryWare___MyMedia.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:36.766Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:58.452Z"
+  "lastFetchedAt": "2017-10-23T20:18:10.566Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:58.452Z",
+  "archived": false
 }

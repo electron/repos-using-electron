@@ -6,7 +6,7 @@
   "owner": {
     "login": "Biteable",
     "id": 11656271,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11656271?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11656271?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Biteable",
     "htmlUrl": "https://github.com/Biteable",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "Biteable",
     "id": 11656271,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11656271?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11656271?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Biteable",
     "htmlUrl": "https://github.com/Biteable",
@@ -85,7 +85,7 @@
     "owner": {
       "login": "usecanvas",
       "id": 8454979,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8454979?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8454979?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/usecanvas",
       "htmlUrl": "https://github.com/usecanvas",
@@ -115,7 +115,7 @@
     "downloadsUrl": "https://api.github.com/repos/usecanvas/web-v2/downloads",
     "deploymentsUrl": "https://api.github.com/repos/usecanvas/web-v2/deployments",
     "createdAt": "2017-04-04T16:15:06.000Z",
-    "updatedAt": "2017-05-02T17:13:31.000Z",
+    "updatedAt": "2017-10-02T19:28:53.000Z",
     "pushedAt": "2017-04-05T04:44:34.000Z",
     "gitUrl": "git://github.com/usecanvas/web-v2.git",
     "sshUrl": "git@github.com:usecanvas/web-v2.git",
@@ -123,19 +123,20 @@
     "svnUrl": "https://github.com/usecanvas/web-v2",
     "homepage": null,
     "size": 1681,
-    "stargazersCount": 80,
-    "watchersCount": 80,
+    "stargazersCount": 94,
+    "watchersCount": 94,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 15,
+    "forksCount": 21,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
-    "watchers": 80,
+    "watchers": 94,
     "defaultBranch": "master"
   },
   "source": {
@@ -145,7 +146,7 @@
     "owner": {
       "login": "usecanvas",
       "id": 8454979,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8454979?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8454979?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/usecanvas",
       "htmlUrl": "https://github.com/usecanvas",
@@ -175,7 +176,7 @@
     "downloadsUrl": "https://api.github.com/repos/usecanvas/web-v2/downloads",
     "deploymentsUrl": "https://api.github.com/repos/usecanvas/web-v2/deployments",
     "createdAt": "2017-04-04T16:15:06.000Z",
-    "updatedAt": "2017-05-02T17:13:31.000Z",
+    "updatedAt": "2017-10-02T19:28:53.000Z",
     "pushedAt": "2017-04-05T04:44:34.000Z",
     "gitUrl": "git://github.com/usecanvas/web-v2.git",
     "sshUrl": "git@github.com:usecanvas/web-v2.git",
@@ -183,34 +184,31 @@
     "svnUrl": "https://github.com/usecanvas/web-v2",
     "homepage": null,
     "size": 1681,
-    "stargazersCount": 80,
-    "watchersCount": 80,
+    "stargazersCount": 94,
+    "watchersCount": 94,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 15,
+    "forksCount": 21,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
-    "watchers": 80,
+    "watchers": 94,
     "defaultBranch": "master"
   },
-  "networkCount": 15,
+  "networkCount": 21,
   "subscribersCount": 5,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:28:21.697Z",
+  "lastFetchedAt": "2017-10-23T18:59:20.646Z",
   "packageJSON": {
     "name": "canvas-web",
     "version": "0.0.12",
     "description": "Small description for canvas-web goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "lint": "eslint app config tests",
@@ -221,7 +219,6 @@
     "engines": {
       "node": "7.5.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "@usecanvas/canvas-editor": "3.11.10",
@@ -320,8 +317,16 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:46:14.586Z"
+  "packageLastFetchedAt": "2017-05-04T22:46:14.586Z",
+  "archived": false
 }

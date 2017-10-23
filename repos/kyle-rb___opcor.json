@@ -5,7 +5,7 @@
   "owner": {
     "login": "kyle-rb",
     "id": 8771270,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8771270?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8771270?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kyle-rb",
     "htmlUrl": "https://github.com/kyle-rb",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/kyle-rb/opcor/deployments",
   "createdAt": "2016-09-17T02:32:10.000Z",
   "updatedAt": "2016-09-17T03:05:41.000Z",
-  "pushedAt": "2017-04-14T04:39:23.000Z",
+  "pushedAt": "2017-10-15T20:18:14.000Z",
   "gitUrl": "git://github.com/kyle-rb/opcor.git",
   "sshUrl": "git@github.com:kyle-rb/opcor.git",
   "cloneUrl": "https://github.com/kyle-rb/opcor.git",
   "svnUrl": "https://github.com/kyle-rb/opcor",
   "homepage": null,
-  "size": 221,
+  "size": 234,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kyle-rb/opcor"
-    },
+    "repository": "https://github.com/kyle-rb/opcor",
     "keywords": [
       "opcor",
       "stream"
     ],
-    "author": "kyle-rb",
     "license": "Beerware",
-    "bugs": {
-      "url": "https://github.com/kyle-rb/opcor/issues"
-    },
     "homepage": "https://github.com/kyle-rb/opcor",
     "dependencies": {
       "request": "2.76.0"
     },
     "devDependencies": {
       "electron": "^1.3.5"
+    },
+    "other": {
+      "author": "kyle-rb",
+      "bugs": {
+        "url": "https://github.com/kyle-rb/opcor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "kyle-rb___opcor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:02:49.314Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:44.512Z"
+  "lastFetchedAt": "2017-10-23T17:07:21.822Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:44.512Z",
+  "archived": false
 }

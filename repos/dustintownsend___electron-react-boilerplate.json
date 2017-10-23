@@ -5,7 +5,7 @@
   "owner": {
     "login": "dustintownsend",
     "id": 16727,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16727?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16727?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dustintownsend",
     "htmlUrl": "https://github.com/dustintownsend",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "chentsulin",
       "id": 3382565,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3382565?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3382565?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/chentsulin",
       "htmlUrl": "https://github.com/chentsulin",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/chentsulin/electron-react-boilerplate/downloads",
     "deploymentsUrl": "https://api.github.com/repos/chentsulin/electron-react-boilerplate/deployments",
     "createdAt": "2015-05-18T09:54:57.000Z",
-    "updatedAt": "2017-05-04T01:27:10.000Z",
-    "pushedAt": "2017-05-03T06:14:08.000Z",
+    "updatedAt": "2017-10-23T16:25:35.000Z",
+    "pushedAt": "2017-10-23T06:26:15.000Z",
     "gitUrl": "git://github.com/chentsulin/electron-react-boilerplate.git",
     "sshUrl": "git@github.com:chentsulin/electron-react-boilerplate.git",
     "cloneUrl": "https://github.com/chentsulin/electron-react-boilerplate.git",
     "svnUrl": "https://github.com/chentsulin/electron-react-boilerplate",
     "homepage": "",
-    "size": 5032,
-    "stargazersCount": 5733,
-    "watchersCount": 5733,
+    "size": 5718,
+    "stargazersCount": 7104,
+    "watchersCount": 7104,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 848,
+    "forksCount": 1096,
     "mirrorUrl": null,
-    "openIssuesCount": 32,
-    "openIssues": 32,
-    "watchers": 5733,
+    "archived": false,
+    "openIssuesCount": 70,
+    "openIssues": 70,
+    "watchers": 7104,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "chentsulin",
       "id": 3382565,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3382565?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3382565?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/chentsulin",
       "htmlUrl": "https://github.com/chentsulin",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/chentsulin/electron-react-boilerplate/downloads",
     "deploymentsUrl": "https://api.github.com/repos/chentsulin/electron-react-boilerplate/deployments",
     "createdAt": "2015-05-18T09:54:57.000Z",
-    "updatedAt": "2017-05-04T01:27:10.000Z",
-    "pushedAt": "2017-05-03T06:14:08.000Z",
+    "updatedAt": "2017-10-23T16:25:35.000Z",
+    "pushedAt": "2017-10-23T06:26:15.000Z",
     "gitUrl": "git://github.com/chentsulin/electron-react-boilerplate.git",
     "sshUrl": "git@github.com:chentsulin/electron-react-boilerplate.git",
     "cloneUrl": "https://github.com/chentsulin/electron-react-boilerplate.git",
     "svnUrl": "https://github.com/chentsulin/electron-react-boilerplate",
     "homepage": "",
-    "size": 5032,
-    "stargazersCount": 5733,
-    "watchersCount": 5733,
+    "size": 5718,
+    "stargazersCount": 7104,
+    "watchersCount": 7104,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 848,
+    "forksCount": 1096,
     "mirrorUrl": null,
-    "openIssuesCount": 32,
-    "openIssues": 32,
-    "watchers": 5733,
+    "archived": false,
+    "openIssuesCount": 70,
+    "openIssues": 70,
+    "watchers": 7104,
     "defaultBranch": "master"
   },
-  "networkCount": 848,
+  "networkCount": 1096,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -239,19 +241,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -359,6 +350,16 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -407,6 +408,7 @@
   "svnUrl": "https://github.com/dustintownsend/electron-react-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:28:17.567Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:14.974Z"
+  "lastFetchedAt": "2017-10-23T18:06:08.037Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:14.974Z",
+  "archived": false
 }

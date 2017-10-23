@@ -5,7 +5,7 @@
   "owner": {
     "login": "pengchongfu",
     "id": 13997305,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/13997305?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/13997305?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pengchongfu",
     "htmlUrl": "https://github.com/pengchongfu",
@@ -20,12 +20,12 @@
   "description": null,
   "fork": false,
   "createdAt": "2016-03-11T14:01:11.000Z",
-  "updatedAt": "2016-06-16T15:43:54.000Z",
+  "updatedAt": "2017-06-06T04:38:32.000Z",
   "pushedAt": "2016-03-14T03:28:25.000Z",
   "homepage": null,
   "size": 41,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -55,7 +55,6 @@
       "start": "electron main.js",
       "build": "electron-packager . music --ignore=node_modules/electron-* --platform=win32 --arch=x64 --version=0.36.10 --ignore=node_modules/.bin --ignore=.git"
     },
-    "author": "",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -63,6 +62,9 @@
     },
     "dependencies": {
       "fs": "0.0.2"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -110,6 +112,7 @@
   },
   "filename": "steinsphang___music-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:59:51.407Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:13.164Z"
+  "lastFetchedAt": "2017-10-23T17:59:55.597Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:13.164Z",
+  "archived": false
 }

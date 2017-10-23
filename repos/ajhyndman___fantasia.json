@@ -5,7 +5,7 @@
   "owner": {
     "login": "ajhyndman",
     "id": 11449340,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11449340?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11449340?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ajhyndman",
     "htmlUrl": "https://github.com/ajhyndman",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -81,15 +81,8 @@
       "storybook": "start-storybook -p 9001",
       "test": "npm run eslint && npm run flow"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ajhyndman/fantasia.git"
-    },
-    "author": "Andrew Hyndman <ajhyndman@hotmail.com> (https://github.com/ajhyndman)",
+    "repository": "https://github.com/ajhyndman/fantasia",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ajhyndman/electron-ehr/issues"
-    },
     "homepage": "https://github.com/ajhyndman/electron-ehr#readme",
     "devDependencies": {
       "@flow-atom/electron": "^0.37.8-rev.0",
@@ -135,6 +128,12 @@
       "redux-saga": "^0.11.0",
       "seamless-immutable": "https://github.com/ajhyndman/seamless-immutable/tarball/preserve-immutable-js",
       "uuid-js": "^0.7.5"
+    },
+    "other": {
+      "author": "Andrew Hyndman <ajhyndman@hotmail.com> (https://github.com/ajhyndman)",
+      "bugs": {
+        "url": "https://github.com/ajhyndman/electron-ehr/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "ajhyndman___fantasia.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:53.861Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:24.746Z"
+  "lastFetchedAt": "2017-10-23T21:06:09.868Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:24.746Z",
+  "archived": false
 }

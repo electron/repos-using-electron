@@ -5,7 +5,7 @@
   "owner": {
     "login": "shama",
     "id": 99604,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/99604?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/99604?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shama",
     "htmlUrl": "https://github.com/shama",
@@ -55,12 +55,8 @@
       "gh": "browserify example.js -o bundle.js",
       "test": "standard --format && browserify test.js | testron"
     },
-    "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:shama/view-list.git"
-    },
+    "repository": "https://github.com/shama/view-list",
     "files": [
       "index.js"
     ],
@@ -80,6 +76,9 @@
       "testron": "^1.2.0",
       "through2": "^0.6.5",
       "virtual-dom": "^2.0.1"
+    },
+    "other": {
+      "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)"
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/shama/view-list",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:00:51.976Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:08.835Z"
+  "lastFetchedAt": "2017-10-23T18:08:33.109Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:08.835Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Jam3",
     "id": 1165621,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1165621?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1165621?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Jam3",
     "htmlUrl": "https://github.com/Jam3",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Jam3",
     "id": 1165621,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1165621?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1165621?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Jam3",
     "htmlUrl": "https://github.com/Jam3",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 3,
-  "subscribersCount": 20,
+  "subscribersCount": 22,
   "status": 200,
   "packageJSON": {
     "name": "preview-dds",
@@ -71,11 +71,6 @@
     "description": "preview and save DDS textures from the command line",
     "main": "index.js",
     "license": "MIT",
-    "author": {
-      "name": "Matt DesLauriers",
-      "email": "dave.des@gmail.com",
-      "url": "https://github.com/mattdesl"
-    },
     "dependencies": {
       "a-big-triangle": "^1.0.2",
       "array-range": "^1.0.1",
@@ -120,16 +115,20 @@
       "texture",
       "viewer"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Jam3/preview-dds.git"
-    },
+    "repository": "https://github.com/Jam3/preview-dds",
     "homepage": "https://github.com/Jam3/preview-dds",
-    "bugs": {
-      "url": "https://github.com/Jam3/preview-dds/issues"
-    },
     "bin": {
       "preview-dds": "./bin/cli.js"
+    },
+    "other": {
+      "author": {
+        "name": "Matt DesLauriers",
+        "email": "dave.des@gmail.com",
+        "url": "https://github.com/mattdesl"
+      },
+      "bugs": {
+        "url": "https://github.com/Jam3/preview-dds/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -177,6 +176,7 @@
   "svnUrl": "https://github.com/Jam3/preview-dds",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:26:44.248Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:52.661Z"
+  "lastFetchedAt": "2017-10-23T17:06:55.794Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:52.661Z",
+  "archived": false
 }

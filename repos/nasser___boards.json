@@ -5,7 +5,7 @@
   "owner": {
     "login": "nasser",
     "id": 412966,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/412966?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/412966?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nasser",
     "htmlUrl": "https://github.com/nasser",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/nasser/boards/downloads",
   "deploymentsUrl": "https://api.github.com/repos/nasser/boards/deployments",
   "createdAt": "2015-02-06T19:19:51.000Z",
-  "updatedAt": "2017-02-20T08:33:54.000Z",
+  "updatedAt": "2017-08-28T18:36:54.000Z",
   "pushedAt": "2017-02-18T01:33:06.000Z",
   "gitUrl": "git://github.com/nasser/boards.git",
   "sshUrl": "git@github.com:nasser/boards.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/nasser/boards",
   "homepage": null,
   "size": 256,
-  "stargazersCount": 13,
-  "watchersCount": 13,
+  "stargazersCount": 14,
+  "watchersCount": 14,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 7,
   "openIssues": 7,
-  "watchers": 13,
+  "watchers": 14,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,18 +79,17 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nasser/boards.git"
-    },
-    "author": "Ramsey Nasser",
+    "repository": "https://github.com/nasser/boards",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nasser/boards/issues"
-    },
     "homepage": "https://github.com/nasser/boards#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Ramsey Nasser",
+      "bugs": {
+        "url": "https://github.com/nasser/boards/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "nasser___boards.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:35.817Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:06.968Z"
+  "lastFetchedAt": "2017-10-23T20:50:37.586Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:06.968Z",
+  "archived": false
 }

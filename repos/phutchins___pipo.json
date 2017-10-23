@@ -5,7 +5,7 @@
   "owner": {
     "login": "phutchins",
     "id": 1074345,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1074345?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1074345?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/phutchins",
     "htmlUrl": "https://github.com/phutchins",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/phutchins/pipo/downloads",
   "deploymentsUrl": "https://api.github.com/repos/phutchins/pipo/deployments",
   "createdAt": "2015-05-07T17:28:33.000Z",
-  "updatedAt": "2017-04-28T11:43:41.000Z",
-  "pushedAt": "2017-04-16T19:29:52.000Z",
+  "updatedAt": "2017-10-06T00:48:24.000Z",
+  "pushedAt": "2017-09-14T02:42:58.000Z",
   "gitUrl": "git://github.com/phutchins/pipo.git",
   "sshUrl": "git@github.com:phutchins/pipo.git",
   "cloneUrl": "https://github.com/phutchins/pipo.git",
   "svnUrl": "https://github.com/phutchins/pipo",
   "homepage": null,
-  "size": 99853,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "size": 100773,
+  "stargazersCount": 33,
+  "watchersCount": 33,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 9,
+  "forksCount": 8,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 21,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 33,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/agpl-3.0",
     "featured": false
   },
-  "networkCount": 9,
-  "subscribersCount": 9,
+  "networkCount": 8,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "PiPo",
@@ -77,7 +77,6 @@
       "type": "AGPL-3.0",
       "url": "http://www.gnu.org/licenses/agpl-3.0.en.html"
     },
-    "author": "Philip Hutchins",
     "email": "philip@pipo.chat",
     "scripts": {
       "test": "npm run testsuite && npm run linter",
@@ -94,24 +93,6 @@
       "setup": "node ./scripts/setup.js",
       "start-client": "electron ."
     },
-    "directories": {
-      "test": "test",
-      "client": "client",
-      "server": "server",
-      "output": "dist",
-      "buildResources": "build"
-    },
-    "contributors": [
-      {
-        "name": "Rob Riddle",
-        "email": "rob@pipo.chat",
-        "url": "https://github.com/unusualbob"
-      },
-      {
-        "name": "Pat Riley",
-        "email": "pat@pipo.chat"
-      }
-    ],
     "version": "0.1.0",
     "description": "Encrypted chat server/client",
     "main": "main.js",
@@ -207,6 +188,27 @@
       "sinon": "^1.17.4",
       "supertest": "^1.2.0",
       "uglify-js": "^2.6.2"
+    },
+    "other": {
+      "author": "Philip Hutchins",
+      "contributors": [
+        {
+          "name": "Rob Riddle",
+          "email": "rob@pipo.chat",
+          "url": "https://github.com/unusualbob"
+        },
+        {
+          "name": "Pat Riley",
+          "email": "pat@pipo.chat"
+        }
+      ],
+      "directories": {
+        "test": "test",
+        "client": "client",
+        "server": "server",
+        "output": "dist",
+        "buildResources": "build"
+      }
     }
   },
   "packageStatus": 200,
@@ -234,6 +236,7 @@
   },
   "filename": "phutchins___pipo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:54.464Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:03.059Z"
+  "lastFetchedAt": "2017-10-23T19:31:51.716Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:03.059Z",
+  "archived": false
 }

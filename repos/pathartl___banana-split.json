@@ -5,7 +5,7 @@
   "owner": {
     "login": "pathartl",
     "id": 486310,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/486310?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/486310?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pathartl",
     "htmlUrl": "https://github.com/pathartl",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/pathartl/banana-split/downloads",
   "deploymentsUrl": "https://api.github.com/repos/pathartl/banana-split/deployments",
   "createdAt": "2015-10-18T05:23:26.000Z",
-  "updatedAt": "2017-03-08T09:34:50.000Z",
+  "updatedAt": "2017-08-15T17:10:26.000Z",
   "pushedAt": "2017-04-15T22:12:24.000Z",
   "gitUrl": "git://github.com/pathartl/banana-split.git",
   "sshUrl": "git@github.com:pathartl/banana-split.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/pathartl/banana-split",
   "homepage": null,
   "size": 332573,
-  "stargazersCount": 23,
-  "watchersCount": 23,
+  "stargazersCount": 26,
+  "watchersCount": 26,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 23,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 26,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 3,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "banana-split",
@@ -73,21 +73,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pathartl/banana-split.git"
-    },
+    "repository": "https://github.com/pathartl/banana-split",
     "keywords": [
       "Electron",
       "video",
       "tv",
       "ffmpeg"
     ],
-    "author": "Pat Hartl",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/pathartl/banana-split/issues"
-    },
     "homepage": "https://github.com/pathartl/banana-split#readme",
     "devDependencies": {
       "electron-packager": "^8.1.0",
@@ -105,6 +98,12 @@
       "jquery": "^3.1.1",
       "lodash": "^4.16.2",
       "spawn-sync": "^1.0.15"
+    },
+    "other": {
+      "author": "Pat Hartl",
+      "bugs": {
+        "url": "https://github.com/pathartl/banana-split/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "pathartl___banana-split.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:40:35.502Z",
-  "packageLastFetchedAt": "2017-05-05T17:51:09.652Z"
+  "lastFetchedAt": "2017-10-23T17:14:26.347Z",
+  "packageLastFetchedAt": "2017-05-05T17:51:09.652Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ddwag1",
     "id": 6107035,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6107035?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6107035?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ddwag1",
     "htmlUrl": "https://github.com/ddwag1",
@@ -55,16 +55,9 @@
     "name": "electron-development-kit",
     "version": "0.0.1",
     "description": "Easily Test, Build and Distribute Electron Apps",
-    "author": "Dylan Byth",
     "private": true,
     "homepage": "https://github.com/ddwag1/electron-development-kit",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ddwag1/electron-development-kit.git"
-    },
-    "bugs": {
-      "url": "https://github.com/ddwag1/electron-development-kit/issues"
-    },
+    "repository": "https://github.com/ddwag1/electron-development-kit",
     "main": "main.js",
     "devDependencies": {
       "electron-prebuilt": "~1.0.2",
@@ -91,6 +84,12 @@
         "iconUrl": "http://www.example.com/favicon.ico",
         "loadingGif": "build/loading.gif",
         "noMsi": false
+      }
+    },
+    "other": {
+      "author": "Dylan Byth",
+      "bugs": {
+        "url": "https://github.com/ddwag1/electron-development-kit/issues"
       }
     }
   },
@@ -139,6 +138,7 @@
   "svnUrl": "https://github.com/ddwag1/electron-development-kit",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:05.986Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:51.068Z"
+  "lastFetchedAt": "2017-10-23T19:15:31.372Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:51.068Z",
+  "archived": false
 }

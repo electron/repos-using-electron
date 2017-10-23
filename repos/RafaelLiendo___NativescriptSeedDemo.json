@@ -5,7 +5,7 @@
   "owner": {
     "login": "RafaelLiendo",
     "id": 12666898,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12666898?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12666898?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RafaelLiendo",
     "htmlUrl": "https://github.com/RafaelLiendo",
@@ -63,15 +63,13 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -118,12 +116,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "async": "^2.0.0",
@@ -229,6 +221,14 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -256,6 +256,7 @@
   },
   "filename": "RafaelLiendo___NativescriptSeedDemo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:24:49.015Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:11.868Z"
+  "lastFetchedAt": "2017-10-23T20:23:54.799Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:11.868Z",
+  "archived": false
 }

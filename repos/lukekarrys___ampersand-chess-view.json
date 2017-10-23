@@ -5,7 +5,7 @@
   "owner": {
     "login": "lukekarrys",
     "id": 542108,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/542108?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/542108?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lukekarrys",
     "htmlUrl": "https://github.com/lukekarrys",
@@ -21,7 +21,7 @@
   "fork": false,
   "createdAt": "2015-01-20T08:36:59.000Z",
   "updatedAt": "2017-01-25T17:28:27.000Z",
-  "pushedAt": "2017-05-01T05:12:09.000Z",
+  "pushedAt": "2017-10-20T10:07:01.000Z",
   "homepage": null,
   "size": 62,
   "stargazersCount": 2,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 2,
@@ -48,15 +48,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "ampersand-chess-view",
     "description": "An ampersand-view for playing chess games.",
     "version": "1.0.2",
-    "author": "Luke Karrys <luke@lukekarrys.com>",
-    "bugs": "https://github.com/lukekarrys/ampersand-chess-view/issues",
     "dependencies": {
       "ampersand-chess-state": "^1.0.1",
       "ampersand-view": "^10.0.1"
@@ -87,16 +85,17 @@
       "test",
       "validate"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/lukekarrys/ampersand-chess-view"
-    },
+    "repository": "https://github.com/lukekarrys/ampersand-chess-view",
     "scripts": {
       "demo": "beefy demo/demo.js --index=demo/index.html",
       "lint": "standard",
       "start": "run-browser test/* --port 3001",
       "test": "browserify test/*.js | tape-run | tap-spec",
       "validate": "npm ls"
+    },
+    "other": {
+      "author": "Luke Karrys <luke@lukekarrys.com>",
+      "bugs": "https://github.com/lukekarrys/ampersand-chess-view/issues"
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/lukekarrys/ampersand-chess-view",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:16:18.792Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:29.373Z"
+  "lastFetchedAt": "2017-10-23T19:29:51.886Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:29.373Z",
+  "archived": false
 }

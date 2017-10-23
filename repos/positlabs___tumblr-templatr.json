@@ -5,7 +5,7 @@
   "owner": {
     "login": "positlabs",
     "id": 1918844,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1918844?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1918844?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/positlabs",
     "htmlUrl": "https://github.com/positlabs",
@@ -60,10 +60,7 @@
       "start": "./node_modules/.bin/electron ./electron-client/main.js",
       "test": "node test/test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/positlabs/tumblr-templatr.git"
-    },
+    "repository": "https://github.com/positlabs/tumblr-templatr",
     "keywords": [
       "tumblr",
       "template",
@@ -71,7 +68,6 @@
       "theme",
       "Electron"
     ],
-    "author": "positlabs",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
@@ -82,6 +78,9 @@
       "glob": "^6.0.4",
       "gulp": "^3.9.0",
       "request": "^2.67.0"
+    },
+    "other": {
+      "author": "positlabs"
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "positlabs___tumblr-templatr.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:57:20.611Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:04.837Z"
+  "lastFetchedAt": "2017-10-23T17:17:45.594Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:04.837Z",
+  "archived": false
 }

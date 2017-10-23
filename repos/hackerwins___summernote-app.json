@@ -5,7 +5,7 @@
   "owner": {
     "login": "hackerwins",
     "id": 2059311,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2059311?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2059311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hackerwins",
     "htmlUrl": "https://github.com/hackerwins",
@@ -20,12 +20,12 @@
   "description": "Super simple note app",
   "fork": false,
   "createdAt": "2016-02-08T08:54:48.000Z",
-  "updatedAt": "2017-03-01T06:41:46.000Z",
-  "pushedAt": "2017-05-03T09:01:57.000Z",
+  "updatedAt": "2017-06-16T03:31:36.000Z",
+  "pushedAt": "2017-06-11T12:59:18.000Z",
   "homepage": "",
-  "size": 157,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "size": 295,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 4,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "winternote",
@@ -56,7 +56,6 @@
       "package": "electron-packager ./electron --platform=darwin --arch=all --version=1.3.3 --out ./dist --overwrite",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Hackerwins",
     "license": "ISC",
     "devDependencies": {
       "babel-core": "^6.4.5",
@@ -108,6 +107,9 @@
       "redux-thunk": "^2.0.1",
       "tlds": "^1.107.0",
       "whatwg-fetch": "^2.0.3"
+    },
+    "other": {
+      "author": "Hackerwins"
     }
   },
   "packageStatus": 200,
@@ -156,6 +158,7 @@
   "svnUrl": "https://github.com/hackerwins/winternote-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:54:22.746Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:05.831Z"
+  "lastFetchedAt": "2017-10-23T20:41:20.837Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:05.831Z",
+  "archived": false
 }

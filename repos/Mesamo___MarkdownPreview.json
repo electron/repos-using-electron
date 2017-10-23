@@ -5,7 +5,7 @@
   "owner": {
     "login": "Mesamo",
     "id": 12560981,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12560981?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12560981?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mesamo",
     "htmlUrl": "https://github.com/Mesamo",
@@ -82,19 +82,12 @@
       "build:win32": ".\\scripts\\build-win.bat win32 ia32",
       "winsetup": "node scripts/win-setup.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Mesamo/MarkdownPreview.git"
-    },
+    "repository": "https://github.com/Mesamo/MarkdownPreview",
     "keywords": [
       "electron",
       "react"
     ],
-    "author": "Mesamo",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Mesamo/MarkdownPreview/issues"
-    },
     "homepage": "https://github.com/Mesamo/MarkdownPreview#readme",
     "devDependencies": {
       "electron": "^1.4.15",
@@ -104,6 +97,12 @@
       "element-ui": "^1.2.1",
       "marked": "^0.3.6",
       "vue": "^2.2.1"
+    },
+    "other": {
+      "author": "Mesamo",
+      "bugs": {
+        "url": "https://github.com/Mesamo/MarkdownPreview/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "Mesamo___MarkdownPreview.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:19:03.187Z",
-  "packageLastFetchedAt": "2017-05-04T22:20:25.251Z"
+  "lastFetchedAt": "2017-10-23T17:51:37.325Z",
+  "packageLastFetchedAt": "2017-05-04T22:20:25.251Z",
+  "archived": false
 }

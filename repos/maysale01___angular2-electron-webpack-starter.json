@@ -5,7 +5,7 @@
   "owner": {
     "login": "gnz00",
     "id": 3009203,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3009203?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3009203?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gnz00",
     "htmlUrl": "https://github.com/gnz00",
@@ -69,7 +69,6 @@
     "name": "angular2-webpack-starter",
     "version": "5.0.5",
     "description": "An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage), Karma, Protractor, Jasmine, Istanbul, TypeScript, and Webpack by AngularClass",
-    "author": "Patrick Stapleton <patrick@angularclass.com>",
     "homepage": "https://github.com/angularclass/angular2-webpack-starter",
     "license": "MIT",
     "main": "dist/main.js",
@@ -184,16 +183,16 @@
       "webpack-target-electron-renderer": "^0.4.0",
       "yargs": "^4.7.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/angularclass/angular2-webpack-starter.git"
-    },
-    "bugs": {
-      "url": "https://github.com/angularclass/angular2-webpack-starter/issues"
-    },
+    "repository": "https://github.com/angularclass/angular2-webpack-starter",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "Patrick Stapleton <patrick@angularclass.com>",
+      "bugs": {
+        "url": "https://github.com/angularclass/angular2-webpack-starter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -221,6 +220,7 @@
   },
   "filename": "maysale01___angular2-electron-webpack-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:36:09.754Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:51.127Z"
+  "lastFetchedAt": "2017-10-23T18:11:49.847Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:51.127Z",
+  "archived": false
 }

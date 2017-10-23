@@ -5,7 +5,7 @@
   "owner": {
     "login": "kaze13",
     "id": 4462576,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4462576?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4462576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kaze13",
     "htmlUrl": "https://github.com/kaze13",
@@ -20,21 +20,21 @@
   "description": "A native API Documentation Browser based on Devdocs & Electron",
   "fork": false,
   "createdAt": "2016-01-14T08:07:23.000Z",
-  "updatedAt": "2017-04-02T03:01:26.000Z",
+  "updatedAt": "2017-10-20T01:04:50.000Z",
   "pushedAt": "2016-01-18T02:32:59.000Z",
   "homepage": "",
   "size": 1514,
-  "stargazersCount": 17,
-  "watchersCount": 17,
+  "stargazersCount": 19,
+  "watchersCount": 19,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 5,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 17,
+  "watchers": 19,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 5,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -59,19 +59,12 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kaze13/devdocs-electron.git"
-    },
+    "repository": "https://github.com/kaze13/devdocs-electron",
     "keywords": [
       "Electron",
       "devdocs"
     ],
-    "author": "kaze13",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kaze13/devdocs-electron/issues"
-    },
     "homepage": "https://github.com/kaze13/devdocs-electron/issues",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -88,6 +81,12 @@
       "react-dom": "^0.14.6",
       "react-tap-event-plugin": "^0.2.1",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "author": "kaze13",
+      "bugs": {
+        "url": "https://github.com/kaze13/devdocs-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "kaze13___devdocs-native.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:03.387Z",
-  "packageLastFetchedAt": "2017-05-05T01:32:53.799Z"
+  "lastFetchedAt": "2017-10-23T20:58:12.401Z",
+  "packageLastFetchedAt": "2017-05-05T01:32:53.799Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "towen",
     "id": 397405,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/397405?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/397405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/towen",
     "htmlUrl": "https://github.com/towen",
@@ -74,16 +74,9 @@
       "start": "./node_modules/.bin/electron .",
       "test": "test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/towen/electron_diner.git"
-    },
-    "author": "Terry J. Owen",
+    "repository": "https://github.com/towen/electron_diner",
     "license": "MIT",
     "electronVersion": "0.37.6",
-    "bugs": {
-      "url": "https://github.com/towen/electron_diner/issues"
-    },
     "homepage": "https://github.com/towen/electron_diner#readme",
     "dependencies": {
       "electron-packager": "^6.0.2",
@@ -96,6 +89,12 @@
       "grunt-cli": "^1.2.0",
       "grunt-contrib-clean": "^1.0.0",
       "mocha": "^2.4.5"
+    },
+    "other": {
+      "author": "Terry J. Owen",
+      "bugs": {
+        "url": "https://github.com/towen/electron_diner/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "towen___electron_diner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:41.054Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:49.322Z"
+  "lastFetchedAt": "2017-10-23T18:30:58.528Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:49.322Z",
+  "archived": false
 }

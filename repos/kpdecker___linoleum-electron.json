@@ -5,7 +5,7 @@
   "owner": {
     "login": "kpdecker",
     "id": 196390,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/196390?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/196390?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kpdecker",
     "htmlUrl": "https://github.com/kpdecker",
@@ -59,15 +59,8 @@
     "scripts": {
       "test": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kpdecker/linoleum-electron.git"
-    },
-    "author": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)",
+    "repository": "https://github.com/kpdecker/linoleum-electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kpdecker/linoleum-electron/issues"
-    },
     "homepage": "https://github.com/kpdecker/linoleum-electron#readme",
     "dependencies": {
       "@kpdecker/linoleum-webpack": "^1.0.0",
@@ -89,6 +82,12 @@
         "@kpdecker/eslint-config-linoleum"
       ],
       "root": true
+    },
+    "other": {
+      "author": "Kevin Decker <kpdecker@gmail.com> (http://incaseofstairs.com)",
+      "bugs": {
+        "url": "https://github.com/kpdecker/linoleum-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "kpdecker___linoleum-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:29:21.683Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:45.724Z"
+  "lastFetchedAt": "2017-10-23T18:09:19.224Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:45.724Z",
+  "archived": false
 }

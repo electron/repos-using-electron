@@ -5,7 +5,7 @@
   "owner": {
     "login": "GavinLe",
     "id": 4746975,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4746975?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4746975?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GavinLe",
     "htmlUrl": "https://github.com/GavinLe",
@@ -53,7 +53,6 @@
     "description": "搜钢助手",
     "main": "src/main/main.js",
     "repository": "",
-    "author": "sougang.me",
     "scripts": {
       "build": "npm run package && npm run zip",
       "package": "node script/package.js",
@@ -96,6 +95,9 @@
       "gulp-zip": "^3.2.0",
       "fs-extra": "*",
       "yargs": "^4.6.0"
+    },
+    "other": {
+      "author": "sougang.me"
     }
   },
   "packageStatus": 200,
@@ -143,6 +145,7 @@
   },
   "filename": "GavinLe___LM.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:28:22.542Z",
-  "packageLastFetchedAt": "2017-05-05T17:51:58.931Z"
+  "lastFetchedAt": "2017-10-23T18:37:26.343Z",
+  "packageLastFetchedAt": "2017-05-05T17:51:58.931Z",
+  "archived": false
 }

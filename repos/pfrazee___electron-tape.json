@@ -5,7 +5,7 @@
   "owner": {
     "login": "pfrazee",
     "id": 1270099,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1270099?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1270099?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pfrazee",
     "htmlUrl": "https://github.com/pfrazee",
@@ -53,23 +53,22 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pfraze/electron-tape.git"
-    },
+    "repository": "https://github.com/pfraze/electron-tape",
     "keywords": [
       "tape",
       "electron"
     ],
-    "author": "Paul Frazee <pfrazee@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pfraze/electron-tape/issues"
-    },
     "homepage": "https://github.com/pfraze/electron-tape#readme",
     "dependencies": {
       "electron-prebuilt": "^0.28.2",
       "tape": "~4.0.0"
+    },
+    "other": {
+      "author": "Paul Frazee <pfrazee@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/pfraze/electron-tape/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   "svnUrl": "https://github.com/pfrazee/electron-tape",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:50:50.721Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:05.483Z"
+  "lastFetchedAt": "2017-10-23T19:34:01.264Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:05.483Z",
+  "archived": false
 }

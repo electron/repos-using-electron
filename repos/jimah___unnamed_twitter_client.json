@@ -64,13 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "unnamed_twitter_client",
     "version": "1.0.0",
     "description": "an electron twitter client for twits",
     "main": "app.js",
-    "author": "Jim Hill <jim@dammitjim.co.uk>",
     "license": "MIT",
     "scripts": {
       "compile": "tsc",
@@ -119,7 +118,10 @@
       "tslint": "^3.15.1",
       "webpack": "^1.13.3"
     },
-    "peerDependencies": {}
+    "peerDependencies": {},
+    "other": {
+      "author": "Jim Hill <jim@dammitjim.co.uk>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +148,6 @@
   },
   "filename": "jimah___unnamed_twitter_client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:16:16.867Z",
+  "lastFetchedAt": "2017-10-23T17:14:49.357Z",
   "packageLastFetchedAt": "2017-05-04T21:56:42.274Z"
 }

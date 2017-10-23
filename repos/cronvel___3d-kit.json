@@ -5,7 +5,7 @@
   "owner": {
     "login": "cronvel",
     "id": 6891714,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6891714?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6891714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cronvel",
     "htmlUrl": "https://github.com/cronvel",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 0,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -56,9 +56,6 @@
     "version": "0.0.14",
     "description": "A small 3D kit using Three.js.",
     "main": "lib/tdk.js",
-    "directories": {
-      "test": "test"
-    },
     "dependencies": {
       "async-kit": "^1.0.0",
       "dom-kit": "^0.1.0",
@@ -78,17 +75,19 @@
       "install": "electron-rebuild",
       "test": "mocha -R dot"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cronvel/3d-kit.git"
-    },
+    "repository": "https://github.com/cronvel/3d-kit",
     "keywords": [
       "3D"
     ],
-    "author": "Cédric Ronvel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cronvel/3d-kit/issues"
+    "other": {
+      "author": "Cédric Ronvel",
+      "bugs": {
+        "url": "https://github.com/cronvel/3d-kit/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/cronvel/3d-kit",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:17:25.112Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:12.427Z"
+  "lastFetchedAt": "2017-10-23T17:17:14.564Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:12.427Z",
+  "archived": false
 }

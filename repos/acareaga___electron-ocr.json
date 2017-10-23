@@ -5,7 +5,7 @@
   "owner": {
     "login": "acareaga",
     "id": 2416316,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2416316?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2416316?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/acareaga",
     "htmlUrl": "https://github.com/acareaga",
@@ -20,7 +20,7 @@
   "description": "Optical Character Recognition module for Electron Applications",
   "fork": false,
   "createdAt": "2016-02-23T22:53:20.000Z",
-  "updatedAt": "2017-03-04T17:46:02.000Z",
+  "updatedAt": "2017-05-08T14:38:55.000Z",
   "pushedAt": "2016-10-05T15:56:43.000Z",
   "homepage": "https://www.npmjs.com/package/electron-ocr",
   "size": 43205,
@@ -54,10 +54,7 @@
       "start": "electron .",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/acareaga/electron-ocr.git"
-    },
+    "repository": "https://github.com/acareaga/electron-ocr",
     "keywords": [
       "Electron",
       "JavaScript",
@@ -66,11 +63,7 @@
       "Recognition",
       "OCR"
     ],
-    "author": "Aaron Careaga <aaroncareaga@gmail.com> (http://www.aaroncareaga.com/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/acareaga/electron-ocr/issues"
-    },
     "homepage": "https://github.com/acareaga/electron-ocr#readme",
     "devDependencies": {
       "babel-cli": "^6.16.0",
@@ -81,6 +74,12 @@
     "dependencies": {
       "jquery": "^2.2.0",
       "ocrad.js": "0.0.1"
+    },
+    "other": {
+      "author": "Aaron Careaga <aaroncareaga@gmail.com> (http://www.aaroncareaga.com/)",
+      "bugs": {
+        "url": "https://github.com/acareaga/electron-ocr/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "acareaga___electron-ocr.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:59:59.861Z",
-  "packageLastFetchedAt": "2017-05-04T22:13:39.813Z"
+  "lastFetchedAt": "2017-10-23T20:14:08.634Z",
+  "packageLastFetchedAt": "2017-05-04T22:13:39.813Z",
+  "archived": false
 }

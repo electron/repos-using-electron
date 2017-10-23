@@ -5,7 +5,7 @@
   "owner": {
     "login": "deconst",
     "id": 11205298,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11205298?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11205298?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/deconst",
     "htmlUrl": "https://github.com/deconst",
@@ -17,10 +17,10 @@
     "type": "Organization"
   },
   "private": false,
-  "description": "Deprecated - Local previews of Deconst content repositories",
+  "description": "[Deprecated] Local previews of Deconst content repositories",
   "fork": false,
   "createdAt": "2015-08-07T18:30:18.000Z",
-  "updatedAt": "2017-01-25T22:20:29.000Z",
+  "updatedAt": "2017-07-11T22:10:12.000Z",
   "pushedAt": "2015-09-29T12:35:12.000Z",
   "homepage": "",
   "size": 26704,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "deconst",
     "id": 11205298,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11205298?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11205298?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/deconst",
     "htmlUrl": "https://github.com/deconst",
@@ -68,15 +68,10 @@
   "packageJSON": {
     "name": "Deconst-Client",
     "version": "0.0.1",
-    "author": "Ash Wilson <ash.wilson@rackspace.com>",
     "description": "Local previews of Deconst-hosted content",
     "homepage": "http://deconst.horse/",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:deconst/client.git"
-    },
-    "bugs": "https://github.com/deconst/deconst-docs/issues",
+    "repository": "https://github.com/deconst/client",
     "scripts": {
       "start": "grunt",
       "test": "jest -c jest-unit.json",
@@ -163,6 +158,10 @@
       "run-sequence": "^1.0.2",
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.2.10"
+    },
+    "other": {
+      "author": "Ash Wilson <ash.wilson@rackspace.com>",
+      "bugs": "https://github.com/deconst/deconst-docs/issues"
     }
   },
   "packageStatus": 200,
@@ -211,6 +210,7 @@
   "svnUrl": "https://github.com/deconst/client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:29:31.713Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:19.660Z"
+  "lastFetchedAt": "2017-10-23T17:23:21.211Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:19.660Z",
+  "archived": false
 }

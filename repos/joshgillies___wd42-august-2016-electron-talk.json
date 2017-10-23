@@ -5,7 +5,7 @@
   "owner": {
     "login": "joshgillies",
     "id": 319694,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/319694?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/319694?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joshgillies",
     "htmlUrl": "https://github.com/joshgillies",
@@ -61,25 +61,24 @@
       "start": "electron ./",
       "build": "electron-packager ./ --platform=darwin --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^7.7.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "joshgillies___wd42-august-2016-electron-talk.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:52:10.551Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:03.280Z"
+  "lastFetchedAt": "2017-10-23T21:07:26.003Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:03.280Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jstejada",
     "id": 1271509,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1271509?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1271509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jstejada",
     "htmlUrl": "https://github.com/jstejada",
@@ -54,18 +54,17 @@
       "start": "electron index.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jstejada/electron-tray-icon-example.git"
-    },
-    "author": "Juan Tejada",
+    "repository": "https://github.com/jstejada/electron-tray-icon-example",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jstejada/electron-tray-icon-example/issues"
-    },
     "homepage": "https://github.com/jstejada/electron-tray-icon-example#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.29.2"
+    },
+    "other": {
+      "author": "Juan Tejada",
+      "bugs": {
+        "url": "https://github.com/jstejada/electron-tray-icon-example/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   },
   "filename": "jstejada___electron-tray-icon-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:52:44.155Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:12.399Z"
+  "lastFetchedAt": "2017-10-23T20:08:45.022Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:12.399Z",
+  "archived": false
 }

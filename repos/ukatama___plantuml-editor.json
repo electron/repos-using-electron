@@ -5,7 +5,7 @@
   "owner": {
     "login": "ukatama",
     "id": 2088693,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2088693?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2088693?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ukatama",
     "htmlUrl": "https://github.com/ukatama",
@@ -80,15 +80,8 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ukatama/plantuml-editor.git"
-    },
-    "author": "",
+    "repository": "https://github.com/ukatama/plantuml-editor",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ukatama/plantuml-editor/issues"
-    },
     "homepage": "https://github.com/ukatama/plantuml-editor#readme",
     "devDependencies": {
       "eslint": "^3.1.0",
@@ -101,6 +94,12 @@
       "electron": "^0.4.1",
       "electron-prebuilt": "^1.2.7",
       "node-plantuml": "^0.4.4"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/ukatama/plantuml-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "ukatama___plantuml-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:04:55.489Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:50.137Z"
+  "lastFetchedAt": "2017-10-23T17:29:32.000Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:50.137Z",
+  "archived": false
 }

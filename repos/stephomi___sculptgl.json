@@ -5,7 +5,7 @@
   "owner": {
     "login": "stephomi",
     "id": 4750281,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4750281?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4750281?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stephomi",
     "htmlUrl": "https://github.com/stephomi",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/stephomi/sculptgl/downloads",
   "deploymentsUrl": "https://api.github.com/repos/stephomi/sculptgl/deployments",
   "createdAt": "2013-07-07T11:49:51.000Z",
-  "updatedAt": "2017-05-04T06:42:49.000Z",
-  "pushedAt": "2017-05-01T16:14:13.000Z",
+  "updatedAt": "2017-10-22T17:46:17.000Z",
+  "pushedAt": "2017-09-15T23:59:55.000Z",
   "gitUrl": "git://github.com/stephomi/sculptgl.git",
   "sshUrl": "git@github.com:stephomi/sculptgl.git",
   "cloneUrl": "https://github.com/stephomi/sculptgl.git",
   "svnUrl": "https://github.com/stephomi/sculptgl",
   "homepage": "stephaneginier.com/sculptgl/",
-  "size": 16353,
-  "stargazersCount": 573,
-  "watchersCount": 573,
+  "size": 16372,
+  "stargazersCount": 616,
+  "watchersCount": 616,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 124,
+  "forksCount": 142,
   "mirrorUrl": null,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 573,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 616,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,15 +68,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 124,
-  "subscribersCount": 62,
+  "networkCount": 142,
+  "subscribersCount": 64,
   "status": 200,
   "packageJSON": {
     "name": "SculptGL",
     "homepage": "https://github.com/stephomi/sculptgl",
     "version": "0.9.0",
     "description": "A WebGL digital sculpting app",
-    "author": "Stéphane GINIER",
     "license": "MIT",
     "main": "main.js",
     "devDependencies": {
@@ -99,12 +98,12 @@
       "buildElectron": "yarn release && rm -rf standalone/app/ && cp -R app/ standalone/ && cp package.json standalone",
       "standalone": "yarn buildElectron && cd standalone && node buildStandalone.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/stephomi/sculptgl.git"
-    },
-    "bugs": {
-      "url": "https://github.com/stephomi/sculptgl/issues"
+    "repository": "https://github.com/stephomi/sculptgl",
+    "other": {
+      "author": "Stéphane GINIER",
+      "bugs": {
+        "url": "https://github.com/stephomi/sculptgl/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "stephomi___sculptgl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:50.831Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:42.500Z"
+  "lastFetchedAt": "2017-10-23T18:28:06.236Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:42.500Z",
+  "archived": false
 }

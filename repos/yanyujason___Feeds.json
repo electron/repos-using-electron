@@ -5,7 +5,7 @@
   "owner": {
     "login": "yanyujason",
     "id": 5786460,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5786460?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5786460?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yanyujason",
     "htmlUrl": "https://github.com/yanyujason",
@@ -74,15 +74,11 @@
       "start": "npm install gulp && gulp start",
       "startApp": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:yanyujason/Feeds.git"
-    },
+    "repository": "https://github.com/yanyujason/Feeds",
     "keywords": [
       "Feeds reader",
       "Node"
     ],
-    "author": "Team awesome",
     "devDependencies": {
       "babel-core": "^6.3.17",
       "babel-loader": "^6.2.0",
@@ -108,6 +104,9 @@
       "react-addons-test-utils": "^0.14.3",
       "react-dom": "^0.14.3",
       "webpack-stream": "^3.0.1"
+    },
+    "other": {
+      "author": "Team awesome"
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "filename": "yanyujason___Feeds.json",
   "sourceRepo": "litongxin/Feeds",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:07:00.155Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:28.689Z"
+  "lastFetchedAt": "2017-10-23T20:48:56.363Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:28.689Z",
+  "archived": false
 }

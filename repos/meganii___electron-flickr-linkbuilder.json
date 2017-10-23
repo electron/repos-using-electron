@@ -5,7 +5,7 @@
   "owner": {
     "login": "meganii",
     "id": 329554,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/329554?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/329554?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/meganii",
     "htmlUrl": "https://github.com/meganii",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/meganii/electron-flickr-linkbuilder.git"
-    },
+    "repository": "https://github.com/meganii/electron-flickr-linkbuilder",
     "keywords": [
       "Electron",
       "Flickr",
       "Mithril.js"
     ],
-    "author": "meganii",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/meganii/electron-flickr-linkbuilder/issues"
-    },
     "homepage": "https://github.com/meganii/electron-flickr-linkbuilder#readme",
     "devDependencies": {
       "config": "^1.21.0",
       "electron-prebuilt": "^1.3.3",
       "mithril": "^0.2.5"
+    },
+    "other": {
+      "author": "meganii",
+      "bugs": {
+        "url": "https://github.com/meganii/electron-flickr-linkbuilder/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "meganii___electron-flickr-linkbuilder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:57:32.840Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:50.708Z"
+  "lastFetchedAt": "2017-10-23T19:14:57.338Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:50.708Z",
+  "archived": false
 }

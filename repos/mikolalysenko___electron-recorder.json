@@ -5,7 +5,7 @@
   "owner": {
     "login": "mikolalysenko",
     "id": 231686,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/231686?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/231686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mikolalysenko",
     "htmlUrl": "https://github.com/mikolalysenko",
@@ -20,21 +20,21 @@
   "description": "Record animations using Electron",
   "fork": false,
   "createdAt": "2016-06-15T02:54:46.000Z",
-  "updatedAt": "2017-04-23T15:35:15.000Z",
-  "pushedAt": "2016-12-06T20:03:54.000Z",
+  "updatedAt": "2017-10-17T09:21:35.000Z",
+  "pushedAt": "2017-07-18T15:38:14.000Z",
   "homepage": null,
   "size": 95,
-  "stargazersCount": 48,
-  "watchersCount": 48,
+  "stargazersCount": 63,
+  "watchersCount": 63,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 7,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 48,
+  "watchers": 63,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,17 +42,14 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 3,
-  "subscribersCount": 1,
+  "networkCount": 7,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-recorder",
     "version": "1.0.0",
     "description": "Records movies using node-electron",
     "main": "index.js",
-    "directories": {
-      "example": "example"
-    },
     "dependencies": {},
     "devDependencies": {
       "electron-prebuilt": "^1.2.2"
@@ -60,10 +57,7 @@
     "scripts": {
       "test": "electron example/index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mikolalysenko/electron-recorder.git"
-    },
+    "repository": "https://github.com/mikolalysenko/electron-recorder",
     "keywords": [
       "electron",
       "ffmpeg",
@@ -71,12 +65,17 @@
       "recorder",
       "animation"
     ],
-    "author": "Mikola Lysenko",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mikolalysenko/electron-recorder/issues"
-    },
-    "homepage": "https://github.com/mikolalysenko/electron-recorder#readme"
+    "homepage": "https://github.com/mikolalysenko/electron-recorder#readme",
+    "other": {
+      "author": "Mikola Lysenko",
+      "bugs": {
+        "url": "https://github.com/mikolalysenko/electron-recorder/issues"
+      },
+      "directories": {
+        "example": "example"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +122,7 @@
   "svnUrl": "https://github.com/mikolalysenko/electron-recorder",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:22.974Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:10.904Z"
+  "lastFetchedAt": "2017-10-23T20:15:14.818Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:10.904Z",
+  "archived": false
 }

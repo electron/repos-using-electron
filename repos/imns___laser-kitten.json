@@ -5,7 +5,7 @@
   "owner": {
     "login": "imns",
     "id": 757915,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/757915?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/757915?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/imns",
     "htmlUrl": "https://github.com/imns",
@@ -20,12 +20,12 @@
   "description": "A Product Hunt app for the Mac",
   "fork": false,
   "createdAt": "2016-03-04T21:55:58.000Z",
-  "updatedAt": "2017-03-02T03:27:22.000Z",
+  "updatedAt": "2017-08-28T13:11:17.000Z",
   "pushedAt": "2017-03-14T14:17:58.000Z",
   "homepage": null,
   "size": 64524,
-  "stargazersCount": 47,
-  "watchersCount": 47,
+  "stargazersCount": 48,
+  "watchersCount": 48,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 47,
+  "watchers": 48,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,6 @@
       "release": "gulp release --env=production",
       "install-native": "node ./tasks/install_native_module"
     },
-    "author": "Nate Smith",
     "dependencies": {
       "appdmg": "^0.3.6",
       "asar": "^0.10.0",
@@ -85,7 +84,10 @@
       "vinyl-source-stream": "^1.1.0",
       "watchify": "^3.6.1"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "Nate Smith"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/imns/laser-kitten",
@@ -132,6 +134,7 @@
   },
   "filename": "imns___laser-kitten.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:01.785Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:01.025Z"
+  "lastFetchedAt": "2017-10-23T20:43:41.745Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:01.025Z",
+  "archived": false
 }

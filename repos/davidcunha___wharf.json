@@ -5,7 +5,7 @@
   "owner": {
     "login": "davidcunha",
     "id": 1487131,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1487131?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1487131?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/davidcunha",
     "htmlUrl": "https://github.com/davidcunha",
@@ -76,15 +76,8 @@
     "version": "1.0.0",
     "description": "Docker Manitoring Tool",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/davidcunha/wharf.git"
-    },
-    "author": "David Cunha <davidgoncalvescunha@gmail.com>",
+    "repository": "https://github.com/davidcunha/wharf",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/davidcunha/wharf/issues"
-    },
     "scripts": {
       "install": "electron-rebuild"
     },
@@ -135,6 +128,12 @@
           "config"
         ]
       }
+    },
+    "other": {
+      "author": "David Cunha <davidgoncalvescunha@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/davidcunha/wharf/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "davidcunha___wharf.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:40:33.962Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:28.762Z"
+  "lastFetchedAt": "2017-10-23T20:28:56.317Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:28.762Z",
+  "archived": false
 }

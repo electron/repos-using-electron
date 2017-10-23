@@ -5,7 +5,7 @@
   "owner": {
     "login": "smebberson",
     "id": 74628,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/74628?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/74628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/smebberson",
     "htmlUrl": "https://github.com/smebberson",
@@ -50,10 +50,7 @@
     "version": "0.0.2",
     "description": "A command line framework for node.js",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/smebberson/commandant.git"
-    },
+    "repository": "https://github.com/smebberson/commandant",
     "keywords": [
       "command",
       "line",
@@ -63,15 +60,17 @@
       "cli",
       "parser"
     ],
-    "author": "Scott Mebberson",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/smebberson/commandant/issues"
-    },
     "homepage": "https://github.com/smebberson/commandant",
     "dependencies": {
       "electron": "~0.4.0",
       "pad": "0.0.4"
+    },
+    "other": {
+      "author": "Scott Mebberson",
+      "bugs": {
+        "url": "https://github.com/smebberson/commandant/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "smebberson___commandant.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:23.037Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:38.544Z"
+  "lastFetchedAt": "2017-10-23T20:32:19.759Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:38.544Z",
+  "archived": false
 }

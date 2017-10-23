@@ -5,7 +5,7 @@
   "owner": {
     "login": "nodys",
     "id": 9192300,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9192300?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9192300?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nodys",
     "htmlUrl": "https://github.com/nodys",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "nodys",
     "id": 9192300,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9192300?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9192300?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nodys",
     "htmlUrl": "https://github.com/nodys",
@@ -110,7 +110,6 @@
       "dist-compress": "./scripts/compress-releases.sh",
       "standard": "standard \"**/*.{vue,js}\""
     },
-    "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>",
     "license": "MIT",
     "dependencies": {
       "bluebird": "^3.4.7",
@@ -189,6 +188,9 @@
         "**/dist/**",
         "**/releases/**"
       ]
+    },
+    "other": {
+      "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>"
     }
   },
   "packageStatus": 200,
@@ -216,6 +218,7 @@
   },
   "filename": "nodys___basicotp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:52.667Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:15.806Z"
+  "lastFetchedAt": "2017-10-23T18:22:10.555Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:15.806Z",
+  "archived": false
 }

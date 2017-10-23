@@ -5,7 +5,7 @@
   "owner": {
     "login": "comp500",
     "id": 1138417,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1138417?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1138417?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/comp500",
     "htmlUrl": "https://github.com/comp500",
@@ -56,7 +56,6 @@
       "dist": "build",
       "test": "electron app"
     },
-    "author": "comp500",
     "license": "ISC",
     "devDependencies": {
       "electron-builder": "^3.14.0",
@@ -65,6 +64,9 @@
     "build": {
       "app-bundle-id": "prtdl",
       "app-category-type": "public.app-category.utilities"
+    },
+    "other": {
+      "author": "comp500"
     }
   },
   "packageStatus": 200,
@@ -112,6 +114,7 @@
   "svnUrl": "https://github.com/comp500/proton-downloader",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:17:43.082Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:36.829Z"
+  "lastFetchedAt": "2017-10-23T17:44:47.512Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:36.829Z",
+  "archived": false
 }

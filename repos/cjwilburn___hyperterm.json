@@ -5,7 +5,7 @@
   "owner": {
     "login": "cjwilburn",
     "id": 529894,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/529894?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/529894?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cjwilburn",
     "htmlUrl": "https://github.com/cjwilburn",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "zeit",
       "id": 14985020,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/14985020?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/14985020?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/zeit",
       "htmlUrl": "https://github.com/zeit",
@@ -99,28 +99,29 @@
     "downloadsUrl": "https://api.github.com/repos/zeit/hyper/downloads",
     "deploymentsUrl": "https://api.github.com/repos/zeit/hyper/deployments",
     "createdAt": "2016-07-01T06:01:21.000Z",
-    "updatedAt": "2017-05-04T16:25:04.000Z",
-    "pushedAt": "2017-05-04T02:28:48.000Z",
+    "updatedAt": "2017-10-23T18:16:26.000Z",
+    "pushedAt": "2017-10-22T21:16:53.000Z",
     "gitUrl": "git://github.com/zeit/hyper.git",
     "sshUrl": "git@github.com:zeit/hyper.git",
     "cloneUrl": "https://github.com/zeit/hyper.git",
     "svnUrl": "https://github.com/zeit/hyper",
     "homepage": "https://hyper.is",
-    "size": 2479,
-    "stargazersCount": 16578,
-    "watchersCount": 16578,
+    "size": 4179,
+    "stargazersCount": 19458,
+    "watchersCount": 19458,
     "language": "JavaScript",
     "hasIssues": true,
-    "hasProjects": true,
+    "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 1148,
+    "forksCount": 1484,
     "mirrorUrl": null,
-    "openIssuesCount": 542,
-    "openIssues": 542,
-    "watchers": 16578,
-    "defaultBranch": "master"
+    "archived": false,
+    "openIssuesCount": 690,
+    "openIssues": 690,
+    "watchers": 19458,
+    "defaultBranch": "canary"
   },
   "source": {
     "id": 62367558,
@@ -129,7 +130,7 @@
     "owner": {
       "login": "zeit",
       "id": 14985020,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/14985020?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/14985020?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/zeit",
       "htmlUrl": "https://github.com/zeit",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/zeit/hyper/downloads",
     "deploymentsUrl": "https://api.github.com/repos/zeit/hyper/deployments",
     "createdAt": "2016-07-01T06:01:21.000Z",
-    "updatedAt": "2017-05-04T16:25:04.000Z",
-    "pushedAt": "2017-05-04T02:28:48.000Z",
+    "updatedAt": "2017-10-23T18:16:26.000Z",
+    "pushedAt": "2017-10-22T21:16:53.000Z",
     "gitUrl": "git://github.com/zeit/hyper.git",
     "sshUrl": "git@github.com:zeit/hyper.git",
     "cloneUrl": "https://github.com/zeit/hyper.git",
     "svnUrl": "https://github.com/zeit/hyper",
     "homepage": "https://hyper.is",
-    "size": 2479,
-    "stargazersCount": 16578,
-    "watchersCount": 16578,
+    "size": 4179,
+    "stargazersCount": 19458,
+    "watchersCount": 19458,
     "language": "JavaScript",
     "hasIssues": true,
-    "hasProjects": true,
+    "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 1148,
+    "forksCount": 1484,
     "mirrorUrl": null,
-    "openIssuesCount": 542,
-    "openIssues": 542,
-    "watchers": 16578,
-    "defaultBranch": "master"
+    "archived": false,
+    "openIssuesCount": 690,
+    "openIssues": 690,
+    "watchers": 19458,
+    "defaultBranch": "canary"
   },
-  "networkCount": 1148,
+  "networkCount": 1484,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -191,10 +193,6 @@
     "description": "Web app that runs in the renderer process",
     "repository": "zeit/hyperterm",
     "license": "MIT",
-    "author": {
-      "name": "Zeit, Inc.",
-      "email": "team@zeit.co"
-    },
     "greenkeeper": {
       "emails": false
     },
@@ -299,6 +297,12 @@
       "pack": "npm run build && build --dir && babel --no-comments --compact --minified --out-file app/dist/bundle.js app/dist/bundle.js",
       "dist": "npm run build && build",
       "release": "npm run build && build --publish=onTagOrDraft"
+    },
+    "other": {
+      "author": {
+        "name": "Zeit, Inc.",
+        "email": "team@zeit.co"
+      }
     }
   },
   "packageStatus": 200,
@@ -327,6 +331,7 @@
   "filename": "cjwilburn___hyperterm.json",
   "sourceRepo": "zeit/hyperterm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:46.232Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:46.714Z"
+  "lastFetchedAt": "2017-10-23T20:27:30.190Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:46.714Z",
+  "archived": false
 }

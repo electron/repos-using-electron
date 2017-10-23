@@ -5,7 +5,7 @@
   "owner": {
     "login": "khsk",
     "id": 10125386,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10125386?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10125386?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/khsk",
     "htmlUrl": "https://github.com/khsk",
@@ -69,7 +69,6 @@
     "name": "electron-gif-loop",
     "version": "1.0.0",
     "description": "gify gif viewer",
-    "author": "khsk",
     "main": "main.js",
     "dependencies": {},
     "devDependencies": {
@@ -80,9 +79,9 @@
       "start": "./node_modules/.bin/electron ./",
       "release-win-64": "./node_modules/.bin/electron-packager ./ electron-gif-loop --version=1.2.6 --platform=win32 --arch=x64 --overwrite --asar --out=./"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/khsk/electron-gif-loop.git"
+    "repository": "https://github.com/khsk/electron-gif-loop",
+    "other": {
+      "author": "khsk"
     }
   },
   "packageStatus": 200,
@@ -110,6 +109,7 @@
   },
   "filename": "khsk___electron-gif-loop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:52:18.002Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:04.220Z"
+  "lastFetchedAt": "2017-10-23T17:18:29.715Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:04.220Z",
+  "archived": false
 }

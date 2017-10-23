@@ -5,7 +5,7 @@
   "owner": {
     "login": "jtbullock",
     "id": 11927948,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11927948?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11927948?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jtbullock",
     "htmlUrl": "https://github.com/jtbullock",
@@ -53,21 +53,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -75,6 +68,12 @@
     },
     "dependencies": {
       "lwip": "0.0.8"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   "svnUrl": "https://github.com/jtbullock/electron-slideshow",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:35:43.238Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:29.744Z"
+  "lastFetchedAt": "2017-10-23T18:34:26.002Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:29.744Z",
+  "archived": false
 }

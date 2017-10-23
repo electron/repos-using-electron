@@ -5,7 +5,7 @@
   "owner": {
     "login": "jakerenzella",
     "id": 5138218,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5138218?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5138218?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jakerenzella",
     "htmlUrl": "https://github.com/jakerenzella",
@@ -21,9 +21,9 @@
   "fork": true,
   "createdAt": "2016-08-24T02:27:29.000Z",
   "updatedAt": "2016-10-25T01:35:00.000Z",
-  "pushedAt": "2016-12-13T23:26:02.000Z",
+  "pushedAt": "2017-10-03T09:13:42.000Z",
   "homepage": null,
-  "size": 207109,
+  "size": 207118,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "splashkit",
       "id": 16730454,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/16730454?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16730454?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/splashkit",
       "htmlUrl": "https://github.com/splashkit",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/splashkit/skm/downloads",
     "deploymentsUrl": "https://api.github.com/repos/splashkit/skm/deployments",
     "createdAt": "2016-08-23T03:42:38.000Z",
-    "updatedAt": "2016-10-28T04:31:11.000Z",
+    "updatedAt": "2017-07-16T02:25:40.000Z",
     "pushedAt": "2017-02-16T06:18:40.000Z",
     "gitUrl": "git://github.com/splashkit/skm.git",
     "sshUrl": "git@github.com:splashkit/skm.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/splashkit/skm",
     "homepage": "http://www.splashkit.io/",
     "size": 207120,
-    "stargazersCount": 1,
-    "watchersCount": 1,
+    "stargazersCount": 2,
+    "watchersCount": 2,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 1,
+    "archived": false,
+    "openIssuesCount": 2,
+    "openIssues": 2,
+    "watchers": 2,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "splashkit",
       "id": 16730454,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/16730454?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/16730454?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/splashkit",
       "htmlUrl": "https://github.com/splashkit",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/splashkit/skm/downloads",
     "deploymentsUrl": "https://api.github.com/repos/splashkit/skm/deployments",
     "createdAt": "2016-08-23T03:42:38.000Z",
-    "updatedAt": "2016-10-28T04:31:11.000Z",
+    "updatedAt": "2017-07-16T02:25:40.000Z",
     "pushedAt": "2017-02-16T06:18:40.000Z",
     "gitUrl": "git://github.com/splashkit/skm.git",
     "sshUrl": "git@github.com:splashkit/skm.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/splashkit/skm",
     "homepage": "http://www.splashkit.io/",
     "size": 207120,
-    "stargazersCount": 1,
-    "watchersCount": 1,
+    "stargazersCount": 2,
+    "watchersCount": 2,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 1,
+    "archived": false,
+    "openIssuesCount": 2,
+    "openIssues": 2,
+    "watchers": 2,
     "defaultBranch": "master"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,16 +183,6 @@
       "cli",
       "manager"
     ],
-    "contributors": [
-      {
-        "name": "Jake Renzella",
-        "email": "j@kerenzella.com"
-      },
-      {
-        "name": "Alex Cummaudo",
-        "email": "alexcu@me.com"
-      }
-    ],
     "license": "ISC",
     "homepage": "https://github.com/splashkit/skm#readme",
     "dependencies": {
@@ -207,9 +199,16 @@
       "winston-color": "1.0.0"
     },
     "other": {
-      "bugs": {
-        "url": "https://github.com/splashkit/skm/issues"
-      }
+      "contributors": [
+        {
+          "name": "Jake Renzella",
+          "email": "j@kerenzella.com"
+        },
+        {
+          "name": "Alex Cummaudo",
+          "email": "alexcu@me.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -258,11 +257,7 @@
   "filename": "jakerenzella___skm.json",
   "sourceRepo": "splashkit/skm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:07.013Z",
+  "lastFetchedAt": "2017-10-23T18:33:30.911Z",
   "packageLastFetchedAt": "2017-05-05T14:43:31.306Z",
-  "contributors": [
-    "jakerenzella",
-    "macite",
-    "alexcu"
-  ]
+  "archived": false
 }

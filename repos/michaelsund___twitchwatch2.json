@@ -5,7 +5,7 @@
   "owner": {
     "login": "michaelsund",
     "id": 727500,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/727500?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/727500?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/michaelsund",
     "htmlUrl": "https://github.com/michaelsund",
@@ -20,21 +20,21 @@
   "description": "Twitch.tv crossplatform notifications and tools",
   "fork": false,
   "createdAt": "2016-04-12T11:12:30.000Z",
-  "updatedAt": "2017-02-10T12:39:04.000Z",
+  "updatedAt": "2017-07-21T18:07:52.000Z",
   "pushedAt": "2016-10-03T13:52:28.000Z",
   "homepage": null,
   "size": 681,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 0,
+  "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/gpl-2.0",
     "featured": false
   },
-  "networkCount": 0,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -61,7 +61,6 @@
     "description": "Twitch notifications",
     "main": "main.js",
     "private": "true",
-    "author": "Michael Sund <michael@osund.com>",
     "scripts": {
       "start": "electron main.js",
       "tsc": "tsc",
@@ -93,6 +92,9 @@
       "lite-server": "^2.1.0",
       "typescript": "^1.8.9",
       "typings": "^0.7.9"
+    },
+    "other": {
+      "author": "Michael Sund <michael@osund.com>"
     }
   },
   "packageStatus": 200,
@@ -140,6 +142,7 @@
   "svnUrl": "https://github.com/michaelsund/twitchwatch2",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:58:49.831Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:35.409Z"
+  "lastFetchedAt": "2017-10-23T20:54:20.979Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:35.409Z",
+  "archived": false
 }

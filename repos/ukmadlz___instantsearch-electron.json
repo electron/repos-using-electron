@@ -6,7 +6,7 @@
   "owner": {
     "login": "ukmadlz",
     "id": 804683,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/804683?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/804683?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ukmadlz",
     "htmlUrl": "https://github.com/ukmadlz",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "PandelisZ",
       "id": 8436717,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8436717?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8436717?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/PandelisZ",
       "htmlUrl": "https://github.com/PandelisZ",
@@ -119,6 +119,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -131,7 +132,7 @@
     "owner": {
       "login": "algolia",
       "id": 2034458,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2034458?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2034458?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/algolia",
       "htmlUrl": "https://github.com/algolia",
@@ -161,16 +162,16 @@
     "downloadsUrl": "https://api.github.com/repos/algolia/instantsearch-electron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/algolia/instantsearch-electron/deployments",
     "createdAt": "2017-01-24T07:58:58.000Z",
-    "updatedAt": "2017-04-03T15:23:31.000Z",
-    "pushedAt": "2017-02-07T19:35:48.000Z",
+    "updatedAt": "2017-07-12T08:27:31.000Z",
+    "pushedAt": "2017-06-11T01:02:31.000Z",
     "gitUrl": "git://github.com/algolia/instantsearch-electron.git",
     "sshUrl": "git@github.com:algolia/instantsearch-electron.git",
     "cloneUrl": "https://github.com/algolia/instantsearch-electron.git",
     "svnUrl": "https://github.com/algolia/instantsearch-electron",
     "homepage": "",
-    "size": 4072,
-    "stargazersCount": 9,
-    "watchersCount": 9,
+    "size": 4074,
+    "stargazersCount": 10,
+    "watchersCount": 10,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -179,15 +180,16 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 9,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 10,
     "defaultBranch": "master"
   },
   "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:37:08.546Z",
+  "lastFetchedAt": "2017-10-23T21:00:49.845Z",
   "packageJSON": {
     "name": "instantsearch-gifs",
     "productName": "InstantGifs",
@@ -255,26 +257,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/algolia/instantsearch-electron.git"
-    },
-    "author": {
-      "name": "Pandelis Zembashis",
-      "email": "info@pandelis.me",
-      "url": "https://github.com/pandelisz"
-    },
+    "repository": "https://github.com/algolia/instantsearch-electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/algolia/instantsearch-electron/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -371,8 +358,23 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Pandelis Zembashis",
+        "email": "info@pandelis.me",
+        "url": "https://github.com/pandelisz"
+      },
+      "bugs": {
+        "url": "https://github.com/algolia/instantsearch-electron/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:08:14.017Z"
+  "packageLastFetchedAt": "2017-05-04T22:08:14.017Z",
+  "archived": false
 }

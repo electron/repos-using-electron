@@ -6,7 +6,7 @@
   "owner": {
     "login": "FriendsAndCompany",
     "id": 20899045,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20899045?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20899045?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FriendsAndCompany",
     "htmlUrl": "https://github.com/FriendsAndCompany",
@@ -66,7 +66,7 @@
   "organization": {
     "login": "FriendsAndCompany",
     "id": 20899045,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20899045?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20899045?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FriendsAndCompany",
     "htmlUrl": "https://github.com/FriendsAndCompany",
@@ -84,7 +84,7 @@
     "owner": {
       "login": "cheshire137",
       "id": 82317,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/82317?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/82317?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/cheshire137",
       "htmlUrl": "https://github.com/cheshire137",
@@ -114,7 +114,7 @@
     "downloadsUrl": "https://api.github.com/repos/cheshire137/gh-notifications-snoozer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/cheshire137/gh-notifications-snoozer/deployments",
     "createdAt": "2016-07-12T22:59:44.000Z",
-    "updatedAt": "2017-02-15T16:16:07.000Z",
+    "updatedAt": "2017-08-02T18:14:34.000Z",
     "pushedAt": "2017-03-21T21:31:50.000Z",
     "gitUrl": "git://github.com/cheshire137/gh-notifications-snoozer.git",
     "sshUrl": "git@github.com:cheshire137/gh-notifications-snoozer.git",
@@ -122,8 +122,8 @@
     "svnUrl": "https://github.com/cheshire137/gh-notifications-snoozer",
     "homepage": "",
     "size": 1316,
-    "stargazersCount": 9,
-    "watchersCount": 9,
+    "stargazersCount": 12,
+    "watchersCount": 12,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -132,9 +132,10 @@
     "hasPages": false,
     "forksCount": 9,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 25,
     "openIssues": 25,
-    "watchers": 9,
+    "watchers": 12,
     "defaultBranch": "master"
   },
   "source": {
@@ -144,7 +145,7 @@
     "owner": {
       "login": "cheshire137",
       "id": 82317,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/82317?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/82317?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/cheshire137",
       "htmlUrl": "https://github.com/cheshire137",
@@ -174,7 +175,7 @@
     "downloadsUrl": "https://api.github.com/repos/cheshire137/gh-notifications-snoozer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/cheshire137/gh-notifications-snoozer/deployments",
     "createdAt": "2016-07-12T22:59:44.000Z",
-    "updatedAt": "2017-02-15T16:16:07.000Z",
+    "updatedAt": "2017-08-02T18:14:34.000Z",
     "pushedAt": "2017-03-21T21:31:50.000Z",
     "gitUrl": "git://github.com/cheshire137/gh-notifications-snoozer.git",
     "sshUrl": "git@github.com:cheshire137/gh-notifications-snoozer.git",
@@ -182,8 +183,8 @@
     "svnUrl": "https://github.com/cheshire137/gh-notifications-snoozer",
     "homepage": "",
     "size": 1316,
-    "stargazersCount": 9,
-    "watchersCount": 9,
+    "stargazersCount": 12,
+    "watchersCount": 12,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -192,9 +193,10 @@
     "hasPages": false,
     "forksCount": 9,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 25,
     "openIssues": 25,
-    "watchers": 9,
+    "watchers": 12,
     "defaultBranch": "master"
   },
   "networkCount": 9,
@@ -238,16 +240,15 @@
       "unit-tests": "xvfb-maybe electron-mocha --renderer --recursive --compilers js:babel-register test",
       "test": "npm run-script style && NODE_ENV=test npm run-script unit-tests"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cheshire137/gh-notifications-snoozer.git"
-    },
-    "author": "probablycorey and cheshire137",
+    "repository": "https://github.com/cheshire137/gh-notifications-snoozer",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cheshire137/gh-notifications-snoozer/issues"
-    },
-    "homepage": "https://github.com/cheshire137/gh-notifications-snoozer#readme"
+    "homepage": "https://github.com/cheshire137/gh-notifications-snoozer#readme",
+    "other": {
+      "author": "probablycorey and cheshire137",
+      "bugs": {
+        "url": "https://github.com/cheshire137/gh-notifications-snoozer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -273,6 +274,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:20:21.915Z",
-  "packageLastFetchedAt": "2017-05-05T14:45:02.572Z"
+  "lastFetchedAt": "2017-10-23T20:59:28.683Z",
+  "packageLastFetchedAt": "2017-05-05T14:45:02.572Z",
+  "archived": false
 }

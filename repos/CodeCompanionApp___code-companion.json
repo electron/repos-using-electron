@@ -1,12 +1,12 @@
 {
   "filename": "CodeCompanionApp___code-companion.json",
-  "id": 86790818,
+  "id": 102687388,
   "name": "code-companion",
   "fullName": "CodeCompanionApp/code-companion",
   "owner": {
     "login": "CodeCompanionApp",
     "id": 26951544,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/26951544?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/26951544?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CodeCompanionApp",
     "htmlUrl": "https://github.com/CodeCompanionApp",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/CodeCompanionApp/code-companion",
-  "description": "Code Companion is an open source desktop application that interactively teaches you how to code ⚡️",
+  "description": "The monorepo for Code Companion ⚡️ 💥",
   "fork": false,
   "url": "https://api.github.com/repos/CodeCompanionApp/code-companion",
   "forksUrl": "https://api.github.com/repos/CodeCompanionApp/code-companion/forks",
@@ -35,15 +35,15 @@
   "mergesUrl": "https://api.github.com/repos/CodeCompanionApp/code-companion/merges",
   "downloadsUrl": "https://api.github.com/repos/CodeCompanionApp/code-companion/downloads",
   "deploymentsUrl": "https://api.github.com/repos/CodeCompanionApp/code-companion/deployments",
-  "createdAt": "2017-03-31T07:28:07.000Z",
-  "updatedAt": "2017-04-06T04:59:56.000Z",
-  "pushedAt": "2017-04-24T18:09:12.000Z",
+  "createdAt": "2017-09-07T03:34:01.000Z",
+  "updatedAt": "2017-09-07T03:34:26.000Z",
+  "pushedAt": "2017-09-07T03:36:20.000Z",
   "gitUrl": "git://github.com/CodeCompanionApp/code-companion.git",
   "sshUrl": "git@github.com:CodeCompanionApp/code-companion.git",
   "cloneUrl": "https://github.com/CodeCompanionApp/code-companion.git",
   "svnUrl": "https://github.com/CodeCompanionApp/code-companion",
-  "homepage": "",
-  "size": 1121,
+  "homepage": null,
+  "size": 300,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -54,8 +54,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
+  "openIssuesCount": 0,
+  "openIssues": 0,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -67,7 +67,7 @@
   "organization": {
     "login": "CodeCompanionApp",
     "id": 26951544,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/26951544?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/26951544?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CodeCompanionApp",
     "htmlUrl": "https://github.com/CodeCompanionApp",
@@ -79,16 +79,15 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T14:55:10.576Z",
+  "lastFetchedAt": "2017-10-23T20:51:28.691Z",
   "packageJSON": {
     "name": "code-companion",
     "version": "0.1.0",
     "description": "An Electron-based Desktop application for learning code and technical skills.",
     "main": "src/main.js",
     "repository": "git@github.com:hamstu/code-companion.git",
-    "author": "Hamish Macpherson <hamstu@gmail.com>",
     "license": "MIT",
     "scripts": {
       "start": "node ./scripts/start.js",
@@ -113,8 +112,12 @@
       "style-loader": "^0.16.1",
       "webpack": "^2.4.1",
       "webpack-dev-server": "^2.4.2"
+    },
+    "other": {
+      "author": "Hamish Macpherson <hamstu@gmail.com>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T23:06:29.808Z"
+  "packageLastFetchedAt": "2017-05-04T23:06:29.808Z",
+  "archived": false
 }

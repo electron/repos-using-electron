@@ -5,7 +5,7 @@
   "owner": {
     "login": "NorthwoodsSoftware",
     "id": 7141927,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7141927?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7141927?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NorthwoodsSoftware",
     "htmlUrl": "https://github.com/NorthwoodsSoftware",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/NorthwoodsSoftware/GoJS/downloads",
   "deploymentsUrl": "https://api.github.com/repos/NorthwoodsSoftware/GoJS/deployments",
   "createdAt": "2014-04-02T18:18:40.000Z",
-  "updatedAt": "2017-05-04T07:07:32.000Z",
-  "pushedAt": "2017-05-04T15:16:01.000Z",
+  "updatedAt": "2017-10-22T01:39:29.000Z",
+  "pushedAt": "2017-10-23T15:06:26.000Z",
   "gitUrl": "git://github.com/NorthwoodsSoftware/GoJS.git",
   "sshUrl": "git@github.com:NorthwoodsSoftware/GoJS.git",
   "cloneUrl": "https://github.com/NorthwoodsSoftware/GoJS.git",
   "svnUrl": "https://github.com/NorthwoodsSoftware/GoJS",
   "homepage": "http://gojs.net",
-  "size": 30023,
-  "stargazersCount": 1173,
-  "watchersCount": 1173,
+  "size": 36060,
+  "stargazersCount": 1500,
+  "watchersCount": 1500,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 716,
+  "forksCount": 877,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 1173,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 1500,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "NorthwoodsSoftware",
     "id": 7141927,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7141927?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7141927?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NorthwoodsSoftware",
     "htmlUrl": "https://github.com/NorthwoodsSoftware",
@@ -76,8 +76,8 @@
     "receivedEventsUrl": "https://api.github.com/users/NorthwoodsSoftware/received_events",
     "type": "Organization"
   },
-  "networkCount": 716,
-  "subscribersCount": 171,
+  "networkCount": 877,
+  "subscribersCount": 191,
   "status": 200,
   "packageJSON": {
     "name": "gojs",
@@ -193,12 +193,7 @@
       "printing"
     ],
     "homepage": "https://gojs.net",
-    "bugs": {
-      "url": "https://forum.nwoods.com/c/gojs",
-      "email": "gojs@nwoods.com"
-    },
     "license": "SEE LICENSE AT https://gojs.net/latest/doc/license.html",
-    "author": "Northwoods Software",
     "files": [
       "package.json",
       "bower.json",
@@ -220,9 +215,13 @@
     ],
     "main": "release/go.js",
     "typings": "release/go.d.ts",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/NorthwoodsSoftware/GoJS"
+    "repository": "https://github.com/NorthwoodsSoftware/GoJS",
+    "other": {
+      "author": "Northwoods Software",
+      "bugs": {
+        "url": "https://forum.nwoods.com/c/gojs",
+        "email": "gojs@nwoods.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -249,7 +248,8 @@
     }
   },
   "filename": "NorthwoodsSoftware___GoJS.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:49.011Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:11.962Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T17:07:24.835Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:11.962Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "GeReV",
     "id": 1150358,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1150358?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1150358?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GeReV",
     "htmlUrl": "https://github.com/GeReV",
@@ -74,19 +74,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -178,6 +167,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -226,6 +225,7 @@
   "svnUrl": "https://github.com/GeReV/librarian",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:15:35.294Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:08.154Z"
+  "lastFetchedAt": "2017-10-23T19:03:18.049Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:08.154Z",
+  "archived": false
 }

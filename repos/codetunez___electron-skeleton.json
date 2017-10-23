@@ -5,7 +5,7 @@
   "owner": {
     "login": "codetunez",
     "id": 7948433,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7948433?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7948433?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/codetunez",
     "htmlUrl": "https://github.com/codetunez",
@@ -50,10 +50,7 @@
     "version": "0.0.1",
     "description": "Angular2+Bootstrap Electron Skeleton App",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/codetunez/electron-skeleton.git"
-    },
+    "repository": "https://github.com/codetunez/electron-skeleton",
     "scripts": {
       "build": "webpack --progress --profile --colors --display-error-details --display-cached",
       "watch": "webpack --watch --progress --profile --colors --display-error-details --display-cached",
@@ -77,8 +74,10 @@
       "typescript": "^1.8.10",
       "zone.js": "^0.6.11"
     },
-    "author": "codetunez",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {
+      "author": "codetunez"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/codetunez/electron-skeleton",
@@ -125,6 +124,7 @@
   },
   "filename": "codetunez___electron-skeleton.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:00.735Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:41.901Z"
+  "lastFetchedAt": "2017-10-23T20:55:43.148Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:41.901Z",
+  "archived": false
 }

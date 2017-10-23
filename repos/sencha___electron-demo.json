@@ -5,7 +5,7 @@
   "owner": {
     "login": "sencha",
     "id": 333591,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/333591?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/333591?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sencha",
     "htmlUrl": "https://github.com/sencha",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/sencha/electron-demo/downloads",
   "deploymentsUrl": "https://api.github.com/repos/sencha/electron-demo/deployments",
   "createdAt": "2016-10-29T20:49:52.000Z",
-  "updatedAt": "2017-03-09T12:56:02.000Z",
+  "updatedAt": "2017-09-28T15:57:39.000Z",
   "pushedAt": "2016-11-24T12:45:04.000Z",
   "gitUrl": "git://github.com/sencha/electron-demo.git",
   "sshUrl": "git@github.com:sencha/electron-demo.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/sencha/electron-demo",
   "homepage": null,
   "size": 103,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 16,
+  "watchersCount": 16,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 7,
+  "forksCount": 8,
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 11,
+  "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "sencha",
     "id": 333591,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/333591?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/333591?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sencha",
     "htmlUrl": "https://github.com/sencha",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/sencha/received_events",
     "type": "Organization"
   },
-  "networkCount": 7,
+  "networkCount": 8,
   "subscribersCount": 14,
   "status": 200,
   "packageJSON": {
@@ -96,23 +96,22 @@
       "bundle-linux64": "sencha --cwd app app build --clean --production && electron-packager app/build/production App --platlform=linux --arch=x86_64 --out build/electron",
       "clean": "rm -rf ext; rm -rf .sencha; rm -rf app/.sencha; rm -rf node_modules; rm -rf app/node_modules; rm -rf build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:sencha/ext-electron.git"
-    },
+    "repository": "https://github.com/sencha/ext-electron",
     "keywords": [
       "extjs",
       "electron"
     ],
-    "author": "Sencha",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/dongryphon/ext-electron/issues"
-    },
     "homepage": "https://github.com/dongryphon/ext-electron#readme",
     "devDependencies": {
       "electron": "^1.4.4",
       "electron-packager": "^8.2.0"
+    },
+    "other": {
+      "author": "Sencha",
+      "bugs": {
+        "url": "https://github.com/dongryphon/ext-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "sencha___electron-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:11.461Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:47.802Z"
+  "lastFetchedAt": "2017-10-23T17:59:10.411Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:47.802Z",
+  "archived": false
 }

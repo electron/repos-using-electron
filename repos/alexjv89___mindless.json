@@ -5,7 +5,7 @@
   "owner": {
     "login": "alexjv89",
     "id": 2733923,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2733923?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2733923?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alexjv89",
     "htmlUrl": "https://github.com/alexjv89",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 1,
   "openIssues": 1,
   "watchers": 15,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -61,21 +61,14 @@
       "watch": "./node_modules/.bin/webpack-dev-server",
       "electron-rebuild": "./node_modules/.bin/electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "webpack": "^1.12.11",
@@ -95,6 +88,12 @@
       "electron-localshortcut": "^0.6.0",
       "electron-prebuilt": "^0.36.0",
       "react": "^0.14.6"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "alexjv89___mindless.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:17.491Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:02.693Z"
+  "lastFetchedAt": "2017-10-23T18:12:14.609Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:02.693Z",
+  "archived": false
 }

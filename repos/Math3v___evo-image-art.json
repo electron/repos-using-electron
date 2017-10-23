@@ -5,7 +5,7 @@
   "owner": {
     "login": "Math3v",
     "id": 3818442,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3818442?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3818442?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Math3v",
     "htmlUrl": "https://github.com/Math3v",
@@ -80,9 +80,11 @@
       "start": "electron main.js",
       "build": "electron-packager . CircleArt --ignore=node_modules/asar --ignore=node_modules/babel* --ignore=node_modules/electron-* --platform=all --arch=all --version=0.37.8 --asar=true"
     },
-    "author": "Matej Minarik (xminar29)",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
+    },
+    "other": {
+      "author": "Matej Minarik (xminar29)"
     }
   },
   "packageStatus": 200,
@@ -110,6 +112,7 @@
   },
   "filename": "Math3v___evo-image-art.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:40:51.827Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:12.174Z"
+  "lastFetchedAt": "2017-10-23T17:42:28.281Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:12.174Z",
+  "archived": false
 }

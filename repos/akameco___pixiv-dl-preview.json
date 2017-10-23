@@ -5,7 +5,7 @@
   "owner": {
     "login": "akameco",
     "id": 4002137,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4002137?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4002137?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/akameco",
     "htmlUrl": "https://github.com/akameco",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 0,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -58,11 +58,6 @@
     "description": "pixiv downloader with image preview",
     "license": "MIT",
     "repository": "akameco/pixiv-dl-preview",
-    "author": {
-      "name": "akameco",
-      "email": "akameco.t@gmail.com",
-      "url": "akameco.github.io"
-    },
     "bin": "cli.js",
     "scripts": {
       "test": "xo",
@@ -101,6 +96,13 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "akameco",
+        "email": "akameco.t@gmail.com",
+        "url": "akameco.github.io"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +150,7 @@
   "svnUrl": "https://github.com/akameco/pixiv-dl-preview",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:24:43.747Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:29.163Z"
+  "lastFetchedAt": "2017-10-23T20:21:12.472Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:29.163Z",
+  "archived": false
 }

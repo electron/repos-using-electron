@@ -5,7 +5,7 @@
   "owner": {
     "login": "keokilee",
     "id": 191770,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/191770?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/191770?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/keokilee",
     "htmlUrl": "https://github.com/keokilee",
@@ -20,21 +20,21 @@
   "description": "React component for the <webview> element in Electron.",
   "fork": false,
   "createdAt": "2015-08-23T02:16:43.000Z",
-  "updatedAt": "2017-03-10T04:36:02.000Z",
+  "updatedAt": "2017-08-06T23:08:20.000Z",
   "pushedAt": "2017-01-23T18:06:18.000Z",
   "homepage": null,
   "size": 64,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "stargazersCount": 24,
+  "watchersCount": 24,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 18,
+  "forksCount": 17,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 24,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/isc",
     "featured": false
   },
-  "networkCount": 11,
+  "networkCount": 17,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -63,20 +63,13 @@
     "files": [
       "index.d.ts"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/keokilee/react-electron-webview.git"
-    },
+    "repository": "https://github.com/keokilee/react-electron-webview",
     "keywords": [
       "react",
       "electron",
       "webview"
     ],
-    "author": "George Lee",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/keokilee/react-electron-webview/issues"
-    },
     "homepage": "https://github.com/keokilee/react-electron-webview#readme",
     "peerDependencies": {
       "electron": "^1.0.0",
@@ -111,7 +104,13 @@
       "semantic-release": "^6.3.2",
       "webpack": "^1.12.9"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "other": {
+      "author": "George Lee",
+      "bugs": {
+        "url": "https://github.com/keokilee/react-electron-webview/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -158,6 +157,7 @@
   "svnUrl": "https://github.com/keokilee/react-electron-webview",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:12:31.466Z",
-  "packageLastFetchedAt": "2017-05-05T17:07:27.878Z"
+  "lastFetchedAt": "2017-10-23T19:24:30.413Z",
+  "packageLastFetchedAt": "2017-05-05T17:07:27.878Z",
+  "archived": false
 }

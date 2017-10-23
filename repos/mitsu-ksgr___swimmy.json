@@ -6,7 +6,7 @@
   "owner": {
     "login": "mitsu-ksgr",
     "id": 3091232,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3091232?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3091232?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mitsu-ksgr",
     "htmlUrl": "https://github.com/mitsu-ksgr",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/mitsu-ksgr/swimmy/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mitsu-ksgr/swimmy/deployments",
   "createdAt": "2016-12-01T06:13:12.000Z",
-  "updatedAt": "2017-01-29T19:16:02.000Z",
+  "updatedAt": "2017-09-08T08:51:19.000Z",
   "pushedAt": "2017-02-10T03:51:37.000Z",
   "gitUrl": "git://github.com/mitsu-ksgr/swimmy.git",
   "sshUrl": "git@github.com:mitsu-ksgr/swimmy.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/mitsu-ksgr/swimmy",
   "homepage": "",
   "size": 1418,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -55,7 +55,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 6,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -70,7 +70,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "swimmy",
@@ -110,9 +110,6 @@
       "release-win32": "npm run build-win32  && npm run zip-win32",
       "release": "npm run build && npm run zip",
       "release-with-docker": "docker run --rm -v ${PWD}:/project -v ~/.electron:/root/.electron electronuserland/electron-builder:wine /usr/local/bin/npm run release"
-    },
-    "other": {
-      "author": "mitsu-ksgr <mitsu.naka.dev@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -139,9 +136,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:31.412Z",
+  "lastFetchedAt": "2017-10-23T18:21:14.497Z",
   "packageLastFetchedAt": "2017-05-05T14:58:07.569Z",
-  "contributors": [
-    "mitsu-ksgr"
-  ]
+  "archived": false
 }

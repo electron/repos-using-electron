@@ -5,7 +5,7 @@
   "owner": {
     "login": "feross",
     "id": 121766,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/121766?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/121766?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/feross",
     "htmlUrl": "https://github.com/feross",
@@ -20,21 +20,21 @@
   "description": "P2P Whiteboard powered by WebRTC and WebTorrent",
   "fork": false,
   "createdAt": "2014-09-07T11:53:49.000Z",
-  "updatedAt": "2017-04-14T09:23:13.000Z",
+  "updatedAt": "2017-10-13T15:46:05.000Z",
   "pushedAt": "2017-01-25T07:35:41.000Z",
   "homepage": "http://whiteboard.webtorrent.io",
   "size": 30,
-  "stargazersCount": 81,
-  "watchersCount": 81,
+  "stargazersCount": 91,
+  "watchersCount": 91,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 17,
+  "forksCount": 20,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 81,
+  "watchers": 91,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,17 +48,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 17,
-  "subscribersCount": 14,
+  "networkCount": 20,
+  "subscribersCount": 15,
   "status": 200,
   "packageJSON": {
     "name": "whiteboard",
     "description": "WebRTC Whiteboard",
     "version": "1.0.0",
-    "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
-    "bugs": {
-      "url": "https://github.com/feross/whiteboard/issues"
-    },
     "dependencies": {
       "bittorrent-tracker": "^8.0.4",
       "cat-names": "^1.0.2",
@@ -96,16 +92,19 @@
     "license": "MIT",
     "main": "server.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/feross/whiteboard.git"
-    },
+    "repository": "https://github.com/feross/whiteboard",
     "scripts": {
       "build": "browserify client > static/bundle.js",
       "start": "node server.js",
       "start-app": "electron app 2>&1 | silence-chromium",
       "test": "standard",
       "watch": "watchify client -o static/bundle.js -dv & DEBUG=whiteboard* nodemon server.js"
+    },
+    "other": {
+      "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
+      "bugs": {
+        "url": "https://github.com/feross/whiteboard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   "svnUrl": "https://github.com/feross/whiteboard",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:11:53.379Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:41.320Z"
+  "lastFetchedAt": "2017-10-23T20:17:09.011Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:41.320Z",
+  "archived": false
 }

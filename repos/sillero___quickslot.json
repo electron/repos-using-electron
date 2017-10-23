@@ -5,7 +5,7 @@
   "owner": {
     "login": "sillero",
     "id": 628355,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/628355?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/628355?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sillero",
     "htmlUrl": "https://github.com/sillero",
@@ -62,20 +62,19 @@
     "scripts": {
       "start": "electron lib/entryMain.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sillero/quickslot.git"
-    },
+    "repository": "https://github.com/sillero/quickslot",
     "keywords": [
       "Electron",
       "npm",
       "scripts"
     ],
-    "author": "Gustavo Sillero <gustavo@sille.ro>",
     "license": "MIT",
     "dependencies": {
       "electron-prebuilt": "^1.2.0",
       "reify": "^0.3.3"
+    },
+    "other": {
+      "author": "Gustavo Sillero <gustavo@sille.ro>"
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   "svnUrl": "https://github.com/sillero/quickslot",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T04:59:09.744Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:23.626Z"
+  "lastFetchedAt": "2017-10-23T20:37:21.114Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:23.626Z",
+  "archived": false
 }

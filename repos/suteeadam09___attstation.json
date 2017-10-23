@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -83,7 +83,6 @@
       "type": "git",
       "url": "git+https://https://github.com/suteeadam09/attstation.git"
     },
-    "author": "GitHub",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron-packager": "^7.0.1",
@@ -91,6 +90,9 @@
     },
     "dependencies": {
       "express": "^4.13.4"
+    },
+    "other": {
+      "author": "GitHub"
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,6 @@
   "filename": "suteeadam09___attstation.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:06:23.466Z",
+  "lastFetchedAt": "2017-10-23T17:11:16.062Z",
   "packageLastFetchedAt": "2017-05-05T14:47:28.974Z"
 }

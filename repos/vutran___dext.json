@@ -5,7 +5,7 @@
   "owner": {
     "login": "vutran",
     "id": 1088312,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1088312?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1088312?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vutran",
     "htmlUrl": "https://github.com/vutran",
@@ -20,21 +20,21 @@
   "description": "🔍 A smart launcher. Powered by JavaScript.",
   "fork": false,
   "createdAt": "2016-08-27T12:11:22.000Z",
-  "updatedAt": "2017-05-04T15:31:37.000Z",
-  "pushedAt": "2017-04-29T18:48:03.000Z",
+  "updatedAt": "2017-10-22T22:36:25.000Z",
+  "pushedAt": "2017-06-25T23:31:03.000Z",
   "homepage": "",
-  "size": 77109,
-  "stargazersCount": 488,
-  "watchersCount": 488,
+  "size": 77120,
+  "stargazersCount": 558,
+  "watchersCount": 558,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 42,
-  "openIssuesCount": 13,
-  "openIssues": 13,
-  "watchers": 488,
+  "forksCount": 46,
+  "openIssuesCount": 14,
+  "openIssues": 14,
+  "watchers": 558,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 42,
-  "subscribersCount": 26,
+  "networkCount": 46,
+  "subscribersCount": 31,
   "status": 200,
   "packageJSON": {
     "name": "dext",
@@ -76,11 +76,7 @@
       "start": "npm run build && npm run dev",
       "test": "jest --coverage --verbose"
     },
-    "author": "Vu Tran <vu@vu-tran.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/vutran/dext"
-    },
+    "repository": "https://github.com/vutran/dext",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.21.0",
@@ -128,6 +124,9 @@
       "redux-saga": "^0.14.3",
       "screen-saver": "^0.2.1",
       "string_score": "^0.1.22"
+    },
+    "other": {
+      "author": "Vu Tran <vu@vu-tran.com>"
     }
   },
   "packageStatus": 200,
@@ -175,6 +174,7 @@
   },
   "filename": "vutran___dext.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:19:07.699Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:32.805Z"
+  "lastFetchedAt": "2017-10-23T20:07:14.854Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:32.805Z",
+  "archived": false
 }

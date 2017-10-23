@@ -5,7 +5,7 @@
   "owner": {
     "login": "kinda",
     "id": 6949,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6949?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6949?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kinda",
     "htmlUrl": "https://github.com/kinda",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "kinda",
     "id": 6949,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6949?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6949?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kinda",
     "htmlUrl": "https://github.com/kinda",
@@ -63,10 +63,7 @@
     "name": "kinda-web-sql",
     "version": "0.2.5",
     "description": "...",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/kinda/kinda-web-sql"
-    },
+    "repository": "https://github.com/kinda/kinda-web-sql",
     "main": "lib/index.js",
     "scripts": {
       "compile": "babel src --out-dir lib",
@@ -78,7 +75,6 @@
       "lint": "eslint .",
       "test": "electron-mocha --renderer --ui tdd test"
     },
-    "author": "Manuel Vila <mvila@3base.com>",
     "license": "MIT",
     "dependencies": {
       "await-lock": "^1.1.1",
@@ -93,6 +89,9 @@
       "electron-prebuilt": "^0.32.2",
       "eslint": "^1.0.0",
       "eslint-config-kinda": "^0.2.0"
+    },
+    "other": {
+      "author": "Manuel Vila <mvila@3base.com>"
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   "svnUrl": "https://github.com/kinda/kinda-web-sql",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:35:59.135Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:25.289Z"
+  "lastFetchedAt": "2017-10-23T18:15:41.943Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:25.289Z",
+  "archived": false
 }

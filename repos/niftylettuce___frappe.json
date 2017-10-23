@@ -6,7 +6,7 @@
   "owner": {
     "login": "niftylettuce",
     "id": 523141,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/523141?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/523141?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/niftylettuce",
     "htmlUrl": "https://github.com/niftylettuce",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/niftylettuce/frappe/downloads",
   "deploymentsUrl": "https://api.github.com/repos/niftylettuce/frappe/deployments",
   "createdAt": "2016-01-06T02:53:35.000Z",
-  "updatedAt": "2017-05-03T21:29:21.000Z",
-  "pushedAt": "2017-02-07T19:11:54.000Z",
+  "updatedAt": "2017-10-09T12:56:24.000Z",
+  "pushedAt": "2017-06-09T10:05:50.000Z",
   "gitUrl": "git://github.com/niftylettuce/frappe.git",
   "sshUrl": "git@github.com:niftylettuce/frappe.git",
   "cloneUrl": "https://github.com/niftylettuce/frappe.git",
   "svnUrl": "https://github.com/niftylettuce/frappe",
   "homepage": "",
   "size": 2663,
-  "stargazersCount": 151,
-  "watchersCount": 151,
+  "stargazersCount": 176,
+  "watchersCount": 176,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 11,
   "mirrorUrl": null,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 151,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 176,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,14 +69,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 8,
-  "subscribersCount": 7,
+  "networkCount": 11,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "frappe",
     "version": "0.1.1",
     "main": "dist/main.js",
-    "author": "Nick Baugh <niftylettuce@gmail.com>, Alexander Pantyukhov <alwxndr@gmail.com>",
     "description": "Remotely shake your Android devices (including emulators)",
     "scripts": {
       "start": "NODE_ENV=development electron-compile ./src/ ./media/ && NODE_ENV=development electron src/main.js",
@@ -97,6 +96,9 @@
       "electron-packager": "^5.2.0",
       "electron-prebuilt-compile": "^0.36.1",
       "nodemon": "^1.8.1"
+    },
+    "other": {
+      "author": "Nick Baugh <niftylettuce@gmail.com>, Alexander Pantyukhov <alwxndr@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:42:34.265Z",
-  "packageLastFetchedAt": "2017-05-04T22:28:29.110Z"
+  "lastFetchedAt": "2017-10-23T20:10:44.243Z",
+  "packageLastFetchedAt": "2017-05-04T22:28:29.110Z",
+  "archived": false
 }

@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "encrypted-notes",
     "version": "1.0.0",
@@ -61,14 +61,10 @@
       "watch": "watchify app/app.js -t babelify -o ./public/js/bundle.js --debug --verbose",
       "build": "mkdir public; mkdir public/js; browserify app/app.js -t babelify -o ./public/js/bundle.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:yonilerner/encrypted-notes.git"
-    },
+    "repository": "https://github.com/yonilerner/encrypted-notes",
     "keywords": [
       "encrypted notes"
     ],
-    "author": "Yoni Lerner",
     "license": "MIT",
     "devDependencies": {
       "babel-plugin-transform-es2015-destructuring": "^6.9.0",
@@ -92,6 +88,9 @@
       "react-tinymce": "^0.5.1",
       "request": "^2.73.0",
       "tinymce": "^4.4.0"
+    },
+    "other": {
+      "author": "Yoni Lerner"
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,6 @@
   "svnUrl": "https://github.com/yonilerner/encrypted-notes",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:17:25.032Z",
+  "lastFetchedAt": "2017-10-23T17:55:18.768Z",
   "packageLastFetchedAt": "2017-05-05T01:27:29.868Z"
 }

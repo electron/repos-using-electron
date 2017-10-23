@@ -5,7 +5,7 @@
   "owner": {
     "login": "jschr",
     "id": 1163252,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1163252?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1163252?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jschr",
     "htmlUrl": "https://github.com/jschr",
@@ -20,21 +20,21 @@
   "description": "A minimal boilerplate to get started with Electron, React and Redux.",
   "fork": false,
   "createdAt": "2015-09-14T16:44:57.000Z",
-  "updatedAt": "2017-05-04T12:47:57.000Z",
-  "pushedAt": "2017-04-02T00:06:05.000Z",
+  "updatedAt": "2017-10-19T12:52:28.000Z",
+  "pushedAt": "2017-07-31T13:00:39.000Z",
   "homepage": "",
-  "size": 36,
-  "stargazersCount": 142,
-  "watchersCount": 142,
+  "size": 157,
+  "stargazersCount": 195,
+  "watchersCount": 195,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 33,
+  "forksCount": 42,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 142,
+  "watchers": 195,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,18 +42,14 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 33,
-  "subscribersCount": 8,
+  "networkCount": 42,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "electron-react-redux-boilerplate",
     "version": "0.0.0",
     "description": "electron-react-redux-boilerplate",
     "main": "init.js",
-    "author": {
-      "name": "Jordan Schroter",
-      "email": "email@author.com"
-    },
     "repository": "https://github.com/jschr/electron-react-redux-boilerplate",
     "license": "MIT",
     "dependencies": {
@@ -106,6 +102,12 @@
       "private:serve": "babel-node scripts/serve.js",
       "private:compile": "babel app/ --copy-files --out-dir build",
       "private:clean": "rimraf build"
+    },
+    "other": {
+      "author": {
+        "name": "Jordan Schroter",
+        "email": "email@author.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +155,7 @@
   "svnUrl": "https://github.com/jschr/electron-react-redux-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:32:55.892Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:47.072Z"
+  "lastFetchedAt": "2017-10-23T20:23:38.754Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:47.072Z",
+  "archived": false
 }

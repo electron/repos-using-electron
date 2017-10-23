@@ -5,7 +5,7 @@
   "owner": {
     "login": "premefeed",
     "id": 16073020,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16073020?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16073020?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/premefeed",
     "htmlUrl": "https://github.com/premefeed",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "premefeed",
     "id": 16073020,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16073020?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16073020?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/premefeed",
     "htmlUrl": "https://github.com/premefeed",
@@ -93,15 +93,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/premefeed/desktop.git"
-    },
-    "author": "Peter Soboyejo",
+    "repository": "https://github.com/premefeed/desktop",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/premefeed/desktop/issues"
-    },
     "homepage": "https://github.com/premefeed/desktop#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -110,6 +103,12 @@
     "dependencies": {
       "menu": "^0.2.5",
       "path": "^0.12.7"
+    },
+    "other": {
+      "author": "Peter Soboyejo",
+      "bugs": {
+        "url": "https://github.com/premefeed/desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "premefeed___desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:59.451Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:49.410Z"
+  "lastFetchedAt": "2017-10-23T18:49:02.545Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:49.410Z",
+  "archived": false
 }

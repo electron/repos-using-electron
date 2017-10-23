@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "b2r_grader",
     "version": "1.0.0",
@@ -76,7 +76,6 @@
       "build_osx": "electron-packager --overwrite --platform=darwin --arch=x64 --version=0.27.2 . B2R-Grader",
       "build_win32": "electron-packager --overwrite --platform=win32 --arch=ia32 --version=0.27.2 . B2R-Grader"
     },
-    "author": "John Lekberg <jclekberg@uchicago.edu>",
     "license": "MIT",
     "dependencies": {
       "underscore": "^1.8.3"
@@ -88,6 +87,9 @@
       "electron-prebuilt": "^0.34.2",
       "jquery": "^2.1.4",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "author": "John Lekberg <jclekberg@uchicago.edu>"
     }
   },
   "packageStatus": 200,
@@ -115,6 +117,6 @@
   },
   "filename": "kaunta___B2R-Grader.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:23:10.760Z",
+  "lastFetchedAt": "2017-10-23T17:09:23.944Z",
   "packageLastFetchedAt": "2017-05-05T17:42:51.197Z"
 }

@@ -70,12 +70,11 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ng2-admin",
     "version": "0.7.0",
     "description": "Angular 2 and Bootstrap 4 Admin Template.",
-    "author": "akveo",
     "homepage": "http://akveo.github.io/ng2-admin/",
     "license": "MIT",
     "dependencies": {
@@ -224,16 +223,16 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "akveo",
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -261,6 +260,6 @@
   },
   "filename": "khushi3___3M-Application.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:26:29.345Z",
+  "lastFetchedAt": "2017-10-23T18:06:51.213Z",
   "packageLastFetchedAt": "2017-05-05T14:25:09.556Z"
 }

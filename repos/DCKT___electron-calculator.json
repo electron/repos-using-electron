@@ -5,7 +5,7 @@
   "owner": {
     "login": "DCKT",
     "id": 1548421,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1548421?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1548421?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DCKT",
     "htmlUrl": "https://github.com/DCKT",
@@ -58,11 +58,6 @@
     "description": "Calculator desktop app with electron ",
     "license": "MIT",
     "repository": "DCKT/electron-calculator",
-    "author": {
-      "name": "Thomas Deconinck",
-      "email": "dck@outlook.fr",
-      "url": "thomasdeconinck.fr"
-    },
     "electronVersion": "0.36.0",
     "scripts": {
       "dev": "./node_modules/.bin/webpack -w",
@@ -95,6 +90,13 @@
       "vue-loader": "^8.0.2",
       "vue-style-loader": "^1.0.0",
       "webpack": "^1.12.11"
+    },
+    "other": {
+      "author": {
+        "name": "Thomas Deconinck",
+        "email": "dck@outlook.fr",
+        "url": "thomasdeconinck.fr"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +144,7 @@
   },
   "filename": "DCKT___electron-calculator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:26.468Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:43.740Z"
+  "lastFetchedAt": "2017-10-23T19:03:50.079Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:43.740Z",
+  "archived": false
 }

@@ -1,46 +1,46 @@
 {
   "id": 66203577,
   "name": "poketron",
-  "fullName": "DanForbes/poketron",
+  "fullName": "danforbes/poketron",
   "owner": {
-    "login": "DanForbes",
+    "login": "danforbes",
     "id": 2193247,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2193247?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2193247?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/DanForbes",
-    "htmlUrl": "https://github.com/DanForbes",
-    "followersUrl": "https://api.github.com/users/DanForbes/followers",
-    "subscriptionsUrl": "https://api.github.com/users/DanForbes/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/DanForbes/orgs",
-    "reposUrl": "https://api.github.com/users/DanForbes/repos",
-    "receivedEventsUrl": "https://api.github.com/users/DanForbes/received_events",
+    "url": "https://api.github.com/users/danforbes",
+    "htmlUrl": "https://github.com/danforbes",
+    "followersUrl": "https://api.github.com/users/danforbes/followers",
+    "subscriptionsUrl": "https://api.github.com/users/danforbes/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/danforbes/orgs",
+    "reposUrl": "https://api.github.com/users/danforbes/repos",
+    "receivedEventsUrl": "https://api.github.com/users/danforbes/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/DanForbes/poketron",
+  "htmlUrl": "https://github.com/danforbes/poketron",
   "description": null,
   "fork": false,
-  "url": "https://api.github.com/repos/DanForbes/poketron",
-  "forksUrl": "https://api.github.com/repos/DanForbes/poketron/forks",
-  "teamsUrl": "https://api.github.com/repos/DanForbes/poketron/teams",
-  "hooksUrl": "https://api.github.com/repos/DanForbes/poketron/hooks",
-  "eventsUrl": "https://api.github.com/repos/DanForbes/poketron/events",
-  "tagsUrl": "https://api.github.com/repos/DanForbes/poketron/tags",
-  "languagesUrl": "https://api.github.com/repos/DanForbes/poketron/languages",
-  "stargazersUrl": "https://api.github.com/repos/DanForbes/poketron/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/DanForbes/poketron/contributors",
-  "subscribersUrl": "https://api.github.com/repos/DanForbes/poketron/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/DanForbes/poketron/subscription",
-  "mergesUrl": "https://api.github.com/repos/DanForbes/poketron/merges",
-  "downloadsUrl": "https://api.github.com/repos/DanForbes/poketron/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/DanForbes/poketron/deployments",
+  "url": "https://api.github.com/repos/danforbes/poketron",
+  "forksUrl": "https://api.github.com/repos/danforbes/poketron/forks",
+  "teamsUrl": "https://api.github.com/repos/danforbes/poketron/teams",
+  "hooksUrl": "https://api.github.com/repos/danforbes/poketron/hooks",
+  "eventsUrl": "https://api.github.com/repos/danforbes/poketron/events",
+  "tagsUrl": "https://api.github.com/repos/danforbes/poketron/tags",
+  "languagesUrl": "https://api.github.com/repos/danforbes/poketron/languages",
+  "stargazersUrl": "https://api.github.com/repos/danforbes/poketron/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/danforbes/poketron/contributors",
+  "subscribersUrl": "https://api.github.com/repos/danforbes/poketron/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/danforbes/poketron/subscription",
+  "mergesUrl": "https://api.github.com/repos/danforbes/poketron/merges",
+  "downloadsUrl": "https://api.github.com/repos/danforbes/poketron/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/danforbes/poketron/deployments",
   "createdAt": "2016-08-21T14:41:23.000Z",
   "updatedAt": "2016-09-01T16:49:50.000Z",
   "pushedAt": "2016-09-06T02:38:07.000Z",
-  "gitUrl": "git://github.com/DanForbes/poketron.git",
-  "sshUrl": "git@github.com:DanForbes/poketron.git",
-  "cloneUrl": "https://github.com/DanForbes/poketron.git",
-  "svnUrl": "https://github.com/DanForbes/poketron",
+  "gitUrl": "git://github.com/danforbes/poketron.git",
+  "sshUrl": "git@github.com:danforbes/poketron.git",
+  "cloneUrl": "https://github.com/danforbes/poketron.git",
+  "svnUrl": "https://github.com/danforbes/poketron",
   "homepage": null,
   "size": 143,
   "stargazersCount": 3,
@@ -79,15 +79,8 @@
     "scripts": {
       "start": "gulp run"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DanForbes/poketron.git"
-    },
-    "author": "Dan Forbes",
+    "repository": "https://github.com/DanForbes/poketron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DanForbes/poketron/issues"
-    },
     "homepage": "https://github.com/DanForbes/poketron",
     "devDependencies": {
       "asar": "^0.12.3",
@@ -104,6 +97,12 @@
       "fs": "0.0.2",
       "mkdirp": "^0.5.1",
       "pogobuf": "^1.7.0"
+    },
+    "other": {
+      "author": "Dan Forbes",
+      "bugs": {
+        "url": "https://github.com/DanForbes/poketron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "DanForbes___poketron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:51.492Z",
-  "packageLastFetchedAt": "2017-05-05T17:53:21.882Z"
+  "lastFetchedAt": "2017-10-23T21:08:29.185Z",
+  "packageLastFetchedAt": "2017-05-05T17:53:21.882Z",
+  "archived": false
 }

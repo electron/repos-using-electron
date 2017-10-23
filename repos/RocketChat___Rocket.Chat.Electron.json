@@ -5,7 +5,7 @@
   "owner": {
     "login": "RocketChat",
     "id": 12508788,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12508788?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12508788?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RocketChat",
     "htmlUrl": "https://github.com/RocketChat",
@@ -20,21 +20,21 @@
   "description": "Official  OSX, Windows, and Linux Desktop Clients for Rocket.Chat ",
   "fork": false,
   "createdAt": "2015-07-08T16:56:41.000Z",
-  "updatedAt": "2017-05-04T08:02:12.000Z",
-  "pushedAt": "2017-05-04T01:47:19.000Z",
+  "updatedAt": "2017-10-23T05:32:06.000Z",
+  "pushedAt": "2017-10-21T14:07:09.000Z",
   "homepage": "https://rocket.chat/",
-  "size": 7365,
-  "stargazersCount": 328,
-  "watchersCount": 328,
+  "size": 9076,
+  "stargazersCount": 408,
+  "watchersCount": 408,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 134,
-  "openIssuesCount": 107,
-  "openIssues": 107,
-  "watchers": 328,
+  "forksCount": 174,
+  "openIssuesCount": 97,
+  "openIssues": 97,
+  "watchers": 408,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "RocketChat",
     "id": 12508788,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12508788?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12508788?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RocketChat",
     "htmlUrl": "https://github.com/RocketChat",
@@ -180,23 +180,19 @@
     "watchers": 1301,
     "defaultBranch": "master"
   },
-  "networkCount": 134,
-  "subscribersCount": 78,
+  "networkCount": 174,
+  "subscribersCount": 73,
   "status": 200,
   "packageJSON": {
     "name": "rocketchat-desktop",
     "productName": "Rocket.Chat+",
     "description": "Rocket.Chat Native Cross-Platform Desktop Application via Electron.",
     "version": "2.8.0-develop",
-    "author": "Rocket.Chat Support <support@rocket.chat>",
     "copyright": "© 2017, Rocket.Chat",
     "homepage": "https://rocket.chat",
     "license": "MIT",
     "main": "app/background.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/RocketChat/Rocket.Chat.Electron.git"
-    },
+    "repository": "https://github.com/RocketChat/Rocket.Chat.Electron",
     "build": {
       "appId": "chat.rocket",
       "files": [
@@ -281,6 +277,9 @@
       "rollup-plugin-istanbul": "^1.1.0",
       "source-map-support": "^0.4.15",
       "spectron": "^3.6.2"
+    },
+    "other": {
+      "author": "Rocket.Chat Support <support@rocket.chat>"
     }
   },
   "packageStatus": 200,
@@ -329,6 +328,7 @@
   "svnUrl": "https://github.com/RocketChat/Rocket.Chat.Electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:07:28.564Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:20.260Z"
+  "lastFetchedAt": "2017-10-23T17:26:12.649Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:20.260Z",
+  "archived": false
 }

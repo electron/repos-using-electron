@@ -5,7 +5,7 @@
   "owner": {
     "login": "Drooids",
     "id": 11247357,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11247357?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11247357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Drooids",
     "htmlUrl": "https://github.com/Drooids",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "Drooids",
     "id": 11247357,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11247357?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11247357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Drooids",
     "htmlUrl": "https://github.com/Drooids",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "jiahaog",
       "id": 7111741,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7111741?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7111741?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jiahaog",
       "htmlUrl": "https://github.com/jiahaog",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/jiahaog/nativefier/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jiahaog/nativefier/deployments",
     "createdAt": "2015-07-05T05:56:42.000Z",
-    "updatedAt": "2017-05-04T12:42:09.000Z",
-    "pushedAt": "2017-05-03T11:33:23.000Z",
+    "updatedAt": "2017-10-23T14:41:56.000Z",
+    "pushedAt": "2017-10-12T00:51:32.000Z",
     "gitUrl": "git://github.com/jiahaog/nativefier.git",
     "sshUrl": "git@github.com:jiahaog/nativefier.git",
     "cloneUrl": "https://github.com/jiahaog/nativefier.git",
     "svnUrl": "https://github.com/jiahaog/nativefier",
     "homepage": "",
-    "size": 4353,
-    "stargazersCount": 10040,
-    "watchersCount": 10040,
+    "size": 4449,
+    "stargazersCount": 12235,
+    "watchersCount": 12235,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 433,
+    "forksCount": 570,
     "mirrorUrl": null,
-    "openIssuesCount": 62,
-    "openIssues": 62,
-    "watchers": 10040,
+    "archived": false,
+    "openIssuesCount": 81,
+    "openIssues": 81,
+    "watchers": 12235,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "jiahaog",
       "id": 7111741,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7111741?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7111741?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jiahaog",
       "htmlUrl": "https://github.com/jiahaog",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/jiahaog/nativefier/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jiahaog/nativefier/deployments",
     "createdAt": "2015-07-05T05:56:42.000Z",
-    "updatedAt": "2017-05-04T12:42:09.000Z",
-    "pushedAt": "2017-05-03T11:33:23.000Z",
+    "updatedAt": "2017-10-23T14:41:56.000Z",
+    "pushedAt": "2017-10-12T00:51:32.000Z",
     "gitUrl": "git://github.com/jiahaog/nativefier.git",
     "sshUrl": "git@github.com:jiahaog/nativefier.git",
     "cloneUrl": "https://github.com/jiahaog/nativefier.git",
     "svnUrl": "https://github.com/jiahaog/nativefier",
     "homepage": "",
-    "size": 4353,
-    "stargazersCount": 10040,
-    "watchersCount": 10040,
+    "size": 4449,
+    "stargazersCount": 12235,
+    "watchersCount": 12235,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 433,
+    "forksCount": 570,
     "mirrorUrl": null,
-    "openIssuesCount": 62,
-    "openIssues": 62,
-    "watchers": 10040,
+    "archived": false,
+    "openIssuesCount": 81,
+    "openIssues": 81,
+    "watchers": 12235,
     "defaultBranch": "master"
   },
-  "networkCount": 433,
+  "networkCount": 570,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -204,15 +206,8 @@
     "bin": {
       "nativefier": "lib/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jiahaog/nativefier.git"
-    },
-    "author": "",
+    "repository": "https://github.com/jiahaog/nativefier",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jiahaog/nativefier/issues"
-    },
     "homepage": "https://github.com/jiahaog/nativefier#readme",
     "dependencies": {
       "async": "^1.5.2",
@@ -241,6 +236,12 @@
       "gulp-sourcemaps": "^1.6.0",
       "run-sequence": "^1.1.5",
       "webpack-stream": "^3.1.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/jiahaog/nativefier/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -289,6 +290,7 @@
   "filename": "Drooids___nativefier.json",
   "sourceRepo": "yashilanka/nativefier",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:19.477Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:39.464Z"
+  "lastFetchedAt": "2017-10-23T20:44:49.953Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:39.464Z",
+  "archived": false
 }

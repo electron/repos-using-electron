@@ -5,7 +5,7 @@
   "owner": {
     "login": "rtsao",
     "id": 780408,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/780408?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/780408?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rtsao",
     "htmlUrl": "https://github.com/rtsao",
@@ -20,21 +20,21 @@
   "description": ":earth_americas: Seamless node and browser unit testing with code coverage",
   "fork": false,
   "createdAt": "2016-01-23T20:20:15.000Z",
-  "updatedAt": "2017-04-28T22:38:50.000Z",
-  "pushedAt": "2017-04-07T05:52:51.000Z",
+  "updatedAt": "2017-09-28T07:55:40.000Z",
+  "pushedAt": "2017-09-27T17:13:08.000Z",
   "homepage": "",
-  "size": 78,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 89,
+  "stargazersCount": 21,
+  "watchersCount": 21,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 6,
+  "forksCount": 8,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 18,
+  "watchers": 21,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,17 +48,15 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 6,
-  "subscribersCount": 3,
+  "networkCount": 8,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "unitest",
     "version": "1.0.0",
     "description": "Run browser and node tests with coverage reports",
-    "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
     "repository": "git@github.com:rtsao/unitest.git",
     "homepage": "https://github.com/rtsao/unitest",
-    "bugs": "https://github.com/rtsao/unitest/issues",
     "main": "index.js",
     "bin": "bin/cli.js",
     "scripts": {
@@ -90,7 +88,11 @@
     "engines": {
       "npm": "^3.0.0"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
+      "bugs": "https://github.com/rtsao/unitest/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +139,7 @@
   "svnUrl": "https://github.com/rtsao/unitest",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:27:26.065Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:08.092Z"
+  "lastFetchedAt": "2017-10-23T18:53:59.987Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:08.092Z",
+  "archived": false
 }

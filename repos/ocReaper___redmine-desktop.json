@@ -5,7 +5,7 @@
   "owner": {
     "login": "ocReaper",
     "id": 4038188,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4038188?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4038188?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ocReaper",
     "htmlUrl": "https://github.com/ocReaper",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/ocReaper/redmine-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ocReaper/redmine-desktop/deployments",
   "createdAt": "2015-12-14T17:06:35.000Z",
-  "updatedAt": "2017-03-08T07:00:13.000Z",
+  "updatedAt": "2017-05-09T16:08:27.000Z",
   "pushedAt": "2017-02-27T15:42:32.000Z",
   "gitUrl": "git://github.com/ocReaper/redmine-desktop.git",
   "sshUrl": "git@github.com:ocReaper/redmine-desktop.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/ocReaper/redmine-desktop",
   "homepage": "https://akosresch.wordpress.com/2015/12/15/my-new-project-redmine-desktop/",
   "size": 1449,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 11,
   "openIssues": 11,
-  "watchers": 9,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
-  "subscribersCount": 3,
+  "networkCount": 0,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "redmineDesktop",
@@ -77,20 +77,9 @@
     "productName": "redmineDesktop",
     "identifier": "com.ocreaper.redmine-desktop",
     "description": "Native desktop Redmine client written in Angular.js with Electron",
-    "author": {
-      "name": "Ákos Resch",
-      "email": "ocreaper@gmail.com",
-      "url": "https://github.com/ocReaper"
-    },
     "license": "MIT",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ocReaper/redmine-desktop"
-    },
-    "bugs": {
-      "url": "https://github.com/ocReaper/redmine-desktop/issues"
-    },
+    "repository": "https://github.com/ocReaper/redmine-desktop",
     "scripts": {
       "test": "gulp test",
       "changelog": "conventional-changelog -p angular -i CHANGELOG.md -w"
@@ -177,6 +166,16 @@
         "path": "./node_modules/cz-conventional-changelog"
       },
       "target": "development"
+    },
+    "other": {
+      "author": {
+        "name": "Ákos Resch",
+        "email": "ocreaper@gmail.com",
+        "url": "https://github.com/ocReaper"
+      },
+      "bugs": {
+        "url": "https://github.com/ocReaper/redmine-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -204,6 +203,7 @@
   },
   "filename": "ocReaper___redmine-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:47.353Z",
-  "packageLastFetchedAt": "2017-05-05T14:25:10.513Z"
+  "lastFetchedAt": "2017-10-23T19:35:03.804Z",
+  "packageLastFetchedAt": "2017-05-05T14:25:10.513Z",
+  "archived": false
 }

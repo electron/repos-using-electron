@@ -5,7 +5,7 @@
   "owner": {
     "login": "gillyb",
     "id": 1319502,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1319502?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1319502?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gillyb",
     "htmlUrl": "https://github.com/gillyb",
@@ -17,24 +17,24 @@
     "type": "User"
   },
   "private": false,
-  "description": "A native version of the kibana sense plugin",
+  "description": "A native desktop version of the kibana sense plugin",
   "fork": false,
   "createdAt": "2016-02-10T20:41:19.000Z",
-  "updatedAt": "2017-04-06T09:19:29.000Z",
+  "updatedAt": "2017-10-22T19:03:39.000Z",
   "pushedAt": "2016-03-15T18:18:57.000Z",
-  "homepage": null,
+  "homepage": "",
   "size": 85048,
-  "stargazersCount": 15,
-  "watchersCount": 15,
+  "stargazersCount": 16,
+  "watchersCount": 16,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 3,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 15,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -59,21 +59,20 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gillyb/sensitive"
-    },
+    "repository": "https://github.com/gillyb/sensitive",
     "keywords": [
       "kibana",
       "elasticsearch",
       "sense",
       "Electron"
     ],
-    "author": "Gilly Barr",
     "license": "Apache 2.0",
     "homepage": "https://github.com/gillyb/sensitive",
     "devDependencies": {
       "electron-prebuilt": "0.37.2"
+    },
+    "other": {
+      "author": "Gilly Barr"
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "svnUrl": "https://github.com/gillyb/sensitive",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:27:11.302Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:52.250Z"
+  "lastFetchedAt": "2017-10-23T20:28:18.301Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:52.250Z",
+  "archived": false
 }

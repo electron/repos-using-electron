@@ -186,14 +186,13 @@
   },
   "networkCount": 51,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T18:22:23.711Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T20:21:29.516Z",
   "packageJSON": {
     "name": "electron-updater-example",
     "version": "1.4.1",
     "main": "main.js",
     "description": "electron-updater example project",
-    "author": "Matt Haggard",
     "devDependencies": {
       "electron": "^1.4.15",
       "electron-builder": "^12.3.1"
@@ -221,6 +220,9 @@
           "repo": "electron-updater-example"
         }
       ]
+    },
+    "other": {
+      "author": "Matt Haggard"
     }
   },
   "packageStatus": 200,

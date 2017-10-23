@@ -5,7 +5,7 @@
   "owner": {
     "login": "SealedSaint",
     "id": 11187206,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11187206?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11187206?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SealedSaint",
     "htmlUrl": "https://github.com/SealedSaint",
@@ -20,21 +20,21 @@
   "description": "An Electron desktop application for tracking time to different projects throughout the day.",
   "fork": false,
   "createdAt": "2016-01-03T23:46:34.000Z",
-  "updatedAt": "2017-03-12T01:02:34.000Z",
+  "updatedAt": "2017-07-23T10:52:17.000Z",
   "pushedAt": "2017-04-06T18:49:10.000Z",
   "homepage": "",
   "size": 447,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "SealedSaint___PunchClock-Desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:05:03.443Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:53.334Z"
+  "lastFetchedAt": "2017-10-23T19:18:28.105Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:53.334Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jlooper",
     "id": 1450004,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1450004?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1450004?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jlooper",
     "htmlUrl": "https://github.com/jlooper",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,16 +68,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -133,12 +131,6 @@
       "compodoc": "node_modules/.bin/compodoc -p src/client/tsconfig.json",
       "serve.compodoc": "node_modules/.bin/compodoc -s"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "@angular/compiler-cli": "~2.4.0",
@@ -264,6 +256,14 @@
       "rxjs": "~5.0.3",
       "systemjs": "0.19.41",
       "zone.js": "^0.7.2"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -292,6 +292,7 @@
   "filename": "jlooper___pocketrave.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:40:47.144Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:06.095Z"
+  "lastFetchedAt": "2017-10-23T19:18:49.725Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:06.095Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "scaleryvan",
     "id": 10105458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10105458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10105458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scaleryvan",
     "htmlUrl": "https://github.com/scaleryvan",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:10:35.189Z",
+  "lastFetchedAt": "2017-10-23T20:13:54.600Z",
   "packageJSON": {
     "name": "vue-electron-muisc",
     "version": "0.1.0",
@@ -85,7 +85,6 @@
       "pack:renderer": "cross-env NODE_ENV=production webpack -p --progress --colors --config webpack.renderer.config.js",
       "postinstall": "cd app && npm install"
     },
-    "author": "Yvan Ye <scaleryvan@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -123,8 +122,12 @@
     },
     "dependencies": {
       "axios": "^0.15.3"
+    },
+    "other": {
+      "author": "Yvan Ye <scaleryvan@gmail.com>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:54:53.623Z"
+  "packageLastFetchedAt": "2017-05-04T22:54:53.623Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jakalada",
     "id": 79089,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/79089?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/79089?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jakalada",
     "htmlUrl": "https://github.com/jakalada",
@@ -79,19 +79,12 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jakalada/example-electron-paint-and-save-file.git"
-    },
+    "repository": "https://github.com/jakalada/example-electron-paint-and-save-file",
     "keywords": [
       "Electron",
       "example"
     ],
-    "author": "jakalada",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/jakalada/example-electron-paint-and-save-file/issues"
-    },
     "homepage": "https://github.com/jakalada/example-electron-paint-and-save-file#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
@@ -103,6 +96,12 @@
     },
     "dependencies": {
       "data-uri-to-buffer": "0.0.4"
+    },
+    "other": {
+      "author": "jakalada",
+      "bugs": {
+        "url": "https://github.com/jakalada/example-electron-paint-and-save-file/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "jakalada___example-electron-paint-and-save-file.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:08:26.225Z",
-  "packageLastFetchedAt": "2017-05-05T15:03:51.387Z"
+  "lastFetchedAt": "2017-10-23T19:09:16.715Z",
+  "packageLastFetchedAt": "2017-05-05T15:03:51.387Z",
+  "archived": false
 }

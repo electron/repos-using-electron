@@ -5,7 +5,7 @@
   "owner": {
     "login": "mikaturunen",
     "id": 1472272,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1472272?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1472272?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mikaturunen",
     "htmlUrl": "https://github.com/mikaturunen",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mikaturunen/electron-twitter.git"
-    },
+    "repository": "https://github.com/mikaturunen/electron-twitter",
     "keywords": [
       "electron",
       "twitter",
@@ -70,17 +67,19 @@
       "world",
       "testing"
     ],
-    "author": "Mika Turunen <mika.turunen@ymail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mikaturunen/electron-twitter/issues"
-    },
     "homepage": "https://github.com/mikaturunen/electron-twitter",
     "dependencies": {
       "twitter": "^1.2.5"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.25.1-1"
+    },
+    "other": {
+      "author": "Mika Turunen <mika.turunen@ymail.com>",
+      "bugs": {
+        "url": "https://github.com/mikaturunen/electron-twitter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/mikaturunen/electron-twitter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:26:54.002Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:20.509Z"
+  "lastFetchedAt": "2017-10-23T17:29:13.982Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:20.509Z",
+  "archived": false
 }

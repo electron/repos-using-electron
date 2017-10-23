@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "bulb",
     "version": "1.0.0",
@@ -78,21 +78,20 @@
     "scripts": {
       "test": "electron src/main-process.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tcaer/bulb.git"
-    },
-    "author": "",
+    "repository": "https://github.com/tcaer/bulb",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tcaer/bulb/issues"
-    },
     "homepage": "https://github.com/tcaer/bulb#readme",
     "dependencies": {
       "dexie": "^1.5.1",
       "dragula": "^3.7.2",
       "electron": "^1.4.5",
       "mousetrap": "^1.6.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/tcaer/bulb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,6 @@
   },
   "filename": "tcaer___bulb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:48.368Z",
+  "lastFetchedAt": "2017-10-23T17:07:20.815Z",
   "packageLastFetchedAt": "2017-05-04T22:17:15.339Z"
 }

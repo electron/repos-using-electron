@@ -5,7 +5,7 @@
   "owner": {
     "login": "kobble-git",
     "id": 18491604,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18491604?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18491604?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kobble-git",
     "htmlUrl": "https://github.com/kobble-git",
@@ -51,10 +51,7 @@
     "description": "A visual tool for wiring the Internet of Things",
     "homepage": "http://kobble.io",
     "license": "SEE LICENSE IN README.md",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kobble-git/node-red.git"
-    },
+    "repository": "https://github.com/kobble-git/node-red",
     "main": "./red-es6.js",
     "scripts": {
       "start": "electron kobble.js",
@@ -63,17 +60,6 @@
     "bin": {
       "node-red": "./red.js"
     },
-    "contributors": [
-      {
-        "name": "Nick O'Leary"
-      },
-      {
-        "name": "Dave Conway-Jones"
-      },
-      {
-        "name": "Kobble"
-      }
-    ],
     "keywords": [
       "editor",
       "messaging",
@@ -184,6 +170,19 @@
     "engines": {
       "node": ">=0.10",
       "atom": ">0.50.0"
+    },
+    "other": {
+      "contributors": [
+        {
+          "name": "Nick O'Leary"
+        },
+        {
+          "name": "Dave Conway-Jones"
+        },
+        {
+          "name": "Kobble"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -231,6 +230,7 @@
   "svnUrl": "https://github.com/kobble-git/node-red",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:23:19.082Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:48.741Z"
+  "lastFetchedAt": "2017-10-23T18:19:26.304Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:48.741Z",
+  "archived": false
 }

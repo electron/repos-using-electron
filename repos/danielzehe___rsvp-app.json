@@ -5,7 +5,7 @@
   "owner": {
     "login": "danielzehe",
     "id": 11657228,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11657228?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11657228?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/danielzehe",
     "htmlUrl": "https://github.com/danielzehe",
@@ -79,15 +79,8 @@
       "start-test": "electron testoffscreen.js",
       "pack:win-install": "electron-installer-windows --src \"Wedding App-win32-x64\" --dest installer"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danielzehe/rsvp-app.git"
-    },
-    "author": "Daniel Zehe",
+    "repository": "https://github.com/danielzehe/rsvp-app",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/danielzehe/rsvp-app/issues"
-    },
     "homepage": "https://github.com/danielzehe/rsvp-app#readme",
     "dependencies": {
       "electron": "^1.4.1",
@@ -97,6 +90,12 @@
     },
     "devDependencies": {
       "electron-winstaller": "^2.4.1"
+    },
+    "other": {
+      "author": "Daniel Zehe",
+      "bugs": {
+        "url": "https://github.com/danielzehe/rsvp-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "danielzehe___rsvp-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:50:42.986Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:13.404Z"
+  "lastFetchedAt": "2017-10-23T20:29:53.458Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:13.404Z",
+  "archived": false
 }

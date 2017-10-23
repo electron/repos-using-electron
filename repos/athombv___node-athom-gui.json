@@ -5,7 +5,7 @@
   "owner": {
     "login": "athombv",
     "id": 8502422,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8502422?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8502422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/athombv",
     "htmlUrl": "https://github.com/athombv",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-05-18T11:45:53.000Z",
   "updatedAt": "2016-11-23T22:58:28.000Z",
-  "pushedAt": "2017-05-03T17:00:02.000Z",
+  "pushedAt": "2017-09-22T16:26:45.000Z",
   "homepage": "https://nuts.athom.com",
-  "size": 2792,
+  "size": 2827,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 2,
-  "openIssuesCount": 2,
-  "openIssues": 2,
+  "openIssuesCount": 3,
+  "openIssues": 3,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -51,7 +51,7 @@
   "organization": {
     "login": "athombv",
     "id": 8502422,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8502422?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8502422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/athombv",
     "htmlUrl": "https://github.com/athombv",
@@ -87,18 +87,9 @@
       "prepare-release": "npm run package && npm run installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/athombv/node-athom-gui.git"
-    },
+    "repository": "https://github.com/athombv/node-athom-gui",
     "keywords": [
       "Homey"
-    ],
-    "author": "Athom B.V.",
-    "contributors": [
-      {
-        "name": "Matjaz Lipus"
-      }
     ],
     "homepage": "https://github.com/athombv/node-athom-gui#readme",
     "devDependencies": {
@@ -120,6 +111,14 @@
       "env": {
         "mocha": true
       }
+    },
+    "other": {
+      "author": "Athom B.V.",
+      "contributors": [
+        {
+          "name": "Matjaz Lipus"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   "svnUrl": "https://github.com/athombv/node-athom-gui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:25:52.138Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:55.258Z"
+  "lastFetchedAt": "2017-10-23T19:33:56.605Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:55.258Z",
+  "archived": false
 }

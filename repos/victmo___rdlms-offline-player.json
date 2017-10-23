@@ -5,7 +5,7 @@
   "owner": {
     "login": "victmo",
     "id": 358122,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/358122?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/358122?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/victmo",
     "htmlUrl": "https://github.com/victmo",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -69,12 +69,8 @@
     "name": "rdlms-offline-player",
     "version": "1.0.0",
     "description": "Reacción Digital LMS - Offline Player",
-    "author": "Victor Márquez",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/victmo/rdlms-offline-player.git"
-    },
+    "repository": "https://github.com/victmo/rdlms-offline-player",
     "main": "src/main.js",
     "scripts": {
       "start": "electron src/main.js",
@@ -90,6 +86,9 @@
     },
     "dependencies": {
       "jquery": "^2.2.3"
+    },
+    "other": {
+      "author": "Victor Márquez"
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "victmo___rdlms-offline-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:32.081Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:30.622Z"
+  "lastFetchedAt": "2017-10-23T17:45:14.563Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:30.622Z",
+  "archived": false
 }

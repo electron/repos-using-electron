@@ -5,7 +5,7 @@
   "owner": {
     "login": "aletocar",
     "id": 6656477,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6656477?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6656477?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aletocar",
     "htmlUrl": "https://github.com/aletocar",
@@ -63,15 +63,8 @@
       "dist": "build",
       "dist:linux32": "build --platform linux --arch ia32"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aletocar/memoriaylegado"
-    },
-    "author": "Gal Brenner <galbrenner@gmail.com>, Alejandro Tocar <aletocar@hotmail.com>",
+    "repository": "https://github.com/aletocar/memoriaylegado",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/aletocar/memoriaylegado/issues"
-    },
     "homepage": "https://shoamemoriaylegado.com",
     "build": {
       "app-bundle-id": "org.proyectoshoa.app",
@@ -82,15 +75,21 @@
         "vendor": "Proyecto Shoa"
       }
     },
-    "directories": {
-      "output": "app/dist"
-    },
     "devDependencies": {
       "electron-builder": "^3.23.0",
       "electron-prebuilt": "^1.0.2"
     },
     "dependencies": {
       "open": "0.0.5"
+    },
+    "other": {
+      "author": "Gal Brenner <galbrenner@gmail.com>, Alejandro Tocar <aletocar@hotmail.com>",
+      "bugs": {
+        "url": "https://github.com/aletocar/memoriaylegado/issues"
+      },
+      "directories": {
+        "output": "app/dist"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   "svnUrl": "https://github.com/aletocar/memoriaylegado",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:33:18.908Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:49.631Z"
+  "lastFetchedAt": "2017-10-23T19:11:20.892Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:49.631Z",
+  "archived": false
 }

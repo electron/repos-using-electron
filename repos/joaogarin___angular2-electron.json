@@ -5,7 +5,7 @@
   "owner": {
     "login": "joaogarin",
     "id": 2866604,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2866604?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2866604?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joaogarin",
     "htmlUrl": "https://github.com/joaogarin",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/joaogarin/angular-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/joaogarin/angular-electron/deployments",
   "createdAt": "2016-03-18T09:32:19.000Z",
-  "updatedAt": "2017-05-02T07:34:19.000Z",
-  "pushedAt": "2017-05-04T10:47:22.000Z",
+  "updatedAt": "2017-10-21T10:54:03.000Z",
+  "pushedAt": "2017-10-20T18:39:36.000Z",
   "gitUrl": "git://github.com/joaogarin/angular-electron.git",
   "sshUrl": "git@github.com:joaogarin/angular-electron.git",
   "cloneUrl": "https://github.com/joaogarin/angular-electron.git",
   "svnUrl": "https://github.com/joaogarin/angular-electron",
   "homepage": "",
-  "size": 413,
-  "stargazersCount": 109,
-  "watchersCount": 109,
+  "size": 515,
+  "stargazersCount": 157,
+  "watchersCount": 157,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 39,
+  "forksCount": 59,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 109,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 157,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 39,
-  "subscribersCount": 14,
+  "networkCount": 59,
+  "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
     "name": "angular2-electron",
@@ -81,15 +81,8 @@
       "webpack-test": "webpack --config webpack.test.js --progress --profile",
       "test": "karma start"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joaogarin/angular2-electron.git"
-    },
-    "author": "joaogarin <github@joaogarin.com>",
+    "repository": "https://github.com/joaogarin/angular2-electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/joaogarin/angular2-electron/issues"
-    },
     "homepage": "",
     "dependencies": {
       "@angular/animations": "^4.0.3",
@@ -166,6 +159,12 @@
     "engines": {
       "node": ">= 4.2.1 <= 6",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "joaogarin <github@joaogarin.com>",
+      "bugs": {
+        "url": "https://github.com/joaogarin/angular2-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -193,6 +192,7 @@
   },
   "filename": "joaogarin___angular2-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:52:57.432Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:12.760Z"
+  "lastFetchedAt": "2017-10-23T17:07:40.161Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:12.760Z",
+  "archived": false
 }

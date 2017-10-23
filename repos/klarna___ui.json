@@ -6,7 +6,7 @@
   "owner": {
     "login": "klarna",
     "id": 394540,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/394540?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/394540?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/klarna",
     "htmlUrl": "https://github.com/klarna",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/klarna/ui/downloads",
   "deploymentsUrl": "https://api.github.com/repos/klarna/ui/deployments",
   "createdAt": "2016-07-13T14:54:58.000Z",
-  "updatedAt": "2017-04-26T13:11:42.000Z",
-  "pushedAt": "2017-05-04T16:30:34.000Z",
+  "updatedAt": "2017-10-04T15:18:47.000Z",
+  "pushedAt": "2017-10-23T16:06:21.000Z",
   "gitUrl": "git://github.com/klarna/ui.git",
   "sshUrl": "git@github.com:klarna/ui.git",
   "cloneUrl": "https://github.com/klarna/ui.git",
   "svnUrl": "https://github.com/klarna/ui",
   "homepage": "https://klarna.github.io/ui/",
-  "size": 5523,
-  "stargazersCount": 52,
-  "watchersCount": 52,
+  "size": 6204,
+  "stargazersCount": 83,
+  "watchersCount": 83,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 6,
+  "forksCount": 12,
   "mirrorUrl": null,
-  "openIssuesCount": 47,
-  "openIssues": 47,
-  "watchers": 52,
+  "openIssuesCount": 41,
+  "openIssues": 41,
+  "watchers": 83,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "klarna",
     "id": 394540,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/394540?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/394540?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/klarna",
     "htmlUrl": "https://github.com/klarna",
@@ -84,18 +84,15 @@
     "receivedEventsUrl": "https://api.github.com/users/klarna/received_events",
     "type": "Organization"
   },
-  "networkCount": 6,
-  "subscribersCount": 43,
+  "networkCount": 12,
+  "subscribersCount": 67,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:04:00.538Z",
+  "lastFetchedAt": "2017-10-23T20:44:10.811Z",
   "packageJSON": {
     "name": "@klarna/ui",
     "version": "6.22.6",
     "description": "Klarna's UI Components",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/klarna/ui"
-    },
+    "repository": "https://github.com/klarna/ui",
     "license": "SEE LICENSE IN LICENSE",
     "main": "index-built.js",
     "scripts": {
@@ -107,7 +104,6 @@
       "test:watch": "npm test -- --watch",
       "prepublish": "npm run build"
     },
-    "author": "Klarna front end people",
     "dependencies": {
       "@klarna/higher-order-components": "0.6.0",
       "classnames": "2.2.5",
@@ -189,8 +185,12 @@
         "it"
       ],
       "parser": "babel-eslint"
+    },
+    "other": {
+      "author": "Klarna front end people"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:51:09.389Z"
+  "packageLastFetchedAt": "2017-05-05T14:51:09.389Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "jefffriesen",
     "id": 445733,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/445733?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/445733?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jefffriesen",
     "htmlUrl": "https://github.com/jefffriesen",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/jefffriesen/neutrino-electron-reference/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jefffriesen/neutrino-electron-reference/deployments",
   "createdAt": "2017-03-11T23:56:03.000Z",
-  "updatedAt": "2017-03-24T16:30:10.000Z",
+  "updatedAt": "2017-05-26T15:51:25.000Z",
   "pushedAt": "2017-03-25T02:26:24.000Z",
   "gitUrl": "git://github.com/jefffriesen/neutrino-electron-reference.git",
   "sshUrl": "git@github.com:jefffriesen/neutrino-electron-reference.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/jefffriesen/neutrino-electron-reference",
   "homepage": null,
   "size": 152,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,15 +73,12 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T18:15:09.910Z",
+  "lastFetchedAt": "2017-10-23T18:15:12.877Z",
   "packageJSON": {
     "name": "neutrino-electron-reference",
     "description": "A reference implementation for neutrino with Electron, React, linting, type checking & decorators",
     "version": "0.1.0",
     "license": "MIT",
-    "author": {
-      "name": "Jeff Friesen <momoblackblack@gmail.com>"
-    },
     "scripts": {
       "start": "neutrino start",
       "start-electron": "neutrino build && electron .",
@@ -139,8 +136,14 @@
           ]
         }
       }
+    },
+    "other": {
+      "author": {
+        "name": "Jeff Friesen <momoblackblack@gmail.com>"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:22:49.087Z"
+  "packageLastFetchedAt": "2017-05-04T22:22:49.087Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "fuchao2012",
     "id": 5637185,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5637185?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5637185?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fuchao2012",
     "htmlUrl": "https://github.com/fuchao2012",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/fuchao2012/zh-cn-Electron-API-Demos/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fuchao2012/zh-cn-Electron-API-Demos/deployments",
   "createdAt": "2016-09-14T03:29:20.000Z",
-  "updatedAt": "2017-04-29T03:47:01.000Z",
+  "updatedAt": "2017-10-23T17:35:27.000Z",
   "pushedAt": "2016-09-25T03:32:14.000Z",
   "gitUrl": "git://github.com/fuchao2012/zh-cn-Electron-API-Demos.git",
   "sshUrl": "git@github.com:fuchao2012/zh-cn-Electron-API-Demos.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/fuchao2012/zh-cn-Electron-API-Demos",
   "homepage": "",
   "size": 4751,
-  "stargazersCount": 34,
-  "watchersCount": 34,
+  "stargazersCount": 57,
+  "watchersCount": 57,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
+  "forksCount": 17,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 34,
+  "watchers": 57,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 11,
+  "networkCount": 17,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -95,20 +95,13 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-api-demos.git"
-    },
+    "repository": "https://github.com/electron/electron-api-demos",
     "keywords": [
       "Electron",
       "API",
       "demo"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-api-demos/issues"
-    },
     "homepage": "https://github.com/electron/electron-api-demos#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -134,6 +127,12 @@
     "standard": {
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-api-demos/issues"
       }
     }
   },
@@ -163,6 +162,7 @@
   "filename": "fuchao2012___zh-cn-Electron-API-Demos.json",
   "sourceRepo": "electron/electron-api-demos",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:05.666Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:35.559Z"
+  "lastFetchedAt": "2017-10-23T18:44:48.039Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:35.559Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "imanel",
     "id": 36869,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/36869?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/36869?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/imanel",
     "htmlUrl": "https://github.com/imanel",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/imanel/deezplayer/downloads",
   "deploymentsUrl": "https://api.github.com/repos/imanel/deezplayer/deployments",
   "createdAt": "2012-06-19T19:15:17.000Z",
-  "updatedAt": "2017-02-23T09:25:31.000Z",
-  "pushedAt": "2016-10-03T08:19:44.000Z",
+  "updatedAt": "2017-10-14T13:57:53.000Z",
+  "pushedAt": "2017-06-02T07:56:10.000Z",
   "gitUrl": "git://github.com/imanel/deezplayer.git",
   "sshUrl": "git@github.com:imanel/deezplayer.git",
   "cloneUrl": "https://github.com/imanel/deezplayer.git",
   "svnUrl": "https://github.com/imanel/deezplayer",
   "homepage": "https://deezplayer.imanel.org",
-  "size": 42548,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "size": 42567,
+  "stargazersCount": 28,
+  "watchersCount": 28,
   "language": "CoffeeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": true,
-  "forksCount": 8,
+  "forksCount": 9,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 21,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 28,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,19 +62,15 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 8,
+  "networkCount": 9,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "DeezPlayer",
     "description": "Best way to experience Deezer",
-    "author": "Bernard Potocki <bernard.potocki@imanel.org>",
     "homepage": "https://deezplayer.imanel.org",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/imanel/DeezPlayer.git"
-    },
+    "repository": "https://github.com/imanel/DeezPlayer",
     "scripts": {
       "start": "electron ./app --enable-logging",
       "build": "npm run build-linux && npm run build-mac && npm run build-windows",
@@ -105,6 +101,9 @@
       "win": {
         "target": "nsis"
       }
+    },
+    "other": {
+      "author": "Bernard Potocki <bernard.potocki@imanel.org>"
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "imanel___deezplayer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:07.362Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:52.721Z"
+  "lastFetchedAt": "2017-10-23T19:12:55.054Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:52.721Z",
+  "archived": false
 }

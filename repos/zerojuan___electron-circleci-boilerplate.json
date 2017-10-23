@@ -5,7 +5,7 @@
   "owner": {
     "login": "zerojuan",
     "id": 136360,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/136360?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/136360?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zerojuan",
     "htmlUrl": "https://github.com/zerojuan",
@@ -60,10 +60,7 @@
       "test": "node test",
       "test-ci": "node test | tap-xunit"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zerojuan/electron-circleci-boilerplate.git"
-    },
+    "repository": "https://github.com/zerojuan/electron-circleci-boilerplate",
     "keywords": [
       "Electron",
       "quick",
@@ -89,7 +86,6 @@
         ]
       }
     },
-    "author": "JuliusThePious <me@juliuscebreros.com>",
     "devDependencies": {
       "electron-builder": "^3.6.1",
       "electron-debug": "^0.7.0",
@@ -102,6 +98,9 @@
       "electron-is-dev": "^0.1.0",
       "express": "^4.13.4",
       "nslog": "^3.0.0"
+    },
+    "other": {
+      "author": "JuliusThePious <me@juliuscebreros.com>"
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "svnUrl": "https://github.com/zerojuan/electron-circleci-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:02:48.721Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:30.809Z"
+  "lastFetchedAt": "2017-10-23T17:46:53.755Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:30.809Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "tropy",
     "id": 12413946,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12413946?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12413946?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tropy",
     "htmlUrl": "https://github.com/tropy",
@@ -20,21 +20,21 @@
   "description": "Research photo management",
   "fork": false,
   "createdAt": "2015-11-03T21:29:09.000Z",
-  "updatedAt": "2017-05-03T16:45:04.000Z",
-  "pushedAt": "2017-05-04T16:16:04.000Z",
+  "updatedAt": "2017-10-22T23:17:47.000Z",
+  "pushedAt": "2017-10-23T14:10:57.000Z",
   "homepage": "https://tropy.org",
-  "size": 61617,
-  "stargazersCount": 33,
-  "watchersCount": 33,
+  "size": 59636,
+  "stargazersCount": 51,
+  "watchersCount": 51,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
-  "openIssuesCount": 13,
-  "openIssues": 13,
-  "watchers": 33,
+  "forksCount": 5,
+  "openIssuesCount": 58,
+  "openIssues": 58,
+  "watchers": 51,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,16 +42,16 @@
     "pull": true
   },
   "license": {
-    "key": "agpl-3.0",
-    "name": "GNU Affero General Public License v3.0",
-    "spdxId": "AGPL-3.0",
-    "url": "https://api.github.com/licenses/agpl-3.0",
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
     "featured": false
   },
   "organization": {
     "login": "tropy",
     "id": 12413946,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12413946?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12413946?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tropy",
     "htmlUrl": "https://github.com/tropy",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/tropy/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
+  "networkCount": 5,
   "subscribersCount": 12,
   "status": 200,
   "packageJSON": {
@@ -73,22 +73,8 @@
     "description": "Tropy is your friendly neighbourhood research assistant.",
     "license": "AGPL-3.0",
     "homepage": "https://github.com/tropy/tropy#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tropy/tropy.git"
-    },
-    "bugs": {
-      "url": "https://github.com/tropy/tropy/issues"
-    },
+    "repository": "https://github.com/tropy/tropy",
     "keywords": [],
-    "author": {
-      "name": "Center for History and New Media, George Mason University",
-      "url": "https://chnm.gmu.edu"
-    },
-    "contributors": [
-      "Sylvester Keil <sylvester@keil.or.at>",
-      "Johannes Krtek <johannes.krtek@flachware.com>"
-    ],
     "engines": {
       "node": ">=7"
     },
@@ -183,6 +169,19 @@
       "winston": "^2.1.1",
       "write-file-atomic": "^2.0.0",
       "yargs": "^8.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "Center for History and New Media, George Mason University",
+        "url": "https://chnm.gmu.edu"
+      },
+      "bugs": {
+        "url": "https://github.com/tropy/tropy/issues"
+      },
+      "contributors": [
+        "Sylvester Keil <sylvester@keil.or.at>",
+        "Johannes Krtek <johannes.krtek@flachware.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -230,6 +229,7 @@
   "svnUrl": "https://github.com/tropy/tropy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:46:07.801Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:08.397Z"
+  "lastFetchedAt": "2017-10-23T17:46:23.951Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:08.397Z",
+  "archived": false
 }

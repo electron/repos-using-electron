@@ -5,7 +5,7 @@
   "owner": {
     "login": "seanbuscay",
     "id": 830242,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/830242?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/830242?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/seanbuscay",
     "htmlUrl": "https://github.com/seanbuscay",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/seanbuscay/electron-drupal/downloads",
   "deploymentsUrl": "https://api.github.com/repos/seanbuscay/electron-drupal/deployments",
   "createdAt": "2016-11-10T02:04:25.000Z",
-  "updatedAt": "2017-04-30T00:39:39.000Z",
+  "updatedAt": "2017-09-25T13:43:01.000Z",
   "pushedAt": "2016-11-15T02:50:40.000Z",
   "gitUrl": "git://github.com/seanbuscay/electron-drupal.git",
   "sshUrl": "git@github.com:seanbuscay/electron-drupal.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/seanbuscay/electron-drupal",
   "homepage": null,
   "size": 3635,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 3,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "networkCount": 2,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-drupal",
@@ -85,19 +85,12 @@
       "wipe": "bash scripts/wipe.sh",
       "wipe-all": "npm run wipe; sudo rm -R -f web_*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/seanbuscay/electron-drupal.git"
-    },
-    "bugs": {
-      "url": "https://github.com/seanbuscay/electron-drupal/issues"
-    },
+    "repository": "https://github.com/seanbuscay/electron-drupal",
     "keywords": [
       "Electron",
       "Drupal",
       "php"
     ],
-    "author": "Sean Buscay",
     "license": "MIT",
     "homepage": "http://seanbuscay.com",
     "devDependencies": {
@@ -108,6 +101,12 @@
       "devtron": "^1.4.0",
       "debug-menu": "^0.4.0",
       "electron-log": "^1.2.2"
+    },
+    "other": {
+      "author": "Sean Buscay",
+      "bugs": {
+        "url": "https://github.com/seanbuscay/electron-drupal/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "seanbuscay___electron-drupal.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:47.915Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:41.946Z"
+  "lastFetchedAt": "2017-10-23T19:09:00.649Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:41.946Z",
+  "archived": false
 }

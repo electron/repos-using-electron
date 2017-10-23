@@ -5,7 +5,7 @@
   "owner": {
     "login": "Grimeh",
     "id": 1988562,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1988562?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1988562?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Grimeh",
     "htmlUrl": "https://github.com/Grimeh",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 6,
   "openIssues": 6,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -80,15 +80,8 @@
       "do": "node build/main.js",
       "start": "grunt && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Grimeh/waller.git"
-    },
-    "author": "Brandon Grimshaw <br@ndon.com.au>",
+    "repository": "https://github.com/Grimeh/waller",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Grimeh/waller/issues"
-    },
     "homepage": "https://github.com/Grimeh/waller#readme",
     "devDependencies": {
       "electron": "^1.4.4",
@@ -102,6 +95,12 @@
       "async": "^2.1.2",
       "jquery": "^3.1.1",
       "request": "^2.60.0"
+    },
+    "other": {
+      "author": "Brandon Grimshaw <br@ndon.com.au>",
+      "bugs": {
+        "url": "https://github.com/Grimeh/waller/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "Grimeh___waller.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:45:39.038Z",
-  "packageLastFetchedAt": "2017-05-04T22:45:17.246Z"
+  "lastFetchedAt": "2017-10-23T20:54:58.048Z",
+  "packageLastFetchedAt": "2017-05-04T22:45:17.246Z",
+  "archived": false
 }

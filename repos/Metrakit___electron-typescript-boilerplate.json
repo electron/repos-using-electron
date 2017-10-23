@@ -6,7 +6,7 @@
   "owner": {
     "login": "Metrakit",
     "id": 3305600,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3305600?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3305600?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Metrakit",
     "htmlUrl": "https://github.com/Metrakit",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:43:00.165Z",
+  "lastFetchedAt": "2017-10-23T18:46:41.253Z",
   "packageJSON": {
     "name": "electron-typescript-boilerplate",
     "version": "0.0.1",
@@ -82,15 +82,8 @@
       "package-linux": "cross-env ELECTRON_ENV=production && gulp build && electron-packager . --platform=linux --prune --overwrite --out=package --icon=resources/icon.ico",
       "package-windows": "cross-env ELECTRON_ENV=production && gulp build && electron-packager . --platform=win32 --prune --overwrite --out=package --icon=resources/icon.ico"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/metrakit/electron-typescript-boilerplate.git"
-    },
-    "author": "Metrakit",
+    "repository": "https://github.com/metrakit/electron-typescript-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/metrakit/electron-typescript-boilerplate/issues"
-    },
     "homepage": "https://github.com/metrakit/electron-typescript-boilerplate#readme",
     "devDependencies": {
       "@types/electron": "^1.4.35",
@@ -106,8 +99,15 @@
     "dependencies": {
       "electron-connect": "^0.6.1",
       "electron-debug": "^1.1.0"
+    },
+    "other": {
+      "author": "Metrakit",
+      "bugs": {
+        "url": "https://github.com/metrakit/electron-typescript-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:36:54.190Z"
+  "packageLastFetchedAt": "2017-05-04T22:36:54.190Z",
+  "archived": false
 }

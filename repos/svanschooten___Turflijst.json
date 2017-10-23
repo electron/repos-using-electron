@@ -5,7 +5,7 @@
   "owner": {
     "login": "svanschooten",
     "id": 3600842,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3600842?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3600842?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/svanschooten",
     "htmlUrl": "https://github.com/svanschooten",
@@ -59,14 +59,10 @@
     "scripts": {
       "start": "node app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@git.swagmentationfault.com:svanschooten/turflijst.git"
-    },
+    "repository": "https://github.com/svanschooten/turflijst",
     "keywords": [
       "turflijst"
     ],
-    "author": "Stijn van Schooten",
     "license": "GPL",
     "dependencies": {
       "body-parser": "^1.12.3",
@@ -84,6 +80,9 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.26.0"
+    },
+    "other": {
+      "author": "Stijn van Schooten"
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "svnUrl": "https://github.com/svanschooten/Turflijst",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:57:36.556Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:54.220Z"
+  "lastFetchedAt": "2017-10-23T18:04:16.732Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:54.220Z",
+  "archived": false
 }

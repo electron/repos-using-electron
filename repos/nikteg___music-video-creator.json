@@ -5,7 +5,7 @@
   "owner": {
     "login": "nikteg",
     "id": 2521318,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2521318?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2521318?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nikteg",
     "htmlUrl": "https://github.com/nikteg",
@@ -80,21 +80,14 @@
       "start": "electron main.js",
       "package": "electron-packager . --all --overwrite --out out/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
@@ -103,6 +96,12 @@
     "dependencies": {
       "jquery": "^2.2.3",
       "slice-file": "^1.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "nikteg___music-video-creator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:36:00.369Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:12.346Z"
+  "lastFetchedAt": "2017-10-23T18:40:06.573Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:12.346Z",
+  "archived": false
 }

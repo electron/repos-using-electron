@@ -5,7 +5,7 @@
   "owner": {
     "login": "mgeduld",
     "id": 440971,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/440971?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/440971?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mgeduld",
     "htmlUrl": "https://github.com/mgeduld",
@@ -97,19 +97,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mgeduld/playmaker.git"
-    },
-    "author": {
-      "name": "Marcus Geduld",
-      "email": "mgeduld@gmail.com",
-      "url": "http://www.marcusgeduld.com"
-    },
+    "repository": "https://github.com/mgeduld/playmaker",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mgeduld/playmaker/issues"
-    },
     "keywords": [
       "theatre",
       "drama",
@@ -200,6 +189,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Marcus Geduld",
+        "email": "mgeduld@gmail.com",
+        "url": "http://www.marcusgeduld.com"
+      },
+      "bugs": {
+        "url": "https://github.com/mgeduld/playmaker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -227,6 +226,7 @@
   },
   "filename": "mgeduld___playmaker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:54.499Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:56.919Z"
+  "lastFetchedAt": "2017-10-23T19:21:51.976Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:56.919Z",
+  "archived": false
 }

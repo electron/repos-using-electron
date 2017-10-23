@@ -5,7 +5,7 @@
   "owner": {
     "login": "terakilobyte",
     "id": 1911390,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1911390?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1911390?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/terakilobyte",
     "htmlUrl": "https://github.com/terakilobyte",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electron-react-boilerplate",
@@ -132,26 +132,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -240,6 +225,20 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -267,6 +266,7 @@
   },
   "filename": "terakilobyte___free-code-camp-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:40.965Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:13.950Z"
+  "lastFetchedAt": "2017-10-23T20:15:42.865Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:13.950Z",
+  "archived": false
 }

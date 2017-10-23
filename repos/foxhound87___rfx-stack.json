@@ -5,7 +5,7 @@
   "owner": {
     "login": "foxhound87",
     "id": 1292494,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1292494?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1292494?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/foxhound87",
     "htmlUrl": "https://github.com/foxhound87",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/foxhound87/rfx-stack/downloads",
   "deploymentsUrl": "https://api.github.com/repos/foxhound87/rfx-stack/deployments",
   "createdAt": "2016-03-24T13:30:04.000Z",
-  "updatedAt": "2017-05-02T06:28:00.000Z",
-  "pushedAt": "2017-04-14T11:40:19.000Z",
+  "updatedAt": "2017-10-20T09:05:05.000Z",
+  "pushedAt": "2017-10-23T16:55:18.000Z",
   "gitUrl": "git://github.com/foxhound87/rfx-stack.git",
   "sshUrl": "git@github.com:foxhound87/rfx-stack.git",
   "cloneUrl": "https://github.com/foxhound87/rfx-stack.git",
   "svnUrl": "https://github.com/foxhound87/rfx-stack",
   "homepage": "",
-  "size": 4064,
-  "stargazersCount": 343,
-  "watchersCount": 343,
+  "size": 4067,
+  "stargazersCount": 388,
+  "watchersCount": 388,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 36,
+  "forksCount": 38,
   "mirrorUrl": null,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 343,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 388,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,19 +68,15 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 36,
-  "subscribersCount": 29,
+  "networkCount": 38,
+  "subscribersCount": 32,
   "status": 200,
   "packageJSON": {
     "name": "rfx-stack",
     "version": "0.8.0-alpha.8",
     "license": "MIT",
     "description": "RFX Stack - Universal App featuring: React + Feathers + MobX",
-    "author": "Claudio Savino <claudio.savino@me.com> (https://twitter.com/foxhound87)",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/foxhound87/rfx-stack.git"
-    },
+    "repository": "https://github.com/foxhound87/rfx-stack",
     "scripts": {
       "lint": "eslint . --ext .jsx,.js --ignore-path .gitignore",
       "clean:build": "rm -rf ./public/build && rm -rf ./run/build",
@@ -212,6 +208,9 @@
       "webpack-merge": "2.3.1",
       "webpack-node-externals": "1.5.4",
       "whatwg-fetch": "2.0.1"
+    },
+    "other": {
+      "author": "Claudio Savino <claudio.savino@me.com> (https://twitter.com/foxhound87)"
     }
   },
   "packageStatus": 200,
@@ -239,6 +238,7 @@
   },
   "filename": "foxhound87___rfx-stack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:44.833Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:44.971Z"
+  "lastFetchedAt": "2017-10-23T19:19:19.768Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:44.971Z",
+  "archived": false
 }

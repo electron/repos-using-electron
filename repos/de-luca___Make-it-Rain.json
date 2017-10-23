@@ -5,7 +5,7 @@
   "owner": {
     "login": "de-luca",
     "id": 5390487,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5390487?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5390487?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/de-luca",
     "htmlUrl": "https://github.com/de-luca",
@@ -78,15 +78,7 @@
     "description": "A simple money manager for simple people",
     "license": "BSD-2-Clause",
     "main": "./main.js",
-    "author": {
-      "name": "de-luca",
-      "email": "dev@de-luca.io",
-      "url": "de-luca.io"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/de-luca/Make-it-Rain.git"
-    },
+    "repository": "https://github.com/de-luca/Make-it-Rain",
     "config": {
       "flags": "--prune --asar --overwrite",
       "version": "--version=0.36.9 --app-bundle-id=io.de-luca.make-it-rain"
@@ -127,6 +119,13 @@
     "devDependencies": {
       "electron-prebuilt": "^0.36.9",
       "electron-packager": "^5.2.0"
+    },
+    "other": {
+      "author": {
+        "name": "de-luca",
+        "email": "dev@de-luca.io",
+        "url": "de-luca.io"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "de-luca___Make-it-Rain.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:53.750Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:26.675Z"
+  "lastFetchedAt": "2017-10-23T17:04:14.578Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:26.675Z",
+  "archived": false
 }

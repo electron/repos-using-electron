@@ -5,7 +5,7 @@
   "owner": {
     "login": "UnexpectedSoftware",
     "id": 10903404,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10903404?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10903404?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/UnexpectedSoftware",
     "htmlUrl": "https://github.com/UnexpectedSoftware",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/UnexpectedSoftware/openMarket/downloads",
   "deploymentsUrl": "https://api.github.com/repos/UnexpectedSoftware/openMarket/deployments",
   "createdAt": "2016-05-04T20:06:10.000Z",
-  "updatedAt": "2017-03-31T21:29:51.000Z",
-  "pushedAt": "2017-04-18T19:24:43.000Z",
+  "updatedAt": "2017-09-28T15:52:29.000Z",
+  "pushedAt": "2017-10-22T11:21:58.000Z",
   "gitUrl": "git://github.com/UnexpectedSoftware/openMarket.git",
   "sshUrl": "git@github.com:UnexpectedSoftware/openMarket.git",
   "cloneUrl": "https://github.com/UnexpectedSoftware/openMarket.git",
   "svnUrl": "https://github.com/UnexpectedSoftware/openMarket",
   "homepage": null,
-  "size": 4102,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 4319,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "UnexpectedSoftware",
     "id": 10903404,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10903404?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10903404?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/UnexpectedSoftware",
     "htmlUrl": "https://github.com/UnexpectedSoftware",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 6,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "OpenMarket",
@@ -153,28 +153,17 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/UnexpectedSoftware/openMarket.git"
-    },
+    "repository": "https://github.com/UnexpectedSoftware/openMarket",
     "keywords": [
       "market",
       "stocks",
       "desktop",
       "electron"
     ],
-    "author": "Victor Caldentey",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/UnexpectedSoftware/openMarket/issues"
-    },
     "homepage": "http://www.unexpectedsoftware.com/",
     "devDependencies": {
       "asar": "^0.13.0",
@@ -265,6 +254,16 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": "Victor Caldentey",
+      "bugs": {
+        "url": "https://github.com/UnexpectedSoftware/openMarket/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -292,6 +291,7 @@
   },
   "filename": "UnexpectedSoftware___openMarket.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:37:01.906Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:55.559Z"
+  "lastFetchedAt": "2017-10-23T17:38:41.917Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:55.559Z",
+  "archived": false
 }

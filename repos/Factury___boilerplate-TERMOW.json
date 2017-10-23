@@ -6,7 +6,7 @@
   "owner": {
     "login": "Factury",
     "id": 27849086,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/27849086?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/27849086?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Factury",
     "htmlUrl": "https://github.com/Factury",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/Factury/boilerplate-TERMOW/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Factury/boilerplate-TERMOW/deployments",
   "createdAt": "2017-04-21T08:06:00.000Z",
-  "updatedAt": "2017-04-21T19:25:57.000Z",
+  "updatedAt": "2017-06-02T17:51:53.000Z",
   "pushedAt": "2017-04-21T08:20:18.000Z",
   "gitUrl": "git://github.com/Factury/boilerplate-TERMOW.git",
   "sshUrl": "git@github.com:Factury/boilerplate-TERMOW.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/Factury/boilerplate-TERMOW",
   "homepage": null,
   "size": 71,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "TypeScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "Factury",
     "id": 27849086,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/27849086?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/27849086?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Factury",
     "htmlUrl": "https://github.com/Factury",
@@ -87,7 +87,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:11:24.430Z",
+  "lastFetchedAt": "2017-10-23T18:43:05.009Z",
   "packageJSON": {
     "name": "supernova",
     "version": "0.0.1",
@@ -101,7 +101,6 @@
       "dev": "concurrently -k -n RENDERER,MAIN -p [{name}] 'npm run dev-renderer' 'npm run dev-main'"
     },
     "repository": "git@github.com:Black-Monolith/SuperNova",
-    "author": "Chris Feijoo <christophe@feijoo.fr>",
     "license": "MIT",
     "dependencies": {
       "csstips": "^0.0.3",
@@ -139,8 +138,12 @@
       "typescript": "^2.2.1",
       "webpack": "2.2.0",
       "webpack-merge": "^2.5.0"
+    },
+    "other": {
+      "author": "Chris Feijoo <christophe@feijoo.fr>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:37:49.488Z"
+  "packageLastFetchedAt": "2017-05-05T14:37:49.488Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "DeDop",
     "id": 15212003,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15212003?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15212003?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DeDop",
     "htmlUrl": "https://github.com/DeDop",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/DeDop/dedop-studio/deployments",
   "createdAt": "2016-11-03T10:11:47.000Z",
   "updatedAt": "2017-03-02T09:28:40.000Z",
-  "pushedAt": "2017-04-12T10:52:50.000Z",
+  "pushedAt": "2017-10-23T15:12:03.000Z",
   "gitUrl": "git://github.com/DeDop/dedop-studio.git",
   "sshUrl": "git@github.com:DeDop/dedop-studio.git",
   "cloneUrl": "https://github.com/DeDop/dedop-studio.git",
   "svnUrl": "https://github.com/DeDop/dedop-studio",
   "homepage": null,
-  "size": 1020,
+  "size": 1103,
   "stargazersCount": 3,
   "watchersCount": 3,
   "language": "TypeScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 5,
+  "openIssues": 5,
   "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
@@ -71,7 +71,7 @@
   "organization": {
     "login": "DeDop",
     "id": 15212003,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15212003?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15212003?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DeDop",
     "htmlUrl": "https://github.com/DeDop",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 4,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "dedop-studio",
@@ -104,10 +104,7 @@
       "clean": "rimraf app/main app/renderer",
       "clean:all": "npm run clean && rimraf node_modules app/node_modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/DeDop/dedop-studio"
-    },
+    "repository": "https://github.com/DeDop/dedop-studio",
     "keywords": [
       "dedop",
       "studio",
@@ -115,11 +112,7 @@
       "doppler",
       "altimetry"
     ],
-    "author": "Brockmann Consult GmbH",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DeDop/dedop-studio/issues"
-    },
     "homepage": "http://dedop.org/",
     "devDependencies": {
       "@blueprintjs/core": "~1.13.0",
@@ -192,6 +185,12 @@
         "title": "${name}-${version}",
         "icon": "app/resources/darwin/dedop.icns"
       }
+    },
+    "other": {
+      "author": "Brockmann Consult GmbH",
+      "bugs": {
+        "url": "https://github.com/DeDop/dedop-studio/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -219,6 +218,7 @@
   },
   "filename": "DeDop___dedop-studio.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:35.207Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:43.847Z"
+  "lastFetchedAt": "2017-10-23T17:19:50.843Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:43.847Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "tinderjs",
     "id": 17691195,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17691195?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17691195?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tinderjs",
     "htmlUrl": "https://github.com/tinderjs",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/tinderjs/tinder-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/tinderjs/tinder-desktop/deployments",
   "createdAt": "2016-03-06T20:26:28.000Z",
-  "updatedAt": "2017-05-01T20:11:26.000Z",
+  "updatedAt": "2017-10-14T13:59:02.000Z",
   "pushedAt": "2017-04-11T23:20:04.000Z",
   "gitUrl": "git://github.com/tinderjs/tinder-desktop.git",
   "sshUrl": "git@github.com:tinderjs/tinder-desktop.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/tinderjs/tinder-desktop",
   "homepage": "https://tinderjsblog.herokuapp.com/",
   "size": 76921,
-  "stargazersCount": 82,
-  "watchersCount": 82,
+  "stargazersCount": 89,
+  "watchersCount": 89,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 28,
   "mirrorUrl": null,
-  "openIssuesCount": 41,
-  "openIssues": 41,
-  "watchers": 82,
+  "openIssuesCount": 43,
+  "openIssues": 43,
+  "watchers": 89,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "tinderjs",
     "id": 17691195,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17691195?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17691195?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tinderjs",
     "htmlUrl": "https://github.com/tinderjs",
@@ -77,7 +77,7 @@
     "type": "Organization"
   },
   "networkCount": 28,
-  "subscribersCount": 6,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "tinder-desktop",
@@ -87,29 +87,8 @@
     "scripts": {
       "postinstall": "cd desktop-app && npm install"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tinderjs/tinder-desktop.git"
-    },
-    "author": "tinderjs",
-    "contributors": [
-      {
-        "name": "Kyle Powers (@mfkp)",
-        "url": "http://kylepowers.com"
-      },
-      {
-        "name": "Thomas Schneider",
-        "url": "http://thomasschneider.com"
-      },
-      {
-        "name": "wbyoko",
-        "url": "https://github.com/wbyoko"
-      }
-    ],
+    "repository": "https://github.com/tinderjs/tinder-desktop",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/tinderjs/tinder-desktop/issues"
-    },
     "homepage": "https://github.com/tinderjs/tinder-desktop",
     "devDependencies": {
       "electron-packager": "~7.0.0",
@@ -125,6 +104,26 @@
     },
     "optionalDependencies": {
       "gulp-appdmg": "^1.0.2"
+    },
+    "other": {
+      "author": "tinderjs",
+      "bugs": {
+        "url": "https://github.com/tinderjs/tinder-desktop/issues"
+      },
+      "contributors": [
+        {
+          "name": "Kyle Powers (@mfkp)",
+          "url": "http://kylepowers.com"
+        },
+        {
+          "name": "Thomas Schneider",
+          "url": "http://thomasschneider.com"
+        },
+        {
+          "name": "wbyoko",
+          "url": "https://github.com/wbyoko"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   },
   "filename": "tinderjs___tinder-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:31.047Z",
-  "packageLastFetchedAt": "2017-05-05T14:47:43.771Z"
+  "lastFetchedAt": "2017-10-23T18:54:28.071Z",
+  "packageLastFetchedAt": "2017-05-05T14:47:43.771Z",
+  "archived": false
 }

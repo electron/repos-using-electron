@@ -5,7 +5,7 @@
   "owner": {
     "login": "thomastweets",
     "id": 2376790,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2376790?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2376790?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thomastweets",
     "htmlUrl": "https://github.com/thomastweets",
@@ -84,8 +84,10 @@
       "build": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
     },
-    "author": "Thomas Emmerling",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Thomas Emmerling"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +114,7 @@
   },
   "filename": "thomastweets___SMCmon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:07.461Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:55.731Z"
+  "lastFetchedAt": "2017-10-23T17:12:42.188Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:55.731Z",
+  "archived": false
 }

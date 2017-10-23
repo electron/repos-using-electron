@@ -5,7 +5,7 @@
   "owner": {
     "login": "MediaBrowser",
     "id": 3607473,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3607473?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3607473?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MediaBrowser",
     "htmlUrl": "https://github.com/MediaBrowser",
@@ -20,21 +20,21 @@
   "description": "An Electron app for Emby",
   "fork": false,
   "createdAt": "2015-11-21T17:15:17.000Z",
-  "updatedAt": "2017-04-03T22:41:14.000Z",
-  "pushedAt": "2017-05-04T04:16:52.000Z",
+  "updatedAt": "2017-09-30T06:06:48.000Z",
+  "pushedAt": "2017-10-23T03:02:35.000Z",
   "homepage": "https://emby.media",
-  "size": 273,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "size": 431,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
+  "forksCount": 16,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 9,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "MediaBrowser",
     "id": 3607473,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3607473?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3607473?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MediaBrowser",
     "htmlUrl": "https://github.com/MediaBrowser",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/MediaBrowser/received_events",
     "type": "Organization"
   },
-  "networkCount": 11,
-  "subscribersCount": 8,
+  "networkCount": 16,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "emby.theater",
@@ -74,20 +74,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MediaBrowser/Emby.Theater.Electron.git"
-    },
+    "repository": "https://github.com/MediaBrowser/Emby.Theater.Electron",
     "keywords": [
       "Electron",
       "Emby",
       "Theater"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MediaBrowser/Emby.Theater.Electron/issues"
-    },
     "homepage": "https://github.com/MediaBrowser/Emby.Theater.Electron#readme",
     "devDependencies": {
       "power-off": "^1.0.1",
@@ -102,6 +95,12 @@
       "node-mpv": "^1.0.3",
       "long": "^3.2.0",
       "is-windows": "^1.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/MediaBrowser/Emby.Theater.Electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "svnUrl": "https://github.com/MediaBrowser/emby-theater-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:40:27.984Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:18.382Z"
+  "lastFetchedAt": "2017-10-23T18:00:29.741Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:18.382Z",
+  "archived": false
 }

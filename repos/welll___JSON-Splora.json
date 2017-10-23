@@ -6,7 +6,7 @@
   "owner": {
     "login": "welll",
     "id": 1483436,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1483436?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1483436?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/welll",
     "htmlUrl": "https://github.com/welll",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "wellsjo",
       "id": 823446,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/823446?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/823446?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/wellsjo",
       "htmlUrl": "https://github.com/wellsjo",
@@ -100,7 +100,7 @@
     "downloadsUrl": "https://api.github.com/repos/wellsjo/JSON-Splora/downloads",
     "deploymentsUrl": "https://api.github.com/repos/wellsjo/JSON-Splora/deployments",
     "createdAt": "2016-10-17T23:01:45.000Z",
-    "updatedAt": "2017-04-28T09:45:04.000Z",
+    "updatedAt": "2017-10-23T14:41:59.000Z",
     "pushedAt": "2017-02-22T17:10:42.000Z",
     "gitUrl": "git://github.com/wellsjo/JSON-Splora.git",
     "sshUrl": "git@github.com:wellsjo/JSON-Splora.git",
@@ -108,19 +108,20 @@
     "svnUrl": "https://github.com/wellsjo/JSON-Splora",
     "homepage": "",
     "size": 3051,
-    "stargazersCount": 1329,
-    "watchersCount": 1329,
+    "stargazersCount": 1360,
+    "watchersCount": 1360,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 42,
+    "forksCount": 48,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 16,
     "openIssues": 16,
-    "watchers": 1329,
+    "watchers": 1360,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "wellsjo",
       "id": 823446,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/823446?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/823446?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/wellsjo",
       "htmlUrl": "https://github.com/wellsjo",
@@ -160,7 +161,7 @@
     "downloadsUrl": "https://api.github.com/repos/wellsjo/JSON-Splora/downloads",
     "deploymentsUrl": "https://api.github.com/repos/wellsjo/JSON-Splora/deployments",
     "createdAt": "2016-10-17T23:01:45.000Z",
-    "updatedAt": "2017-04-28T09:45:04.000Z",
+    "updatedAt": "2017-10-23T14:41:59.000Z",
     "pushedAt": "2017-02-22T17:10:42.000Z",
     "gitUrl": "git://github.com/wellsjo/JSON-Splora.git",
     "sshUrl": "git@github.com:wellsjo/JSON-Splora.git",
@@ -168,22 +169,23 @@
     "svnUrl": "https://github.com/wellsjo/JSON-Splora",
     "homepage": "",
     "size": 3051,
-    "stargazersCount": 1329,
-    "watchersCount": 1329,
+    "stargazersCount": 1360,
+    "watchersCount": 1360,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 42,
+    "forksCount": 48,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 16,
     "openIssues": 16,
-    "watchers": 1329,
+    "watchers": 1360,
     "defaultBranch": "master"
   },
-  "networkCount": 42,
+  "networkCount": 48,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -191,12 +193,8 @@
     "version": "0.0.5",
     "description": "GUI for editing, visualizing, and manipulating JSON data",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wellsjo/JSON-Splora.git"
-    },
+    "repository": "https://github.com/wellsjo/JSON-Splora",
     "license": "MIT",
-    "bugs": "https://github.com/wellsjo/JSON-Splora/issues",
     "bin": {
       "jsplora": "bin/jsplora"
     },
@@ -217,7 +215,6 @@
       "json",
       "json5"
     ],
-    "author": "wellsjo",
     "devDependencies": {
       "electron-packager": "^8.3.0",
       "eslint": "^3.11.1",
@@ -244,7 +241,11 @@
     },
     "pre-commit": [
       "validate"
-    ]
+    ],
+    "other": {
+      "author": "wellsjo",
+      "bugs": "https://github.com/wellsjo/JSON-Splora/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -270,6 +271,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:32:46.696Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:28.503Z"
+  "lastFetchedAt": "2017-10-23T18:11:52.607Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:28.503Z",
+  "archived": false
 }

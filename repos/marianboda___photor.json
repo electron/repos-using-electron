@@ -5,7 +5,7 @@
   "owner": {
     "login": "marianboda",
     "id": 2705719,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2705719?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2705719?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/marianboda",
     "htmlUrl": "https://github.com/marianboda",
@@ -50,10 +50,7 @@
     "version": "0.0.1",
     "description": "atom shell test",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/marianboda/atom-shell-tryout.git"
-    },
+    "repository": "https://github.com/marianboda/atom-shell-tryout",
     "scripts": {
       "test": "jest",
       "run": "./binaries/Electron.app/Contents/MacOS/Electron .",
@@ -75,7 +72,6 @@
         "node_modules/react"
       ]
     },
-    "author": "Marian Boda",
     "license": "ISC",
     "dependencies": {
       "async": "^1.4.2",
@@ -111,6 +107,9 @@
     "devDependencies": {
       "electron-rebuild": "^1.1.3",
       "xml2js": "^0.4.9"
+    },
+    "other": {
+      "author": "Marian Boda"
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   "svnUrl": "https://github.com/marianboda/photor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:07:21.766Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:15.985Z"
+  "lastFetchedAt": "2017-10-23T17:06:42.103Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:15.985Z",
+  "archived": false
 }

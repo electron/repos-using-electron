@@ -6,7 +6,7 @@
   "owner": {
     "login": "kwonoj",
     "id": 1210596,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1210596?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1210596?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kwonoj",
     "htmlUrl": "https://github.com/kwonoj",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "CharlieHess",
       "id": 1865957,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1865957?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1865957?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/CharlieHess",
       "htmlUrl": "https://github.com/CharlieHess",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/CharlieHess/electron-text-substitutions/downloads",
     "deploymentsUrl": "https://api.github.com/repos/CharlieHess/electron-text-substitutions/deployments",
     "createdAt": "2016-06-07T02:22:50.000Z",
-    "updatedAt": "2017-03-27T14:16:56.000Z",
-    "pushedAt": "2017-02-16T07:28:25.000Z",
+    "updatedAt": "2017-10-13T01:42:59.000Z",
+    "pushedAt": "2017-06-11T00:20:42.000Z",
     "gitUrl": "git://github.com/CharlieHess/electron-text-substitutions.git",
     "sshUrl": "git@github.com:CharlieHess/electron-text-substitutions.git",
     "cloneUrl": "https://github.com/CharlieHess/electron-text-substitutions.git",
     "svnUrl": "https://github.com/CharlieHess/electron-text-substitutions",
     "homepage": "",
-    "size": 82,
-    "stargazersCount": 16,
-    "watchersCount": 16,
+    "size": 88,
+    "stargazersCount": 18,
+    "watchersCount": 18,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 16,
+    "watchers": 18,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "CharlieHess",
       "id": 1865957,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1865957?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1865957?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/CharlieHess",
       "htmlUrl": "https://github.com/CharlieHess",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/CharlieHess/electron-text-substitutions/downloads",
     "deploymentsUrl": "https://api.github.com/repos/CharlieHess/electron-text-substitutions/deployments",
     "createdAt": "2016-06-07T02:22:50.000Z",
-    "updatedAt": "2017-03-27T14:16:56.000Z",
-    "pushedAt": "2017-02-16T07:28:25.000Z",
+    "updatedAt": "2017-10-13T01:42:59.000Z",
+    "pushedAt": "2017-06-11T00:20:42.000Z",
     "gitUrl": "git://github.com/CharlieHess/electron-text-substitutions.git",
     "sshUrl": "git@github.com:CharlieHess/electron-text-substitutions.git",
     "cloneUrl": "https://github.com/CharlieHess/electron-text-substitutions.git",
     "svnUrl": "https://github.com/CharlieHess/electron-text-substitutions",
     "homepage": "",
-    "size": 82,
-    "stargazersCount": 16,
-    "watchersCount": 16,
+    "size": 88,
+    "stargazersCount": 18,
+    "watchersCount": 18,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 16,
+    "watchers": 18,
     "defaultBranch": "master"
   },
-  "networkCount": 3,
+  "networkCount": 5,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -196,10 +198,7 @@
       "prepublish": "npm run compile",
       "test": "electron-mocha --renderer ./test"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/CharlieHess/electron-text-substitutions"
-    },
+    "repository": "https://github.com/CharlieHess/electron-text-substitutions",
     "os": [
       "darwin"
     ],
@@ -208,7 +207,6 @@
       "substitutions",
       "electron"
     ],
-    "author": "Charlie Hess",
     "devDependencies": {
       "babel-cli": "^6.9.0",
       "babel-eslint": "^6.0.4",
@@ -229,6 +227,9 @@
       "lodash.values": "^4.3.0",
       "rxjs": "^5.0.0-beta.12",
       "rxjs-serial-subscription": "^0.1.1"
+    },
+    "other": {
+      "author": "Charlie Hess"
     }
   },
   "packageStatus": 200,
@@ -255,6 +256,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:07.697Z",
-  "packageLastFetchedAt": "2017-05-04T22:13:24.767Z"
+  "lastFetchedAt": "2017-10-23T20:57:41.456Z",
+  "packageLastFetchedAt": "2017-05-04T22:13:24.767Z",
+  "archived": false
 }

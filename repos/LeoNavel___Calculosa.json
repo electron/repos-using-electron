@@ -5,7 +5,7 @@
   "owner": {
     "login": "LeoNavel",
     "id": 17751771,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17751771?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17751771?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LeoNavel",
     "htmlUrl": "https://github.com/LeoNavel",
@@ -84,12 +84,6 @@
       "dist": "build --platform linux --arch x64",
       "start": "electron app"
     },
-    "contributors": [
-      "Michal Bohus <zololol3@gmail.com>",
-      "Filip Conka <filip@conka.pro>",
-      "Filip Klembara <leo@navel.pro>",
-      "Lucia Tusimova <lucka.tusimova@gmail.com>"
-    ],
     "devDependencies": {
       "bower": "^1.7.9",
       "electron-builder": "^2.11.0",
@@ -102,6 +96,14 @@
     "build": {
       "app-bundle-id": "calculosa",
       "app-category-type": "productivity"
+    },
+    "other": {
+      "contributors": [
+        "Michal Bohus <zololol3@gmail.com>",
+        "Filip Conka <filip@conka.pro>",
+        "Filip Klembara <leo@navel.pro>",
+        "Lucia Tusimova <lucka.tusimova@gmail.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -129,6 +131,7 @@
   },
   "filename": "LeoNavel___Calculosa.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:27:27.377Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:25.352Z"
+  "lastFetchedAt": "2017-10-23T20:11:47.365Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:25.352Z",
+  "archived": false
 }

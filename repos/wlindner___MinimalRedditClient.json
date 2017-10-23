@@ -5,7 +5,7 @@
   "owner": {
     "login": "wlindner",
     "id": 1211390,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1211390?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1211390?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wlindner",
     "htmlUrl": "https://github.com/wlindner",
@@ -68,19 +68,8 @@
       "package": "node package.js",
       "package-all": "node package.js --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wlindner/MinimalRedditClient.git"
-    },
-    "author": {
-      "name": "William Lindner",
-      "email": "wlindner522@gmail.com",
-      "url": "https://github.com/wlindner"
-    },
+    "repository": "https://github.com/wlindner/MinimalRedditClient",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/wlindner/MinimalRedditClient/issues"
-    },
     "keywords": [
       "electron",
       "react",
@@ -136,6 +125,16 @@
       "react-router": "^0.13.3",
       "redux": "^3.0.0",
       "redux-thunk": "^1.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "William Lindner",
+        "email": "wlindner522@gmail.com",
+        "url": "https://github.com/wlindner"
+      },
+      "bugs": {
+        "url": "https://github.com/wlindner/MinimalRedditClient/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   "svnUrl": "https://github.com/wlindner/MinimalRedditClient",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:18:34.154Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:59.978Z"
+  "lastFetchedAt": "2017-10-23T20:45:58.036Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:59.978Z",
+  "archived": false
 }

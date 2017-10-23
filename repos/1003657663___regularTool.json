@@ -5,7 +5,7 @@
   "owner": {
     "login": "1003657663",
     "id": 6650078,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6650078?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6650078?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/1003657663",
     "htmlUrl": "https://github.com/1003657663",
@@ -70,7 +70,6 @@
     "version": "1.0.0",
     "description": "chao",
     "main": "main.js",
-    "author": "songchao",
     "license": "ISC",
     "devDependencies": {
       "electron-builder": "^7.24.1",
@@ -106,6 +105,9 @@
       "start": "electron .",
       "dist": "build --win --x64",
       "build": "build --win --x64"
+    },
+    "other": {
+      "author": "songchao"
     }
   },
   "packageStatus": 200,
@@ -133,6 +135,7 @@
   },
   "filename": "1003657663___regularTool.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:15.278Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:49.297Z"
+  "lastFetchedAt": "2017-10-23T17:42:44.301Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:49.297Z",
+  "archived": false
 }

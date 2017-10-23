@@ -5,7 +5,7 @@
   "owner": {
     "login": "lodestone",
     "id": 8401,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8401?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8401?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lodestone",
     "htmlUrl": "https://github.com/lodestone",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "brrd",
       "id": 7335302,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7335302?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7335302?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/brrd",
       "htmlUrl": "https://github.com/brrd",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/brrd/Abricotine/downloads",
     "deploymentsUrl": "https://api.github.com/repos/brrd/Abricotine/deployments",
     "createdAt": "2015-11-20T12:21:51.000Z",
-    "updatedAt": "2017-05-03T15:27:10.000Z",
-    "pushedAt": "2017-04-28T15:22:39.000Z",
+    "updatedAt": "2017-10-22T22:35:02.000Z",
+    "pushedAt": "2017-10-21T23:36:26.000Z",
     "gitUrl": "git://github.com/brrd/Abricotine.git",
     "sshUrl": "git@github.com:brrd/Abricotine.git",
     "cloneUrl": "https://github.com/brrd/Abricotine.git",
     "svnUrl": "https://github.com/brrd/Abricotine",
     "homepage": "http://abricotine.brrd.fr",
-    "size": 4110,
-    "stargazersCount": 1209,
-    "watchersCount": 1209,
+    "size": 4219,
+    "stargazersCount": 1333,
+    "watchersCount": 1333,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 73,
+    "forksCount": 81,
     "mirrorUrl": null,
-    "openIssuesCount": 63,
-    "openIssues": 63,
-    "watchers": 1209,
+    "archived": false,
+    "openIssuesCount": 73,
+    "openIssues": 73,
+    "watchers": 1333,
     "defaultBranch": "develop"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "brrd",
       "id": 7335302,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/7335302?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7335302?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/brrd",
       "htmlUrl": "https://github.com/brrd",
@@ -139,43 +140,38 @@
     "downloadsUrl": "https://api.github.com/repos/brrd/Abricotine/downloads",
     "deploymentsUrl": "https://api.github.com/repos/brrd/Abricotine/deployments",
     "createdAt": "2015-11-20T12:21:51.000Z",
-    "updatedAt": "2017-05-03T15:27:10.000Z",
-    "pushedAt": "2017-04-28T15:22:39.000Z",
+    "updatedAt": "2017-10-22T22:35:02.000Z",
+    "pushedAt": "2017-10-21T23:36:26.000Z",
     "gitUrl": "git://github.com/brrd/Abricotine.git",
     "sshUrl": "git@github.com:brrd/Abricotine.git",
     "cloneUrl": "https://github.com/brrd/Abricotine.git",
     "svnUrl": "https://github.com/brrd/Abricotine",
     "homepage": "http://abricotine.brrd.fr",
-    "size": 4110,
-    "stargazersCount": 1209,
-    "watchersCount": 1209,
+    "size": 4219,
+    "stargazersCount": 1333,
+    "watchersCount": 1333,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 73,
+    "forksCount": 81,
     "mirrorUrl": null,
-    "openIssuesCount": 63,
-    "openIssues": 63,
-    "watchers": 1209,
+    "archived": false,
+    "openIssuesCount": 73,
+    "openIssues": 73,
+    "watchers": 1333,
     "defaultBranch": "develop"
   },
-  "networkCount": 73,
+  "networkCount": 81,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "main": "app/index.js",
     "name": "Abricotine",
     "description": "A markdown editor for desktop",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/brrd/Abricotine"
-    },
-    "bugs": {
-      "url": "https://github.com/brrd/Abricotine/issues"
-    },
+    "repository": "https://github.com/brrd/Abricotine",
     "version": "0.3.3",
     "keywords": [
       "markdown",
@@ -187,11 +183,6 @@
       "postinstall": "electron-rebuild",
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": {
-      "name": "Thomas Brouard",
-      "email": "contact@brrd.fr",
-      "url": "http://brrd.fr"
     },
     "license": "GPL-3.0",
     "dependencies": {
@@ -228,6 +219,16 @@
     },
     "abricotine": {
       "schema": 2
+    },
+    "other": {
+      "author": {
+        "name": "Thomas Brouard",
+        "email": "contact@brrd.fr",
+        "url": "http://brrd.fr"
+      },
+      "bugs": {
+        "url": "https://github.com/brrd/Abricotine/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -276,6 +277,7 @@
   "svnUrl": "https://github.com/lodestone/Abricotine",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:14:45.593Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:18.198Z"
+  "lastFetchedAt": "2017-10-23T20:35:11.950Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:18.198Z",
+  "archived": false
 }

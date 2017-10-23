@@ -5,7 +5,7 @@
   "owner": {
     "login": "ccheever",
     "id": 56719,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/56719?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/56719?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ccheever",
     "htmlUrl": "https://github.com/ccheever",
@@ -81,15 +81,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "webpack": "./node_modules/.bin/webpack -d --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ccheever/exphost2.git"
-    },
-    "author": "",
+    "repository": "https://github.com/ccheever/exphost2",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ccheever/exphost2/issues"
-    },
     "homepage": "https://github.com/ccheever/exphost2#readme",
     "dependencies": {
       "babel-runtime": "^5.8.25",
@@ -110,6 +103,12 @@
       "gulp-util": "^3.0.6",
       "gulp-watch": "^4.3.5",
       "webpack": "^1.12.2"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/ccheever/exphost2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "ccheever___exphost2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:01:36.527Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:50.710Z"
+  "lastFetchedAt": "2017-10-23T18:28:36.306Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:50.710Z",
+  "archived": false
 }

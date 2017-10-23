@@ -5,7 +5,7 @@
   "owner": {
     "login": "StreamMeDev",
     "id": 17912029,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17912029?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17912029?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/StreamMeDev",
     "htmlUrl": "https://github.com/StreamMeDev",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "StreamMeDev",
     "id": 17912029,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17912029?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17912029?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/StreamMeDev",
     "htmlUrl": "https://github.com/StreamMeDev",
@@ -75,12 +75,8 @@
       "streamme",
       "partners"
     ],
-    "author": "StreamMe",
     "license": "UNLICENSED",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:StreamMeDev/partner-example-app.git"
-    },
+    "repository": "https://github.com/StreamMeDev/partner-example-app",
     "scripts": {
       "start": "npm run babel && electron .",
       "test": "npm run babel && happiness && mocha",
@@ -107,6 +103,9 @@
       "react": "^15.1.0",
       "react-addons-css-transition-group": "^15.1.0",
       "react-dom": "^15.1.0"
+    },
+    "other": {
+      "author": "StreamMe"
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "StreamMeDev___partner-example-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:18.066Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:36.933Z"
+  "lastFetchedAt": "2017-10-23T19:26:01.745Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:36.933Z",
+  "archived": false
 }

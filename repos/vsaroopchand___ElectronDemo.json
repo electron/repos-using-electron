@@ -5,7 +5,7 @@
   "owner": {
     "login": "vsaroopchand",
     "id": 13750198,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13750198?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13750198?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vsaroopchand",
     "htmlUrl": "https://github.com/vsaroopchand",
@@ -53,25 +53,24 @@
     "scripts": {
       "start": "electron src/main.js --debug-brk=5858"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vsaroopchand/ElectronDemo.git"
-    },
+    "repository": "https://github.com/vsaroopchand/ElectronDemo",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Vishal",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/vsaroopchand/ElectronDemo/issues"
-    },
     "homepage": "https://github.com/vsaroopchand/ElectronDemo#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
       "gulp": "^3.9.1"
+    },
+    "other": {
+      "author": "Vishal",
+      "bugs": {
+        "url": "https://github.com/vsaroopchand/ElectronDemo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   "svnUrl": "https://github.com/vsaroopchand/SFDemoUI",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:46:00.368Z",
-  "packageLastFetchedAt": "2017-05-05T17:46:52.848Z"
+  "lastFetchedAt": "2017-10-23T18:35:08.314Z",
+  "packageLastFetchedAt": "2017-05-05T17:46:52.848Z",
+  "archived": false
 }

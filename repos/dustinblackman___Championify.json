@@ -5,7 +5,7 @@
   "owner": {
     "login": "dustinblackman",
     "id": 5246169,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5246169?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5246169?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dustinblackman",
     "htmlUrl": "https://github.com/dustinblackman",
@@ -20,21 +20,21 @@
   "description": "Import recent item sets from popular aggregators like Champion.gg in to League of Legends to use within game! No hassle.",
   "fork": false,
   "createdAt": "2015-04-20T14:07:39.000Z",
-  "updatedAt": "2017-05-03T11:25:02.000Z",
-  "pushedAt": "2017-03-25T21:08:33.000Z",
+  "updatedAt": "2017-10-23T15:25:09.000Z",
+  "pushedAt": "2017-10-23T07:27:42.000Z",
   "homepage": "",
-  "size": 39425,
-  "stargazersCount": 599,
-  "watchersCount": 599,
+  "size": 39558,
+  "stargazersCount": 690,
+  "watchersCount": 690,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 87,
-  "openIssuesCount": 28,
-  "openIssues": 28,
-  "watchers": 599,
+  "forksCount": 105,
+  "openIssuesCount": 32,
+  "openIssues": 32,
+  "watchers": 690,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 87,
-  "subscribersCount": 51,
+  "networkCount": 105,
+  "subscribersCount": 52,
   "status": 200,
   "packageJSON": {
     "name": "Championify",
@@ -70,15 +70,11 @@
       "postinstall": "gulp postinstall",
       "release": "gulp release"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dustinblackman/Championify.git"
-    },
+    "repository": "https://github.com/dustinblackman/Championify",
     "engines": {
       "node": "6.9.1",
       "npm": "3.10.9"
     },
-    "author": "Dustin Blackman",
     "license": "MIT",
     "dependencies": {
       "bluebird": "3.4.6",
@@ -168,6 +164,9 @@
         "browser": true,
         "mocha": true
       }
+    },
+    "other": {
+      "author": "Dustin Blackman"
     }
   },
   "packageStatus": 200,
@@ -215,6 +214,7 @@
   "svnUrl": "https://github.com/dustinblackman/Championify",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:05:22.520Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:25.073Z"
+  "lastFetchedAt": "2017-10-23T17:56:40.951Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:25.073Z",
+  "archived": false
 }

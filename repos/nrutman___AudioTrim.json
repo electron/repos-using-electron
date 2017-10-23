@@ -5,7 +5,7 @@
   "owner": {
     "login": "nrutman",
     "id": 165184,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/165184?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/165184?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nrutman",
     "htmlUrl": "https://github.com/nrutman",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/nrutman/AudioTrim/downloads",
   "deploymentsUrl": "https://api.github.com/repos/nrutman/AudioTrim/deployments",
   "createdAt": "2016-10-21T11:00:46.000Z",
-  "updatedAt": "2016-10-22T01:33:30.000Z",
+  "updatedAt": "2017-07-22T04:53:48.000Z",
   "pushedAt": "2016-10-24T03:09:38.000Z",
   "gitUrl": "git://github.com/nrutman/AudioTrim.git",
   "sshUrl": "git@github.com:nrutman/AudioTrim.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/nrutman/AudioTrim",
   "homepage": null,
   "size": 24,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -83,21 +83,14 @@
       "start": "cd app && npm start",
       "test": "cd app && npm test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nrutman/AudioTrim.git"
-    },
+    "repository": "https://github.com/nrutman/AudioTrim",
     "keywords": [
       "electron",
       "audio",
       "trim",
       "encode"
     ],
-    "author": "Nathan Rutman",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nrutman/AudioTrim/issues"
-    },
     "homepage": "https://github.com/nrutman/AudioTrim#readme",
     "dependencies": {
       "del": "^2.2.2",
@@ -108,6 +101,12 @@
       "gulp-sass": "^2.3.2",
       "gulp-uglify": "^2.0.0",
       "gulp-util": "^3.0.7"
+    },
+    "other": {
+      "author": "Nathan Rutman",
+      "bugs": {
+        "url": "https://github.com/nrutman/AudioTrim/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "nrutman___AudioTrim.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:52.244Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:43.363Z"
+  "lastFetchedAt": "2017-10-23T21:02:31.903Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:43.363Z",
+  "archived": false
 }

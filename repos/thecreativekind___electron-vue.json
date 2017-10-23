@@ -6,7 +6,7 @@
   "owner": {
     "login": "thecreativekind",
     "id": 26181026,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/26181026?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/26181026?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thecreativekind",
     "htmlUrl": "https://github.com/thecreativekind",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "thecreativekind",
     "id": 26181026,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/26181026?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/26181026?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thecreativekind",
     "htmlUrl": "https://github.com/thecreativekind",
@@ -81,7 +81,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:06:52.730Z",
+  "lastFetchedAt": "2017-10-23T18:24:40.284Z",
   "packageJSON": {
     "name": "photobooth",
     "version": "0.0.0",
@@ -104,7 +104,6 @@
       "unit": "cross-env BABEL_ENV=testing-unit karma start test/unit/karma.conf.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -164,8 +163,12 @@
       "webpack": "^2.2.1",
       "webpack-dev-server": "^2.3.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:36:09.072Z"
+  "packageLastFetchedAt": "2017-05-05T17:36:09.072Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jdkato",
     "id": 8785025,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8785025?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8785025?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdkato",
     "htmlUrl": "https://github.com/jdkato",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/jdkato/Scheduler/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jdkato/Scheduler/deployments",
   "createdAt": "2015-12-27T19:04:55.000Z",
-  "updatedAt": "2016-07-13T17:54:03.000Z",
-  "pushedAt": "2016-09-24T23:58:21.000Z",
+  "updatedAt": "2017-05-19T19:48:08.000Z",
+  "pushedAt": "2017-05-20T21:38:50.000Z",
   "gitUrl": "git://github.com/jdkato/Scheduler.git",
   "sshUrl": "git@github.com:jdkato/Scheduler.git",
   "cloneUrl": "https://github.com/jdkato/Scheduler.git",
   "svnUrl": "https://github.com/jdkato/Scheduler",
   "homepage": "",
-  "size": 1786,
+  "size": 1788,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -84,14 +84,7 @@
     "engines": {
       "node": ">=0.10.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jdkato/scheduler.git"
-    },
-    "bugs": {
-      "url": "https://github.com/jdkato/scheduler/issues"
-    },
-    "author": "Joseph Kato",
+    "repository": "https://github.com/jdkato/scheduler",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.2.0",
@@ -100,6 +93,12 @@
     },
     "dependencies": {
       "nconf": "^0.7.2"
+    },
+    "other": {
+      "author": "Joseph Kato",
+      "bugs": {
+        "url": "https://github.com/jdkato/scheduler/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "jdkato___Scheduler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:56.550Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:39.009Z"
+  "lastFetchedAt": "2017-10-23T20:47:36.206Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:39.009Z",
+  "archived": false
 }

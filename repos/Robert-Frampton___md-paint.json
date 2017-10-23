@@ -5,7 +5,7 @@
   "owner": {
     "login": "Robert-Frampton",
     "id": 2466445,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2466445?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2466445?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Robert-Frampton",
     "htmlUrl": "https://github.com/Robert-Frampton",
@@ -56,20 +56,13 @@
     "bin": {
       "md_paint": "./bin/paint.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Robert-Frampton/md-paint"
-    },
+    "repository": "https://github.com/Robert-Frampton/md-paint",
     "keywords": [
       "md",
       "markdown",
       "preview"
     ],
-    "author": "Rob Frampton <rob.g.frampton@gmail.com> (https://github.com/Robert-Frampton)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Robert-Frampton/md-paint/issues"
-    },
     "homepage": "https://github.com/Robert-Frampton/md-paint",
     "dependencies": {
       "electron-prebuilt": "^1.0.1",
@@ -78,6 +71,12 @@
       "marked": "^0.3.6",
       "minimist": "^1.2.0",
       "update-notifier": "^1.0.2"
+    },
+    "other": {
+      "author": "Rob Frampton <rob.g.frampton@gmail.com> (https://github.com/Robert-Frampton)",
+      "bugs": {
+        "url": "https://github.com/Robert-Frampton/md-paint/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/Robert-Frampton/md-paint",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:40:15.738Z",
-  "packageLastFetchedAt": "2017-05-04T22:51:20.357Z"
+  "lastFetchedAt": "2017-10-23T18:50:38.654Z",
+  "packageLastFetchedAt": "2017-05-04T22:51:20.357Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "tajpure",
     "id": 1475405,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1475405?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1475405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tajpure",
     "htmlUrl": "https://github.com/tajpure",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/tajpure/vortex/downloads",
   "deploymentsUrl": "https://api.github.com/repos/tajpure/vortex/deployments",
   "createdAt": "2016-07-28T03:26:33.000Z",
-  "updatedAt": "2017-04-23T11:36:42.000Z",
-  "pushedAt": "2016-09-12T09:56:52.000Z",
+  "updatedAt": "2017-10-18T05:08:30.000Z",
+  "pushedAt": "2017-10-23T16:39:19.000Z",
   "gitUrl": "git://github.com/tajpure/vortex.git",
   "sshUrl": "git@github.com:tajpure/vortex.git",
   "cloneUrl": "https://github.com/tajpure/vortex.git",
   "svnUrl": "https://github.com/tajpure/vortex",
   "homepage": "",
-  "size": 5240,
-  "stargazersCount": 64,
-  "watchersCount": 64,
+  "size": 5838,
+  "stargazersCount": 75,
+  "watchersCount": 75,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 64,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 75,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 2,
   "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
@@ -85,19 +85,12 @@
       "e2e": "node test/e2e/runner.js",
       "test": "npm run unit && npm run e2e"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tajpure/vortex.git"
-    },
+    "repository": "https://github.com/tajpure/vortex",
     "keywords": [
       "Electron",
       "presentation"
     ],
-    "author": "tajpure",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tajpure/vortex/issues"
-    },
     "homepage": "https://github.com/tajpure/vortex#readme",
     "devDependencies": {
       "babel-core": "^6.0.0",
@@ -163,6 +156,12 @@
       "webpack-externals-plugin": "1.0.0",
       "webpack-hot-middleware": "^2.6.0",
       "webpack-merge": "^0.8.3"
+    },
+    "other": {
+      "author": "tajpure",
+      "bugs": {
+        "url": "https://github.com/tajpure/vortex/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +189,7 @@
   },
   "filename": "tajpure___vortex.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:18:31.000Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:27.411Z"
+  "lastFetchedAt": "2017-10-23T18:17:27.123Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:27.411Z",
+  "archived": false
 }

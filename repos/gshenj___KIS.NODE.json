@@ -5,7 +5,7 @@
   "owner": {
     "login": "gshenj",
     "id": 537341,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/537341?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/537341?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gshenj",
     "htmlUrl": "https://github.com/gshenj",
@@ -49,11 +49,7 @@
     "name": "元斌塑胶科技KIS",
     "description": "KIS With Electron app",
     "version": "1.0.0",
-    "author": "gshenj <gshenj@gmail.com>",
     "main": "index.js",
-    "bugs": {
-      "url": "https://github.com/gshenj/KIS.NODE/issues"
-    },
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
     },
@@ -63,13 +59,16 @@
     ],
     "license": "CC-0",
     "private": false,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gshenj/KIS.NODE.git"
-    },
+    "repository": "https://github.com/gshenj/KIS.NODE",
     "scripts": {
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "other": {
+      "author": "gshenj <gshenj@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/gshenj/KIS.NODE/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   "svnUrl": "https://github.com/gshenj/KIS.NODE",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:41:52.713Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:33.300Z"
+  "lastFetchedAt": "2017-10-23T20:26:26.176Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:33.300Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "deomitrus",
     "id": 2581815,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2581815?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2581815?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/deomitrus",
     "htmlUrl": "https://github.com/deomitrus",
@@ -79,19 +79,12 @@
     "scripts": {
       "test": "mocha tests"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/deomitrus/halva-devtools.git"
-    },
+    "repository": "https://github.com/deomitrus/halva-devtools",
     "keywords": [
       "halva",
       "devtools"
     ],
-    "author": "Deomitrus",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/deomitrus/halva-devtools/issues"
-    },
     "homepage": "https://github.com/deomitrus/halva-devtools#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.4.2",
@@ -108,6 +101,12 @@
       "react-json-tree": "^0.10.0",
       "socket.io": "^1.4.8",
       "vla": "^1.1.1"
+    },
+    "other": {
+      "author": "Deomitrus",
+      "bugs": {
+        "url": "https://github.com/deomitrus/halva-devtools/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "deomitrus___halva-devtools.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:47.823Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:36.134Z"
+  "lastFetchedAt": "2017-10-23T20:12:54.476Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:36.134Z",
+  "archived": false
 }

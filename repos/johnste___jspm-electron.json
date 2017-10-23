@@ -5,7 +5,7 @@
   "owner": {
     "login": "johnste",
     "id": 886051,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/886051?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/886051?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/johnste",
     "htmlUrl": "https://github.com/johnste",
@@ -79,16 +79,9 @@
     "scripts": {
       "start": "electron bootstrap.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/johnste/jspm-electron.git"
-    },
+    "repository": "https://github.com/johnste/jspm-electron",
     "keywords": [],
-    "author": "GitHub",
     "license": "UNLICENSED",
-    "bugs": {
-      "url": "https://github.com/johnste/jspm-electron/issues"
-    },
     "homepage": "https://github.com/johnste/jspm-electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -156,6 +149,12 @@
           ]
         }
       }
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/johnste/jspm-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   },
   "filename": "johnste___jspm-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:03.052Z",
-  "packageLastFetchedAt": "2017-05-04T22:19:23.864Z"
+  "lastFetchedAt": "2017-10-23T19:28:23.556Z",
+  "packageLastFetchedAt": "2017-05-04T22:19:23.864Z",
+  "archived": false
 }

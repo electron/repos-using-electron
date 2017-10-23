@@ -5,7 +5,7 @@
   "owner": {
     "login": "entonio",
     "id": 5048472,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5048472?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5048472?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/entonio",
     "htmlUrl": "https://github.com/entonio",
@@ -53,21 +53,20 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/entonio/inventarios.git"
-    },
+    "repository": "https://github.com/entonio/inventarios",
     "keywords": [
       "PI"
     ],
-    "author": "António Pedro Marques",
     "license": "UNLICENSED",
-    "bugs": {
-      "url": "https://github.com/entonio/inventarios/issues"
-    },
     "homepage": "https://github.com/entonio/inventarios#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "author": "António Pedro Marques",
+      "bugs": {
+        "url": "https://github.com/entonio/inventarios/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,7 @@
   },
   "filename": "entonio___inventarios.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:32.729Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:59.543Z"
+  "lastFetchedAt": "2017-10-23T17:41:05.184Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:59.543Z",
+  "archived": false
 }

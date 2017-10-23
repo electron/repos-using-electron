@@ -5,7 +5,7 @@
   "owner": {
     "login": "Cwright017",
     "id": 7325595,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7325595?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7325595?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cwright017",
     "htmlUrl": "https://github.com/Cwright017",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/Cwright017/electron-boilerplate/deployments",
   "createdAt": "2016-08-21T09:26:02.000Z",
   "updatedAt": "2016-10-25T17:47:16.000Z",
-  "pushedAt": "2016-10-29T14:56:09.000Z",
+  "pushedAt": "2017-05-29T15:52:07.000Z",
   "gitUrl": "git://github.com/Cwright017/electron-boilerplate.git",
   "sshUrl": "git@github.com:Cwright017/electron-boilerplate.git",
   "cloneUrl": "https://github.com/Cwright017/electron-boilerplate.git",
   "svnUrl": "https://github.com/Cwright017/electron-boilerplate",
   "homepage": "",
-  "size": 85,
+  "size": 82,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -84,10 +84,7 @@
       "package": "npm run build && cp ./package.json ./dist && electron-packager ./dist --platform=darwin --arch=x64 --prune --overwrite",
       "test": "jest"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Cwright017/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/Cwright017/electron-boilerplate",
     "keywords": [
       "Electron",
       "boilerplate",
@@ -99,11 +96,7 @@
       "sass",
       "electron-packager"
     ],
-    "author": "Carl Wright",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Cwright017/electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/Cwright017/electron-boilerplate#readme",
     "jest": {
       "testPathDirs": [
@@ -157,6 +150,12 @@
       "redux-devtools-extension": "^1.0.0",
       "redux-logger": "^2.7.0",
       "redux-thunk": "^2.1.0"
+    },
+    "other": {
+      "author": "Carl Wright",
+      "bugs": {
+        "url": "https://github.com/Cwright017/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -184,6 +183,7 @@
   },
   "filename": "Cwright017___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:42.096Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:51.867Z"
+  "lastFetchedAt": "2017-10-23T20:59:05.486Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:51.867Z",
+  "archived": false
 }

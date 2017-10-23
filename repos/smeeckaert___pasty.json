@@ -5,7 +5,7 @@
   "owner": {
     "login": "smeeckaert",
     "id": 781097,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/781097?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/781097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/smeeckaert",
     "htmlUrl": "https://github.com/smeeckaert",
@@ -73,14 +73,7 @@
     "scripts": {
       "start": "electron static/js/main.min.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/smeeckaert/pasty"
-    },
-    "author": "Martin Smeeckaert",
-    "bugs": {
-      "url": "https://github.com/smeeckaert/pasty/issues"
-    },
+    "repository": "https://github.com/smeeckaert/pasty",
     "homepage": "https://github.com/smeeckaert/pasty#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
@@ -93,6 +86,12 @@
       "bower": "",
       "grunt-run": "",
       "assemble": ""
+    },
+    "other": {
+      "author": "Martin Smeeckaert",
+      "bugs": {
+        "url": "https://github.com/smeeckaert/pasty/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   },
   "filename": "smeeckaert___pasty.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:24.920Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:48.085Z"
+  "lastFetchedAt": "2017-10-23T19:10:01.727Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:48.085Z",
+  "archived": false
 }

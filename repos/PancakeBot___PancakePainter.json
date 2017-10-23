@@ -5,7 +5,7 @@
   "owner": {
     "login": "PancakeBot",
     "id": 13453097,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13453097?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13453097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PancakeBot",
     "htmlUrl": "https://github.com/PancakeBot",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/PancakeBot/PancakePainter/downloads",
   "deploymentsUrl": "https://api.github.com/repos/PancakeBot/PancakePainter/deployments",
   "createdAt": "2015-07-21T02:42:44.000Z",
-  "updatedAt": "2017-04-17T14:54:40.000Z",
-  "pushedAt": "2017-02-21T18:20:15.000Z",
+  "updatedAt": "2017-09-28T08:52:05.000Z",
+  "pushedAt": "2017-10-16T15:08:38.000Z",
   "gitUrl": "git://github.com/PancakeBot/PancakePainter.git",
   "sshUrl": "git@github.com:PancakeBot/PancakePainter.git",
   "cloneUrl": "https://github.com/PancakeBot/PancakePainter.git",
   "svnUrl": "https://github.com/PancakeBot/PancakePainter",
   "homepage": "http://pancakebot.com",
   "size": 9815,
-  "stargazersCount": 29,
-  "watchersCount": 29,
+  "stargazersCount": 35,
+  "watchersCount": 35,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 19,
+  "forksCount": 22,
   "mirrorUrl": null,
-  "openIssuesCount": 35,
-  "openIssues": 35,
-  "watchers": 29,
+  "openIssuesCount": 40,
+  "openIssues": 40,
+  "watchers": 35,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "PancakeBot",
     "id": 13453097,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13453097?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13453097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PancakeBot",
     "htmlUrl": "https://github.com/PancakeBot",
@@ -82,15 +82,14 @@
     "receivedEventsUrl": "https://api.github.com/users/PancakeBot/received_events",
     "type": "Organization"
   },
-  "networkCount": 19,
-  "subscribersCount": 14,
+  "networkCount": 22,
+  "subscribersCount": 17,
   "status": 200,
   "packageJSON": {
     "name": "PancakePainter",
     "version": "1.3.0-beta",
     "description": "A simple drawing application and GCODE generator for the PancakeBot",
     "main": "src/main.js",
-    "author": "techninja",
     "stage": "development",
     "electronVersion": "1.0.1",
     "license": "Apache-2.0",
@@ -130,13 +129,13 @@
       "toastr": "^2.1.2",
       "underscore": "^1.8.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/PancakeBot/PancakePainter.git"
-    },
+    "repository": "https://github.com/PancakeBot/PancakePainter",
     "devDependencies": {
       "electron-prebuilt": "1.0.1",
       "jshint": "^2.9.2"
+    },
+    "other": {
+      "author": "techninja"
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   },
   "filename": "PancakeBot___PancakePainter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:08.665Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:43.150Z"
+  "lastFetchedAt": "2017-10-23T18:12:33.631Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:43.150Z",
+  "archived": false
 }

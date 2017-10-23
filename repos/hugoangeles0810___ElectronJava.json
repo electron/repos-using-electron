@@ -5,7 +5,7 @@
   "owner": {
     "login": "hugoangeles0810",
     "id": 6182838,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6182838?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6182838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hugoangeles0810",
     "htmlUrl": "https://github.com/hugoangeles0810",
@@ -80,19 +80,18 @@
       "start": "electron main.js",
       "build": "electron-packager . --all --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "Java"
     ],
-    "author": "Hugo Angeles",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^7.0.3",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Hugo Angeles"
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "filename": "hugoangeles0810___ElectronJava.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:01:42.512Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:20.101Z"
+  "lastFetchedAt": "2017-10-23T20:39:54.469Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:20.101Z",
+  "archived": false
 }

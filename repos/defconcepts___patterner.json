@@ -5,7 +5,7 @@
   "owner": {
     "login": "defconcepts",
     "id": 9161722,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9161722?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9161722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/defconcepts",
     "htmlUrl": "https://github.com/defconcepts",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "defconcepts",
     "id": 9161722,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9161722?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9161722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/defconcepts",
     "htmlUrl": "https://github.com/defconcepts",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "fundon",
       "id": 27926,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/27926?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/27926?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/fundon",
       "htmlUrl": "https://github.com/fundon",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 3,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "fundon",
       "id": 27926,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/27926?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/27926?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/fundon",
       "htmlUrl": "https://github.com/fundon",
@@ -171,6 +172,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 3,
@@ -189,7 +191,6 @@
       "start": "electron .",
       "build": "electron-packager ./ Patterner --platform=darwin --arch=x64 --out=dist --version=0.33.3 --overwrite"
     },
-    "author": "Fangdun Cai <cfddream@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.1.0",
@@ -198,6 +199,9 @@
     "dependencies": {
       "geopattern": "^1.2.3",
       "jquery": "^2.1.4"
+    },
+    "other": {
+      "author": "Fangdun Cai <cfddream@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -246,6 +250,7 @@
   "filename": "defconcepts___patterner.json",
   "sourceRepo": "fundon/patterner",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:12:24.953Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:42.358Z"
+  "lastFetchedAt": "2017-10-23T18:55:33.260Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:42.358Z",
+  "archived": false
 }

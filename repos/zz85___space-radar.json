@@ -5,7 +5,7 @@
   "owner": {
     "login": "zz85",
     "id": 314997,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/314997?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/314997?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zz85",
     "htmlUrl": "https://github.com/zz85",
@@ -17,24 +17,24 @@
     "type": "User"
   },
   "private": false,
-  "description": "Disk Space Visualization App built with Electron & d3.js",
+  "description": "Disk And Memory Space Visualization App built with Electron & d3.js",
   "fork": false,
   "createdAt": "2015-10-17T20:25:08.000Z",
-  "updatedAt": "2017-05-03T09:19:13.000Z",
-  "pushedAt": "2017-02-22T09:35:42.000Z",
+  "updatedAt": "2017-10-23T02:34:05.000Z",
+  "pushedAt": "2017-10-07T08:38:10.000Z",
   "homepage": "https://github.com/zz85/space-radar-electron/releases",
-  "size": 352,
-  "stargazersCount": 568,
-  "watchersCount": 568,
+  "size": 605,
+  "stargazersCount": 673,
+  "watchersCount": 673,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 34,
-  "openIssuesCount": 13,
-  "openIssues": 13,
-  "watchers": 568,
+  "forksCount": 45,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 673,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 34,
+  "networkCount": 45,
   "subscribersCount": 26,
   "status": 200,
   "packageJSON": {
@@ -68,7 +68,6 @@
       "usage",
       "visualization"
     ],
-    "author": "Joshua Koo",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.1.0",
@@ -79,6 +78,9 @@
     "dependencies": {
       "d3": "^3.5.6",
       "photon": "git://github.com/connors/photon.git"
+    },
+    "other": {
+      "author": "Joshua Koo"
     }
   },
   "packageStatus": 200,
@@ -126,6 +128,7 @@
   },
   "filename": "zz85___space-radar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:11:03.226Z",
-  "packageLastFetchedAt": "2017-05-04T22:20:52.406Z"
+  "lastFetchedAt": "2017-10-23T17:41:00.170Z",
+  "packageLastFetchedAt": "2017-05-04T22:20:52.406Z",
+  "archived": false
 }

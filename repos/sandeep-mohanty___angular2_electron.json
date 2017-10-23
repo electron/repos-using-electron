@@ -5,7 +5,7 @@
   "owner": {
     "login": "sandeep-mohanty",
     "id": 5155013,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5155013?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5155013?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sandeep-mohanty",
     "htmlUrl": "https://github.com/sandeep-mohanty",
@@ -82,20 +82,13 @@
       "package": "electron-packager . --platform=win32 --arch=x64",
       "archive": "asar pack angular2_electron-win32-x64/resources/app angular2_electron-win32-x64/resources/app.asar"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sandeep-mohanty/angular2_electron.git"
-    },
+    "repository": "https://github.com/sandeep-mohanty/angular2_electron",
     "keywords": [
       "electron",
       "desktop",
       "app"
     ],
-    "author": "Sandeep Mohanty",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/sandeep-mohanty/angular2_electron/issues"
-    },
     "homepage": "https://github.com/sandeep-mohanty/angular2_electron#readme",
     "dependencies": {
       "angular2": "^2.0.0-beta.17",
@@ -114,6 +107,12 @@
       "electron-prebuilt": "^1.1.0",
       "gulp": "^3.9.1",
       "ntypescript": "^1.201605172209.1"
+    },
+    "other": {
+      "author": "Sandeep Mohanty",
+      "bugs": {
+        "url": "https://github.com/sandeep-mohanty/angular2_electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "sandeep-mohanty___angular2_electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:25.394Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:09.516Z"
+  "lastFetchedAt": "2017-10-23T18:06:39.001Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:09.516Z",
+  "archived": false
 }

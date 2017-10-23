@@ -5,7 +5,7 @@
   "owner": {
     "login": "nenadpnc",
     "id": 2998730,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2998730?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2998730?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nenadpnc",
     "htmlUrl": "https://github.com/nenadpnc",
@@ -74,17 +74,13 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Nenad Panic",
     "license": "CC0-1.0",
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
@@ -100,6 +96,9 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "Nenad Panic"
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "nenadpnc___electron-soundcloud-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:14:17.074Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:47.635Z"
+  "lastFetchedAt": "2017-10-23T21:07:53.094Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:47.635Z",
+  "archived": false
 }

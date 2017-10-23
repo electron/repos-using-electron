@@ -5,7 +5,7 @@
   "owner": {
     "login": "keleko34",
     "id": 7937774,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7937774?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7937774?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/keleko34",
     "htmlUrl": "https://github.com/keleko34",
@@ -84,26 +84,11 @@
       "IDE",
       "Cool View"
     ],
-    "author": {
-      "name": "Keleko34",
-      "email": "gregory.guidero@gmail.com"
-    },
-    "contributors": [
-      {
-        "name": "Gregory Guidero"
-      }
-    ],
     "license": {
       "type": "MIT",
       "url": "http://en.wikipedia.org/wiki/MIT_License"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/keleko34/K_IDE.git"
-    },
-    "bugs": {
-      "url": "https://github.com/keleko34/K_IDE/issues"
-    },
+    "repository": "https://github.com/keleko34/K_IDE",
     "dependencies": {
       "electron-prebuilt": "^1.1.0",
       "nw": "^0.14.5-sdk"
@@ -113,13 +98,33 @@
       "nw": "node_modules\\nw\\nwjs\\nw .",
       "electron": "node_modules\\.bin\\electron ."
     },
-    "maintainers": [
+    "owners": [
       {
         "name": "keleko34",
         "email": "gregory.guidero@gmail.com"
       }
     ],
-    "directories": {}
+    "other": {
+      "author": {
+        "name": "Keleko34",
+        "email": "gregory.guidero@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/keleko34/K_IDE/issues"
+      },
+      "contributors": [
+        {
+          "name": "Gregory Guidero"
+        }
+      ],
+      "directories": {},
+      "maintainers": [
+        {
+          "name": "keleko34",
+          "email": "gregory.guidero@gmail.com"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +151,7 @@
   },
   "filename": "keleko34___K_IDE.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:40:43.537Z",
-  "packageLastFetchedAt": "2017-05-05T17:07:39.873Z"
+  "lastFetchedAt": "2017-10-23T18:15:00.219Z",
+  "packageLastFetchedAt": "2017-05-05T17:07:39.873Z",
+  "archived": false
 }

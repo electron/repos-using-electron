@@ -5,7 +5,7 @@
   "owner": {
     "login": "tommiv",
     "id": 789246,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/789246?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/789246?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tommiv",
     "htmlUrl": "https://github.com/tommiv",
@@ -70,13 +70,15 @@
     "version": "0.0.1",
     "description": "matchtv.ru broadcast in kiosk mode",
     "license": "WTFPL",
-    "author": "Konstanin Ilchenko <kyle.mom.is.awesome@gmail.com>",
     "main": "js/main.js",
     "scripts": {
       "start": "electron js/main.js"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Konstanin Ilchenko <kyle.mom.is.awesome@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -104,6 +106,7 @@
   },
   "filename": "tommiv___matchtv-onair.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:13:32.510Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:47.416Z"
+  "lastFetchedAt": "2017-10-23T18:00:10.347Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:47.416Z",
+  "archived": false
 }

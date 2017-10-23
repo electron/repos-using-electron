@@ -5,7 +5,7 @@
   "owner": {
     "login": "FRCDashboard",
     "id": 19158558,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19158558?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19158558?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FRCDashboard",
     "htmlUrl": "https://github.com/FRCDashboard",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/FRCDashboard/FRCDashboard/downloads",
   "deploymentsUrl": "https://api.github.com/repos/FRCDashboard/FRCDashboard/deployments",
   "createdAt": "2016-05-01T02:40:17.000Z",
-  "updatedAt": "2017-04-26T14:24:28.000Z",
-  "pushedAt": "2017-03-22T19:55:22.000Z",
+  "updatedAt": "2017-10-22T23:35:16.000Z",
+  "pushedAt": "2017-10-19T02:02:31.000Z",
   "gitUrl": "git://github.com/FRCDashboard/FRCDashboard.git",
   "sshUrl": "git@github.com:FRCDashboard/FRCDashboard.git",
   "cloneUrl": "https://github.com/FRCDashboard/FRCDashboard.git",
   "svnUrl": "https://github.com/FRCDashboard/FRCDashboard",
   "homepage": "http://frcdashboard.github.io",
-  "size": 14278,
-  "stargazersCount": 43,
-  "watchersCount": 43,
+  "size": 14296,
+  "stargazersCount": 57,
+  "watchersCount": 57,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 31,
+  "forksCount": 35,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 43,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 57,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "FRCDashboard",
     "id": 19158558,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19158558?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19158558?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FRCDashboard",
     "htmlUrl": "https://github.com/FRCDashboard",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/FRCDashboard/received_events",
     "type": "Organization"
   },
-  "networkCount": 31,
-  "subscribersCount": 10,
+  "networkCount": 35,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "FRCDashboard",
@@ -95,15 +95,8 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FRCDashboard/FRCDashboard"
-    },
-    "author": "Erik Boesen",
+    "repository": "https://github.com/FRCDashboard/FRCDashboard",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
-    },
     "homepage": "http://frcdashboard.github.io",
     "devDependencies": {
       "electron": "^1.2.0",
@@ -115,6 +108,12 @@
     "build": {
       "appId": "FRCDashboard",
       "productName": "FRCDashboard"
+    },
+    "other": {
+      "author": "Erik Boesen",
+      "bugs": {
+        "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "FRCDashboard___FRCDashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:37:25.303Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:26.375Z"
+  "lastFetchedAt": "2017-10-23T18:29:46.379Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:26.375Z",
+  "archived": false
 }

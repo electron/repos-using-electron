@@ -5,7 +5,7 @@
   "owner": {
     "login": "OpenBazaar",
     "id": 7438770,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7438770?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7438770?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OpenBazaar",
     "htmlUrl": "https://github.com/OpenBazaar",
@@ -17,24 +17,24 @@
     "type": "Organization"
   },
   "private": false,
-  "description": "2.0 Desktop Client for OpenBazaar (talks to openbazaar-go server daemon)",
+  "description": "OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)",
   "fork": false,
   "createdAt": "2016-06-21T14:34:19.000Z",
-  "updatedAt": "2017-05-04T17:32:56.000Z",
-  "pushedAt": "2017-05-04T16:50:08.000Z",
-  "homepage": null,
-  "size": 7044,
-  "stargazersCount": 99,
-  "watchersCount": 99,
+  "updatedAt": "2017-10-22T00:42:51.000Z",
+  "pushedAt": "2017-10-23T18:35:04.000Z",
+  "homepage": "",
+  "size": 12579,
+  "stargazersCount": 186,
+  "watchersCount": 186,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 25,
-  "openIssuesCount": 88,
-  "openIssues": 88,
-  "watchers": 99,
+  "forksCount": 53,
+  "openIssuesCount": 164,
+  "openIssues": 164,
+  "watchers": 186,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "OpenBazaar",
     "id": 7438770,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7438770?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7438770?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OpenBazaar",
     "htmlUrl": "https://github.com/OpenBazaar",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/OpenBazaar/received_events",
     "type": "Organization"
   },
-  "networkCount": 25,
-  "subscribersCount": 16,
+  "networkCount": 53,
+  "subscribersCount": 23,
   "status": 200,
   "packageJSON": {
     "name": "openbazaar-desktop",
@@ -88,15 +88,8 @@
       "build": "npm-run-all sass:build --parallel babel process-index:build --sequential copy-js-subfolders",
       "binaries": "./build.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OpenBazaar/ob-desktop.git"
-    },
-    "author": "",
+    "repository": "https://github.com/OpenBazaar/ob-desktop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/OpenBazaar/ob-desktop/issues"
-    },
     "homepage": "https://github.com/OpenBazaar/ob-desktop#readme",
     "devDependencies": {
       "babel-cli": "^6.10.1",
@@ -153,6 +146,12 @@
       "url-parse": "^1.1.7",
       "velocity-animate": "^1.2.3",
       "yargs": "^6.6.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/OpenBazaar/ob-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   "svnUrl": "https://github.com/OpenBazaar/openbazaar-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:50:00.614Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:00.647Z"
+  "lastFetchedAt": "2017-10-23T19:16:59.504Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:00.647Z",
+  "archived": false
 }

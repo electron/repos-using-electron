@@ -5,7 +5,7 @@
   "owner": {
     "login": "mickbalaban",
     "id": 365417,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/365417?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/365417?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mickbalaban",
     "htmlUrl": "https://github.com/mickbalaban",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/mickbalaban/printrbot-firmware-updater/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mickbalaban/printrbot-firmware-updater/deployments",
   "createdAt": "2016-03-16T16:46:42.000Z",
-  "updatedAt": "2017-05-02T20:34:34.000Z",
+  "updatedAt": "2017-08-23T14:59:16.000Z",
   "pushedAt": "2017-02-06T17:22:43.000Z",
   "gitUrl": "git://github.com/mickbalaban/printrbot-firmware-updater.git",
   "sshUrl": "git@github.com:mickbalaban/printrbot-firmware-updater.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/mickbalaban/printrbot-firmware-updater",
   "homepage": null,
   "size": 46535,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 0,
+  "watchersCount": 0,
   "language": "JavaScript",
   "hasIssues": false,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -74,7 +74,6 @@
       "start": "electron .",
       "build": "electron-packager . pbFU --platform=darwin --arch=x64 --version=0.36.0 --asar=false --prune=true"
     },
-    "author": "mick",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -84,6 +83,9 @@
     "dependencies": {
       "jquery": "^2.2.1",
       "serialport": "^2.0.6"
+    },
+    "other": {
+      "author": "mick"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
   },
   "filename": "mickbalaban___printrbot-firmware-updater.json",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T05:35:49.801Z",
-  "packageLastFetchedAt": "2017-05-05T15:05:57.683Z"
+  "lastFetchedAt": "2017-10-23T18:51:24.779Z",
+  "packageLastFetchedAt": "2017-05-05T15:05:57.683Z",
+  "archived": false
 }

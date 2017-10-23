@@ -5,7 +5,7 @@
   "owner": {
     "login": "s0nskar",
     "id": 11391128,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11391128?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11391128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/s0nskar",
     "htmlUrl": "https://github.com/s0nskar",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/s0nskar/gitty/downloads",
   "deploymentsUrl": "https://api.github.com/repos/s0nskar/gitty/deployments",
   "createdAt": "2016-06-04T16:55:20.000Z",
-  "updatedAt": "2017-03-12T18:25:05.000Z",
+  "updatedAt": "2017-07-21T16:29:31.000Z",
   "pushedAt": "2016-10-31T18:16:59.000Z",
   "gitUrl": "git://github.com/s0nskar/gitty.git",
   "sshUrl": "git@github.com:s0nskar/gitty.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/s0nskar/gitty",
   "homepage": "",
   "size": 81,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -82,21 +82,14 @@
       "build": "electron-packager . app --platform linux --icon ./app/assets/img/logo.png --arch x64 --out dist/",
       "deb64": "electron-installer-debian --src dist/app-linux-x64/ --dest dist/installers/ --arch amd64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sanskar-modi/gitty.git"
-    },
+    "repository": "https://github.com/sanskar-modi/gitty",
     "keywords": [
       "Electron",
       "Github",
       "Client",
       "Ubuntu"
     ],
-    "author": "Sanskar Modi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/sanskar-modi/gitty/issues"
-    },
     "homepage": "https://github.com/sanskar-modi/gitty",
     "dependencies": {
       "highlight.js": "^9.4.0",
@@ -107,6 +100,12 @@
       "devtron": "^1.2.0",
       "electron-installer-debian": "^0.3.0",
       "electron-prebuilt": "^1.2.1"
+    },
+    "other": {
+      "author": "Sanskar Modi",
+      "bugs": {
+        "url": "https://github.com/sanskar-modi/gitty/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "s0nskar___gitty.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:06:03.031Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:16.933Z"
+  "lastFetchedAt": "2017-10-23T18:10:57.413Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:16.933Z",
+  "archived": false
 }

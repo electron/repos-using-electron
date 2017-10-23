@@ -5,7 +5,7 @@
   "owner": {
     "login": "zarino",
     "id": 739624,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/739624?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/739624?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zarino",
     "htmlUrl": "https://github.com/zarino",
@@ -51,14 +51,7 @@
     "version": "0.0.1",
     "description": "A hackable IRC app",
     "main": "./src/server/main.js",
-    "author": "Zarino Zappia",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zarino/backchat.git"
-    },
-    "bugs": {
-      "url": "https://github.com/zarino/backchat/issues"
-    },
+    "repository": "https://github.com/zarino/backchat",
     "private": true,
     "dependencies": {
       "autolinker": "^0.18.1",
@@ -82,6 +75,12 @@
       "test": "scripts/build && BACKCHAT_DEBUG=True mocha test",
       "start": "scripts/start",
       "build": "scripts/build"
+    },
+    "other": {
+      "author": "Zarino Zappia",
+      "bugs": {
+        "url": "https://github.com/zarino/backchat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "svnUrl": "https://github.com/zarino/backchat",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:17:02.876Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:58.065Z"
+  "lastFetchedAt": "2017-10-23T19:31:42.382Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:58.065Z",
+  "archived": false
 }

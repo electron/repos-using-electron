@@ -5,7 +5,7 @@
   "owner": {
     "login": "martinwrightgithub",
     "id": 7421304,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7421304?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7421304?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/martinwrightgithub",
     "htmlUrl": "https://github.com/martinwrightgithub",
@@ -75,10 +75,12 @@
       "start": "electron .",
       "build": "electron-packager . desktop-timer --platform=linux --arch=x64 --version=0.28.2"
     },
-    "author": "Martin Wright",
     "license": "ISC",
     "devDependencies": {
       "electron-prebuilt": "^0.37.2"
+    },
+    "other": {
+      "author": "Martin Wright"
     }
   },
   "packageStatus": 200,
@@ -106,6 +108,7 @@
   },
   "filename": "martinwrightinfo___desktop-timer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:04:28.062Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:50.474Z"
+  "lastFetchedAt": "2017-10-23T18:31:15.965Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:50.474Z",
+  "archived": false
 }

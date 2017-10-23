@@ -5,7 +5,7 @@
   "owner": {
     "login": "stemn",
     "id": 23253863,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/23253863?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/23253863?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stemn",
     "htmlUrl": "https://github.com/stemn",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/stemn/Stemn-Desktop",
-  "description": ":rocket: List of all Stemn Desktop versions. Find out more:",
+  "description": ":rocket: The Version Control System for Google Drive and Dropbox",
   "fork": false,
   "url": "https://api.github.com/repos/stemn/Stemn-Desktop",
   "forksUrl": "https://api.github.com/repos/stemn/Stemn-Desktop/forks",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/stemn/Stemn-Desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/stemn/Stemn-Desktop/deployments",
   "createdAt": "2016-07-24T07:53:31.000Z",
-  "updatedAt": "2017-04-26T06:47:06.000Z",
-  "pushedAt": "2017-01-24T08:23:30.000Z",
+  "updatedAt": "2017-09-27T06:42:13.000Z",
+  "pushedAt": "2017-09-27T06:50:32.000Z",
   "gitUrl": "git://github.com/stemn/Stemn-Desktop.git",
   "sshUrl": "git@github.com:stemn/Stemn-Desktop.git",
   "cloneUrl": "https://github.com/stemn/Stemn-Desktop.git",
   "svnUrl": "https://github.com/stemn/Stemn-Desktop",
-  "homepage": "https://stemn.com/",
-  "size": 35692,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "homepage": "https://dev.stemn.com/",
+  "size": 44211,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 5,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "stemn",
     "id": 23253863,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/23253863?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/23253863?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stemn",
     "htmlUrl": "https://github.com/stemn",
@@ -77,17 +77,14 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 4,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "Stemn",
     "productName": "Stemn",
     "version": "0.0.19",
     "description": "Stemn Desktop: Versioning and project management",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Stemn/Stemn-Desktop"
-    },
+    "repository": "https://github.com/Stemn/Stemn-Desktop",
     "main": "dist/main/index.js",
     "scripts": {
       "test": "cross-env NODE_ENV=test mocha --compilers js:babel-register --recursive --require ./test/setup.js test/**/*.spec.js",
@@ -190,10 +187,6 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "author": {
-      "name": "STEMN Pty Ltd",
-      "email": "desktop@stemn.com"
-    },
     "license": "MIT",
     "keywords": [
       "project management",
@@ -203,10 +196,6 @@
       "science"
     ],
     "homepage": "https://stemn.com",
-    "bugs": {
-      "url": "https://github.com/Stemn/Stemn-Desktop/issues",
-      "email": "bugs@stemn.com"
-    },
     "dependencies": {
       "asar": "^0.11.0",
       "babel-core": "^6.11.4",
@@ -274,10 +263,6 @@
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
     },
-    "contributors": [
-      "David Revay <david@stemn.com>",
-      "Jackson Delahunt <jackson@stemn.com>"
-    ],
     "build": {
       "appId": "stemn.stemn",
       "productName": "Stemn",
@@ -308,6 +293,20 @@
         "app": "./dist/",
         "output": "./release/"
       }
+    },
+    "other": {
+      "author": {
+        "name": "STEMN Pty Ltd",
+        "email": "desktop@stemn.com"
+      },
+      "bugs": {
+        "url": "https://github.com/Stemn/Stemn-Desktop/issues",
+        "email": "bugs@stemn.com"
+      },
+      "contributors": [
+        "David Revay <david@stemn.com>",
+        "Jackson Delahunt <jackson@stemn.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -335,6 +334,7 @@
   },
   "filename": "Stemn___Stemn-Desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:52.023Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:46.390Z"
+  "lastFetchedAt": "2017-10-23T19:07:08.431Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:46.390Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "loiphamvn",
     "id": 1104445,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1104445?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1104445?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/loiphamvn",
     "htmlUrl": "https://github.com/loiphamvn",
@@ -86,21 +86,9 @@
         ""
       ]
     ],
-    "_from": "generator-ng2admin-webpack@latest",
-    "_id": "generator-ng2admin-webpack@0.0.5",
     "_inCache": true,
     "_installable": true,
     "_location": "/generator-ng2admin-webpack",
-    "_nodeVersion": "6.5.0",
-    "_npmOperationalInternal": {
-      "host": "packages-16-east.internal.npmjs.com",
-      "tmp": "tmp/generator-ng2admin-webpack-0.0.4.tgz_1464572758059_0.5057129615452141"
-    },
-    "_npmUser": {
-      "name": "bravealdus",
-      "email": "brave.aldus@gmail.com"
-    },
-    "_npmVersion": "3.10.3",
     "_phantomChildren": {},
     "_requested": {
       "raw": "generator-ng2admin-webpack",
@@ -115,17 +103,9 @@
       "#USER"
     ],
     "_resolved": "https://registry.npmjs.org/generator-ng2admin-webpack/-/generator-ng2admin-webpack-0.0.1.tgz",
-    "_shasum": "3b3b110c64b4f3feda1c26739da5f21aea2382ed",
     "_shrinkwrap": null,
     "_spec": "generator-ng2admin-webpack",
     "_where": "",
-    "author": {
-      "name": "loi pham",
-      "email": "loiphamvn@yahoo.com"
-    },
-    "bugs": {
-      "url": "https://github.com/bravealdus/generator-ng2admin-webpack/issues"
-    },
     "dependencies": {
       "yeoman-generator": "^0.23.0"
     },
@@ -144,11 +124,6 @@
       "yeoman-assert": "^2.0.0",
       "yeoman-test": "^1.0.0"
     },
-    "directories": {},
-    "dist": {
-      "shasum": "3b3b110c64b4f3feda1c26739da5f21aea2382ed",
-      "tarball": "https://registry.npmjs.org/generator-ng2admin-webpack/-/generator-ng2admin-webpack-0.0.4.tgz"
-    },
     "eslintConfig": {
       "extends": "xo-space",
       "env": {
@@ -165,24 +140,58 @@
     ],
     "license": "MIT",
     "main": "generators/index.js",
-    "maintainers": [
+    "name": "generator-ng2admin-webpack",
+    "optionalDependencies": {},
+    "readme": "ERROR: No README data found!",
+    "repository": "https://github.com/loiphamvn/generator-ng2admin-webpack",
+    "scripts": {
+      "prepublish": "gulp prepublish",
+      "test": "gulp"
+    },
+    "version": "0.0.5",
+    "lastPublisher": {
+      "name": "bravealdus",
+      "email": "brave.aldus@gmail.com"
+    },
+    "owners": [
       {
         "name": "bravealdus",
         "email": "brave.aldus@gmail.com"
       }
     ],
-    "name": "generator-ng2admin-webpack",
-    "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/loiphamvn/generator-ng2admin-webpack.git"
-    },
-    "scripts": {
-      "prepublish": "gulp prepublish",
-      "test": "gulp"
-    },
-    "version": "0.0.5"
+    "other": {
+      "_from": "generator-ng2admin-webpack@latest",
+      "_id": "generator-ng2admin-webpack@0.0.5",
+      "_nodeVersion": "6.5.0",
+      "_npmOperationalInternal": {
+        "host": "packages-16-east.internal.npmjs.com",
+        "tmp": "tmp/generator-ng2admin-webpack-0.0.4.tgz_1464572758059_0.5057129615452141"
+      },
+      "_npmUser": {
+        "name": "bravealdus",
+        "email": "brave.aldus@gmail.com"
+      },
+      "_npmVersion": "3.10.3",
+      "_shasum": "3b3b110c64b4f3feda1c26739da5f21aea2382ed",
+      "author": {
+        "name": "loi pham",
+        "email": "loiphamvn@yahoo.com"
+      },
+      "bugs": {
+        "url": "https://github.com/bravealdus/generator-ng2admin-webpack/issues"
+      },
+      "directories": {},
+      "dist": {
+        "shasum": "3b3b110c64b4f3feda1c26739da5f21aea2382ed",
+        "tarball": "https://registry.npmjs.org/generator-ng2admin-webpack/-/generator-ng2admin-webpack-0.0.4.tgz"
+      },
+      "maintainers": [
+        {
+          "name": "bravealdus",
+          "email": "brave.aldus@gmail.com"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -209,6 +218,7 @@
   },
   "filename": "loiphamvn___generator-ng2admin-webpack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:30:31.045Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:42.299Z"
+  "lastFetchedAt": "2017-10-23T20:58:59.468Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:42.299Z",
+  "archived": false
 }

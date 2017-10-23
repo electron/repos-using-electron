@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "relief",
     "productName": "relief",
@@ -88,7 +88,6 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "nina yañez",
     "license": "ISC",
     "dependencies": {
       "floyd-steinberg": "^1.0.4",
@@ -104,6 +103,9 @@
       "electron": "^1.4.5",
       "electron-packager": "^8.2.0",
       "electron-rebuild": "^1.3.0"
+    },
+    "other": {
+      "author": "nina yañez"
     }
   },
   "packageStatus": 200,
@@ -131,6 +133,6 @@
   },
   "filename": "WePress___print-a-plate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:00.461Z",
+  "lastFetchedAt": "2017-10-23T18:47:27.332Z",
   "packageLastFetchedAt": "2017-05-05T17:20:17.985Z"
 }

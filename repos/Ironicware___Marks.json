@@ -5,7 +5,7 @@
   "owner": {
     "login": "Ironicware",
     "id": 6010303,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6010303?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6010303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Ironicware",
     "htmlUrl": "https://github.com/Ironicware",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Ironicware",
     "id": 6010303,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6010303?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6010303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Ironicware",
     "htmlUrl": "https://github.com/Ironicware",
@@ -93,20 +93,19 @@
     "scripts": {
       "start": "electron app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ironicware/Marks.git"
-    },
+    "repository": "https://github.com/Ironicware/Marks",
     "keywords": [
       "gradebook"
     ],
-    "author": "Alex House",
     "license": "GPL v2",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
     },
     "dependencies": {
       "electron-localshortcut": "^0.6.0"
+    },
+    "other": {
+      "author": "Alex House"
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "Ironicware___Marks.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:29.079Z",
-  "packageLastFetchedAt": "2017-05-05T17:20:20.907Z"
+  "lastFetchedAt": "2017-10-23T20:58:21.403Z",
+  "packageLastFetchedAt": "2017-05-05T17:20:20.907Z",
+  "archived": false
 }

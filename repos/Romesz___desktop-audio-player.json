@@ -5,7 +5,7 @@
   "owner": {
     "login": "Romesz",
     "id": 3510201,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3510201?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3510201?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Romesz",
     "htmlUrl": "https://github.com/Romesz",
@@ -49,11 +49,7 @@
     "name": "desktop-audio-player",
     "description": "Creating a desktop audio app with Electron",
     "version": "0.0.1",
-    "author": "Romano Firtermaiszter <firtermaiszter.romano@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Romesz/desktop-audio-player.git"
-    },
+    "repository": "https://github.com/Romesz/desktop-audio-player",
     "main": "./app.js",
     "scripts": {
       "start": "electron .",
@@ -68,7 +64,10 @@
       "electron-packager": "^5.0.1",
       "electron-prebuilt": "^0.30.3"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Romano Firtermaiszter <firtermaiszter.romano@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +114,7 @@
   "svnUrl": "https://github.com/Romesz/desktop-audio-player",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:26:22.490Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:48.058Z"
+  "lastFetchedAt": "2017-10-23T20:10:28.217Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:48.058Z",
+  "archived": false
 }

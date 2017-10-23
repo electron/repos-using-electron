@@ -5,7 +5,7 @@
   "owner": {
     "login": "bloch",
     "id": 22861253,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/22861253?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/22861253?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bloch",
     "htmlUrl": "https://github.com/bloch",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "bloch",
     "id": 22861253,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/22861253?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/22861253?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bloch",
     "htmlUrl": "https://github.com/bloch",
@@ -89,9 +89,7 @@
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -146,12 +144,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "@angular/compiler-cli": "^2.1.0",
@@ -263,6 +255,14 @@
       "rxjs": "5.0.0-beta.12",
       "systemjs": "0.19.39",
       "zone.js": "0.6.25"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -291,6 +291,7 @@
   "filename": "ficl-tech___ui.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:01.938Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:58.920Z"
+  "lastFetchedAt": "2017-10-23T20:11:15.611Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:58.920Z",
+  "archived": false
 }

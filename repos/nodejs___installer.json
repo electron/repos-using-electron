@@ -5,7 +5,7 @@
   "owner": {
     "login": "nodejs",
     "id": 9950313,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9950313?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9950313?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nodejs",
     "htmlUrl": "https://github.com/nodejs",
@@ -20,32 +20,38 @@
   "description": "Electron based installer for Node.js.",
   "fork": false,
   "createdAt": "2016-07-01T03:33:46.000Z",
-  "updatedAt": "2017-05-04T13:15:40.000Z",
-  "pushedAt": "2017-04-09T11:52:49.000Z",
+  "updatedAt": "2017-09-25T14:23:31.000Z",
+  "pushedAt": "2017-10-13T14:34:49.000Z",
   "homepage": null,
-  "size": 134,
-  "stargazersCount": 180,
-  "watchersCount": 180,
+  "size": 626,
+  "stargazersCount": 191,
+  "watchersCount": 191,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 22,
-  "openIssuesCount": 13,
-  "openIssues": 13,
-  "watchers": 180,
+  "forksCount": 28,
+  "openIssuesCount": 17,
+  "openIssues": 17,
+  "watchers": 191,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
+  },
   "organization": {
     "login": "nodejs",
     "id": 9950313,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9950313?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9950313?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nodejs",
     "htmlUrl": "https://github.com/nodejs",
@@ -56,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/nodejs/received_events",
     "type": "Organization"
   },
-  "networkCount": 22,
-  "subscribersCount": 24,
+  "networkCount": 28,
+  "subscribersCount": 25,
   "status": 200,
   "packageJSON": {
     "name": "installer",
@@ -87,10 +93,12 @@
       "test": "standard"
     },
     "keywords": [],
-    "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
     "license": "Apache-2.0",
     "build": {
       "appId": "org.nodejs.installer"
+    },
+    "other": {
+      "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)"
     }
   },
   "packageStatus": 200,
@@ -138,6 +146,7 @@
   "svnUrl": "https://github.com/nodejs/installer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:09:10.770Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:28.415Z"
+  "lastFetchedAt": "2017-10-23T17:11:33.106Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:28.415Z",
+  "archived": false
 }

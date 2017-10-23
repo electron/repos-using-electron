@@ -5,7 +5,7 @@
   "owner": {
     "login": "cozy-labs",
     "id": 8415593,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8415593?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8415593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cozy-labs",
     "htmlUrl": "https://github.com/cozy-labs",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/cozy-labs/cozy-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/cozy-labs/cozy-desktop/deployments",
   "createdAt": "2014-08-27T10:10:38.000Z",
-  "updatedAt": "2017-03-31T15:41:25.000Z",
-  "pushedAt": "2017-05-04T16:23:23.000Z",
+  "updatedAt": "2017-06-24T16:57:00.000Z",
+  "pushedAt": "2017-10-23T16:15:43.000Z",
   "gitUrl": "git://github.com/cozy-labs/cozy-desktop.git",
   "sshUrl": "git@github.com:cozy-labs/cozy-desktop.git",
   "cloneUrl": "https://github.com/cozy-labs/cozy-desktop.git",
   "svnUrl": "https://github.com/cozy-labs/cozy-desktop",
   "homepage": "https://cozy-labs.github.io/cozy-desktop/",
-  "size": 6219,
-  "stargazersCount": 28,
-  "watchersCount": 28,
+  "size": 7584,
+  "stargazersCount": 31,
+  "watchersCount": 31,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": true,
   "forksCount": 17,
   "mirrorUrl": null,
-  "openIssuesCount": 10,
-  "openIssues": 10,
-  "watchers": 28,
+  "openIssuesCount": 11,
+  "openIssues": 11,
+  "watchers": 31,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "cozy-labs",
     "id": 8415593,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8415593?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8415593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cozy-labs",
     "htmlUrl": "https://github.com/cozy-labs",
@@ -90,11 +90,7 @@
     "version": "3.0.0-alpha3",
     "description": "File Synchronization Client for Cozy Cloud",
     "homepage": "https://docs.cozy.io/en/mobile/desktop.html",
-    "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozycloud.cc/)",
     "license": "AGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/cozy-labs/cozy-desktop/issues"
-    },
     "main": "./lib/app.js",
     "bin": {
       "cozy-desktop": "bin/cozy-desktop"
@@ -209,6 +205,12 @@
       "sinon": "^2.0.0",
       "sinon-stub-promise": "^4.0.0",
       "source-map-support": "^0.4.11"
+    },
+    "other": {
+      "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozycloud.cc/)",
+      "bugs": {
+        "url": "https://github.com/cozy-labs/cozy-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -236,6 +238,7 @@
   },
   "filename": "cozy-labs___cozy-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:50.460Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:04.138Z"
+  "lastFetchedAt": "2017-10-23T20:39:47.349Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:04.138Z",
+  "archived": false
 }

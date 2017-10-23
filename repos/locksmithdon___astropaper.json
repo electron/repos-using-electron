@@ -5,7 +5,7 @@
   "owner": {
     "login": "don-smith",
     "id": 228761,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/228761?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/228761?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/don-smith",
     "htmlUrl": "https://github.com/don-smith",
@@ -83,10 +83,7 @@
       "test": "gulp test",
       "lint": "gulp lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/locksmithdon/astropaper.git"
-    },
+    "repository": "https://github.com/locksmithdon/astropaper",
     "keywords": [
       "apod",
       "desktop",
@@ -97,11 +94,7 @@
       "react",
       "es6"
     ],
-    "author": "Don Smith <locksmithdon@gmail.com> (http://locksmithdon.net)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/locksmithdon/astropaper/issues"
-    },
     "homepage": "https://github.com/locksmithdon/astropaper",
     "dependencies": {
       "apod": "^0.1.0",
@@ -131,6 +124,12 @@
       "mocha": "^2.2.4",
       "skeleton-less": "^2.0.1",
       "zombie": "^4.0.10"
+    },
+    "other": {
+      "author": "Don Smith <locksmithdon@gmail.com> (http://locksmithdon.net)",
+      "bugs": {
+        "url": "https://github.com/locksmithdon/astropaper/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   },
   "filename": "locksmithdon___astropaper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:39:27.850Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:18.091Z"
+  "lastFetchedAt": "2017-10-23T17:48:55.356Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:18.091Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "shaneherft",
     "id": 8185616,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8185616?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8185616?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shaneherft",
     "htmlUrl": "https://github.com/shaneherft",
@@ -82,21 +82,14 @@
       "prod": "cross-env NODE_ENV=production electron --js-flags='--es_staging' ./",
       "package": "electron-packager . Toptask --platform=darwin --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "cross-env": "^1.0.8",
@@ -111,6 +104,12 @@
       "lodash": "^4.13.1",
       "nconf": "^0.8.4",
       "twit": "^2.2.4"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "shaneherft___Toptask.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:27:03.442Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:55.881Z"
+  "lastFetchedAt": "2017-10-23T21:00:41.682Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:55.881Z",
+  "archived": false
 }

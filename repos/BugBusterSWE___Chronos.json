@@ -5,7 +5,7 @@
   "owner": {
     "login": "BugBusterSWE",
     "id": 16231103,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16231103?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16231103?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BugBusterSWE",
     "htmlUrl": "https://github.com/BugBusterSWE",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "BugBusterSWE",
     "id": 16231103,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16231103?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16231103?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BugBusterSWE",
     "htmlUrl": "https://github.com/BugBusterSWE",
@@ -66,7 +66,6 @@
   "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
-    "author": "BugBusters <bugbusterswe@gmail.com>",
     "name": "chronoswe",
     "description": "A dashboard extensibile with plugin",
     "version": "0.0.1",
@@ -76,10 +75,7 @@
       "dashboard",
       "plugin"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/BugBusterSWE/Chronos.git"
-    },
+    "repository": "https://github.com/BugBusterSWE/Chronos",
     "scripts": {
       "build": "tsc -p src/ && tsc -p src/gui/loader",
       "postinstall": "npm run build",
@@ -95,6 +91,9 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.8"
+    },
+    "other": {
+      "author": "BugBusters <bugbusterswe@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "BugBusterSWE___Chronos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:10.734Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:08.881Z"
+  "lastFetchedAt": "2017-10-23T19:19:22.817Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:08.881Z",
+  "archived": false
 }

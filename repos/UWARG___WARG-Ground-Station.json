@@ -5,7 +5,7 @@
   "owner": {
     "login": "UWARG",
     "id": 3779569,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3779569?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3779569?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/UWARG",
     "htmlUrl": "https://github.com/UWARG",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/UWARG/WARG-Ground-Station/downloads",
   "deploymentsUrl": "https://api.github.com/repos/UWARG/WARG-Ground-Station/deployments",
   "createdAt": "2014-06-06T00:22:55.000Z",
-  "updatedAt": "2017-02-07T19:11:43.000Z",
-  "pushedAt": "2017-05-02T05:25:53.000Z",
+  "updatedAt": "2017-06-19T17:58:12.000Z",
+  "pushedAt": "2017-07-19T21:09:57.000Z",
   "gitUrl": "git://github.com/UWARG/WARG-Ground-Station.git",
   "sshUrl": "git@github.com:UWARG/WARG-Ground-Station.git",
   "cloneUrl": "https://github.com/UWARG/WARG-Ground-Station.git",
   "svnUrl": "https://github.com/UWARG/WARG-Ground-Station",
   "homepage": "http://www.uwarg.com/projects/groundstation/",
-  "size": 6834,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 6805,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 4,
+  "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 3,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "UWARG",
     "id": 3779569,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3779569?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3779569?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/UWARG",
     "htmlUrl": "https://github.com/UWARG",
@@ -82,18 +82,14 @@
     "receivedEventsUrl": "https://api.github.com/users/UWARG/received_events",
     "type": "Organization"
   },
-  "networkCount": 4,
-  "subscribersCount": 15,
+  "networkCount": 6,
+  "subscribersCount": 14,
   "status": 200,
   "packageJSON": {
     "name": "WARG-Ground-Station",
     "version": "4.1.0",
     "description": "The WARG ground station that communiciated directly with the data-relay-station",
-    "author": "Univeristy of Waterloo Arial Robotics Group - www.uwarg.com",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/UWARG/WARG-Ground-Station-V2"
-    },
+    "repository": "https://github.com/UWARG/WARG-Ground-Station-V2",
     "scripts": {
       "start": "./node_modules/.bin/electron .",
       "docs": "./node_modules/.bin/jsdoc -c jsdoc.json",
@@ -126,6 +122,9 @@
       "rewire": "^2.5.1",
       "sinon": "^1.17.4",
       "sinon-chai": "^2.8.0"
+    },
+    "other": {
+      "author": "Univeristy of Waterloo Arial Robotics Group - www.uwarg.com"
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   },
   "filename": "UWARG___WARG-Ground-Station.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:26.641Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:54.964Z"
+  "lastFetchedAt": "2017-10-23T18:31:52.691Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:54.964Z",
+  "archived": false
 }

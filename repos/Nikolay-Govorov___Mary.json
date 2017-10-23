@@ -70,14 +70,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Mary",
     "version": "1.0.0",
     "description": "Text editor for quick development of frontend!",
     "main": "index.js",
     "repository": "git@github.com:Nikolay-Govorov/Mary.git",
-    "author": "Nikolay Govorov <nikolay_govorov@bk.ru>",
     "license": "MIT",
     "scripts": {
       "build": "NDOE_ENV=prodcution webpack",
@@ -123,6 +122,9 @@
       "react": "^15.4.1",
       "react-dom": "^15.4.1",
       "webpack": "2.1.0-beta.27"
+    },
+    "other": {
+      "author": "Nikolay Govorov <nikolay_govorov@bk.ru>"
     }
   },
   "packageStatus": 200,
@@ -151,6 +153,6 @@
   "filename": "Nikolay-Govorov___Mary.json",
   "sourceRepo": "Nikolaj695/Mary",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:15:41.908Z",
+  "lastFetchedAt": "2017-10-23T20:58:29.387Z",
   "packageLastFetchedAt": "2017-05-05T17:37:34.291Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "selfrefactor",
     "id": 2149294,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2149294?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2149294?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/selfrefactor",
     "htmlUrl": "https://github.com/selfrefactor",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/selfrefactor/ils/downloads",
   "deploymentsUrl": "https://api.github.com/repos/selfrefactor/ils/deployments",
   "createdAt": "2016-06-24T02:15:53.000Z",
-  "updatedAt": "2017-01-15T21:59:26.000Z",
-  "pushedAt": "2017-05-01T09:53:00.000Z",
+  "updatedAt": "2017-06-09T08:36:46.000Z",
+  "pushedAt": "2017-08-24T08:31:29.000Z",
   "gitUrl": "git://github.com/selfrefactor/ils.git",
   "sshUrl": "git@github.com:selfrefactor/ils.git",
   "cloneUrl": "https://github.com/selfrefactor/ils.git",
   "svnUrl": "https://github.com/selfrefactor/ils",
   "homepage": "https://ilearnsmarter.com/",
-  "size": 156983,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 163672,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 16,
-  "openIssues": 16,
-  "watchers": 0,
+  "openIssuesCount": 11,
+  "openIssues": 11,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
-  "subscribersCount": 0,
+  "networkCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "ils",
@@ -84,11 +84,7 @@
       "inspect": "node --inspect prod/devStart",
       "old-pre-commit": "jest --json --outputFile=\"config/temp/testResults.json\""
     },
-    "author": "selfrefactor",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/selfrefactor/ils.git"
-    },
+    "repository": "https://github.com/selfrefactor/ils",
     "license": "ISC",
     "dependencies": {
       "babel-eslint": "*",
@@ -201,16 +197,7 @@
       "youtube-dl": "*"
     },
     "other": {
-      "sitemap": "*",
-      "inquirer": "*",
-      "benchmark": "*",
-      "express-status-monitor": "*",
-      "opener": "*",
-      "psi": "*",
-      "ramjet": "*",
-      "react-flip-move": "*",
-      "walker": "~1.0.5",
-      "suppose": "*"
+      "author": "selfrefactor"
     },
     "globalDependencies": {
       "protractor": "*",
@@ -250,6 +237,7 @@
   },
   "filename": "selfrefactor___ils.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:20.534Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:53.976Z"
+  "lastFetchedAt": "2017-10-23T17:11:36.093Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:53.976Z",
+  "archived": false
 }

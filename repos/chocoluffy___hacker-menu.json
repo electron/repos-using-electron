@@ -5,7 +5,7 @@
   "owner": {
     "login": "chocoluffy",
     "id": 13173251,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13173251?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13173251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chocoluffy",
     "htmlUrl": "https://github.com/chocoluffy",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "qiaoxueshi",
       "id": 622533,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/622533?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/622533?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/qiaoxueshi",
       "htmlUrl": "https://github.com/qiaoxueshi",
@@ -97,6 +97,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "jingweno",
       "id": 169064,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/169064?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/169064?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jingweno",
       "htmlUrl": "https://github.com/jingweno",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/jingweno/hacker-menu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jingweno/hacker-menu/deployments",
     "createdAt": "2015-08-17T15:21:43.000Z",
-    "updatedAt": "2017-05-02T11:02:03.000Z",
+    "updatedAt": "2017-10-12T22:57:17.000Z",
     "pushedAt": "2015-12-02T15:41:53.000Z",
     "gitUrl": "git://github.com/jingweno/hacker-menu.git",
     "sshUrl": "git@github.com:jingweno/hacker-menu.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/jingweno/hacker-menu",
     "homepage": "https://hackermenu.io/",
     "size": 382,
-    "stargazersCount": 909,
-    "watchersCount": 909,
+    "stargazersCount": 917,
+    "watchersCount": 917,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 70,
+    "forksCount": 71,
     "mirrorUrl": null,
-    "openIssuesCount": 4,
-    "openIssues": 4,
-    "watchers": 909,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 917,
     "defaultBranch": "master"
   },
-  "networkCount": 70,
+  "networkCount": 71,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -171,16 +173,10 @@
     "version": "1.1.4",
     "description": "A menu to read Hacker News",
     "main": "./dist/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jingweno/hacker-menu.git"
-    },
+    "repository": "https://github.com/jingweno/hacker-menu",
     "engines": {
       "node": "0.12.7",
       "npm": "2.11.3"
-    },
-    "bugs": {
-      "url": "https://github.com/jingweno/hacker-menu/issues"
     },
     "license": "MIT",
     "scripts": {
@@ -195,7 +191,6 @@
       "package_sign": "npm run build && node script/package --sign",
       "release": "npm run package_sign && npm run compress"
     },
-    "author": "Jingwen Owen Ou",
     "config": {
       "electron_version": "0.31.2"
     },
@@ -221,6 +216,12 @@
       "winston": "^1.0.1",
       "request": "^2.62.0",
       "cheerio": "^0.19.0"
+    },
+    "other": {
+      "author": "Jingwen Owen Ou",
+      "bugs": {
+        "url": "https://github.com/jingweno/hacker-menu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -269,6 +270,7 @@
   "svnUrl": "https://github.com/chocoluffy/hacker-menu",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:06:43.855Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:32.822Z"
+  "lastFetchedAt": "2017-10-23T19:02:47.081Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:32.822Z",
+  "archived": false
 }

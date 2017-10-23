@@ -5,7 +5,7 @@
   "owner": {
     "login": "chad-russell",
     "id": 4590989,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4590989?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4590989?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chad-russell",
     "htmlUrl": "https://github.com/chad-russell",
@@ -67,15 +67,11 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Nf5/Nf5.git"
-    },
+    "repository": "https://github.com/Nf5/Nf5",
     "keywords": [
       "Chess",
       "Nf5"
     ],
-    "author": "Chad Russell",
     "license": "MIT",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -104,6 +100,9 @@
       "env": {
         "mocha": true
       }
+    },
+    "other": {
+      "author": "Chad Russell"
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "chad-russell___nf5.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:03.757Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:18.882Z"
+  "lastFetchedAt": "2017-10-23T18:40:48.614Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:18.882Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "sleepygarden",
     "id": 1042944,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1042944?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1042944?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sleepygarden",
     "htmlUrl": "https://github.com/sleepygarden",
@@ -75,7 +75,6 @@
     "name": "electron-template",
     "version": "0.0.0",
     "description": "update me!",
-    "author": "Mike Cornell",
     "license": "MIT",
     "repository": "https://github.com/sleepygarden/electron-template.git",
     "main": "src/main.js",
@@ -90,7 +89,10 @@
     "jshintConfig": {
       "esnext": true
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Mike Cornell"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +119,7 @@
   },
   "filename": "sleepygarden___electron-template.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:18.152Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:44.758Z"
+  "lastFetchedAt": "2017-10-23T18:55:30.176Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:44.758Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "zaki-yama",
     "id": 1001444,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1001444?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1001444?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zaki-yama",
     "htmlUrl": "https://github.com/zaki-yama",
@@ -80,21 +80,14 @@
       "build": "webpack",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "dependencies": {
       "@salesforce-ux/design-system": "^0.12.2",
@@ -110,6 +103,12 @@
       "react": "^0.14.7",
       "react-dom": "^0.14.7",
       "webpack": "^1.12.13"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "zaki-yama___electron-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:49.741Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:20.567Z"
+  "lastFetchedAt": "2017-10-23T18:52:23.882Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:20.567Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "DasEarl",
     "id": 5646150,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5646150?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5646150?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DasEarl",
     "htmlUrl": "https://github.com/DasEarl",
@@ -74,18 +74,17 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TheEarl/shutdown-timer.git"
-    },
-    "author": "",
+    "repository": "https://github.com/TheEarl/shutdown-timer",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/TheEarl/shutdown-timer/issues"
-    },
     "homepage": "https://github.com/TheEarl/shutdown-timer#readme",
     "dependencies": {
       "electron-prebuilt": "^0.35.4"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/TheEarl/shutdown-timer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   },
   "filename": "DasEarl___shutdown-timer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:55:53.502Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:17.494Z"
+  "lastFetchedAt": "2017-10-23T20:38:34.229Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:17.494Z",
+  "archived": false
 }

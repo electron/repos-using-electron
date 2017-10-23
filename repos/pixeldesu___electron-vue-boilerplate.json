@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-vue-boilerplate",
     "version": "0.0.1",
@@ -81,20 +81,13 @@
       "lint": "eslint .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pixeldesu/electron-vue-boilerplate.git"
-    },
+    "repository": "https://github.com/pixeldesu/electron-vue-boilerplate",
     "keywords": [
       "electron",
       "vue",
       "browserify"
     ],
-    "author": "Andreas Nedbal <git@pixelde.su>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pixeldesu/electron-vue-boilerplate/issues"
-    },
     "homepage": "https://github.com/pixeldesu/electron-vue-boilerplate#readme",
     "dependencies": {
       "vue": "^1.0.24",
@@ -122,6 +115,12 @@
       "vue-hot-reload-api": "^1.3.2",
       "vueify": "^8.4.1",
       "vueify-insert-css": "^1.0.0"
+    },
+    "other": {
+      "author": "Andreas Nedbal <git@pixelde.su>",
+      "bugs": {
+        "url": "https://github.com/pixeldesu/electron-vue-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,6 @@
   },
   "filename": "pixeldesu___electron-vue-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:51.406Z",
+  "lastFetchedAt": "2017-10-23T18:14:39.731Z",
   "packageLastFetchedAt": "2017-05-05T15:23:33.543Z"
 }

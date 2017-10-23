@@ -5,7 +5,7 @@
   "owner": {
     "login": "raphaelbs",
     "id": 11169832,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11169832?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11169832?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/raphaelbs",
     "htmlUrl": "https://github.com/raphaelbs",
@@ -75,25 +75,24 @@
       "start": "electron .",
       "build": "electron-packager ./ --all --out=build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/raphaelbs/canvasPoints.git"
-    },
+    "repository": "https://github.com/raphaelbs/canvasPoints",
     "keywords": [
       "canvas",
       "html5",
       "algorithmic",
       "problems"
     ],
-    "author": "Raphael Brandão",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/raphaelbs/canvasPoints/issues"
-    },
     "homepage": "https://github.com/raphaelbs/canvasPoints#readme",
     "devDependencies": {
       "electron": "^1.4.0",
       "electron-packager": "^8.0.0"
+    },
+    "other": {
+      "author": "Raphael Brandão",
+      "bugs": {
+        "url": "https://github.com/raphaelbs/canvasPoints/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "raphaelbs___canvasPoints.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:17:13.547Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:27.942Z"
+  "lastFetchedAt": "2017-10-23T20:08:51.079Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:27.942Z",
+  "archived": false
 }

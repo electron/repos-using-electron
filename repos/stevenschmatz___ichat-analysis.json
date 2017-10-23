@@ -5,7 +5,7 @@
   "owner": {
     "login": "stevenschmatz",
     "id": 5354479,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5354479?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5354479?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stevenschmatz",
     "htmlUrl": "https://github.com/stevenschmatz",
@@ -75,15 +75,8 @@
       "start": "$(npm bin)/babel-node src/app.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stevenschmatz/ichat-analysis.git"
-    },
-    "author": "Steven Schmatz",
+    "repository": "https://github.com/stevenschmatz/ichat-analysis",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/stevenschmatz/ichat-analysis/issues"
-    },
     "homepage": "https://github.com/stevenschmatz/ichat-analysis#readme",
     "dependencies": {
       "electron": "^1.4.5",
@@ -95,6 +88,12 @@
       "babel-cli": "^6.18.0",
       "babel-preset-es2015": "^6.18.0",
       "gulp": "^3.9.1"
+    },
+    "other": {
+      "author": "Steven Schmatz",
+      "bugs": {
+        "url": "https://github.com/stevenschmatz/ichat-analysis/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "stevenschmatz___ichat-analysis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:58.698Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:43.440Z"
+  "lastFetchedAt": "2017-10-23T20:43:32.760Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:43.440Z",
+  "archived": false
 }

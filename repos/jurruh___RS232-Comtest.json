@@ -5,7 +5,7 @@
   "owner": {
     "login": "jurruh",
     "id": 7419259,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7419259?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7419259?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jurruh",
     "htmlUrl": "https://github.com/jurruh",
@@ -78,21 +78,14 @@
       "dev": "electron . --enable-logging",
       "dist:win": "build -w"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-builder": "^5.25.1",
@@ -106,6 +99,12 @@
       "category": "comtest.dorset.nu",
       "win": {
         "iconUrl": "https://eatodo.s3.amazonaws.com/icon.ico"
+      }
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
       }
     }
   },
@@ -134,6 +133,7 @@
   },
   "filename": "jurruh___RS232-Comtest.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:55.894Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:50.608Z"
+  "lastFetchedAt": "2017-10-23T18:53:29.990Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:50.608Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jdlubrano",
     "id": 4729920,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4729920?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4729920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdlubrano",
     "htmlUrl": "https://github.com/jdlubrano",
@@ -80,20 +80,13 @@
       "start": "babel -o build/app.js app.js && electron main.js",
       "package": "electron-packager . --all --out dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jdlubrano/spreadsheet-compiler"
-    },
+    "repository": "https://github.com/jdlubrano/spreadsheet-compiler",
     "keywords": [
       "Electron",
       "Excel",
       "xslx"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jdlubrano/spreadsheet-compiler/issues"
-    },
     "homepage": "https://github.com/jdlubrano/spreadsheet-compiler#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -106,6 +99,12 @@
     "dependencies": {
       "react": "^0.14.7",
       "react-dom": "^0.14.7"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/jdlubrano/spreadsheet-compiler/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   "filename": "jdlubrano___spreadsheet-compiler.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:59.066Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:09.091Z"
+  "lastFetchedAt": "2017-10-23T20:50:13.505Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:09.091Z",
+  "archived": false
 }

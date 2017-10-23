@@ -5,7 +5,7 @@
   "owner": {
     "login": "cabul",
     "id": 4053173,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4053173?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4053173?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cabul",
     "htmlUrl": "https://github.com/cabul",
@@ -80,24 +80,23 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cabul/codex.git"
-    },
+    "repository": "https://github.com/cabul/codex",
     "keywords": [
       "codex",
       "rpg",
       "game"
     ],
-    "author": "Calvin Bulla <calvin.bulla@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cabul/codex/issues"
-    },
     "homepage": "https://github.com/cabul/codex#readme",
     "devDependencies": {
       "electron-packager": "^4.1.2",
       "electron-prebuilt": "^0.27.3"
+    },
+    "other": {
+      "author": "Calvin Bulla <calvin.bulla@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/cabul/codex/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "cabul___codex.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:50.852Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:28.921Z"
+  "lastFetchedAt": "2017-10-23T17:41:08.314Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:28.921Z",
+  "archived": false
 }

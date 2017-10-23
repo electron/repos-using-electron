@@ -5,7 +5,7 @@
   "owner": {
     "login": "thiagonuic",
     "id": 479286,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/479286?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/479286?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thiagonuic",
     "htmlUrl": "https://github.com/thiagonuic",
@@ -50,7 +50,6 @@
     "version": "0.0.1",
     "description": "Git GUI made with Electron",
     "main": "index.js",
-    "author": "Thiago Nuic Vidigal",
     "license": "ISC",
     "dependencies": {
       "nodegit": "0.4.1",
@@ -64,6 +63,9 @@
     },
     "engines": {
       "atom-shell": "0.33.0"
+    },
+    "other": {
+      "author": "Thiago Nuic Vidigal"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
   "svnUrl": "https://github.com/thiagonuic/gitron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:17:50.119Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:28.770Z"
+  "lastFetchedAt": "2017-10-23T17:46:04.655Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:28.770Z",
+  "archived": false
 }

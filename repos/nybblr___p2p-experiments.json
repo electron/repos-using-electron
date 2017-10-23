@@ -5,7 +5,7 @@
   "owner": {
     "login": "nybblr",
     "id": 794113,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/794113?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/794113?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nybblr",
     "htmlUrl": "https://github.com/nybblr",
@@ -20,12 +20,12 @@
   "description": "Just an Electron app for experimenting with P2P collaboration over various transports.",
   "fork": false,
   "createdAt": "2016-05-20T21:49:22.000Z",
-  "updatedAt": "2016-10-19T21:36:33.000Z",
+  "updatedAt": "2017-08-24T13:29:07.000Z",
   "pushedAt": "2016-08-01T17:52:38.000Z",
   "homepage": "https://speakerdeck.com/nybblr/does-the-network-seem-thin-up-here-collaborating-with-mountaintop-mesh-networks",
   "size": 504,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -60,21 +60,14 @@
       "start": "electron main.js",
       "build": "electron-packager . --platform=darwin --arch=x64 --tmpdir=false"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "devtron": "^1.2.1",
@@ -95,6 +88,12 @@
       "ottypes": "~1.0.3",
       "string-hash": "1.1.x",
       "ws": "^1.1.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   "svnUrl": "https://github.com/nybblr/p2p-experiments",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:41:40.667Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:44.094Z"
+  "lastFetchedAt": "2017-10-23T19:04:56.165Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:44.094Z",
+  "archived": false
 }

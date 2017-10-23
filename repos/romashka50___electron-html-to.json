@@ -5,7 +5,7 @@
   "owner": {
     "login": "romashka50",
     "id": 4192529,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4192529?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4192529?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/romashka50",
     "htmlUrl": "https://github.com/romashka50",
@@ -86,21 +86,9 @@
         "/Volumes/Data/Projects/NodeJS/EasyErp-Desktop"
       ]
     ],
-    "_from": "electron-html-to@latest",
-    "_id": "electron-html-to@2.1.1",
     "_inCache": true,
     "_installable": true,
     "_location": "/electron-html-to",
-    "_nodeVersion": "0.10.45",
-    "_npmOperationalInternal": {
-      "host": "packages-12-west.internal.npmjs.com",
-      "tmp": "tmp/electron-html-to-2.1.1.tgz_1465144864737_0.531459498219192"
-    },
-    "_npmUser": {
-      "name": "bjrmatos",
-      "email": "bjrmatos@gmail.com"
-    },
-    "_npmVersion": "2.15.6",
     "_phantomChildren": {
       "aws-sign2": "0.6.0",
       "aws4": "1.4.1",
@@ -138,18 +126,9 @@
       "/"
     ],
     "_resolved": "https://registry.npmjs.org/electron-html-to/-/electron-html-to-2.1.1.tgz",
-    "_shasum": "baa3b8940c6e10e095fcf0030fd2df0437480487",
     "_shrinkwrap": null,
     "_spec": "electron-html-to",
     "_where": "/Volumes/Data/Projects/NodeJS/EasyErp-Desktop",
-    "author": {
-      "name": "BJR Matos",
-      "email": "bjrmatos@gmail.com",
-      "url": "https://github.com/bjrmatos"
-    },
-    "bugs": {
-      "url": "https://github.com/bjrmatos/electron-html-to/issues"
-    },
     "dependencies": {
       "body": "5.1.0",
       "debug": "2.2.0",
@@ -178,11 +157,6 @@
       "rimraf": "2.5.2",
       "should": "9.0.0"
     },
-    "directories": {},
-    "dist": {
-      "shasum": "baa3b8940c6e10e095fcf0030fd2df0437480487",
-      "tarball": "https://registry.npmjs.org/electron-html-to/-/electron-html-to-2.1.1.tgz"
-    },
     "gitHead": "239d11f48cdbec858722dce38ba893a2e4646d82",
     "homepage": "https://github.com/bjrmatos/electron-html-to",
     "keywords": [
@@ -194,19 +168,10 @@
     ],
     "license": "MIT",
     "main": "lib/index.js",
-    "maintainers": [
-      {
-        "name": "bjrmatos",
-        "email": "bjrmatos@gmail.com"
-      }
-    ],
     "name": "electron-html-to",
     "optionalDependencies": {},
     "readme": "ERROR: No README data found!",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bjrmatos/electron-html-to.git"
-    },
+    "repository": "https://github.com/bjrmatos/electron-html-to",
     "scripts": {
       "build": "babel src --out-dir lib",
       "clean": "rimraf lib",
@@ -214,7 +179,51 @@
       "prepublish": "in-publish && npm-run-all lint clean build || not-in-publish",
       "test": "mocha test/test.js --timeout 8000"
     },
-    "version": "2.1.1"
+    "version": "2.1.1",
+    "lastPublisher": {
+      "name": "bjrmatos",
+      "email": "bjrmatos@gmail.com"
+    },
+    "owners": [
+      {
+        "name": "bjrmatos",
+        "email": "bjrmatos@gmail.com"
+      }
+    ],
+    "other": {
+      "_from": "electron-html-to@latest",
+      "_id": "electron-html-to@2.1.1",
+      "_nodeVersion": "0.10.45",
+      "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/electron-html-to-2.1.1.tgz_1465144864737_0.531459498219192"
+      },
+      "_npmUser": {
+        "name": "bjrmatos",
+        "email": "bjrmatos@gmail.com"
+      },
+      "_npmVersion": "2.15.6",
+      "_shasum": "baa3b8940c6e10e095fcf0030fd2df0437480487",
+      "author": {
+        "name": "BJR Matos",
+        "email": "bjrmatos@gmail.com",
+        "url": "https://github.com/bjrmatos"
+      },
+      "bugs": {
+        "url": "https://github.com/bjrmatos/electron-html-to/issues"
+      },
+      "directories": {},
+      "dist": {
+        "shasum": "baa3b8940c6e10e095fcf0030fd2df0437480487",
+        "tarball": "https://registry.npmjs.org/electron-html-to/-/electron-html-to-2.1.1.tgz"
+      },
+      "maintainers": [
+        {
+          "name": "bjrmatos",
+          "email": "bjrmatos@gmail.com"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -241,6 +250,7 @@
   },
   "filename": "romashka50___electron-html-to.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:06:42.678Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:59.645Z"
+  "lastFetchedAt": "2017-10-23T21:05:00.745Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:59.645Z",
+  "archived": false
 }

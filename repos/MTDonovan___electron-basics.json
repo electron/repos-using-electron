@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-basics",
     "version": "1.0.0",
@@ -73,15 +73,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MTDonovan/electron-basics.git"
-    },
-    "author": "MTDonovan",
+    "repository": "https://github.com/MTDonovan/electron-basics",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/MTDonovan/electron-basics/issues"
-    },
     "homepage": "https://github.com/MTDonovan/electron-basics#readme",
     "devDependencies": {
       "@types/node": "^7.0.0",
@@ -89,7 +82,13 @@
       "jquery": "^3.1.1",
       "js-yaml": "^3.7.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "MTDonovan",
+      "bugs": {
+        "url": "https://github.com/MTDonovan/electron-basics/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -116,6 +115,6 @@
   },
   "filename": "MTDonovan___electron-basics.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:45.990Z",
+  "lastFetchedAt": "2017-10-23T18:31:31.689Z",
   "packageLastFetchedAt": "2017-05-04T22:00:06.236Z"
 }

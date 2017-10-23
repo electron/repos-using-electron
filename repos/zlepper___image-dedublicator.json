@@ -64,19 +64,21 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "image-dedublicatorinator",
     "version": "1.0.0",
     "description": "Founds images that are the same",
     "main": "main.js",
-    "author": "Zlepper",
     "license": "MIT",
     "dependencies": {
       "bluebird": "^3.4.6",
       "electron": "^1.4.5",
       "jimp": "^0.2.27",
       "node-sass": "^3.10.1"
+    },
+    "other": {
+      "author": "Zlepper"
     }
   },
   "packageStatus": 200,
@@ -104,6 +106,6 @@
   },
   "filename": "zlepper___image-dedublicator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:38.265Z",
+  "lastFetchedAt": "2017-10-23T18:33:15.783Z",
   "packageLastFetchedAt": "2017-05-05T15:08:47.119Z"
 }

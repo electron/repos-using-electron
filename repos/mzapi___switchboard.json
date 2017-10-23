@@ -5,7 +5,7 @@
   "owner": {
     "login": "mzapi",
     "id": 18709904,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18709904?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18709904?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mzapi",
     "htmlUrl": "https://github.com/mzapi",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "mzapi",
     "id": 18709904,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18709904?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18709904?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mzapi",
     "htmlUrl": "https://github.com/mzapi",
@@ -84,10 +84,6 @@
     "version": "0.0.1",
     "description": "GM Buddy is an application that easily facilitates customer support on Mangos Zero private servers.",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -97,7 +93,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "Joshua Tyree",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -169,7 +164,14 @@
         "InternalName": null
       }
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Joshua Tyree",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -197,6 +199,7 @@
   "filename": "mzapi___switchboard.json",
   "sourceRepo": "JoshuaTyree/gm-buddy",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:40.094Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:59.190Z"
+  "lastFetchedAt": "2017-10-23T19:05:58.288Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:59.190Z",
+  "archived": false
 }

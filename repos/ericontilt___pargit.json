@@ -5,7 +5,7 @@
   "owner": {
     "login": "ericontilt",
     "id": 916071,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/916071?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/916071?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ericontilt",
     "htmlUrl": "https://github.com/ericontilt",
@@ -81,19 +81,12 @@
       "build": "./node_modules/.bin/webpack",
       "watch": "./node_modules/.bin/webpack-dev-server --hot --inline"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ericberagg/pargit.git"
-    },
+    "repository": "https://github.com/ericberagg/pargit",
     "keywords": [
       "git",
       "gui"
     ],
-    "author": "Eric Beragg",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ericberagg/pargit/issues"
-    },
     "homepage": "https://github.com/ericberagg/pargit#readme",
     "devDependencies": {
       "babel-core": "^6.7.6",
@@ -109,6 +102,12 @@
       "react-dom": "^15.0.1",
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "Eric Beragg",
+      "bugs": {
+        "url": "https://github.com/ericberagg/pargit/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "ericontilt___pargit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:20.746Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:34.515Z"
+  "lastFetchedAt": "2017-10-23T20:47:42.250Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:34.515Z",
+  "archived": false
 }

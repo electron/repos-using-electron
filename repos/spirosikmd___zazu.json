@@ -5,7 +5,7 @@
   "owner": {
     "login": "spirosikmd",
     "id": 1057324,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1057324?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1057324?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/spirosikmd",
     "htmlUrl": "https://github.com/spirosikmd",
@@ -77,15 +77,7 @@
     "main": "main.js",
     "description": "Dead simple,  keyboard shortcut todo app",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/spirosikmd/zazu"
-    },
-    "author": {
-      "name": "Spyros Ioakeimidis",
-      "email": "spyrosikmd@gmail.com",
-      "url": "http://spyros.io"
-    },
+    "repository": "https://github.com/spirosikmd/zazu",
     "scripts": {
       "test": "karma start",
       "start": "export ENV=development && concurrently --kill-others \"webpack-dev-server --inline --progress --port 8080\" \"electron .\"",
@@ -156,6 +148,13 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.16.2",
       "webpack-merge": "^1.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "Spyros Ioakeimidis",
+        "email": "spyrosikmd@gmail.com",
+        "url": "http://spyros.io"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   },
   "filename": "spirosikmd___zazu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:31:33.693Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:33.072Z"
+  "lastFetchedAt": "2017-10-23T19:26:30.794Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:33.072Z",
+  "archived": false
 }

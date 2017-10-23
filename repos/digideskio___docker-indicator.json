@@ -5,7 +5,7 @@
   "owner": {
     "login": "digideskio",
     "id": 14135456,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14135456?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14135456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/digideskio",
     "htmlUrl": "https://github.com/digideskio",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "khornberg",
       "id": 3442051,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3442051?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3442051?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/khornberg",
       "htmlUrl": "https://github.com/khornberg",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/khornberg/docker-indicator/downloads",
     "deploymentsUrl": "https://api.github.com/repos/khornberg/docker-indicator/deployments",
     "createdAt": "2015-10-20T13:20:04.000Z",
-    "updatedAt": "2017-03-24T00:03:10.000Z",
+    "updatedAt": "2017-09-17T15:04:24.000Z",
     "pushedAt": "2016-12-02T21:22:49.000Z",
     "gitUrl": "git://github.com/khornberg/docker-indicator.git",
     "sshUrl": "git@github.com:khornberg/docker-indicator.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/khornberg/docker-indicator",
     "homepage": null,
     "size": 376,
-    "stargazersCount": 24,
-    "watchersCount": 24,
+    "stargazersCount": 29,
+    "watchersCount": 29,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 4,
+    "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 5,
     "openIssues": 5,
-    "watchers": 24,
+    "watchers": 29,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "khornberg",
       "id": 3442051,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3442051?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3442051?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/khornberg",
       "htmlUrl": "https://github.com/khornberg",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/khornberg/docker-indicator/downloads",
     "deploymentsUrl": "https://api.github.com/repos/khornberg/docker-indicator/deployments",
     "createdAt": "2015-10-20T13:20:04.000Z",
-    "updatedAt": "2017-03-24T00:03:10.000Z",
+    "updatedAt": "2017-09-17T15:04:24.000Z",
     "pushedAt": "2016-12-02T21:22:49.000Z",
     "gitUrl": "git://github.com/khornberg/docker-indicator.git",
     "sshUrl": "git@github.com:khornberg/docker-indicator.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/khornberg/docker-indicator",
     "homepage": null,
     "size": 376,
-    "stargazersCount": 24,
-    "watchersCount": 24,
+    "stargazersCount": 29,
+    "watchersCount": 29,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 4,
+    "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 5,
     "openIssues": 5,
-    "watchers": 24,
+    "watchers": 29,
     "defaultBranch": "master"
   },
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -187,8 +189,10 @@
       "build": "npm run pack && node_modules/.bin/electron-builder \"dist/docker-indicator-darwin-x64/docker-indicator.app\" --platform=osx --out=\"dist\" --config=packager.json",
       "start": "electron ."
     },
-    "author": "Kyle Hornberg <kyle.hornberg@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Kyle Hornberg <kyle.hornberg@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -236,6 +240,7 @@
   "svnUrl": "https://github.com/digideskio/docker-indicator",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:30:53.012Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:21.540Z"
+  "lastFetchedAt": "2017-10-23T18:11:35.147Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:21.540Z",
+  "archived": false
 }

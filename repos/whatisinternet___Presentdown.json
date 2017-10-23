@@ -5,7 +5,7 @@
   "owner": {
     "login": "whatisinternet",
     "id": 5445478,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5445478?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5445478?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/whatisinternet",
     "htmlUrl": "https://github.com/whatisinternet",
@@ -69,10 +69,7 @@
     "name": "Presentdown",
     "version": "0.0.5",
     "description": "Create awesome presentations just using markdown",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/whatisinternet/Presentdown.git"
-    },
+    "repository": "https://github.com/whatisinternet/Presentdown",
     "main": "index.js",
     "scripts": {
       "gulp": "gulp",
@@ -81,7 +78,6 @@
       "deploy-viewer": "NODE_ENV=production webpack -p --config config/webpack.electron.config.js",
       "app": "webpack-dev-server --devtool eval --progress --colors --host 0.0.0.0 --config config/webpack.config.js"
     },
-    "author": "Josh Teeter",
     "license": "BSD 3-Clause",
     "dependencies": {
       "bemmer-node": "^0.1.2",
@@ -122,6 +118,9 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.8.10",
       "webpack-dev-server": "~1.12.1"
+    },
+    "other": {
+      "author": "Josh Teeter"
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   },
   "filename": "whatisinternet___Presentdown.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:00.107Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:46.573Z"
+  "lastFetchedAt": "2017-10-23T20:34:51.519Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:46.573Z",
+  "archived": false
 }

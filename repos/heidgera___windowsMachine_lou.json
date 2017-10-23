@@ -6,7 +6,7 @@
   "owner": {
     "login": "heidgera",
     "id": 827498,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/827498?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/827498?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/heidgera",
     "htmlUrl": "https://github.com/heidgera",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-03T20:06:15.031Z",
+  "lastFetchedAt": "2017-10-23T18:35:03.020Z",
   "packageJSON": {
     "name": "WindowsMachine",
     "version": "1.0.1",
@@ -76,18 +76,18 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/heidgera/mission4Hacker.git"
-    },
-    "author": "ajhg",
+    "repository": "https://github.com/heidgera/mission4Hacker",
     "license": "CC0-1.0",
     "homepage": "https://github.com/heidgera/mission4Hacker#readme",
     "dependencies": {
       "electron": "^1.4.5",
       "rpio": "^0.9.12"
+    },
+    "other": {
+      "author": "ajhg"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:20:24.265Z"
+  "packageLastFetchedAt": "2017-05-04T22:20:24.265Z",
+  "archived": false
 }

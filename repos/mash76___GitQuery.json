@@ -5,7 +5,7 @@
   "owner": {
     "login": "mash76",
     "id": 1288268,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1288268?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1288268?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mash76",
     "htmlUrl": "https://github.com/mash76",
@@ -53,24 +53,23 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "Git",
       "GitQuery",
       "Diff"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   "svnUrl": "https://github.com/mash76/GitQuery",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:12:51.562Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:07.828Z"
+  "lastFetchedAt": "2017-10-23T19:25:43.340Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:07.828Z",
+  "archived": false
 }

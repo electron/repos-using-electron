@@ -5,7 +5,7 @@
   "owner": {
     "login": "SomeoneWeird",
     "id": 665754,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/665754?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/665754?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SomeoneWeird",
     "htmlUrl": "https://github.com/SomeoneWeird",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electron-plugin-issue",
@@ -78,19 +78,18 @@
       "pack": "npm run pack:osx",
       "pack:osx": "electron-packager . \"electron-plugin-issue\" --out=dist/osx --platform=darwin --arch=x64 --version=0.36.5"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:SomeoneWeird/electron-plugin-issue.git"
-    },
-    "author": "Adam Brady <adam@boxxen.org>",
-    "bugs": {
-      "url": "https://github.com/SomeoneWeird/electron-plugin-issue/issues"
-    },
+    "repository": "https://github.com/SomeoneWeird/electron-plugin-issue",
     "homepage": "https://github.com/SomeoneWeird/electron-plugin-issue#readme",
     "dependencies": {
       "electron-builder": "^2.6.0",
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.5"
+    },
+    "other": {
+      "author": "Adam Brady <adam@boxxen.org>",
+      "bugs": {
+        "url": "https://github.com/SomeoneWeird/electron-plugin-issue/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "SomeoneWeird___electron-plugin-issue.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:48.335Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:51.943Z"
+  "lastFetchedAt": "2017-10-23T17:45:16.519Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:51.943Z",
+  "archived": false
 }

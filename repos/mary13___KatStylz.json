@@ -5,7 +5,7 @@
   "owner": {
     "login": "mary13",
     "id": 1772417,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1772417?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1772417?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mary13",
     "htmlUrl": "https://github.com/mary13",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for blossom goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -124,7 +119,14 @@
       "ember-truth-helpers": "1.2.0",
       "liquid-fire": "0.22.0"
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +154,7 @@
   "filename": "mary13___KatStylz.json",
   "sourceRepo": "zigahertz/dr_blossom",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:40.622Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:05.154Z"
+  "lastFetchedAt": "2017-10-23T20:32:45.869Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:05.154Z",
+  "archived": false
 }

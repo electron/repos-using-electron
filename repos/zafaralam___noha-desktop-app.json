@@ -5,7 +5,7 @@
   "owner": {
     "login": "zafaralam",
     "id": 1768203,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1768203?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1768203?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zafaralam",
     "htmlUrl": "https://github.com/zafaralam",
@@ -80,21 +80,14 @@
       "start": "electron .",
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zafaralam/noha-desktop-app.git"
-    },
+    "repository": "https://github.com/zafaralam/noha-desktop-app",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Zafar Alam",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zafaralam/noha-desktop-app/issues"
-    },
     "homepage": "https://github.com/zafaralam/noha-desktop-app#readme",
     "devDependencies": {
       "electron": "^1.3.4",
@@ -109,6 +102,12 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "Zafar Alam",
+      "bugs": {
+        "url": "https://github.com/zafaralam/noha-desktop-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "filename": "zafaralam___noha-desktop-app.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:39.596Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:19.688Z"
+  "lastFetchedAt": "2017-10-23T19:15:10.322Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:19.688Z",
+  "archived": false
 }

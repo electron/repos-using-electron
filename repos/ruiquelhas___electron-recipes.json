@@ -5,7 +5,7 @@
   "owner": {
     "login": "ruiquelhas",
     "id": 413255,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/413255?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/413255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ruiquelhas",
     "htmlUrl": "https://github.com/ruiquelhas",
@@ -62,16 +62,9 @@
       "redux"
     ],
     "homepage": "https://github.com/ruiquelhas/electron-recipes#readme",
-    "bugs": {
-      "url": "https://github.com/ruiquelhas/electron-recipes/issues"
-    },
     "license": "MIT",
-    "author": "Rui Quelhas <rfpquelhas@gmail.com>",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ruiquelhas/electron-recipes.git"
-    },
+    "repository": "https://github.com/ruiquelhas/electron-recipes",
     "scripts": {
       "cleanup": "rm -rf dist",
       "compile": "npm run cleanup && babel src --out-dir dist",
@@ -122,7 +115,13 @@
     },
     "pre-commit": [
       "lint"
-    ]
+    ],
+    "other": {
+      "author": "Rui Quelhas <rfpquelhas@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/ruiquelhas/electron-recipes/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/ruiquelhas/electron-recipes",
@@ -169,6 +168,7 @@
   },
   "filename": "ruiquelhas___electron-recipes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:48.444Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:47.376Z"
+  "lastFetchedAt": "2017-10-23T20:27:11.144Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:47.376Z",
+  "archived": false
 }

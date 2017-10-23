@@ -5,7 +5,7 @@
   "owner": {
     "login": "usecanvas",
     "id": 8454979,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8454979?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8454979?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/usecanvas",
     "htmlUrl": "https://github.com/usecanvas",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "usecanvas",
     "id": 8454979,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8454979?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8454979?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/usecanvas",
     "htmlUrl": "https://github.com/usecanvas",
@@ -57,7 +57,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 4,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "hello-world",
@@ -80,10 +80,6 @@
       "ember-export-application-global": "^1.0.2",
       "foreman": "^1.3.0"
     },
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "main": "main.js",
     "private": true,
     "repository": "https://github.com/usecanvas/ember-electron.git",
@@ -92,6 +88,12 @@
       "dev": "nf start",
       "start": "ember server",
       "test": "ember test"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +141,7 @@
   },
   "filename": "usecanvas___ember-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:16.623Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:14.383Z"
+  "lastFetchedAt": "2017-10-23T20:29:51.445Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:14.383Z",
+  "archived": false
 }

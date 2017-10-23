@@ -5,7 +5,7 @@
   "owner": {
     "login": "design-first",
     "id": 24397362,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/24397362?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/24397362?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/design-first",
     "htmlUrl": "https://github.com/design-first",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/design-first/system-designer-electron",
-  "description": "System Designer for Electron",
+  "description": "System Designer for macOS & Windows",
   "fork": false,
   "url": "https://api.github.com/repos/design-first/system-designer-electron",
   "forksUrl": "https://api.github.com/repos/design-first/system-designer-electron/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/design-first/system-designer-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/design-first/system-designer-electron/deployments",
   "createdAt": "2016-08-12T18:04:09.000Z",
-  "updatedAt": "2017-04-17T14:02:36.000Z",
-  "pushedAt": "2017-05-01T17:05:26.000Z",
+  "updatedAt": "2017-09-26T14:05:58.000Z",
+  "pushedAt": "2017-09-20T18:20:01.000Z",
   "gitUrl": "git://github.com/design-first/system-designer-electron.git",
   "sshUrl": "git@github.com:design-first/system-designer-electron.git",
   "cloneUrl": "https://github.com/design-first/system-designer-electron.git",
   "svnUrl": "https://github.com/design-first/system-designer-electron",
   "homepage": "",
-  "size": 11753,
-  "stargazersCount": 0,
-  "watchersCount": 0,
-  "language": "HTML",
+  "size": 18875,
+  "stargazersCount": 3,
+  "watchersCount": 3,
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "design-first",
     "id": 24397362,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/24397362?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/24397362?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/design-first",
     "htmlUrl": "https://github.com/design-first",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/design-first/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -91,11 +91,6 @@
     "version": "1.9.7",
     "description": "System Designer, an IDE for designing JavaScript applications driven by the model",
     "homepage": "https://designfirst.io/systemdesigner/",
-    "author": {
-      "name": "erwan carriou",
-      "email": "erwan.carriou@mac.com",
-      "twitter": "@ecarriou"
-    },
     "main": "main.js",
     "license": "Apache-2.0",
     "scripts": {
@@ -104,6 +99,13 @@
     "devDependencies": {
       "electron-packager": "8.6.0",
       "electron": "1.6.6"
+    },
+    "other": {
+      "author": {
+        "name": "erwan carriou",
+        "email": "erwan.carriou@mac.com",
+        "twitter": "@ecarriou"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +133,7 @@
   },
   "filename": "system-sdk___system-designer-electron.json",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T04:56:22.016Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:30.341Z"
+  "lastFetchedAt": "2017-10-23T17:54:22.894Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:30.341Z",
+  "archived": false
 }

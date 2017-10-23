@@ -5,7 +5,7 @@
   "owner": {
     "login": "artemjackson",
     "id": 3768221,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3768221?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3768221?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/artemjackson",
     "htmlUrl": "https://github.com/artemjackson",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "trainer",
@@ -78,7 +78,6 @@
       "win-pack": "electron-packager build/ NavEquipTrainer --platform=win32 --arch=all --version=0.33.3 --overwrite",
       "ales": "electron-packager SldrTrainer/ SldrTrainer --platform=win32 --arch=ia32 --version=0.33.3 --overwrite"
     },
-    "author": "Artsiom Stsepanishchau",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^5.8.25",
@@ -113,6 +112,9 @@
     "browserify-shim": {
       "angular": "global:angular",
       "moment": "global:moment"
+    },
+    "other": {
+      "author": "Artsiom Stsepanishchau"
     }
   },
   "packageStatus": 200,
@@ -140,6 +142,7 @@
   },
   "filename": "artemjackson___MilitaryNavigationEquipmentTrainer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:45.012Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:07.425Z"
+  "lastFetchedAt": "2017-10-23T18:12:58.633Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:07.425Z",
+  "archived": false
 }

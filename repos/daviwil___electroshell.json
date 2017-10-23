@@ -5,7 +5,7 @@
   "owner": {
     "login": "daviwil",
     "id": 79405,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/79405?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/79405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/daviwil",
     "htmlUrl": "https://github.com/daviwil",
@@ -20,12 +20,12 @@
   "description": "An experimental PowerShell console hosted in Electron.",
   "fork": false,
   "createdAt": "2016-01-11T01:02:29.000Z",
-  "updatedAt": "2016-09-13T16:20:36.000Z",
+  "updatedAt": "2017-07-21T06:05:53.000Z",
   "pushedAt": "2016-01-20T06:07:34.000Z",
   "homepage": null,
   "size": 67,
-  "stargazersCount": 13,
-  "watchersCount": 13,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 13,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -54,7 +54,6 @@
   "packageJSON": {
     "name": "electroshell",
     "version": "0.0.1",
-    "author": "David Wilson",
     "license": "MIT",
     "description": "An experimental PowerShell console hosted in Electron.",
     "main": "out/main.js",
@@ -63,18 +62,12 @@
       "compile": "webpack",
       "watch": "./node_modules/.bin/webpack-dev-server --hot --inline"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/daviwil/electroshell.git"
-    },
+    "repository": "https://github.com/daviwil/electroshell",
     "keywords": [
       "PowerShell",
       "console",
       "REPL"
     ],
-    "bugs": {
-      "url": "https://github.com/daviwil/electroshell/issues"
-    },
     "homepage": "https://github.com/daviwil/electroshell",
     "dependencies": {
       "babel-loader": "^6.2.1",
@@ -93,7 +86,13 @@
       "webpack": "^1.12.11",
       "webpack-dev-server": "^1.14.1"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": "David Wilson",
+      "bugs": {
+        "url": "https://github.com/daviwil/electroshell/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +139,7 @@
   "svnUrl": "https://github.com/daviwil/electroshell",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:18:50.644Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:38.302Z"
+  "lastFetchedAt": "2017-10-23T18:01:43.472Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:38.302Z",
+  "archived": false
 }

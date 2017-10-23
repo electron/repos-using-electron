@@ -5,7 +5,7 @@
   "owner": {
     "login": "gaurcs",
     "id": 8504050,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8504050?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8504050?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gaurcs",
     "htmlUrl": "https://github.com/gaurcs",
@@ -73,24 +73,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gaurcs/CricketData.git"
-    },
+    "repository": "https://github.com/gaurcs/CricketData",
     "keywords": [
       "Electron",
       "Cricket",
       "Data",
       "tutorial"
     ],
-    "author": "Vasu Gaur",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/gaurcs/CricketData/issues"
-    },
     "homepage": "https://github.com/gaurcs/CricketData/blob/master/README.md",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Vasu Gaur",
+      "bugs": {
+        "url": "https://github.com/gaurcs/CricketData/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "gaurcs___CricketData.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:50.396Z",
-  "packageLastFetchedAt": "2017-05-05T15:35:59.397Z"
+  "lastFetchedAt": "2017-10-23T17:57:32.100Z",
+  "packageLastFetchedAt": "2017-05-05T15:35:59.397Z",
+  "archived": false
 }

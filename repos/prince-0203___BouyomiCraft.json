@@ -5,7 +5,7 @@
   "owner": {
     "login": "prince0203",
     "id": 15273128,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15273128?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15273128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prince0203",
     "htmlUrl": "https://github.com/prince0203",
@@ -84,15 +84,8 @@
       "start": "node_modules/.bin/electron .",
       "build": "node electron-build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/prince-0203/BouyomiCraft.git"
-    },
-    "author": "prince",
+    "repository": "https://github.com/prince-0203/BouyomiCraft",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/prince-0203/BouyomiCraft/issues"
-    },
     "homepage": "https://github.com/prince-0203/BouyomiCraft#readme",
     "devDependencies": {
       "electron-packager": "^7.4.0",
@@ -102,6 +95,12 @@
     "dependencies": {
       "iconv-lite": "^0.4.13",
       "jquery": "^3.1.0"
+    },
+    "other": {
+      "author": "prince",
+      "bugs": {
+        "url": "https://github.com/prince-0203/BouyomiCraft/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "prince-0203___BouyomiCraft.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:00.121Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:37.229Z"
+  "lastFetchedAt": "2017-10-23T20:14:30.010Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:37.229Z",
+  "archived": false
 }

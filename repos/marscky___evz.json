@@ -5,7 +5,7 @@
   "owner": {
     "login": "marscky",
     "id": 10319923,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10319923?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10319923?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/marscky",
     "htmlUrl": "https://github.com/marscky",
@@ -87,7 +87,6 @@
       "pack-win32": "electron-packager . EVZ --platform=win32 --arch=ia32 --out=dist/  --icon=app/asset/icons/icon.ico",
       "pack": "npm run clean && npm run pack-osx && npm run pack-win32"
     },
-    "author": "Mars Cheng <mc.return.void@gmail.com>",
     "license": "GPL-2.0",
     "devDependencies": {
       "electron": "^1.4.1",
@@ -107,6 +106,9 @@
       "request": "^2.74.0",
       "request-promise-native": "^1.0.3",
       "vue": "^1.0.26"
+    },
+    "other": {
+      "author": "Mars Cheng <mc.return.void@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -134,6 +136,7 @@
   },
   "filename": "marscky___evz.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:35.295Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:33.528Z"
+  "lastFetchedAt": "2017-10-23T17:56:53.975Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:33.528Z",
+  "archived": false
 }

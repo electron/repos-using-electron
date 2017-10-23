@@ -5,7 +5,7 @@
   "owner": {
     "login": "hrysd",
     "id": 1663465,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1663465?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1663465?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hrysd",
     "htmlUrl": "https://github.com/hrysd",
@@ -81,21 +81,11 @@
       "watch": "watchify -v -t babelify src/index.js -o bundle.js",
       "app": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/hrysd/YaNV.git"
-    },
+    "repository": "https://github.com/hrysd/YaNV",
     "keywords": [
       "editor"
     ],
-    "author": {
-      "name": "Hiroshi Yoshida",
-      "url": "hrysd.org"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hrysd/YaNV/issues"
-    },
     "homepage": "https://github.com/hrysd/YaNV#readme",
     "devDependencies": {
       "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4",
@@ -110,6 +100,15 @@
       "draft-js": "0.4.0",
       "react": "15.0.1",
       "react-dom": "15.0.1"
+    },
+    "other": {
+      "author": {
+        "name": "Hiroshi Yoshida",
+        "url": "hrysd.org"
+      },
+      "bugs": {
+        "url": "https://github.com/hrysd/YaNV/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "hrysd___YaNV.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:14.400Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:54.663Z"
+  "lastFetchedAt": "2017-10-23T19:16:23.418Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:54.663Z",
+  "archived": false
 }

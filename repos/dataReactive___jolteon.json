@@ -6,7 +6,7 @@
   "owner": {
     "login": "dataReactive",
     "id": 16281596,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16281596?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16281596?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dataReactive",
     "htmlUrl": "https://github.com/dataReactive",
@@ -66,7 +66,7 @@
   "organization": {
     "login": "dataReactive",
     "id": 16281596,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16281596?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16281596?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dataReactive",
     "htmlUrl": "https://github.com/dataReactive",
@@ -84,7 +84,7 @@
     "owner": {
       "login": "vulpino",
       "id": 7596630,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/7596630?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7596630?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/vulpino",
       "htmlUrl": "https://github.com/vulpino",
@@ -114,7 +114,7 @@
     "downloadsUrl": "https://api.github.com/repos/vulpino/jolteon/downloads",
     "deploymentsUrl": "https://api.github.com/repos/vulpino/jolteon/deployments",
     "createdAt": "2016-02-19T18:36:42.000Z",
-    "updatedAt": "2017-04-30T03:06:44.000Z",
+    "updatedAt": "2017-10-16T20:35:43.000Z",
     "pushedAt": "2016-03-20T14:06:13.000Z",
     "gitUrl": "git://github.com/vulpino/jolteon.git",
     "sshUrl": "git@github.com:vulpino/jolteon.git",
@@ -122,19 +122,20 @@
     "svnUrl": "https://github.com/vulpino/jolteon",
     "homepage": "",
     "size": 14,
-    "stargazersCount": 998,
-    "watchersCount": 998,
+    "stargazersCount": 995,
+    "watchersCount": 995,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 39,
+    "forksCount": 38,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 998,
+    "watchers": 995,
     "defaultBranch": "master"
   },
   "source": {
@@ -144,7 +145,7 @@
     "owner": {
       "login": "vulpino",
       "id": 7596630,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/7596630?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7596630?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/vulpino",
       "htmlUrl": "https://github.com/vulpino",
@@ -174,7 +175,7 @@
     "downloadsUrl": "https://api.github.com/repos/vulpino/jolteon/downloads",
     "deploymentsUrl": "https://api.github.com/repos/vulpino/jolteon/deployments",
     "createdAt": "2016-02-19T18:36:42.000Z",
-    "updatedAt": "2017-04-30T03:06:44.000Z",
+    "updatedAt": "2017-10-16T20:35:43.000Z",
     "pushedAt": "2016-03-20T14:06:13.000Z",
     "gitUrl": "git://github.com/vulpino/jolteon.git",
     "sshUrl": "git@github.com:vulpino/jolteon.git",
@@ -182,22 +183,23 @@
     "svnUrl": "https://github.com/vulpino/jolteon",
     "homepage": "",
     "size": 14,
-    "stargazersCount": 998,
-    "watchersCount": 998,
+    "stargazersCount": 995,
+    "watchersCount": 995,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 39,
+    "forksCount": 38,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 998,
+    "watchers": 995,
     "defaultBranch": "master"
   },
-  "networkCount": 39,
+  "networkCount": 38,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -205,15 +207,8 @@
     "version": "0.1.0",
     "description": "Babel + Electron + React + Browserify application stack",
     "main": "build/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vulpino/berb.git"
-    },
-    "author": "vulpino",
+    "repository": "https://github.com/vulpino/berb",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vulpino/berb/issues"
-    },
     "homepage": "https://github.com/vulpino/berb#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -247,6 +242,12 @@
       "react": "^0.14.7",
       "react-dom": "^0.14.7",
       "request": "^2.69.0"
+    },
+    "other": {
+      "author": "vulpino",
+      "bugs": {
+        "url": "https://github.com/vulpino/berb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -274,6 +275,7 @@
   },
   "sourceRepo": "vulpino/jolteon",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:47.591Z",
-  "packageLastFetchedAt": "2017-05-05T17:18:12.633Z"
+  "lastFetchedAt": "2017-10-23T19:26:32.871Z",
+  "packageLastFetchedAt": "2017-05-05T17:18:12.633Z",
+  "archived": false
 }

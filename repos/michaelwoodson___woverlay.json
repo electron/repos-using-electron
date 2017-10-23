@@ -5,7 +5,7 @@
   "owner": {
     "login": "michaelwoodson",
     "id": 645560,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/645560?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/645560?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/michaelwoodson",
     "htmlUrl": "https://github.com/michaelwoodson",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-04-27T13:37:18.000Z",
   "updatedAt": "2016-04-28T01:01:11.000Z",
-  "pushedAt": "2017-01-05T14:53:08.000Z",
+  "pushedAt": "2017-08-18T11:07:56.000Z",
   "homepage": null,
-  "size": 147,
+  "size": 153,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -59,19 +59,12 @@
     "scripts": {
       "test": "tape test/*.test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/michaelwoodson/woverlay.git"
-    },
+    "repository": "https://github.com/michaelwoodson/woverlay",
     "keywords": [
       "webrtc",
       "overlay"
     ],
-    "author": "Michael Woodson",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/michaelwoodson/woverlay/issues"
-    },
     "dependencies": {
       "big-integer": "1.6.16",
       "compression": "1.6.2",
@@ -86,7 +79,13 @@
       "tape": "4.6.2",
       "tape-run": "2.1.4"
     },
-    "homepage": "https://github.com/michaelwoodson/woverlay#readme"
+    "homepage": "https://github.com/michaelwoodson/woverlay#readme",
+    "other": {
+      "author": "Michael Woodson",
+      "bugs": {
+        "url": "https://github.com/michaelwoodson/woverlay/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +132,7 @@
   "svnUrl": "https://github.com/michaelwoodson/woverlay",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:31:29.968Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:30.745Z"
+  "lastFetchedAt": "2017-10-23T20:49:00.402Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:30.745Z",
+  "archived": false
 }

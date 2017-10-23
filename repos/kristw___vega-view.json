@@ -1,11 +1,11 @@
 {
   "id": 64730784,
-  "name": "vega-view",
-  "fullName": "kristw/vega-view",
+  "name": "vega-desktop",
+  "fullName": "kristw/vega-desktop",
   "owner": {
     "login": "kristw",
     "id": 1659771,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1659771?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1659771?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kristw",
     "htmlUrl": "https://github.com/kristw",
@@ -17,44 +17,44 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/kristw/vega-view",
+  "htmlUrl": "https://github.com/kristw/vega-desktop",
   "description": "App for viewing visualizations created in Vega or Vega-lite",
   "fork": false,
-  "url": "https://api.github.com/repos/kristw/vega-view",
-  "forksUrl": "https://api.github.com/repos/kristw/vega-view/forks",
-  "teamsUrl": "https://api.github.com/repos/kristw/vega-view/teams",
-  "hooksUrl": "https://api.github.com/repos/kristw/vega-view/hooks",
-  "eventsUrl": "https://api.github.com/repos/kristw/vega-view/events",
-  "tagsUrl": "https://api.github.com/repos/kristw/vega-view/tags",
-  "languagesUrl": "https://api.github.com/repos/kristw/vega-view/languages",
-  "stargazersUrl": "https://api.github.com/repos/kristw/vega-view/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/kristw/vega-view/contributors",
-  "subscribersUrl": "https://api.github.com/repos/kristw/vega-view/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/kristw/vega-view/subscription",
-  "mergesUrl": "https://api.github.com/repos/kristw/vega-view/merges",
-  "downloadsUrl": "https://api.github.com/repos/kristw/vega-view/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/kristw/vega-view/deployments",
+  "url": "https://api.github.com/repos/kristw/vega-desktop",
+  "forksUrl": "https://api.github.com/repos/kristw/vega-desktop/forks",
+  "teamsUrl": "https://api.github.com/repos/kristw/vega-desktop/teams",
+  "hooksUrl": "https://api.github.com/repos/kristw/vega-desktop/hooks",
+  "eventsUrl": "https://api.github.com/repos/kristw/vega-desktop/events",
+  "tagsUrl": "https://api.github.com/repos/kristw/vega-desktop/tags",
+  "languagesUrl": "https://api.github.com/repos/kristw/vega-desktop/languages",
+  "stargazersUrl": "https://api.github.com/repos/kristw/vega-desktop/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/kristw/vega-desktop/contributors",
+  "subscribersUrl": "https://api.github.com/repos/kristw/vega-desktop/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/kristw/vega-desktop/subscription",
+  "mergesUrl": "https://api.github.com/repos/kristw/vega-desktop/merges",
+  "downloadsUrl": "https://api.github.com/repos/kristw/vega-desktop/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/kristw/vega-desktop/deployments",
   "createdAt": "2016-08-02T06:34:36.000Z",
-  "updatedAt": "2017-04-07T08:57:34.000Z",
-  "pushedAt": "2016-11-03T07:55:58.000Z",
-  "gitUrl": "git://github.com/kristw/vega-view.git",
-  "sshUrl": "git@github.com:kristw/vega-view.git",
-  "cloneUrl": "https://github.com/kristw/vega-view.git",
-  "svnUrl": "https://github.com/kristw/vega-view",
+  "updatedAt": "2017-10-16T18:01:08.000Z",
+  "pushedAt": "2017-06-16T08:28:17.000Z",
+  "gitUrl": "git://github.com/kristw/vega-desktop.git",
+  "sshUrl": "git@github.com:kristw/vega-desktop.git",
+  "cloneUrl": "https://github.com/kristw/vega-desktop.git",
+  "svnUrl": "https://github.com/kristw/vega-desktop",
   "homepage": "",
-  "size": 13,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 1145,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 2,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 2,
-  "subscribersCount": 2,
+  "networkCount": 3,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "vega-view",
@@ -78,11 +78,6 @@
     "description": "My stunning app",
     "license": "MIT",
     "repository": "kristw/vega-view",
-    "author": {
-      "name": "Krist Wongsuphasawat",
-      "email": "krist.wongz@gmail.com",
-      "url": "kristw.yellowpigz.com"
-    },
     "scripts": {
       "test": "xo",
       "start": "electron .",
@@ -116,8 +111,15 @@
         "browser"
       ]
     },
-    "bugs": {
-      "url": "https://github.com/kristw/vega-view/issues"
+    "other": {
+      "author": {
+        "name": "Krist Wongsuphasawat",
+        "email": "krist.wongz@gmail.com",
+        "url": "kristw.yellowpigz.com"
+      },
+      "bugs": {
+        "url": "https://github.com/kristw/vega-view/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +147,7 @@
   },
   "filename": "kristw___vega-view.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:37.470Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:07.986Z"
+  "lastFetchedAt": "2017-10-23T20:34:59.045Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:07.986Z",
+  "archived": false
 }

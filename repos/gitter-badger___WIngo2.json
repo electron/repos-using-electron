@@ -5,7 +5,7 @@
   "owner": {
     "login": "gitter-badger",
     "id": 8518239,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8518239?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8518239?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gitter-badger",
     "htmlUrl": "https://github.com/gitter-badger",
@@ -72,10 +72,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DevVersion/WIngo2.git"
-    },
+    "repository": "https://github.com/DevVersion/WIngo2",
     "keywords": [
       "wingo",
       "wg",
@@ -87,15 +84,7 @@
       "werdenfels",
       "gymnasium"
     ],
-    "author": "WIngo Project <developers@wingo-project.io>",
-    "contributors": [
-      "Paul Thiel <pa_thiel@t-online.de>",
-      "Paul Gschwendtner <paulgschwendtner@me.com>"
-    ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DevVersion/WIngo2/issues"
-    },
     "homepage": "https://github.com/DevVersion/WIngo2#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -115,6 +104,16 @@
     "dependencies": {
       "karma-chrome-launcher": "^0.2.2",
       "karma-firefox-launcher": "^0.1.7"
+    },
+    "other": {
+      "author": "WIngo Project <developers@wingo-project.io>",
+      "bugs": {
+        "url": "https://github.com/DevVersion/WIngo2/issues"
+      },
+      "contributors": [
+        "Paul Thiel <pa_thiel@t-online.de>",
+        "Paul Gschwendtner <paulgschwendtner@me.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "gitter-badger___WIngo2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:45.068Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:02.464Z"
+  "lastFetchedAt": "2017-10-23T19:24:03.344Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:02.464Z",
+  "archived": false
 }

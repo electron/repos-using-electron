@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mhealth-visualizer",
     "version": "0.0.1",
@@ -73,15 +73,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
-    "author": "Qu Tang",
+    "repository": "https://github.com/electron/electron-quick-start",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4",
@@ -97,6 +90,12 @@
       "papaparse": "^4.1.2",
       "tether": "^1.3.7",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "author": "Qu Tang",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   },
   "filename": "qutang___mhealth-visualizer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:25.357Z",
+  "lastFetchedAt": "2017-10-23T17:58:26.181Z",
   "packageLastFetchedAt": "2017-05-04T22:27:58.911Z"
 }

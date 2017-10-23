@@ -5,7 +5,7 @@
   "owner": {
     "login": "davej",
     "id": 26971,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/26971?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/26971?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/davej",
     "htmlUrl": "https://github.com/davej",
@@ -56,7 +56,6 @@
       "build": "electron-packager . Peep --platform=darwin --arch=x64 --version=1.2.6 --prune --icon=Icon.icns --overwrite"
     },
     "keywords": [],
-    "author": "",
     "license": "ISC",
     "dependencies": {
       "csjs-inject": "^1.0.0",
@@ -73,8 +72,11 @@
       "standard": "^7.1.2"
     },
     "homepage": "https://github.com/davej/peep",
-    "bugs": {
-      "url": "https://github.com/davej/peep/issues"
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/davej/peep/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
   "svnUrl": "https://github.com/davej/peep",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:50:04.643Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:15.687Z"
+  "lastFetchedAt": "2017-10-23T17:51:32.299Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:15.687Z",
+  "archived": false
 }

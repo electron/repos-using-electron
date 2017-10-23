@@ -5,7 +5,7 @@
   "owner": {
     "login": "einkelflugle",
     "id": 5534537,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5534537?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5534537?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/einkelflugle",
     "htmlUrl": "https://github.com/einkelflugle",
@@ -75,11 +75,6 @@
       "dev": "webpack-dev-server",
       "build": "webpack && electron-packager . MyApp --out ./releases --ignore=\"node_modules/(babel-*|sass-*|webpack-*|css-loader|node-*|style-loader|electron-*|asar)\" --platform=darwin --arch=x64 --version=0.33.6 --overwrite && cp app/icon.icns releases/MyApp-darwin-x64/MyApp.app/Contents/Resources/atom.icns"
     },
-    "author": {
-      "name": "Max C Miller",
-      "email": "maxcharlesmiller@icloud.com",
-      "url": "http://www.maxcmiller.com"
-    },
     "license": "ISC",
     "devDependencies": {
       "asar": "^0.8.0",
@@ -102,6 +97,13 @@
       "electron-prebuilt": "^0.33.6",
       "react": "^0.14.0",
       "react-dom": "^0.14.0"
+    },
+    "other": {
+      "author": {
+        "name": "Max C Miller",
+        "email": "maxcharlesmiller@icloud.com",
+        "url": "http://www.maxcmiller.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +131,7 @@
   },
   "filename": "einkelflugle___electron-react-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:40.992Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:57.918Z"
+  "lastFetchedAt": "2017-10-23T17:27:20.814Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:57.918Z",
+  "archived": false
 }

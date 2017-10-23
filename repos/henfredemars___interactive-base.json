@@ -5,7 +5,7 @@
   "owner": {
     "login": "henfredemars",
     "id": 8609116,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8609116?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8609116?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/henfredemars",
     "htmlUrl": "https://github.com/henfredemars",
@@ -80,10 +80,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/henfredemars/interactive-base"
-    },
+    "repository": "https://github.com/henfredemars/interactive-base",
     "keywords": [
       "text",
       "base",
@@ -92,13 +89,15 @@
       "node",
       "electron"
     ],
-    "author": "",
     "license": "SEE LICENSE IN ./LICENSE",
     "dependencies": {
       "angular": "^1.5.3",
       "bootstrap": "^3.3.6",
       "electron-prebuilt": "^0.37.3",
       "sugar": "^1.4.1"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "henfredemars___interactive-base.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:42.177Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:05.011Z"
+  "lastFetchedAt": "2017-10-23T17:05:36.716Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:05.011Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "FernandoDoming",
     "id": 6620286,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6620286?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6620286?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FernandoDoming",
     "htmlUrl": "https://github.com/FernandoDoming",
@@ -20,12 +20,12 @@
   "description": "Get desktop images directly from 500px",
   "fork": false,
   "createdAt": "2016-03-15T11:45:59.000Z",
-  "updatedAt": "2016-05-13T17:40:55.000Z",
+  "updatedAt": "2017-09-17T03:02:13.000Z",
   "pushedAt": "2016-12-14T13:58:01.000Z",
   "homepage": null,
   "size": 101435,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -80,12 +80,11 @@
       "build_linux": "electron-packager . Desktopr --platform=linux --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/FernandoDoming/desktopr.git"
-    },
-    "author": "Fernando Domínguez",
-    "license": "ISC"
+    "repository": "https://github.com/FernandoDoming/desktopr",
+    "license": "ISC",
+    "other": {
+      "author": "Fernando Domínguez"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +131,7 @@
   "svnUrl": "https://github.com/FernandoDoming/desktopr",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:37:55.756Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:08.948Z"
+  "lastFetchedAt": "2017-10-23T17:51:29.289Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:08.948Z",
+  "archived": false
 }

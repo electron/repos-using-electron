@@ -5,7 +5,7 @@
   "owner": {
     "login": "scriptspry",
     "id": 19214202,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19214202?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19214202?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scriptspry",
     "htmlUrl": "https://github.com/scriptspry",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/scriptspry/Saavn-Mac/downloads",
   "deploymentsUrl": "https://api.github.com/repos/scriptspry/Saavn-Mac/deployments",
   "createdAt": "2016-07-30T18:37:35.000Z",
-  "updatedAt": "2017-01-02T15:44:01.000Z",
+  "updatedAt": "2017-10-05T07:54:47.000Z",
   "pushedAt": "2016-12-08T17:57:24.000Z",
   "gitUrl": "git://github.com/scriptspry/Saavn-Mac.git",
   "sshUrl": "git@github.com:scriptspry/Saavn-Mac.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/scriptspry/Saavn-Mac",
   "homepage": null,
   "size": 10850,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 7,
   "mirrorUrl": null,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 6,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
-  "subscribersCount": 1,
+  "networkCount": 7,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "Saavn",
@@ -78,24 +78,23 @@
       "install": "cp -r build/Saavn-darwin-x64/Saavn.app /Applications/Saavn.app",
       "publish": "aws s3 cp build/Saavn-darwin-x64/Saavn.zip s3://scriptspry/ --profile=ss"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/scriptspry/saavn-mac.git"
-    },
+    "repository": "https://github.com/scriptspry/saavn-mac",
     "keywords": [
       "Saavn",
       "Mac",
       "App"
     ],
-    "author": "ScriptSpry",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/scriptspry/saavn-mac/issues"
-    },
     "homepage": "http://scriptspry.com/2016/07/30/saavn-mac-app.html",
     "devDependencies": {
       "electron-packager": "^8.2.0",
       "electron-prebuilt": "^1.4.5"
+    },
+    "other": {
+      "author": "ScriptSpry",
+      "bugs": {
+        "url": "https://github.com/scriptspry/saavn-mac/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "scriptspry___Saavn-Mac.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:27:47.519Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:54.725Z"
+  "lastFetchedAt": "2017-10-23T17:22:33.105Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:54.725Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kugtong33",
     "id": 3274087,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3274087?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3274087?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kugtong33",
     "htmlUrl": "https://github.com/kugtong33",
@@ -56,9 +56,6 @@
     "version": "0.0.1",
     "description": "Network Discovery Application Using Bee Colony Algorithm",
     "main": "hoppingbee",
-    "directories": {
-      "test": "test"
-    },
     "dependencies": {
       "electron-prebuilt": "^0.29.2"
     },
@@ -68,10 +65,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/kugtong33/hoppingbee.git"
-    },
+    "repository": "https://github.com/kugtong33/hoppingbee",
     "keywords": [
       "Network",
       "Discovery",
@@ -80,12 +74,17 @@
       "File",
       "Sharing"
     ],
-    "author": "Arjay Sitoy",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/kugtong33/hoppingbee/issues"
-    },
-    "homepage": "https://github.com/kugtong33/hoppingbee#readme"
+    "homepage": "https://github.com/kugtong33/hoppingbee#readme",
+    "other": {
+      "author": "Arjay Sitoy",
+      "bugs": {
+        "url": "https://github.com/kugtong33/hoppingbee/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/kugtong33/hoppingbee",
@@ -132,6 +131,7 @@
   },
   "filename": "kugtong33___hoppingbee.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:22.066Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:22.365Z"
+  "lastFetchedAt": "2017-10-23T17:26:29.636Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:22.365Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "zenxds",
     "id": 1174005,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1174005?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1174005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zenxds",
     "htmlUrl": "https://github.com/zenxds",
@@ -57,22 +57,13 @@
       "build": "webpack --watch",
       "pack": "electron-packager . --platform=mas --arch=x64 --prune --icon=app.icns --out=release --overwrite --app-version=0.1.4"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zenxds/fe-tools",
-      "package": "https://raw.githubusercontent.com/zenxds/fe-tools/master/package.json",
-      "releases": "https://github.com/zenxds/fe-tools/releases"
-    },
+    "repository": "https://github.com/zenxds/fe-tools",
     "keywords": [
       "GUI",
       "electron",
       "fe",
       "tools"
     ],
-    "author": {
-      "name": "dongshuang.xds",
-      "email": "dongshuang.xds@alibaba-inc.com"
-    },
     "license": "ISC",
     "devDependencies": {
       "babel-core": "~6.9.1",
@@ -105,6 +96,12 @@
       "toastr": "~2.1.2",
       "vue": "^1.0.24",
       "vue-router": "^0.7.13"
+    },
+    "other": {
+      "author": {
+        "name": "dongshuang.xds",
+        "email": "dongshuang.xds@alibaba-inc.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +149,7 @@
   "svnUrl": "https://github.com/zenxds/fe-tools",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:23:01.761Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:18.644Z"
+  "lastFetchedAt": "2017-10-23T18:19:10.248Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:18.644Z",
+  "archived": false
 }

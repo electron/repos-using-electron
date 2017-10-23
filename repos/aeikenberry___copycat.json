@@ -5,7 +5,7 @@
   "owner": {
     "login": "aeikenberry",
     "id": 599112,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/599112?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/599112?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aeikenberry",
     "htmlUrl": "https://github.com/aeikenberry",
@@ -76,19 +76,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aeikenberry/copycat.git"
-    },
-    "author": {
-      "name": "Aaron Eikenberry",
-      "email": "aeikenberry@gmail.com",
-      "url": "https://github.com/aeikenberry"
-    },
+    "repository": "https://github.com/aeikenberry/copycat",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/aeikenberry/copycat/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -171,6 +160,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Aaron Eikenberry",
+        "email": "aeikenberry@gmail.com",
+        "url": "https://github.com/aeikenberry"
+      },
+      "bugs": {
+        "url": "https://github.com/aeikenberry/copycat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -218,6 +217,7 @@
   },
   "filename": "aeikenberry___copycat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:30:03.495Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:03.774Z"
+  "lastFetchedAt": "2017-10-23T17:13:42.285Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:03.774Z",
+  "archived": false
 }

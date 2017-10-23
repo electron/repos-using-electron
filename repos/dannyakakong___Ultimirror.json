@@ -5,7 +5,7 @@
   "owner": {
     "login": "dannyakakong",
     "id": 394687,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/394687?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/394687?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dannyakakong",
     "htmlUrl": "https://github.com/dannyakakong",
@@ -83,10 +83,7 @@
       "debug": "electron --enable-logging main.js -w -d",
       "development": "gulp --development && electron --enable-logging main.js -w -d"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dannyakakong/ultimirror.git"
-    },
+    "repository": "https://github.com/dannyakakong/ultimirror",
     "keywords": [
       "Ultimirror",
       "smartmirror",
@@ -97,15 +94,7 @@
       "angular",
       "dashboard"
     ],
-    "author": {
-      "name": "Danny Allen / Wonderscore Ltd",
-      "email": "me@dannya.com",
-      "url": "http://dannya.com/"
-    },
     "homepage": "https://github.com/dannyakakong/ultimirror",
-    "bugs": {
-      "url": "https://github.com/dannyakakong/ultimirror/issues"
-    },
     "dependencies": {
       "class.extend": "^0.9.2",
       "electron-prebuilt": "^0.36.0",
@@ -134,6 +123,16 @@
       "gulp-uglify": "~1.1.0",
       "gulp-newer": "~1.1.0",
       "gulp-imagemin": "~2.2.0"
+    },
+    "other": {
+      "author": {
+        "name": "Danny Allen / Wonderscore Ltd",
+        "email": "me@dannya.com",
+        "url": "http://dannya.com/"
+      },
+      "bugs": {
+        "url": "https://github.com/dannyakakong/ultimirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -161,6 +160,7 @@
   },
   "filename": "dannyakakong___Ultimirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:14.298Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:41.704Z"
+  "lastFetchedAt": "2017-10-23T20:55:30.108Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:41.704Z",
+  "archived": false
 }

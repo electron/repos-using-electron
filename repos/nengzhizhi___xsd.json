@@ -5,7 +5,7 @@
   "owner": {
     "login": "nengzhizhi",
     "id": 4082522,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4082522?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4082522?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nengzhizhi",
     "htmlUrl": "https://github.com/nengzhizhi",
@@ -20,12 +20,12 @@
   "description": null,
   "fork": false,
   "createdAt": "2016-04-02T08:53:14.000Z",
-  "updatedAt": "2016-04-02T08:56:22.000Z",
+  "updatedAt": "2017-10-10T15:09:12.000Z",
   "pushedAt": "2016-04-02T08:56:21.000Z",
   "homepage": null,
   "size": 8,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -59,21 +59,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -81,6 +74,12 @@
     },
     "dependencies": {
       "opencv": "^5.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/nengzhizhi/xsd",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:53:15.164Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:48.034Z"
+  "lastFetchedAt": "2017-10-23T17:23:24.234Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:48.034Z",
+  "archived": false
 }

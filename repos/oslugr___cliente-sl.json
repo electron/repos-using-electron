@@ -5,7 +5,7 @@
   "owner": {
     "login": "oslugr",
     "id": 3056540,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3056540?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3056540?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/oslugr",
     "htmlUrl": "https://github.com/oslugr",
@@ -79,23 +79,22 @@
     "scripts": {
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/oslugr/cliente-sl.git"
-    },
+    "repository": "https://github.com/oslugr/cliente-sl",
     "keywords": [
       "shortener",
       "oslugr",
       "ugr"
     ],
-    "author": "JJ Merelo, OSL UGR",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/oslugr/cliente-sl/issues"
-    },
     "homepage": "https://github.com/oslugr/cliente-sl#readme",
     "dependencies": {
       "electron": "^1.4.4"
+    },
+    "other": {
+      "author": "JJ Merelo, OSL UGR",
+      "bugs": {
+        "url": "https://github.com/oslugr/cliente-sl/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "oslugr___cliente-sl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T13:05:29.621Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:10.048Z"
+  "lastFetchedAt": "2017-10-23T18:32:22.723Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:10.048Z",
+  "archived": false
 }

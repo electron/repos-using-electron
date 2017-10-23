@@ -5,7 +5,7 @@
   "owner": {
     "login": "PiggySpeed",
     "id": 9895090,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9895090?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9895090?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PiggySpeed",
     "htmlUrl": "https://github.com/PiggySpeed",
@@ -58,7 +58,6 @@
       "test": "mocha --compilers js:babel-register --recursive",
       "test:watch": "npm test -- --watch"
     },
-    "author": "PiggyBoy",
     "license": "MIT",
     "dependencies": {
       "express": "^4.13.4",
@@ -89,6 +88,9 @@
       "style-loader": "^0.13.1",
       "webpack": "^1.12.13",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "PiggyBoy"
     }
   },
   "packageStatus": 200,
@@ -136,6 +138,7 @@
   "svnUrl": "https://github.com/PiggySpeed/reactron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:58:23.137Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:52.694Z"
+  "lastFetchedAt": "2017-10-23T20:50:28.888Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:52.694Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "seesharper",
     "id": 1034073,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1034073?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1034073?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/seesharper",
     "htmlUrl": "https://github.com/seesharper",
@@ -77,16 +77,9 @@
       "vscode"
     ],
     "homepage": "http://aurelia.io",
-    "bugs": {
-      "url": "https://github.com/aurelia/skeleton-navigation-typescript/issues"
-    },
     "license": "CC0-1.0",
-    "author": "Mike Graham <mgraham@technicalmedia.com> (http://cmichaelgraham.io/)",
     "main": "dist/main.js",
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/aurelia/skeleton-navigation-typescript"
-    },
+    "repository": "https://github.com/aurelia/skeleton-navigation-typescript",
     "scripts": {
       "postinstall": "./node_modules/.bin/typings install",
       "test": "gulp test",
@@ -149,6 +142,12 @@
         "text": "github:systemjs/plugin-text@^0.0.3"
       },
       "devDependencies": {}
+    },
+    "other": {
+      "author": "Mike Graham <mgraham@technicalmedia.com> (http://cmichaelgraham.io/)",
+      "bugs": {
+        "url": "https://github.com/aurelia/skeleton-navigation-typescript/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +175,7 @@
   },
   "filename": "seesharper___HappyGit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:43.080Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:29.669Z"
+  "lastFetchedAt": "2017-10-23T17:24:45.466Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:29.669Z",
+  "archived": false
 }

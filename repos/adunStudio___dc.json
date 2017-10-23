@@ -5,7 +5,7 @@
   "owner": {
     "login": "adunStudio",
     "id": 20084289,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20084289?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20084289?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/adunStudio",
     "htmlUrl": "https://github.com/adunStudio",
@@ -17,10 +17,10 @@
     "type": "User"
   },
   "private": false,
-  "description": "dcinside parsing application via electron.js",
+  "description": "디시인사이드 도우미(프록시, 클리너, 댓글확인) with node.js and electron.js",
   "fork": false,
   "createdAt": "2016-06-22T07:34:57.000Z",
-  "updatedAt": "2017-04-24T08:22:36.000Z",
+  "updatedAt": "2017-05-26T13:36:16.000Z",
   "pushedAt": "2016-06-23T09:40:20.000Z",
   "homepage": "",
   "size": 105,
@@ -54,13 +54,15 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron main.js"
     },
-    "author": "adun",
     "license": "MIT",
     "dependencies": {
       "cheerio": "^0.20.0",
       "electron-prebuilt": "^1.2.3",
       "jquery": "^3.0.0",
       "request": "^2.72.0"
+    },
+    "other": {
+      "author": "adun"
     }
   },
   "packageStatus": 200,
@@ -108,6 +110,7 @@
   "svnUrl": "https://github.com/adunStudio/dc",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:13:45.541Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:34.566Z"
+  "lastFetchedAt": "2017-10-23T20:43:06.654Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:34.566Z",
+  "archived": false
 }

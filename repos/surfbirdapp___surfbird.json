@@ -5,7 +5,7 @@
   "owner": {
     "login": "surfbirdapp",
     "id": 20271732,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20271732?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20271732?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/surfbirdapp",
     "htmlUrl": "https://github.com/surfbirdapp",
@@ -20,21 +20,21 @@
   "description": "A Twitter client built on Electron and Vue",
   "fork": false,
   "createdAt": "2016-05-13T19:06:35.000Z",
-  "updatedAt": "2017-04-29T22:29:33.000Z",
-  "pushedAt": "2017-04-30T18:37:40.000Z",
+  "updatedAt": "2017-10-06T20:00:33.000Z",
+  "pushedAt": "2017-09-20T22:14:46.000Z",
   "homepage": "",
-  "size": 1167,
-  "stargazersCount": 65,
-  "watchersCount": 65,
+  "size": 1356,
+  "stargazersCount": 123,
+  "watchersCount": 123,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
+  "forksCount": 13,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 65,
+  "watchers": 123,
   "defaultBranch": "next",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "surfbirdapp",
     "id": 20271732,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20271732?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20271732?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/surfbirdapp",
     "htmlUrl": "https://github.com/surfbirdapp",
@@ -56,8 +56,8 @@
     "receivedEventsUrl": "https://api.github.com/users/surfbirdapp/received_events",
     "type": "Organization"
   },
-  "networkCount": 5,
-  "subscribersCount": 8,
+  "networkCount": 13,
+  "subscribersCount": 14,
   "status": 200,
   "packageJSON": {
     "name": "surfbird",
@@ -113,10 +113,7 @@
         ]
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/surfbirdapp/surfbird.git"
-    },
+    "repository": "https://github.com/surfbirdapp/surfbird",
     "keywords": [
       "electron",
       "vuejs",
@@ -124,11 +121,7 @@
       "twitter-api",
       "twitter-client"
     ],
-    "author": "Andreas Nedbal <andy@pixelde.su>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/surfbirdapp/surfbird/issues"
-    },
     "homepage": "https://github.com/surfbirdapp/surfbird#readme",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -187,7 +180,13 @@
       "webpack-dev-server": "^2.3.0",
       "webpack-merge": "^2.4.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Andreas Nedbal <andy@pixelde.su>",
+      "bugs": {
+        "url": "https://github.com/surfbirdapp/surfbird/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/surfbirdapp/surfbird",
@@ -234,6 +233,7 @@
   },
   "filename": "surfbirdapp___surfbird.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:20.693Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:45.647Z"
+  "lastFetchedAt": "2017-10-23T20:25:36.946Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:45.647Z",
+  "archived": false
 }

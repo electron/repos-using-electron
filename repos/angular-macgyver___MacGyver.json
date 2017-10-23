@@ -5,7 +5,7 @@
   "owner": {
     "login": "angular-macgyver",
     "id": 4999275,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4999275?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4999275?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/angular-macgyver",
     "htmlUrl": "https://github.com/angular-macgyver",
@@ -17,24 +17,24 @@
     "type": "Organization"
   },
   "private": false,
-  "description": "AngularJS directives and services for the greater good",
+  "description": "AngularJS directives and services for the greater good (Unmaintained)",
   "fork": false,
   "createdAt": "2014-09-24T21:15:42.000Z",
-  "updatedAt": "2016-11-09T03:53:48.000Z",
+  "updatedAt": "2017-08-26T13:00:02.000Z",
   "pushedAt": "2016-12-18T09:45:59.000Z",
   "homepage": "http://angular-macgyver.github.io/MacGyver",
   "size": 8094,
-  "stargazersCount": 61,
-  "watchersCount": 61,
+  "stargazersCount": 62,
+  "watchersCount": 62,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 21,
+  "forksCount": 22,
   "openIssuesCount": 7,
   "openIssues": 7,
-  "watchers": 61,
+  "watchers": 62,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "angular-macgyver",
     "id": 4999275,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4999275?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4999275?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/angular-macgyver",
     "htmlUrl": "https://github.com/angular-macgyver",
@@ -62,19 +62,15 @@
     "receivedEventsUrl": "https://api.github.com/users/angular-macgyver/received_events",
     "type": "Organization"
   },
-  "networkCount": 21,
+  "networkCount": 22,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
-    "author": "Adrian Lee <adrian@adrianlee.me>",
     "name": "angular-macgyver",
     "description": "A library of shared directives",
     "version": "1.0.0",
     "homepage": "http://angular-macgyver.github.io/MacGyver",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:angular-macgyver/MacGyver.git"
-    },
+    "repository": "https://github.com/angular-macgyver/MacGyver",
     "engines": {
       "node": ">=5.3.0"
     },
@@ -109,6 +105,9 @@
       "matchdep": "1.0.1",
       "protractor": "4.0.5",
       "time-grunt": "1.4.0"
+    },
+    "other": {
+      "author": "Adrian Lee <adrian@adrianlee.me>"
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   "svnUrl": "https://github.com/angular-macgyver/MacGyver",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:45:04.668Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:53.522Z"
+  "lastFetchedAt": "2017-10-23T20:34:09.348Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:53.522Z",
+  "archived": false
 }

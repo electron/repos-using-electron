@@ -5,7 +5,7 @@
   "owner": {
     "login": "parro-it",
     "id": 11197111,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11197111?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11197111?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/parro-it",
     "htmlUrl": "https://github.com/parro-it",
@@ -57,7 +57,6 @@
     "description": "simplified tests for electron apps",
     "repository": "parro-it/collider",
     "license": "MIT",
-    "author": "parro-it",
     "scripts": {
       "test": "eslint . && electron src/cli.js test/index.js | faucet",
       "lint": "eslint .",
@@ -91,6 +90,9 @@
       "node-uuid": "^1.4.7",
       "serialize-error": "^1.1.0",
       "yargs": "^3.30.0"
+    },
+    "other": {
+      "author": "parro-it"
     }
   },
   "packageStatus": 200,
@@ -138,6 +140,7 @@
   "svnUrl": "https://github.com/parro-it/collider",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:13:21.979Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:10.285Z"
+  "lastFetchedAt": "2017-10-23T19:27:09.478Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:10.285Z",
+  "archived": false
 }

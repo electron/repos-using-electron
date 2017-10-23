@@ -5,7 +5,7 @@
   "owner": {
     "login": "SimulatedGREG",
     "id": 8327811,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8327811?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8327811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SimulatedGREG",
     "htmlUrl": "https://github.com/SimulatedGREG",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SimulatedGREG/GregTools.git"
-    },
+    "repository": "https://github.com/SimulatedGREG/GregTools",
     "keywords": [
       "twitch",
       "chat",
@@ -64,7 +61,6 @@
       "gregsong",
       "overlay"
     ],
-    "author": "SimulatedGREG",
     "devDependencies": {
       "babel-core": "^6.4.5",
       "babel-plugin-transform-runtime": "^6.4.3",
@@ -100,6 +96,9 @@
       "vue-resource": "^0.7.0",
       "vue-router": "^0.7.10",
       "vue-typeahead": "^2.0.0"
+    },
+    "other": {
+      "author": "SimulatedGREG"
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "SimulatedGREG___GregTools.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:54.623Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:57.372Z"
+  "lastFetchedAt": "2017-10-23T20:45:04.917Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:57.372Z",
+  "archived": false
 }

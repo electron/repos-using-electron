@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Jacques",
     "version": "0.0.1",
@@ -73,21 +73,20 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/allknowingfrog/jacques.git"
-    },
-    "author": "Jeremiah A. Bohling",
+    "repository": "https://github.com/allknowingfrog/jacques",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/allknowingfrog/jacques/issues"
-    },
     "homepage": "https://github.com/allknowingfrog/jacques#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "jquery": "^3.0.0"
+    },
+    "other": {
+      "author": "Jeremiah A. Bohling",
+      "bugs": {
+        "url": "https://github.com/allknowingfrog/jacques/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,6 @@
   },
   "filename": "allknowingfrog___jacques.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:44.792Z",
+  "lastFetchedAt": "2017-10-23T18:40:45.576Z",
   "packageLastFetchedAt": "2017-05-05T15:22:23.235Z"
 }

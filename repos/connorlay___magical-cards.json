@@ -6,7 +6,7 @@
   "owner": {
     "login": "connorlay",
     "id": 6548350,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6548350?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6548350?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/connorlay",
     "htmlUrl": "https://github.com/connorlay",
@@ -83,20 +83,19 @@
       "test": "elm test",
       "clean": "rm -rf elm-stuff && rm -rf tests/elm-stuff"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/connorlay/magical-cards.git"
-    },
+    "repository": "https://github.com/connorlay/magical-cards",
     "keywords": [
       "mtg",
       "electron"
     ],
-    "author": "Connor Lay, Maggie Dreyer",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/connorlay/magical-cards/issues"
-    },
-    "homepage": "https://github.com/connorlay/magical-cards#readme"
+    "homepage": "https://github.com/connorlay/magical-cards#readme",
+    "other": {
+      "author": "Connor Lay, Maggie Dreyer",
+      "bugs": {
+        "url": "https://github.com/connorlay/magical-cards/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +121,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:03.296Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:53.111Z"
+  "lastFetchedAt": "2017-10-23T18:26:47.084Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:53.111Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "elmopitt",
     "id": 22282843,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/22282843?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/22282843?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/elmopitt",
     "htmlUrl": "https://github.com/elmopitt",
@@ -72,7 +72,6 @@
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
-    "author": "elmopitt",
     "name": "plexporter",
     "version": "1.0.0",
     "description": "Exporter for Plex playlists",
@@ -81,13 +80,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "elmopitt/plexporter"
-    },
-    "bugs": {
-      "url": "https://github.com/elmopitt/plexporter/issues"
-    },
+    "repository": "https://github.com/elmopitt/plexporter",
     "keywords": [
       "plex",
       "playlist",
@@ -101,6 +94,12 @@
       "angular-material": "^1.1.1",
       "electron": "^1.4.3",
       "tny-id3": "^1.0.0"
+    },
+    "other": {
+      "author": "elmopitt",
+      "bugs": {
+        "url": "https://github.com/elmopitt/plexporter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "elmopitt___plexporter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:45.084Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:26.903Z"
+  "lastFetchedAt": "2017-10-23T17:57:40.089Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:26.903Z",
+  "archived": false
 }

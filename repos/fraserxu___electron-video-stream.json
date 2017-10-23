@@ -5,7 +5,7 @@
   "owner": {
     "login": "fraserxu",
     "id": 1183541,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1183541?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1183541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fraserxu",
     "htmlUrl": "https://github.com/fraserxu",
@@ -60,15 +60,8 @@
       "build": "browserify caller.js | uglifyjs -c > caller.bundle.js",
       "watch": "watchify caller.js -o caller.bundle.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fraserxu/electron-video-stream.git"
-    },
-    "author": "",
+    "repository": "https://github.com/fraserxu/electron-video-stream",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/fraserxu/electron-video-stream/issues"
-    },
     "homepage": "https://github.com/fraserxu/electron-video-stream#readme",
     "dependencies": {
       "electron-prebuilt": "^0.32.3",
@@ -79,6 +72,12 @@
       "browserify": "^11.1.0",
       "uglifyify": "^3.0.1",
       "watchify": "^3.4.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/fraserxu/electron-video-stream/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "svnUrl": "https://github.com/fraserxu/electron-video-stream",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:28:40.261Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:11.898Z"
+  "lastFetchedAt": "2017-10-23T18:52:54.942Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:11.898Z",
+  "archived": false
 }

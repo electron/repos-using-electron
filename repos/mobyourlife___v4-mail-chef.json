@@ -5,7 +5,7 @@
   "owner": {
     "login": "mobyourlife",
     "id": 14853389,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14853389?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14853389?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mobyourlife",
     "htmlUrl": "https://github.com/mobyourlife",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "mobyourlife",
     "id": 14853389,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14853389?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14853389?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mobyourlife",
     "htmlUrl": "https://github.com/mobyourlife",
@@ -75,10 +75,7 @@
       "start": "electron src/main.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mobyourlife/mail-chef.git"
-    },
+    "repository": "https://github.com/mobyourlife/mail-chef",
     "keywords": [
       "text",
       "editor",
@@ -87,11 +84,7 @@
       "marketing",
       "campaigns"
     ],
-    "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/mobyourlife/mail-chef/issues"
-    },
     "homepage": "https://github.com/mobyourlife/mail-chef#readme",
     "devDependencies": {
       "bower": "^1.3.3",
@@ -103,6 +96,12 @@
       "gulp-rename": "^1.2.0",
       "gulp-util": "^2.2.14",
       "shelljs": "^0.3.0"
+    },
+    "other": {
+      "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
+      "bugs": {
+        "url": "https://github.com/mobyourlife/mail-chef/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   "svnUrl": "https://github.com/mobyourlife/v4-mail-chef",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:20:00.314Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:13.150Z"
+  "lastFetchedAt": "2017-10-23T17:38:30.906Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:13.150Z",
+  "archived": false
 }

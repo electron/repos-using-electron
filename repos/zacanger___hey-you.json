@@ -5,7 +5,7 @@
   "owner": {
     "login": "zacanger",
     "id": 12520493,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12520493?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12520493?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zacanger",
     "htmlUrl": "https://github.com/zacanger",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/zacanger/hey-you/deployments",
   "createdAt": "2016-05-12T00:39:40.000Z",
   "updatedAt": "2017-02-12T19:11:20.000Z",
-  "pushedAt": "2017-02-13T21:23:19.000Z",
+  "pushedAt": "2017-06-28T16:07:47.000Z",
   "gitUrl": "git://github.com/zacanger/hey-you.git",
   "sshUrl": "git@github.com:zacanger/hey-you.git",
   "cloneUrl": "https://github.com/zacanger/hey-you.git",
   "svnUrl": "https://github.com/zacanger/hey-you",
   "homepage": "http://npm.im/hey-you",
-  "size": 95,
+  "size": 103,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -75,11 +75,6 @@
     "name": "hey-you",
     "description": "hey, you",
     "version": "1.0.1",
-    "author": {
-      "name": "Zac Anger",
-      "url": "http://zacanger.com",
-      "email": "zac@zacanger.com"
-    },
     "license": "WTFPL",
     "main": "./app.js",
     "preferGlobal": true,
@@ -95,11 +90,7 @@
       "start": "./index.js"
     },
     "homepage": "https://github.com/zacanger/hey-you#readme",
-    "repository": {
-      "url": "https://github.com/zacanger/hey-you.git",
-      "type": "git"
-    },
-    "bugs": "https://github.com/zacanger/hey-you/issues",
+    "repository": "https://github.com/zacanger/hey-you",
     "keywords": [
       "electron",
       "encouragement",
@@ -111,7 +102,15 @@
       "electron": "^1.4.15",
       "electroner": "^4.0.2"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": {
+        "name": "Zac Anger",
+        "url": "http://zacanger.com",
+        "email": "zac@zacanger.com"
+      },
+      "bugs": "https://github.com/zacanger/hey-you/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +137,7 @@
   },
   "filename": "zacanger___hey-you.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:41.061Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:06.841Z"
+  "lastFetchedAt": "2017-10-23T19:36:20.800Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:06.841Z",
+  "archived": false
 }

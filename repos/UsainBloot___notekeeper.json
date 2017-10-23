@@ -5,7 +5,7 @@
   "owner": {
     "login": "UsainBloot",
     "id": 1923679,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1923679?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1923679?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/UsainBloot",
     "htmlUrl": "https://github.com/UsainBloot",
@@ -97,19 +97,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/usainbloot/notekeeper.git"
-    },
-    "author": {
-      "name": "Jack Palmer",
-      "email": "jackpalmer2@gmail.com",
-      "url": "https://github.com/usainbloot"
-    },
+    "repository": "https://github.com/usainbloot/notekeeper",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/usainbloot/notekeeper/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -200,6 +189,16 @@
     "devEngines": {
       "node": ">=4.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Jack Palmer",
+        "email": "jackpalmer2@gmail.com",
+        "url": "https://github.com/usainbloot"
+      },
+      "bugs": {
+        "url": "https://github.com/usainbloot/notekeeper/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -227,6 +226,7 @@
   },
   "filename": "UsainBloot___notekeeper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:14.063Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:36.663Z"
+  "lastFetchedAt": "2017-10-23T20:44:03.146Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:36.663Z",
+  "archived": false
 }

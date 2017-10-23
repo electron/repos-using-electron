@@ -6,7 +6,7 @@
   "owner": {
     "login": "ito-p",
     "id": 12583722,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12583722?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12583722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ito-p",
     "htmlUrl": "https://github.com/ito-p",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/ito-p/the-fool/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ito-p/the-fool/deployments",
   "createdAt": "2016-12-19T14:45:52.000Z",
-  "updatedAt": "2016-12-24T05:33:15.000Z",
+  "updatedAt": "2017-07-14T05:12:11.000Z",
   "pushedAt": "2016-12-31T09:19:50.000Z",
   "gitUrl": "git://github.com/ito-p/the-fool.git",
   "sshUrl": "git@github.com:ito-p/the-fool.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/ito-p/the-fool",
   "homepage": null,
   "size": 87,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -55,7 +55,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,7 +79,6 @@
       "example": "nodemon example/index.js --exec babel-node --presets es2015,stage-2",
       "test": "jest"
     },
-    "author": "ito-p <not.1010.number@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "co": "^4.5.4",
@@ -96,6 +95,9 @@
     },
     "jest": {
       "testEnvironment": "node"
+    },
+    "other": {
+      "author": "ito-p <not.1010.number@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -122,6 +124,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:27:51.380Z",
-  "packageLastFetchedAt": "2017-05-05T17:18:59.705Z"
+  "lastFetchedAt": "2017-10-23T18:56:02.532Z",
+  "packageLastFetchedAt": "2017-05-05T17:18:59.705Z",
+  "archived": false
 }

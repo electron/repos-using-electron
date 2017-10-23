@@ -5,7 +5,7 @@
   "owner": {
     "login": "brunnobb",
     "id": 5216188,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5216188?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5216188?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/brunnobb",
     "htmlUrl": "https://github.com/brunnobb",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/brunnobb/react-cordova-boilerplate/deployments",
   "createdAt": "2016-10-03T19:12:44.000Z",
   "updatedAt": "2016-10-03T19:20:14.000Z",
-  "pushedAt": "2017-05-04T16:36:09.000Z",
+  "pushedAt": "2017-10-18T15:29:19.000Z",
   "gitUrl": "git://github.com/brunnobb/react-cordova-boilerplate.git",
   "sshUrl": "git@github.com:brunnobb/react-cordova-boilerplate.git",
   "cloneUrl": "https://github.com/brunnobb/react-cordova-boilerplate.git",
   "svnUrl": "https://github.com/brunnobb/react-cordova-boilerplate",
   "homepage": null,
-  "size": 17961,
+  "size": 18137,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -69,7 +69,6 @@
     "name": "rect-redux-cordova-electron-boilerplate",
     "description": "React-redux Cordova Electron Boilerplate",
     "main": "./main.jsx",
-    "author": "",
     "license": "",
     "dependencies": {
       "isomorphic-fetch": "^2.2.1",
@@ -130,6 +129,9 @@
       "cbrowser": "set NODE_ENV=development&&npm run webpack&&cordova run browser",
       "android": "set NODE_ENV=development&&npm run webpack&&cordova run android",
       "ios": "set NODE_ENV=development&&npm run webpack&&cordova run ios"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -157,6 +159,7 @@
   },
   "filename": "brunnobb___react-cordova-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:32.477Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:20.595Z"
+  "lastFetchedAt": "2017-10-23T18:46:33.181Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:20.595Z",
+  "archived": false
 }

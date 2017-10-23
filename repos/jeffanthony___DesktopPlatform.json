@@ -5,7 +5,7 @@
   "owner": {
     "login": "jeffanthony",
     "id": 553756,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/553756?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/553756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jeffanthony",
     "htmlUrl": "https://github.com/jeffanthony",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "VentureEquityExchange",
       "id": 16022437,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16022437?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16022437?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/VentureEquityExchange",
       "htmlUrl": "https://github.com/VentureEquityExchange",
@@ -95,8 +95,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 2,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "VentureEquityExchange",
       "id": 16022437,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16022437?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16022437?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/VentureEquityExchange",
       "htmlUrl": "https://github.com/VentureEquityExchange",
@@ -155,14 +156,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 2,
     "defaultBranch": "master"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -177,21 +179,14 @@
       "start": "node_modules/.bin/electron .",
       "build": "electron-packager . $npm_package_productName --out=packaged --icon='icon.icns' --overwrite --ignore='^/packaged --prune --platform=darwin --arch=x64 --version=$npm_package_electronVersion"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/VentureEquityExchange/DesktopPlatform.git"
-    },
+    "repository": "https://github.com/VentureEquityExchange/DesktopPlatform",
     "keywords": [
       "Ethereum",
       "Desktop",
       "Electron",
       "React"
     ],
-    "author": "Ryan Michael Tate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/VentureEquityExchange/DesktopPlatform/issues"
-    },
     "homepage": "https://github.com/VentureEquityExchange/DesktopPlatform#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -210,6 +205,12 @@
         "babel": "npm:babel-core@^5.8.24",
         "babel-runtime": "npm:babel-runtime@^5.8.24",
         "core-js": "npm:core-js@^1.1.4"
+      }
+    },
+    "other": {
+      "author": "Ryan Michael Tate",
+      "bugs": {
+        "url": "https://github.com/VentureEquityExchange/DesktopPlatform/issues"
       }
     }
   },
@@ -259,6 +260,7 @@
   "svnUrl": "https://github.com/jeffanthony/DesktopPlatform",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:09:17.919Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:19.582Z"
+  "lastFetchedAt": "2017-10-23T18:10:56.505Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:19.582Z",
+  "archived": false
 }

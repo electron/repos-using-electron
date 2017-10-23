@@ -5,7 +5,7 @@
   "owner": {
     "login": "jacobzelek",
     "id": 280596,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/280596?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/280596?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jacobzelek",
     "htmlUrl": "https://github.com/jacobzelek",
@@ -80,27 +80,26 @@
       "start": "electron main.js",
       "build": "node build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jacobzelek/trello-desktop.git"
-    },
+    "repository": "https://github.com/jacobzelek/trello-desktop",
     "keywords": [
       "Trello"
     ],
-    "author": {
-      "name": "Jacob Zelek",
-      "email": "jacob.zelek@gmail.com"
-    },
     "license": "GPL-2.0",
-    "bugs": {
-      "url": "https://github.com/jacobzelek/trello-desktop/issues"
-    },
     "homepage": "https://github.com/jacobzelek/trello-desktop#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0",
       "electron-packager": "^5.1.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": {
+        "name": "Jacob Zelek",
+        "email": "jacob.zelek@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/jacobzelek/trello-desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +126,7 @@
   },
   "filename": "jacobzelek___trello-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:49.474Z",
-  "packageLastFetchedAt": "2017-05-05T04:34:39.111Z"
+  "lastFetchedAt": "2017-10-23T19:04:31.150Z",
+  "packageLastFetchedAt": "2017-05-05T04:34:39.111Z",
+  "archived": false
 }

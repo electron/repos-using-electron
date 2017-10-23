@@ -5,7 +5,7 @@
   "owner": {
     "login": "robert396",
     "id": 3439017,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3439017?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3439017?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robert396",
     "htmlUrl": "https://github.com/robert396",
@@ -81,15 +81,8 @@
       "prestart": "gulp build",
       "start": "node_modules/.bin/electron ./build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/robert396/elec-ang-tsc-boilerplate.git"
-    },
-    "author": "Robert Cloutman",
+    "repository": "https://github.com/robert396/elec-ang-tsc-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/robert396/elec-ang-tsc-boilerplate/issues"
-    },
     "homepage": "https://github.com/robert396/elec-ang-tsc-boilerplate#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
@@ -99,6 +92,12 @@
       "gulp-inject": "^3.0.0",
       "gulp-typescript": "^2.11.0",
       "wiredep": "^3.0.0"
+    },
+    "other": {
+      "author": "Robert Cloutman",
+      "bugs": {
+        "url": "https://github.com/robert396/elec-ang-tsc-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "robert396___elec-ang-tsc-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:34:58.866Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:41.337Z"
+  "lastFetchedAt": "2017-10-23T18:02:38.637Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:41.337Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "zeit",
     "id": 14985020,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14985020?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14985020?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zeit",
     "htmlUrl": "https://github.com/zeit",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/zeit/now-desktop",
-  "description": "The native application for Now",
+  "description": "Create deployments right from the tray menu",
   "fork": false,
   "url": "https://api.github.com/repos/zeit/now-desktop",
   "forksUrl": "https://api.github.com/repos/zeit/now-desktop/forks",
@@ -35,27 +35,27 @@
   "downloadsUrl": "https://api.github.com/repos/zeit/now-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/zeit/now-desktop/deployments",
   "createdAt": "2016-06-27T11:57:14.000Z",
-  "updatedAt": "2017-05-03T06:13:27.000Z",
-  "pushedAt": "2017-04-17T17:22:02.000Z",
+  "updatedAt": "2017-10-20T02:45:22.000Z",
+  "pushedAt": "2017-10-11T23:02:13.000Z",
   "gitUrl": "git://github.com/zeit/now-desktop.git",
   "sshUrl": "git@github.com:zeit/now-desktop.git",
   "cloneUrl": "https://github.com/zeit/now-desktop.git",
   "svnUrl": "https://github.com/zeit/now-desktop",
-  "homepage": "https://zeit.co/desktop",
-  "size": 10786,
-  "stargazersCount": 523,
-  "watchersCount": 523,
+  "homepage": "https://zeit.co/download",
+  "size": 14239,
+  "stargazersCount": 704,
+  "watchersCount": 704,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 44,
+  "forksCount": 75,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 523,
-  "defaultBranch": "master",
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 704,
+  "defaultBranch": "canary",
   "permissions": {
     "admin": false,
     "push": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "zeit",
     "id": 14985020,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14985020?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14985020?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zeit",
     "htmlUrl": "https://github.com/zeit",
@@ -82,18 +82,14 @@
     "receivedEventsUrl": "https://api.github.com/users/zeit/received_events",
     "type": "Organization"
   },
-  "networkCount": 44,
-  "subscribersCount": 20,
+  "networkCount": 75,
+  "subscribersCount": 29,
   "status": 200,
   "packageJSON": {
     "name": "now-desktop",
     "productName": "Now",
     "description": "Realtime global deployments",
     "version": "1.2.2",
-    "author": {
-      "name": "Zeit, Inc.",
-      "email": "team@zeit.co"
-    },
     "repository": "zeit/now-desktop",
     "main": "main/index.js",
     "scripts": {
@@ -212,6 +208,12 @@
       "lint-staged": "3.4.0",
       "prettier": "1.0.2",
       "xo": "0.18.1"
+    },
+    "other": {
+      "author": {
+        "name": "Zeit, Inc.",
+        "email": "team@zeit.co"
+      }
     }
   },
   "packageStatus": 200,
@@ -240,6 +242,7 @@
   "filename": "zeit___now-app.json",
   "sourceRepo": "zeit/now-desktop",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T17:53:38.509Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:38.261Z"
+  "lastFetchedAt": "2017-10-23T19:07:28.791Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:38.261Z",
+  "archived": false
 }

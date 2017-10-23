@@ -5,7 +5,7 @@
   "owner": {
     "login": "LiskHQ",
     "id": 16600915,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16600915?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16600915?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LiskHQ",
     "htmlUrl": "https://github.com/LiskHQ",
@@ -20,21 +20,21 @@
   "description": "💻 Lisk Nano, a minimal feature client",
   "fork": false,
   "createdAt": "2016-05-29T16:40:04.000Z",
-  "updatedAt": "2017-03-29T09:17:39.000Z",
-  "pushedAt": "2017-05-03T15:32:44.000Z",
+  "updatedAt": "2017-10-18T13:19:38.000Z",
+  "pushedAt": "2017-10-23T16:09:25.000Z",
   "homepage": "",
-  "size": 8231,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "size": 10638,
+  "stargazersCount": 59,
+  "watchersCount": 59,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 5,
-  "openIssuesCount": 32,
-  "openIssues": 32,
-  "watchers": 8,
+  "forksCount": 34,
+  "openIssuesCount": 80,
+  "openIssues": 80,
+  "watchers": 59,
   "defaultBranch": "development",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "LiskHQ",
     "id": 16600915,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16600915?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16600915?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LiskHQ",
     "htmlUrl": "https://github.com/LiskHQ",
@@ -62,15 +62,14 @@
     "receivedEventsUrl": "https://api.github.com/users/LiskHQ/received_events",
     "type": "Organization"
   },
-  "networkCount": 5,
-  "subscribersCount": 10,
+  "networkCount": 34,
+  "subscribersCount": 26,
   "status": 200,
   "packageJSON": {
     "name": "lisk-nano",
     "version": "0.2.0",
     "description": "Lisk Nano",
     "homepage": "https://github.com/LiskHQ/lisk-nano",
-    "bugs": "https://github.com/LiskHQ/lisk-nano/issues",
     "main": "main.js",
     "scripts": {
       "start": "electron app",
@@ -78,12 +77,8 @@
       "dist:mac": "build --mac",
       "dist:linux": "build --linux"
     },
-    "author": "Lisk Foundation <admin@lisk.io>, lightcurve GmbH <admin@lightcurve.io>",
     "license": "GPL-3.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/LiskHQ/lisk-nano"
-    },
+    "repository": "https://github.com/LiskHQ/lisk-nano",
     "devDependencies": {
       "electron": "=1.6.2",
       "electron-builder": "=16.8.3"
@@ -94,6 +89,10 @@
       "win": {
         "target": "nsis"
       }
+    },
+    "other": {
+      "author": "Lisk Foundation <admin@lisk.io>, lightcurve GmbH <admin@lightcurve.io>",
+      "bugs": "https://github.com/LiskHQ/lisk-nano/issues"
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "LiskHQ___lisk-nano.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:36.738Z",
-  "packageLastFetchedAt": "2017-05-04T22:17:35.325Z"
+  "lastFetchedAt": "2017-10-23T20:51:10.635Z",
+  "packageLastFetchedAt": "2017-05-04T22:17:35.325Z",
+  "archived": false
 }

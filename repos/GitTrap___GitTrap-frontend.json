@@ -5,7 +5,7 @@
   "owner": {
     "login": "GitTrap",
     "id": 18366274,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18366274?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18366274?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GitTrap",
     "htmlUrl": "https://github.com/GitTrap",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "GitTrap",
     "id": 18366274,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18366274?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18366274?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GitTrap",
     "htmlUrl": "https://github.com/GitTrap",
@@ -101,19 +101,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/GitTrap/GitTrap-frontend.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/GitTrap"
-    },
+    "repository": "https://github.com/GitTrap/GitTrap-frontend",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/GitTrap/GitTrap-frontend/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -195,6 +184,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/GitTrap"
+      },
+      "bugs": {
+        "url": "https://github.com/GitTrap/GitTrap-frontend/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -222,6 +221,7 @@
   },
   "filename": "GitTrap___GitTrap-frontend.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:27.827Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:08.393Z"
+  "lastFetchedAt": "2017-10-23T20:15:04.749Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:08.393Z",
+  "archived": false
 }

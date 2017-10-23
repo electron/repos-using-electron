@@ -5,7 +5,7 @@
   "owner": {
     "login": "matchboxjs",
     "id": 14159260,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14159260?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14159260?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matchboxjs",
     "htmlUrl": "https://github.com/matchboxjs",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "matchboxjs",
     "id": 14159260,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14159260?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14159260?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matchboxjs",
     "htmlUrl": "https://github.com/matchboxjs",
@@ -73,19 +73,12 @@
     "scripts": {
       "test": "ELECTRON_PATH=./node_modules/.bin/electron ./node_modules/.bin/electron-mocha --renderer --recursive --bail --ui bdd ./test/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/matchboxjs/matchbox-dom.git"
-    },
+    "repository": "https://github.com/matchboxjs/matchbox-dom",
     "keywords": [
       "matchbox",
       "dom"
     ],
-    "author": "tunderdomb",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/matchboxjs/matchbox-dom/issues"
-    },
     "homepage": "https://github.com/matchboxjs/matchbox-dom#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -96,6 +89,12 @@
       "backyard": "^0.1.0",
       "offspring": "^0.4.0",
       "stations": "^1.0.0"
+    },
+    "other": {
+      "author": "tunderdomb",
+      "bugs": {
+        "url": "https://github.com/matchboxjs/matchbox-dom/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "matchboxjs___matchbox-dom.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:09.305Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:06.679Z"
+  "lastFetchedAt": "2017-10-23T19:17:58.587Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:06.679Z",
+  "archived": false
 }

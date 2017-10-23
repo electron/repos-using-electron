@@ -5,7 +5,7 @@
   "owner": {
     "login": "marimo0718",
     "id": 23067599,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23067599?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23067599?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/marimo0718",
     "htmlUrl": "https://github.com/marimo0718",
@@ -90,21 +90,14 @@
       "unittest:view-watch": "karma start --auto-watch --no-single-run",
       "prepush": "npm run flow && npm run unittest:view"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bokuweb/Tsukiakari.git"
-    },
+    "repository": "https://github.com/bokuweb/Tsukiakari",
     "keywords": [
       "Electron",
       "React",
       "Redux",
       "Twitter"
     ],
-    "author": "bokuweb",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bokuweb/Tsukiakari/issues"
-    },
     "homepage": "https://github.com/bokuweb/Tsukiakari#readme",
     "devDependencies": {
       "babel": "^6.3.26",
@@ -203,6 +196,12 @@
       "transform": [
         "babelify"
       ]
+    },
+    "other": {
+      "author": "bokuweb",
+      "bugs": {
+        "url": "https://github.com/bokuweb/Tsukiakari/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -231,6 +230,7 @@
   "filename": "marimo0718___sample1101.json",
   "sourceRepo": "bokuweb/Tsukiakari",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:52.445Z",
-  "packageLastFetchedAt": "2017-05-05T13:57:49.437Z"
+  "lastFetchedAt": "2017-10-23T20:52:45.799Z",
+  "packageLastFetchedAt": "2017-05-05T13:57:49.437Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "xrexonx",
     "id": 8487251,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8487251?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8487251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xrexonx",
     "htmlUrl": "https://github.com/xrexonx",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/xrexonx/electron-soundcloud-player",
-  "description": "Learning http://electron.atom.io/",
+  "description": "Soundcloud Player using ElectronJS and ReactJS",
   "fork": false,
   "url": "https://api.github.com/repos/xrexonx/electron-soundcloud-player",
   "forksUrl": "https://api.github.com/repos/xrexonx/electron-soundcloud-player/forks",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/xrexonx/electron-soundcloud-player/downloads",
   "deploymentsUrl": "https://api.github.com/repos/xrexonx/electron-soundcloud-player/deployments",
   "createdAt": "2016-08-07T06:54:35.000Z",
-  "updatedAt": "2016-08-26T07:42:04.000Z",
-  "pushedAt": "2016-08-07T08:29:29.000Z",
+  "updatedAt": "2017-08-01T15:57:52.000Z",
+  "pushedAt": "2017-06-02T04:21:09.000Z",
   "gitUrl": "git://github.com/xrexonx/electron-soundcloud-player.git",
   "sshUrl": "git@github.com:xrexonx/electron-soundcloud-player.git",
   "cloneUrl": "https://github.com/xrexonx/electron-soundcloud-player.git",
   "svnUrl": "https://github.com/xrexonx/electron-soundcloud-player",
   "homepage": "",
-  "size": 234,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 276,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -74,7 +74,6 @@
       "start": "electron main.js",
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js"
     },
-    "author": "Rexon A. De los Reyes <rexondelosreyes88@gmail.com>",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "babel-preset-es2015": "^6.9.0",
@@ -88,6 +87,9 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "Rexon A. De los Reyes <rexondelosreyes88@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -115,6 +117,7 @@
   },
   "filename": "xrexonx___electron-soundcloud-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:52.209Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:54.344Z"
+  "lastFetchedAt": "2017-10-23T19:27:58.898Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:54.344Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "abdihaikal",
     "id": 2351764,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2351764?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2351764?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/abdihaikal",
     "htmlUrl": "https://github.com/abdihaikal",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "Jam3",
       "id": 1165621,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1165621?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1165621?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Jam3",
       "htmlUrl": "https://github.com/Jam3",
@@ -83,7 +83,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/Jam3/devtool",
-    "description": ":triangular_ruler: runs Node.js programs through Chromium DevTools",
+    "description": "[OBSOLETE] runs Node.js programs through Chromium DevTools",
     "fork": false,
     "url": "https://api.github.com/repos/Jam3/devtool",
     "forksUrl": "https://api.github.com/repos/Jam3/devtool/forks",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/Jam3/devtool/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Jam3/devtool/deployments",
     "createdAt": "2016-01-19T18:21:24.000Z",
-    "updatedAt": "2017-05-04T11:14:33.000Z",
-    "pushedAt": "2017-05-02T03:41:48.000Z",
+    "updatedAt": "2017-10-23T14:32:57.000Z",
+    "pushedAt": "2017-05-11T15:47:32.000Z",
     "gitUrl": "git://github.com/Jam3/devtool.git",
     "sshUrl": "git@github.com:Jam3/devtool.git",
     "cloneUrl": "https://github.com/Jam3/devtool.git",
     "svnUrl": "https://github.com/Jam3/devtool",
     "homepage": "",
-    "size": 193,
-    "stargazersCount": 3681,
-    "watchersCount": 3681,
+    "size": 194,
+    "stargazersCount": 3748,
+    "watchersCount": 3748,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 137,
+    "forksCount": 148,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 70,
     "openIssues": 70,
-    "watchers": 3681,
+    "watchers": 3748,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "Jam3",
       "id": 1165621,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1165621?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1165621?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Jam3",
       "htmlUrl": "https://github.com/Jam3",
@@ -143,7 +144,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/Jam3/devtool",
-    "description": ":triangular_ruler: runs Node.js programs through Chromium DevTools",
+    "description": "[OBSOLETE] runs Node.js programs through Chromium DevTools",
     "fork": false,
     "url": "https://api.github.com/repos/Jam3/devtool",
     "forksUrl": "https://api.github.com/repos/Jam3/devtool/forks",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/Jam3/devtool/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Jam3/devtool/deployments",
     "createdAt": "2016-01-19T18:21:24.000Z",
-    "updatedAt": "2017-05-04T11:14:33.000Z",
-    "pushedAt": "2017-05-02T03:41:48.000Z",
+    "updatedAt": "2017-10-23T14:32:57.000Z",
+    "pushedAt": "2017-05-11T15:47:32.000Z",
     "gitUrl": "git://github.com/Jam3/devtool.git",
     "sshUrl": "git@github.com:Jam3/devtool.git",
     "cloneUrl": "https://github.com/Jam3/devtool.git",
     "svnUrl": "https://github.com/Jam3/devtool",
     "homepage": "",
-    "size": 193,
-    "stargazersCount": 3681,
-    "watchersCount": 3681,
+    "size": 194,
+    "stargazersCount": 3748,
+    "watchersCount": 3748,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 137,
+    "forksCount": 148,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 70,
     "openIssues": 70,
-    "watchers": 3681,
+    "watchers": 3748,
     "defaultBranch": "master"
   },
-  "networkCount": 137,
+  "networkCount": 148,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -192,11 +194,6 @@
     "description": "runs Node.js programs through Chromium DevTools",
     "main": "index.js",
     "license": "MIT",
-    "author": {
-      "name": "Matt DesLauriers",
-      "email": "dave.des@gmail.com",
-      "url": "https://github.com/mattdesl"
-    },
     "dependencies": {
       "browser-resolve": "^1.11.0",
       "chokidar": "^1.4.2",
@@ -254,16 +251,20 @@
       ]
     },
     "keywords": [],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Jam3/devtool.git"
-    },
+    "repository": "https://github.com/Jam3/devtool",
     "homepage": "https://github.com/Jam3/devtool",
-    "bugs": {
-      "url": "https://github.com/Jam3/devtool/issues"
-    },
     "bin": {
       "devtool": "./bin/index.js"
+    },
+    "other": {
+      "author": {
+        "name": "Matt DesLauriers",
+        "email": "dave.des@gmail.com",
+        "url": "https://github.com/mattdesl"
+      },
+      "bugs": {
+        "url": "https://github.com/Jam3/devtool/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -291,6 +292,7 @@
   },
   "sourceRepo": "Jam3/devtool",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:54:10.328Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:11.759Z"
+  "lastFetchedAt": "2017-10-23T17:19:44.861Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:11.759Z",
+  "archived": false
 }

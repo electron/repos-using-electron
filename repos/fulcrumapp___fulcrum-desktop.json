@@ -6,7 +6,7 @@
   "owner": {
     "login": "fulcrumapp",
     "id": 8920238,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8920238?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8920238?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fulcrumapp",
     "htmlUrl": "https://github.com/fulcrumapp",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/fulcrumapp/fulcrum-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fulcrumapp/fulcrum-desktop/deployments",
   "createdAt": "2016-03-15T00:41:08.000Z",
-  "updatedAt": "2017-05-03T15:47:19.000Z",
-  "pushedAt": "2017-05-03T23:23:47.000Z",
+  "updatedAt": "2017-07-01T12:05:21.000Z",
+  "pushedAt": "2017-09-28T18:06:59.000Z",
   "gitUrl": "git://github.com/fulcrumapp/fulcrum-desktop.git",
   "sshUrl": "git@github.com:fulcrumapp/fulcrum-desktop.git",
   "cloneUrl": "https://github.com/fulcrumapp/fulcrum-desktop.git",
   "svnUrl": "https://github.com/fulcrumapp/fulcrum-desktop",
   "homepage": "",
-  "size": 27283,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 27506,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -54,20 +54,26 @@
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 6,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-clause \"New\" or \"Revised\" License",
+    "spdxId": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "featured": false
+  },
   "organization": {
     "login": "fulcrumapp",
     "id": 8920238,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8920238?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8920238?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fulcrumapp",
     "htmlUrl": "https://github.com/fulcrumapp",
@@ -79,9 +85,9 @@
     "type": "Organization"
   },
   "networkCount": 1,
-  "subscribersCount": 6,
+  "subscribersCount": 9,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:01:15.999Z",
+  "lastFetchedAt": "2017-10-23T20:53:54.908Z",
   "packageJSON": {
     "name": "Fulcrum",
     "version": "0.0.33",
@@ -106,12 +112,8 @@
       "dist:travis": "build --linux --mac --publish always",
       "mac": "build --mac dir"
     },
-    "author": "Zac McCormick <zac.mccormick@gmail.com> (http://github.com/zhm)",
     "license": "BSD-3-Clause",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/fulcrumapp/fulcrum-desktop.git"
-    },
+    "repository": "https://github.com/fulcrumapp/fulcrum-desktop",
     "eslintConfig": {
       "extends": "fulcrum"
     },
@@ -286,8 +288,12 @@
     },
     "keywords": [
       "fulcrum"
-    ]
+    ],
+    "other": {
+      "author": "Zac McCormick <zac.mccormick@gmail.com> (http://github.com/zhm)"
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:09:05.145Z"
+  "packageLastFetchedAt": "2017-05-05T17:09:05.145Z",
+  "archived": false
 }

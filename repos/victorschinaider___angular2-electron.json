@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "clinic-system",
     "version": "0.0.1",
@@ -76,7 +76,6 @@
       "test": "jasmine",
       "typings": "typings install"
     },
-    "author": "Victor Almeida Schinaider",
     "dependencies": {
       "@angular/common": "2.0.0-rc.5",
       "@angular/compiler": "2.0.0-rc.5",
@@ -112,6 +111,9 @@
       "pug": "^2.0.0-beta5",
       "typescript": "^1.8.10",
       "typings": "^1.0.4"
+    },
+    "other": {
+      "author": "Victor Almeida Schinaider"
     }
   },
   "packageStatus": 200,
@@ -139,6 +141,6 @@
   },
   "filename": "victorschinaider___angular2-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:01.186Z",
+  "lastFetchedAt": "2017-10-23T20:44:34.813Z",
   "packageLastFetchedAt": "2017-05-05T17:27:16.554Z"
 }

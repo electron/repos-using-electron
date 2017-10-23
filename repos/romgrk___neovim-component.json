@@ -5,7 +5,7 @@
   "owner": {
     "login": "romgrk",
     "id": 1423607,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1423607?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1423607?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/romgrk",
     "htmlUrl": "https://github.com/romgrk",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "rhysd",
       "id": 823277,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/rhysd",
       "htmlUrl": "https://github.com/rhysd",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/rhysd/neovim-component/downloads",
     "deploymentsUrl": "https://api.github.com/repos/rhysd/neovim-component/deployments",
     "createdAt": "2015-11-23T17:07:39.000Z",
-    "updatedAt": "2017-05-04T06:26:58.000Z",
-    "pushedAt": "2016-12-28T16:18:46.000Z",
+    "updatedAt": "2017-09-20T06:50:45.000Z",
+    "pushedAt": "2017-10-16T14:08:26.000Z",
     "gitUrl": "git://github.com/rhysd/neovim-component.git",
     "sshUrl": "git@github.com:rhysd/neovim-component.git",
     "cloneUrl": "https://github.com/rhysd/neovim-component.git",
     "svnUrl": "https://github.com/rhysd/neovim-component",
     "homepage": "https://github.com/rhysd/NyaoVim",
-    "size": 288,
-    "stargazersCount": 95,
-    "watchersCount": 95,
+    "size": 318,
+    "stargazersCount": 107,
+    "watchersCount": 107,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 13,
+    "forksCount": 15,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 8,
     "openIssues": 8,
-    "watchers": 95,
+    "watchers": 107,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "rhysd",
       "id": 823277,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/rhysd",
       "htmlUrl": "https://github.com/rhysd",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/rhysd/neovim-component/downloads",
     "deploymentsUrl": "https://api.github.com/repos/rhysd/neovim-component/deployments",
     "createdAt": "2015-11-23T17:07:39.000Z",
-    "updatedAt": "2017-05-04T06:26:58.000Z",
-    "pushedAt": "2016-12-28T16:18:46.000Z",
+    "updatedAt": "2017-09-20T06:50:45.000Z",
+    "pushedAt": "2017-10-16T14:08:26.000Z",
     "gitUrl": "git://github.com/rhysd/neovim-component.git",
     "sshUrl": "git@github.com:rhysd/neovim-component.git",
     "cloneUrl": "https://github.com/rhysd/neovim-component.git",
     "svnUrl": "https://github.com/rhysd/neovim-component",
     "homepage": "https://github.com/rhysd/NyaoVim",
-    "size": 288,
-    "stargazersCount": 95,
-    "watchersCount": 95,
+    "size": 318,
+    "stargazersCount": 107,
+    "watchersCount": 107,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 13,
+    "forksCount": 15,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 8,
     "openIssues": 8,
-    "watchers": 95,
+    "watchers": 107,
     "defaultBranch": "master"
   },
-  "networkCount": 13,
+  "networkCount": 15,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -173,13 +175,7 @@
     "bin": {
       "nvim-md-example": "./example/minimal/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rhysd/neovim-component.git"
-    },
-    "bugs": {
-      "url": "https://github.com/rhysd/neovim-component/issues"
-    },
+    "repository": "https://github.com/rhysd/neovim-component",
     "scripts": {
       "all": "npm run dep && npm run build && npm run example",
       "build": "tsc -p src && browserify -o build/index.js src/out/index.js",
@@ -198,7 +194,6 @@
       "NW.js",
       "editor"
     ],
-    "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
     "dependencies": {
       "flux": "^2.1.1",
@@ -218,6 +213,12 @@
       "tslint": "^3.8.0",
       "typescript": "^1.8.10",
       "typings": "^0.7.1"
+    },
+    "other": {
+      "author": "rhysd <lin90162@yahoo.co.jp>",
+      "bugs": {
+        "url": "https://github.com/rhysd/neovim-component/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -266,6 +267,7 @@
   "svnUrl": "https://github.com/romgrk/neovim-component",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:29:46.017Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:11.351Z"
+  "lastFetchedAt": "2017-10-23T21:05:01.877Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:11.351Z",
+  "archived": false
 }

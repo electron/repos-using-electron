@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhencke",
     "id": 178348,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/178348?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/178348?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhencke",
     "htmlUrl": "https://github.com/rhencke",
@@ -58,16 +58,15 @@
       "start": "node_modules/.bin/electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/rhencke/electrellon.git"
-    },
-    "author": "Robert Hencke",
+    "repository": "https://github.com/rhencke/electrellon",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/rhencke/electrellon/issues"
-    },
-    "homepage": "https://github.com/rhencke/electrellon#readme"
+    "homepage": "https://github.com/rhencke/electrellon#readme",
+    "other": {
+      "author": "Robert Hencke",
+      "bugs": {
+        "url": "https://github.com/rhencke/electrellon/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +113,7 @@
   "svnUrl": "https://github.com/rhencke/Electrellon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:26:35.089Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:15.636Z"
+  "lastFetchedAt": "2017-10-23T17:08:30.908Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:15.636Z",
+  "archived": false
 }

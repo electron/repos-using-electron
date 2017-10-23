@@ -5,7 +5,7 @@
   "owner": {
     "login": "rlmcneary2",
     "id": 1216670,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1216670?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1216670?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rlmcneary2",
     "htmlUrl": "https://github.com/rlmcneary2",
@@ -83,21 +83,14 @@
       "prebuilt": "electron ./dist/app/ -devtools",
       "release": "gulp release"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rlmcneary2/electron-app.git"
-    },
+    "repository": "https://github.com/rlmcneary2/electron-app",
     "keywords": [
       "Electron",
       "application",
       "skeleton",
       "basic"
     ],
-    "author": "Richard L. McNeary II",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rlmcneary2/electron-app/issues"
-    },
     "homepage": "https://github.com/rlmcneary2/electron-app#readme",
     "devDependencies": {
       "babel-core": "^6.13.2",
@@ -128,6 +121,12 @@
       "redux": "^3.5.2",
       "redux-thunk": "^2.1.0",
       "url": "^0.11.0"
+    },
+    "other": {
+      "author": "Richard L. McNeary II",
+      "bugs": {
+        "url": "https://github.com/rlmcneary2/electron-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   },
   "filename": "rlmcneary2___electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:31.415Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:35.285Z"
+  "lastFetchedAt": "2017-10-23T20:51:22.642Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:35.285Z",
+  "archived": false
 }

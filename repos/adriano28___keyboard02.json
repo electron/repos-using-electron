@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "keyboard01",
     "productName": "Keyboard Game",
@@ -75,17 +75,13 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "keyboard",
       "game",
       "tutorial"
     ],
-    "author": "Adrian Yong",
     "license": "MIT",
     "devDependencies": {
       "axios": "^0.9.1",
@@ -99,6 +95,9 @@
       "react": "^0.14.8",
       "react-autocomplete": "^1.0.0-rc2",
       "react-dom": "^0.14.7"
+    },
+    "other": {
+      "author": "Adrian Yong"
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,6 @@
   },
   "filename": "adriano28___keyboard02.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:18.303Z",
+  "lastFetchedAt": "2017-10-23T17:40:10.050Z",
   "packageLastFetchedAt": "2017-05-05T01:26:07.617Z"
 }

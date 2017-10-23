@@ -5,7 +5,7 @@
   "owner": {
     "login": "otakustay",
     "id": 639549,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/639549?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/639549?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/otakustay",
     "htmlUrl": "https://github.com/otakustay",
@@ -83,7 +83,6 @@
       "build": "sh dist.sh --install && npm run build:osx",
       "build:osx": "electron-packager dist Icarus --platform=darwin --arch=x64 --version=0.35.4 --out=release --overwrite"
     },
-    "author": "otakustay",
     "license": "MIT",
     "dependencies": {
       "babel-polyfill": "^6.2.0",
@@ -102,6 +101,9 @@
       "babel-preset-stage-0": "^6.1.18",
       "electron-packager": "^5.1.1",
       "electron-prebuilt": "^0.35.4"
+    },
+    "other": {
+      "author": "otakustay"
     }
   },
   "packageStatus": 200,
@@ -129,6 +131,7 @@
   },
   "filename": "otakustay___bos-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:27.117Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:13.791Z"
+  "lastFetchedAt": "2017-10-23T19:22:45.069Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:13.791Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "megahertz",
     "id": 1762672,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1762672?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1762672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/megahertz",
     "htmlUrl": "https://github.com/megahertz",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T18:02:02.578Z",
+  "lastFetchedAt": "2017-10-23T17:39:15.983Z",
   "packageJSON": {
     "name": "electron-cfg",
     "version": "0.0.2",
@@ -85,10 +85,7 @@
       "test": "npm run lint && npm run tslint && npm run mocha",
       "tslint": "tslint electron-cfg.d.ts"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/megahertz/electron-cfg.git"
-    },
+    "repository": "https://github.com/megahertz/electron-cfg",
     "files": [
       "index.js",
       "lib/*",
@@ -104,11 +101,7 @@
       "window",
       "state"
     ],
-    "author": "Alexey Prokhorov",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/megahertz/electron-cfg/issues"
-    },
     "homepage": "https://github.com/megahertz/electron-cfg#readme",
     "engines": {
       "node": ">=6.0"
@@ -127,8 +120,15 @@
       "sinon-chai": "*",
       "tslint": "*",
       "typescript": "*"
+    },
+    "other": {
+      "author": "Alexey Prokhorov",
+      "bugs": {
+        "url": "https://github.com/megahertz/electron-cfg/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:08:35.057Z"
+  "packageLastFetchedAt": "2017-05-05T17:08:35.057Z",
+  "archived": false
 }

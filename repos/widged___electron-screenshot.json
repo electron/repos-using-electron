@@ -5,7 +5,7 @@
   "owner": {
     "login": "widged",
     "id": 320596,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/320596?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/320596?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/widged",
     "htmlUrl": "https://github.com/widged",
@@ -53,23 +53,22 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/widged/electron-screenshot.git"
-    },
+    "repository": "https://github.com/widged/electron-screenshot",
     "keywords": [
       "electron",
       "screenshot"
     ],
-    "author": "Marielle <mlange@widged.com> (http://widged.com)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/widged/electron-screenshot/issues"
-    },
     "homepage": "https://github.com/widged/electron-screenshot#readme",
     "dependencies": {
       "electron-prebuilt": "^0.34.0",
       "sha1": "^1.1.1"
+    },
+    "other": {
+      "author": "Marielle <mlange@widged.com> (http://widged.com)",
+      "bugs": {
+        "url": "https://github.com/widged/electron-screenshot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   "svnUrl": "https://github.com/widged/electron-screenshot",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:25:11.876Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:49.529Z"
+  "lastFetchedAt": "2017-10-23T18:49:01.493Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:49.529Z",
+  "archived": false
 }

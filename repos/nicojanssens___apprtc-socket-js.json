@@ -5,7 +5,7 @@
   "owner": {
     "login": "nicojanssens",
     "id": 9429877,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9429877?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9429877?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nicojanssens",
     "htmlUrl": "https://github.com/nicojanssens",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-01-28T21:35:35.000Z",
   "updatedAt": "2016-12-14T21:06:34.000Z",
-  "pushedAt": "2016-12-14T21:06:33.000Z",
+  "pushedAt": "2017-08-02T20:38:58.000Z",
   "homepage": null,
-  "size": 23,
+  "size": 34,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -61,10 +61,6 @@
       "websocket",
       "client"
     ],
-    "author": {
-      "name": "Nico Janssens",
-      "email": "nico.b.janssens@gmail.com"
-    },
     "license": "MIT",
     "engines": {
       "node": ">=6.9.0"
@@ -84,10 +80,7 @@
       "uglify-js": "^2.7.0",
       "zuul": "^3.10.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/nicojanssens/apprtc-socket-js.git"
-    },
+    "repository": "https://github.com/nicojanssens/apprtc-socket-js",
     "scripts": {
       "build": "browserify -s AppRtcSocket -e ./ | uglifyjs -c warnings=false -m > apprtc-socket.min.js",
       "build-debug": "browserify -s AppRtcSocket -e ./ > apprtc-socket.debug.js",
@@ -98,6 +91,12 @@
       "test-node": "mocha test/*.unit.js",
       "clean": "rm -f apprtc-socket.*.js && rm -rf node_modules",
       "2npm": "publish"
+    },
+    "other": {
+      "author": {
+        "name": "Nico Janssens",
+        "email": "nico.b.janssens@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   "svnUrl": "https://github.com/nicojanssens/apprtc-socket-js",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:04:23.915Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:00.633Z"
+  "lastFetchedAt": "2017-10-23T17:59:04.219Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:00.633Z",
+  "archived": false
 }

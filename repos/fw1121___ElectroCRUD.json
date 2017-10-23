@@ -5,7 +5,7 @@
   "owner": {
     "login": "fw1121",
     "id": 1687838,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1687838?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1687838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fw1121",
     "htmlUrl": "https://github.com/fw1121",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "garrylachman",
       "id": 11525012,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/11525012?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11525012?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/garrylachman",
       "htmlUrl": "https://github.com/garrylachman",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/garrylachman/ElectroCRUD/downloads",
     "deploymentsUrl": "https://api.github.com/repos/garrylachman/ElectroCRUD/deployments",
     "createdAt": "2016-05-14T02:18:49.000Z",
-    "updatedAt": "2017-05-02T20:00:58.000Z",
+    "updatedAt": "2017-10-19T16:05:11.000Z",
     "pushedAt": "2016-06-07T09:08:51.000Z",
     "gitUrl": "git://github.com/garrylachman/ElectroCRUD.git",
     "sshUrl": "git@github.com:garrylachman/ElectroCRUD.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/garrylachman/ElectroCRUD",
     "homepage": "http://garrylachman.github.io/ElectroCRUD/",
     "size": 1102875,
-    "stargazersCount": 661,
-    "watchersCount": 661,
+    "stargazersCount": 699,
+    "watchersCount": 699,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 109,
+    "forksCount": 125,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 661,
+    "archived": false,
+    "openIssuesCount": 14,
+    "openIssues": 14,
+    "watchers": 699,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "garrylachman",
       "id": 11525012,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/11525012?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/11525012?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/garrylachman",
       "htmlUrl": "https://github.com/garrylachman",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/garrylachman/ElectroCRUD/downloads",
     "deploymentsUrl": "https://api.github.com/repos/garrylachman/ElectroCRUD/deployments",
     "createdAt": "2016-05-14T02:18:49.000Z",
-    "updatedAt": "2017-05-02T20:00:58.000Z",
+    "updatedAt": "2017-10-19T16:05:11.000Z",
     "pushedAt": "2016-06-07T09:08:51.000Z",
     "gitUrl": "git://github.com/garrylachman/ElectroCRUD.git",
     "sshUrl": "git@github.com:garrylachman/ElectroCRUD.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/garrylachman/ElectroCRUD",
     "homepage": "http://garrylachman.github.io/ElectroCRUD/",
     "size": 1102875,
-    "stargazersCount": 661,
-    "watchersCount": 661,
+    "stargazersCount": 699,
+    "watchersCount": 699,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 109,
+    "forksCount": 125,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 661,
+    "archived": false,
+    "openIssuesCount": 14,
+    "openIssues": 14,
+    "watchers": 699,
     "defaultBranch": "master"
   },
-  "networkCount": 109,
+  "networkCount": 125,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -172,14 +174,7 @@
     "private": false,
     "description": "MySQL CRUD build on Electron",
     "license": "GPL-3.0",
-    "author": "Garry Lachman <garry@lachman.co>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/garrylachman/ElectroCRUD.git"
-    },
-    "bugs": {
-      "url": "https://github.com/garrylachman/ElectroCRUD/issues"
-    },
+    "repository": "https://github.com/garrylachman/ElectroCRUD",
     "keywords": [
       "mysql",
       "CRUD",
@@ -242,6 +237,12 @@
       "promise": "^7.1.1",
       "setter-method": "^0.1.0",
       "tunnel-ssh": "^3.2.1-beta"
+    },
+    "other": {
+      "author": "Garry Lachman <garry@lachman.co>",
+      "bugs": {
+        "url": "https://github.com/garrylachman/ElectroCRUD/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -290,6 +291,7 @@
   "filename": "fw1121___ElectroCRUD.json",
   "sourceRepo": "garrylachman/ElectroCRUD",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:06.390Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:11.870Z"
+  "lastFetchedAt": "2017-10-23T20:35:30.863Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:11.870Z",
+  "archived": false
 }

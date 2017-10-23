@@ -5,7 +5,7 @@
   "owner": {
     "login": "tborychowski",
     "id": 392513,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/392513?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/392513?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tborychowski",
     "htmlUrl": "https://github.com/tborychowski",
@@ -69,10 +69,7 @@
     "name": "satelite",
     "version": "1.1..0",
     "description": "desktop sidebar/dashboard concept",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tborychowski/satelite.git"
-    },
+    "repository": "https://github.com/tborychowski/satelite",
     "main": "index.js",
     "dependencies": {
       "bins": "^1.0.0",
@@ -91,8 +88,10 @@
     "scripts": {
       "start": "electron --enable-transparent-visuals --disable-gpu index.js"
     },
-    "author": "tom",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "tom"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +118,7 @@
   },
   "filename": "tborychowski___satelite.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:55.109Z",
-  "packageLastFetchedAt": "2017-05-05T01:32:54.787Z"
+  "lastFetchedAt": "2017-10-23T19:35:36.278Z",
+  "packageLastFetchedAt": "2017-05-05T01:32:54.787Z",
+  "archived": false
 }

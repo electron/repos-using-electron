@@ -5,7 +5,7 @@
   "owner": {
     "login": "Hatisoft",
     "id": 12995310,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12995310?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12995310?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Hatisoft",
     "htmlUrl": "https://github.com/Hatisoft",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Hatisoft",
     "id": 12995310,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12995310?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12995310?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Hatisoft",
     "htmlUrl": "https://github.com/Hatisoft",
@@ -76,22 +76,11 @@
       "test": "mocha test",
       "dist": "build --publish=onTag"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Hatisoft/koteky.git"
-    },
+    "repository": "https://github.com/Hatisoft/koteky",
     "keywords": [
       "Electron"
     ],
-    "author": {
-      "name": "Hati Software",
-      "email": "contact@hatisoft.net",
-      "url": "http://hatisoft.net/"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Hatisoft/koteky/issues"
-    },
     "homepage": "https://github.com/Hatisoft/koteky#readme",
     "devDependencies": {
       "blanket": "^1.2.1",
@@ -136,6 +125,16 @@
       "compression": "maximum",
       "osx": {
         "target": "dmg"
+      }
+    },
+    "other": {
+      "author": {
+        "name": "Hati Software",
+        "email": "contact@hatisoft.net",
+        "url": "http://hatisoft.net/"
+      },
+      "bugs": {
+        "url": "https://github.com/Hatisoft/koteky/issues"
       }
     }
   },
@@ -184,6 +183,7 @@
   "svnUrl": "https://github.com/Hatisoft/koteky",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:07:17.521Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:38.548Z"
+  "lastFetchedAt": "2017-10-23T17:07:08.839Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:38.548Z",
+  "archived": false
 }

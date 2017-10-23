@@ -5,7 +5,7 @@
   "owner": {
     "login": "xiehongfei",
     "id": 9720966,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9720966?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9720966?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xiehongfei",
     "htmlUrl": "https://github.com/xiehongfei",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "zsxsoft",
       "id": 2398785,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2398785?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2398785?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/zsxsoft",
       "htmlUrl": "https://github.com/zsxsoft",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/zsxsoft/danmu-client/downloads",
     "deploymentsUrl": "https://api.github.com/repos/zsxsoft/danmu-client/deployments",
     "createdAt": "2015-03-07T15:16:18.000Z",
-    "updatedAt": "2017-04-28T14:13:37.000Z",
-    "pushedAt": "2017-05-01T02:54:50.000Z",
+    "updatedAt": "2017-10-19T10:33:23.000Z",
+    "pushedAt": "2017-08-20T06:31:09.000Z",
     "gitUrl": "git://github.com/zsxsoft/danmu-client.git",
     "sshUrl": "git@github.com:zsxsoft/danmu-client.git",
     "cloneUrl": "https://github.com/zsxsoft/danmu-client.git",
     "svnUrl": "https://github.com/zsxsoft/danmu-client",
     "homepage": "",
-    "size": 284,
-    "stargazersCount": 73,
-    "watchersCount": 73,
+    "size": 439,
+    "stargazersCount": 95,
+    "watchersCount": 95,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 19,
+    "forksCount": 24,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 73,
+    "archived": false,
+    "openIssuesCount": 0,
+    "openIssues": 0,
+    "watchers": 95,
     "defaultBranch": "electron"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "zsxsoft",
       "id": 2398785,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2398785?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2398785?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/zsxsoft",
       "htmlUrl": "https://github.com/zsxsoft",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/zsxsoft/danmu-client/downloads",
     "deploymentsUrl": "https://api.github.com/repos/zsxsoft/danmu-client/deployments",
     "createdAt": "2015-03-07T15:16:18.000Z",
-    "updatedAt": "2017-04-28T14:13:37.000Z",
-    "pushedAt": "2017-05-01T02:54:50.000Z",
+    "updatedAt": "2017-10-19T10:33:23.000Z",
+    "pushedAt": "2017-08-20T06:31:09.000Z",
     "gitUrl": "git://github.com/zsxsoft/danmu-client.git",
     "sshUrl": "git@github.com:zsxsoft/danmu-client.git",
     "cloneUrl": "https://github.com/zsxsoft/danmu-client.git",
     "svnUrl": "https://github.com/zsxsoft/danmu-client",
     "homepage": "",
-    "size": 284,
-    "stargazersCount": 73,
-    "watchersCount": 73,
+    "size": 439,
+    "stargazersCount": 95,
+    "watchersCount": 95,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 19,
+    "forksCount": 24,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 73,
+    "archived": false,
+    "openIssuesCount": 0,
+    "openIssues": 0,
+    "watchers": 95,
     "defaultBranch": "electron"
   },
-  "networkCount": 19,
+  "networkCount": 24,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -175,19 +177,12 @@
       "go": "electron .",
       "go-lin": "electron . --enable-transparent-visuals --disable-gpu"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zsxsoft/danmu-client.git"
-    },
+    "repository": "https://github.com/zsxsoft/danmu-client",
     "keywords": [
       "danmu",
       "danmaku"
     ],
-    "author": "zsx <zsx@zsxsoft.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zsxsoft/danmu-client/issues"
-    },
     "homepage": "https://github.com/zsxsoft/danmu-client",
     "dependencies": {
       "electron-penetrate": "0.0.3",
@@ -198,6 +193,12 @@
       "electron-prebuilt": "^0.35.1",
       "electron-rebuild": "^1.0.2",
       "node-gyp": "^3.2.0"
+    },
+    "other": {
+      "author": "zsx <zsx@zsxsoft.com>",
+      "bugs": {
+        "url": "https://github.com/zsxsoft/danmu-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -246,6 +247,7 @@
   "svnUrl": "https://github.com/xiehongfei/danmu-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:25:57.125Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:04.018Z"
+  "lastFetchedAt": "2017-10-23T20:21:23.645Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:04.018Z",
+  "archived": false
 }

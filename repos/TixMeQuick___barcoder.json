@@ -5,7 +5,7 @@
   "owner": {
     "login": "TixMeQuick",
     "id": 19894950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19894950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19894950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TixMeQuick",
     "htmlUrl": "https://github.com/TixMeQuick",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "TixMeQuick",
     "id": 19894950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19894950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19894950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TixMeQuick",
     "htmlUrl": "https://github.com/TixMeQuick",
@@ -94,15 +94,11 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TixMeQuick/barcoder.git"
-    },
+    "repository": "https://github.com/TixMeQuick/barcoder",
     "keywords": [
       "barcode",
       "electron"
     ],
-    "author": "TixMeQuick",
     "license": "Unlicense",
     "homepage": "https://github.com/TixMeQuick/barcoder#readme",
     "devDependencies": {
@@ -110,6 +106,9 @@
       "electron-packager": "^7.0.4",
       "electron-prebuilt": "^1.2.0",
       "electron-rebuild": "^1.1.5"
+    },
+    "other": {
+      "author": "TixMeQuick"
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "TixMeQuick___barcoder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:32:49.184Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:28.148Z"
+  "lastFetchedAt": "2017-10-23T20:55:57.153Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:28.148Z",
+  "archived": false
 }

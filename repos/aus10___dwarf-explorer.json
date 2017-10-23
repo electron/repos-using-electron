@@ -5,7 +5,7 @@
   "owner": {
     "login": "aus10",
     "id": 12912593,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12912593?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12912593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aus10",
     "htmlUrl": "https://github.com/aus10",
@@ -81,20 +81,19 @@
       "build": "elm-make src/Main.elm --output build/elm.js",
       "watch": "node elm-watch.js src/Main.elm"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
-    "author": "GitHub",
+    "repository": "https://github.com/electron/electron-quick-start",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4",
       "eslint": "^3.7.1",
       "eslint-config-defaults": "^9.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "aus10___dwarf-explorer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:47:32.005Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:14.983Z"
+  "lastFetchedAt": "2017-10-23T20:21:03.467Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:14.983Z",
+  "archived": false
 }

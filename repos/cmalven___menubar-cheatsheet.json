@@ -5,7 +5,7 @@
   "owner": {
     "login": "cmalven",
     "id": 610118,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/610118?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/610118?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cmalven",
     "htmlUrl": "https://github.com/cmalven",
@@ -54,7 +54,6 @@
       "build": "electron-packager . MenubarCheatsheet --out ./builds --platform=darwin --arch=all --version=0.34.1 --icon=Icon.icns --overwrite",
       "start": "electron ."
     },
-    "author": "Chris Malven <cmalven@chrismalven.com>",
     "license": "ISC",
     "dependencies": {
       "electron-debug": "^0.2.1",
@@ -64,6 +63,9 @@
     "devDependencies": {
       "electron-packager": "^5.1.0",
       "electron-prebuilt": "0.34.1"
+    },
+    "other": {
+      "author": "Chris Malven <cmalven@chrismalven.com>"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
   "svnUrl": "https://github.com/cmalven/menubar-cheatsheet",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:28:42.806Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:02.361Z"
+  "lastFetchedAt": "2017-10-23T18:49:37.552Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:02.361Z",
+  "archived": false
 }

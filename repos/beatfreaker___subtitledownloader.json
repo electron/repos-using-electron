@@ -5,7 +5,7 @@
   "owner": {
     "login": "beatfreaker",
     "id": 4180238,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4180238?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4180238?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/beatfreaker",
     "htmlUrl": "https://github.com/beatfreaker",
@@ -55,11 +55,6 @@
     "name": "subtitledownloader",
     "version": "0.1.1",
     "description": "A painless Subtitle downloader",
-    "author": {
-      "name": "Chintan Radia",
-      "email": "radiachints1512@gmail.com",
-      "url": "http://beatfreaker.github.io/"
-    },
     "main": "main.js",
     "scripts": {
       "start": "electron main.js",
@@ -68,10 +63,7 @@
       "build-windows32": "electron-packager . SubtitleDownloader --overwrite --asar=true --out=dist --prune --platform=win32 --arch=ia32 --icon=resources/app.ico --version=0.35.6 --version-string.ProductName=SubtitleDownloader --version-string.ProductVersion=0.35.6",
       "build-windows64": "electron-packager . SubtitleDownloader --overwrite --asar=true --out=dist --prune --platform=win32 --arch=x64 --icon=resources/app.ico --version=0.35.6 --version-string.ProductName=SubtitleDownloader --version-string.ProductVersion=0.35.6"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/beatfreaker/subtitledownloader.git"
-    },
+    "repository": "https://github.com/beatfreaker/subtitledownloader",
     "keywords": [
       "Electron",
       "subtitle",
@@ -80,9 +72,6 @@
       "tv series"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/beatfreaker/subtitledownloader/issues"
-    },
     "homepage": "https://github.com/beatfreaker/subtitledownloader",
     "devDependencies": {
       "electron-packager": "^5.1.0",
@@ -98,6 +87,16 @@
         "publisher": "Chintan Radia",
         "icon": "resources/app.ico",
         "verbosity": 1
+      }
+    },
+    "other": {
+      "author": {
+        "name": "Chintan Radia",
+        "email": "radiachints1512@gmail.com",
+        "url": "http://beatfreaker.github.io/"
+      },
+      "bugs": {
+        "url": "https://github.com/beatfreaker/subtitledownloader/issues"
       }
     }
   },
@@ -146,6 +145,7 @@
   "svnUrl": "https://github.com/beatfreaker/subtitledownloader",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:09:27.020Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:07.383Z"
+  "lastFetchedAt": "2017-10-23T19:06:49.386Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:07.383Z",
+  "archived": false
 }

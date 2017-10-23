@@ -5,7 +5,7 @@
   "owner": {
     "login": "johanpoirier",
     "id": 142127,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/142127?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/142127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/johanpoirier",
     "htmlUrl": "https://github.com/johanpoirier",
@@ -70,9 +70,6 @@
     "version": "0.1.1",
     "description": "Auto rename photos with infos from exif tags",
     "private": true,
-    "directories": {
-      "output": "electron-builds"
-    },
     "scripts": {
       "app": "electron app/",
       "windows": "build --win",
@@ -94,6 +91,11 @@
     "devDependencies": {
       "electron-builder": "^7.11.2",
       "electron-prebuilt": "^1.2.6"
+    },
+    "other": {
+      "directories": {
+        "output": "electron-builds"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +123,7 @@
   },
   "filename": "johanpoirier___exif-auto.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:59:17.785Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:02.838Z"
+  "lastFetchedAt": "2017-10-23T17:36:26.688Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:02.838Z",
+  "archived": false
 }

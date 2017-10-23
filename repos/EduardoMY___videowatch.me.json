@@ -5,7 +5,7 @@
   "owner": {
     "login": "EduardoMY",
     "id": 4889260,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4889260?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4889260?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EduardoMY",
     "htmlUrl": "https://github.com/EduardoMY",
@@ -79,21 +79,20 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/EduardoMY/videowatch.me.git"
-    },
-    "author": "Antonio de Luna, Edgar Magdaleno, Eduardo Medina, Javier Rizzo",
+    "repository": "https://github.com/EduardoMY/videowatch.me",
     "license": "Beerware",
-    "bugs": {
-      "url": "https://github.com/EduardoMY/videowatch.me/issues"
-    },
     "dependencies": {
       "bootstrap": "^3.3.7",
       "drag-drop": "^2.12.1",
       "electron-json-storage": "^2.0.0",
       "jquery": "^3.1.1",
       "webtorrent": "^0.97.1"
+    },
+    "other": {
+      "author": "Antonio de Luna, Edgar Magdaleno, Eduardo Medina, Javier Rizzo",
+      "bugs": {
+        "url": "https://github.com/EduardoMY/videowatch.me/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "EduardoMY___videowatch.me.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:09.055Z",
-  "packageLastFetchedAt": "2017-05-05T17:25:00.729Z"
+  "lastFetchedAt": "2017-10-23T21:04:40.754Z",
+  "packageLastFetchedAt": "2017-05-05T17:25:00.729Z",
+  "archived": false
 }

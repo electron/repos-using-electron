@@ -5,7 +5,7 @@
   "owner": {
     "login": "o2team",
     "id": 12525726,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12525726?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12525726?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/o2team",
     "htmlUrl": "https://github.com/o2team",
@@ -35,37 +35,43 @@
   "downloadsUrl": "https://api.github.com/repos/o2team/xcel/downloads",
   "deploymentsUrl": "https://api.github.com/repos/o2team/xcel/deployments",
   "createdAt": "2016-11-16T03:19:41.000Z",
-  "updatedAt": "2017-05-02T06:22:16.000Z",
-  "pushedAt": "2017-03-08T11:14:22.000Z",
+  "updatedAt": "2017-10-19T06:45:12.000Z",
+  "pushedAt": "2017-06-29T09:41:11.000Z",
   "gitUrl": "git://github.com/o2team/xcel.git",
   "sshUrl": "git@github.com:o2team/xcel.git",
   "cloneUrl": "https://github.com/o2team/xcel.git",
   "svnUrl": "https://github.com/o2team/xcel",
   "homepage": null,
-  "size": 521,
-  "stargazersCount": 143,
-  "watchersCount": 143,
+  "size": 662,
+  "stargazersCount": 287,
+  "watchersCount": 287,
   "language": "Vue",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 21,
+  "forksCount": 44,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 143,
+  "watchers": 287,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdxId": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "featured": true
+  },
   "organization": {
     "login": "o2team",
     "id": 12525726,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12525726?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12525726?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/o2team",
     "htmlUrl": "https://github.com/o2team",
@@ -76,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/o2team/received_events",
     "type": "Organization"
   },
-  "networkCount": 21,
-  "subscribersCount": 19,
+  "networkCount": 44,
+  "subscribersCount": 22,
   "status": 200,
   "packageJSON": {
     "name": "xcel",
@@ -122,7 +128,6 @@
         "installerHeaderIcon": "build/installerHeaderIcon.ico"
       }
     },
-    "author": "AOTULabs <o2labs@qq.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -159,6 +164,9 @@
     },
     "dependencies": {
       "lodash": "^4.16.6"
+    },
+    "other": {
+      "author": "AOTULabs <o2labs@qq.com>"
     }
   },
   "packageStatus": 200,
@@ -186,6 +194,7 @@
   },
   "filename": "o2team___xcel.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:28.648Z",
-  "packageLastFetchedAt": "2017-05-05T13:37:40.411Z"
+  "lastFetchedAt": "2017-10-23T18:39:57.523Z",
+  "packageLastFetchedAt": "2017-05-05T13:37:40.411Z",
+  "archived": false
 }

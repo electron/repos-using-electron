@@ -5,7 +5,7 @@
   "owner": {
     "login": "harindaka",
     "id": 897556,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/897556?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/897556?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/harindaka",
     "htmlUrl": "https://github.com/harindaka",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/harindaka/fox-desktop.git"
-    },
+    "repository": "https://github.com/harindaka/fox-desktop",
     "keywords": [
       "Fox",
       "Desktop",
@@ -70,11 +67,7 @@
       "FM",
       "Sri Lanka"
     ],
-    "author": "Hemal Harindaka",
     "license": "GPL",
-    "bugs": {
-      "url": "https://github.com/harindaka/fox-desktop/issues"
-    },
     "homepage": "https://github.com/harindaka/fox-desktop",
     "devDependencies": {
       "electron-packager": "^7.0.1",
@@ -89,6 +82,12 @@
       "simple-get": "2.1.0",
       "toastr": "2.1.2",
       "zip-folder": "1.0.0"
+    },
+    "other": {
+      "author": "Hemal Harindaka",
+      "bugs": {
+        "url": "https://github.com/harindaka/fox-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/harindaka/fox-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:35:05.552Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:41.033Z"
+  "lastFetchedAt": "2017-10-23T18:25:11.900Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:41.033Z",
+  "archived": false
 }

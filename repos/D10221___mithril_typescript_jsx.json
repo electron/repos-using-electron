@@ -5,7 +5,7 @@
   "owner": {
     "login": "D10221",
     "id": 5041839,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5041839?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5041839?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/D10221",
     "htmlUrl": "https://github.com/D10221",
@@ -75,7 +75,6 @@
       "start": "electron . -d",
       "build": "node tools/msx_transform && tsc"
     },
-    "author": "ME",
     "license": "ISC",
     "dependencies": {
       "app-root-path": "^1.0.0",
@@ -88,6 +87,9 @@
     "devDependencies": {
       "app-root-path": "^1.0.0",
       "electron-prebuilt": "^0.36.1"
+    },
+    "other": {
+      "author": "ME"
     }
   },
   "packageStatus": 200,
@@ -115,6 +117,7 @@
   },
   "filename": "D10221___mithril_typescript_jsx.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:38.386Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:16.435Z"
+  "lastFetchedAt": "2017-10-23T18:43:42.909Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:16.435Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "samiconductor",
     "id": 603812,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/603812?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/603812?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/samiconductor",
     "htmlUrl": "https://github.com/samiconductor",
@@ -81,25 +81,24 @@
       "electron",
       "arm"
     ],
-    "author": {
-      "name": "Sam Simmons",
-      "email": "sam@samiconductor.com",
-      "url": "https://github.com/samiconductor"
-    },
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/samiconductor/chromiarm.git"
-    },
-    "bugs": {
-      "url": "https://github.com/samiconductor/chromiarm/issues"
-    },
+    "repository": "https://github.com/samiconductor/chromiarm",
     "homepage": "https://github.com/samiconductor/chromiarm#readme",
     "devDependencies": {
       "electron-builder": "^5.26.0",
       "electron-installer-debian": "^0.3.1",
       "electron-prebuilt": "^1.3.3",
       "rimraf": "^2.5.4"
+    },
+    "other": {
+      "author": {
+        "name": "Sam Simmons",
+        "email": "sam@samiconductor.com",
+        "url": "https://github.com/samiconductor"
+      },
+      "bugs": {
+        "url": "https://github.com/samiconductor/chromiarm/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "samiconductor___chromiarm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:02.920Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:50.492Z"
+  "lastFetchedAt": "2017-10-23T20:23:48.788Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:50.492Z",
+  "archived": false
 }

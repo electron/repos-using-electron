@@ -5,7 +5,7 @@
   "owner": {
     "login": "lonjoy",
     "id": 3352762,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3352762?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3352762?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lonjoy",
     "htmlUrl": "https://github.com/lonjoy",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "antoor",
       "id": 13709206,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13709206?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13709206?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/antoor",
       "htmlUrl": "https://github.com/antoor",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/antoor/antSword/downloads",
     "deploymentsUrl": "https://api.github.com/repos/antoor/antSword/deployments",
     "createdAt": "2016-03-11T09:28:00.000Z",
-    "updatedAt": "2017-05-04T16:17:07.000Z",
-    "pushedAt": "2017-04-12T19:10:18.000Z",
+    "updatedAt": "2017-10-01T13:04:02.000Z",
+    "pushedAt": "2017-05-30T05:19:05.000Z",
     "gitUrl": "git://github.com/antoor/antSword.git",
     "sshUrl": "git@github.com:antoor/antSword.git",
     "cloneUrl": "https://github.com/antoor/antSword.git",
     "svnUrl": "https://github.com/antoor/antSword",
     "homepage": "",
     "size": 21142,
-    "stargazersCount": 575,
-    "watchersCount": 575,
+    "stargazersCount": 608,
+    "watchersCount": 608,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 318,
+    "forksCount": 347,
     "mirrorUrl": null,
-    "openIssuesCount": 11,
-    "openIssues": 11,
-    "watchers": 575,
+    "archived": false,
+    "openIssuesCount": 12,
+    "openIssues": 12,
+    "watchers": 608,
     "defaultBranch": "rm"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "antoor",
       "id": 13709206,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13709206?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13709206?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/antoor",
       "htmlUrl": "https://github.com/antoor",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/antoor/antSword/downloads",
     "deploymentsUrl": "https://api.github.com/repos/antoor/antSword/deployments",
     "createdAt": "2016-03-11T09:28:00.000Z",
-    "updatedAt": "2017-05-04T16:17:07.000Z",
-    "pushedAt": "2017-04-12T19:10:18.000Z",
+    "updatedAt": "2017-10-01T13:04:02.000Z",
+    "pushedAt": "2017-05-30T05:19:05.000Z",
     "gitUrl": "git://github.com/antoor/antSword.git",
     "sshUrl": "git@github.com:antoor/antSword.git",
     "cloneUrl": "https://github.com/antoor/antSword.git",
     "svnUrl": "https://github.com/antoor/antSword",
     "homepage": "",
     "size": 21142,
-    "stargazersCount": 575,
-    "watchersCount": 575,
+    "stargazersCount": 608,
+    "watchersCount": 608,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 318,
+    "forksCount": 347,
     "mirrorUrl": null,
-    "openIssuesCount": 11,
-    "openIssues": 11,
-    "watchers": 575,
+    "archived": false,
+    "openIssuesCount": 12,
+    "openIssues": 12,
+    "watchers": 608,
     "defaultBranch": "rm"
   },
-  "networkCount": 318,
+  "networkCount": 347,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -190,12 +192,8 @@
       "start": "electron app.js",
       "build": "webpack --progress --color --watch"
     },
-    "author": "antoor <u@uyu.us>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/antoor/antSword"
-    },
+    "repository": "https://github.com/antoor/antSword",
     "debug": false,
     "update": {
       "md5": "13f38b143dfabf90ea296269acd5b547",
@@ -205,10 +203,13 @@
         "github": "https://github.com/antoor/antSword/releases/download/1.1.2/update.zip"
       }
     },
-    "bugs": {
-      "url": "https://github.com/antoor/antSword/issues"
-    },
-    "homepage": "http://uyu.us"
+    "homepage": "http://uyu.us",
+    "other": {
+      "author": "antoor <u@uyu.us>",
+      "bugs": {
+        "url": "https://github.com/antoor/antSword/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -256,6 +257,7 @@
   "svnUrl": "https://github.com/lonjoy/antSword",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:09:09.939Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:30.981Z"
+  "lastFetchedAt": "2017-10-23T17:39:01.980Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:30.981Z",
+  "archived": false
 }

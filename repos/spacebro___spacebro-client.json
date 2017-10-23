@@ -5,7 +5,7 @@
   "owner": {
     "login": "spacebro",
     "id": 23356064,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23356064?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23356064?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/spacebro",
     "htmlUrl": "https://github.com/spacebro",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/spacebro/spacebro-client/deployments",
   "createdAt": "2016-01-04T16:59:41.000Z",
   "updatedAt": "2017-04-18T15:08:00.000Z",
-  "pushedAt": "2017-04-18T15:11:16.000Z",
+  "pushedAt": "2017-07-26T13:58:28.000Z",
   "gitUrl": "git://github.com/spacebro/spacebro-client.git",
   "sshUrl": "git@github.com:spacebro/spacebro-client.git",
   "cloneUrl": "https://github.com/spacebro/spacebro-client.git",
   "svnUrl": "https://github.com/spacebro/spacebro-client",
   "homepage": "http://spacebro.space",
-  "size": 344,
+  "size": 1131,
   "stargazersCount": 4,
   "watchersCount": 4,
   "language": "JavaScript",
@@ -50,10 +50,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 8,
-  "openIssues": 8,
+  "openIssuesCount": 2,
+  "openIssues": 2,
   "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
@@ -71,7 +71,7 @@
   "organization": {
     "login": "spacebro",
     "id": 23356064,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23356064?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23356064?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/spacebro",
     "htmlUrl": "https://github.com/spacebro",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/spacebro/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
-  "subscribersCount": 8,
+  "networkCount": 2,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "spacebro-client",
@@ -97,16 +97,9 @@
       "build": "gulp build",
       "coverage": "gulp coverage"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/spacebro/spacebro-client.git"
-    },
+    "repository": "https://github.com/spacebro/spacebro-client",
     "keywords": [],
-    "author": "Soixante circuits",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/spacebro/spacebro-client/issues"
-    },
     "homepage": "https://github.com/spacebro/spacebro-client",
     "dependencies": {
       "babel-runtime": "^6.11.6",
@@ -159,6 +152,12 @@
       "files": [
         "test/*.js"
       ]
+    },
+    "other": {
+      "author": "Soixante circuits",
+      "bugs": {
+        "url": "https://github.com/spacebro/spacebro-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -186,6 +185,7 @@
   },
   "filename": "spacebro___spacebro-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:04.965Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:21.235Z"
+  "lastFetchedAt": "2017-10-23T20:15:21.771Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:21.235Z",
+  "archived": false
 }

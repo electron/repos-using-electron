@@ -6,7 +6,7 @@
   "owner": {
     "login": "mongodb-js",
     "id": 11214950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11214950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11214950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mongodb-js",
     "htmlUrl": "https://github.com/mongodb-js",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/mongodb-js/hadron-spectron/deployments",
   "createdAt": "2017-04-07T13:21:45.000Z",
   "updatedAt": "2017-04-07T13:22:01.000Z",
-  "pushedAt": "2017-04-10T15:36:33.000Z",
+  "pushedAt": "2017-08-08T13:52:14.000Z",
   "gitUrl": "git://github.com/mongodb-js/hadron-spectron.git",
   "sshUrl": "git@github.com:mongodb-js/hadron-spectron.git",
   "cloneUrl": "https://github.com/mongodb-js/hadron-spectron.git",
   "svnUrl": "https://github.com/mongodb-js/hadron-spectron",
   "homepage": null,
-  "size": 11,
+  "size": 14,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "mongodb-js",
     "id": 11214950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11214950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11214950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mongodb-js",
     "htmlUrl": "https://github.com/mongodb-js",
@@ -81,7 +81,7 @@
   "networkCount": 0,
   "subscribersCount": 5,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T18:05:53.214Z",
+  "lastFetchedAt": "2017-10-23T17:56:35.946Z",
   "packageJSON": {
     "name": "hadron-spectron",
     "version": "0.0.1",
@@ -92,10 +92,7 @@
       "fmt": "mongodb-js-fmt ./*.js ./test/*.js",
       "check": "mongodb-js-precommit"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mongodb-js/hadron-spectron.git"
-    },
+    "repository": "https://github.com/mongodb-js/hadron-spectron",
     "precommit": [
       "check"
     ],
@@ -104,11 +101,7 @@
       "Spectron",
       "Testing"
     ],
-    "author": "Durran Jordan <durran@gmail.com>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/mongodb-js/hadron-spectron/issues"
-    },
     "homepage": "https://github.com/mongodb-js/hadron-spectron#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -124,8 +117,15 @@
       "chai-as-promised": "^6.0.0",
       "debug": "mongodb-js/debug#v2.2.3",
       "spectron": "^3.6.1"
+    },
+    "other": {
+      "author": "Durran Jordan <durran@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/mongodb-js/hadron-spectron/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:25:21.561Z"
+  "packageLastFetchedAt": "2017-05-05T01:25:21.561Z",
+  "archived": false
 }

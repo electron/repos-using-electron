@@ -5,7 +5,7 @@
   "owner": {
     "login": "Juke-Jitsu",
     "id": 21086739,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21086739?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21086739?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Juke-Jitsu",
     "htmlUrl": "https://github.com/Juke-Jitsu",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Juke-Jitsu",
     "id": 21086739,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21086739?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21086739?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Juke-Jitsu",
     "htmlUrl": "https://github.com/Juke-Jitsu",
@@ -91,19 +91,12 @@
       "scss": "gulp scss",
       "start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/hawkins/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/hawkins/electron-boilerplate",
     "keywords": [
       "electron",
       "boilerplate"
     ],
-    "author": "Josh Hawkins",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hawkins/electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/hawkins/electron-boilerplate#readme",
     "devDependencies": {
       "electron": "^1.3.5",
@@ -113,6 +106,12 @@
     },
     "dependencies": {
       "electron-prebuilt": "^1.3.5"
+    },
+    "other": {
+      "author": "Josh Hawkins",
+      "bugs": {
+        "url": "https://github.com/hawkins/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "filename": "Juke-Jitsu___Sensei.json",
   "sourceRepo": "hawkins/electron-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:55.486Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:41.116Z"
+  "lastFetchedAt": "2017-10-23T20:32:58.961Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:41.116Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "thomasantony",
     "id": 1804570,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1804570?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1804570?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thomasantony",
     "htmlUrl": "https://github.com/thomasantony",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "BudgetFirst",
       "id": 16543655,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16543655?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16543655?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/BudgetFirst",
       "htmlUrl": "https://github.com/BudgetFirst",
@@ -85,7 +85,7 @@
     "downloadsUrl": "https://api.github.com/repos/BudgetFirst/BudgetFirst/downloads",
     "deploymentsUrl": "https://api.github.com/repos/BudgetFirst/BudgetFirst/deployments",
     "createdAt": "2016-01-04T16:44:01.000Z",
-    "updatedAt": "2017-05-02T07:51:29.000Z",
+    "updatedAt": "2017-10-19T06:13:39.000Z",
     "pushedAt": "2017-01-07T23:20:19.000Z",
     "gitUrl": "git://github.com/BudgetFirst/BudgetFirst.git",
     "sshUrl": "git@github.com:BudgetFirst/BudgetFirst.git",
@@ -93,19 +93,20 @@
     "svnUrl": "https://github.com/BudgetFirst/BudgetFirst",
     "homepage": "",
     "size": 595,
-    "stargazersCount": 191,
-    "watchersCount": 191,
+    "stargazersCount": 194,
+    "watchersCount": 194,
     "language": "C#",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 21,
+    "forksCount": 25,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 8,
     "openIssues": 8,
-    "watchers": 191,
+    "watchers": 194,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "BudgetFirst",
       "id": 16543655,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/16543655?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/16543655?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/BudgetFirst",
       "htmlUrl": "https://github.com/BudgetFirst",
@@ -145,7 +146,7 @@
     "downloadsUrl": "https://api.github.com/repos/BudgetFirst/BudgetFirst/downloads",
     "deploymentsUrl": "https://api.github.com/repos/BudgetFirst/BudgetFirst/deployments",
     "createdAt": "2016-01-04T16:44:01.000Z",
-    "updatedAt": "2017-05-02T07:51:29.000Z",
+    "updatedAt": "2017-10-19T06:13:39.000Z",
     "pushedAt": "2017-01-07T23:20:19.000Z",
     "gitUrl": "git://github.com/BudgetFirst/BudgetFirst.git",
     "sshUrl": "git@github.com:BudgetFirst/BudgetFirst.git",
@@ -153,22 +154,23 @@
     "svnUrl": "https://github.com/BudgetFirst/BudgetFirst",
     "homepage": "",
     "size": 595,
-    "stargazersCount": 191,
-    "watchersCount": 191,
+    "stargazersCount": 194,
+    "watchersCount": 194,
     "language": "C#",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 21,
+    "forksCount": 25,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 8,
     "openIssues": 8,
-    "watchers": 191,
+    "watchers": 194,
     "defaultBranch": "master"
   },
-  "networkCount": 21,
+  "networkCount": 25,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -232,19 +234,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thomasantony/budget-app.git"
-    },
-    "author": {
-      "name": "Thomas Antony",
-      "email": "tantony@purdue.edu",
-      "url": "https://github.com/thomasantony"
-    },
+    "repository": "https://github.com/thomasantony/budget-app",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/thomasantony/budget-app/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -328,6 +319,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Thomas Antony",
+        "email": "tantony@purdue.edu",
+        "url": "https://github.com/thomasantony"
+      },
+      "bugs": {
+        "url": "https://github.com/thomasantony/budget-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -375,6 +376,7 @@
   "svnUrl": "https://github.com/thomasantony/BudgetFirst",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:25:05.144Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:51.201Z"
+  "lastFetchedAt": "2017-10-23T17:38:12.225Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:51.201Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "emilioastarita",
     "id": 281727,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/281727?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/281727?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/emilioastarita",
     "htmlUrl": "https://github.com/emilioastarita",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/emilioastarita/lyricfier/downloads",
   "deploymentsUrl": "https://api.github.com/repos/emilioastarita/lyricfier/deployments",
   "createdAt": "2016-08-18T01:36:42.000Z",
-  "updatedAt": "2017-05-01T06:18:18.000Z",
-  "pushedAt": "2017-03-14T22:27:19.000Z",
+  "updatedAt": "2017-10-23T08:31:38.000Z",
+  "pushedAt": "2017-10-08T17:36:16.000Z",
   "gitUrl": "git://github.com/emilioastarita/lyricfier.git",
   "sshUrl": "git@github.com:emilioastarita/lyricfier.git",
   "cloneUrl": "https://github.com/emilioastarita/lyricfier.git",
   "svnUrl": "https://github.com/emilioastarita/lyricfier",
   "homepage": null,
-  "size": 2490,
-  "stargazersCount": 348,
-  "watchersCount": 348,
+  "size": 2777,
+  "stargazersCount": 428,
+  "watchersCount": 428,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 29,
+  "forksCount": 44,
   "mirrorUrl": null,
-  "openIssuesCount": 25,
-  "openIssues": 25,
-  "watchers": 348,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 428,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 29,
-  "subscribersCount": 42,
+  "networkCount": 44,
+  "subscribersCount": 39,
   "status": 200,
   "packageJSON": {
     "name": "lyricfier",
@@ -89,21 +89,14 @@
       "pretest": "tsc test/*Test.ts --module commonjs && tsc",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/emilioastarita/lyrics-spotify.git"
-    },
+    "repository": "https://github.com/emilioastarita/lyrics-spotify",
     "keywords": [
       "spotify",
       "lyrics",
       "electron",
       "nodejs"
     ],
-    "author": "Emilio Astarita",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/emilioastarita/lyrics-spotify/issues"
-    },
     "homepage": "https://github.com/emilioastarita/lyrics-spotify#readme",
     "dependencies": {
       "async": "^2.0.1",
@@ -131,6 +124,12 @@
       "less": "^2.7.1",
       "mocha": "^3.2.0",
       "typescript": "^2.1.0"
+    },
+    "other": {
+      "author": "Emilio Astarita",
+      "bugs": {
+        "url": "https://github.com/emilioastarita/lyrics-spotify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   },
   "filename": "emilioastarita___lyricfier.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:35:15.532Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:46.603Z"
+  "lastFetchedAt": "2017-10-23T19:32:28.148Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:46.603Z",
+  "archived": false
 }

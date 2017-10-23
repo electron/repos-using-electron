@@ -5,7 +5,7 @@
   "owner": {
     "login": "juliancantillo",
     "id": 1072454,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1072454?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1072454?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/juliancantillo",
     "htmlUrl": "https://github.com/juliancantillo",
@@ -60,21 +60,14 @@
       "start": "electron main.js",
       "test": "karma init karma.conf.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -85,6 +78,12 @@
       "karma-ie-launcher": "^0.2.0",
       "karma-jasmine": "^0.3.7",
       "karma-requirejs": "^0.2.4"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   "filename": "juliancantillo___electron_notes.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:04:36.970Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:10.837Z"
+  "lastFetchedAt": "2017-10-23T20:56:38.198Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:10.837Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "fortyau",
     "id": 11023913,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11023913?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11023913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fortyau",
     "htmlUrl": "https://github.com/fortyau",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "fortyau",
     "id": 11023913,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11023913?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11023913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fortyau",
     "htmlUrl": "https://github.com/fortyau",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "superbrothers",
       "id": 230185,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/230185?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/230185?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/superbrothers",
       "htmlUrl": "https://github.com/superbrothers",
@@ -93,7 +93,7 @@
     "downloadsUrl": "https://api.github.com/repos/superbrothers/electron-boilerplate/downloads",
     "deploymentsUrl": "https://api.github.com/repos/superbrothers/electron-boilerplate/deployments",
     "createdAt": "2015-09-11T13:09:30.000Z",
-    "updatedAt": "2017-04-11T03:28:04.000Z",
+    "updatedAt": "2017-08-23T11:36:25.000Z",
     "pushedAt": "2016-11-25T12:52:34.000Z",
     "gitUrl": "git://github.com/superbrothers/electron-boilerplate.git",
     "sshUrl": "git@github.com:superbrothers/electron-boilerplate.git",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 8,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 16,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "superbrothers",
       "id": 230185,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/230185?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/230185?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/superbrothers",
       "htmlUrl": "https://github.com/superbrothers",
@@ -153,7 +154,7 @@
     "downloadsUrl": "https://api.github.com/repos/superbrothers/electron-boilerplate/downloads",
     "deploymentsUrl": "https://api.github.com/repos/superbrothers/electron-boilerplate/deployments",
     "createdAt": "2015-09-11T13:09:30.000Z",
-    "updatedAt": "2017-04-11T03:28:04.000Z",
+    "updatedAt": "2017-08-23T11:36:25.000Z",
     "pushedAt": "2016-11-25T12:52:34.000Z",
     "gitUrl": "git://github.com/superbrothers/electron-boilerplate.git",
     "sshUrl": "git@github.com:superbrothers/electron-boilerplate.git",
@@ -171,6 +172,7 @@
     "hasPages": false,
     "forksCount": 8,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 16,
@@ -193,15 +195,8 @@
       "test": "echo \"noop\" && exit 0",
       "precommit": "npm run lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/superbrothers/electron-boilerplate.git"
-    },
-    "author": "Kazuki Suda <kazuki.suda@gmail.com>",
+    "repository": "https://github.com/superbrothers/electron-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/superbrothers/electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/superbrothers/electron-boilerplate#readme",
     "dependencies": {
       "react": "^0.14.0-rc1",
@@ -229,6 +224,12 @@
       "merge-stream": "^1.0.0",
       "require-dir": "^0.3.0",
       "run-sequence": "^1.1.2"
+    },
+    "other": {
+      "author": "Kazuki Suda <kazuki.suda@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/superbrothers/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -277,6 +278,7 @@
   "svnUrl": "https://github.com/fortyau/electron-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:16:58.925Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:48.698Z"
+  "lastFetchedAt": "2017-10-23T20:08:49.152Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:48.698Z",
+  "archived": false
 }

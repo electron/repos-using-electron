@@ -5,7 +5,7 @@
   "owner": {
     "login": "popstarfreas",
     "id": 6698249,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6698249?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6698249?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/popstarfreas",
     "htmlUrl": "https://github.com/popstarfreas",
@@ -83,25 +83,24 @@
       "buildwin": "electron-packager ./ Phase --arch=all --platform=win32 --out builds --version 1.3.3 --overwrite --icon=icons/phase.ico --version-string.CompanyName=\"Dark Gaming\" --version-string.ProductName=\"Phase\" --version-string.OriginalFileName=\"Phase\" --version-string.InternalName=\"Phase\" --version-string.FileDescription=\"Phase\"",
       "build": "electron-packager ./ Phase --arch=all --platform=all --out builds --version 1.3.3 --overwrite --icon=icons/phase.ico --version-string.CompanyName=\"Dark Gaming\" --version-string.ProductName=\"Phase\" --version-string.OriginalFileName=\"Phase\" --version-string.InternalName=\"Phase\" --version-string.FileDescription=\"Phase\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/popstarfreas/PhaseDesktop.git"
-    },
+    "repository": "https://github.com/popstarfreas/PhaseDesktop",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Dark Gaming",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/popstarfreas/PhaseDesktop/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^7.6.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Dark Gaming",
+      "bugs": {
+        "url": "https://github.com/popstarfreas/PhaseDesktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "popstarfreas___PhaseDesktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:02:22.552Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:00.201Z"
+  "lastFetchedAt": "2017-10-23T19:29:14.669Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:00.201Z",
+  "archived": false
 }

@@ -86,15 +86,14 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T04:58:47.854Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T19:20:42.842Z",
   "packageJSON": {
     "name": "bird",
     "version": "0.0.1",
     "description": "Follow the internet",
     "main": "pack/init.js",
     "repository": "git@github.com:entwicklerstube/bird.git",
-    "author": "michaelzoidl <github@michaelzoidl.com>",
     "license": "MIT",
     "scripts": {
       "start": "ENV=development electron -r babel-register src/init",
@@ -191,6 +190,9 @@
       "webpack-dev-middleware": "^1.10.0",
       "webpack-hot-middleware": "^2.16.1",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "author": "michaelzoidl <github@michaelzoidl.com>"
     }
   },
   "packageStatus": 200,

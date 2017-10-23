@@ -5,7 +5,7 @@
   "owner": {
     "login": "frantic1048",
     "id": 3102803,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3102803?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3102803?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/frantic1048",
     "htmlUrl": "https://github.com/frantic1048",
@@ -17,10 +17,10 @@
     "type": "User"
   },
   "private": false,
-  "description": "[作业][数字图像处理]简易图像处理程序",
+  "description": "简易图像处理程序",
   "fork": false,
   "createdAt": "2015-10-25T07:24:32.000Z",
-  "updatedAt": "2017-03-20T15:08:22.000Z",
+  "updatedAt": "2017-07-20T03:20:51.000Z",
   "pushedAt": "2017-03-20T15:08:19.000Z",
   "homepage": "http://frantic1048.github.io/mangekyou",
   "size": 410,
@@ -65,15 +65,8 @@
       "lint": "gulp lint",
       "build": "gulp ci"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/frantic1048/mangekyou.git"
-    },
-    "author": "frantic1048",
+    "repository": "https://github.com/frantic1048/mangekyou",
     "license": "GPL-2.0+",
-    "bugs": {
-      "url": "https://github.com/frantic1048/mangekyou/issues"
-    },
     "homepage": "https://github.com/frantic1048/mangekyou#readme",
     "dependencies": {
       "electron-prebuilt": "^0.36.2"
@@ -106,6 +99,12 @@
       "newer": "^0.1.5",
       "vinyl-named": "^1.1.0",
       "webpack-stream": "^3.1.0"
+    },
+    "other": {
+      "author": "frantic1048",
+      "bugs": {
+        "url": "https://github.com/frantic1048/mangekyou/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   },
   "filename": "frantic1048___mangekyou.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:47.123Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:25.149Z"
+  "lastFetchedAt": "2017-10-23T17:56:38.933Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:25.149Z",
+  "archived": false
 }

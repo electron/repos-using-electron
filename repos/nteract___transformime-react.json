@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -17,24 +17,24 @@
     "type": "Organization"
   },
   "private": false,
-  "description": ":truck: Mimetype + data -> React Element",
+  "description": "🚫 Mimetype + data -> React Element",
   "fork": false,
   "createdAt": "2016-01-02T19:13:08.000Z",
-  "updatedAt": "2017-03-08T11:24:51.000Z",
-  "pushedAt": "2017-05-02T09:10:42.000Z",
+  "updatedAt": "2017-08-28T15:26:16.000Z",
+  "pushedAt": "2017-05-08T22:49:40.000Z",
   "homepage": "",
-  "size": 71,
-  "stargazersCount": 4,
-  "watchersCount": 4,
-  "language": "JavaScript",
+  "size": 69,
+  "stargazersCount": 5,
+  "watchersCount": 5,
+  "language": null,
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 3,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 4,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 3,
-  "subscribersCount": 24,
+  "subscribersCount": 34,
   "status": 200,
   "packageJSON": {
     "name": "transformime-react",
@@ -85,15 +85,8 @@
       "build:es5": "babel src --out-dir lib/ --source-maps",
       "clean": "rimraf lib/*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nteract/transformime-react.git"
-    },
-    "author": "Kyle Kelley <rgbkrk@gmail.com>",
+    "repository": "https://github.com/nteract/transformime-react",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/nteract/transformime-react/issues"
-    },
     "babel": {
       "presets": [
         "es2015",
@@ -142,6 +135,12 @@
       "commonmark": "^0.27.0",
       "commonmark-react-renderer": "^4.3.1",
       "mathjax-electron": "^2.0.0"
+    },
+    "other": {
+      "author": "Kyle Kelley <rgbkrk@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/nteract/transformime-react/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   "svnUrl": "https://github.com/nteract/transformime-react",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:24:50.145Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:52.798Z"
+  "lastFetchedAt": "2017-10-23T18:18:21.222Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:52.798Z",
+  "archived": true
 }

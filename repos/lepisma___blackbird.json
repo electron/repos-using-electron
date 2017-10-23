@@ -5,7 +5,7 @@
   "owner": {
     "login": "lepisma",
     "id": 2487306,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2487306?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2487306?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lepisma",
     "htmlUrl": "https://github.com/lepisma",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/lepisma/blackbird/downloads",
   "deploymentsUrl": "https://api.github.com/repos/lepisma/blackbird/deployments",
   "createdAt": "2015-11-12T16:35:35.000Z",
-  "updatedAt": "2017-03-20T16:32:50.000Z",
+  "updatedAt": "2017-08-11T13:13:36.000Z",
   "pushedAt": "2017-01-01T23:28:24.000Z",
   "gitUrl": "git://github.com/lepisma/blackbird.git",
   "sshUrl": "git@github.com:lepisma/blackbird.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/lepisma/blackbird",
   "homepage": "",
   "size": 11659,
-  "stargazersCount": 22,
-  "watchersCount": 22,
+  "stargazersCount": 25,
+  "watchersCount": 25,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 22,
+  "watchers": 25,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -103,15 +103,8 @@
       "start": "./bin/blackbird.js",
       "build": "./node_modules/.bin/node-sass ./app/styles/styles.scss ./app/styles/styles.css"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/lepisma/blackbird.git"
-    },
-    "author": "Abhinav Tushar",
+    "repository": "https://github.com/lepisma/blackbird",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lepisma/blackbird/issues"
-    },
     "homepage": "https://github.com/lepisma/blackbird#readme",
     "devDependencies": {
       "electron-rebuild": "^1.1.3",
@@ -120,7 +113,13 @@
     "files": [
       "utils",
       "icons"
-    ]
+    ],
+    "other": {
+      "author": "Abhinav Tushar",
+      "bugs": {
+        "url": "https://github.com/lepisma/blackbird/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +146,7 @@
   },
   "filename": "lepisma___blackbird.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:08.363Z",
-  "packageLastFetchedAt": "2017-05-05T17:20:25.049Z"
+  "lastFetchedAt": "2017-10-23T17:25:29.683Z",
+  "packageLastFetchedAt": "2017-05-05T17:20:25.049Z",
+  "archived": false
 }

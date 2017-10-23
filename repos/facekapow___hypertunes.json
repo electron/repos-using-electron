@@ -5,7 +5,7 @@
   "owner": {
     "login": "facekapow",
     "id": 11756574,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11756574?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11756574?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/facekapow",
     "htmlUrl": "https://github.com/facekapow",
@@ -20,21 +20,21 @@
   "description": "An open source music player app, with support for custom backends, made with Electron.",
   "fork": false,
   "createdAt": "2016-05-16T11:15:43.000Z",
-  "updatedAt": "2016-12-20T04:10:58.000Z",
-  "pushedAt": "2016-09-07T11:36:33.000Z",
+  "updatedAt": "2017-09-07T22:49:12.000Z",
+  "pushedAt": "2017-09-09T02:55:49.000Z",
   "homepage": "https://facekapow.github.io/hypertunes",
-  "size": 845,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "size": 881,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 1,
+  "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
-  "subscribersCount": 2,
+  "networkCount": 0,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "hypertunes",
@@ -79,10 +79,6 @@
     "scripts": {
       "start": "./node_modules/.bin/electron index.js"
     },
-    "author": {
-      "name": "facekapow",
-      "email": "facekapow@outlook.com"
-    },
     "license": "MIT",
     "homepage": "https://github.com/facekapow/hypertunes",
     "build": {
@@ -91,6 +87,12 @@
       "app-copyright": "Copyright © 2016 facekapow (https://github.com/facekapow)",
       "win": {
         "iconUrl": "https://github.com/facekapow/hypertunes/blob/master/build/icon.ico?raw=true"
+      }
+    },
+    "other": {
+      "author": {
+        "name": "facekapow",
+        "email": "facekapow@outlook.com"
       }
     }
   },
@@ -139,6 +141,7 @@
   "svnUrl": "https://github.com/facekapow/hypertunes",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:52:55.066Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:57.318Z"
+  "lastFetchedAt": "2017-10-23T17:43:55.373Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:57.318Z",
+  "archived": false
 }

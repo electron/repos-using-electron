@@ -5,7 +5,7 @@
   "owner": {
     "login": "mongodb-js",
     "id": 11214950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11214950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11214950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mongodb-js",
     "htmlUrl": "https://github.com/mongodb-js",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/mongodb-js/electron-squirrel-startup/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mongodb-js/electron-squirrel-startup/deployments",
   "createdAt": "2015-07-10T18:06:37.000Z",
-  "updatedAt": "2017-05-03T09:25:36.000Z",
+  "updatedAt": "2017-10-22T00:30:30.000Z",
   "pushedAt": "2017-04-20T18:49:22.000Z",
   "gitUrl": "git://github.com/mongodb-js/electron-squirrel-startup.git",
   "sshUrl": "git@github.com:mongodb-js/electron-squirrel-startup.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/mongodb-js/electron-squirrel-startup",
   "homepage": null,
   "size": 20,
-  "stargazersCount": 59,
-  "watchersCount": 59,
+  "stargazersCount": 79,
+  "watchersCount": 79,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 12,
+  "forksCount": 16,
   "mirrorUrl": null,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 59,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 79,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "mongodb-js",
     "id": 11214950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11214950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11214950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mongodb-js",
     "htmlUrl": "https://github.com/mongodb-js",
@@ -82,20 +82,16 @@
     "receivedEventsUrl": "https://api.github.com/users/mongodb-js/received_events",
     "type": "Organization"
   },
-  "networkCount": 12,
-  "subscribersCount": 7,
+  "networkCount": 16,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "electron-squirrel-startup",
     "version": "1.0.0",
     "description": "Default Squirrel.Windows event handler for your Electron apps.",
-    "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)",
     "homepage": "http://github.com/mongodb-js/electron-squirrel-startup",
     "license": "Apache-2.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mongodb-js/electron-squirrel-startup.git"
-    },
+    "repository": "https://github.com/mongodb-js/electron-squirrel-startup",
     "scripts": {
       "ci": "xvfb-maybe npm test",
       "test": "electron-mocha",
@@ -126,7 +122,10 @@
       "electron",
       "electron-installer",
       "squirrel.windows"
-    ]
+    ],
+    "other": {
+      "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +152,7 @@
   },
   "filename": "mongodb-js___electron-squirrel-startup.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:08:13.878Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:19.353Z"
+  "lastFetchedAt": "2017-10-23T19:12:02.220Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:19.353Z",
+  "archived": false
 }

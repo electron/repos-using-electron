@@ -5,7 +5,7 @@
   "owner": {
     "login": "makotot",
     "id": 1129027,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1129027?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1129027?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/makotot",
     "htmlUrl": "https://github.com/makotot",
@@ -57,7 +57,6 @@
       "build": "gulp build",
       "package": "gulp package && zip ElectronSandbox-darwin-x64.zip -r ./ElectronSandbox-darwin-x64"
     },
-    "author": "makotot",
     "license": "MIT",
     "dependencies": {
       "babel-core": "^6.3.17",
@@ -99,6 +98,9 @@
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0",
       "watchify": "^3.6.1"
+    },
+    "other": {
+      "author": "makotot"
     }
   },
   "packageStatus": 200,
@@ -146,6 +148,7 @@
   },
   "filename": "makotot___electron-sandbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:11.159Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:26.576Z"
+  "lastFetchedAt": "2017-10-23T20:40:37.438Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:26.576Z",
+  "archived": false
 }

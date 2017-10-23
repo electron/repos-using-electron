@@ -5,7 +5,7 @@
   "owner": {
     "login": "3irdparty",
     "id": 20716925,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20716925?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20716925?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/3irdparty",
     "htmlUrl": "https://github.com/3irdparty",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "3irdparty",
     "id": 20716925,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20716925?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20716925?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/3irdparty",
     "htmlUrl": "https://github.com/3irdparty",
@@ -83,7 +83,7 @@
     "owner": {
       "login": "electron",
       "id": 13409222,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13409222?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13409222?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/electron",
       "htmlUrl": "https://github.com/electron",
@@ -113,27 +113,28 @@
     "downloadsUrl": "https://api.github.com/repos/electron/electron-quick-start/downloads",
     "deploymentsUrl": "https://api.github.com/repos/electron/electron-quick-start/deployments",
     "createdAt": "2015-10-16T23:56:39.000Z",
-    "updatedAt": "2017-05-04T13:29:53.000Z",
-    "pushedAt": "2017-04-05T19:18:19.000Z",
+    "updatedAt": "2017-10-23T19:53:58.000Z",
+    "pushedAt": "2017-09-27T22:05:59.000Z",
     "gitUrl": "git://github.com/electron/electron-quick-start.git",
     "sshUrl": "git@github.com:electron/electron-quick-start.git",
     "cloneUrl": "https://github.com/electron/electron-quick-start.git",
     "svnUrl": "https://github.com/electron/electron-quick-start",
     "homepage": "https://electron.atom.io/docs/tutorial/quick-start/",
-    "size": 42,
-    "stargazersCount": 2362,
-    "watchersCount": 2362,
+    "size": 44,
+    "stargazersCount": 3026,
+    "watchersCount": 3026,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1096,
+    "forksCount": 1497,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 2362,
+    "archived": false,
+    "openIssuesCount": 18,
+    "openIssues": 18,
+    "watchers": 3026,
     "defaultBranch": "master"
   },
   "source": {
@@ -143,7 +144,7 @@
     "owner": {
       "login": "electron",
       "id": 13409222,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13409222?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13409222?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/electron",
       "htmlUrl": "https://github.com/electron",
@@ -173,30 +174,31 @@
     "downloadsUrl": "https://api.github.com/repos/electron/electron-quick-start/downloads",
     "deploymentsUrl": "https://api.github.com/repos/electron/electron-quick-start/deployments",
     "createdAt": "2015-10-16T23:56:39.000Z",
-    "updatedAt": "2017-05-04T13:29:53.000Z",
-    "pushedAt": "2017-04-05T19:18:19.000Z",
+    "updatedAt": "2017-10-23T19:53:58.000Z",
+    "pushedAt": "2017-09-27T22:05:59.000Z",
     "gitUrl": "git://github.com/electron/electron-quick-start.git",
     "sshUrl": "git@github.com:electron/electron-quick-start.git",
     "cloneUrl": "https://github.com/electron/electron-quick-start.git",
     "svnUrl": "https://github.com/electron/electron-quick-start",
     "homepage": "https://electron.atom.io/docs/tutorial/quick-start/",
-    "size": 42,
-    "stargazersCount": 2362,
-    "watchersCount": 2362,
+    "size": 44,
+    "stargazersCount": 3026,
+    "watchersCount": 3026,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1096,
+    "forksCount": 1497,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 2362,
+    "archived": false,
+    "openIssuesCount": 18,
+    "openIssues": 18,
+    "watchers": 3026,
     "defaultBranch": "master"
   },
-  "networkCount": 1096,
+  "networkCount": 1497,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -207,24 +209,23 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -253,6 +254,7 @@
   "filename": "3irdparty___electron-quick-start.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:17.705Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:48.385Z"
+  "lastFetchedAt": "2017-10-23T20:25:44.063Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:48.385Z",
+  "archived": false
 }

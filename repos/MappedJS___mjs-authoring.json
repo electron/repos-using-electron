@@ -5,7 +5,7 @@
   "owner": {
     "login": "MappedJS",
     "id": 20139212,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20139212?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20139212?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MappedJS",
     "htmlUrl": "https://github.com/MappedJS",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "MappedJS",
     "id": 20139212,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20139212?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20139212?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MappedJS",
     "htmlUrl": "https://github.com/MappedJS",
@@ -89,11 +89,6 @@
     "name": "mjs-authoring",
     "version": "0.0.1",
     "description": "Electron Application for building and creating maps based on mjs-plugin",
-    "author": {
-      "name": "Michael Duve",
-      "email": "mduve@designmail.net",
-      "url": "https://github.com/dazlious"
-    },
     "email": "info@mappedjs.de",
     "homepage": "http://mappedJS.de",
     "main": "src/main.js",
@@ -101,10 +96,7 @@
       "node": "6.2.1",
       "npm": "3.9.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/MappedJS/mjs-authoring.git"
-    },
+    "repository": "https://github.com/MappedJS/mjs-authoring",
     "keywords": [
       "map",
       "authoring",
@@ -158,6 +150,13 @@
       "win": {
         "iconUrl": "https://raw.githubusercontent.com/MappedJS/mjs-material/master/icon.ico"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Michael Duve",
+        "email": "mduve@designmail.net",
+        "url": "https://github.com/dazlious"
+      }
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   },
   "filename": "MappedJS___mjs-authoring.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:44.068Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:36.563Z"
+  "lastFetchedAt": "2017-10-23T18:42:22.859Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:36.563Z",
+  "archived": false
 }

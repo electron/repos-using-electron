@@ -5,7 +5,7 @@
   "owner": {
     "login": "kvasir",
     "id": 11892109,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11892109?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11892109?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kvasir",
     "htmlUrl": "https://github.com/kvasir",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 1,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "kvasir",
     "id": 11892109,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11892109?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11892109?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kvasir",
     "htmlUrl": "https://github.com/kvasir",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/kvasir/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -71,16 +71,7 @@
     "description": "Add cross-platform notifications to Electron apps.",
     "repository": "kvasir/electron-notifier",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kvasir/electron-notifier/issues"
-    },
     "homepage": "https://github.com/kvasir/electron-notifier#readme",
-    "author": "Kvasir",
-    "contributors": [
-      "John-Philip Johansson <seriema@gmail.com> (http://johansson.jp/)",
-      "Martin Sandström <maartiin_91@hotmail.com> (http://martinsandstrom.github.io)",
-      "Esbjörn Ekberg <oakninja@gmail.com> (http://oak.ninja/)"
-    ],
     "scripts": {
       "test": "xo",
       "start": "electron test.js"
@@ -114,6 +105,17 @@
       "envs": [
         "node",
         "browser"
+      ]
+    },
+    "other": {
+      "author": "Kvasir",
+      "bugs": {
+        "url": "https://github.com/kvasir/electron-notifier/issues"
+      },
+      "contributors": [
+        "John-Philip Johansson <seriema@gmail.com> (http://johansson.jp/)",
+        "Martin Sandström <maartiin_91@hotmail.com> (http://martinsandstrom.github.io)",
+        "Esbjörn Ekberg <oakninja@gmail.com> (http://oak.ninja/)"
       ]
     }
   },
@@ -162,6 +164,7 @@
   "svnUrl": "https://github.com/kvasir/electron-notifier",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:15:49.010Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:05.905Z"
+  "lastFetchedAt": "2017-10-23T20:56:40.221Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:05.905Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "iamjohnnyzhuang",
     "id": 12725777,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12725777?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12725777?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iamjohnnyzhuang",
     "htmlUrl": "https://github.com/iamjohnnyzhuang",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/iamjohnnyzhuang/devkit/downloads",
   "deploymentsUrl": "https://api.github.com/repos/iamjohnnyzhuang/devkit/deployments",
   "createdAt": "2016-09-21T15:06:45.000Z",
-  "updatedAt": "2017-02-10T06:27:41.000Z",
-  "pushedAt": "2017-04-22T11:58:08.000Z",
+  "updatedAt": "2017-08-13T09:30:55.000Z",
+  "pushedAt": "2017-06-14T10:21:17.000Z",
   "gitUrl": "git://github.com/iamjohnnyzhuang/devkit.git",
   "sshUrl": "git@github.com:iamjohnnyzhuang/devkit.git",
   "cloneUrl": "https://github.com/iamjohnnyzhuang/devkit.git",
   "svnUrl": "https://github.com/iamjohnnyzhuang/devkit",
   "homepage": "",
-  "size": 222696,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 222844,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": false
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "devkit",
@@ -80,26 +80,25 @@
       "start": "electron .",
       "package": "electron-packager ./ devkit --all --out ./output --version 1.3.4 --overwrite --icon=./app/img/icon.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "tools",
       "dev"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4"
     },
     "dependencies": {
       "electron-packager": "^8.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "iamjohnnyzhuang___devkit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:20.381Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:07.873Z"
+  "lastFetchedAt": "2017-10-23T17:06:48.764Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:07.873Z",
+  "archived": false
 }

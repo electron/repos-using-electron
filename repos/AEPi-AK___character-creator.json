@@ -5,7 +5,7 @@
   "owner": {
     "login": "AEPi-AK",
     "id": 9472457,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9472457?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9472457?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AEPi-AK",
     "htmlUrl": "https://github.com/AEPi-AK",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "AEPi-AK",
     "id": 9472457,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9472457?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9472457?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AEPi-AK",
     "htmlUrl": "https://github.com/AEPi-AK",
@@ -89,15 +89,8 @@
       "build": "./node_modules/webpack/bin/webpack.js",
       "watch": "./node_modules/webpack/bin/webpack.js -w --progress"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AEPi-AK/character-creator.git"
-    },
-    "author": "Avi Romanoff <avi@romanoff.me>",
+    "repository": "https://github.com/AEPi-AK/character-creator",
     "license": "UNLICENSED",
-    "bugs": {
-      "url": "https://github.com/AEPi-AK/character-creator/issues"
-    },
     "homepage": "https://github.com/AEPi-AK/character-creator#readme",
     "devDependencies": {
       "autoprefixer": "^6.3.6",
@@ -127,6 +120,12 @@
     },
     "dependencies": {
       "electron-prebuilt": "^0.36.10"
+    },
+    "other": {
+      "author": "Avi Romanoff <avi@romanoff.me>",
+      "bugs": {
+        "url": "https://github.com/AEPi-AK/character-creator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "AEPi-AK___character-creator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:23:34.823Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:26.776Z"
+  "lastFetchedAt": "2017-10-23T17:59:23.226Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:26.776Z",
+  "archived": false
 }

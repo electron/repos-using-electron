@@ -5,7 +5,7 @@
   "owner": {
     "login": "glamp",
     "id": 1409333,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1409333?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1409333?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/glamp",
     "htmlUrl": "https://github.com/glamp",
@@ -56,16 +56,12 @@
     "scripts": {
       "start": "electron app/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/glamp/hoot.git"
-    },
+    "repository": "https://github.com/glamp/hoot",
     "keywords": [
       "Electron",
       "sms",
       "papa"
     ],
-    "author": "Greg Lamp <lamp.greg@gmail.com",
     "license": "MIT",
     "devDependencies": {
       "async": "^1.5.1",
@@ -82,6 +78,9 @@
       "jquery": "^2.1.4",
       "moment": "^2.11.0",
       "moment-timezone": "^0.5.0"
+    },
+    "other": {
+      "author": "Greg Lamp <lamp.greg@gmail.com"
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "svnUrl": "https://github.com/glamp/Hoot",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:58:53.910Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:49.193Z"
+  "lastFetchedAt": "2017-10-23T17:43:01.486Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:49.193Z",
+  "archived": false
 }

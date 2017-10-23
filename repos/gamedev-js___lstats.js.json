@@ -6,7 +6,7 @@
   "owner": {
     "login": "gamedev-js",
     "id": 14233432,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14233432?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14233432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gamedev-js",
     "htmlUrl": "https://github.com/gamedev-js",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/gamedev-js/lstats.js/downloads",
   "deploymentsUrl": "https://api.github.com/repos/gamedev-js/lstats.js/deployments",
   "createdAt": "2017-04-03T18:00:59.000Z",
-  "updatedAt": "2017-04-11T08:02:36.000Z",
-  "pushedAt": "2017-05-03T07:26:16.000Z",
+  "updatedAt": "2017-06-18T19:14:28.000Z",
+  "pushedAt": "2017-07-12T07:03:16.000Z",
   "gitUrl": "git://github.com/gamedev-js/lstats.js.git",
   "sshUrl": "git@github.com:gamedev-js/lstats.js.git",
   "cloneUrl": "https://github.com/gamedev-js/lstats.js.git",
   "svnUrl": "https://github.com/gamedev-js/lstats.js",
   "homepage": "",
-  "size": 36,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 49,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "gamedev-js",
     "id": 14233432,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14233432?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14233432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gamedev-js",
     "htmlUrl": "https://github.com/gamedev-js",
@@ -87,7 +87,7 @@
   "networkCount": 0,
   "subscribersCount": 0,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:25:17.123Z",
+  "lastFetchedAt": "2017-10-23T19:12:12.949Z",
   "packageJSON": {
     "name": "lstats.js",
     "version": "1.2.3",
@@ -102,18 +102,11 @@
       "dev": "rollup -w -c ./script/rollup.config.js",
       "test": "npm run build:dev && tap test/*.spec.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gamedev-js/lstats.git"
-    },
+    "repository": "https://github.com/gamedev-js/lstats",
     "keywords": [
       "stats"
     ],
-    "author": "jwu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gamedev-js/lstats/issues"
-    },
     "homepage": "https://github.com/gamedev-js/lstats/issues",
     "dependencies": {},
     "devDependencies": {
@@ -124,8 +117,15 @@
       "rollup-plugin-buble": "^0.15.0",
       "rollup-watch": "^3.2.2",
       "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
+    },
+    "other": {
+      "author": "jwu",
+      "bugs": {
+        "url": "https://github.com/gamedev-js/lstats/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:05:50.626Z"
+  "packageLastFetchedAt": "2017-05-04T22:05:50.626Z",
+  "archived": false
 }

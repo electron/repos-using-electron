@@ -5,7 +5,7 @@
   "owner": {
     "login": "web2solutions",
     "id": 684249,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/684249?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/684249?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/web2solutions",
     "htmlUrl": "https://github.com/web2solutions",
@@ -50,10 +50,7 @@
     "version": "0.0.1",
     "description": "Just a simple desktop chat built using DHTMLX on client and Node.js (Express + ws) && Redis on back end",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/web2solutions/dhtmlxDesktopChat.git"
-    },
+    "repository": "https://github.com/web2solutions/dhtmlxDesktopChat",
     "keywords": [
       "chat",
       "websocket",
@@ -65,7 +62,6 @@
       "node": "0.12.x",
       "npm": "2.10.x"
     },
-    "author": "José Eduardo Perotta Almeida",
     "license": "GPL-2.0",
     "dependencies": {
       "cfenv": "^1.0.3",
@@ -78,9 +74,6 @@
       "redis": "^2.2.5",
       "ws": "^0.8.0"
     },
-    "bugs": {
-      "url": "https://github.com/web2solutions/dhtmlxDesktopChat/issues"
-    },
     "homepage": "https://github.com/web2solutions/dhtmlxDesktopChat#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.1",
@@ -89,6 +82,12 @@
       "grunt-contrib-qunit": "^0.7.0",
       "grunt-express": "^1.4.1",
       "ws": "^0.8.0"
+    },
+    "other": {
+      "author": "José Eduardo Perotta Almeida",
+      "bugs": {
+        "url": "https://github.com/web2solutions/dhtmlxDesktopChat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "web2solutions___dhtmlxDesktopChat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:25.076Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:02.954Z"
+  "lastFetchedAt": "2017-10-23T18:00:28.445Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:02.954Z",
+  "archived": false
 }

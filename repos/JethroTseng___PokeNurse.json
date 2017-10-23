@@ -5,7 +5,7 @@
   "owner": {
     "login": "JethroTseng",
     "id": 5365820,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5365820?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5365820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JethroTseng",
     "htmlUrl": "https://github.com/JethroTseng",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "vinnymac",
       "id": 1832781,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1832781?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1832781?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/vinnymac",
       "htmlUrl": "https://github.com/vinnymac",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/vinnymac/PokeNurse/downloads",
     "deploymentsUrl": "https://api.github.com/repos/vinnymac/PokeNurse/deployments",
     "createdAt": "2016-07-28T01:04:07.000Z",
-    "updatedAt": "2017-04-07T16:14:02.000Z",
-    "pushedAt": "2017-04-26T15:34:00.000Z",
+    "updatedAt": "2017-10-22T10:23:45.000Z",
+    "pushedAt": "2017-10-11T06:40:10.000Z",
     "gitUrl": "git://github.com/vinnymac/PokeNurse.git",
     "sshUrl": "git@github.com:vinnymac/PokeNurse.git",
     "cloneUrl": "https://github.com/vinnymac/PokeNurse.git",
     "svnUrl": "https://github.com/vinnymac/PokeNurse",
     "homepage": "",
-    "size": 272507,
-    "stargazersCount": 307,
-    "watchersCount": 307,
+    "size": 272582,
+    "stargazersCount": 298,
+    "watchersCount": 298,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 56,
+    "forksCount": 55,
     "mirrorUrl": null,
-    "openIssuesCount": 29,
-    "openIssues": 29,
-    "watchers": 307,
+    "archived": false,
+    "openIssuesCount": 40,
+    "openIssues": 40,
+    "watchers": 298,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "vinnymac",
       "id": 1832781,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1832781?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1832781?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/vinnymac",
       "htmlUrl": "https://github.com/vinnymac",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/vinnymac/PokeNurse/downloads",
     "deploymentsUrl": "https://api.github.com/repos/vinnymac/PokeNurse/deployments",
     "createdAt": "2016-07-28T01:04:07.000Z",
-    "updatedAt": "2017-04-07T16:14:02.000Z",
-    "pushedAt": "2017-04-26T15:34:00.000Z",
+    "updatedAt": "2017-10-22T10:23:45.000Z",
+    "pushedAt": "2017-10-11T06:40:10.000Z",
     "gitUrl": "git://github.com/vinnymac/PokeNurse.git",
     "sshUrl": "git@github.com:vinnymac/PokeNurse.git",
     "cloneUrl": "https://github.com/vinnymac/PokeNurse.git",
     "svnUrl": "https://github.com/vinnymac/PokeNurse",
     "homepage": "",
-    "size": 272507,
-    "stargazersCount": 307,
-    "watchersCount": 307,
+    "size": 272582,
+    "stargazersCount": 298,
+    "watchersCount": 298,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 56,
+    "forksCount": 55,
     "mirrorUrl": null,
-    "openIssuesCount": 29,
-    "openIssues": 29,
-    "watchers": 307,
+    "archived": false,
+    "openIssuesCount": 40,
+    "openIssues": 40,
+    "watchers": 298,
     "defaultBranch": "master"
   },
-  "networkCount": 56,
+  "networkCount": 55,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -177,19 +179,12 @@
       "buildwindows": "electron-packager . PokeNurse --platform=win32 --arch=all --icon=imgs/emojioneicon.ico --overwrite",
       "buildlinux": "electron-packager . PokeNurse --platform=linux --arch=all --icon=imgs/emojioneicon.ico --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/duhminick/PokeNurse.git"
-    },
+    "repository": "https://github.com/duhminick/PokeNurse",
     "keywords": [
       "pokemon",
       "go"
     ],
-    "author": "duhminick",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/duhminick/PokeNurse/issues"
-    },
     "homepage": "https://github.com/duhminick/PokeNurse#readme",
     "devDependencies": {
       "electron-packager": "^7.3.0",
@@ -209,6 +204,12 @@
       "pogobuf": "1.4.0",
       "react": "^15.3.0",
       "react-dom": "^15.3.0"
+    },
+    "other": {
+      "author": "duhminick",
+      "bugs": {
+        "url": "https://github.com/duhminick/PokeNurse/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -257,6 +258,7 @@
   "svnUrl": "https://github.com/JethroTseng/PokeNurse",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:07:46.326Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:59.133Z"
+  "lastFetchedAt": "2017-10-23T20:48:21.433Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:59.133Z",
+  "archived": false
 }

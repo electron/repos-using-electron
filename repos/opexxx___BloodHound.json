@@ -5,7 +5,7 @@
   "owner": {
     "login": "opexxx",
     "id": 106825,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/106825?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/106825?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/opexxx",
     "htmlUrl": "https://github.com/opexxx",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "BloodHoundAD",
       "id": 25502277,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/25502277?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25502277?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/BloodHoundAD",
       "htmlUrl": "https://github.com/BloodHoundAD",
@@ -99,27 +99,28 @@
     "downloadsUrl": "https://api.github.com/repos/BloodHoundAD/BloodHound/downloads",
     "deploymentsUrl": "https://api.github.com/repos/BloodHoundAD/BloodHound/deployments",
     "createdAt": "2016-04-17T18:36:14.000Z",
-    "updatedAt": "2017-05-04T10:08:59.000Z",
-    "pushedAt": "2017-05-01T18:23:43.000Z",
+    "updatedAt": "2017-10-23T18:10:34.000Z",
+    "pushedAt": "2017-10-20T14:46:22.000Z",
     "gitUrl": "git://github.com/BloodHoundAD/BloodHound.git",
     "sshUrl": "git@github.com:BloodHoundAD/BloodHound.git",
     "cloneUrl": "https://github.com/BloodHoundAD/BloodHound.git",
     "svnUrl": "https://github.com/BloodHoundAD/BloodHound",
     "homepage": null,
-    "size": 7475,
-    "stargazersCount": 888,
-    "watchersCount": 888,
+    "size": 16304,
+    "stargazersCount": 1435,
+    "watchersCount": 1435,
     "language": "PowerShell",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 141,
+    "forksCount": 243,
     "mirrorUrl": null,
-    "openIssuesCount": 27,
-    "openIssues": 27,
-    "watchers": 888,
+    "archived": false,
+    "openIssuesCount": 17,
+    "openIssues": 17,
+    "watchers": 1435,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "BloodHoundAD",
       "id": 25502277,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/25502277?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/25502277?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/BloodHoundAD",
       "htmlUrl": "https://github.com/BloodHoundAD",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/BloodHoundAD/BloodHound/downloads",
     "deploymentsUrl": "https://api.github.com/repos/BloodHoundAD/BloodHound/deployments",
     "createdAt": "2016-04-17T18:36:14.000Z",
-    "updatedAt": "2017-05-04T10:08:59.000Z",
-    "pushedAt": "2017-05-01T18:23:43.000Z",
+    "updatedAt": "2017-10-23T18:10:34.000Z",
+    "pushedAt": "2017-10-20T14:46:22.000Z",
     "gitUrl": "git://github.com/BloodHoundAD/BloodHound.git",
     "sshUrl": "git@github.com:BloodHoundAD/BloodHound.git",
     "cloneUrl": "https://github.com/BloodHoundAD/BloodHound.git",
     "svnUrl": "https://github.com/BloodHoundAD/BloodHound",
     "homepage": null,
-    "size": 7475,
-    "stargazersCount": 888,
-    "watchersCount": 888,
+    "size": 16304,
+    "stargazersCount": 1435,
+    "watchersCount": 1435,
     "language": "PowerShell",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 141,
+    "forksCount": 243,
     "mirrorUrl": null,
-    "openIssuesCount": 27,
-    "openIssues": 27,
-    "watchers": 888,
+    "archived": false,
+    "openIssuesCount": 17,
+    "openIssues": 17,
+    "watchers": 1435,
     "defaultBranch": "master"
   },
-  "networkCount": 141,
+  "networkCount": 243,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -194,17 +196,8 @@
       "Active Directory"
     ],
     "homepage": "https://github.com/adaptivethreat/Bloodhound",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/adaptivethreat/Bloodhound.git"
-    },
-    "bugs": "https://github.com/adaptivethreat/Bloodhound/issues",
+    "repository": "https://github.com/adaptivethreat/Bloodhound",
     "license": "GPL-3.0",
-    "author": "Rohan Vazarkar <rvazarkr@gmail.com> (https://www.twitter.com/cptjesus)",
-    "contributors": [
-      "Andy Robbins <robbins.andy@gmail.com> (https://www.wald0.com)",
-      "Will Schroeder <will@harmj0y.net> (https://www.harmj0y.net)"
-    ],
     "main": "main.js",
     "scripts": {
       "start": "cross-env NODE_ENV=development electron .",
@@ -252,6 +245,14 @@
       "react-bootstrap": "^0.30.3",
       "react-dom": "^15.3.1",
       "react-if": "^2.1.0"
+    },
+    "other": {
+      "author": "Rohan Vazarkar <rvazarkr@gmail.com> (https://www.twitter.com/cptjesus)",
+      "bugs": "https://github.com/adaptivethreat/Bloodhound/issues",
+      "contributors": [
+        "Andy Robbins <robbins.andy@gmail.com> (https://www.wald0.com)",
+        "Will Schroeder <will@harmj0y.net> (https://www.harmj0y.net)"
+      ]
     }
   },
   "packageStatus": 200,
@@ -280,6 +281,7 @@
   "filename": "opexxx___BloodHound.json",
   "sourceRepo": "adaptivethreat/BloodHound",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:55.333Z",
-  "packageLastFetchedAt": "2017-05-05T14:29:49.690Z"
+  "lastFetchedAt": "2017-10-23T19:26:01.920Z",
+  "packageLastFetchedAt": "2017-05-05T14:29:49.690Z",
+  "archived": false
 }

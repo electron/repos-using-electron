@@ -1,11 +1,11 @@
 {
   "id": 45798061,
-  "name": "electron",
-  "fullName": "Bombshock/electron",
+  "name": "electro-commander",
+  "fullName": "Bombshock/electro-commander",
   "owner": {
     "login": "Bombshock",
     "id": 2619496,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2619496?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2619496?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Bombshock",
     "htmlUrl": "https://github.com/Bombshock",
@@ -20,7 +20,7 @@
   "description": "Windows-CMD build on top of electron",
   "fork": false,
   "createdAt": "2015-11-08T20:39:22.000Z",
-  "updatedAt": "2016-04-08T09:29:06.000Z",
+  "updatedAt": "2017-06-20T10:58:08.000Z",
   "pushedAt": "2016-09-26T08:15:22.000Z",
   "homepage": "",
   "size": 583,
@@ -54,11 +54,7 @@
       "start": "node start.js",
       "test": "echo Nope, no tests"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Bombshock/electron.git"
-    },
-    "author": "",
+    "repository": "https://github.com/Bombshock/electron",
     "license": "",
     "dependencies": {
       "colors": "^1.1.2",
@@ -72,28 +68,31 @@
       "require-all": "^2.0.0",
       "sprintf-js": "latest",
       "winreg": "latest"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/Bombshock/electron",
-  "url": "https://api.github.com/repos/Bombshock/electron",
-  "forksUrl": "https://api.github.com/repos/Bombshock/electron/forks",
-  "teamsUrl": "https://api.github.com/repos/Bombshock/electron/teams",
-  "hooksUrl": "https://api.github.com/repos/Bombshock/electron/hooks",
-  "eventsUrl": "https://api.github.com/repos/Bombshock/electron/events",
-  "tagsUrl": "https://api.github.com/repos/Bombshock/electron/tags",
-  "languagesUrl": "https://api.github.com/repos/Bombshock/electron/languages",
-  "stargazersUrl": "https://api.github.com/repos/Bombshock/electron/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/Bombshock/electron/contributors",
-  "subscribersUrl": "https://api.github.com/repos/Bombshock/electron/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/Bombshock/electron/subscription",
-  "mergesUrl": "https://api.github.com/repos/Bombshock/electron/merges",
-  "downloadsUrl": "https://api.github.com/repos/Bombshock/electron/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/Bombshock/electron/deployments",
-  "gitUrl": "git://github.com/Bombshock/electron.git",
-  "sshUrl": "git@github.com:Bombshock/electron.git",
-  "cloneUrl": "https://github.com/Bombshock/electron.git",
-  "svnUrl": "https://github.com/Bombshock/electron",
+  "htmlUrl": "https://github.com/Bombshock/electro-commander",
+  "url": "https://api.github.com/repos/Bombshock/electro-commander",
+  "forksUrl": "https://api.github.com/repos/Bombshock/electro-commander/forks",
+  "teamsUrl": "https://api.github.com/repos/Bombshock/electro-commander/teams",
+  "hooksUrl": "https://api.github.com/repos/Bombshock/electro-commander/hooks",
+  "eventsUrl": "https://api.github.com/repos/Bombshock/electro-commander/events",
+  "tagsUrl": "https://api.github.com/repos/Bombshock/electro-commander/tags",
+  "languagesUrl": "https://api.github.com/repos/Bombshock/electro-commander/languages",
+  "stargazersUrl": "https://api.github.com/repos/Bombshock/electro-commander/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/Bombshock/electro-commander/contributors",
+  "subscribersUrl": "https://api.github.com/repos/Bombshock/electro-commander/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/Bombshock/electro-commander/subscription",
+  "mergesUrl": "https://api.github.com/repos/Bombshock/electro-commander/merges",
+  "downloadsUrl": "https://api.github.com/repos/Bombshock/electro-commander/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/Bombshock/electro-commander/deployments",
+  "gitUrl": "git://github.com/Bombshock/electro-commander.git",
+  "sshUrl": "git@github.com:Bombshock/electro-commander.git",
+  "cloneUrl": "https://github.com/Bombshock/electro-commander.git",
+  "svnUrl": "https://github.com/Bombshock/electro-commander",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "4ef01f35ca5c747a2720940e78ba3d1322b280b7",
@@ -119,6 +118,7 @@
   },
   "filename": "Bombshock___electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:16.884Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:23.333Z"
+  "lastFetchedAt": "2017-10-23T19:09:51.296Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:23.333Z",
+  "archived": false
 }

@@ -1,12 +1,12 @@
 {
   "filename": "PoodleApp___poodle.json",
-  "id": 40571575,
+  "id": 96904141,
   "name": "poodle",
   "fullName": "PoodleApp/poodle",
   "owner": {
     "login": "PoodleApp",
     "id": 23513052,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/23513052?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/23513052?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PoodleApp",
     "htmlUrl": "https://github.com/PoodleApp",
@@ -35,17 +35,17 @@
   "mergesUrl": "https://api.github.com/repos/PoodleApp/poodle/merges",
   "downloadsUrl": "https://api.github.com/repos/PoodleApp/poodle/downloads",
   "deploymentsUrl": "https://api.github.com/repos/PoodleApp/poodle/deployments",
-  "createdAt": "2015-08-12T00:24:35.000Z",
-  "updatedAt": "2016-11-17T01:17:58.000Z",
-  "pushedAt": "2016-07-22T00:10:47.000Z",
+  "createdAt": "2017-07-11T14:44:03.000Z",
+  "updatedAt": "2017-10-01T14:13:28.000Z",
+  "pushedAt": "2017-10-16T16:27:53.000Z",
   "gitUrl": "git://github.com/PoodleApp/poodle.git",
   "sshUrl": "git@github.com:PoodleApp/poodle.git",
   "cloneUrl": "https://github.com/PoodleApp/poodle.git",
   "svnUrl": "https://github.com/PoodleApp/poodle",
   "homepage": null,
-  "size": 377,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "size": 1298,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -53,9 +53,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 25,
-  "openIssues": 25,
-  "watchers": 5,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "PoodleApp",
     "id": 23513052,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/23513052?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/23513052?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PoodleApp",
     "htmlUrl": "https://github.com/PoodleApp",
@@ -84,7 +84,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 9,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "poodle",
@@ -97,18 +97,11 @@
       "start": "npm run make && npm run run",
       "test": "babel-node node_modules/.bin/_mocha --full-trace --recursive -R spec -C --check-leaks test/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hallettj/poodle.git"
-    },
+    "repository": "https://github.com/hallettj/poodle",
     "keywords": [
       "email"
     ],
-    "author": "Jesse Hallett <jesse@sitr.us>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/hallettj/poodle/issues"
-    },
     "homepage": "https://github.com/hallettj/poodle#readme",
     "babel": {
       "presets": [
@@ -170,6 +163,12 @@
       "uuid": "~2.0.1",
       "vocabs-as": "^0.12.0",
       "xoauth2": "~1.1.0"
+    },
+    "other": {
+      "author": "Jesse Hallett <jesse@sitr.us>",
+      "bugs": {
+        "url": "https://github.com/hallettj/poodle/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,7 @@
   },
   "sourceRepo": "hallettj/poodle",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:32.807Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:51.655Z"
+  "lastFetchedAt": "2017-10-23T18:44:06.317Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:51.655Z",
+  "archived": false
 }

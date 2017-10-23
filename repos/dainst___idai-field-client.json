@@ -5,7 +5,7 @@
   "owner": {
     "login": "dainst",
     "id": 6999926,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6999926?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6999926?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dainst",
     "htmlUrl": "https://github.com/dainst",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/dainst/idai-field-client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dainst/idai-field-client/deployments",
   "createdAt": "2016-01-07T15:42:45.000Z",
-  "updatedAt": "2017-03-05T17:04:34.000Z",
-  "pushedAt": "2017-05-04T16:15:23.000Z",
+  "updatedAt": "2017-10-02T10:38:24.000Z",
+  "pushedAt": "2017-10-23T17:08:26.000Z",
   "gitUrl": "git://github.com/dainst/idai-field-client.git",
   "sshUrl": "git@github.com:dainst/idai-field-client.git",
   "cloneUrl": "https://github.com/dainst/idai-field-client.git",
   "svnUrl": "https://github.com/dainst/idai-field-client",
   "homepage": "",
-  "size": 19279,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 22544,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "dainst",
     "id": 6999926,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6999926?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6999926?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dainst",
     "htmlUrl": "https://github.com/dainst",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/dainst/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 9,
+  "networkCount": 1,
+  "subscribersCount": 20,
   "status": 200,
   "packageJSON": {
     "name": "idai-field-client",
@@ -91,7 +91,6 @@
     "main": "main.js",
     "version": "0.11.3",
     "license": "Apache-2.0",
-    "author": "German Archaeological Institute",
     "scripts": {
       "prebuild": "rimraf css/* && rimraf src/* && rimraf fonts/*",
       "build": "gulp create-configs && gulp compile",
@@ -124,10 +123,7 @@
         "imagestore"
       ]
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/codarchlab/idai-field-client.git"
-    },
+    "repository": "https://github.com/codarchlab/idai-field-client",
     "dependencies": {
       "@angular/common": "2.2.1",
       "@angular/compiler": "2.2.1",
@@ -202,6 +198,9 @@
       "spectron": "^3.6.1",
       "typescript": "2.2.2",
       "yargs": "5.0.0"
+    },
+    "other": {
+      "author": "German Archaeological Institute"
     }
   },
   "packageStatus": 200,
@@ -229,6 +228,7 @@
   },
   "filename": "dainst___idai-field-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:22.137Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:30.416Z"
+  "lastFetchedAt": "2017-10-23T17:20:29.883Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:30.416Z",
+  "archived": false
 }

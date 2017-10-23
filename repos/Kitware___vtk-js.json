@@ -5,7 +5,7 @@
   "owner": {
     "login": "Kitware",
     "id": 87549,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/87549?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/87549?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Kitware",
     "htmlUrl": "https://github.com/Kitware",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Kitware/vtk-js/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Kitware/vtk-js/deployments",
   "createdAt": "2016-05-02T15:44:11.000Z",
-  "updatedAt": "2017-05-03T11:55:50.000Z",
-  "pushedAt": "2017-05-04T03:13:08.000Z",
+  "updatedAt": "2017-10-18T21:23:57.000Z",
+  "pushedAt": "2017-10-23T18:14:22.000Z",
   "gitUrl": "git://github.com/Kitware/vtk-js.git",
   "sshUrl": "git@github.com:Kitware/vtk-js.git",
   "cloneUrl": "https://github.com/Kitware/vtk-js.git",
   "svnUrl": "https://github.com/Kitware/vtk-js",
   "homepage": "https://kitware.github.io/vtk-js/",
-  "size": 330487,
-  "stargazersCount": 59,
-  "watchersCount": 59,
+  "size": 496955,
+  "stargazersCount": 100,
+  "watchersCount": 100,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 14,
+  "forksCount": 25,
   "mirrorUrl": null,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 59,
+  "openIssuesCount": 16,
+  "openIssues": 16,
+  "watchers": 100,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Kitware",
     "id": 87549,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/87549?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/87549?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Kitware",
     "htmlUrl": "https://github.com/Kitware",
@@ -82,21 +82,15 @@
     "receivedEventsUrl": "https://api.github.com/users/Kitware/received_events",
     "type": "Organization"
   },
-  "networkCount": 14,
-  "subscribersCount": 19,
+  "networkCount": 25,
+  "subscribersCount": 31,
   "status": 200,
   "packageJSON": {
     "name": "vtk.js",
     "version": "0.0.0-semantically-release",
     "description": "Visualization Toolkit for the Web",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kitware/vtk-js.git"
-    },
+    "repository": "https://github.com/kitware/vtk-js",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/kitware/vtk-js/issues"
-    },
     "homepage": "https://github.com/kitware/vtk-js#readme",
     "main": "./dist/vtk.js",
     "dependencies": {
@@ -162,6 +156,11 @@
       "exclude": [
         "Sources/**/test/*.js"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kitware/vtk-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   },
   "filename": "Kitware___vtk-js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:22.602Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:57.927Z"
+  "lastFetchedAt": "2017-10-23T18:21:41.529Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:57.927Z",
+  "archived": false
 }

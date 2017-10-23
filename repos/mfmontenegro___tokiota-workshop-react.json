@@ -50,17 +50,13 @@
   },
   "networkCount": 3,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tokiota-workshop-react",
     "version": "1.0.0",
     "description": "React Workshop for Tokiota",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mfmontenegro/tokiota-workshop-react.git"
-    },
-    "author": "",
+    "repository": "https://github.com/mfmontenegro/tokiota-workshop-react",
     "license": "ISC",
     "homepage": "https://github.com/mfmontenegro/tokiota-workshop-react#readme",
     "endPoints": {
@@ -82,6 +78,9 @@
       "react": "^15.1.0",
       "react-dom": "^15.1.0",
       "socket.io-client": "^1.4.8"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,6 @@
   "svnUrl": "https://github.com/mfmontenegro/tokiota-workshop-react",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:44:55.696Z",
+  "lastFetchedAt": "2017-10-23T18:38:43.328Z",
   "packageLastFetchedAt": "2017-05-05T17:47:19.866Z"
 }

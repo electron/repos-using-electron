@@ -6,7 +6,7 @@
   "owner": {
     "login": "PixlFox",
     "id": 27413820,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/27413820?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/27413820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PixlFox",
     "htmlUrl": "https://github.com/PixlFox",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/PixlFox/Client/deployments",
   "createdAt": "2017-04-13T09:23:15.000Z",
   "updatedAt": "2017-04-13T09:33:02.000Z",
-  "pushedAt": "2017-05-04T10:49:51.000Z",
+  "pushedAt": "2017-05-19T04:55:01.000Z",
   "gitUrl": "git://github.com/PixlFox/Client.git",
   "sshUrl": "git@github.com:PixlFox/Client.git",
   "cloneUrl": "https://github.com/PixlFox/Client.git",
   "svnUrl": "https://github.com/PixlFox/Client",
   "homepage": null,
-  "size": 117,
+  "size": 430,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "PixlFox",
     "id": 27413820,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/27413820?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/27413820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PixlFox",
     "htmlUrl": "https://github.com/PixlFox",
@@ -81,7 +81,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:13:37.611Z",
+  "lastFetchedAt": "2017-10-23T19:15:20.362Z",
   "packageJSON": {
     "name": "pixlfox",
     "version": "1.0.0",
@@ -93,7 +93,6 @@
       "compile": "tsc -p .",
       "build_win32_x64": "electron-packager ./ --overwrite --out=./bin --platform=win32 --arch=x64 --asar=true --prune=true --icon=./logo-icon-white-128.ico --app-copyright=\"Copyright (C) 2017 PixlFox LLC. All rights reserved.\" --win32metadata.CompanyName=\"PixlFox LLC\" --win32metadata.ProductName=\"PixlFox Client\" --win32metadata.FileDescription=\"PixlFox Client\" --win32metadata.OriginalFilename=pixlfox.exe"
     },
-    "author": "PixlFox LLC",
     "devDependencies": {
       "babel-cli": "^6.24.1",
       "babel-preset-env": "^1.4.0",
@@ -136,8 +135,12 @@
       "reflect-metadata": "^0.1.10",
       "rimraf": "^2.6.1",
       "ws": "^2.2.3"
+    },
+    "other": {
+      "author": "PixlFox LLC"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:21:02.473Z"
+  "packageLastFetchedAt": "2017-05-04T22:21:02.473Z",
+  "archived": false
 }

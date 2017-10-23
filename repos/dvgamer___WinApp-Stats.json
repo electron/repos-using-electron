@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "deStats",
     "version": "1.0.0",
@@ -79,17 +79,13 @@
     "scripts": {
       "start": "electron main.js --local"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
@@ -98,6 +94,9 @@
     "dependencies": {
       "md5": "^2.1.0",
       "socket.io-client": "^1.4.5"
+    },
+    "other": {
+      "author": "GitHub"
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,6 @@
   "filename": "dvgamer___WinApp-Stats.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:23:59.881Z",
+  "lastFetchedAt": "2017-10-23T18:59:52.724Z",
   "packageLastFetchedAt": "2017-05-04T23:04:25.062Z"
 }

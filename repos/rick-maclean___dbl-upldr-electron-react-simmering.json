@@ -6,7 +6,7 @@
   "owner": {
     "login": "rick-maclean",
     "id": 2349252,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2349252?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2349252?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rick-maclean",
     "htmlUrl": "https://github.com/rick-maclean",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/rick-maclean/dbl-upldr-electron-react-simmering/deployments",
   "createdAt": "2017-04-28T20:21:39.000Z",
   "updatedAt": "2017-04-28T20:32:25.000Z",
-  "pushedAt": "2017-05-03T21:51:15.000Z",
+  "pushedAt": "2017-08-01T20:43:07.000Z",
   "gitUrl": "git://github.com/rick-maclean/dbl-upldr-electron-react-simmering.git",
   "sshUrl": "git@github.com:rick-maclean/dbl-upldr-electron-react-simmering.git",
   "cloneUrl": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering.git",
   "svnUrl": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering",
   "homepage": null,
-  "size": 1309,
+  "size": 1313,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:36:04.430Z",
+  "lastFetchedAt": "2017-10-23T18:55:34.289Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -148,19 +148,8 @@
         "output": "release"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rick-maclean/dbl-upldr-electron-react-simmering"
-    },
-    "author": {
-      "name": "R. MacLean",
-      "email": "rick_maclean@sil.org",
-      "url": "http://macleanmanuscript.com/"
-    },
+    "repository": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -282,8 +271,19 @@
       "node": ">=6.x",
       "npm": ">=3.x",
       "yarn": "0.21.3"
+    },
+    "other": {
+      "author": {
+        "name": "R. MacLean",
+        "email": "rick_maclean@sil.org",
+        "url": "http://macleanmanuscript.com/"
+      },
+      "bugs": {
+        "url": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:41:21.450Z"
+  "packageLastFetchedAt": "2017-05-05T17:41:21.450Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-vue",
     "version": "0.1.0-beta",
@@ -76,17 +76,7 @@
       "release": "node ./tasks/release"
     },
     "license": "MIT",
-    "author": {
-      "name": "Alejandro R. Gaviria",
-      "email": "mr.gaviria@gmail.com"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/agaviria/electron-vue.git"
-    },
-    "bugs": {
-      "url": "https://github.com/agaviria/electron-vue/issues"
-    },
+    "repository": "https://github.com/agaviria/electron-vue",
     "keywords": [
       "vue",
       "electron",
@@ -118,6 +108,15 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.12.0",
       "cross-env": "^1.0.6"
+    },
+    "other": {
+      "author": {
+        "name": "Alejandro R. Gaviria",
+        "email": "mr.gaviria@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/agaviria/electron-vue/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,6 @@
   },
   "filename": "agaviria___electron-vue.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:21.655Z",
+  "lastFetchedAt": "2017-10-23T17:36:49.826Z",
   "packageLastFetchedAt": "2017-05-04T22:30:28.907Z"
 }

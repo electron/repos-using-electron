@@ -5,7 +5,7 @@
   "owner": {
     "login": "Jonghee",
     "id": 1721976,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1721976?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1721976?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Jonghee",
     "htmlUrl": "https://github.com/Jonghee",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-test.git"
-    },
+    "repository": "https://github.com/electron/electron-test",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-test/issues"
-    },
     "homepage": "https://github.com/electron/electron-test#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-test/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Jonghee___electron-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:53.224Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:50.689Z"
+  "lastFetchedAt": "2017-10-23T17:35:40.573Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:50.689Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nramadas",
     "id": 1679892,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1679892?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1679892?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nramadas",
     "htmlUrl": "https://github.com/nramadas",
@@ -76,10 +76,7 @@
       "start-app": "electron ./dist"
     },
     "preferGlobal": true,
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nramadas/mahout.git"
-    },
+    "repository": "https://github.com/nramadas/mahout",
     "keywords": [
       "react",
       "redux",
@@ -90,11 +87,7 @@
     "bin": {
       "mahout": "./appStart.js"
     },
-    "author": "nramadas",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nramadas/mahout/bugs"
-    },
     "homepage": "https://github.com/nramadas/mahout#readme",
     "dependencies": {
       "electron": "^1.4.0",
@@ -109,7 +102,13 @@
       "webpack": "^1.13.2",
       "yargs": "^5.0.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "nramadas",
+      "bugs": {
+        "url": "https://github.com/nramadas/mahout/bugs"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +135,7 @@
   },
   "filename": "nramadas___mahout.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:17:59.040Z",
-  "packageLastFetchedAt": "2017-05-05T17:53:34.840Z"
+  "lastFetchedAt": "2017-10-23T20:10:36.439Z",
+  "packageLastFetchedAt": "2017-05-05T17:53:34.840Z",
+  "archived": false
 }

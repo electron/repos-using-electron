@@ -80,18 +80,15 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:21:19.525Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T19:29:51.845Z",
   "packageJSON": {
     "name": "Player",
     "main": "main.js",
     "version": "0.0.1",
     "license": "MIT",
     "description": "Player",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nersent/player.git"
-    },
+    "repository": "https://github.com/nersent/player",
     "scripts": {
       "start": "cross-env ENV=dev electron main.js",
       "watch": "webpack && webpack-dev-server --hot --inline --port 8080"
@@ -125,17 +122,19 @@
       "react-motion": "latest",
       "musicmetadata": "latest"
     },
-    "bugs": {
-      "url": "https://github.com/nersent/player/issues"
-    },
     "homepage": "https://github.com/nersent/player#readme",
     "keywords": [
       "react",
       "starter"
     ],
-    "author": "Nersent",
     "standard": {
       "parser": "babel-eslint"
+    },
+    "other": {
+      "author": "Nersent",
+      "bugs": {
+        "url": "https://github.com/nersent/player/issues"
+      }
     }
   },
   "packageStatus": 200,

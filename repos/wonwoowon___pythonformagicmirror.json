@@ -5,7 +5,7 @@
   "owner": {
     "login": "wonwoowon",
     "id": 16527408,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16527408?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16527408?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wonwoowon",
     "htmlUrl": "https://github.com/wonwoowon",
@@ -78,21 +78,14 @@
       "sonus": "node sonus.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Smart Mirror",
       "IoT",
       "Voice Control",
       "DIY"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "angular-i18n": "^1.5.5",
@@ -109,6 +102,12 @@
       "fitbit-oauth2": "0.0.1",
       "hyperion-client": "1.0.3",
       "sonus": "0.1.0"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "filename": "wonwoowon___pythonformagicmirror.json",
   "sourceRepo": "evancohen/smart-mirror",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:40.472Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:00.475Z"
+  "lastFetchedAt": "2017-10-23T18:13:24.643Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:00.475Z",
+  "archived": false
 }

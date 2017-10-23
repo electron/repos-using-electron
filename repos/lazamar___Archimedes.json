@@ -5,7 +5,7 @@
   "owner": {
     "login": "lazamar",
     "id": 11493705,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11493705?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11493705?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lazamar",
     "htmlUrl": "https://github.com/lazamar",
@@ -54,10 +54,7 @@
       "start": "electron .",
       "test": "sass scss/main.scss css/main.css; electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lazamar/Archimedes.git"
-    },
+    "repository": "https://github.com/lazamar/Archimedes",
     "keywords": [
       "Archimedes",
       "Smart",
@@ -70,11 +67,7 @@
       "Electron",
       "Arm"
     ],
-    "author": "Marcelo Lazaroni - lazaronijunior@gmail.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lazamar/Archimedes/issues"
-    },
     "homepage": "https://github.com/lazamar/Archimedes#readme",
     "devDependencies": {
       "electron": "^0.4.1",
@@ -82,6 +75,12 @@
     },
     "dependencies": {
       "moment": "~2.10.6"
+    },
+    "other": {
+      "author": "Marcelo Lazaroni - lazaronijunior@gmail.com",
+      "bugs": {
+        "url": "https://github.com/lazamar/Archimedes/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "lazamar___Archimedes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:42.521Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:43.645Z"
+  "lastFetchedAt": "2017-10-23T19:29:35.302Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:43.645Z",
+  "archived": false
 }

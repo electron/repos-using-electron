@@ -5,7 +5,7 @@
   "owner": {
     "login": "applegrain",
     "id": 10555255,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10555255?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10555255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/applegrain",
     "htmlUrl": "https://github.com/applegrain",
@@ -79,19 +79,12 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stevekinney/firesale-tutorial.git"
-    },
+    "repository": "https://github.com/stevekinney/firesale-tutorial",
     "keywords": [
       "electron",
       "markdown"
     ],
-    "author": "Steve Kinney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stevekinney/firesale-tutorial/issues"
-    },
     "homepage": "https://github.com/stevekinney/firesale-tutorial#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7"
@@ -99,6 +92,12 @@
     "dependencies": {
       "jquery": "^2.2.0",
       "marked": "^0.3.5"
+    },
+    "other": {
+      "author": "Steve Kinney",
+      "bugs": {
+        "url": "https://github.com/stevekinney/firesale-tutorial/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "applegrain___binder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:18:57.675Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:51.941Z"
+  "lastFetchedAt": "2017-10-23T20:13:39.568Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:51.941Z",
+  "archived": false
 }

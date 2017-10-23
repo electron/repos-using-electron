@@ -6,7 +6,7 @@
   "owner": {
     "login": "dongjiqiang",
     "id": 17396054,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17396054?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17396054?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dongjiqiang",
     "htmlUrl": "https://github.com/dongjiqiang",
@@ -76,20 +76,19 @@
       "start": "gulp run",
       "package": "electron-packager ./ app --out MessageBox-Toolbox --platform=win32 --arch=x64 --version 0.36.7"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/infohold-works/message-box-toolbox.git"
-    },
-    "author": "infohold-works",
+    "repository": "https://github.com/infohold-works/message-box-toolbox",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/infohold-works/message-box-toolbox/issues"
-    },
     "homepage": "https://github.com/infohold-works/message-box-toolbox#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
       "gulp": "^3.9.1",
       "socket.io": "^1.4.5"
+    },
+    "other": {
+      "author": "infohold-works",
+      "bugs": {
+        "url": "https://github.com/infohold-works/message-box-toolbox/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:47.574Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:55.507Z"
+  "lastFetchedAt": "2017-10-23T20:16:19.079Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:55.507Z",
+  "archived": false
 }

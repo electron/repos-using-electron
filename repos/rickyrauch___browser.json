@@ -5,7 +5,7 @@
   "owner": {
     "login": "rickyrauch",
     "id": 197196,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/197196?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/197196?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rickyrauch",
     "htmlUrl": "https://github.com/rickyrauch",
@@ -61,21 +61,14 @@
       "watch": "./node_modules/.bin/webpack-dev-server",
       "electron-rebuild": "./node_modules/.bin/electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "babel": "*",
@@ -101,6 +94,12 @@
       "react-dom": "*",
       "react-draggable-tab": "*",
       "react-notification-badge": "*"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   "svnUrl": "https://github.com/rickyrauch/browser",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:10:24.632Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:22.465Z"
+  "lastFetchedAt": "2017-10-23T17:10:45.064Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:22.465Z",
+  "archived": false
 }

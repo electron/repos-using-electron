@@ -5,7 +5,7 @@
   "owner": {
     "login": "DiamondElements",
     "id": 16004063,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16004063?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16004063?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DiamondElements",
     "htmlUrl": "https://github.com/DiamondElements",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "DiamondElements",
     "id": 16004063,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16004063?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16004063?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DiamondElements",
     "htmlUrl": "https://github.com/DiamondElements",
@@ -71,11 +71,7 @@
     "version": "0.0.0",
     "description": "My geometric app",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/blamy/diamond-file-explorer.git"
-    },
-    "author": "Brett Lamy <BLamy@calvauto.com> (testing.com)",
+    "repository": "https://github.com/blamy/diamond-file-explorer",
     "electronVersion": "0.35.0",
     "scripts": {
       "test": "xo",
@@ -108,11 +104,14 @@
         "browser"
       ]
     },
-    "bugs": {
-      "url": "https://github.com/blamy/diamond-file-explorer/issues"
-    },
     "homepage": "https://github.com/blamy/diamond-file-explorer#readme",
-    "main": "index.js"
+    "main": "index.js",
+    "other": {
+      "author": "Brett Lamy <BLamy@calvauto.com> (testing.com)",
+      "bugs": {
+        "url": "https://github.com/blamy/diamond-file-explorer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -159,6 +158,7 @@
   "svnUrl": "https://github.com/DiamondElements/diamond-file-explorer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:41:53.958Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:43.281Z"
+  "lastFetchedAt": "2017-10-23T18:46:27.222Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:43.281Z",
+  "archived": false
 }

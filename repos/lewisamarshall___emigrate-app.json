@@ -5,7 +5,7 @@
   "owner": {
     "login": "lewisamarshall",
     "id": 3657774,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3657774?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3657774?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lewisamarshall",
     "htmlUrl": "https://github.com/lewisamarshall",
@@ -76,13 +76,12 @@
       "compile": "pyinstaller -y --onedir --additional-hooks-dir=cli cli/cli.py -n emigrate --distpath=assets",
       "package": "electron-packager . Emigrate --platform=darwin --arch=x64 --version=0.33.3 --ignore='cli' --out=dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lewisamarshall/emigrate_app"
-    },
-    "author": "Lewis A. Marshall",
+    "repository": "https://github.com/lewisamarshall/emigrate_app",
     "devDependencies": {
       "electron-prebuilt": "^0.33.3"
+    },
+    "other": {
+      "author": "Lewis A. Marshall"
     }
   },
   "packageStatus": 200,
@@ -110,6 +109,7 @@
   },
   "filename": "lewisamarshall___emigrate-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:13:33.263Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:38.499Z"
+  "lastFetchedAt": "2017-10-23T19:29:45.674Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:38.499Z",
+  "archived": false
 }

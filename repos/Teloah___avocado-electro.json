@@ -5,7 +5,7 @@
   "owner": {
     "login": "Teloah",
     "id": 1687949,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1687949?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1687949?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Teloah",
     "htmlUrl": "https://github.com/Teloah",
@@ -36,7 +36,7 @@
   "deploymentsUrl": "https://api.github.com/repos/Teloah/avocado-electro/deployments",
   "createdAt": "2016-06-06T05:03:01.000Z",
   "updatedAt": "2016-06-18T22:13:53.000Z",
-  "pushedAt": "2016-10-14T09:04:49.000Z",
+  "pushedAt": "2017-06-13T12:08:44.000Z",
   "gitUrl": "git://github.com/Teloah/avocado-electro.git",
   "sshUrl": "git@github.com:Teloah/avocado-electro.git",
   "cloneUrl": "https://github.com/Teloah/avocado-electro.git",
@@ -80,16 +80,12 @@
       "start": "electron app/app.js --config=app/db",
       "test": "mocha tests"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Teloah/avocado-electro.git"
-    },
+    "repository": "https://github.com/Teloah/avocado-electro",
     "keywords": [
       "Avocado Lex",
       "Reports",
       "Electron"
     ],
-    "author": "Andris Klaipins",
     "license": "GPL-3.0",
     "jshintConfig": {
       "esversion": 6,
@@ -116,6 +112,9 @@
       "electron-reload": "1.0.2",
       "jquery": "~2.2.4",
       "yargs": "4.7.1"
+    },
+    "other": {
+      "author": "Andris Klaipins"
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "Teloah___avocado-electro.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:09:26.958Z",
-  "packageLastFetchedAt": "2017-05-04T22:33:31.947Z"
+  "lastFetchedAt": "2017-10-23T20:51:47.703Z",
+  "packageLastFetchedAt": "2017-05-04T22:33:31.947Z",
+  "archived": false
 }

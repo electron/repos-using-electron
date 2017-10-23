@@ -5,7 +5,7 @@
   "owner": {
     "login": "wesen",
     "id": 128441,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/128441?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/128441?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wesen",
     "htmlUrl": "https://github.com/wesen",
@@ -81,16 +81,15 @@
       "start": "electron index.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/wesen/midimix-filter.git"
-    },
-    "author": "Manuel Odendahl",
+    "repository": "https://github.com/wesen/midimix-filter",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/wesen/midimix-filter/issues"
-    },
-    "homepage": "https://github.com/wesen/midimix-filter#readme"
+    "homepage": "https://github.com/wesen/midimix-filter#readme",
+    "other": {
+      "author": "Manuel Odendahl",
+      "bugs": {
+        "url": "https://github.com/wesen/midimix-filter/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +116,7 @@
   },
   "filename": "wesen___midimix-filter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:24:14.921Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:11.961Z"
+  "lastFetchedAt": "2017-10-23T20:15:24.779Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:11.961Z",
+  "archived": false
 }

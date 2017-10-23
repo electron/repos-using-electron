@@ -5,7 +5,7 @@
   "owner": {
     "login": "staticland",
     "id": 18635529,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18635529?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18635529?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/staticland",
     "htmlUrl": "https://github.com/staticland",
@@ -20,21 +20,21 @@
   "description": "Publish static sites with this command-line tool & API client for staticland",
   "fork": false,
   "createdAt": "2016-05-10T23:59:56.000Z",
-  "updatedAt": "2017-05-02T15:57:33.000Z",
+  "updatedAt": "2017-10-22T17:41:32.000Z",
   "pushedAt": "2017-05-02T20:45:46.000Z",
   "homepage": "https://static.land",
   "size": 44,
-  "stargazersCount": 198,
-  "watchersCount": 198,
+  "stargazersCount": 201,
+  "watchersCount": 201,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 198,
+  "forksCount": 4,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 201,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "staticland",
     "id": 18635529,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18635529?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18635529?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/staticland",
     "htmlUrl": "https://github.com/staticland",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/staticland/received_events",
     "type": "Organization"
   },
-  "networkCount": 5,
-  "subscribersCount": 6,
+  "networkCount": 4,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "staticland",
@@ -81,20 +81,13 @@
       "test:no-lint": "node tests/*.js | tap-spec",
       "test": "npm run lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/staticland/staticland.git"
-    },
+    "repository": "https://github.com/staticland/staticland",
     "keywords": [
       "static",
       "sites",
       "static"
     ],
-    "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/staticland/staticland/issues"
-    },
     "homepage": "https://github.com/staticland/staticland#readme",
     "devDependencies": {
       "browserify": "^13.0.1",
@@ -115,6 +108,12 @@
       "request": "^2.72.0",
       "subcommand": "^2.0.3",
       "tar-fs": "^1.12.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/staticland/staticland/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   "svnUrl": "https://github.com/staticland/staticland",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:02:51.342Z",
-  "packageLastFetchedAt": "2017-05-05T17:17:07.410Z"
+  "lastFetchedAt": "2017-10-23T17:30:22.109Z",
+  "packageLastFetchedAt": "2017-05-05T17:17:07.410Z",
+  "archived": false
 }

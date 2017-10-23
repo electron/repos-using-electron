@@ -5,7 +5,7 @@
   "owner": {
     "login": "livestyle",
     "id": 8543718,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8543718?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8543718?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/livestyle",
     "htmlUrl": "https://github.com/livestyle",
@@ -20,21 +20,21 @@
   "description": "LiveStyle desktop app with Remote View",
   "fork": false,
   "createdAt": "2015-07-09T21:42:38.000Z",
-  "updatedAt": "2017-05-01T12:39:40.000Z",
+  "updatedAt": "2017-08-10T08:21:36.000Z",
   "pushedAt": "2016-09-16T16:45:42.000Z",
   "homepage": null,
   "size": 2105,
-  "stargazersCount": 35,
-  "watchersCount": 35,
+  "stargazersCount": 39,
+  "watchersCount": 39,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 10,
+  "forksCount": 9,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 35,
+  "watchers": 39,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "livestyle",
     "id": 8543718,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8543718?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8543718?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/livestyle",
     "htmlUrl": "https://github.com/livestyle",
@@ -56,8 +56,8 @@
     "receivedEventsUrl": "https://api.github.com/users/livestyle/received_events",
     "type": "Organization"
   },
-  "networkCount": 10,
-  "subscribersCount": 7,
+  "networkCount": 9,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "livestyle-app",
@@ -70,15 +70,8 @@
       "bundle": "node ./tools/distribute.js",
       "dev-bundle": "node ./tools/distribute.js --dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/livestyle/app.git"
-    },
-    "author": "Sergey Chikuyonok <serge.che@gmail.com>",
+    "repository": "https://github.com/livestyle/app",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/livestyle/app/issues"
-    },
     "homepage": "https://github.com/livestyle/app",
     "dependencies": {
       "browser-launcher2": "^0.4.5",
@@ -114,6 +107,12 @@
     },
     "config": {
       "websocketUrl": "ws://127.0.0.1:54000/livestyle"
+    },
+    "other": {
+      "author": "Sergey Chikuyonok <serge.che@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/livestyle/app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -161,6 +160,7 @@
   },
   "filename": "livestyle___app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:39.074Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:36.646Z"
+  "lastFetchedAt": "2017-10-23T20:39:11.263Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:36.646Z",
+  "archived": false
 }

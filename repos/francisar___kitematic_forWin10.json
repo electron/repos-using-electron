@@ -5,7 +5,7 @@
   "owner": {
     "login": "francisar",
     "id": 3347105,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3347105?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3347105?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/francisar",
     "htmlUrl": "https://github.com/francisar",
@@ -54,15 +54,10 @@
   "packageJSON": {
     "name": "Kitematic",
     "version": "0.9.3",
-    "author": "Kitematic",
     "description": "Simple Docker Container management for Mac OS X.",
     "homepage": "https://kitematic.com/",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:kitematic/kitematic.git"
-    },
-    "bugs": "https://github.com/kitematic/kitematic/issues",
+    "repository": "https://github.com/kitematic/kitematic",
     "scripts": {
       "start": "grunt",
       "test": "jest -c jest-unit.json",
@@ -139,6 +134,10 @@
       "run-sequence": "^1.0.2",
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.3.2"
+    },
+    "other": {
+      "author": "Kitematic",
+      "bugs": "https://github.com/kitematic/kitematic/issues"
     }
   },
   "packageStatus": 200,
@@ -186,6 +185,7 @@
   },
   "filename": "francisar___kitematic_forWin10.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:14.513Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:59.726Z"
+  "lastFetchedAt": "2017-10-23T17:08:45.924Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:59.726Z",
+  "archived": false
 }

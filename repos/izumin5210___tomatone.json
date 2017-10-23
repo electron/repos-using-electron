@@ -5,7 +5,7 @@
   "owner": {
     "login": "izumin5210",
     "id": 2010175,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2010175?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2010175?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/izumin5210",
     "htmlUrl": "https://github.com/izumin5210",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 6,
   "openIssues": 6,
@@ -62,23 +62,15 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "tomatone",
     "description": "Pluggable pomodoro timer",
     "version": "0.3.1",
-    "author": {
-      "name": "Masayuki IZUMI",
-      "email": "masayuki@izumin.info",
-      "url": "https://github.com/izumin5210"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
-    },
-    "bugs": {
-      "url": "https://github.com/izumin5210/tomatone/issues"
     },
     "build": {
       "appId": "info.izumin.tomatone",
@@ -200,10 +192,6 @@
       "webpack-hot-middleware": "^2.16.1",
       "webpack-merge": "^0.15.0"
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "homepage": "https://github.com/izumin5210/tomatone#readme",
     "license": {
       "type": "MIT",
@@ -211,10 +199,7 @@
     },
     "main": "dist/main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/izumin5210/tomatone.git"
-    },
+    "repository": "https://github.com/izumin5210/tomatone",
     "scripts": {
       "build": "npm-run-all --parallel build:*",
       "build:main": "NODE_ENV=production NODE_TARGET=main webpack --profile --colors",
@@ -241,6 +226,20 @@
       "test:js": "NODE_PATH=$PWD/src mocha",
       "typecheck": "flow",
       "version": "npm run generate:changelog && git add CHANGELOG.md"
+    },
+    "other": {
+      "author": {
+        "name": "Masayuki IZUMI",
+        "email": "masayuki@izumin.info",
+        "url": "https://github.com/izumin5210"
+      },
+      "bugs": {
+        "url": "https://github.com/izumin5210/tomatone/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -268,6 +267,7 @@
   },
   "filename": "izumin5210___tomatone.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:54:19.303Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:29.274Z"
+  "lastFetchedAt": "2017-10-23T17:41:43.234Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:29.274Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "mkwtys",
     "id": 5453675,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5453675?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5453675?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mkwtys",
     "htmlUrl": "https://github.com/mkwtys",
@@ -49,10 +49,6 @@
     "name": "electron-starter",
     "description": "electron starter",
     "version": "0.0.2",
-    "author": "mkwtys",
-    "bugs": {
-      "url": "https://github.com/mkwtys/electron-starter/issues"
-    },
     "devDependencies": {
       "babel-cli": "^6.2.0",
       "babel-plugin-syntax-flow": "^6.1.18",
@@ -68,15 +64,18 @@
     ],
     "license": "MIT",
     "main": "app/main/",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mkwtys/electron-starter.git"
-    },
+    "repository": "https://github.com/mkwtys/electron-starter",
     "scripts": {
       "build": "bin/build.sh",
       "package": "electron-packager . electron-starter --platform=darwin --arch=x64 --version=0.34.3 --out=dist --cache=.cache",
       "start": "electron .",
       "watch": "bin/watch.sh"
+    },
+    "other": {
+      "author": "mkwtys",
+      "bugs": {
+        "url": "https://github.com/mkwtys/electron-starter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/mkwtys/electron-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:03:16.806Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:40.078Z"
+  "lastFetchedAt": "2017-10-23T20:49:32.432Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:40.078Z",
+  "archived": false
 }

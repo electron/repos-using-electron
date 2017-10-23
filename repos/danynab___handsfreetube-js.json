@@ -5,7 +5,7 @@
   "owner": {
     "login": "danynab",
     "id": 2894369,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2894369?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2894369?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/danynab",
     "htmlUrl": "https://github.com/danynab",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danynab/handsfreetube-js.git"
-    },
+    "repository": "https://github.com/danynab/handsfreetube-js",
     "keywords": [
       "youtube",
       "player",
@@ -70,14 +67,16 @@
       "voice",
       "interaction"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/danynab/handsfreetube-js/issues"
-    },
     "homepage": "https://github.com/danynab/handsfreetube-js#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/danynab/handsfreetube-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "danynab___handsfreetube-js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:34:37.139Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:31.158Z"
+  "lastFetchedAt": "2017-10-23T20:21:15.494Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:31.158Z",
+  "archived": false
 }

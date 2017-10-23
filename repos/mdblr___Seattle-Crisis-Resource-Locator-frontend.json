@@ -5,7 +5,7 @@
   "owner": {
     "login": "mdblr",
     "id": 10998113,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10998113?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10998113?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mdblr",
     "htmlUrl": "https://github.com/mdblr",
@@ -74,15 +74,8 @@
       "start": "electron .  ",
       "build": "rm -rf scrl-darwin-x64; electron-packager ./ --platform=darwin --arch=x64 && cp 20160712053858227_easyicon_net_128.icns scrl-darwin-x64/scrl.app/Contents/Resources/electron.icns; open ./scrl-darwin-x64/scrl.app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mdblr/capstone-frontend.git"
-    },
-    "author": "Max Dobler",
+    "repository": "https://github.com/mdblr/capstone-frontend",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mdblr/capstone-frontend/issues"
-    },
     "homepage": "https://github.com/mdblr/capstone-frontend#readme",
     "devDependencies": {
       "angular": "^1.5.7",
@@ -97,6 +90,12 @@
       "electron-prebuilt": "^1.2.6",
       "lodash": "^4.13.1",
       "webfontloader": "^1.6.26"
+    },
+    "other": {
+      "author": "Max Dobler",
+      "bugs": {
+        "url": "https://github.com/mdblr/capstone-frontend/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "mdblr___Seattle-Crisis-Resource-Locator-frontend.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:24.067Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:11.930Z"
+  "lastFetchedAt": "2017-10-23T20:23:27.767Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:11.930Z",
+  "archived": false
 }

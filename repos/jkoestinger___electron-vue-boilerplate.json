@@ -5,7 +5,7 @@
   "owner": {
     "login": "jkoestinger",
     "id": 5838342,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5838342?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5838342?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jkoestinger",
     "htmlUrl": "https://github.com/jkoestinger",
@@ -87,7 +87,6 @@
       "vuex:module": "node tasks/vuex/module.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -144,6 +143,9 @@
     },
     "dependencies": {
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -171,6 +173,7 @@
   },
   "filename": "jkoestinger___electron-vue-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:45:05.890Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:23.869Z"
+  "lastFetchedAt": "2017-10-23T20:56:59.263Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:23.869Z",
+  "archived": false
 }

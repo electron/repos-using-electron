@@ -5,7 +5,7 @@
   "owner": {
     "login": "systembugtj",
     "id": 777576,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/777576?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/777576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/systembugtj",
     "htmlUrl": "https://github.com/systembugtj",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for commander goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.12.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.5",
@@ -161,6 +156,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -188,6 +190,7 @@
   },
   "filename": "systembugtj___commander-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:34.047Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:40.902Z"
+  "lastFetchedAt": "2017-10-23T19:00:51.776Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:40.902Z",
+  "archived": false
 }

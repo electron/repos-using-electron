@@ -5,7 +5,7 @@
   "owner": {
     "login": "ashaman1991",
     "id": 10195615,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10195615?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10195615?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ashaman1991",
     "htmlUrl": "https://github.com/ashaman1991",
@@ -56,7 +56,6 @@
       "pack": "electron-packager . --all",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
     "license": "MIT",
     "productName": "electron player",
     "devDependencies": {
@@ -101,14 +100,14 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.13.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ashaman1991/electron-player.git"
-    },
-    "bugs": {
-      "url": "https://github.com/ashaman1991/electron-player/issues"
-    },
-    "homepage": "https://github.com/ashaman1991/electron-player#readme"
+    "repository": "https://github.com/ashaman1991/electron-player",
+    "homepage": "https://github.com/ashaman1991/electron-player#readme",
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/ashaman1991/electron-player/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -155,6 +154,7 @@
   "svnUrl": "https://github.com/ashaman1991/electron-player",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:51:53.072Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:38.530Z"
+  "lastFetchedAt": "2017-10-23T20:10:27.221Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:38.530Z",
+  "archived": false
 }

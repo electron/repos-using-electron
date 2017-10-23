@@ -6,7 +6,7 @@
   "owner": {
     "login": "davidarich",
     "id": 4581240,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4581240?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4581240?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/davidarich",
     "htmlUrl": "https://github.com/davidarich",
@@ -67,16 +67,11 @@
   "networkCount": 0,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T16:46:52.103Z",
+  "lastFetchedAt": "2017-10-23T17:48:28.908Z",
   "packageJSON": {
     "name": "finesse-phone-agent",
     "version": "0.1.0",
     "description": "Unofficial phone agent for Cisco Finesse API",
-    "author": {
-      "name": "Dave Rich",
-      "email": "dave@daverich.net",
-      "url": "http://daverich.net"
-    },
     "main": "main.js",
     "scripts": {
       "start": "electron .",
@@ -100,8 +95,16 @@
         "target": "dmg",
         "category": "public.app-category.productivity"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Dave Rich",
+        "email": "dave@daverich.net",
+        "url": "http://daverich.net"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T21:53:50.844Z"
+  "packageLastFetchedAt": "2017-05-04T21:53:50.844Z",
+  "archived": false
 }

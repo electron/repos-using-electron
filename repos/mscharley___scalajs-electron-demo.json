@@ -5,7 +5,7 @@
   "owner": {
     "login": "mscharley",
     "id": 336509,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/336509?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/336509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mscharley",
     "htmlUrl": "https://github.com/mscharley",
@@ -20,12 +20,12 @@
   "description": "Scala.JS demo Electron application",
   "fork": false,
   "createdAt": "2016-05-22T00:03:03.000Z",
-  "updatedAt": "2017-05-01T06:18:09.000Z",
+  "updatedAt": "2017-08-27T17:17:09.000Z",
   "pushedAt": "2016-06-13T11:29:07.000Z",
   "homepage": "",
   "size": 74,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "Scala",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -60,25 +60,24 @@
       "debug": "rm -fv src/main/electron/${npm_package_name}* && sbt fastOptJS && cp -v target/scala-*/${npm_package_name}* src/main/electron/ && electron src/main/electron/${npm_package_name}-launcher.js",
       "test": "sbt test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mscharley/scalajs-electron-quick-start.git"
-    },
+    "repository": "https://github.com/mscharley/scalajs-electron-quick-start",
     "keywords": [
       "Electron",
       "Scala",
       "Scala.js"
     ],
-    "author": "Matthew Scharley",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mscharley/scalajs-electron-quick-start/issues"
-    },
     "homepage": "https://github.com/mscharley/scalajs-electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.1.1",
       "jquery": "^2.0",
       "source-map-support": "^0.4.0"
+    },
+    "other": {
+      "author": "Matthew Scharley",
+      "bugs": {
+        "url": "https://github.com/mscharley/scalajs-electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "filename": "mscharley___scalajs-electron-demo.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:09.247Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:07.981Z"
+  "lastFetchedAt": "2017-10-23T20:54:52.038Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:07.981Z",
+  "archived": false
 }

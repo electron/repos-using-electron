@@ -70,24 +70,23 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Inbox",
     "version": "1.0.0",
     "description": "Desktop client for Google Inbox",
     "main": "main.js",
-    "author": "Jerred Shepherd",
     "license": "GNU GPL 3",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ShepherdJerred/Inbox"
-    },
-    "bugs": {
-      "url": "https://github.com/ShepherdJerred/Inbox/issues"
-    },
+    "repository": "https://github.com/ShepherdJerred/Inbox",
     "homepage": "https://github.com/ShepherdJerred/Inbox",
     "devDependencies": {
       "electron": "^1.4.3"
+    },
+    "other": {
+      "author": "Jerred Shepherd",
+      "bugs": {
+        "url": "https://github.com/ShepherdJerred/Inbox/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,6 @@
   },
   "filename": "ShepherdJerred___Inbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:27:41.649Z",
+  "lastFetchedAt": "2017-10-23T17:31:45.203Z",
   "packageLastFetchedAt": "2017-05-05T01:32:43.710Z"
 }

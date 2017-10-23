@@ -5,7 +5,7 @@
   "owner": {
     "login": "jlopezcur",
     "id": 4610342,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4610342?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4610342?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jlopezcur",
     "htmlUrl": "https://github.com/jlopezcur",
@@ -79,20 +79,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jlopezcur/mditor.git"
-    },
+    "repository": "https://github.com/jlopezcur/mditor",
     "keywords": [
       "Electron",
       "MarkDown",
       "Minimal"
     ],
-    "author": "Javier López Úbeda",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jlopezcur/mditor/issues"
-    },
     "homepage": "https://github.com/jlopezcur/mditor#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -104,6 +97,12 @@
       "jquery": "^2.2.0",
       "marked": "^0.3.5",
       "vue": "^1.0.14"
+    },
+    "other": {
+      "author": "Javier López Úbeda",
+      "bugs": {
+        "url": "https://github.com/jlopezcur/mditor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "jlopezcur___mditor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:21.231Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:36.390Z"
+  "lastFetchedAt": "2017-10-23T20:36:13.908Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:36.390Z",
+  "archived": false
 }

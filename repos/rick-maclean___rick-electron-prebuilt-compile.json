@@ -6,7 +6,7 @@
   "owner": {
     "login": "rick-maclean",
     "id": 2349252,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2349252?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2349252?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rick-maclean",
     "htmlUrl": "https://github.com/rick-maclean",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:17:24.977Z",
+  "lastFetchedAt": "2017-10-23T18:19:43.325Z",
   "packageJSON": {
     "name": "Rick-electron-prebuilt-compile",
     "version": "1.6.5",
@@ -80,10 +80,7 @@
       "compile": "babel -d lib/ src/",
       "prepublish": "npm run compile"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paulcbetts/electron-prebuilt-compile"
-    },
+    "repository": "https://github.com/paulcbetts/electron-prebuilt-compile",
     "keywords": [
       "electron",
       "electron-compile",
@@ -95,11 +92,7 @@
       "jade",
       "pug"
     ],
-    "author": "Paul Betts <paul@paulbetts.org>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paulcbetts/electron-prebuilt-compile/issues"
-    },
     "homepage": "https://github.com/paulcbetts/electron-prebuilt-compile",
     "dependencies": {
       "babel-plugin-array-includes": "^2.0.3",
@@ -120,8 +113,15 @@
       "bootstrap": "^3.3.7",
       "jquery": "^3.2.1",
       "lodash": "^4.17.4"
+    },
+    "other": {
+      "author": "Paul Betts <paul@paulbetts.org>",
+      "bugs": {
+        "url": "https://github.com/paulcbetts/electron-prebuilt-compile/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:14:34.080Z"
+  "packageLastFetchedAt": "2017-05-05T15:14:34.080Z",
+  "archived": false
 }

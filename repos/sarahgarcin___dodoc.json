@@ -5,7 +5,7 @@
   "owner": {
     "login": "l-atelier-des-chercheurs",
     "id": 23416048,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23416048?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23416048?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/l-atelier-des-chercheurs",
     "htmlUrl": "https://github.com/l-atelier-des-chercheurs",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/l-atelier-des-chercheurs/dodoc/downloads",
   "deploymentsUrl": "https://api.github.com/repos/l-atelier-des-chercheurs/dodoc/deployments",
   "createdAt": "2015-12-31T13:12:34.000Z",
-  "updatedAt": "2017-04-18T13:36:43.000Z",
-  "pushedAt": "2017-04-28T16:30:33.000Z",
+  "updatedAt": "2017-10-08T17:00:12.000Z",
+  "pushedAt": "2017-10-19T19:06:16.000Z",
   "gitUrl": "git://github.com/l-atelier-des-chercheurs/dodoc.git",
   "sshUrl": "git@github.com:l-atelier-des-chercheurs/dodoc.git",
   "cloneUrl": "https://github.com/l-atelier-des-chercheurs/dodoc.git",
   "svnUrl": "https://github.com/l-atelier-des-chercheurs/dodoc",
   "homepage": "",
-  "size": 123986,
-  "stargazersCount": 14,
-  "watchersCount": 14,
+  "size": 124467,
+  "stargazersCount": 19,
+  "watchersCount": 19,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 32,
-  "openIssues": 32,
-  "watchers": 14,
+  "openIssuesCount": 33,
+  "openIssues": 33,
+  "watchers": 19,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,14 +62,13 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
-  "subscribersCount": 8,
+  "networkCount": 6,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "dodoc",
     "version": "5.2.0",
     "description": "Dodoc is a documentation tool for creativity.",
-    "author": "L’Atelier des Chercheurs <http://latelier-des-chercheurs.fr/>",
     "homepage": "https://github.com/l-atelier-des-chercheurs/dodoc#readme",
     "license": "CC-BY-NC-SA-4.0",
     "main": "main.js",
@@ -84,13 +83,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/l-atelier-des-chercheurs/dodoc.git"
-    },
-    "bugs": {
-      "url": "https://github.com/l-atelier-des-chercheurs/dodoc/issues"
-    },
+    "repository": "https://github.com/l-atelier-des-chercheurs/dodoc",
     "build": {
       "electronVersion": "1.4.8",
       "appId": "dodoc",
@@ -147,6 +140,12 @@
       "gulp-uglify": "^2.0.0",
       "jshint": "^2.9.3",
       "nodemon": "^1.11.0"
+    },
+    "other": {
+      "author": "L’Atelier des Chercheurs <http://latelier-des-chercheurs.fr/>",
+      "bugs": {
+        "url": "https://github.com/l-atelier-des-chercheurs/dodoc/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -177,7 +176,7 @@
   "organization": {
     "login": "l-atelier-des-chercheurs",
     "id": 23416048,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23416048?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23416048?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/l-atelier-des-chercheurs",
     "htmlUrl": "https://github.com/l-atelier-des-chercheurs",
@@ -188,6 +187,7 @@
     "receivedEventsUrl": "https://api.github.com/users/l-atelier-des-chercheurs/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T04:56:26.918Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:28.259Z"
+  "lastFetchedAt": "2017-10-23T18:50:06.957Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:28.259Z",
+  "archived": false
 }

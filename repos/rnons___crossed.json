@@ -5,7 +5,7 @@
   "owner": {
     "login": "rnons",
     "id": 1082650,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1082650?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1082650?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rnons",
     "htmlUrl": "https://github.com/rnons",
@@ -74,11 +74,7 @@
       "start": "electron .",
       "start:app": "webpack-dev-server --devtool eval --progress --color --inline --port 7000"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rnons/crossed.git"
-    },
-    "author": "rnons",
+    "repository": "https://github.com/rnons/crossed",
     "dependencies": {
       "@angular/common": "2.0.1",
       "@angular/compiler": "2.0.1",
@@ -102,6 +98,9 @@
       "typescript": "^2.0.2",
       "webpack": "1.13.2",
       "webpack-dev-server": "1.16.1"
+    },
+    "other": {
+      "author": "rnons"
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "rnons___crossed.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:05.665Z",
-  "packageLastFetchedAt": "2017-05-05T09:36:12.495Z"
+  "lastFetchedAt": "2017-10-23T18:22:22.591Z",
+  "packageLastFetchedAt": "2017-05-05T09:36:12.495Z",
+  "archived": false
 }

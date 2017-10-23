@@ -5,7 +5,7 @@
   "owner": {
     "login": "ruiming",
     "id": 12167554,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12167554?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12167554?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ruiming",
     "htmlUrl": "https://github.com/ruiming",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/ruiming/FileSystem",
-  "description": "FileSystem for Windows based on Angular, Node.js, Electron",
+  "description": "FileSystem for Windows based on AngularJS, Node.js, Electron",
   "fork": false,
   "url": "https://api.github.com/repos/ruiming/FileSystem",
   "forksUrl": "https://api.github.com/repos/ruiming/FileSystem/forks",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/ruiming/FileSystem/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ruiming/FileSystem/deployments",
   "createdAt": "2016-06-12T11:19:05.000Z",
-  "updatedAt": "2016-08-28T10:49:56.000Z",
+  "updatedAt": "2017-08-16T07:49:26.000Z",
   "pushedAt": "2016-09-11T05:00:28.000Z",
   "gitUrl": "git://github.com/ruiming/FileSystem.git",
   "sshUrl": "git@github.com:ruiming/FileSystem.git",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -73,15 +73,8 @@
     "scripts": {
       "start": "electron-packager . build --platform=win32 --arch=ia32 --asar --overwrite --icon=./static/pikachu.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ruiming/FileSystem.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Ruiming/FileSystem/issues"
-    },
+    "repository": "https://github.com/Ruiming/FileSystem",
     "homepage": "https://github.com/Ruiming/FileSystem#readme",
-    "author": "Ruiming Zhuang",
     "license": "ISC",
     "dependencies": {
       "base64-img": "^1.0.3",
@@ -101,6 +94,12 @@
       "gulp-concat": "^2.6.0",
       "gulp-plumber": "^1.1.0",
       "gulp-sass": "^2.3.2"
+    },
+    "other": {
+      "author": "Ruiming Zhuang",
+      "bugs": {
+        "url": "https://github.com/Ruiming/FileSystem/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "ruiming___FileSystem.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:27.315Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:43.715Z"
+  "lastFetchedAt": "2017-10-23T20:42:58.662Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:43.715Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "chaegumi",
     "id": 9654650,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9654650?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9654650?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chaegumi",
     "htmlUrl": "https://github.com/chaegumi",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/chaegumi/bookmarking-app-electron-vuejs-sqlite/downloads",
   "deploymentsUrl": "https://api.github.com/repos/chaegumi/bookmarking-app-electron-vuejs-sqlite/deployments",
   "createdAt": "2016-10-27T09:18:58.000Z",
-  "updatedAt": "2016-11-20T23:28:01.000Z",
+  "updatedAt": "2017-08-28T20:29:30.000Z",
   "pushedAt": "2016-10-30T05:30:23.000Z",
   "gitUrl": "git://github.com/chaegumi/bookmarking-app-electron-vuejs-sqlite.git",
   "sshUrl": "git@github.com:chaegumi/bookmarking-app-electron-vuejs-sqlite.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/chaegumi/bookmarking-app-electron-vuejs-sqlite",
   "homepage": "",
   "size": 44666,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "Vue",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 1,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "bookmarking-app",
@@ -75,7 +75,6 @@
       "start": "electron main.js",
       "rebuild-sqlite3-win32": "cd node_modules/sqlite3 && npm run prepublish && node-gyp configure --module_name=node_sqlite3 --module_path=../lib/binding/node-v46-win32-x64 && node-gyp rebuild --target=1.4.4 --arch=x64 --target_platform=win32 --dist-url=https://atom.io/download/atom-shell --module_name=node_sqlite3 --module_path=../lib/binding/electron-v1.4-win32-x64"
     },
-    "author": "chaegumi",
     "license": "MIT",
     "dependencies": {
       "jquery": "^3.1.1",
@@ -98,6 +97,9 @@
       "vue-validator": "^2.1.5",
       "webpack": "^1.13.2",
       "webpack-dev-server": "^1.16.2"
+    },
+    "other": {
+      "author": "chaegumi"
     }
   },
   "packageStatus": 200,
@@ -125,6 +127,7 @@
   },
   "filename": "chaegumi___bookmarking-app-electron-vuejs-sqlite.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:16.269Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:35.927Z"
+  "lastFetchedAt": "2017-10-23T17:32:04.243Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:35.927Z",
+  "archived": false
 }

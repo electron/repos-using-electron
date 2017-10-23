@@ -6,7 +6,7 @@
   "owner": {
     "login": "TruthOriginem",
     "id": 21058603,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21058603?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21058603?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TruthOriginem",
     "htmlUrl": "https://github.com/TruthOriginem",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "molingyu",
       "id": 8806796,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8806796?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8806796?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/molingyu",
       "htmlUrl": "https://github.com/molingyu",
@@ -83,7 +83,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/molingyu/rguijs",
-    "description": "RGUI is powerful, async and easy to expand  GUI framework.",
+    "description": "RGUI is useful, powerful Reactive Graphical User Interface framework.",
     "fork": false,
     "url": "https://api.github.com/repos/molingyu/rguijs",
     "forksUrl": "https://api.github.com/repos/molingyu/rguijs/forks",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/molingyu/rguijs/downloads",
     "deploymentsUrl": "https://api.github.com/repos/molingyu/rguijs/deployments",
     "createdAt": "2016-12-07T13:29:51.000Z",
-    "updatedAt": "2017-04-07T10:38:15.000Z",
-    "pushedAt": "2017-03-16T04:23:43.000Z",
+    "updatedAt": "2017-07-30T10:11:30.000Z",
+    "pushedAt": "2017-06-23T04:48:34.000Z",
     "gitUrl": "git://github.com/molingyu/rguijs.git",
     "sshUrl": "git@github.com:molingyu/rguijs.git",
     "cloneUrl": "https://github.com/molingyu/rguijs.git",
     "svnUrl": "https://github.com/molingyu/rguijs",
-    "homepage": "https://molingyu.github.io/rguijs/",
-    "size": 14218,
-    "stargazersCount": 7,
-    "watchersCount": 7,
-    "language": "JavaScript",
+    "homepage": "",
+    "size": 14244,
+    "stargazersCount": 8,
+    "watchersCount": 8,
+    "language": null,
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 7,
+    "watchers": 8,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "molingyu",
       "id": 8806796,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8806796?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8806796?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/molingyu",
       "htmlUrl": "https://github.com/molingyu",
@@ -143,7 +144,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/molingyu/rguijs",
-    "description": "RGUI is powerful, async and easy to expand  GUI framework.",
+    "description": "RGUI is useful, powerful Reactive Graphical User Interface framework.",
     "fork": false,
     "url": "https://api.github.com/repos/molingyu/rguijs",
     "forksUrl": "https://api.github.com/repos/molingyu/rguijs/forks",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/molingyu/rguijs/downloads",
     "deploymentsUrl": "https://api.github.com/repos/molingyu/rguijs/deployments",
     "createdAt": "2016-12-07T13:29:51.000Z",
-    "updatedAt": "2017-04-07T10:38:15.000Z",
-    "pushedAt": "2017-03-16T04:23:43.000Z",
+    "updatedAt": "2017-07-30T10:11:30.000Z",
+    "pushedAt": "2017-06-23T04:48:34.000Z",
     "gitUrl": "git://github.com/molingyu/rguijs.git",
     "sshUrl": "git@github.com:molingyu/rguijs.git",
     "cloneUrl": "https://github.com/molingyu/rguijs.git",
     "svnUrl": "https://github.com/molingyu/rguijs",
-    "homepage": "https://molingyu.github.io/rguijs/",
-    "size": 14218,
-    "stargazersCount": 7,
-    "watchersCount": 7,
-    "language": "JavaScript",
+    "homepage": "",
+    "size": 14244,
+    "stargazersCount": 8,
+    "watchersCount": 8,
+    "language": null,
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 7,
+    "watchers": 8,
     "defaultBranch": "master"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -196,19 +198,12 @@
       "test": "nodejs test/main.js",
       "docs": "jsdoc -c scripts/jsdoc.conf.json -R readme.md"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/molingyu/rguijs.git"
-    },
+    "repository": "https://github.com/molingyu/rguijs",
     "keywords": [
       "GUI",
       "PIXI.js"
     ],
-    "author": "shitake",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/molingyu/rguijs/issues"
-    },
     "homepage": "https://github.com/molingyu/rguijs#readme",
     "dependencies": {
       "electron": "^1.4.12",
@@ -218,6 +213,12 @@
       "jsdoc": "^3.4.2",
       "jaguarjs-jsdoc": "^1.0.1",
       "minimist": "^1.2.0"
+    },
+    "other": {
+      "author": "shitake",
+      "bugs": {
+        "url": "https://github.com/molingyu/rguijs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +245,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:00.023Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:14.903Z"
+  "lastFetchedAt": "2017-10-23T17:31:19.294Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:14.903Z",
+  "archived": false
 }

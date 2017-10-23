@@ -5,7 +5,7 @@
   "owner": {
     "login": "quillaja",
     "id": 17558269,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17558269?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17558269?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/quillaja",
     "htmlUrl": "https://github.com/quillaja",
@@ -73,16 +73,15 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/quillaja/electroncalc"
-    },
+    "repository": "https://github.com/quillaja/electroncalc",
     "keywords": [
       "Electron"
     ],
-    "author": "quillaja",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "author": "quillaja"
     }
   },
   "packageStatus": 200,
@@ -110,6 +109,7 @@
   },
   "filename": "quillaja___electroncalc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:12.783Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:51.001Z"
+  "lastFetchedAt": "2017-10-23T17:13:25.243Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:51.001Z",
+  "archived": false
 }

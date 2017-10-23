@@ -5,7 +5,7 @@
   "owner": {
     "login": "riccardopiola",
     "id": 21911204,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21911204?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21911204?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/riccardopiola",
     "htmlUrl": "https://github.com/riccardopiola",
@@ -140,26 +140,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/riccardopiola/LeagueFlash"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/riccardopiola/LeagueFlash",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -243,6 +228,20 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -271,6 +270,7 @@
   "filename": "riccardopiola___LeagueFlash.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:10.203Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:38.703Z"
+  "lastFetchedAt": "2017-10-23T17:59:29.272Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:38.703Z",
+  "archived": false
 }

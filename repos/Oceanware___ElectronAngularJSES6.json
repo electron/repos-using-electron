@@ -5,7 +5,7 @@
   "owner": {
     "login": "Oceanware",
     "id": 5623895,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5623895?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5623895?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Oceanware",
     "htmlUrl": "https://github.com/Oceanware",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Oceanware/ElectronAngularJSES6/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Oceanware/ElectronAngularJSES6/deployments",
   "createdAt": "2016-02-28T20:52:02.000Z",
-  "updatedAt": "2016-12-31T17:17:42.000Z",
+  "updatedAt": "2017-07-25T19:03:16.000Z",
   "pushedAt": "2016-07-11T20:41:34.000Z",
   "gitUrl": "git://github.com/Oceanware/ElectronAngularJSES6.git",
   "sshUrl": "git@github.com:Oceanware/ElectronAngularJSES6.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Oceanware/ElectronAngularJSES6",
   "homepage": "",
   "size": 530,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Oceanware",
     "id": 5623895,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5623895?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5623895?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Oceanware",
     "htmlUrl": "https://github.com/Oceanware",
@@ -92,17 +92,7 @@
       "build-windows": "electron-packager ./build-publish ElectronAngular --app-version=1.0.0 --version=1.2.5 --asar=true --platform=win32  --arch=ia32 --overwrite --out ./build",
       "build-mac": "electron-packager ./build-publish ElectronAngular     --app-version=1.0.0 --version=1.2.5 --asar=true --platform=darwin --arch=x64  --overwrite --out ./build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Oceanware/electronangularjses6.git"
-    },
-    "author": {
-      "name": "Karl Shifflett",
-      "url": "http://oceanware.wordpress.com"
-    },
-    "bugs": {
-      "url": "https://github.com/oceanware/electronangularjses6"
-    },
+    "repository": "https://github.com/Oceanware/electronangularjses6",
     "homepage": "https://github.com/oceanware/electronangularjses6",
     "keywords": [
       "electron",
@@ -161,6 +151,15 @@
         "babel-runtime": "npm:babel-runtime@^5.8.24",
         "core-js": "npm:core-js@^1.1.4"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Karl Shifflett",
+        "url": "http://oceanware.wordpress.com"
+      },
+      "bugs": {
+        "url": "https://github.com/oceanware/electronangularjses6"
+      }
     }
   },
   "packageStatus": 200,
@@ -188,6 +187,7 @@
   },
   "filename": "Oceanware___ElectronAngularJSES6.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:02:24.258Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:16.242Z"
+  "lastFetchedAt": "2017-10-23T20:06:35.769Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:16.242Z",
+  "archived": false
 }

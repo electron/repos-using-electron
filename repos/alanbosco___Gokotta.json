@@ -6,7 +6,7 @@
   "owner": {
     "login": "alanbosco",
     "id": 7610855,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7610855?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7610855?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alanbosco",
     "htmlUrl": "https://github.com/alanbosco",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "Zhangdroid",
       "id": 6471705,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6471705?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6471705?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Zhangdroid",
       "htmlUrl": "https://github.com/Zhangdroid",
@@ -100,7 +100,7 @@
     "downloadsUrl": "https://api.github.com/repos/Zhangdroid/Gokotta/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Zhangdroid/Gokotta/deployments",
     "createdAt": "2016-02-21T16:26:50.000Z",
-    "updatedAt": "2017-05-03T22:13:42.000Z",
+    "updatedAt": "2017-10-22T16:15:19.000Z",
     "pushedAt": "2017-03-01T15:48:49.000Z",
     "gitUrl": "git://github.com/Zhangdroid/Gokotta.git",
     "sshUrl": "git@github.com:Zhangdroid/Gokotta.git",
@@ -108,19 +108,20 @@
     "svnUrl": "https://github.com/Zhangdroid/Gokotta",
     "homepage": "",
     "size": 5330,
-    "stargazersCount": 360,
-    "watchersCount": 360,
+    "stargazersCount": 410,
+    "watchersCount": 410,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 29,
+    "forksCount": 48,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 360,
+    "watchers": 410,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "Zhangdroid",
       "id": 6471705,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6471705?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6471705?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Zhangdroid",
       "htmlUrl": "https://github.com/Zhangdroid",
@@ -160,7 +161,7 @@
     "downloadsUrl": "https://api.github.com/repos/Zhangdroid/Gokotta/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Zhangdroid/Gokotta/deployments",
     "createdAt": "2016-02-21T16:26:50.000Z",
-    "updatedAt": "2017-05-03T22:13:42.000Z",
+    "updatedAt": "2017-10-22T16:15:19.000Z",
     "pushedAt": "2017-03-01T15:48:49.000Z",
     "gitUrl": "git://github.com/Zhangdroid/Gokotta.git",
     "sshUrl": "git@github.com:Zhangdroid/Gokotta.git",
@@ -168,22 +169,23 @@
     "svnUrl": "https://github.com/Zhangdroid/Gokotta",
     "homepage": "",
     "size": 5330,
-    "stargazersCount": 360,
-    "watchersCount": 360,
+    "stargazersCount": 410,
+    "watchersCount": 410,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 29,
+    "forksCount": 48,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 360,
+    "watchers": 410,
     "defaultBranch": "master"
   },
-  "networkCount": 29,
+  "networkCount": 48,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -266,20 +268,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Zhangdroid/Gokotta.git"
-    },
+    "repository": "https://github.com/Zhangdroid/Gokotta",
     "keywords": [
       "vue",
       "electron",
       "player"
     ],
-    "author": "Zhangdroid <contrary.zhuo@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Zhangdroid/Gokotta/issues"
-    },
     "homepage": "https://github.com/Zhangdroid/Gokotta#readme",
     "devDependencies": {
       "asar": "^0.10.0",
@@ -322,6 +317,12 @@
       "vue-animated-list": "^1.0.2",
       "vue-async-data": "^1.0.2",
       "vuex": "^0.3.0"
+    },
+    "other": {
+      "author": "Zhangdroid <contrary.zhuo@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/Zhangdroid/Gokotta/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -349,6 +350,7 @@
   },
   "sourceRepo": "Zhangdroid/Gokotta",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:52.398Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:52.466Z"
+  "lastFetchedAt": "2017-10-23T17:39:32.103Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:52.466Z",
+  "archived": false
 }

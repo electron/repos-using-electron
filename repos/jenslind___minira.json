@@ -5,7 +5,7 @@
   "owner": {
     "login": "jenslind",
     "id": 5213672,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5213672?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5213672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jenslind",
     "htmlUrl": "https://github.com/jenslind",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jenslind/minira/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jenslind/minira/deployments",
   "createdAt": "2016-03-10T22:53:53.000Z",
-  "updatedAt": "2017-04-19T17:36:23.000Z",
+  "updatedAt": "2017-10-13T06:37:43.000Z",
   "pushedAt": "2017-04-08T12:10:18.000Z",
   "gitUrl": "git://github.com/jenslind/minira.git",
   "sshUrl": "git@github.com:jenslind/minira.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/jenslind/minira",
   "homepage": "",
   "size": 3278,
-  "stargazersCount": 66,
-  "watchersCount": 66,
+  "stargazersCount": 74,
+  "watchersCount": 74,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 9,
   "mirrorUrl": null,
   "openIssuesCount": 11,
   "openIssues": 11,
-  "watchers": 66,
+  "watchers": 74,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 8,
-  "subscribersCount": 3,
+  "networkCount": 9,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "minira",
@@ -76,11 +76,7 @@
       "build": "npm test && webpack --config webpack-production.config.js && electron-packager ./ Minira --platform=darwin --arch=x64 --version=0.37.2 --app-version=$npm_package_version --out=./build --overwrite --ignore='^/media$' --ignore='^/build$' --ignore='^/src$' --ignore='^/node_modules/angular2$' --prune --icon=media/Icon.icns --sign='Jens Lind' --app-bundle-id=com.jenslind.minira",
       "release": "npm run build && electron-release --app=build/Minira-darwin-x64/Minira.app --output=build/Minira-darwin-x64/Minira-osx-$npm_package_version.zip --token=$MINIRA_TOKEN"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jenslind/minira.git"
-    },
-    "author": "Jens Lind",
+    "repository": "https://github.com/jenslind/minira",
     "license": "MIT",
     "dependencies": {
       "angular2": "2.0.0-beta.9",
@@ -118,6 +114,9 @@
     },
     "standard": {
       "parser": "babel-eslint"
+    },
+    "other": {
+      "author": "Jens Lind"
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "jenslind___minira.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:28.945Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:39.452Z"
+  "lastFetchedAt": "2017-10-23T18:38:16.383Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:39.452Z",
+  "archived": false
 }

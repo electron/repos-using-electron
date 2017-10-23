@@ -5,7 +5,7 @@
   "owner": {
     "login": "niksolaz",
     "id": 8545685,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8545685?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8545685?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/niksolaz",
     "htmlUrl": "https://github.com/niksolaz",
@@ -81,19 +81,12 @@
       "postinstall": "npm run build",
       "start": "npm build & electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/niksolaz/ElectronApp.git"
-    },
+    "repository": "https://github.com/niksolaz/ElectronApp",
     "keywords": [
       "electron",
       "node"
     ],
-    "author": "Nicola Solazzo",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/niksolaz/ElectronApp/issues"
-    },
     "homepage": "https://github.com/niksolaz/ElectronApp",
     "devDependencies": {
       "electron-prebuilt": "^0.36.9",
@@ -106,6 +99,12 @@
       "react": "^0.14.7",
       "react-dom": "^0.14.7",
       "smalltalk": "^1.6.6"
+    },
+    "other": {
+      "author": "Nicola Solazzo",
+      "bugs": {
+        "url": "https://github.com/niksolaz/ElectronApp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "niksolaz___ElectronApp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:30.899Z",
-  "packageLastFetchedAt": "2017-05-05T17:09:21.246Z"
+  "lastFetchedAt": "2017-10-23T18:37:58.327Z",
+  "packageLastFetchedAt": "2017-05-05T17:09:21.246Z",
+  "archived": false
 }

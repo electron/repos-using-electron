@@ -5,7 +5,7 @@
   "owner": {
     "login": "SleepyWerewolf",
     "id": 7356884,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7356884?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7356884?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SleepyWerewolf",
     "htmlUrl": "https://github.com/SleepyWerewolf",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for fatty-bird goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -138,6 +133,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -185,6 +187,7 @@
   "svnUrl": "https://github.com/SleepyWerewolf/fatty-bird",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:08:49.702Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:37.654Z"
+  "lastFetchedAt": "2017-10-23T18:17:14.482Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:37.654Z",
+  "archived": false
 }

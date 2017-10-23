@@ -5,7 +5,7 @@
   "owner": {
     "login": "tmpethick",
     "id": 544312,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/544312?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/544312?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tmpethick",
     "htmlUrl": "https://github.com/tmpethick",
@@ -20,10 +20,10 @@
   "description": "Get all your DTU course files synced to your computer",
   "fork": false,
   "createdAt": "2016-04-23T15:17:32.000Z",
-  "updatedAt": "2016-09-09T14:52:20.000Z",
-  "pushedAt": "2016-06-04T17:15:25.000Z",
+  "updatedAt": "2017-09-26T11:22:08.000Z",
+  "pushedAt": "2017-09-26T11:53:39.000Z",
   "homepage": "http://pethick.dk/campusnet-electron/",
-  "size": 2984,
+  "size": 3042,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": true,
   "forksCount": 0,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 0,
+  "openIssues": 0,
   "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
@@ -50,16 +50,8 @@
     "version": "1.0.7",
     "description": "Sync CampusNet files to your computer",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tmpethick/campusnet-electron"
-    },
+    "repository": "https://github.com/tmpethick/campusnet-electron",
     "main": "app/main.js",
-    "author": {
-      "name": "Thomas Pethick",
-      "email": "tmpethick@gmail.com",
-      "url": "pethick.dk"
-    },
     "electronVersion": "0.36.7",
     "scripts": {
       "postinstall": "install-app-deps",
@@ -130,6 +122,13 @@
       "style-loader": "^0.13.0",
       "webpack": "^1.12.2",
       "webpack-dev-server": "^1.12.1"
+    },
+    "other": {
+      "author": {
+        "name": "Thomas Pethick",
+        "email": "tmpethick@gmail.com",
+        "url": "pethick.dk"
+      }
     }
   },
   "packageStatus": 200,
@@ -177,6 +176,7 @@
   },
   "filename": "tmpethick___campusnet-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:27.295Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:59.317Z"
+  "lastFetchedAt": "2017-10-23T19:37:08.991Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:59.317Z",
+  "archived": false
 }

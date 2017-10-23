@@ -5,7 +5,7 @@
   "owner": {
     "login": "Narazaka",
     "id": 1712548,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1712548?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1712548?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Narazaka",
     "htmlUrl": "https://github.com/Narazaka",
@@ -20,10 +20,10 @@
   "description": "require() with BrowserFS",
   "fork": false,
   "createdAt": "2016-07-17T18:47:10.000Z",
-  "updatedAt": "2016-08-07T00:44:55.000Z",
-  "pushedAt": "2016-08-03T16:10:48.000Z",
+  "updatedAt": "2017-09-09T19:42:27.000Z",
+  "pushedAt": "2017-09-09T20:44:49.000Z",
   "homepage": null,
-  "size": 184,
+  "size": 169,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -91,16 +91,15 @@
       "test": "mocha && karma start --single-run",
       "build": "node --harmony ./build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/Narazaka/browserfs-module.js.git"
-    },
-    "author": "Narazaka",
+    "repository": "https://github.com/Narazaka/browserfs-module.js",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Narazaka/browserfs-module.js/issues"
-    },
-    "homepage": "https://github.com/Narazaka/browserfs-module.js#readme"
+    "homepage": "https://github.com/Narazaka/browserfs-module.js#readme",
+    "other": {
+      "author": "Narazaka",
+      "bugs": {
+        "url": "https://github.com/Narazaka/browserfs-module.js/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +146,7 @@
   "svnUrl": "https://github.com/Narazaka/browserfs-module.js",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:39:12.493Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:49.304Z"
+  "lastFetchedAt": "2017-10-23T19:30:08.585Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:49.304Z",
+  "archived": false
 }

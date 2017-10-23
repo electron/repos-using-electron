@@ -5,7 +5,7 @@
   "owner": {
     "login": "Nitecon",
     "id": 665977,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/665977?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/665977?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Nitecon",
     "htmlUrl": "https://github.com/Nitecon",
@@ -61,11 +61,13 @@
       "build-js": "bin/build.sh",
       "start": "sh bin/build.sh && ./dist/gdrv-linux-x64/gdrv"
     },
-    "author": "Will Hattingh",
     "license": "BSD-3 Revised",
     "devDependencies": {
       "electron-packager": "^5.2.0",
       "electron-prebuilt": "*"
+    },
+    "other": {
+      "author": "Will Hattingh"
     }
   },
   "packageStatus": 200,
@@ -113,6 +115,7 @@
   "svnUrl": "https://github.com/Nitecon/gdrv",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:53:22.877Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:07.438Z"
+  "lastFetchedAt": "2017-10-23T19:27:56.863Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:07.438Z",
+  "archived": false
 }

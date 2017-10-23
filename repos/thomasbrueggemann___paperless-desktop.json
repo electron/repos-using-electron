@@ -6,7 +6,7 @@
   "owner": {
     "login": "thomasbrueggemann",
     "id": 2313087,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2313087?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2313087?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thomasbrueggemann",
     "htmlUrl": "https://github.com/thomasbrueggemann",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/thomasbrueggemann/paperless-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/thomasbrueggemann/paperless-desktop/deployments",
   "createdAt": "2017-01-06T21:56:56.000Z",
-  "updatedAt": "2017-05-03T14:42:12.000Z",
-  "pushedAt": "2017-04-17T22:08:47.000Z",
+  "updatedAt": "2017-10-20T17:59:55.000Z",
+  "pushedAt": "2017-10-16T08:05:37.000Z",
   "gitUrl": "git://github.com/thomasbrueggemann/paperless-desktop.git",
   "sshUrl": "git@github.com:thomasbrueggemann/paperless-desktop.git",
   "cloneUrl": "https://github.com/thomasbrueggemann/paperless-desktop.git",
   "svnUrl": "https://github.com/thomasbrueggemann/paperless-desktop",
   "homepage": "",
-  "size": 1533,
-  "stargazersCount": 13,
-  "watchersCount": 13,
+  "size": 1569,
+  "stargazersCount": 29,
+  "watchersCount": 29,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
-  "hasWiki": true,
+  "hasWiki": false,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 13,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 29,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,8 +69,8 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 1,
-  "subscribersCount": 3,
+  "networkCount": 3,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "paperless-desktop",
@@ -82,10 +82,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "package:mac": "gulp && electron-packager ./ Paperless --platform=darwin --arch=all --out ./build --ignore='^/build$' --electron-version 1.4.13 --overwrite --icon=./icon.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thomasbrueggemann/paperless-desktop.git"
-    },
+    "repository": "https://github.com/thomasbrueggemann/paperless-desktop",
     "dependencies": {
       "alt": "^0.17.4",
       "async": "^1.4.2",
@@ -140,12 +137,14 @@
       "desktop",
       "electron"
     ],
-    "author": "Thomas Brüggemann",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/thomasbrueggemann/paperless-desktop/issues"
-    },
-    "homepage": "https://github.com/thomasbrueggemann/paperless-desktop#readme"
+    "homepage": "https://github.com/thomasbrueggemann/paperless-desktop#readme",
+    "other": {
+      "author": "Thomas Brüggemann",
+      "bugs": {
+        "url": "https://github.com/thomasbrueggemann/paperless-desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -171,6 +170,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:07.704Z",
-  "packageLastFetchedAt": "2017-05-05T17:19:27.739Z"
+  "lastFetchedAt": "2017-10-23T20:21:40.589Z",
+  "packageLastFetchedAt": "2017-05-05T17:19:27.739Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "NHibiki",
     "id": 18514672,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18514672?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18514672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NHibiki",
     "htmlUrl": "https://github.com/NHibiki",
@@ -82,19 +82,12 @@
       "run": "electron .",
       "pack": "electron-packager ./ QPlayer --out ./OutApp --overwrite --all --icon=./view/img/ico.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/NHibiki/QPlayer.git"
-    },
+    "repository": "https://github.com/NHibiki/QPlayer",
     "keywords": [
       "NHibiki",
       "QPlayer"
     ],
-    "author": "NHibiki",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/NHibiki/QPlayer/issues"
-    },
     "homepage": "https://github.com/NHibiki/QPlayer#readme",
     "dependencies": {
       "electron": "^1.4.11",
@@ -103,7 +96,13 @@
       "nconf": "^0.8.4",
       "socket.io": "^1.7.2"
     },
-    "uid": "Djyq"
+    "uid": "Djyq",
+    "other": {
+      "author": "NHibiki",
+      "bugs": {
+        "url": "https://github.com/NHibiki/QPlayer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +128,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:23:54.038Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:59.070Z"
+  "lastFetchedAt": "2017-10-23T18:11:20.452Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:59.070Z",
+  "archived": false
 }

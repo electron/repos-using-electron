@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Notepile",
     "version": "0.0.0",
@@ -73,18 +73,17 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Sigurd3K/Notepile.git"
-    },
-    "author": "Sigurd3K",
+    "repository": "https://github.com/Sigurd3K/Notepile",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Sigurd3K/Notepile/issues"
-    },
     "homepage": "https://github.com/Sigurd3K/Notepile",
     "devDependencies": {
       "electron-prebuilt": "^1.2.5"
+    },
+    "other": {
+      "author": "Sigurd3K",
+      "bugs": {
+        "url": "https://github.com/Sigurd3K/Notepile/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,6 @@
   },
   "filename": "Sigurd3K___Notepile.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:04.810Z",
+  "lastFetchedAt": "2017-10-23T19:03:55.073Z",
   "packageLastFetchedAt": "2017-05-04T22:13:52.871Z"
 }

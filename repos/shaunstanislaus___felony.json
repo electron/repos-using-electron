@@ -5,7 +5,7 @@
   "owner": {
     "login": "shaunstanislaus",
     "id": 1703530,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1703530?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1703530?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shaunstanislaus",
     "htmlUrl": "https://github.com/shaunstanislaus",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "henryboldi",
       "id": 1918798,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1918798?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1918798?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/henryboldi",
       "htmlUrl": "https://github.com/henryboldi",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/henryboldi/felony/downloads",
     "deploymentsUrl": "https://api.github.com/repos/henryboldi/felony/deployments",
     "createdAt": "2016-01-07T09:47:38.000Z",
-    "updatedAt": "2017-05-03T10:00:11.000Z",
-    "pushedAt": "2017-04-01T23:53:16.000Z",
+    "updatedAt": "2017-10-23T04:29:57.000Z",
+    "pushedAt": "2017-10-18T14:16:16.000Z",
     "gitUrl": "git://github.com/henryboldi/felony.git",
     "sshUrl": "git@github.com:henryboldi/felony.git",
     "cloneUrl": "https://github.com/henryboldi/felony.git",
     "svnUrl": "https://github.com/henryboldi/felony",
     "homepage": "https://felony.io/",
     "size": 3891,
-    "stargazersCount": 3327,
-    "watchersCount": 3327,
+    "stargazersCount": 3385,
+    "watchersCount": 3385,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 114,
+    "forksCount": 130,
     "mirrorUrl": null,
-    "openIssuesCount": 25,
-    "openIssues": 25,
-    "watchers": 3327,
+    "archived": false,
+    "openIssuesCount": 30,
+    "openIssues": 30,
+    "watchers": 3385,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "henryboldi",
       "id": 1918798,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1918798?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1918798?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/henryboldi",
       "htmlUrl": "https://github.com/henryboldi",
@@ -139,41 +140,37 @@
     "downloadsUrl": "https://api.github.com/repos/henryboldi/felony/downloads",
     "deploymentsUrl": "https://api.github.com/repos/henryboldi/felony/deployments",
     "createdAt": "2016-01-07T09:47:38.000Z",
-    "updatedAt": "2017-05-03T10:00:11.000Z",
-    "pushedAt": "2017-04-01T23:53:16.000Z",
+    "updatedAt": "2017-10-23T04:29:57.000Z",
+    "pushedAt": "2017-10-18T14:16:16.000Z",
     "gitUrl": "git://github.com/henryboldi/felony.git",
     "sshUrl": "git@github.com:henryboldi/felony.git",
     "cloneUrl": "https://github.com/henryboldi/felony.git",
     "svnUrl": "https://github.com/henryboldi/felony",
     "homepage": "https://felony.io/",
     "size": 3891,
-    "stargazersCount": 3327,
-    "watchersCount": 3327,
+    "stargazersCount": 3385,
+    "watchersCount": 3385,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 114,
+    "forksCount": 130,
     "mirrorUrl": null,
-    "openIssuesCount": 25,
-    "openIssues": 25,
-    "watchers": 3327,
+    "archived": false,
+    "openIssuesCount": 30,
+    "openIssues": 30,
+    "watchers": 3385,
     "defaultBranch": "master"
   },
-  "networkCount": 114,
+  "networkCount": 130,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "felony",
     "productName": "Felony",
     "version": "0.10.3",
-    "author": {
-      "name": "Henry Boldizsar",
-      "email": "henrymb67@gmail.com",
-      "url": "https://github.com/henryboldi"
-    },
     "description": "Felony makes sending encrypted messages anywhere easy.",
     "main": "main.js",
     "scripts": {
@@ -195,14 +192,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -302,6 +293,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Henry Boldizsar",
+        "email": "henrymb67@gmail.com",
+        "url": "https://github.com/henryboldi"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -350,6 +351,7 @@
   "svnUrl": "https://github.com/shaunstanislaus/felony",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:33:47.958Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:00.080Z"
+  "lastFetchedAt": "2017-10-23T17:28:48.082Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:00.080Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "vuanhhaogk",
     "id": 18142759,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18142759?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18142759?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vuanhhaogk",
     "htmlUrl": "https://github.com/vuanhhaogk",
@@ -20,17 +20,17 @@
   "description": "A small watch app in desktop",
   "fork": false,
   "createdAt": "2016-08-02T01:10:22.000Z",
-  "updatedAt": "2016-08-03T14:24:02.000Z",
-  "pushedAt": "2016-08-06T14:35:32.000Z",
+  "updatedAt": "2017-06-30T02:30:46.000Z",
+  "pushedAt": "2017-06-30T02:30:45.000Z",
   "homepage": null,
-  "size": 1825,
+  "size": 1821,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
-  "hasPages": false,
+  "hasPages": true,
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -54,10 +54,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vuanhhaogk/Watch.git"
-    },
+    "repository": "https://github.com/vuanhhaogk/Watch",
     "keywords": [
       "Watch",
       "HTML5",
@@ -67,14 +64,16 @@
       "ElectronJS",
       "AngularJS"
     ],
-    "author": "Vu Anh Hao <vuanhhaogk@gmail.com> (https://vuanhhaogk.github.io)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vuanhhaogk/Watch/issues"
-    },
     "homepage": "https://github.com/vuanhhaogk/Watch#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Vu Anh Hao <vuanhhaogk@gmail.com> (https://vuanhhaogk.github.io)",
+      "bugs": {
+        "url": "https://github.com/vuanhhaogk/Watch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "vuanhhaogk___Watch.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:16:12.397Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:26.603Z"
+  "lastFetchedAt": "2017-10-23T19:30:00.241Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:26.603Z",
+  "archived": false
 }

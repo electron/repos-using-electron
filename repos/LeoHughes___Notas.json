@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Notas",
     "version": "1.0.0",
@@ -83,12 +83,14 @@
       "Electron",
       "Notas"
     ],
-    "author": "zhangh",
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^1.0.2",
       "lodash": "^4.13.1",
       "lowdb": "^0.13.0-beta-5"
+    },
+    "other": {
+      "author": "zhangh"
     }
   },
   "packageStatus": 200,
@@ -116,6 +118,6 @@
   },
   "filename": "LeoHughes___Notas.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:07:06.054Z",
+  "lastFetchedAt": "2017-10-23T17:41:23.177Z",
   "packageLastFetchedAt": "2017-05-04T22:55:29.852Z"
 }

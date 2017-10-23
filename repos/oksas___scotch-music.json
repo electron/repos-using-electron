@@ -5,7 +5,7 @@
   "owner": {
     "login": "oksas",
     "id": 13337954,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13337954?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13337954?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/oksas",
     "htmlUrl": "https://github.com/oksas",
@@ -77,15 +77,8 @@
       "build": "webpack",
       "watch": "webpack-dev-server --hot --inline"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/oksas/scotch-music.git"
-    },
-    "author": "John Oksasoglu",
+    "repository": "https://github.com/oksas/scotch-music",
     "license": "Unlicense",
-    "bugs": {
-      "url": "https://github.com/oksas/scotch-music/issues"
-    },
     "homepage": "https://github.com/oksas/scotch-music#readme",
     "eslintConfig": {
       "parserOptions": {
@@ -124,6 +117,12 @@
       "style-loader": "^0.13.1",
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "John Oksasoglu",
+      "bugs": {
+        "url": "https://github.com/oksas/scotch-music/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "oksas___scotch-music.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:47.031Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:16.403Z"
+  "lastFetchedAt": "2017-10-23T19:29:04.430Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:16.403Z",
+  "archived": false
 }

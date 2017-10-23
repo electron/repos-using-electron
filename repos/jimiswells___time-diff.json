@@ -6,7 +6,7 @@
   "owner": {
     "login": "jimiswells",
     "id": 7958596,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7958596?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7958596?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jimiswells",
     "htmlUrl": "https://github.com/jimiswells",
@@ -74,21 +74,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lukehefson/time-diff"
-    },
+    "repository": "https://github.com/lukehefson/time-diff",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Luke Hefson",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/lukehefson/time-diff/issues"
-    },
     "homepage": "https://github.com/lukehefson/time-diff#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -96,6 +89,12 @@
     "dependencies": {
       "moment": "^2.14.1",
       "moment-timezone": "^0.5.5"
+    },
+    "other": {
+      "author": "Luke Hefson",
+      "bugs": {
+        "url": "https://github.com/lukehefson/time-diff/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:27:44.522Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:42.643Z"
+  "lastFetchedAt": "2017-10-23T18:22:05.663Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:42.643Z",
+  "archived": false
 }

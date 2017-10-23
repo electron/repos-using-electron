@@ -164,7 +164,7 @@
   },
   "networkCount": 80,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "betwixt",
     "version": "0.0.0",
@@ -174,19 +174,12 @@
       "start": "electron main.js",
       "test": "jshint main.js lib/ && jscs main.js lib/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kdzwinel/betwixt.git"
-    },
+    "repository": "https://github.com/kdzwinel/betwixt",
     "keywords": [
       "traffic",
       "proxy"
     ],
-    "author": "Konrad Dzwinel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kdzwinel/betwixt/issues"
-    },
     "homepage": "https://github.com/kdzwinel/betwixt",
     "dependencies": {
       "agentkeepalive": "^2.0.3",
@@ -200,7 +193,13 @@
       "jscs": "^2.6.0",
       "jshint": "^2.8.0"
     },
-    "engine": "node >= 5.0.0"
+    "engine": "node >= 5.0.0",
+    "other": {
+      "author": "Konrad Dzwinel",
+      "bugs": {
+        "url": "https://github.com/kdzwinel/betwixt/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/shitfSign/betwixt",
@@ -248,6 +247,6 @@
   "filename": "shitfSign___betwixt.json",
   "sourceRepo": "kdzwinel/betwixt",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:20.211Z",
+  "lastFetchedAt": "2017-10-23T18:28:30.755Z",
   "packageLastFetchedAt": "2017-05-05T17:51:48.855Z"
 }

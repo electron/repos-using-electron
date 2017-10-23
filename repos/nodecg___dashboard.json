@@ -5,7 +5,7 @@
   "owner": {
     "login": "nodecg",
     "id": 7779117,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7779117?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7779117?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nodecg",
     "htmlUrl": "https://github.com/nodecg",
@@ -20,21 +20,21 @@
   "description": "A standalone application for viewing a NodeCG Dashboard.",
   "fork": false,
   "createdAt": "2016-04-15T05:34:48.000Z",
-  "updatedAt": "2017-03-30T09:11:57.000Z",
-  "pushedAt": "2017-05-02T10:21:43.000Z",
+  "updatedAt": "2017-08-12T07:30:17.000Z",
+  "pushedAt": "2017-10-23T16:27:45.000Z",
   "homepage": null,
-  "size": 754,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 767,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 1,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 6,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nodecg",
     "id": 7779117,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7779117?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7779117?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nodecg",
     "htmlUrl": "https://github.com/nodecg",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 1,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "nodecg-dashboard",
@@ -77,11 +77,7 @@
       "eslint-config-xo": "^0.18.0",
       "eslint-plugin-babel": "^4.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nodecg/dashboard.git"
-    },
-    "author": "Alex Van Camp <email@alexvan.camp>",
+    "repository": "https://github.com/nodecg/dashboard",
     "build": {
       "appId": "org.nodecg.dashboard",
       "productName": "NodeCG Dashboard",
@@ -120,6 +116,9 @@
       "ignore": [
         "electron-prebuilt"
       ]
+    },
+    "other": {
+      "author": "Alex Van Camp <email@alexvan.camp>"
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   "svnUrl": "https://github.com/nodecg/dashboard",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:12:03.653Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:08.365Z"
+  "lastFetchedAt": "2017-10-23T20:11:40.389Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:08.365Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Hypercubed",
     "id": 509946,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/509946?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/509946?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Hypercubed",
     "htmlUrl": "https://github.com/Hypercubed",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "logicalparadox",
       "id": 58988,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/58988?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/58988?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/logicalparadox",
       "htmlUrl": "https://github.com/logicalparadox",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/logicalparadox/matcha/downloads",
     "deploymentsUrl": "https://api.github.com/repos/logicalparadox/matcha/deployments",
     "createdAt": "2011-12-05T08:35:33.000Z",
-    "updatedAt": "2017-05-04T08:14:40.000Z",
+    "updatedAt": "2017-10-21T02:21:02.000Z",
     "pushedAt": "2017-03-19T10:26:53.000Z",
     "gitUrl": "git://github.com/logicalparadox/matcha.git",
     "sshUrl": "git@github.com:logicalparadox/matcha.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/logicalparadox/matcha",
     "homepage": "",
     "size": 98,
-    "stargazersCount": 433,
-    "watchersCount": 433,
+    "stargazersCount": 457,
+    "watchersCount": 457,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 23,
+    "forksCount": 24,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 15,
     "openIssues": 15,
-    "watchers": 433,
+    "watchers": 457,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "logicalparadox",
       "id": 58988,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/58988?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/58988?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/logicalparadox",
       "htmlUrl": "https://github.com/logicalparadox",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/logicalparadox/matcha/downloads",
     "deploymentsUrl": "https://api.github.com/repos/logicalparadox/matcha/deployments",
     "createdAt": "2011-12-05T08:35:33.000Z",
-    "updatedAt": "2017-05-04T08:14:40.000Z",
+    "updatedAt": "2017-10-21T02:21:02.000Z",
     "pushedAt": "2017-03-19T10:26:53.000Z",
     "gitUrl": "git://github.com/logicalparadox/matcha.git",
     "sshUrl": "git@github.com:logicalparadox/matcha.git",
@@ -147,26 +148,26 @@
     "svnUrl": "https://github.com/logicalparadox/matcha",
     "homepage": "",
     "size": 98,
-    "stargazersCount": 433,
-    "watchersCount": 433,
+    "stargazersCount": 457,
+    "watchersCount": 457,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 23,
+    "forksCount": 24,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 15,
     "openIssues": 15,
-    "watchers": 433,
+    "watchers": 457,
     "defaultBranch": "master"
   },
-  "networkCount": 23,
+  "networkCount": 24,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
-    "author": "Jake Luer <jake@alogicalparadox.com>",
     "name": "matcha",
     "description": "Benchmark your code.",
     "keyword": [
@@ -175,10 +176,7 @@
       "performance"
     ],
     "version": "0.7.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/logicalparadox/matcha.git"
-    },
+    "repository": "https://github.com/logicalparadox/matcha",
     "main": "index",
     "bin": {
       "matcha": "./bin/matcha",
@@ -192,7 +190,10 @@
       "electron": "0.4.x",
       "v8-argv": "0.1.x"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "Jake Luer <jake@alogicalparadox.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -240,6 +241,7 @@
   "svnUrl": "https://github.com/Hypercubed/matcha",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:57:16.694Z",
-  "packageLastFetchedAt": "2017-05-05T14:47:57.007Z"
+  "lastFetchedAt": "2017-10-23T20:20:59.616Z",
+  "packageLastFetchedAt": "2017-05-05T14:47:57.007Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "spier27",
     "id": 8727443,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8727443?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8727443?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/spier27",
     "htmlUrl": "https://github.com/spier27",
@@ -74,17 +74,13 @@
       "start": "electron main.js ",
       "install": "bower install"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/spier27/mirror.git"
-    },
+    "repository": "https://github.com/spier27/mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Michael Spier",
     "license": "UNLICENSED",
     "homepage": "https://github.com/spier27/mirror",
     "devDependencies": {
@@ -95,6 +91,9 @@
     },
     "dependencies": {
       "express": "^4.13.4"
+    },
+    "other": {
+      "author": "Michael Spier"
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "spier27___mirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:22:43.291Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:43.872Z"
+  "lastFetchedAt": "2017-10-23T20:24:26.897Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:43.872Z",
+  "archived": false
 }

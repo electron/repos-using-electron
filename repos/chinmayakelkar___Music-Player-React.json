@@ -5,7 +5,7 @@
   "owner": {
     "login": "chinmayakelkar",
     "id": 14000330,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14000330?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14000330?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chinmayakelkar",
     "htmlUrl": "https://github.com/chinmayakelkar",
@@ -75,19 +75,12 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chinmayakelkar/Music-Player-React.git%22.git"
-    },
+    "repository": "https://github.com/chinmayakelkar/Music-Player-React",
     "keywords": [
       "react",
       "music"
     ],
-    "author": "Chinmaya S. Kelkar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chinmayakelkar/Music-Player-React.git%22/issues"
-    },
     "homepage": "https://github.com/chinmayakelkar/Music-Player-React.git%22#readme",
     "dependencies": {
       "axios": "^0.9.1",
@@ -103,6 +96,12 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "Chinmaya S. Kelkar",
+      "bugs": {
+        "url": "https://github.com/chinmayakelkar/Music-Player-React.git%22/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "chinmayakelkar___Music-Player-React.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:37:32.642Z",
-  "packageLastFetchedAt": "2017-05-05T14:52:51.584Z"
+  "lastFetchedAt": "2017-10-23T18:46:17.785Z",
+  "packageLastFetchedAt": "2017-05-05T14:52:51.584Z",
+  "archived": false
 }

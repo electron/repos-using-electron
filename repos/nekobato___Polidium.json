@@ -5,7 +5,7 @@
   "owner": {
     "login": "nekobato",
     "id": 861170,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/861170?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/861170?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nekobato",
     "htmlUrl": "https://github.com/nekobato",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/nekobato/Polidium/deployments",
   "createdAt": "2015-12-06T05:57:12.000Z",
   "updatedAt": "2017-03-04T10:48:18.000Z",
-  "pushedAt": "2017-03-19T17:44:11.000Z",
+  "pushedAt": "2017-10-02T13:42:19.000Z",
   "gitUrl": "git://github.com/nekobato/Polidium.git",
   "sshUrl": "git@github.com:nekobato/Polidium.git",
   "cloneUrl": "https://github.com/nekobato/Polidium.git",
   "svnUrl": "https://github.com/nekobato/Polidium",
   "homepage": "",
-  "size": 121861,
+  "size": 121866,
   "stargazersCount": 16,
   "watchersCount": 16,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": true,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
+  "openIssuesCount": 5,
+  "openIssues": 5,
   "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
@@ -114,15 +114,8 @@
         "target": "default"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nekobato/Polidium.git"
-    },
+    "repository": "https://github.com/nekobato/Polidium",
     "keywords": [],
-    "author": "nekobato",
-    "bugs": {
-      "url": "https://github.com/nekobato/Polidium/issues"
-    },
     "homepage": "https://github.com/nekobato/Polidium",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -165,6 +158,12 @@
     },
     "dependencies": {
       "xss": "^0.3.3"
+    },
+    "other": {
+      "author": "nekobato",
+      "bugs": {
+        "url": "https://github.com/nekobato/Polidium/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -192,6 +191,7 @@
   },
   "filename": "nekobato___Polidium.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:17.162Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:55.989Z"
+  "lastFetchedAt": "2017-10-23T20:24:31.836Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:55.989Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nguyenDalex",
     "id": 2930965,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2930965?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2930965?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nguyenDalex",
     "htmlUrl": "https://github.com/nguyenDalex",
@@ -78,11 +78,6 @@
     "description": "My fantastic app",
     "license": "MIT",
     "repository": "dattran/ebg",
-    "author": {
-      "name": "Nguyen, Dat",
-      "email": "Dat.Nguyen@nordstrom.com",
-      "url": "nordstrom.com"
-    },
     "engines": {
       "node": ">=4"
     },
@@ -131,7 +126,14 @@
       "wiredep": "^2.2.2",
       "xo": "^0.10.0"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": {
+        "name": "Nguyen, Dat",
+        "email": "Dat.Nguyen@nordstrom.com",
+        "url": "nordstrom.com"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -158,6 +160,7 @@
   },
   "filename": "nguyenDalex___ebg.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:17.228Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:27.745Z"
+  "lastFetchedAt": "2017-10-23T19:09:33.719Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:27.745Z",
+  "archived": false
 }

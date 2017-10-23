@@ -5,7 +5,7 @@
   "owner": {
     "login": "omarfouad",
     "id": 693696,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/693696?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/693696?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/omarfouad",
     "htmlUrl": "https://github.com/omarfouad",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/omarfouad/vue-electron-starter/downloads",
   "deploymentsUrl": "https://api.github.com/repos/omarfouad/vue-electron-starter/deployments",
   "createdAt": "2016-08-01T00:28:47.000Z",
-  "updatedAt": "2017-04-08T07:35:24.000Z",
+  "updatedAt": "2017-05-18T15:39:30.000Z",
   "pushedAt": "2016-08-01T00:31:08.000Z",
   "gitUrl": "git://github.com/omarfouad/vue-electron-starter.git",
   "sshUrl": "git@github.com:omarfouad/vue-electron-starter.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/omarfouad/vue-electron-starter",
   "homepage": null,
   "size": 232,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -75,7 +75,6 @@
       "start": "electron main.js",
       "build": "electron-packager . --platform=darwin,linux,win32 --arch=x64 --asar --overwrite --out=dist/publish/ --ignore=node_modules/ --ignore=node_modules/dist/publish/"
     },
-    "author": "",
     "license": "ISC",
     "devDependencies": {
       "babel-core": "^6.10.4",
@@ -101,6 +100,9 @@
       "transform": [
         "babelify"
       ]
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -128,6 +130,7 @@
   },
   "filename": "omarfouad___vue-electron-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:08.558Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:23.948Z"
+  "lastFetchedAt": "2017-10-23T18:26:59.180Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:23.948Z",
+  "archived": false
 }

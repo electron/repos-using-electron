@@ -5,7 +5,7 @@
   "owner": {
     "login": "jermane",
     "id": 14199545,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14199545?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14199545?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jermane",
     "htmlUrl": "https://github.com/jermane",
@@ -70,16 +70,12 @@
     "productName": "Jerm Player",
     "version": "1.0.0",
     "description": "Music player desktop app",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jermane/MusicPlayerApp-React.git"
-    },
+    "repository": "https://github.com/jermane/MusicPlayerApp-React",
     "main": "main.js",
     "scripts": {
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "author": "Jermain Joseph",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -98,6 +94,9 @@
     },
     "devDependencies": {
       "electron": "^1.4.4"
+    },
+    "other": {
+      "author": "Jermain Joseph"
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "jermane___MusicPlayerApp-React.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:59:04.599Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:19.404Z"
+  "lastFetchedAt": "2017-10-23T17:45:27.573Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:19.404Z",
+  "archived": false
 }

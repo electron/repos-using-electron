@@ -5,7 +5,7 @@
   "owner": {
     "login": "prattta1",
     "id": 23215159,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/23215159?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/23215159?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prattta1",
     "htmlUrl": "https://github.com/prattta1",
@@ -87,20 +87,13 @@
       "deploy:win32-ia32": "bash ./deploy.sh --win32-ia32",
       "deploy:darwin-x64": "bash ./deploy.sh --darwin-x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yakyak/yakyak"
-    },
+    "repository": "https://github.com/yakyak/yakyak",
     "keywords": [
       "hangouts",
       "chat",
       "client"
     ],
-    "author": "Martin Algesten",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/yakyak/yakyak/issues"
-    },
     "homepage": "https://github.com/yakyak/yakyak",
     "dependencies": {
       "autosize": "^3.0.8",
@@ -132,6 +125,12 @@
       "rimraf": "^2.4.2",
       "sinon": "^1.15.4",
       "sinon-chai": "^2.8.0"
+    },
+    "other": {
+      "author": "Martin Algesten",
+      "bugs": {
+        "url": "https://github.com/yakyak/yakyak/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "prattta1___yakyak-master.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:13.727Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:07.966Z"
+  "lastFetchedAt": "2017-10-23T20:56:34.188Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:07.966Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "gengjiawen",
     "id": 3759816,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3759816?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3759816?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gengjiawen",
     "htmlUrl": "https://github.com/gengjiawen",
@@ -81,23 +81,13 @@
       "linux-deb": "build --linux deb",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gengjiawen/AsciidoctorRender.git"
-    },
+    "repository": "https://github.com/gengjiawen/AsciidoctorRender",
     "keywords": [
       "asciidoctor",
       "render",
       "realtime"
     ],
-    "author": {
-      "name": "Daniel Geng",
-      "email": "technicalcute@gmail.com"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gengjiawen/AsciidoctorRender/issues"
-    },
     "build": {
       "appId": "your.id",
       "app-category-type": "your.app.category.type",
@@ -109,6 +99,15 @@
       "electron-packager": "^8.0.0",
       "electron-prebuilt": "^1.4.0",
       "electron-builder": "^6.7.6"
+    },
+    "other": {
+      "author": {
+        "name": "Daniel Geng",
+        "email": "technicalcute@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/gengjiawen/AsciidoctorRender/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "gengjiawen___AsciidoctorRender.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:58.828Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:08.274Z"
+  "lastFetchedAt": "2017-10-23T20:24:20.831Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:08.274Z",
+  "archived": false
 }

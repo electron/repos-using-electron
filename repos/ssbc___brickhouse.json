@@ -5,7 +5,7 @@
   "owner": {
     "login": "ssbc",
     "id": 10190339,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10190339?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10190339?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ssbc",
     "htmlUrl": "https://github.com/ssbc",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 6,
   "openIssues": 6,
   "watchers": 4,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "ssbc",
     "id": 10190339,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10190339?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10190339?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ssbc",
     "htmlUrl": "https://github.com/ssbc",
@@ -56,8 +56,8 @@
     "receivedEventsUrl": "https://api.github.com/users/ssbc/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
-  "subscribersCount": 8,
+  "networkCount": 1,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "brickhouse",
@@ -78,7 +78,6 @@
       "pack:osx": "electron-builder \"dist/osx/Scuttlebot.app\" --platform=osx --out=\"dist/osx\" --config=packager.json",
       "pack:win": "electron-builder \"dist/win/Scuttlebot-win32\" --platform=win --out=\"dist/win\" --config=packager.json"
     },
-    "author": "Paul Frazee <pfrazee@gmail.com>",
     "license": "?",
     "devDependencies": {
       "electron-builder": "^2.0.0",
@@ -99,6 +98,9 @@
       "ssb-keys": "^4.0.3",
       "ssb-ref": "^2.2.1",
       "stream-to-pull-stream": "^1.6.1"
+    },
+    "other": {
+      "author": "Paul Frazee <pfrazee@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -146,6 +148,7 @@
   "svnUrl": "https://github.com/ssbc/brickhouse",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:13:10.971Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:12.684Z"
+  "lastFetchedAt": "2017-10-23T18:54:38.085Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:12.684Z",
+  "archived": false
 }

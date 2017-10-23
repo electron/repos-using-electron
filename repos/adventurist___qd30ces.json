@@ -5,7 +5,7 @@
   "owner": {
     "login": "adventurist",
     "id": 13825303,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13825303?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13825303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/adventurist",
     "htmlUrl": "https://github.com/adventurist",
@@ -77,14 +77,6 @@
     "description": "Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.",
     "homepage": "http://cesiumjs.org",
     "license": "Apache-2.0",
-    "author": {
-      "name": "Analytical Graphics, Inc.",
-      "url": "http://www.agi.com"
-    },
-    "contributors": {
-      "name": "Cesium community",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
-    },
     "keywords": [
       "3D",
       "webgl",
@@ -92,14 +84,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -170,6 +155,20 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "author": {
+        "name": "Analytical Graphics, Inc.",
+        "url": "http://www.agi.com"
+      },
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      },
+      "contributors": {
+        "name": "Cesium community",
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,7 @@
   },
   "filename": "adventurist___qd30ces.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:14:02.684Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:16.201Z"
+  "lastFetchedAt": "2017-10-23T20:24:17.820Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:16.201Z",
+  "archived": false
 }

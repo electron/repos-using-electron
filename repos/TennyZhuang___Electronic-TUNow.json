@@ -5,7 +5,7 @@
   "owner": {
     "login": "TennyZhuang",
     "id": 9161438,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9161438?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9161438?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TennyZhuang",
     "htmlUrl": "https://github.com/TennyZhuang",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/TennyZhuang/Electronic-TUNow/deployments",
   "createdAt": "2016-07-05T16:23:03.000Z",
   "updatedAt": "2016-11-10T13:39:12.000Z",
-  "pushedAt": "2016-11-10T13:39:11.000Z",
+  "pushedAt": "2017-09-10T07:17:50.000Z",
   "gitUrl": "git://github.com/TennyZhuang/Electronic-TUNow.git",
   "sshUrl": "git@github.com:TennyZhuang/Electronic-TUNow.git",
   "cloneUrl": "https://github.com/TennyZhuang/Electronic-TUNow.git",
   "svnUrl": "https://github.com/TennyZhuang/Electronic-TUNow",
   "homepage": null,
-  "size": 704,
+  "size": 828,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -87,7 +87,6 @@
       "vuex:module": "node tasks/vuex/module.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -142,7 +141,10 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -169,6 +171,7 @@
   },
   "filename": "TennyZhuang___Electronic-TUNow.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:23.671Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:36.142Z"
+  "lastFetchedAt": "2017-10-23T17:18:15.664Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:36.142Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "robertmylne",
     "id": 10385217,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10385217?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10385217?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robertmylne",
     "htmlUrl": "https://github.com/robertmylne",
@@ -81,21 +81,14 @@
       "build-css": "node-sass --include-path scss scss/app.scss   css/app.css",
       "watch-css": "nodemon -e scss -x \"npm run build-css\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4",
@@ -108,6 +101,12 @@
     "dependencies": {
       "materialize-css": "^0.97.7",
       "vue": "^1.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "robertmylne___software-engineering.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:18:55.699Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:28.744Z"
+  "lastFetchedAt": "2017-10-23T19:21:06.091Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:28.744Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "LukeCarrier",
     "id": 597015,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/597015?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/597015?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LukeCarrier",
     "htmlUrl": "https://github.com/LukeCarrier",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "francoislaberge",
       "id": 1845,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1845?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1845?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/francoislaberge",
       "htmlUrl": "https://github.com/francoislaberge",
@@ -99,27 +99,28 @@
     "downloadsUrl": "https://api.github.com/repos/francoislaberge/diagrams/downloads",
     "deploymentsUrl": "https://api.github.com/repos/francoislaberge/diagrams/deployments",
     "createdAt": "2015-10-09T02:16:28.000Z",
-    "updatedAt": "2017-04-27T18:51:46.000Z",
-    "pushedAt": "2017-01-22T18:56:53.000Z",
+    "updatedAt": "2017-10-22T06:26:43.000Z",
+    "pushedAt": "2017-09-15T17:47:15.000Z",
     "gitUrl": "git://github.com/francoislaberge/diagrams.git",
     "sshUrl": "git@github.com:francoislaberge/diagrams.git",
     "cloneUrl": "https://github.com/francoislaberge/diagrams.git",
     "svnUrl": "https://github.com/francoislaberge/diagrams",
-    "homepage": "https://atom.io/packages/diagrams",
-    "size": 749,
-    "stargazersCount": 114,
-    "watchersCount": 114,
+    "homepage": "",
+    "size": 802,
+    "stargazersCount": 184,
+    "watchersCount": 184,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 7,
+    "forksCount": 11,
     "mirrorUrl": null,
-    "openIssuesCount": 1,
-    "openIssues": 1,
-    "watchers": 114,
+    "archived": false,
+    "openIssuesCount": 0,
+    "openIssues": 0,
+    "watchers": 184,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "francoislaberge",
       "id": 1845,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1845?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1845?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/francoislaberge",
       "htmlUrl": "https://github.com/francoislaberge",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/francoislaberge/diagrams/downloads",
     "deploymentsUrl": "https://api.github.com/repos/francoislaberge/diagrams/deployments",
     "createdAt": "2015-10-09T02:16:28.000Z",
-    "updatedAt": "2017-04-27T18:51:46.000Z",
-    "pushedAt": "2017-01-22T18:56:53.000Z",
+    "updatedAt": "2017-10-22T06:26:43.000Z",
+    "pushedAt": "2017-09-15T17:47:15.000Z",
     "gitUrl": "git://github.com/francoislaberge/diagrams.git",
     "sshUrl": "git@github.com:francoislaberge/diagrams.git",
     "cloneUrl": "https://github.com/francoislaberge/diagrams.git",
     "svnUrl": "https://github.com/francoislaberge/diagrams",
-    "homepage": "https://atom.io/packages/diagrams",
-    "size": 749,
-    "stargazersCount": 114,
-    "watchersCount": 114,
+    "homepage": "",
+    "size": 802,
+    "stargazersCount": 184,
+    "watchersCount": 184,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 7,
+    "forksCount": 11,
     "mirrorUrl": null,
-    "openIssuesCount": 1,
-    "openIssues": 1,
-    "watchers": 114,
+    "archived": false,
+    "openIssuesCount": 0,
+    "openIssues": 0,
+    "watchers": 184,
     "defaultBranch": "master"
   },
-  "networkCount": 7,
+  "networkCount": 11,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -202,14 +204,7 @@
       "railroad-diagrams": "1.0.0",
       "viz.js": "^1.3.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/francoislaberge/diagrams"
-    },
-    "bugs": {
-      "url": "https://github.com/francoislaberge/diagrams/issues"
-    },
-    "author": "Francois Laberge <francoislaberge@gmail.com>",
+    "repository": "https://github.com/francoislaberge/diagrams",
     "license": "MIT",
     "keywords": [
       "flowchart",
@@ -222,7 +217,13 @@
       "visualization",
       "system",
       "design"
-    ]
+    ],
+    "other": {
+      "author": "Francois Laberge <francoislaberge@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/francoislaberge/diagrams/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -250,6 +251,7 @@
   "filename": "LukeCarrier___diagrams.json",
   "sourceRepo": "francoislaberge/diagrams",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:01:39.626Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:00.998Z"
+  "lastFetchedAt": "2017-10-23T18:46:08.272Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:00.998Z",
+  "archived": false
 }

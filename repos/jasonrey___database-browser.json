@@ -5,7 +5,7 @@
   "owner": {
     "login": "jasonrey",
     "id": 1456906,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1456906?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1456906?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jasonrey",
     "htmlUrl": "https://github.com/jasonrey",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/jasonrey/database-browser/deployments",
   "createdAt": "2016-06-26T16:16:55.000Z",
   "updatedAt": "2016-07-12T02:45:42.000Z",
-  "pushedAt": "2016-07-15T09:13:06.000Z",
+  "pushedAt": "2017-08-25T10:10:02.000Z",
   "gitUrl": "git://github.com/jasonrey/database-browser.git",
   "sshUrl": "git@github.com:jasonrey/database-browser.git",
   "cloneUrl": "https://github.com/jasonrey/database-browser.git",
   "svnUrl": "https://github.com/jasonrey/database-browser",
   "homepage": null,
-  "size": 670,
+  "size": 815,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -92,19 +92,18 @@
       "build:mac": "electron-packager ./app --platform=darwin --arch=x64 --prune --app-version=$APPVERSION --icon=./build/icon.icns --overwrite --out=./dist",
       "build:linux": "electron-packager ./app --platform=linux --arch=x64 --prune --app-version=$APPVERSION --icon=./build/icon.icns --overwrite --out=./dist"
     },
-    "author": "JSON object <jsonobject@outlook.com>",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jasonrey/database-browser.git"
-    },
-    "bugs": {
-      "url": "https://github.com/jasonrey/database-browser/issues"
-    },
+    "repository": "https://github.com/jasonrey/database-browser",
     "description": "MySQL Database Browser",
     "build": {
       "appId": "com.electron.database-browser",
       "asar": false,
       "productName": "database-browser"
+    },
+    "other": {
+      "author": "JSON object <jsonobject@outlook.com>",
+      "bugs": {
+        "url": "https://github.com/jasonrey/database-browser/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "jasonrey___database-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:10.822Z",
-  "packageLastFetchedAt": "2017-05-04T22:23:33.366Z"
+  "lastFetchedAt": "2017-10-23T20:50:08.557Z",
+  "packageLastFetchedAt": "2017-05-04T22:23:33.366Z",
+  "archived": false
 }

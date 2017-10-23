@@ -5,7 +5,7 @@
   "owner": {
     "login": "mufid",
     "id": 430505,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/430505?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/430505?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mufid",
     "htmlUrl": "https://github.com/mufid",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for cirnogit goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -107,7 +102,14 @@
       "ember-export-application-global": "^1.0.4",
       "ember-resolver": "^2.0.3"
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +136,7 @@
   },
   "filename": "mufid___cirnogit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:26:45.330Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:53.709Z"
+  "lastFetchedAt": "2017-10-23T19:02:22.894Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:53.709Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/rhysd/electron-open-url/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rhysd/electron-open-url/deployments",
   "createdAt": "2016-11-12T10:57:27.000Z",
-  "updatedAt": "2017-02-19T21:22:38.000Z",
+  "updatedAt": "2017-06-29T14:21:44.000Z",
   "pushedAt": "2017-02-15T07:01:12.000Z",
   "gitUrl": "git://github.com/rhysd/electron-open-url.git",
   "sshUrl": "git@github.com:rhysd/electron-open-url.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/rhysd/electron-open-url",
   "homepage": null,
   "size": 18,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -83,10 +83,7 @@
       "lint": "eslint app/*.js *.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/electron-open.git"
-    },
+    "repository": "https://github.com/rhysd/electron-open",
     "keywords": [
       "electron",
       "open",
@@ -94,11 +91,7 @@
       "gui",
       "window"
     ],
-    "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rhysd/electron-open/issues"
-    },
     "homepage": "https://github.com/rhysd/electron-open#readme",
     "dependencies": {
       "open": "0.0.5"
@@ -108,6 +101,12 @@
     },
     "devDependencies": {
       "eslint": "^3.15.0"
+    },
+    "other": {
+      "author": "rhysd <lin90162@yahoo.co.jp>",
+      "bugs": {
+        "url": "https://github.com/rhysd/electron-open/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "rhysd___electron-open-url.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:02.432Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:09.377Z"
+  "lastFetchedAt": "2017-10-23T18:51:14.736Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:09.377Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "3-strand-code",
     "id": 11792376,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11792376?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11792376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/3-strand-code",
     "htmlUrl": "https://github.com/3-strand-code",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "3-strand-code",
     "id": 11792376,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11792376?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11792376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/3-strand-code",
     "htmlUrl": "https://github.com/3-strand-code",
@@ -89,19 +89,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/3-strand-code/3sc-desktop.git"
-    },
-    "author": {
-      "name": "Levi Thomason",
-      "email": "levi@3strandcode.com",
-      "url": "https://github.com/3-strand-code"
-    },
+    "repository": "https://github.com/3-strand-code/3sc-desktop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/3-strand-code/3sc-desktop/issues"
-    },
     "keywords": [
       "3SC",
       "3 Strand Code",
@@ -191,6 +180,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Levi Thomason",
+        "email": "levi@3strandcode.com",
+        "url": "https://github.com/3-strand-code"
+      },
+      "bugs": {
+        "url": "https://github.com/3-strand-code/3sc-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -238,6 +237,7 @@
   },
   "filename": "3-strand-code___3sc-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:14.105Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:37.981Z"
+  "lastFetchedAt": "2017-10-23T20:45:44.957Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:37.981Z",
+  "archived": false
 }

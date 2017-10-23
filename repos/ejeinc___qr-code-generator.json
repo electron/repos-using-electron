@@ -5,7 +5,7 @@
   "owner": {
     "login": "ejeinc",
     "id": 6880461,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6880461?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6880461?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ejeinc",
     "htmlUrl": "https://github.com/ejeinc",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "ejeinc",
     "id": 6880461,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6880461?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6880461?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ejeinc",
     "htmlUrl": "https://github.com/ejeinc",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/ejeinc/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -94,19 +94,12 @@
       "start": "electron main.js",
       "postinstall": "bower install"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ejeinc/qr-code-generator.git"
-    },
+    "repository": "https://github.com/ejeinc/qr-code-generator",
     "keywords": [
       "QR",
       "QRCode"
     ],
-    "author": "eje inc.",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ejeinc/qr-code-generator/issues"
-    },
     "homepage": "https://github.com/ejeinc/qr-code-generator",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -114,6 +107,12 @@
     },
     "dependencies": {
       "qr-image": "^3.1.0"
+    },
+    "other": {
+      "author": "eje inc.",
+      "bugs": {
+        "url": "https://github.com/ejeinc/qr-code-generator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "ejeinc___qr-code-generator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:08:21.634Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:21.762Z"
+  "lastFetchedAt": "2017-10-23T19:11:40.951Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:21.762Z",
+  "archived": false
 }

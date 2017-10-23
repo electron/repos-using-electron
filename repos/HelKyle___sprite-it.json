@@ -6,7 +6,7 @@
   "owner": {
     "login": "HelKyle",
     "id": 9882649,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9882649?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9882649?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HelKyle",
     "htmlUrl": "https://github.com/HelKyle",
@@ -51,7 +51,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -63,7 +63,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -75,7 +75,6 @@
       "start": "electron .",
       "build": "electron-packager ./ SpriteIt --platform=mas --arch=x64 --overwrite --ignore=node_modules/electron-* --ignore=node_modules/.bin --ignore=.git --icon=./assets/icons/app-icon.icns"
     },
-    "author": "helkylefighting@gmail.com",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^8.5.0"
@@ -85,6 +84,9 @@
       "gulp": "^3.9.1",
       "gulp.spritesmith": "^6.3.0",
       "handlebars": "^4.0.6"
+    },
+    "other": {
+      "author": "helkylefighting@gmail.com"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:55.091Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:50.526Z"
+  "lastFetchedAt": "2017-10-23T19:19:03.788Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:50.526Z",
+  "archived": false
 }

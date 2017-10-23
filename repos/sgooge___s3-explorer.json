@@ -5,7 +5,7 @@
   "owner": {
     "login": "sgooge",
     "id": 8838634,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8838634?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8838634?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sgooge",
     "htmlUrl": "https://github.com/sgooge",
@@ -75,7 +75,6 @@
       "dev": "webpack --config webpackDev.config.js",
       "prd": "webpack --config webpackPrd.config.js"
     },
-    "author": "Steven Googe",
     "license": "ISC",
     "dependencies": {
       "aws-sdk": "^2.6.12",
@@ -93,6 +92,9 @@
       "babel-preset-react": "^6.16.0",
       "webpack": "^1.13.3",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "author": "Steven Googe"
     }
   },
   "packageStatus": 200,
@@ -120,6 +122,7 @@
   },
   "filename": "sgooge___s3-explorer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:20.678Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:47.159Z"
+  "lastFetchedAt": "2017-10-23T20:26:49.103Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:47.159Z",
+  "archived": false
 }

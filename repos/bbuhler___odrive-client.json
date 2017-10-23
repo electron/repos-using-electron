@@ -7,7 +7,7 @@
   "owner": {
     "login": "bbuhler",
     "id": 2802675,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2802675?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2802675?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bbuhler",
     "htmlUrl": "https://github.com/bbuhler",
@@ -67,21 +67,14 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "lastFetchedAt": "2017-05-04T18:09:33.971Z",
+  "lastFetchedAt": "2017-10-23T18:38:01.378Z",
   "packageJSON": {
     "name": "odrive-client",
     "version": "1.0.0",
     "description": "NodeJS & electron based GUI for odrive-agent",
     "main": "index.js",
-    "author": "Benjamin Buhler",
     "license": "CC-BY-SA-4.0",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bbuhler/odrive-client.git"
-    },
-    "bugs": {
-      "url": "https://github.com/bbuhler/odrive-client/issues"
-    },
+    "repository": "https://github.com/bbuhler/odrive-client",
     "homepage": "https://github.com/bbuhler/odrive-client#readme",
     "keywords": [
       "odrive",
@@ -112,8 +105,15 @@
     },
     "engines": {
       "node": ">=6.0.0"
+    },
+    "other": {
+      "author": "Benjamin Buhler",
+      "bugs": {
+        "url": "https://github.com/bbuhler/odrive-client/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:25:44.769Z"
+  "packageLastFetchedAt": "2017-05-05T15:25:44.769Z",
+  "archived": false
 }

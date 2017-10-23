@@ -5,7 +5,7 @@
   "owner": {
     "login": "avanwinkle",
     "id": 5777240,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5777240?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5777240?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/avanwinkle",
     "htmlUrl": "https://github.com/avanwinkle",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/avanwinkle/synthea/downloads",
   "deploymentsUrl": "https://api.github.com/repos/avanwinkle/synthea/deployments",
   "createdAt": "2016-08-23T23:30:03.000Z",
-  "updatedAt": "2017-03-14T19:38:34.000Z",
-  "pushedAt": "2017-05-03T23:04:51.000Z",
+  "updatedAt": "2017-07-25T22:03:55.000Z",
+  "pushedAt": "2017-10-08T19:02:51.000Z",
   "gitUrl": "git://github.com/avanwinkle/synthea.git",
   "sshUrl": "git@github.com:avanwinkle/synthea.git",
   "cloneUrl": "https://github.com/avanwinkle/synthea.git",
   "svnUrl": "https://github.com/avanwinkle/synthea",
   "homepage": "https://avanwinkle.github.io/synthea/",
-  "size": 2122,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 2114,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,22 +69,15 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
-    "author": {
-      "name": "Anthony van Winkle",
-      "email": "synthea@anthonyvanwinkle.com"
-    },
     "description": "A Soundboard for Unscripted Theater",
     "license": "Apache-2.0",
     "main": "main.js",
     "name": "synthea",
     "productName": "Synthea",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/avanwinkle/synthea.git"
-    },
+    "repository": "https://github.com/avanwinkle/synthea",
     "version": "0.0.9",
     "dependencies": {
       "angular": "^1.5.8",
@@ -112,6 +105,12 @@
       "pack:osx": "electron-packager . $npm_package_productName --out=dist --platform=darwin --arch=x64 --icon=assets/synthea_icon_apple.icns --overwrite=true",
       "pack:win": "electron-packager . --out=dist --platform=win32 --arch=x64 --overwrite=true",
       "start": "electron ."
+    },
+    "other": {
+      "author": {
+        "name": "Anthony van Winkle",
+        "email": "synthea@anthonyvanwinkle.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "avanwinkle___synthea.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:55:18.501Z",
-  "packageLastFetchedAt": "2017-05-05T17:25:03.033Z"
+  "lastFetchedAt": "2017-10-23T18:40:56.688Z",
+  "packageLastFetchedAt": "2017-05-05T17:25:03.033Z",
+  "archived": false
 }

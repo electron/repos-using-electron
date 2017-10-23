@@ -5,7 +5,7 @@
   "owner": {
     "login": "circus-village",
     "id": 19355572,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19355572?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19355572?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/circus-village",
     "htmlUrl": "https://github.com/circus-village",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "circus-village",
     "id": 19355572,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19355572?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19355572?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/circus-village",
     "htmlUrl": "https://github.com/circus-village",
@@ -83,14 +83,10 @@
     "name": "circus-village-publisher",
     "version": "1.0.0",
     "description": "Circus village website publisher",
-    "author": "muji <noop@xpm.io>",
     "license": "MIT",
     "private": true,
     "homepage": "http://circus-village.com",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/circus-village/publisher.git"
-    },
+    "repository": "https://github.com/circus-village/publisher",
     "build": {
       "appId": "circus-village.com",
       "app-category-type": "public.app-category.developer-tools"
@@ -105,6 +101,9 @@
       "pack": "build",
       "dist": "build",
       "lint": "jshint app && jscs app"
+    },
+    "other": {
+      "author": "muji <noop@xpm.io>"
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "circus-village___publisher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:02.663Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:56.973Z"
+  "lastFetchedAt": "2017-10-23T17:19:34.830Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:56.973Z",
+  "archived": false
 }

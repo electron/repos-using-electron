@@ -5,7 +5,7 @@
   "owner": {
     "login": "copernicus-mogley",
     "id": 6251098,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6251098?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6251098?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/copernicus-mogley",
     "htmlUrl": "https://github.com/copernicus-mogley",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -83,30 +83,29 @@
       "appId": "com.alexandria.raw",
       "category": "public.app-category.entertainment"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/copernicus-mogley/alexandria-raw.git"
-    },
+    "repository": "https://github.com/copernicus-mogley/alexandria-raw",
     "keywords": [
       "Alexandria",
       "dloa",
       "decentralized",
       "media"
     ],
-    "author": {
-      "name": "Ryan Taylor",
-      "email": "ryan@9wizards.com"
-    },
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/copernicus-mogley/alexandria-raw/issues"
-    },
     "homepage": "https://github.com/copernicus-mogley/alexandria-raw#alexandria-raw",
     "devDependencies": {
       "electron": "^1.4.13"
     },
     "dependencies": {
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "author": {
+        "name": "Ryan Taylor",
+        "email": "ryan@9wizards.com"
+      },
+      "bugs": {
+        "url": "https://github.com/copernicus-mogley/alexandria-raw/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "copernicus-mogley___alexandria-raw.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:20.066Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:59.728Z"
+  "lastFetchedAt": "2017-10-23T17:45:25.583Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:59.728Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "force-node",
     "version": "1.0.0",
@@ -82,7 +82,6 @@
       "network",
       "tcp"
     ],
-    "author": "Jaynti Kanani",
     "license": "MIT",
     "dependencies": {
       "jquery": "^2.1.4",
@@ -96,6 +95,9 @@
       "gulp": "^3.9.0",
       "gulp-run": "^1.6.11",
       "gulp-util": "^3.0.6"
+    },
+    "other": {
+      "author": "Jaynti Kanani"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,6 @@
   },
   "filename": "jdkanani___force-node.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:09.421Z",
+  "lastFetchedAt": "2017-10-23T19:08:49.588Z",
   "packageLastFetchedAt": "2017-05-04T23:07:46.416Z"
 }

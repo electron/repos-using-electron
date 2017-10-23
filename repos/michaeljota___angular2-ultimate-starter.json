@@ -5,7 +5,7 @@
   "owner": {
     "login": "michaeljota",
     "id": 10507776,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10507776?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10507776?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/michaeljota",
     "htmlUrl": "https://github.com/michaeljota",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/michaeljota/angular2-ultimate-starter/downloads",
   "deploymentsUrl": "https://api.github.com/repos/michaeljota/angular2-ultimate-starter/deployments",
   "createdAt": "2016-11-06T23:41:34.000Z",
-  "updatedAt": "2017-03-12T09:53:26.000Z",
+  "updatedAt": "2017-07-04T02:58:08.000Z",
   "pushedAt": "2017-01-31T14:11:37.000Z",
   "gitUrl": "git://github.com/michaeljota/angular2-ultimate-starter.git",
   "sshUrl": "git@github.com:michaeljota/angular2-ultimate-starter.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/michaeljota/angular2-ultimate-starter",
   "homepage": "https://michaeljota.github.io/angular2-ultimate-starter/",
   "size": 2322,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 6,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -82,7 +82,6 @@
       "electron",
       "universal"
     ],
-    "author": "Michael De Abreu <michaeljota@outlook.com>",
     "homepage": "https://github.com/michaeljota/angular2-ultimate-starter",
     "license": "MIT",
     "scripts": {
@@ -230,16 +229,16 @@
       "webpack-md5-hash": "^0.0.5",
       "webpack-merge": "^0.14.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/michaeljota/angular2-ultimate-starter.git"
-    },
-    "bugs": {
-      "url": "https://github.com/michaeljota/angular2-ultimate-starter/issues"
-    },
+    "repository": "https://github.com/michaeljota/angular2-ultimate-starter",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "Michael De Abreu <michaeljota@outlook.com>",
+      "bugs": {
+        "url": "https://github.com/michaeljota/angular2-ultimate-starter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -267,6 +266,7 @@
   },
   "filename": "michaeljota___angular2-ultimate-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:01:35.585Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:12.882Z"
+  "lastFetchedAt": "2017-10-23T17:10:35.055Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:12.882Z",
+  "archived": false
 }

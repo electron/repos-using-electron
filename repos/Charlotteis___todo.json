@@ -1,26 +1,26 @@
 {
   "id": 61475880,
   "name": "todo",
-  "fullName": "Charlotteis/todo",
+  "fullName": "varjmes/todo",
   "owner": {
-    "login": "Charlotteis",
+    "login": "varjmes",
     "id": 542140,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/542140?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/542140?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/Charlotteis",
-    "htmlUrl": "https://github.com/Charlotteis",
-    "followersUrl": "https://api.github.com/users/Charlotteis/followers",
-    "subscriptionsUrl": "https://api.github.com/users/Charlotteis/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/Charlotteis/orgs",
-    "reposUrl": "https://api.github.com/users/Charlotteis/repos",
-    "receivedEventsUrl": "https://api.github.com/users/Charlotteis/received_events",
+    "url": "https://api.github.com/users/varjmes",
+    "htmlUrl": "https://github.com/varjmes",
+    "followersUrl": "https://api.github.com/users/varjmes/followers",
+    "subscriptionsUrl": "https://api.github.com/users/varjmes/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/varjmes/orgs",
+    "reposUrl": "https://api.github.com/users/varjmes/repos",
+    "receivedEventsUrl": "https://api.github.com/users/varjmes/received_events",
     "type": "User"
   },
   "private": false,
   "description": ":memo: A Todo App, built with Electron :memo:",
   "fork": false,
   "createdAt": "2016-06-19T10:53:10.000Z",
-  "updatedAt": "2017-02-09T04:15:24.000Z",
+  "updatedAt": "2017-09-25T14:23:39.000Z",
   "pushedAt": "2017-02-04T12:36:58.000Z",
   "homepage": "",
   "size": 39,
@@ -64,20 +64,13 @@
     "pre-commit": [
       "test"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Charlotteis/todo.git"
-    },
+    "repository": "https://github.com/Charlotteis/todo",
     "keywords": [
       "todo",
       "electron",
       "node"
     ],
-    "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Charlotteis/todo/issues"
-    },
     "homepage": "https://github.com/Charlotteis/todo#readme",
     "devDependencies": {
       "devtron": "^1.4.0",
@@ -93,28 +86,34 @@
     },
     "dependencies": {
       "electron-debug": "^1.1.0"
+    },
+    "other": {
+      "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/Charlotteis/todo/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/Charlotteis/todo",
-  "url": "https://api.github.com/repos/Charlotteis/todo",
-  "forksUrl": "https://api.github.com/repos/Charlotteis/todo/forks",
-  "teamsUrl": "https://api.github.com/repos/Charlotteis/todo/teams",
-  "hooksUrl": "https://api.github.com/repos/Charlotteis/todo/hooks",
-  "eventsUrl": "https://api.github.com/repos/Charlotteis/todo/events",
-  "tagsUrl": "https://api.github.com/repos/Charlotteis/todo/tags",
-  "languagesUrl": "https://api.github.com/repos/Charlotteis/todo/languages",
-  "stargazersUrl": "https://api.github.com/repos/Charlotteis/todo/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/Charlotteis/todo/contributors",
-  "subscribersUrl": "https://api.github.com/repos/Charlotteis/todo/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/Charlotteis/todo/subscription",
-  "mergesUrl": "https://api.github.com/repos/Charlotteis/todo/merges",
-  "downloadsUrl": "https://api.github.com/repos/Charlotteis/todo/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/Charlotteis/todo/deployments",
-  "gitUrl": "git://github.com/Charlotteis/todo.git",
-  "sshUrl": "git@github.com:Charlotteis/todo.git",
-  "cloneUrl": "https://github.com/Charlotteis/todo.git",
-  "svnUrl": "https://github.com/Charlotteis/todo",
+  "htmlUrl": "https://github.com/varjmes/todo",
+  "url": "https://api.github.com/repos/varjmes/todo",
+  "forksUrl": "https://api.github.com/repos/varjmes/todo/forks",
+  "teamsUrl": "https://api.github.com/repos/varjmes/todo/teams",
+  "hooksUrl": "https://api.github.com/repos/varjmes/todo/hooks",
+  "eventsUrl": "https://api.github.com/repos/varjmes/todo/events",
+  "tagsUrl": "https://api.github.com/repos/varjmes/todo/tags",
+  "languagesUrl": "https://api.github.com/repos/varjmes/todo/languages",
+  "stargazersUrl": "https://api.github.com/repos/varjmes/todo/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/varjmes/todo/contributors",
+  "subscribersUrl": "https://api.github.com/repos/varjmes/todo/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/varjmes/todo/subscription",
+  "mergesUrl": "https://api.github.com/repos/varjmes/todo/merges",
+  "downloadsUrl": "https://api.github.com/repos/varjmes/todo/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/varjmes/todo/deployments",
+  "gitUrl": "git://github.com/varjmes/todo.git",
+  "sshUrl": "git@github.com:varjmes/todo.git",
+  "cloneUrl": "https://github.com/varjmes/todo.git",
+  "svnUrl": "https://github.com/varjmes/todo",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "ea1319fcf6bef4c4e41586f81fe758ea76e01b54",
@@ -140,6 +139,7 @@
   },
   "filename": "Charlotteis___todo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:38.421Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:15.650Z"
+  "lastFetchedAt": "2017-10-23T18:30:05.888Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:15.650Z",
+  "archived": false
 }

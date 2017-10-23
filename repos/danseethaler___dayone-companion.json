@@ -5,7 +5,7 @@
   "owner": {
     "login": "danseethaler",
     "id": 11202705,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11202705?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11202705?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/danseethaler",
     "htmlUrl": "https://github.com/danseethaler",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/danseethaler/dayone-companion",
-  "description": "Expanding on the functionality of the DayOne Journal App",
+  "description": "Expanding on the functionality of the DayOne journal app",
   "fork": false,
   "url": "https://api.github.com/repos/danseethaler/dayone-companion",
   "forksUrl": "https://api.github.com/repos/danseethaler/dayone-companion/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/danseethaler/dayone-companion/downloads",
   "deploymentsUrl": "https://api.github.com/repos/danseethaler/dayone-companion/deployments",
   "createdAt": "2016-09-24T23:08:42.000Z",
-  "updatedAt": "2017-01-10T15:06:50.000Z",
+  "updatedAt": "2017-06-11T23:28:51.000Z",
   "pushedAt": "2016-11-26T16:00:47.000Z",
   "gitUrl": "git://github.com/danseethaler/dayone-companion.git",
   "sshUrl": "git@github.com:danseethaler/dayone-companion.git",
   "cloneUrl": "https://github.com/danseethaler/dayone-companion.git",
   "svnUrl": "https://github.com/danseethaler/dayone-companion",
-  "homepage": null,
+  "homepage": "",
   "size": 1610,
   "stargazersCount": 1,
   "watchersCount": 1,
@@ -73,20 +73,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danseethaler/dayone-companion.git"
-    },
+    "repository": "https://github.com/danseethaler/dayone-companion",
     "keywords": [
       "DayOne",
       "import",
       "journal"
     ],
-    "author": "Dan Seethaler",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/danseethaler/dayone-companion/issues"
-    },
     "homepage": "https://github.com/danseethaler/dayone-companion#readme",
     "devDependencies": {
       "electron": "^1.3.4"
@@ -95,6 +88,12 @@
       "electron-json-storage": "^2.0.0",
       "iconv-lite": "^0.4.13",
       "markdown": "^0.5.0"
+    },
+    "other": {
+      "author": "Dan Seethaler",
+      "bugs": {
+        "url": "https://github.com/danseethaler/dayone-companion/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "danseethaler___dayone-companion.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:32:46.899Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:58.966Z"
+  "lastFetchedAt": "2017-10-23T18:09:38.260Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:58.966Z",
+  "archived": false
 }

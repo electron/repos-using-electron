@@ -5,7 +5,7 @@
   "owner": {
     "login": "tworns",
     "id": 5692492,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5692492?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5692492?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tworns",
     "htmlUrl": "https://github.com/tworns",
@@ -81,15 +81,8 @@
       "server": "node server/index.js",
       "3-player-demo": "electron index.js & electron index.js & electron index.js & node server/index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tworns/CS408Team07.git"
-    },
-    "author": "Team 7",
+    "repository": "https://github.com/tworns/CS408Team07",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/tworns/CS408Team07/issues"
-    },
     "homepage": "https://github.com/tworns/CS408Team07#readme",
     "dependencies": {
       "angular": "^1.4.9",
@@ -109,6 +102,12 @@
       "electron-packager": "^5.2.1",
       "selenium-webdriver": "^2.52.0",
       "uglify-js": "^2.6.2"
+    },
+    "other": {
+      "author": "Team 7",
+      "bugs": {
+        "url": "https://github.com/tworns/CS408Team07/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "tworns___Yoodle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:56.270Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:30.197Z"
+  "lastFetchedAt": "2017-10-23T18:26:09.082Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:30.197Z",
+  "archived": false
 }

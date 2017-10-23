@@ -5,7 +5,7 @@
   "owner": {
     "login": "ruiming",
     "id": 12167554,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12167554?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12167554?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ruiming",
     "htmlUrl": "https://github.com/ruiming",
@@ -74,18 +74,17 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "build": "electron-packager . Airplane --platform=win32 --arch=x64 --version=0.32.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ruiming/airplane.git"
-    },
-    "author": "Ruiming",
+    "repository": "https://github.com/Ruiming/airplane",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Ruiming/airplane/issues"
-    },
     "homepage": "https://github.com/Ruiming/airplane#readme",
     "devDependencies": {
       "electron": "^0.4.1"
+    },
+    "other": {
+      "author": "Ruiming",
+      "bugs": {
+        "url": "https://github.com/Ruiming/airplane/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   },
   "filename": "ruiming___airplane.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:42.417Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:53.077Z"
+  "lastFetchedAt": "2017-10-23T20:39:05.267Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:53.077Z",
+  "archived": false
 }

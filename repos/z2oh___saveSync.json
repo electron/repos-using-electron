@@ -5,7 +5,7 @@
   "owner": {
     "login": "z2oh",
     "id": 385684,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/385684?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/385684?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/z2oh",
     "htmlUrl": "https://github.com/z2oh",
@@ -74,10 +74,7 @@
       "start": "gulp && electron .",
       "test": "gulp && mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/z2oh/saveSync/"
-    },
+    "repository": "https://github.com/z2oh/saveSync",
     "keywords": [
       "save",
       "sync",
@@ -85,7 +82,6 @@
       "steam",
       "game"
     ],
-    "author": "z2oh",
     "license": "MIT",
     "engines": {
       "electron": "1.4.4"
@@ -107,6 +103,9 @@
       "spectron": "^3.4.0",
       "tslint": "^3.15.1",
       "typescript": "^2.1.0"
+    },
+    "other": {
+      "author": "z2oh"
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "z2oh___saveSync.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:23.153Z",
-  "packageLastFetchedAt": "2017-05-04T22:02:55.188Z"
+  "lastFetchedAt": "2017-10-23T20:26:53.097Z",
+  "packageLastFetchedAt": "2017-05-04T22:02:55.188Z",
+  "archived": false
 }

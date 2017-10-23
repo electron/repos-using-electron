@@ -5,7 +5,7 @@
   "owner": {
     "login": "john-kelly",
     "id": 4268509,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4268509?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4268509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/john-kelly",
     "htmlUrl": "https://github.com/john-kelly",
@@ -71,7 +71,6 @@
     "identifier": "com.example.electron-boilerplate",
     "description": "Electron Boilerplate.",
     "version": "0.1.0",
-    "author": "john-kelly <jdrkelly14@gmail.com>",
     "main": "./main.js",
     "config": {
       "target": "development"
@@ -101,6 +100,9 @@
       "release": "./node_modules/.bin/gulp release --env=production",
       "start": "./node_modules/.bin/gulp default --env=development",
       "test": "node default --env=test"
+    },
+    "other": {
+      "author": "john-kelly <jdrkelly14@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -128,6 +130,7 @@
   },
   "filename": "john-kelly___electron-boilerplate-old.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:30:01.750Z",
-  "packageLastFetchedAt": "2017-05-04T22:35:08.554Z"
+  "lastFetchedAt": "2017-10-23T20:43:10.668Z",
+  "packageLastFetchedAt": "2017-05-04T22:35:08.554Z",
+  "archived": false
 }

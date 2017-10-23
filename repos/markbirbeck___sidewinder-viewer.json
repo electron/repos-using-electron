@@ -5,7 +5,7 @@
   "owner": {
     "login": "markbirbeck",
     "id": 62572,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/62572?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/62572?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/markbirbeck",
     "htmlUrl": "https://github.com/markbirbeck",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/markbirbeck/sidewinder-viewer/downloads",
   "deploymentsUrl": "https://api.github.com/repos/markbirbeck/sidewinder-viewer/deployments",
   "createdAt": "2016-06-27T10:36:48.000Z",
-  "updatedAt": "2017-01-20T09:52:06.000Z",
+  "updatedAt": "2017-07-13T14:22:40.000Z",
   "pushedAt": "2017-01-20T12:29:53.000Z",
   "gitUrl": "git://github.com/markbirbeck/sidewinder-viewer.git",
   "sshUrl": "git@github.com:markbirbeck/sidewinder-viewer.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/markbirbeck/sidewinder-viewer",
   "homepage": null,
   "size": 11,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 0,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,25 +79,24 @@
     "bin": {
       "sidewinder": "./bin/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/markbirbeck/sidewinder-viewer.git"
-    },
+    "repository": "https://github.com/markbirbeck/sidewinder-viewer",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/markbirbeck/sidewinder-viewer/issues"
-    },
     "homepage": "https://github.com/markbirbeck/sidewinder-viewer#readme",
     "dependencies": {
       "electron": "^1.4.14",
       "minimist": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/markbirbeck/sidewinder-viewer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "markbirbeck___sidewinder-viewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:48.006Z",
-  "packageLastFetchedAt": "2017-05-04T22:20:47.395Z"
+  "lastFetchedAt": "2017-10-23T18:50:02.743Z",
+  "packageLastFetchedAt": "2017-05-04T22:20:47.395Z",
+  "archived": false
 }

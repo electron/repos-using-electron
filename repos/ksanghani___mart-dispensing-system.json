@@ -5,7 +5,7 @@
   "owner": {
     "login": "ksanghani",
     "id": 11235183,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11235183?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11235183?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ksanghani",
     "htmlUrl": "https://github.com/ksanghani",
@@ -82,11 +82,7 @@
       "clean:all": "npm run clean && rm -rf node_modules gulp-electron-cache",
       "lint": "./node_modules/.bin/eslint ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git@git.with.me:store/smart-dispensing-system.git"
-    },
-    "author": "Mario Tacke <tacke.mario@gmail.com>",
+    "repository": "https://github.com/store/smart-dispensing-system",
     "license": "ISC",
     "dependencies": {
       "babel-core": "^6.11.4",
@@ -125,6 +121,9 @@
       "webpack-dev-server": "^1.14.1",
       "wm-fixture-styles": "0.0.4",
       "yargs": "^4.8.1"
+    },
+    "other": {
+      "author": "Mario Tacke <tacke.mario@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   "filename": "ksanghani___mart-dispensing-system.json",
   "sourceRepo": "ksanghani/smart-dispensing-system",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:48.951Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:04.409Z"
+  "lastFetchedAt": "2017-10-23T18:13:05.619Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:04.409Z",
+  "archived": false
 }

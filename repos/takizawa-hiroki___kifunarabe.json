@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "kifunarabe",
     "version": "1.0.0",
@@ -112,8 +112,10 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "author": "Takizawa Hiroki",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {
+      "author": "Takizawa Hiroki"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +142,6 @@
   },
   "filename": "takizawa-hiroki___kifunarabe.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:33.775Z",
+  "lastFetchedAt": "2017-10-23T18:50:42.619Z",
   "packageLastFetchedAt": "2017-05-05T14:46:54.906Z"
 }

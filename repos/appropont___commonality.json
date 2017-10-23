@@ -5,7 +5,7 @@
   "owner": {
     "login": "appropont",
     "id": 5791557,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5791557?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5791557?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/appropont",
     "htmlUrl": "https://github.com/appropont",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "appropont",
     "id": 5791557,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5791557?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5791557?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/appropont",
     "htmlUrl": "https://github.com/appropont",
@@ -84,10 +84,6 @@
     "version": "0.0.0",
     "description": "Small description for client goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -97,7 +93,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -164,6 +159,13 @@
     "dependencies": {
       "cheerio": "^0.20.0",
       "superagent": "^1.8.3"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -191,6 +193,7 @@
   },
   "filename": "appropont___commonality.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:19.019Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:59.345Z"
+  "lastFetchedAt": "2017-10-23T18:17:17.094Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:59.345Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "11joselu",
     "id": 8685132,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8685132?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8685132?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/11joselu",
     "htmlUrl": "https://github.com/11joselu",
@@ -84,24 +84,23 @@
       "dist:win32": "build --platform win32 --arch ia32",
       "dist:win64": "build --platform win32 --arch x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/11joselu/electron-replace-in-file.git"
-    },
+    "repository": "https://github.com/11joselu/electron-replace-in-file",
     "keywords": [
       "Electron"
     ],
-    "author": "Jose Cabrera <joselu11cabrera@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/11joselu/electron-replace-in-file/issues"
-    },
     "homepage": "https://github.com/11joselu/electron-replace-in-file#readme",
     "dependencies": {
       "electron-builder": "^3.22.1",
       "electron-prebuilt": "^1.0.2",
       "glob": "^7.0.3",
       "replace-in-file": "^1.0.2"
+    },
+    "other": {
+      "author": "Jose Cabrera <joselu11cabrera@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/11joselu/electron-replace-in-file/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "11joselu___electron-replace-in-file.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:19.698Z",
-  "packageLastFetchedAt": "2017-05-05T17:20:09.929Z"
+  "lastFetchedAt": "2017-10-23T18:01:01.448Z",
+  "packageLastFetchedAt": "2017-05-05T17:20:09.929Z",
+  "archived": false
 }

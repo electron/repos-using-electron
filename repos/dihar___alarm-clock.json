@@ -5,7 +5,7 @@
   "owner": {
     "login": "dihar",
     "id": 12913462,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12913462?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12913462?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dihar",
     "htmlUrl": "https://github.com/dihar",
@@ -74,17 +74,13 @@
       "start": "electron .",
       "build:win": "build --win"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dihar/alarm-clock.git"
-    },
+    "repository": "https://github.com/dihar/alarm-clock",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Dihar",
     "license": "CC0-1.0",
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
@@ -93,6 +89,9 @@
     "build": {
       "appId": "alarm-clock",
       "category": "lifestyle"
+    },
+    "other": {
+      "author": "Dihar"
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "filename": "dihar___alarm-clock.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:04:30.435Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:06.896Z"
+  "lastFetchedAt": "2017-10-23T18:14:25.723Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:06.896Z",
+  "archived": false
 }

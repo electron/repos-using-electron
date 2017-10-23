@@ -5,7 +5,7 @@
   "owner": {
     "login": "blamarche",
     "id": 623830,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/623830?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/623830?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/blamarche",
     "htmlUrl": "https://github.com/blamarche",
@@ -79,16 +79,12 @@
     "scripts": {
       "start": "electron dist/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/blamarche/dragon-go-electron.git"
-    },
+    "repository": "https://github.com/blamarche/dragon-go-electron",
     "keywords": [
       "Electron",
       "react",
       "systemjs"
     ],
-    "author": "Brendan LaMarche",
     "license": "MIT",
     "devDependencies": {
       "del": "^2.2.0",
@@ -108,6 +104,9 @@
       "systemjs": "^0.19.27",
       "electron-config": "^0.2.1",
       "electron-toaster": "^2.0.2"
+    },
+    "other": {
+      "author": "Brendan LaMarche"
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "blamarche___dragon-go-desktop-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:41.230Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:53.468Z"
+  "lastFetchedAt": "2017-10-23T17:58:53.206Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:53.468Z",
+  "archived": false
 }

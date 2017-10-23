@@ -5,7 +5,7 @@
   "owner": {
     "login": "zzolo",
     "id": 190733,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/190733?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/190733?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zzolo",
     "htmlUrl": "https://github.com/zzolo",
@@ -81,15 +81,8 @@
       "watch": "concurrently \"npm run watch-styles\" \"npm run watch-js\"",
       "serve": "concurrently \"npm run start\" \"npm run watch-styles\" \"npm run watch-js\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zzolo/life.git"
-    },
-    "author": "Alan Palazzolo",
+    "repository": "https://github.com/zzolo/life",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zzolo/life/issues"
-    },
     "homepage": "https://github.com/zzolo/life",
     "dependencies": {
       "electron-config": "^0.2.1",
@@ -110,6 +103,12 @@
       "font-awesome": "^4.6.3",
       "node-sass": "^3.10.1",
       "watch-cli": "^0.2.1"
+    },
+    "other": {
+      "author": "Alan Palazzolo",
+      "bugs": {
+        "url": "https://github.com/zzolo/life/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "zzolo___life.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:00.140Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:34.466Z"
+  "lastFetchedAt": "2017-10-23T20:59:18.540Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:34.466Z",
+  "archived": false
 }

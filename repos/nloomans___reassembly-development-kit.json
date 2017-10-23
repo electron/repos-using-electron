@@ -5,7 +5,7 @@
   "owner": {
     "login": "nloomans",
     "id": 7829481,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7829481?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7829481?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nloomans",
     "htmlUrl": "https://github.com/nloomans",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/nloomans/reassembly-development-kit/downloads",
   "deploymentsUrl": "https://api.github.com/repos/nloomans/reassembly-development-kit/deployments",
   "createdAt": "2016-04-04T16:32:04.000Z",
-  "updatedAt": "2016-04-04T16:46:57.000Z",
+  "updatedAt": "2017-05-30T13:31:47.000Z",
   "pushedAt": "2016-04-04T17:30:54.000Z",
   "gitUrl": "git://github.com/nloomans/reassembly-development-kit.git",
   "sshUrl": "git@github.com:nloomans/reassembly-development-kit.git",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "filename": "nloomans___reassembly-development-kit.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:40.829Z",
-  "packageLastFetchedAt": "2017-05-05T17:51:18.643Z"
+  "lastFetchedAt": "2017-10-23T18:11:04.187Z",
+  "packageLastFetchedAt": "2017-05-05T17:51:18.643Z",
+  "archived": false
 }

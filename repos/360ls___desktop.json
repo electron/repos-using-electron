@@ -5,7 +5,7 @@
   "owner": {
     "login": "360ls",
     "id": 23242485,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23242485?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23242485?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/360ls",
     "htmlUrl": "https://github.com/360ls",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/360ls/desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/360ls/desktop/deployments",
   "createdAt": "2016-10-06T01:39:16.000Z",
-  "updatedAt": "2016-12-07T02:44:50.000Z",
+  "updatedAt": "2017-08-07T17:04:32.000Z",
   "pushedAt": "2016-12-11T15:53:14.000Z",
   "gitUrl": "git://github.com/360ls/desktop.git",
   "sshUrl": "git@github.com:360ls/desktop.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/360ls/desktop",
   "homepage": "",
   "size": 6980,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "360ls",
     "id": 23242485,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23242485?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23242485?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/360ls",
     "htmlUrl": "https://github.com/360ls",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/360ls/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 2,
+  "networkCount": 3,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "360ls-Desktop-Application",
@@ -96,19 +96,9 @@
       "interface",
       "dvr"
     ],
-    "author": "Luke Fernandez <lukejohnfernandez@gmail.com>",
-    "contributors": [
-      "Dong Yeop Lee, Spencer Lewis, Jonathan Witten"
-    ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/360ls/desktop/issues"
-    },
     "homepage": "https://360ls.github.io/360ls/",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/360ls/desktop.git"
-    },
+    "repository": "https://github.com/360ls/desktop",
     "jest": {
       "moduleFileExtensions": [
         "js",
@@ -145,10 +135,6 @@
           "zip"
         ]
       }
-    },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
     },
     "bin": {
       "electron": "./node_modules/.bin/electron"
@@ -237,6 +223,19 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": "Luke Fernandez <lukejohnfernandez@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/360ls/desktop/issues"
+      },
+      "contributors": [
+        "Dong Yeop Lee, Spencer Lewis, Jonathan Witten"
+      ],
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -264,6 +263,7 @@
   },
   "filename": "360ls___desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:21.116Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:49.506Z"
+  "lastFetchedAt": "2017-10-23T17:43:11.332Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:49.506Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-test",
     "productName": "electron-test",
@@ -52,10 +52,6 @@
     "description": "electron-test",
     "license": "MIT",
     "repository": "sebakerckhof/electron-test",
-    "author": {
-      "name": "Seba Kerckhof",
-      "email": "seba.kerckhof@gmail.com"
-    },
     "electronVersion": "0.36.8",
     "scripts": {
       "test": "xo",
@@ -94,6 +90,12 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Seba Kerckhof",
+        "email": "seba.kerckhof@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +143,6 @@
   "svnUrl": "https://github.com/sebakerckhof/electron-problem",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:06:04.284Z",
+  "lastFetchedAt": "2017-10-23T18:00:06.579Z",
   "packageLastFetchedAt": "2017-05-04T22:24:39.766Z"
 }

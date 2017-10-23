@@ -5,7 +5,7 @@
   "owner": {
     "login": "CoughDrop",
     "id": 5589080,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5589080?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5589080?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CoughDrop",
     "htmlUrl": "https://github.com/CoughDrop",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/CoughDrop/coughdrop_desktop/deployments",
   "createdAt": "2016-08-19T17:09:38.000Z",
   "updatedAt": "2017-02-27T18:08:30.000Z",
-  "pushedAt": "2017-02-24T22:02:37.000Z",
+  "pushedAt": "2017-09-11T17:42:34.000Z",
   "gitUrl": "git://github.com/CoughDrop/coughdrop_desktop.git",
   "sshUrl": "git@github.com:CoughDrop/coughdrop_desktop.git",
   "cloneUrl": "https://github.com/CoughDrop/coughdrop_desktop.git",
   "svnUrl": "https://github.com/CoughDrop/coughdrop_desktop",
   "homepage": null,
-  "size": 3584,
+  "size": 3639,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "CoughDrop",
     "id": 5589080,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5589080?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5589080?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CoughDrop",
     "htmlUrl": "https://github.com/CoughDrop",
@@ -104,19 +104,12 @@
       "rebuild-acapela": "cd ..\\acapela && node-gyp clean && timeout 5 && node-gyp configure --target=v1.3.4 --arch=x64 && timeout 5 && node ..\\coughdrop_desktop\\fix_node.js && timeout 5 && node-gyp build && copy build\\Release\\acapela.node acapela.64.node",
       "rebuild-acapela32": "cd ..\\acapela && node-gyp clean && timeout 5 && node-gyp configure --target=v1.3.4 --arch=ia32 && timeout 5 && node ..\\coughdrop_desktop\\fix_node.js && timeout 5 && node-gyp build && copy build\\Release\\acapela.node acapela.32.node"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/coughdrop/coughdrop-desktop.git"
-    },
+    "repository": "https://github.com/coughdrop/coughdrop-desktop",
     "keywords": [
       "CoughDrop",
       "AAC"
     ],
-    "author": "CoughDrop, Inc.",
     "license": "UNLICENSED",
-    "bugs": {
-      "url": "https://coughdrop.zendesk.com/hc"
-    },
     "homepage": "https://www.mycoughdrop.com",
     "dependencies": {
       "gazelinger": "https://github.com/CoughDrop/gazelinger.git",
@@ -135,6 +128,12 @@
       "electron-packager": "latest",
       "grunt": "^1.0.1",
       "grunt-electron-installer": "latest"
+    },
+    "other": {
+      "author": "CoughDrop, Inc.",
+      "bugs": {
+        "url": "https://coughdrop.zendesk.com/hc"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "CoughDrop___coughdrop_desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:18.481Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:38.255Z"
+  "lastFetchedAt": "2017-10-23T18:44:17.091Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:38.255Z",
+  "archived": false
 }

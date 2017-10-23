@@ -5,7 +5,7 @@
   "owner": {
     "login": "Toreant",
     "id": 13035829,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13035829?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13035829?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Toreant",
     "htmlUrl": "https://github.com/Toreant",
@@ -60,21 +60,14 @@
       "start": "electron main.js",
       "test": "karma start karma.conf.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "babel-plugin-transform-es2015-modules-umd": "^6.6.5",
@@ -93,6 +86,12 @@
     "dependencies": {
       "jquery": "^2.2.2",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   "svnUrl": "https://github.com/Toreant/editor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:27:13.447Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:10.070Z"
+  "lastFetchedAt": "2017-10-23T17:58:05.171Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:10.070Z",
+  "archived": false
 }

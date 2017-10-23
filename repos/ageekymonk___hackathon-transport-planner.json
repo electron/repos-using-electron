@@ -5,7 +5,7 @@
   "owner": {
     "login": "ageekymonk",
     "id": 271647,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/271647?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/271647?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ageekymonk",
     "htmlUrl": "https://github.com/ageekymonk",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron src/boot/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
@@ -114,6 +107,12 @@
       "semantic-ui": "^2.1.6",
       "semantic-ui-sidebar": "^2.1.6",
       "turf": "^2.0.2"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "ageekymonk___hackathon-transport-planner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:27:15.299Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:23.798Z"
+  "lastFetchedAt": "2017-10-23T18:51:02.692Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:23.798Z",
+  "archived": false
 }

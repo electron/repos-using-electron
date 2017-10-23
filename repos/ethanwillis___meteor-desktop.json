@@ -6,7 +6,7 @@
   "owner": {
     "login": "ethanwillis",
     "id": 182492,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/182492?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/182492?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ethanwillis",
     "htmlUrl": "https://github.com/ethanwillis",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "wojtkowiak",
       "id": 8668306,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8668306?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8668306?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/wojtkowiak",
       "htmlUrl": "https://github.com/wojtkowiak",
@@ -101,27 +101,28 @@
     "downloadsUrl": "https://api.github.com/repos/wojtkowiak/meteor-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/wojtkowiak/meteor-desktop/deployments",
     "createdAt": "2016-05-04T12:18:00.000Z",
-    "updatedAt": "2017-05-02T05:00:11.000Z",
-    "pushedAt": "2017-05-04T12:15:46.000Z",
+    "updatedAt": "2017-10-12T20:57:20.000Z",
+    "pushedAt": "2017-10-11T12:45:26.000Z",
     "gitUrl": "git://github.com/wojtkowiak/meteor-desktop.git",
     "sshUrl": "git@github.com:wojtkowiak/meteor-desktop.git",
     "cloneUrl": "https://github.com/wojtkowiak/meteor-desktop.git",
     "svnUrl": "https://github.com/wojtkowiak/meteor-desktop",
     "homepage": null,
-    "size": 2279,
-    "stargazersCount": 258,
-    "watchersCount": 258,
+    "size": 2383,
+    "stargazersCount": 310,
+    "watchersCount": 310,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 27,
+    "forksCount": 31,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 258,
+    "archived": false,
+    "openIssuesCount": 42,
+    "openIssues": 42,
+    "watchers": 310,
     "defaultBranch": "master"
   },
   "source": {
@@ -131,7 +132,7 @@
     "owner": {
       "login": "wojtkowiak",
       "id": 8668306,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8668306?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8668306?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/wojtkowiak",
       "htmlUrl": "https://github.com/wojtkowiak",
@@ -161,33 +162,34 @@
     "downloadsUrl": "https://api.github.com/repos/wojtkowiak/meteor-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/wojtkowiak/meteor-desktop/deployments",
     "createdAt": "2016-05-04T12:18:00.000Z",
-    "updatedAt": "2017-05-02T05:00:11.000Z",
-    "pushedAt": "2017-05-04T12:15:46.000Z",
+    "updatedAt": "2017-10-12T20:57:20.000Z",
+    "pushedAt": "2017-10-11T12:45:26.000Z",
     "gitUrl": "git://github.com/wojtkowiak/meteor-desktop.git",
     "sshUrl": "git@github.com:wojtkowiak/meteor-desktop.git",
     "cloneUrl": "https://github.com/wojtkowiak/meteor-desktop.git",
     "svnUrl": "https://github.com/wojtkowiak/meteor-desktop",
     "homepage": null,
-    "size": 2279,
-    "stargazersCount": 258,
-    "watchersCount": 258,
+    "size": 2383,
+    "stargazersCount": 310,
+    "watchersCount": 310,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 27,
+    "forksCount": 31,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 258,
+    "archived": false,
+    "openIssuesCount": 42,
+    "openIssues": 42,
+    "watchers": 310,
     "defaultBranch": "master"
   },
-  "networkCount": 27,
+  "networkCount": 31,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T16:41:59.908Z",
+  "lastFetchedAt": "2017-10-23T17:33:54.556Z",
   "packageJSON": {
     "name": "meteor-desktop",
     "version": "0.5.3",
@@ -219,7 +221,6 @@
       "develop": "npm-run-all --parallel build-watch test-watch",
       "generate-docs": "jsdoc2md skeleton/preload.js > docs/api/desktop.md && jsdoc2md skeleton/modules/module.js > docs/api/module.md"
     },
-    "author": "Bartosz Wojtkowiak <bartosz@wojtkowiak.it>",
     "license": "MIT",
     "devDependencies": {
       "babel-cli": "6.22.2",
@@ -282,10 +283,7 @@
       "single-line-log": "1.1.2",
       "uglify-js": "2.7.5"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wojtkowiak/meteor-desktop"
-    },
+    "repository": "https://github.com/wojtkowiak/meteor-desktop",
     "keywords": [
       "electron",
       "meteor",
@@ -309,11 +307,15 @@
       "instrument": false,
       "all": true
     },
-    "bugs": {
-      "url": "https://github.com/wojtkowiak/meteor-desktop/issues"
-    },
-    "homepage": "https://github.com/wojtkowiak/meteor-desktop"
+    "homepage": "https://github.com/wojtkowiak/meteor-desktop",
+    "other": {
+      "author": "Bartosz Wojtkowiak <bartosz@wojtkowiak.it>",
+      "bugs": {
+        "url": "https://github.com/wojtkowiak/meteor-desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:18:32.763Z"
+  "packageLastFetchedAt": "2017-05-04T22:18:32.763Z",
+  "archived": false
 }

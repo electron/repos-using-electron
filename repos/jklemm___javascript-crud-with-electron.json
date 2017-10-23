@@ -5,7 +5,7 @@
   "owner": {
     "login": "jklemm",
     "id": 5324645,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5324645?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5324645?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jklemm",
     "htmlUrl": "https://github.com/jklemm",
@@ -73,15 +73,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/jklemm/javascript-crud-with-electron.git"
-    },
-    "author": "Jorge Augusto Klemm",
+    "repository": "https://github.com/jklemm/javascript-crud-with-electron",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jklemm/javascript-crud-with-electron/issues"
-    },
     "homepage": "https://github.com/jklemm/javascript-crud-with-electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7"
@@ -89,6 +82,12 @@
     "dependencies": {
       "bootstrap": "^3.3.6",
       "jquery": "^2.2.0"
+    },
+    "other": {
+      "author": "Jorge Augusto Klemm",
+      "bugs": {
+        "url": "https://github.com/jklemm/javascript-crud-with-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   },
   "filename": "jklemm___javascript-crud-with-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:28.702Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:01.648Z"
+  "lastFetchedAt": "2017-10-23T18:55:38.286Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:01.648Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "MichelKansou",
     "id": 15091838,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15091838?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15091838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MichelKansou",
     "htmlUrl": "https://github.com/MichelKansou",
@@ -69,7 +69,7 @@
     "featured": false
   },
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "bi-project-generate-data",
@@ -84,21 +84,14 @@
       "watch": "npm run electron main.js && npm run webpack-prod",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Michel Kansou",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "assets-webpack-plugin": "*",
@@ -137,6 +130,12 @@
       "react-router": "*",
       "semantic-ui": "^2.2.1",
       "synchronize": "^0.9.15"
+    },
+    "other": {
+      "author": "Michel Kansou",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   },
   "filename": "MichelKansou___Projet-BI-Generate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:02.754Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:35.707Z"
+  "lastFetchedAt": "2017-10-23T18:57:54.481Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:35.707Z",
+  "archived": false
 }

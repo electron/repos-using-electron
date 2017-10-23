@@ -5,7 +5,7 @@
   "owner": {
     "login": "mkerfoot",
     "id": 14025111,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14025111?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14025111?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mkerfoot",
     "htmlUrl": "https://github.com/mkerfoot",
@@ -55,26 +55,25 @@
       "start": "electron main.js ",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "bower": "^1.7.7",
       "electron-prebuilt": "^0.36.5",
       "wiredep": "^3.0.0"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   "svnUrl": "https://github.com/mkerfoot/icysnow",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:51:20.699Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:47.385Z"
+  "lastFetchedAt": "2017-10-23T20:09:01.361Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:47.385Z",
+  "archived": false
 }

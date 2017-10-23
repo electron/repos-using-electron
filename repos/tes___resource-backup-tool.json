@@ -5,7 +5,7 @@
   "owner": {
     "login": "tes",
     "id": 7055819,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7055819?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7055819?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tes",
     "htmlUrl": "https://github.com/tes",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-07-19T20:07:54.000Z",
   "updatedAt": "2017-01-24T10:53:57.000Z",
-  "pushedAt": "2017-03-27T10:38:30.000Z",
+  "pushedAt": "2017-09-12T14:21:59.000Z",
   "homepage": null,
-  "size": 2638,
+  "size": 2741,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "tes",
     "id": 7055819,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7055819?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7055819?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tes",
     "htmlUrl": "https://github.com/tes",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 9,
+  "subscribersCount": 11,
   "status": 200,
   "packageJSON": {
     "name": "resource-backup-tool",
@@ -85,21 +85,14 @@
       "precommit": "npm run lint",
       "lint": "tslint src/**.ts?"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:tes/resource-backup-tool.git"
-    },
+    "repository": "https://github.com/tes/resource-backup-tool",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "TES Global",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tes/resource-backup-tool/issues"
-    },
     "homepage": "https://github.com/tes/resource-backup-tool",
     "devDependencies": {
       "body-parser": "^1.15.2",
@@ -136,6 +129,12 @@
       "request-progress": "^2.0.1",
       "whatwg-fetch": "^1.0.0",
       "yamljs": "^0.2.8"
+    },
+    "other": {
+      "author": "TES Global",
+      "bugs": {
+        "url": "https://github.com/tes/resource-backup-tool/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   },
   "filename": "tes___resource-backup-tool.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:48.562Z",
-  "packageLastFetchedAt": "2017-05-05T11:36:59.616Z"
+  "lastFetchedAt": "2017-10-23T20:44:57.184Z",
+  "packageLastFetchedAt": "2017-05-05T11:36:59.616Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "tongariboyz",
     "id": 11569331,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11569331?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11569331?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tongariboyz",
     "htmlUrl": "https://github.com/tongariboyz",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2015-11-24T08:58:45.000Z",
   "updatedAt": "2016-11-05T14:53:57.000Z",
-  "pushedAt": "2017-05-02T05:02:58.000Z",
+  "pushedAt": "2017-05-31T09:01:55.000Z",
   "homepage": "",
-  "size": 11636,
+  "size": 11640,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 2,
-  "openIssuesCount": 4,
-  "openIssues": 4,
+  "openIssuesCount": 21,
+  "openIssues": 21,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -51,7 +51,7 @@
   "organization": {
     "login": "tongariboyz",
     "id": 11569331,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11569331?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11569331?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tongariboyz",
     "htmlUrl": "https://github.com/tongariboyz",
@@ -69,10 +69,6 @@
     "name": "5rolli",
     "description": "SHINCHOKU Viewer",
     "version": "0.0.0",
-    "author": "tongariboyz",
-    "bugs": {
-      "url": "https://github.com/tongariboyz/5rolli/issues"
-    },
     "dependencies": {
       "dacho": "^2.0.1",
       "electron-window-state": "^4.0.2",
@@ -134,10 +130,7 @@
     "license": "MIT",
     "main": "main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tongariboyz/5rolli.git"
-    },
+    "repository": "https://github.com/tongariboyz/5rolli",
     "scripts": {
       "app": "electron --debug=5858 dist/main.js",
       "build": "npm-run-all --parallel build:*",
@@ -184,6 +177,12 @@
       "watch:lint": "chokidar src/js test -c 'npm run -s lint'",
       "watch:server": "node-inspector",
       "watch:test": "mocha --timeout=10000 --watch test/**/*spec.js"
+    },
+    "other": {
+      "author": "tongariboyz",
+      "bugs": {
+        "url": "https://github.com/tongariboyz/5rolli/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -231,6 +230,7 @@
   "svnUrl": "https://github.com/tongariboyz/5rolli",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:35:25.370Z",
-  "packageLastFetchedAt": "2017-05-05T13:57:41.486Z"
+  "lastFetchedAt": "2017-10-23T19:14:43.330Z",
+  "packageLastFetchedAt": "2017-05-05T13:57:41.486Z",
+  "archived": false
 }

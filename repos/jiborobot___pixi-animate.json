@@ -5,7 +5,7 @@
   "owner": {
     "login": "jiborobot",
     "id": 11927942,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11927942?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11927942?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jiborobot",
     "htmlUrl": "https://github.com/jiborobot",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/jiborobot/pixi-animate",
-  "description": "Pixi.js runtime library for content from Adobe Animate CC",
+  "description": "PixiJS runtime library for content from Adobe Animate CC",
   "fork": false,
   "url": "https://api.github.com/repos/jiborobot/pixi-animate",
   "forksUrl": "https://api.github.com/repos/jiborobot/pixi-animate/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/jiborobot/pixi-animate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jiborobot/pixi-animate/deployments",
   "createdAt": "2016-01-26T15:05:59.000Z",
-  "updatedAt": "2017-04-10T15:38:07.000Z",
-  "pushedAt": "2017-01-26T21:59:04.000Z",
+  "updatedAt": "2017-10-15T01:27:00.000Z",
+  "pushedAt": "2017-09-14T14:36:58.000Z",
   "gitUrl": "git://github.com/jiborobot/pixi-animate.git",
   "sshUrl": "git@github.com:jiborobot/pixi-animate.git",
   "cloneUrl": "https://github.com/jiborobot/pixi-animate.git",
   "svnUrl": "https://github.com/jiborobot/pixi-animate",
   "homepage": "http://jiborobot.github.io/pixi-animate/",
-  "size": 15544,
-  "stargazersCount": 32,
-  "watchersCount": 32,
+  "size": 15550,
+  "stargazersCount": 45,
+  "watchersCount": 45,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 7,
+  "forksCount": 8,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 32,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 45,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "jiborobot",
     "id": 11927942,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11927942?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11927942?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jiborobot",
     "htmlUrl": "https://github.com/jiborobot",
@@ -82,15 +82,14 @@
     "receivedEventsUrl": "https://api.github.com/users/jiborobot/received_events",
     "type": "Organization"
   },
-  "networkCount": 7,
-  "subscribersCount": 32,
+  "networkCount": 8,
+  "subscribersCount": 29,
   "status": 200,
   "packageJSON": {
     "name": "pixi-animate",
     "description": "PIXI plugin for the PixiAnimate Extension",
     "version": "1.3.1",
     "main": "lib/index.js",
-    "author": "Matt Karl <matt.karl@jibo.com>",
     "devDependencies": {
       "babel-cli": "^6.22.2",
       "babel-plugin-version-inline": "^1.0.0",
@@ -112,13 +111,7 @@
       "pixi.js": "^4.3.3"
     },
     "typings": "index.d.ts",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jiborobot/pixi-animate"
-    },
-    "bugs": {
-      "url": "https://github.com/jiborobot/pixi-animate/issues"
-    },
+    "repository": "https://github.com/jiborobot/pixi-animate",
     "homepage": "https://github.com/jiborobot/pixi-animate",
     "scripts": {
       "clean": "rimraf docs coverage dist/** lib/** .publish",
@@ -161,7 +154,13 @@
       "Animate CC",
       "animation"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Matt Karl <matt.karl@jibo.com>",
+      "bugs": {
+        "url": "https://github.com/jiborobot/pixi-animate/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -188,6 +187,7 @@
   },
   "filename": "jiborobot___pixi-animate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:17:51.037Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:03.433Z"
+  "lastFetchedAt": "2017-10-23T20:26:59.124Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:03.433Z",
+  "archived": false
 }

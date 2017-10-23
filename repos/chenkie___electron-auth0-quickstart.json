@@ -5,7 +5,7 @@
   "owner": {
     "login": "chenkie",
     "id": 1847678,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1847678?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1847678?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chenkie",
     "htmlUrl": "https://github.com/chenkie",
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "chenkie___electron-auth0-quickstart.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:23.382Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:35.289Z"
+  "lastFetchedAt": "2017-10-23T20:06:22.725Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:35.289Z",
+  "archived": false
 }

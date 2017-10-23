@@ -5,7 +5,7 @@
   "owner": {
     "login": "mike-north",
     "id": 558005,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/558005?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/558005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mike-north",
     "htmlUrl": "https://github.com/mike-north",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-04-21T12:20:46.000Z",
   "updatedAt": "2016-04-21T12:27:55.000Z",
-  "pushedAt": "2016-04-21T12:27:52.000Z",
+  "pushedAt": "2017-05-22T12:11:49.000Z",
   "homepage": null,
-  "size": 2230,
+  "size": 2231,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "Objective-C",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for anyember goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -144,6 +139,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -191,6 +193,7 @@
   },
   "filename": "mike-north___ember-electron-munich2016.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:17.126Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:26.571Z"
+  "lastFetchedAt": "2017-10-23T18:22:12.744Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:26.571Z",
+  "archived": false
 }

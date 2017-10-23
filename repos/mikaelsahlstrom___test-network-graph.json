@@ -5,7 +5,7 @@
   "owner": {
     "login": "mikaelsahlstrom",
     "id": 1434682,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1434682?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1434682?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mikaelsahlstrom",
     "htmlUrl": "https://github.com/mikaelsahlstrom",
@@ -70,13 +70,15 @@
     "version": "0.1.0",
     "main": "main.js",
     "description": "Test of the D3 framework.",
-    "author": "Mikael Sahlström (mick.sahlstrom@gmail.com)",
     "dependencies": {
       "d3": ">= 4.2.6",
       "electron": "^1.3.4"
     },
     "scripts": {
       "start": "electron ."
+    },
+    "other": {
+      "author": "Mikael Sahlström (mick.sahlstrom@gmail.com)"
     }
   },
   "packageStatus": 200,
@@ -104,6 +106,7 @@
   },
   "filename": "mikaelsahlstrom___test-network-graph.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:40:10.000Z",
-  "packageLastFetchedAt": "2017-05-05T15:03:18.335Z"
+  "lastFetchedAt": "2017-10-23T17:55:23.782Z",
+  "packageLastFetchedAt": "2017-05-05T15:03:18.335Z",
+  "archived": false
 }

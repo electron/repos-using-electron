@@ -5,7 +5,7 @@
   "owner": {
     "login": "thmsbfft",
     "id": 5269141,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5269141?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5269141?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thmsbfft",
     "htmlUrl": "https://github.com/thmsbfft",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/thmsbfft/oryoki/downloads",
   "deploymentsUrl": "https://api.github.com/repos/thmsbfft/oryoki/deployments",
   "createdAt": "2016-05-13T03:48:06.000Z",
-  "updatedAt": "2017-05-03T06:56:32.000Z",
-  "pushedAt": "2017-03-06T02:24:00.000Z",
+  "updatedAt": "2017-10-18T18:35:15.000Z",
+  "pushedAt": "2017-10-14T01:23:18.000Z",
   "gitUrl": "git://github.com/thmsbfft/oryoki.git",
   "sshUrl": "git@github.com:thmsbfft/oryoki.git",
   "cloneUrl": "https://github.com/thmsbfft/oryoki.git",
   "svnUrl": "https://github.com/thmsbfft/oryoki",
   "homepage": "http://oryoki.io/",
-  "size": 1136,
-  "stargazersCount": 348,
-  "watchersCount": 348,
+  "size": 1731,
+  "stargazersCount": 365,
+  "watchersCount": 365,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 8,
   "openIssues": 8,
-  "watchers": 348,
+  "watchers": 365,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,17 +69,14 @@
     "featured": true
   },
   "networkCount": 21,
-  "subscribersCount": 12,
+  "subscribersCount": 15,
   "status": 200,
   "packageJSON": {
     "name": "oryoki",
     "version": "0.1.0",
     "productName": "Oryoki",
     "description": "A web browser with a thin interface.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/thmsbfft/oryoki.git"
-    },
+    "repository": "https://github.com/thmsbfft/oryoki",
     "main": "main.js",
     "scripts": {
       "start": "electron .",
@@ -110,12 +107,14 @@
       "gulp-run": "^1.7.1",
       "gulp-sass": "^2.3.2"
     },
-    "bugs": {
-      "url": "https://github.com/thmsbfft/oryoki/issues"
-    },
     "homepage": "http://oryoki.io",
     "license": "MIT",
-    "author": "Thomas Buffet"
+    "other": {
+      "author": "Thomas Buffet",
+      "bugs": {
+        "url": "https://github.com/thmsbfft/oryoki/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +141,7 @@
   },
   "filename": "thmsbfft___oryoki.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:37.740Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:31.164Z"
+  "lastFetchedAt": "2017-10-23T17:39:30.013Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:31.164Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Lao-liu",
     "id": 640735,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/640735?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/640735?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Lao-liu",
     "htmlUrl": "https://github.com/Lao-liu",
@@ -74,19 +74,12 @@
     "scripts": {
       "start": "electron app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Lao-liu/HDT.git"
-    },
+    "repository": "https://github.com/Lao-liu/HDT",
     "keywords": [
       "Hprose",
       "Tools"
     ],
-    "author": "Laoliu <laoliu@lanmv.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Lao-liu/HDT/issues"
-    },
     "homepage": "https://github.com/Lao-liu/HDT#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -94,6 +87,12 @@
     "dependencies": {
       "hprose": "^2.0.9",
       "jquery": "^2.2.0"
+    },
+    "other": {
+      "author": "Laoliu <laoliu@lanmv.com>",
+      "bugs": {
+        "url": "https://github.com/Lao-liu/HDT/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "Lao-liu___HDT.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:47.188Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:23.310Z"
+  "lastFetchedAt": "2017-10-23T18:14:50.803Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:23.310Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "simondavies",
     "id": 689184,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/689184?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/689184?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/simondavies",
     "htmlUrl": "https://github.com/simondavies",
@@ -20,21 +20,21 @@
   "description": "An initial Electron app using ES6 and Vue JS, a starter app to save time setting it up all the time...",
   "fork": false,
   "createdAt": "2015-07-04T22:29:52.000Z",
-  "updatedAt": "2017-03-31T10:06:12.000Z",
+  "updatedAt": "2017-10-16T09:05:21.000Z",
   "pushedAt": "2016-10-10T18:40:45.000Z",
   "homepage": "",
   "size": 12,
-  "stargazersCount": 32,
-  "watchersCount": 32,
+  "stargazersCount": 34,
+  "watchersCount": 34,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 32,
+  "watchers": 34,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 3,
+  "networkCount": 2,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -54,10 +54,7 @@
       "start": "electron ./app/App.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/simondavies/electron-starter.git"
-    },
+    "repository": "https://github.com/simondavies/electron-starter",
     "keywords": [
       "electron",
       "boilerplate",
@@ -66,11 +63,7 @@
       "node",
       "javascript"
     ],
-    "author": "Simon Davies",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/simondavies/electron-starter/issues"
-    },
     "homepage": "https://github.com/simondavies/electron-starter#readme",
     "devDependencies": {
       "babelify": "^6.1.2",
@@ -89,6 +82,12 @@
       "normalize.scss": "^0.1.0",
       "vinyl-source-stream": "^1.1.0",
       "vue": "^0.12.5"
+    },
+    "other": {
+      "author": "Simon Davies",
+      "bugs": {
+        "url": "https://github.com/simondavies/electron-starter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/simondavies/electron-vuejs-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:14:07.216Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:38.761Z"
+  "lastFetchedAt": "2017-10-23T17:49:09.950Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:38.761Z",
+  "archived": false
 }

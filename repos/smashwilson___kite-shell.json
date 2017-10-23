@@ -5,7 +5,7 @@
   "owner": {
     "login": "smashwilson",
     "id": 17565,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17565?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17565?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/smashwilson",
     "htmlUrl": "https://github.com/smashwilson",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
+  "forksCount": 6,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -68,21 +68,16 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "featured": true
   },
-  "networkCount": 5,
+  "networkCount": 6,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "Kitematic",
     "version": "0.8.0-rc4",
-    "author": "Kitematic",
     "description": "Simple Docker Container management for Mac OS X.",
     "homepage": "https://kitematic.com/",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:kitematic/kitematic.git"
-    },
-    "bugs": "https://github.com/kitematic/kitematic/issues",
+    "repository": "https://github.com/kitematic/kitematic",
     "scripts": {
       "start": "grunt",
       "test": "jest -c jest-unit.json",
@@ -165,6 +160,10 @@
       "run-sequence": "^1.0.2",
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.2.10"
+    },
+    "other": {
+      "author": "Kitematic",
+      "bugs": "https://github.com/kitematic/kitematic/issues"
     }
   },
   "packageStatus": 200,
@@ -193,6 +192,7 @@
   "sourceRepo": "docker/kitematic",
   "filename": "smashwilson___kite-shell.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:43.054Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:15.209Z"
+  "lastFetchedAt": "2017-10-23T18:15:39.926Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:15.209Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "octavio-git",
     "id": 20099385,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20099385?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20099385?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/octavio-git",
     "htmlUrl": "https://github.com/octavio-git",
@@ -179,12 +179,7 @@
       "printing"
     ],
     "homepage": "https://gojs.net",
-    "bugs": {
-      "url": "https://forum.nwoods.com/c/gojs",
-      "email": "gojs@nwoods.com"
-    },
     "license": "https://gojs.net/latest/doc/license.html",
-    "author": "Northwoods Software",
     "files": [
       "package.json",
       "bower.json",
@@ -205,9 +200,13 @@
       "samples"
     ],
     "main": "release/go.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/NorthwoodsSoftware/GoJS"
+    "repository": "https://github.com/NorthwoodsSoftware/GoJS",
+    "other": {
+      "author": "Northwoods Software",
+      "bugs": {
+        "url": "https://forum.nwoods.com/c/gojs",
+        "email": "gojs@nwoods.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -235,6 +234,7 @@
   },
   "filename": "octavio-git___meus-arquivos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:25:21.345Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:09.724Z"
+  "lastFetchedAt": "2017-10-23T17:43:37.381Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:09.724Z",
+  "archived": false
 }

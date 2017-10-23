@@ -5,7 +5,7 @@
   "owner": {
     "login": "ZBoxApp",
     "id": 10992791,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10992791?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10992791?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ZBoxApp",
     "htmlUrl": "https://github.com/ZBoxApp",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "ZBoxApp",
     "id": 10992791,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10992791?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10992791?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ZBoxApp",
     "htmlUrl": "https://github.com/ZBoxApp",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "lloeki",
       "id": 75445,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lloeki",
       "htmlUrl": "https://github.com/lloeki",
@@ -99,7 +99,7 @@
     "downloadsUrl": "https://api.github.com/repos/lloeki/matterfront/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lloeki/matterfront/deployments",
     "createdAt": "2015-10-26T17:08:43.000Z",
-    "updatedAt": "2017-04-19T17:30:25.000Z",
+    "updatedAt": "2017-10-13T12:33:08.000Z",
     "pushedAt": "2016-03-17T09:10:14.000Z",
     "gitUrl": "git://github.com/lloeki/matterfront.git",
     "sshUrl": "git@github.com:lloeki/matterfront.git",
@@ -115,8 +115,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 17,
     "openIssues": 17,
     "watchers": 161,
@@ -129,7 +130,7 @@
     "owner": {
       "login": "lloeki",
       "id": 75445,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lloeki",
       "htmlUrl": "https://github.com/lloeki",
@@ -159,7 +160,7 @@
     "downloadsUrl": "https://api.github.com/repos/lloeki/matterfront/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lloeki/matterfront/deployments",
     "createdAt": "2015-10-26T17:08:43.000Z",
-    "updatedAt": "2017-04-19T17:30:25.000Z",
+    "updatedAt": "2017-10-13T12:33:08.000Z",
     "pushedAt": "2016-03-17T09:10:14.000Z",
     "gitUrl": "git://github.com/lloeki/matterfront.git",
     "sshUrl": "git@github.com:lloeki/matterfront.git",
@@ -175,14 +176,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 17,
     "openIssues": 17,
     "watchers": 161,
     "defaultBranch": "master"
   },
-  "networkCount": 37,
+  "networkCount": 36,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -190,23 +192,16 @@
     "version": "1.3.0-beta1",
     "description": "ZBox Now! frontend app powered by electron",
     "homepage": "https://github.com/ZBoxApp/matterfront",
-    "author": "Elias Nahum <elias@zboxapp.com> (https://github.com/ZBoxApp)",
     "scripts": {
       "start": "electron ./src --dev-mode"
     },
     "electronVersion": "0.37.2",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ZBoxApp/matterfront"
-    },
+    "repository": "https://github.com/ZBoxApp/matterfront",
     "keywords": [
       "Mattermost",
       "electron"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ZBoxApp/matterfront/issues"
-    },
     "devDependencies": {
       "del": "^2.2.0",
       "electron-prebuilt": "^0.37.2",
@@ -220,6 +215,12 @@
     },
     "dependencies": {
       "electron-packager": "^5.2.0"
+    },
+    "other": {
+      "author": "Elias Nahum <elias@zboxapp.com> (https://github.com/ZBoxApp)",
+      "bugs": {
+        "url": "https://github.com/ZBoxApp/matterfront/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -268,6 +269,7 @@
   "svnUrl": "https://github.com/ZBoxApp/matterfront",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:26:15.195Z",
-  "packageLastFetchedAt": "2017-05-05T17:09:24.167Z"
+  "lastFetchedAt": "2017-10-23T21:01:23.876Z",
+  "packageLastFetchedAt": "2017-05-05T17:09:24.167Z",
+  "archived": false
 }

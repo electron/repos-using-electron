@@ -6,7 +6,7 @@
   "owner": {
     "login": "usaukel",
     "id": 5437612,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5437612?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5437612?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/usaukel",
     "htmlUrl": "https://github.com/usaukel",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "sindresorhus",
       "id": 170270,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/170270?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/170270?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/sindresorhus",
       "htmlUrl": "https://github.com/sindresorhus",
@@ -101,27 +101,28 @@
     "downloadsUrl": "https://api.github.com/repos/sindresorhus/generator-electron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/sindresorhus/generator-electron/deployments",
     "createdAt": "2015-04-23T11:28:40.000Z",
-    "updatedAt": "2017-05-04T04:06:34.000Z",
-    "pushedAt": "2017-03-03T21:33:05.000Z",
+    "updatedAt": "2017-10-23T14:41:55.000Z",
+    "pushedAt": "2017-05-08T15:53:46.000Z",
     "gitUrl": "git://github.com/sindresorhus/generator-electron.git",
     "sshUrl": "git@github.com:sindresorhus/generator-electron.git",
     "cloneUrl": "https://github.com/sindresorhus/generator-electron.git",
     "svnUrl": "https://github.com/sindresorhus/generator-electron",
     "homepage": "https://github.com/sindresorhus/electron-boilerplate",
-    "size": 77,
-    "stargazersCount": 495,
-    "watchersCount": 495,
+    "size": 69,
+    "stargazersCount": 545,
+    "watchersCount": 545,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 43,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 495,
+    "watchers": 545,
     "defaultBranch": "master"
   },
   "source": {
@@ -131,7 +132,7 @@
     "owner": {
       "login": "sindresorhus",
       "id": 170270,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/170270?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/170270?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/sindresorhus",
       "htmlUrl": "https://github.com/sindresorhus",
@@ -161,44 +162,40 @@
     "downloadsUrl": "https://api.github.com/repos/sindresorhus/generator-electron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/sindresorhus/generator-electron/deployments",
     "createdAt": "2015-04-23T11:28:40.000Z",
-    "updatedAt": "2017-05-04T04:06:34.000Z",
-    "pushedAt": "2017-03-03T21:33:05.000Z",
+    "updatedAt": "2017-10-23T14:41:55.000Z",
+    "pushedAt": "2017-05-08T15:53:46.000Z",
     "gitUrl": "git://github.com/sindresorhus/generator-electron.git",
     "sshUrl": "git@github.com:sindresorhus/generator-electron.git",
     "cloneUrl": "https://github.com/sindresorhus/generator-electron.git",
     "svnUrl": "https://github.com/sindresorhus/generator-electron",
     "homepage": "https://github.com/sindresorhus/electron-boilerplate",
-    "size": 77,
-    "stargazersCount": 495,
-    "watchersCount": 495,
+    "size": 69,
+    "stargazersCount": 545,
+    "watchersCount": 545,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 43,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 495,
+    "watchers": 545,
     "defaultBranch": "master"
   },
-  "networkCount": 37,
+  "networkCount": 43,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:28:05.654Z",
+  "lastFetchedAt": "2017-10-23T18:18:36.346Z",
   "packageJSON": {
     "name": "generator-electron",
     "version": "1.20.0",
     "description": "Scaffold out an Electron app boilerplate",
     "license": "MIT",
     "repository": "sindresorhus/generator-electron",
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "sindresorhus.com"
-    },
     "engines": {
       "node": ">=4"
     },
@@ -238,8 +235,16 @@
       "ignores": [
         "app/templates/**"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:05:11.510Z"
+  "packageLastFetchedAt": "2017-05-05T17:05:11.510Z",
+  "archived": false
 }

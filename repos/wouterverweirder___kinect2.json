@@ -5,7 +5,7 @@
   "owner": {
     "login": "wouterverweirder",
     "id": 1126343,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1126343?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1126343?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wouterverweirder",
     "htmlUrl": "https://github.com/wouterverweirder",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/wouterverweirder/kinect2/downloads",
   "deploymentsUrl": "https://api.github.com/repos/wouterverweirder/kinect2/deployments",
   "createdAt": "2014-10-06T14:25:52.000Z",
-  "updatedAt": "2017-05-03T21:30:43.000Z",
+  "updatedAt": "2017-10-21T16:08:32.000Z",
   "pushedAt": "2016-10-30T10:57:07.000Z",
   "gitUrl": "git://github.com/wouterverweirder/kinect2.git",
   "sshUrl": "git@github.com:wouterverweirder/kinect2.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/wouterverweirder/kinect2",
   "homepage": null,
   "size": 496,
-  "stargazersCount": 128,
-  "watchersCount": 128,
+  "stargazersCount": 144,
+  "watchersCount": 144,
   "language": "C++",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 26,
+  "forksCount": 35,
   "mirrorUrl": null,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 128,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 144,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 26,
-  "subscribersCount": 17,
+  "networkCount": 35,
+  "subscribersCount": 18,
   "status": 200,
   "packageJSON": {
     "name": "kinect2",
@@ -83,10 +83,7 @@
       "build:electron": "node tools/electronbuild.js",
       "echo-node-version-info": "node tools/echo-node-version-info.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wouterverweirder/kinect2.git"
-    },
+    "repository": "https://github.com/wouterverweirder/kinect2",
     "os": [
       "win32"
     ],
@@ -101,11 +98,7 @@
       "kinect2",
       "sdk"
     ],
-    "author": "Wouter Verweirder",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/wouterverweirder/kinect2/issues"
-    },
     "homepage": "https://github.com/wouterverweirder/kinect2",
     "dependencies": {
       "nan": "^2.3.2",
@@ -119,6 +112,12 @@
       "jsdom": "^6.5.1",
       "minimist": "^1.2.0",
       "node-pre-gyp-github": "^1.3.1"
+    },
+    "other": {
+      "author": "Wouter Verweirder",
+      "bugs": {
+        "url": "https://github.com/wouterverweirder/kinect2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "wouterverweirder___kinect2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:16.025Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:03.174Z"
+  "lastFetchedAt": "2017-10-23T17:50:51.161Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:03.174Z",
+  "archived": false
 }

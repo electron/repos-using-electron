@@ -5,7 +5,7 @@
   "owner": {
     "login": "johnrizzo1",
     "id": 126500,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/126500?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/126500?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/johnrizzo1",
     "htmlUrl": "https://github.com/johnrizzo1",
@@ -75,7 +75,6 @@
     "name": "ng2-admin",
     "version": "0.7.0",
     "description": "Angular 2 and Bootstrap 4 Admin Template.",
-    "author": "akveo",
     "homepage": "http://akveo.github.io/ng2-admin/",
     "license": "MIT",
     "dependencies": {
@@ -215,16 +214,16 @@
       "postversion": "git push && git push --tags",
       "electron": "electron ./src/electron/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "akveo",
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -252,6 +251,7 @@
   },
   "filename": "johnrizzo1___angular2-todo-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:32.822Z",
-  "packageLastFetchedAt": "2017-05-05T06:34:54.943Z"
+  "lastFetchedAt": "2017-10-23T19:00:46.742Z",
+  "packageLastFetchedAt": "2017-05-05T06:34:54.943Z",
+  "archived": false
 }

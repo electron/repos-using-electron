@@ -5,7 +5,7 @@
   "owner": {
     "login": "simonlovesyou",
     "id": 10086551,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10086551?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10086551?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/simonlovesyou",
     "htmlUrl": "https://github.com/simonlovesyou",
@@ -56,9 +56,6 @@
     "version": "1.0.0",
     "description": "A filesystem directory sorter that will sort the contents of a folder dependent on user specified rules.",
     "main": "client/logic/index.js",
-    "directories": {
-      "test": "test"
-    },
     "devDependencies": {
       "electron-prebuilt": "^0.33.6",
       "grunt": "^0.4.5",
@@ -77,19 +74,21 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/simonlovesyou/simon-says.git"
-    },
+    "repository": "https://github.com/simonlovesyou/simon-says",
     "keywords": [
       "fs"
     ],
-    "author": "simonlovesyou",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/simonlovesyou/Simon-says/issues"
-    },
-    "homepage": "https://github.com/simonlovesyou/Simon-says"
+    "homepage": "https://github.com/simonlovesyou/Simon-says",
+    "other": {
+      "author": "simonlovesyou",
+      "bugs": {
+        "url": "https://github.com/simonlovesyou/Simon-says/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/simonlovesyou/Simon-Says",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:39:39.585Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:42.387Z"
+  "lastFetchedAt": "2017-10-23T18:47:21.324Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:42.387Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "PokemonGo-Enhanced",
     "id": 20595859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20595859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20595859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PokemonGo-Enhanced",
     "htmlUrl": "https://github.com/PokemonGo-Enhanced",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "PokemonGo-Enhanced",
     "id": 20595859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20595859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20595859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PokemonGo-Enhanced",
     "htmlUrl": "https://github.com/PokemonGo-Enhanced",
@@ -67,23 +67,22 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/PokemonGo-Enhanced/Enhanced-Electron.git"
-    },
+    "repository": "https://github.com/PokemonGo-Enhanced/Enhanced-Electron",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "",
     "devDependencies": {
       "electron-prebuilt": "*"
     },
     "dependencies": {
       "enhanced-backend": "github:pokemongo-enhanced/Enhanced-Backend"
+    },
+    "other": {
+      "author": "GitHub"
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   "svnUrl": "https://github.com/PokemonGo-Enhanced/Enhanced-Electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:48:42.143Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:43.924Z"
+  "lastFetchedAt": "2017-10-23T17:07:28.858Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:43.924Z",
+  "archived": false
 }

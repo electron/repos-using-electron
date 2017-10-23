@@ -5,7 +5,7 @@
   "owner": {
     "login": "jonatasfreitasv",
     "id": 8763192,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8763192?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8763192?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jonatasfreitasv",
     "htmlUrl": "https://github.com/jonatasfreitasv",
@@ -76,20 +76,13 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jonatasfreitasv/duolingo_desktop.git"
-    },
+    "repository": "https://github.com/jonatasfreitasv/duolingo_desktop",
     "keywords": [
       "mindmeister",
       "desktop",
       "mindmap"
     ],
-    "author": "Jonatas Freitas",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/jonatasfreitasv/duolingo_desktop/issues"
-    },
     "build": {
       "appId": "duolingo_desktop.id",
       "category": "duolingo.desktop.english.learning",
@@ -102,6 +95,12 @@
       "electron-builder": "^5.34.1",
       "electron-packager": "^7.7.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Jonatas Freitas",
+      "bugs": {
+        "url": "https://github.com/jonatasfreitasv/duolingo_desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "filename": "jonatasfreitasv___duolingo_desktop.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:17:22.977Z",
-  "packageLastFetchedAt": "2017-05-04T22:13:11.732Z"
+  "lastFetchedAt": "2017-10-23T19:23:46.268Z",
+  "packageLastFetchedAt": "2017-05-04T22:13:11.732Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Banjerr",
     "id": 4173446,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4173446?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4173446?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Banjerr",
     "htmlUrl": "https://github.com/Banjerr",
@@ -79,20 +79,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Banjerr/Notifusion.git"
-    },
+    "repository": "https://github.com/Banjerr/Notifusion",
     "keywords": [
       "Infusionsoft",
       "notification",
       "CRM"
     ],
-    "author": "Ben Redden",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/Banjerr/issues"
-    },
     "homepage": "http://countryfriedcoders.me",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0",
@@ -129,6 +122,12 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Ben Redden",
+      "bugs": {
+        "url": "https://github.com/Banjerr/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "Banjerr___Notifusion.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:26.341Z",
-  "packageLastFetchedAt": "2017-05-05T11:36:58.653Z"
+  "lastFetchedAt": "2017-10-23T20:06:27.831Z",
+  "packageLastFetchedAt": "2017-05-05T11:36:58.653Z",
+  "archived": false
 }

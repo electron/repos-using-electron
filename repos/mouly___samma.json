@@ -5,7 +5,7 @@
   "owner": {
     "login": "mouly",
     "id": 125820,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/125820?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/125820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mouly",
     "htmlUrl": "https://github.com/mouly",
@@ -70,16 +70,15 @@
       "build": "electron-packager . samma --platform=darwin --arch=x64 --version=0.30.3 --ignore=node_modules/electron --icon=Icon.icns",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mouly/samma.git"
-    },
-    "author": "mouly kumar",
+    "repository": "https://github.com/mouly/samma",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mouly/samma/issues"
-    },
-    "homepage": "https://github.com/mouly/samma"
+    "homepage": "https://github.com/mouly/samma",
+    "other": {
+      "author": "mouly kumar",
+      "bugs": {
+        "url": "https://github.com/mouly/samma/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mouly/samma",
@@ -126,6 +125,7 @@
   },
   "filename": "mouly___samma.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:33.963Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:16.435Z"
+  "lastFetchedAt": "2017-10-23T20:29:55.452Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:16.435Z",
+  "archived": false
 }

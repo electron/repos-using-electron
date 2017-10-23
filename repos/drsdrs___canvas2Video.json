@@ -5,7 +5,7 @@
   "owner": {
     "login": "drsdrs",
     "id": 3913806,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3913806?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3913806?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/drsdrs",
     "htmlUrl": "https://github.com/drsdrs",
@@ -79,19 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "drs",
     "license": "none",
-    "bugs": "",
     "homepage": "",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -114,6 +109,10 @@
       "pixi": "^0.3.1",
       "typedarray-to-buffer": "^3.0.4",
       "wav": "^1.0.0"
+    },
+    "other": {
+      "author": "drs",
+      "bugs": ""
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "drsdrs___canvas2Video.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:21.418Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:54.218Z"
+  "lastFetchedAt": "2017-10-23T17:16:11.526Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:54.218Z",
+  "archived": false
 }

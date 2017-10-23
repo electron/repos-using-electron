@@ -5,7 +5,7 @@
   "owner": {
     "login": "kjbrum",
     "id": 1709677,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1709677?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1709677?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kjbrum",
     "htmlUrl": "https://github.com/kjbrum",
@@ -55,7 +55,6 @@
     "name": "TaB",
     "version": "0.0.1",
     "description": "A simple app built with Node.js that uses notifications to remind you to take periodic breaks throughout the day.",
-    "author": "Kyle Brumm",
     "main": "main.js",
     "scripts": {
       "start": "electron ."
@@ -78,6 +77,9 @@
     "dependencies": {
       "forever-monitor": "^1.5.2",
       "node-notifier": "^4.2.1"
+    },
+    "other": {
+      "author": "Kyle Brumm"
     }
   },
   "packageStatus": 200,
@@ -125,6 +127,7 @@
   },
   "filename": "kjbrum___TaB.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:44:34.584Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:24.437Z"
+  "lastFetchedAt": "2017-10-23T20:11:59.373Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:24.437Z",
+  "archived": false
 }

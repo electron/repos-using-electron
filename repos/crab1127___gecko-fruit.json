@@ -6,7 +6,7 @@
   "owner": {
     "login": "crab1127",
     "id": 1563247,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1563247?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1563247?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/crab1127",
     "htmlUrl": "https://github.com/crab1127",
@@ -85,7 +85,6 @@
       "vuex:module": "node tasks/vuex/module.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -121,7 +120,10 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +149,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:03.914Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:40.307Z"
+  "lastFetchedAt": "2017-10-23T18:05:22.528Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:40.307Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Urucas",
     "id": 4325735,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4325735?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4325735?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Urucas",
     "htmlUrl": "https://github.com/Urucas",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Urucas",
     "id": 4325735,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4325735?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4325735?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Urucas",
     "htmlUrl": "https://github.com/Urucas",
@@ -73,21 +73,14 @@
     "scripts": {
       "start": "./bin/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Urucas/adb-tcp-quick-app.git"
-    },
+    "repository": "https://github.com/Urucas/adb-tcp-quick-app",
     "keywords": [
       "android",
       "adb",
       "usb",
       "wifi"
     ],
-    "author": "Urucas <hello@urucas.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Urucas/adb-tcp-quick-app/issues"
-    },
     "homepage": "https://github.com/Urucas/adb-tcp-quick-app#readme",
     "dependencies": {
       "angular": "^1.4.7",
@@ -95,6 +88,12 @@
       "electron-prebuilt": "^0.34.3",
       "font-awesome": "^4.4.0",
       "menubar": "^2.3.0"
+    },
+    "other": {
+      "author": "Urucas <hello@urucas.com>",
+      "bugs": {
+        "url": "https://github.com/Urucas/adb-tcp-quick-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "Urucas___adb-tcp-quick-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:54.496Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:58.379Z"
+  "lastFetchedAt": "2017-10-23T17:44:15.428Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:58.379Z",
+  "archived": false
 }

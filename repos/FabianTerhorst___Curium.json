@@ -5,7 +5,7 @@
   "owner": {
     "login": "FabianTerhorst",
     "id": 3597376,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3597376?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3597376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FabianTerhorst",
     "htmlUrl": "https://github.com/FabianTerhorst",
@@ -59,21 +59,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8",
@@ -81,7 +74,13 @@
       "nan": "^2.0.0"
     },
     "gypfile": true,
-    "private": true
+    "private": true,
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/FabianTerhorst/Curium",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:12:47.868Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:36.719Z"
+  "lastFetchedAt": "2017-10-23T17:57:05.051Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:36.719Z",
+  "archived": false
 }

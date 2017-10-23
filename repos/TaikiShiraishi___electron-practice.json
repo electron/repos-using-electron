@@ -5,7 +5,7 @@
   "owner": {
     "login": "TaikiShiraishi",
     "id": 16092754,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16092754?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16092754?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TaikiShiraishi",
     "htmlUrl": "https://github.com/TaikiShiraishi",
@@ -17,12 +17,12 @@
     "type": "User"
   },
   "private": false,
-  "description": "electron怒涛の入門",
+  "description": null,
   "fork": false,
   "createdAt": "2015-12-21T09:10:48.000Z",
-  "updatedAt": "2015-12-21T09:14:56.000Z",
+  "updatedAt": "2017-07-26T10:28:06.000Z",
   "pushedAt": "2015-12-21T09:14:55.000Z",
-  "homepage": null,
+  "homepage": "",
   "size": 1,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -55,11 +55,13 @@
       "build": "node_modules/.bin/electron .",
       "release": "node release.js"
     },
-    "author": "",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^5.2.0",
       "electron-prebuilt": "^0.36.1"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -107,6 +109,7 @@
   "svnUrl": "https://github.com/TaikiShiraishi/electron-practice",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:43:25.405Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:52.068Z"
+  "lastFetchedAt": "2017-10-23T17:10:22.016Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:52.068Z",
+  "archived": false
 }

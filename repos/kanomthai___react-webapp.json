@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-webpack-app",
     "version": "0.0.1",
@@ -81,15 +81,8 @@
       "build": "webpack --progress --colors  --watch && electron src",
       "dev": "webpack-dev-server --progress --colors"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kanomthai/react-webapp.git"
-    },
-    "author": "Taweechai Yuenyang",
+    "repository": "https://github.com/kanomthai/react-webapp",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kanomthai/react-webapp/issues"
-    },
     "homepage": "https://github.com/kanomthai/react-webapp#readme",
     "dependencies": {
       "Q": "0.0.1",
@@ -132,6 +125,12 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.13.3",
       "webpack-dev-server": "^1.16.2"
+    },
+    "other": {
+      "author": "Taweechai Yuenyang",
+      "bugs": {
+        "url": "https://github.com/kanomthai/react-webapp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,6 @@
   },
   "filename": "kanomthai___react-webapp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:47.442Z",
+  "lastFetchedAt": "2017-10-23T20:09:55.148Z",
   "packageLastFetchedAt": "2017-05-05T17:14:09.995Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Cu3PO42",
     "id": 5256300,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5256300?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5256300?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cu3PO42",
     "htmlUrl": "https://github.com/Cu3PO42",
@@ -20,10 +20,10 @@
   "description": "A cross platform KeySAV. Documentation:",
   "fork": false,
   "createdAt": "2015-07-27T23:27:49.000Z",
-  "updatedAt": "2017-02-04T01:11:40.000Z",
-  "pushedAt": "2016-12-17T18:18:00.000Z",
+  "updatedAt": "2017-10-19T20:48:40.000Z",
+  "pushedAt": "2017-08-29T11:07:48.000Z",
   "homepage": "https://cu3po42.gitbooks.io/keysave/content/",
-  "size": 26579,
+  "size": 26570,
   "stargazersCount": 20,
   "watchersCount": 20,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 3,
-  "openIssuesCount": 26,
-  "openIssues": 26,
+  "openIssuesCount": 19,
+  "openIssues": 19,
   "watchers": 20,
   "defaultBranch": "master",
   "permissions": {
@@ -50,10 +50,7 @@
     "productName": "KeySAVe",
     "version": "1.4.0",
     "description": "A cross platform KeySAV based on GitHub Electron for all your Generation VI Pokémon decryption needs.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Cu3PO42/KeySAVe.git"
-    },
+    "repository": "https://github.com/Cu3PO42/KeySAVe",
     "main": "./serverlib",
     "scripts": {
       "start": "cross-env NODE_ENV=production electron ./",
@@ -66,7 +63,6 @@
       "package": "cross-env NODE_ENV=production node package.js",
       "postinstall": "npm run installnativedeps && node node_modules/fbjs-scripts/node/check-dev-engines.js package.json"
     },
-    "author": "Cu3PO42",
     "license": "MIT",
     "devDependencies": {
       "asar": "^0.11.0",
@@ -177,6 +173,9 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x || 7.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": "Cu3PO42"
     }
   },
   "packageStatus": 200,
@@ -224,6 +223,7 @@
   "svnUrl": "https://github.com/Cu3PO42/KeySAVe",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:31.662Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:04.532Z"
+  "lastFetchedAt": "2017-10-23T17:34:48.537Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:04.532Z",
+  "archived": false
 }

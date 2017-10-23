@@ -5,7 +5,7 @@
   "owner": {
     "login": "jakubzitny",
     "id": 3315662,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3315662?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3315662?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jakubzitny",
     "htmlUrl": "https://github.com/jakubzitny",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "coffee-loader": "^0.7.2",
@@ -104,6 +97,12 @@
     "dependencies": {
       "raven": "^0.10.0",
       "webpack": "^1.12.13"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   "filename": "jakubzitny___senel.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:04.233Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:23.404Z"
+  "lastFetchedAt": "2017-10-23T21:04:03.818Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:23.404Z",
+  "archived": false
 }

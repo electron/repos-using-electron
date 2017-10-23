@@ -5,7 +5,7 @@
   "owner": {
     "login": "Phxstick",
     "id": 22074114,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/22074114?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/22074114?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Phxstick",
     "htmlUrl": "https://github.com/Phxstick",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/Phxstick/acnicoy/deployments",
   "createdAt": "2016-09-22T10:24:04.000Z",
   "updatedAt": "2016-10-27T15:28:25.000Z",
-  "pushedAt": "2017-04-20T13:09:35.000Z",
+  "pushedAt": "2017-10-12T12:41:50.000Z",
   "gitUrl": "git://github.com/Phxstick/acnicoy.git",
   "sshUrl": "git@github.com:Phxstick/acnicoy.git",
   "cloneUrl": "https://github.com/Phxstick/acnicoy.git",
   "svnUrl": "https://github.com/Phxstick/acnicoy",
   "homepage": "",
-  "size": 11790,
+  "size": 12256,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -61,7 +61,13 @@
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdxId": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "featured": true
+  },
   "networkCount": 1,
   "subscribersCount": 0,
   "status": 200,
@@ -69,7 +75,6 @@
     "name": "acnicoy",
     "version": "0.1.0",
     "description": "A tool for learning Japanese and other languages",
-    "author": "Daniel Bindemann",
     "keywords": [
       "electron",
       "languages",
@@ -102,6 +107,9 @@
     },
     "scripts": {
       "postinstall": "install-app-deps"
+    },
+    "other": {
+      "author": "Daniel Bindemann"
     }
   },
   "packageStatus": 200,
@@ -129,6 +137,7 @@
   },
   "filename": "Phxstick___acnicoy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:38:36.675Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:36.733Z"
+  "lastFetchedAt": "2017-10-23T20:41:56.565Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:36.733Z",
+  "archived": false
 }

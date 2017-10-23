@@ -5,7 +5,7 @@
   "owner": {
     "login": "chinedufn",
     "id": 2099811,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2099811?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2099811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chinedufn",
     "htmlUrl": "https://github.com/chinedufn",
@@ -50,16 +50,10 @@
     "version": "1.0.0",
     "description": "Insert a :hover class into the DOM and return the classname",
     "main": "src/insert-hover-class.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "standard && node test/insert-hover-class.js && browserify test/insert-hover-class.js | testron"
     },
-    "repository": {
-      "type": "git",
-      "url": "htts://github.com/chinedufn/insert-hover-class"
-    },
+    "repository": "https://github.com/chinedufn/insert-hover-class",
     "keywords": [
       "virtual-dom",
       "vdom",
@@ -68,7 +62,6 @@
       "selector",
       "class"
     ],
-    "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "create-hover-class": "^1.0.0",
@@ -80,6 +73,12 @@
       "standard": "^5.4.1",
       "tape": "^4.4.0",
       "testron": "^1.2.0"
+    },
+    "other": {
+      "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/chinedufn/insert-hover-class",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:31:06.093Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:22.943Z"
+  "lastFetchedAt": "2017-10-23T18:06:39.998Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:22.943Z",
+  "archived": false
 }

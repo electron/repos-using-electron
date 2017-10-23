@@ -5,7 +5,7 @@
   "owner": {
     "login": "logicalparadox",
     "id": 58988,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/58988?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/58988?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/logicalparadox",
     "htmlUrl": "https://github.com/logicalparadox",
@@ -49,16 +49,11 @@
     "name": "gryn",
     "version": "0.3.1",
     "description": "Procfile based process management.",
-    "author": "Jake Luer <jake@alogicalpardox.com> (http://alogicalparadox.com)",
     "license": "MIT",
-    "contributors": [],
     "keywords": [
       "procfile"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:logicalparadox/gryn.git"
-    },
+    "repository": "https://github.com/logicalparadox/gryn",
     "engines": {
       "node": ">= 0.8.0"
     },
@@ -77,6 +72,10 @@
     "devDependencies": {
       "chai": "*",
       "mocha": "*"
+    },
+    "other": {
+      "author": "Jake Luer <jake@alogicalpardox.com> (http://alogicalparadox.com)",
+      "contributors": []
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/logicalparadox/gryn",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:53:57.128Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:20.851Z"
+  "lastFetchedAt": "2017-10-23T20:31:09.638Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:20.851Z",
+  "archived": false
 }

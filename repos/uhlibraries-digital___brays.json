@@ -5,7 +5,7 @@
   "owner": {
     "login": "uhlibraries-digital",
     "id": 16758756,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16758756?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16758756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uhlibraries-digital",
     "htmlUrl": "https://github.com/uhlibraries-digital",
@@ -20,21 +20,21 @@
   "description": "Metadata workflow utility",
   "fork": false,
   "createdAt": "2016-04-13T13:25:12.000Z",
-  "updatedAt": "2017-02-22T20:08:07.000Z",
-  "pushedAt": "2017-04-10T15:59:16.000Z",
+  "updatedAt": "2017-09-28T15:37:34.000Z",
+  "pushedAt": "2017-10-06T10:34:23.000Z",
   "homepage": "",
-  "size": 2597,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 2631,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 1,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "uhlibraries-digital",
     "id": 16758756,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16758756?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16758756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uhlibraries-digital",
     "htmlUrl": "https://github.com/uhlibraries-digital",
@@ -83,14 +83,7 @@
       "package:linux": "npm run build && babel-node scripts/package.js --platform=linux",
       "start": "npm run electron"
     },
-    "author": {
-      "name": "Sean Watkins",
-      "email": "slwatkins@uh.edu"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/uhlibraries-digital/brays"
-    },
+    "repository": "https://github.com/uhlibraries-digital/brays",
     "license": "MIT",
     "devDependencies": {
       "@angular/common": "2.0.0-rc.5",
@@ -133,6 +126,12 @@
     "dependencies": {
       "font-awesome": "^4.6.3",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": {
+        "name": "Sean Watkins",
+        "email": "slwatkins@uh.edu"
+      }
     }
   },
   "packageStatus": 200,
@@ -180,6 +179,7 @@
   },
   "filename": "uhlibraries-digital___brays.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:29:08.979Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:54.123Z"
+  "lastFetchedAt": "2017-10-23T21:07:13.548Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:54.123Z",
+  "archived": false
 }

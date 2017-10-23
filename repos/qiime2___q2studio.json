@@ -5,7 +5,7 @@
   "owner": {
     "login": "qiime2",
     "id": 18176583,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18176583?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18176583?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qiime2",
     "htmlUrl": "https://github.com/qiime2",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/qiime2/q2studio",
-  "description": "A web interface for QIIME 2",
+  "description": "Prototype graphical user interface for QIIME 2",
   "fork": false,
   "url": "https://api.github.com/repos/qiime2/q2studio",
   "forksUrl": "https://api.github.com/repos/qiime2/q2studio/forks",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/qiime2/q2studio/downloads",
   "deploymentsUrl": "https://api.github.com/repos/qiime2/q2studio/deployments",
   "createdAt": "2016-03-30T23:45:08.000Z",
-  "updatedAt": "2016-10-27T18:28:33.000Z",
-  "pushedAt": "2017-04-21T03:57:01.000Z",
+  "updatedAt": "2017-07-06T23:31:17.000Z",
+  "pushedAt": "2017-10-04T20:16:52.000Z",
   "gitUrl": "git://github.com/qiime2/q2studio.git",
   "sshUrl": "git@github.com:qiime2/q2studio.git",
   "cloneUrl": "https://github.com/qiime2/q2studio.git",
   "svnUrl": "https://github.com/qiime2/q2studio",
-  "homepage": null,
-  "size": 314,
+  "homepage": "",
+  "size": 345,
   "stargazersCount": 4,
   "watchersCount": 4,
   "language": "JavaScript",
@@ -50,10 +50,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 9,
   "mirrorUrl": null,
-  "openIssuesCount": 7,
-  "openIssues": 7,
+  "openIssuesCount": 9,
+  "openIssues": 9,
   "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
@@ -71,7 +71,7 @@
   "organization": {
     "login": "qiime2",
     "id": 18176583,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18176583?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18176583?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qiime2",
     "htmlUrl": "https://github.com/qiime2",
@@ -82,19 +82,15 @@
     "receivedEventsUrl": "https://api.github.com/users/qiime2/received_events",
     "type": "Organization"
   },
-  "networkCount": 8,
-  "subscribersCount": 7,
+  "networkCount": 9,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "q2studio",
     "version": "2017.4.0",
     "description": "A web-based interface for QIIME 2.",
-    "author": "QIIME 2 Development Team",
     "license": "BSD-3-Clause",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/qiime2/q2studio.git"
-    },
+    "repository": "https://github.com/qiime2/q2studio",
     "scripts": {
       "lint:css": "stylelint 'app/**/*.css' --config config/stylelint.yaml",
       "lint:js": "eslint app/ config/ --ext .js,.jsx --config config/eslint.yaml",
@@ -174,7 +170,10 @@
         "transform-object-rest-spread"
       ]
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": "QIIME 2 Development Team"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -201,6 +200,7 @@
   },
   "filename": "qiime2___q2studio.json",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T18:17:53.384Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:27.766Z"
+  "lastFetchedAt": "2017-10-23T21:05:06.822Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:27.766Z",
+  "archived": false
 }

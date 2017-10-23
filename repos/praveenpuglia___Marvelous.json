@@ -5,7 +5,7 @@
   "owner": {
     "login": "praveenpuglia",
     "id": 313363,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/313363?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/313363?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/praveenpuglia",
     "htmlUrl": "https://github.com/praveenpuglia",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "hashd",
       "id": 945317,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/945317?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/945317?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/hashd",
       "htmlUrl": "https://github.com/hashd",
@@ -85,7 +85,7 @@
     "downloadsUrl": "https://api.github.com/repos/hashd/Marvelous/downloads",
     "deploymentsUrl": "https://api.github.com/repos/hashd/Marvelous/deployments",
     "createdAt": "2015-07-03T17:13:31.000Z",
-    "updatedAt": "2017-02-13T09:12:14.000Z",
+    "updatedAt": "2017-05-12T09:06:52.000Z",
     "pushedAt": "2015-07-21T14:58:53.000Z",
     "gitUrl": "git://github.com/hashd/Marvelous.git",
     "sshUrl": "git@github.com:hashd/Marvelous.git",
@@ -103,6 +103,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 10,
     "openIssues": 10,
     "watchers": 9,
@@ -115,7 +116,7 @@
     "owner": {
       "login": "vamsi008",
       "id": 7334035,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/7334035?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7334035?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/vamsi008",
       "htmlUrl": "https://github.com/vamsi008",
@@ -163,6 +164,7 @@
     "hasPages": false,
     "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 7,
@@ -175,32 +177,6 @@
     "name": "Marvelous",
     "description": "Markdown editor for the future",
     "version": "0.0.1",
-    "author": "Team LeanTaaS <leantaas@imaginea.com>",
-    "contributors": [
-      {
-        "name": "Vamsi Chava",
-        "email": "vamsi.chava@imaginea.com"
-      },
-      {
-        "name": "Kiran Danduprolu",
-        "email": "kiran.d@imaginea.com"
-      },
-      {
-        "name": "Sudhir Chokkakula",
-        "email": "sudhir.chokkakula@imaginea.com"
-      },
-      {
-        "name": "Srikanth Pothkanuri",
-        "email": "srikanth.p@imaginea.com"
-      },
-      {
-        "name": "Praveen Puglia",
-        "email": "praveen.puglia@imaginea.com"
-      }
-    ],
-    "bugs": {
-      "url": "https://github.com/hashd/Marvelous/issues"
-    },
     "devDependencies": {
       "electron-packager": "^5.0.0",
       "electron-prebuilt": "^0.29.1",
@@ -222,6 +198,34 @@
       "start": "electron .",
       "build": "electron-packager . Marvelous --platform=linux --arch=all --version=0.29.2 --icon=app/img/marvelous.svg --out=./build/ --overwrite && gulp release:linux",
       "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "other": {
+      "author": "Team LeanTaaS <leantaas@imaginea.com>",
+      "bugs": {
+        "url": "https://github.com/hashd/Marvelous/issues"
+      },
+      "contributors": [
+        {
+          "name": "Vamsi Chava",
+          "email": "vamsi.chava@imaginea.com"
+        },
+        {
+          "name": "Kiran Danduprolu",
+          "email": "kiran.d@imaginea.com"
+        },
+        {
+          "name": "Sudhir Chokkakula",
+          "email": "sudhir.chokkakula@imaginea.com"
+        },
+        {
+          "name": "Srikanth Pothkanuri",
+          "email": "srikanth.p@imaginea.com"
+        },
+        {
+          "name": "Praveen Puglia",
+          "email": "praveen.puglia@imaginea.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -270,6 +274,7 @@
   "svnUrl": "https://github.com/praveenpuglia/Marvelous",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:21:52.425Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:19.749Z"
+  "lastFetchedAt": "2017-10-23T18:35:18.503Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:19.749Z",
+  "archived": false
 }

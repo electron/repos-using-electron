@@ -5,7 +5,7 @@
   "owner": {
     "login": "prcbass",
     "id": 7999239,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7999239?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7999239?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prcbass",
     "htmlUrl": "https://github.com/prcbass",
@@ -74,15 +74,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/prcbass/deliveryfeeportioncalculator.git"
-    },
-    "author": "Sebastián S. Hernández",
+    "repository": "https://github.com/prcbass/deliveryfeeportioncalculator",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/prcbass/deliveryfeeportioncalculator/issues"
-    },
     "homepage": "https://github.com/prcbass/deliveryfeeportioncalculator#readme",
     "devDependencies": {
       "electron": "^1.4.0"
@@ -91,6 +84,12 @@
       "bootstrap": "^3.3.7",
       "jquery": "^3.1.1",
       "jsdom": "^9.5.0"
+    },
+    "other": {
+      "author": "Sebastián S. Hernández",
+      "bugs": {
+        "url": "https://github.com/prcbass/deliveryfeeportioncalculator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "prcbass___deliveryfeeportioncalculator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:23:11.758Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:28.158Z"
+  "lastFetchedAt": "2017-10-23T18:40:15.556Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:28.158Z",
+  "archived": false
 }

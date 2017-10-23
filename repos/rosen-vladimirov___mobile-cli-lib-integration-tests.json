@@ -5,7 +5,7 @@
   "owner": {
     "login": "rosen-vladimirov",
     "id": 8351653,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8351653?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8351653?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rosen-vladimirov",
     "htmlUrl": "https://github.com/rosen-vladimirov",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/rosen-vladimirov/mobile-cli-lib-integration-tests/deployments",
   "createdAt": "2016-05-16T21:21:26.000Z",
   "updatedAt": "2016-05-16T21:35:09.000Z",
-  "pushedAt": "2016-05-16T22:15:37.000Z",
+  "pushedAt": "2017-06-02T06:29:53.000Z",
   "gitUrl": "git://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests.git",
   "sshUrl": "git@github.com:rosen-vladimirov/mobile-cli-lib-integration-tests.git",
   "cloneUrl": "https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests.git",
   "svnUrl": "https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests",
   "homepage": null,
-  "size": 11,
+  "size": 43,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -79,19 +79,18 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests.git"
-    },
-    "author": "Rosen Vladimirov",
+    "repository": "https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests/issues"
-    },
     "homepage": "https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests#readme",
     "dependencies": {
       "electron-prebuilt": "0.35.5",
       "lodash": "4.12.0"
+    },
+    "other": {
+      "author": "Rosen Vladimirov",
+      "bugs": {
+        "url": "https://github.com/rosen-vladimirov/mobile-cli-lib-integration-tests/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "rosen-vladimirov___mobile-cli-lib-integration-tests.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:57.887Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:03.495Z"
+  "lastFetchedAt": "2017-10-23T18:55:53.203Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:03.495Z",
+  "archived": false
 }

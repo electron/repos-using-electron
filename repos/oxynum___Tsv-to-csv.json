@@ -6,7 +6,7 @@
   "owner": {
     "login": "oxynum",
     "id": 12599893,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12599893?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12599893?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/oxynum",
     "htmlUrl": "https://github.com/oxynum",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "oxynum",
     "id": 12599893,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12599893?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12599893?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/oxynum",
     "htmlUrl": "https://github.com/oxynum",
@@ -81,7 +81,7 @@
   "networkCount": 0,
   "subscribersCount": 3,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:04:11.551Z",
+  "lastFetchedAt": "2017-10-23T19:35:22.816Z",
   "packageJSON": {
     "name": "tsv-to-csv",
     "version": "1.0.0",
@@ -90,10 +90,7 @@
     "scripts": {
       "test": "test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/oxynum/Tsv-to-csv.git"
-    },
+    "repository": "https://github.com/oxynum/Tsv-to-csv",
     "keywords": [
       "csv",
       "tsv",
@@ -104,11 +101,7 @@
       "mail",
       "scrap"
     ],
-    "author": "Maxime Gasnier",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/oxynum/Tsv-to-csv/issues"
-    },
     "homepage": "https://github.com/oxynum/Tsv-to-csv#readme",
     "devDependencies": {
       "electron": "^1.4.15",
@@ -134,8 +127,15 @@
       "nodemailer": "^3.1.4",
       "sendmail": "^1.1.1",
       "tsv": "^0.2.0"
+    },
+    "other": {
+      "author": "Maxime Gasnier",
+      "bugs": {
+        "url": "https://github.com/oxynum/Tsv-to-csv/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:36:18.992Z"
+  "packageLastFetchedAt": "2017-05-04T22:36:18.992Z",
+  "archived": false
 }

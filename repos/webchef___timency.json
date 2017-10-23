@@ -71,7 +71,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "timency",
     "version": "1.0.0",
@@ -80,7 +80,6 @@
       "pack": "build --dir",
       "dist": "build -ml"
     },
-    "author": "Arne Gockeln",
     "homepage": "http://timency.com",
     "license": "Apache License 2.0",
     "build": {
@@ -98,6 +97,9 @@
     },
     "devDependencies": {
       "electron": "^1.4.3"
+    },
+    "other": {
+      "author": "Arne Gockeln"
     }
   },
   "packageStatus": 200,
@@ -124,6 +126,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:25.256Z",
+  "lastFetchedAt": "2017-10-23T18:59:14.569Z",
   "packageLastFetchedAt": "2017-05-05T15:16:13.355Z"
 }

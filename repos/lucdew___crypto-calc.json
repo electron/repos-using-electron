@@ -5,7 +5,7 @@
   "owner": {
     "login": "lucdew",
     "id": 848341,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/848341?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/848341?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lucdew",
     "htmlUrl": "https://github.com/lucdew",
@@ -58,14 +58,7 @@
     "description": "Crypto calculator",
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lucdew/crypto-calc"
-    },
-    "author": {
-      "name": "Luc Dewavrin",
-      "url": "https://github.com/lucdew/crypto-calc"
-    },
+    "repository": "https://github.com/lucdew/crypto-calc",
     "engines": {
       "node": ">=4.2.0"
     },
@@ -113,6 +106,12 @@
       "tslint": "^3.3.0",
       "webpack": "^1.13.0",
       "yaml-loader": "^0.2.0"
+    },
+    "other": {
+      "author": {
+        "name": "Luc Dewavrin",
+        "url": "https://github.com/lucdew/crypto-calc"
+      }
     }
   },
   "packageStatus": 200,
@@ -160,6 +159,7 @@
   },
   "filename": "lucdew___crypto-calc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:40.510Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:50.339Z"
+  "lastFetchedAt": "2017-10-23T19:34:47.346Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:50.339Z",
+  "archived": false
 }

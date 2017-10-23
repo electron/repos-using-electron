@@ -5,7 +5,7 @@
   "owner": {
     "login": "dasrick",
     "id": 377702,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/377702?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/377702?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dasrick",
     "htmlUrl": "https://github.com/dasrick",
@@ -76,15 +76,8 @@
     "version": "0.0.1",
     "description": "An electronized version of AngularJS-based frontend app of customer control center by MovingImage",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dasrick/mi-ccc-electron.git"
-    },
-    "author": "Enrico Hoffmann <dasrick@gmail.com>",
+    "repository": "https://github.com/dasrick/mi-ccc-electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dasrick/mi-ccc-electron/issues"
-    },
     "homepage": "https://github.com/dasrick/mi-ccc-electron#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1",
@@ -94,6 +87,12 @@
       "start": "node_modules/.bin/electron main.js",
       "mac-bundle": "electron-packager . miCCC --platform=darwin --arch=x64 --version=0.34.3 --out=./dist",
       "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "other": {
+      "author": "Enrico Hoffmann <dasrick@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/dasrick/mi-ccc-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "dasrick___mi-ccc-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:34.716Z",
-  "packageLastFetchedAt": "2017-05-05T15:37:03.470Z"
+  "lastFetchedAt": "2017-10-23T17:33:45.427Z",
+  "packageLastFetchedAt": "2017-05-05T15:37:03.470Z",
+  "archived": false
 }

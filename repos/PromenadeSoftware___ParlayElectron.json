@@ -5,7 +5,7 @@
   "owner": {
     "login": "PromenadeSoftware",
     "id": 16788339,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16788339?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16788339?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PromenadeSoftware",
     "htmlUrl": "https://github.com/PromenadeSoftware",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "PromenadeSoftware",
     "id": 16788339,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16788339?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16788339?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PromenadeSoftware",
     "htmlUrl": "https://github.com/PromenadeSoftware",
@@ -85,19 +85,18 @@
     "namelower": "parlayui",
     "version": "0.0.5",
     "description": "A web client for the Parlay broker system",
-    "author": "Nick Morris <nick@promenadesoftware.com>",
     "main": "app.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/PromenadeSoftware/ParlayUI"
-    },
+    "repository": "https://github.com/PromenadeSoftware/ParlayUI",
     "scripts": {},
     "devDependencies": {
       "bower": "~1.7.9",
       "electron-prebuilt": "^1.2.0",
       "electron-packager": "^7.6.0"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": "Nick Morris <nick@promenadesoftware.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +123,7 @@
   },
   "filename": "PromenadeSoftware___ParlayElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:34:21.130Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:05.586Z"
+  "lastFetchedAt": "2017-10-23T20:58:28.410Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:05.586Z",
+  "archived": false
 }

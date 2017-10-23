@@ -5,7 +5,7 @@
   "owner": {
     "login": "phodal",
     "id": 472311,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/472311?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/472311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/phodal",
     "htmlUrl": "https://github.com/phodal",
@@ -56,18 +56,11 @@
     "version": "0.0.1",
     "description": "A minimal Electron application",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/echeveria-editor.git"
-    },
+    "repository": "https://github.com/atom/echeveria-editor",
     "keywords": [
       "Editor"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/echeveria-editor/issues"
-    },
     "scripts": {
       "test": "NODE_ENV=test mocha --compilers js:babel/register --recursive --require ./test/setup.js $(find test -name '*.spec.js')",
       "test-watch": "npm test -- --watch",
@@ -151,6 +144,12 @@
       "redux-promise": "^0.5.0",
       "redux-thunk": "^1.0.0",
       "to-markdown": "^2.0.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/echeveria-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -198,6 +197,7 @@
   },
   "filename": "phodal___echeveria-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:28.638Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:02.675Z"
+  "lastFetchedAt": "2017-10-23T17:24:00.334Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:02.675Z",
+  "archived": false
 }

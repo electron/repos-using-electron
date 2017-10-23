@@ -5,7 +5,7 @@
   "owner": {
     "login": "zombieJ",
     "id": 5378891,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5378891?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5378891?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zombieJ",
     "htmlUrl": "https://github.com/zombieJ",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/zombieJ/MatrixEditor/deployments",
   "createdAt": "2016-10-12T13:47:19.000Z",
   "updatedAt": "2016-10-12T16:10:34.000Z",
-  "pushedAt": "2017-05-04T15:59:12.000Z",
+  "pushedAt": "2017-05-21T15:55:50.000Z",
   "gitUrl": "git://github.com/zombieJ/MatrixEditor.git",
   "sshUrl": "git@github.com:zombieJ/MatrixEditor.git",
   "cloneUrl": "https://github.com/zombieJ/MatrixEditor.git",
   "svnUrl": "https://github.com/zombieJ/MatrixEditor",
   "homepage": null,
-  "size": 383,
+  "size": 610,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -83,19 +83,12 @@
       "stop": "pm2 stop MatrixEditor",
       "restart": "cross-env NODE_ENV=development cross-env pm2 restart scripts/server.js --name=MatrixEditor"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/zombieJ/MatrixEditor.git"
-    },
+    "repository": "https://github.com/zombieJ/MatrixEditor",
     "keywords": [
       "dota2",
       "KV"
     ],
-    "author": "zombieJ",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/zombieJ/MatrixEditor/issues"
-    },
     "homepage": "https://github.com/zombieJ/MatrixEditor#readme",
     "dependencies": {
       "classnames": "^2.2.5",
@@ -150,6 +143,12 @@
       "url-loader": "^0.5.7",
       "webpack-dev-middleware": "^1.9.0",
       "webpack-hot-middleware": "^2.15.0"
+    },
+    "other": {
+      "author": "zombieJ",
+      "bugs": {
+        "url": "https://github.com/zombieJ/MatrixEditor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -177,6 +176,7 @@
   },
   "filename": "zombieJ___MatrixEditor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:44.310Z",
-  "packageLastFetchedAt": "2017-05-05T15:42:27.368Z"
+  "lastFetchedAt": "2017-10-23T20:08:38.015Z",
+  "packageLastFetchedAt": "2017-05-05T15:42:27.368Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "anaibol",
     "id": 3210177,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3210177?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3210177?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/anaibol",
     "htmlUrl": "https://github.com/anaibol",
@@ -20,12 +20,12 @@
   "description": "Google Maps on Electron",
   "fork": false,
   "createdAt": "2016-01-16T22:43:24.000Z",
-  "updatedAt": "2016-10-26T19:30:30.000Z",
+  "updatedAt": "2017-06-14T05:15:14.000Z",
   "pushedAt": "2016-07-15T20:30:33.000Z",
   "homepage": null,
   "size": 290,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -53,16 +53,9 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/anaibol/natifier.git"
-    },
+    "repository": "https://github.com/anaibol/natifier",
     "keywords": [],
-    "author": "GitHub",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/anaibol/natifier/issues"
-    },
     "preferGlobal": true,
     "bin": {
       "natifier": "./bin/index.js"
@@ -77,6 +70,12 @@
       "electron": "0.4.1",
       "electron-prebuilt": "0.36.12",
       "yargs": "3.32.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/anaibol/natifier/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/anaibol/natifier",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:11:47.567Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:08.233Z"
+  "lastFetchedAt": "2017-10-23T20:47:59.418Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:08.233Z",
+  "archived": false
 }

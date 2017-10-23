@@ -5,7 +5,7 @@
   "owner": {
     "login": "bradford-hamilton",
     "id": 15638147,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15638147?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15638147?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bradford-hamilton",
     "htmlUrl": "https://github.com/bradford-hamilton",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "Electron-Express-App",
@@ -73,17 +73,16 @@
     "scripts": {
       "start": "node ./start-electron.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
-    "author": "Bradford Lamson-Scribner",
+    "repository": "https://github.com/electron/electron-quick-start",
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "jquery": "^2.2.4"
+    },
+    "other": {
+      "author": "Bradford Lamson-Scribner"
     }
   },
   "packageStatus": 200,
@@ -111,6 +110,7 @@
   },
   "filename": "bradford-hamilton___Electron-App.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:55.890Z",
-  "packageLastFetchedAt": "2017-05-05T15:19:36.869Z"
+  "lastFetchedAt": "2017-10-23T17:30:44.383Z",
+  "packageLastFetchedAt": "2017-05-05T15:19:36.869Z",
+  "archived": false
 }

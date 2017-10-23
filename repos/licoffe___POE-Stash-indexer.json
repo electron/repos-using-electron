@@ -5,7 +5,7 @@
   "owner": {
     "login": "licoffe",
     "id": 17992001,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17992001?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17992001?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/licoffe",
     "htmlUrl": "https://github.com/licoffe",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/licoffe/POE-Stash-indexer/downloads",
   "deploymentsUrl": "https://api.github.com/repos/licoffe/POE-Stash-indexer/deployments",
   "createdAt": "2016-09-29T12:31:21.000Z",
-  "updatedAt": "2017-04-13T10:17:36.000Z",
+  "updatedAt": "2017-09-17T23:59:54.000Z",
   "pushedAt": "2017-03-14T10:31:43.000Z",
   "gitUrl": "git://github.com/licoffe/POE-Stash-indexer.git",
   "sshUrl": "git@github.com:licoffe/POE-Stash-indexer.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/licoffe/POE-Stash-indexer",
   "homepage": "",
   "size": 159551,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 21,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,16 +73,12 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/licoffe/POE-Stash-indexer.git"
-    },
+    "repository": "https://github.com/licoffe/POE-Stash-indexer",
     "keywords": [
       "path-of-exile",
       "poe",
       "stash-api"
     ],
-    "author": "Licoffe",
     "license": "ISC",
     "dependencies": {
       "async": "^2.0.1",
@@ -93,6 +89,9 @@
       "mysql": "^2.12.0",
       "request": "^2.75.0",
       "socket.io": "^1.5.1"
+    },
+    "other": {
+      "author": "Licoffe"
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   },
   "filename": "licoffe___POE-Stash-indexer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:14.538Z",
-  "packageLastFetchedAt": "2017-05-05T15:25:36.809Z"
+  "lastFetchedAt": "2017-10-23T18:51:00.706Z",
+  "packageLastFetchedAt": "2017-05-05T15:25:36.809Z",
+  "archived": false
 }

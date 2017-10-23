@@ -5,7 +5,7 @@
   "owner": {
     "login": "Zamiell",
     "id": 5511220,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5511220?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5511220?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Zamiell",
     "htmlUrl": "https://github.com/Zamiell",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Zamiell/isaac-racing-client",
-  "description": "The client software for Racing+, a Binding of Isaac: Afterbirth+ racing platform",
+  "description": "The client software for Racing+, a Binding of Isaac: Afterbirth+ racing platform.",
   "fork": false,
   "url": "https://api.github.com/repos/Zamiell/isaac-racing-client",
   "forksUrl": "https://api.github.com/repos/Zamiell/isaac-racing-client/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Zamiell/isaac-racing-client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Zamiell/isaac-racing-client/deployments",
   "createdAt": "2016-10-01T18:10:28.000Z",
-  "updatedAt": "2017-03-06T14:04:28.000Z",
-  "pushedAt": "2017-04-27T20:41:34.000Z",
+  "updatedAt": "2017-09-17T15:02:45.000Z",
+  "pushedAt": "2017-10-20T00:11:18.000Z",
   "gitUrl": "git://github.com/Zamiell/isaac-racing-client.git",
   "sshUrl": "git@github.com:Zamiell/isaac-racing-client.git",
   "cloneUrl": "https://github.com/Zamiell/isaac-racing-client.git",
   "svnUrl": "https://github.com/Zamiell/isaac-racing-client",
   "homepage": "https://isaacracing.net/",
-  "size": 14482,
-  "stargazersCount": 3,
-  "watchersCount": 3,
-  "language": "JavaScript",
+  "size": 23337,
+  "stargazersCount": 4,
+  "watchersCount": 4,
+  "language": "Lua",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 3,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 6,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -76,16 +76,9 @@
     "productName": "Racing+",
     "description": "A racing mod for The Binding of Isaac: Afterbirth+",
     "version": "0.5.20",
-    "author": "Racing+",
     "license": "GPL-3.0",
     "homepage": "https://isaacracing.net",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Zamiell/isaac-racing-client.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Zamiell/isaac-racing-client/issues"
-    },
+    "repository": "https://github.com/Zamiell/isaac-racing-client",
     "main": "./main.js",
     "scripts": {
       "start": "electron .",
@@ -119,6 +112,12 @@
       "electron": "^1.6.2",
       "electron-builder": "^15.3.0",
       "electron-rebuild": "^1.5.7"
+    },
+    "other": {
+      "author": "Racing+",
+      "bugs": {
+        "url": "https://github.com/Zamiell/isaac-racing-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "Zamiell___isaac-racing-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:29.181Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:35.466Z"
+  "lastFetchedAt": "2017-10-23T20:53:50.903Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:35.466Z",
+  "archived": false
 }

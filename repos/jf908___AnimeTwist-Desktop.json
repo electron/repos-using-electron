@@ -5,7 +5,7 @@
   "owner": {
     "login": "jf908",
     "id": 2487520,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2487520?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2487520?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jf908",
     "htmlUrl": "https://github.com/jf908",
@@ -61,13 +61,6 @@
       "start": "electron src",
       "build": "build"
     },
-    "author": "Anime Twist",
-    "contributors": [
-      {
-        "name": "jf908",
-        "url": "http://xyfe.net"
-      }
-    ],
     "license": "GPL-3.0",
     "devDependencies": {
       "del": "^2.2.1",
@@ -90,12 +83,18 @@
         "icon": "icon.icns"
       }
     },
-    "directories": {
-      "app": "src"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jf908/AnimeTwist-Desktop.git"
+    "repository": "https://github.com/jf908/AnimeTwist-Desktop",
+    "other": {
+      "author": "Anime Twist",
+      "contributors": [
+        {
+          "name": "jf908",
+          "url": "http://xyfe.net"
+        }
+      ],
+      "directories": {
+        "app": "src"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "jf908___AnimeTwist-Desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:14.029Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:23.530Z"
+  "lastFetchedAt": "2017-10-23T21:02:34.918Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:23.530Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "birdlab",
     "id": 3377386,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3377386?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3377386?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/birdlab",
     "htmlUrl": "https://github.com/birdlab",
@@ -73,18 +73,17 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/birdlab/vktron"
-    },
-    "author": "BirdLab",
+    "repository": "https://github.com/birdlab/vktron",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/birdlab/vktron/issues"
-    },
     "homepage": "https://github.com/birdlab/vktron#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "BirdLab",
+      "bugs": {
+        "url": "https://github.com/birdlab/vktron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,7 @@
   },
   "filename": "birdlab___vktron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:56:58.531Z",
-  "packageLastFetchedAt": "2017-05-05T14:49:15.344Z"
+  "lastFetchedAt": "2017-10-23T17:15:33.421Z",
+  "packageLastFetchedAt": "2017-05-05T14:49:15.344Z",
+  "archived": false
 }

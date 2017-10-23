@@ -5,7 +5,7 @@
   "owner": {
     "login": "fukajun",
     "id": 505115,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/505115?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/505115?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fukajun",
     "htmlUrl": "https://github.com/fukajun",
@@ -60,20 +60,13 @@
       "start": "electron main.js",
       "build": "electron-packager . 'Coincheck Chat' --platform=darwin --arch=x64 --version=0.36.0 --icon=images/icon.icns --prune --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fukajun/coincheck-chat-notifier"
-    },
+    "repository": "https://github.com/fukajun/coincheck-chat-notifier",
     "keywords": [
       "coincheck",
       "chat",
       "menubar"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/fukajun/coincheck-chat-notifier/issues"
-    },
     "homepage": "https://github.com/fukajun/coincheck-chat-notifier",
     "devDependencies": {
       "babel-preset-es2015": "^6.3.13",
@@ -93,6 +86,12 @@
       "react-dom": "^0.14.3",
       "request": "^2.67.0",
       "node-notifier": "^4.4.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/fukajun/coincheck-chat-notifier/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "fukajun___coincheck-chat-notifier.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:03.813Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:39.038Z"
+  "lastFetchedAt": "2017-10-23T17:48:36.934Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:39.038Z",
+  "archived": false
 }

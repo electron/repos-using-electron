@@ -5,7 +5,7 @@
   "owner": {
     "login": "chinedufn",
     "id": 2099811,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2099811?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2099811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chinedufn",
     "htmlUrl": "https://github.com/chinedufn",
@@ -20,12 +20,12 @@
   "description": "virtual-dom progress bar component",
   "fork": false,
   "createdAt": "2016-02-11T14:57:12.000Z",
-  "updatedAt": "2017-01-03T17:51:16.000Z",
-  "pushedAt": "2016-06-16T11:37:51.000Z",
+  "updatedAt": "2017-05-06T05:40:16.000Z",
+  "pushedAt": "2017-05-07T02:51:21.000Z",
   "homepage": "http://chinedufn.github.io/virtual-progress-bar/",
-  "size": 168,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "size": 171,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 9,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -55,10 +55,7 @@
       "deploy": "mkdirp example-dist && browserify demo/browser.js | htmlify > example-dist/index.html && gh-pages -d example-dist",
       "test": "standard && node test/virtual-progress-bar.js && browserify test/virtual-progress-bar.js | testron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chinedufn/virtual-progress-bar.git"
-    },
+    "repository": "https://github.com/chinedufn/virtual-progress-bar",
     "keywords": [
       "virtual",
       "dom",
@@ -67,11 +64,7 @@
       "component",
       "react"
     ],
-    "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chinedufn/virtual-progress-bar/issues"
-    },
     "homepage": "https://github.com/chinedufn/virtual-progress-bar#readme",
     "devDependencies": {
       "browserify": "^13.0.0",
@@ -90,6 +83,12 @@
     "dependencies": {
       "preflex": "~1.0.0",
       "xtend": "^4.0.1"
+    },
+    "other": {
+      "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/chinedufn/virtual-progress-bar/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "svnUrl": "https://github.com/chinedufn/virtual-progress-bar",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:01:53.278Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:42.352Z"
+  "lastFetchedAt": "2017-10-23T17:17:17.588Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:42.352Z",
+  "archived": false
 }

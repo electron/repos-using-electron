@@ -5,7 +5,7 @@
   "owner": {
     "login": "pfrazee",
     "id": 1270099,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1270099?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1270099?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pfrazee",
     "htmlUrl": "https://github.com/pfrazee",
@@ -20,21 +20,21 @@
   "description": "My RPC solution for exporting APIs from the electron background process to renderers and webviews",
   "fork": false,
   "createdAt": "2016-07-09T13:46:03.000Z",
-  "updatedAt": "2017-02-23T18:22:17.000Z",
-  "pushedAt": "2017-04-13T23:27:06.000Z",
+  "updatedAt": "2017-10-13T14:37:02.000Z",
+  "pushedAt": "2017-08-03T23:14:26.000Z",
   "homepage": null,
-  "size": 32,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "size": 46,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 7,
+  "forksCount": 2,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
-  "subscribersCount": 3,
+  "networkCount": 2,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "pauls-electron-rpc",
@@ -53,20 +53,13 @@
     "scripts": {
       "test": "node -e \"require('child_process').spawn(require('electron'), ['./test'], { stdio: 'inherit' })\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pfraze/pauls-electron-rpc.git"
-    },
+    "repository": "https://github.com/pfraze/pauls-electron-rpc",
     "keywords": [
       "electron",
       "rpc",
       "ipc"
     ],
-    "author": "Paul Frazee <pfrazee@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pfraze/pauls-electron-rpc/issues"
-    },
     "homepage": "https://github.com/pfraze/pauls-electron-rpc#readme",
     "devDependencies": {
       "electron": "1.6.4",
@@ -74,6 +67,12 @@
       "tape": "^4.6.0",
       "tape-dom": "0.0.10",
       "zerr": "^1.0.4"
+    },
+    "other": {
+      "author": "Paul Frazee <pfrazee@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/pfraze/pauls-electron-rpc/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "svnUrl": "https://github.com/pfrazee/pauls-electron-rpc",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:43:49.546Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:59.622Z"
+  "lastFetchedAt": "2017-10-23T18:02:19.568Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:59.622Z",
+  "archived": false
 }

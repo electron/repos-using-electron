@@ -5,7 +5,7 @@
   "owner": {
     "login": "myzenon",
     "id": 6170942,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6170942?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6170942?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/myzenon",
     "htmlUrl": "https://github.com/myzenon",
@@ -77,19 +77,12 @@
       "deploy": "node node_modules\\webpack\\bin\\webpack.js -p --progress --colors --config webpack.production.config.js",
       "pack": "node node_modules\\electron-packager\\cli.js ./app coinMonitor --out=dist/win --platform=win32 --arch=x64 --icon=icon.ico --asar=true --asar-unpack-dir=\"config\" --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/myzenon/coinMonitor.git"
-    },
+    "repository": "https://github.com/myzenon/coinMonitor",
     "keywords": [
       "bitcoin",
       "monitor"
     ],
-    "author": "Zenon 'SI",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/myzenon/coinMonitor/issues"
-    },
     "homepage": "https://github.com/myzenon/coinMonitor#readme",
     "devDependencies": {
       "babel-loader": "^6.2.4",
@@ -116,6 +109,12 @@
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "author": "Zenon 'SI",
+      "bugs": {
+        "url": "https://github.com/myzenon/coinMonitor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "myzenon___coinMonitor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:49.676Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:44.521Z"
+  "lastFetchedAt": "2017-10-23T18:18:18.250Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:44.521Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "krainboltgreene",
     "id": 334809,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/334809?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/334809?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/krainboltgreene",
     "htmlUrl": "https://github.com/krainboltgreene",
@@ -50,15 +50,7 @@
     "productName": "Lowbrow",
     "version": "1.0.0",
     "description": "A really minimal browser for development",
-    "author": {
-      "name": "Kurtis Rainbolt-Greene",
-      "email": "me@kurtisrainboltgreene.name",
-      "url": "http://www.kurtisrainboltgreene.name"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/krainboltgreene/Lowbrow.app.git"
-    },
+    "repository": "https://github.com/krainboltgreene/Lowbrow.app",
     "license": "MIT",
     "keywords": [
       "browser"
@@ -115,6 +107,13 @@
       "electron-builder": "git://github.com/loopline-systems/electron-builder.git",
       "electron-packager": "git://github.com/maxogden/electron-packager.git",
       "electron-prebuilt": "git://github.com/mafintosh/electron-prebuilt.git"
+    },
+    "other": {
+      "author": {
+        "name": "Kurtis Rainbolt-Greene",
+        "email": "me@kurtisrainboltgreene.name",
+        "url": "http://www.kurtisrainboltgreene.name"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   "svnUrl": "https://github.com/krainboltgreene/Lowbrow.app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:42:58.175Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:36.472Z"
+  "lastFetchedAt": "2017-10-23T20:51:27.669Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:36.472Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "sindresorhus",
     "id": 170270,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/170270?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/170270?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sindresorhus",
     "htmlUrl": "https://github.com/sindresorhus",
@@ -20,21 +20,21 @@
   "description": "Adds useful debug features to your Electron app",
   "fork": false,
   "createdAt": "2015-06-01T02:36:20.000Z",
-  "updatedAt": "2017-05-01T23:38:38.000Z",
-  "pushedAt": "2017-03-23T18:52:51.000Z",
+  "updatedAt": "2017-10-19T08:54:47.000Z",
+  "pushedAt": "2017-08-19T21:24:14.000Z",
   "homepage": null,
-  "size": 48,
-  "stargazersCount": 297,
-  "watchersCount": 297,
+  "size": 44,
+  "stargazersCount": 353,
+  "watchersCount": 353,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 26,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 297,
+  "forksCount": 29,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 353,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 26,
-  "subscribersCount": 14,
+  "networkCount": 29,
+  "subscribersCount": 17,
   "status": 200,
   "packageJSON": {
     "name": "electron-debug",
@@ -57,11 +57,6 @@
     "description": "Adds useful debug features to your Electron app",
     "license": "MIT",
     "repository": "sindresorhus/electron-debug",
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "sindresorhus.com"
-    },
     "scripts": {
       "start": "electron test.js",
       "test": "xo"
@@ -95,6 +90,13 @@
       ],
       "rules": {
         "import/no-extraneous-dependencies": "off"
+      }
+    },
+    "other": {
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com"
       }
     }
   },
@@ -143,6 +145,7 @@
   "svnUrl": "https://github.com/sindresorhus/electron-debug",
   "hasProjects": false,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:05.521Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:26.865Z"
+  "lastFetchedAt": "2017-10-23T19:14:58.287Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:26.865Z",
+  "archived": false
 }

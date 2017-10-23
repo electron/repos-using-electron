@@ -5,7 +5,7 @@
   "owner": {
     "login": "shrikanthkr",
     "id": 1776590,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1776590?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1776590?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shrikanthkr",
     "htmlUrl": "https://github.com/shrikanthkr",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for hockey-ember goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -146,6 +141,13 @@
     },
     "dependencies": {
       "electron-debug": "^1.0.0"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -193,6 +195,7 @@
   },
   "filename": "shrikanthkr___hockey-electron-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:18.734Z",
-  "packageLastFetchedAt": "2017-05-04T22:17:24.949Z"
+  "lastFetchedAt": "2017-10-23T20:20:47.424Z",
+  "packageLastFetchedAt": "2017-05-04T22:17:24.949Z",
+  "archived": false
 }

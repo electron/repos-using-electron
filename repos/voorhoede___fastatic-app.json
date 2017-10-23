@@ -5,7 +5,7 @@
   "owner": {
     "login": "voorhoede",
     "id": 2759382,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2759382?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2759382?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/voorhoede",
     "htmlUrl": "https://github.com/voorhoede",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/voorhoede/fastatic-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/voorhoede/fastatic-app/deployments",
   "createdAt": "2016-09-15T12:54:41.000Z",
-  "updatedAt": "2016-12-12T04:04:31.000Z",
+  "updatedAt": "2017-07-26T15:04:19.000Z",
   "pushedAt": "2016-11-21T09:28:59.000Z",
   "gitUrl": "git://github.com/voorhoede/fastatic-app.git",
   "sshUrl": "git@github.com:voorhoede/fastatic-app.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/voorhoede/fastatic-app",
   "homepage": "",
   "size": 784,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 3,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "voorhoede",
     "id": 2759382,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2759382?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2759382?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/voorhoede",
     "htmlUrl": "https://github.com/voorhoede",
@@ -100,13 +100,7 @@
       "postpackage": "gulp sign",
       "gulp": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/voorhoede-labs/fastatic-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/voorhoede-labs/fastatic-app/issues"
-    },
+    "repository": "https://github.com/voorhoede-labs/fastatic-app",
     "homepage": "https://github.com/voorhoede-labs/fastatic-app#readme",
     "keywords": [
       "fastatic",
@@ -114,7 +108,6 @@
       "optimization",
       "static"
     ],
-    "author": "De Voorhoede (https://voorhoede.nl/)",
     "license": "MIT",
     "dependencies": {
       "about-window": "1.6.0",
@@ -144,6 +137,12 @@
       "gulp-sourcemaps": "2.2.0",
       "gulp-task-listing": "1.0.1",
       "icon-gen": "1.0.6"
+    },
+    "other": {
+      "author": "De Voorhoede (https://voorhoede.nl/)",
+      "bugs": {
+        "url": "https://github.com/voorhoede-labs/fastatic-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,7 @@
   "filename": "voorhoede___fastatic-app.json",
   "sourceRepo": "voorhoede-labs/fastatic-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:54.695Z",
-  "packageLastFetchedAt": "2017-05-05T17:04:49.472Z"
+  "lastFetchedAt": "2017-10-23T19:03:09.025Z",
+  "packageLastFetchedAt": "2017-05-05T17:04:49.472Z",
+  "archived": false
 }

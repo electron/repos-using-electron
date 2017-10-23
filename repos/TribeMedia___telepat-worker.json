@@ -5,7 +5,7 @@
   "owner": {
     "login": "TribeMedia",
     "id": 6293413,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6293413?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6293413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TribeMedia",
     "htmlUrl": "https://github.com/TribeMedia",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "TribeMedia",
     "id": 6293413,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6293413?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6293413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TribeMedia",
     "htmlUrl": "https://github.com/TribeMedia",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "telepat-io",
       "id": 12646345,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12646345?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12646345?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/telepat-io",
       "htmlUrl": "https://github.com/telepat-io",
@@ -100,13 +100,13 @@
     "deploymentsUrl": "https://api.github.com/repos/telepat-io/telepat-worker/deployments",
     "createdAt": "2015-06-26T14:23:16.000Z",
     "updatedAt": "2017-02-25T18:38:39.000Z",
-    "pushedAt": "2017-02-17T09:25:43.000Z",
+    "pushedAt": "2017-08-25T11:14:20.000Z",
     "gitUrl": "git://github.com/telepat-io/telepat-worker.git",
     "sshUrl": "git@github.com:telepat-io/telepat-worker.git",
     "cloneUrl": "https://github.com/telepat-io/telepat-worker.git",
     "svnUrl": "https://github.com/telepat-io/telepat-worker",
     "homepage": "http://telepat.io",
-    "size": 314,
+    "size": 378,
     "stargazersCount": 42,
     "watchersCount": 42,
     "language": "JavaScript",
@@ -117,8 +117,9 @@
     "hasPages": false,
     "forksCount": 11,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
     "watchers": 42,
     "defaultBranch": "master"
   },
@@ -129,7 +130,7 @@
     "owner": {
       "login": "telepat-io",
       "id": 12646345,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12646345?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12646345?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/telepat-io",
       "htmlUrl": "https://github.com/telepat-io",
@@ -160,13 +161,13 @@
     "deploymentsUrl": "https://api.github.com/repos/telepat-io/telepat-worker/deployments",
     "createdAt": "2015-06-26T14:23:16.000Z",
     "updatedAt": "2017-02-25T18:38:39.000Z",
-    "pushedAt": "2017-02-17T09:25:43.000Z",
+    "pushedAt": "2017-08-25T11:14:20.000Z",
     "gitUrl": "git://github.com/telepat-io/telepat-worker.git",
     "sshUrl": "git@github.com:telepat-io/telepat-worker.git",
     "cloneUrl": "https://github.com/telepat-io/telepat-worker.git",
     "svnUrl": "https://github.com/telepat-io/telepat-worker",
     "homepage": "http://telepat.io",
-    "size": 314,
+    "size": 378,
     "stargazersCount": 42,
     "watchersCount": 42,
     "language": "JavaScript",
@@ -177,8 +178,9 @@
     "hasPages": false,
     "forksCount": 11,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
     "watchers": 42,
     "defaultBranch": "master"
   },
@@ -193,34 +195,14 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:telepat-io/telepat-worker.git"
-    },
+    "repository": "https://github.com/telepat-io/telepat-worker",
     "keywords": [
       "telepat",
       "worker",
       "kafka"
     ],
-    "author": {
-      "name": "Răzvan Botea",
-      "email": "razvan@telepat.io"
-    },
-    "contributors": [
-      {
-        "name": "Răzvan Botea",
-        "email": "razvan@telepat.io"
-      },
-      {
-        "name": "Gabi Dobocan",
-        "email": "gabi@telepat.io"
-      }
-    ],
     "engines": {
       "node": ">=0.12.0"
-    },
-    "bugs": {
-      "url": "https://github.com/telepat-io/telepat-worker/issues"
     },
     "license": "Apache-2.0",
     "dependencies": {
@@ -241,6 +223,25 @@
       "redis": "^0.12.1",
       "socket.io": "^1.3.5",
       "uuid": "^2.0.1"
+    },
+    "other": {
+      "author": {
+        "name": "Răzvan Botea",
+        "email": "razvan@telepat.io"
+      },
+      "bugs": {
+        "url": "https://github.com/telepat-io/telepat-worker/issues"
+      },
+      "contributors": [
+        {
+          "name": "Răzvan Botea",
+          "email": "razvan@telepat.io"
+        },
+        {
+          "name": "Gabi Dobocan",
+          "email": "gabi@telepat.io"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -289,6 +290,7 @@
   "filename": "TribeMedia___telepat-worker.json",
   "sourceRepo": "telepat-io/telepat-worker",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:26.219Z",
-  "packageLastFetchedAt": "2017-05-04T22:10:05.289Z"
+  "lastFetchedAt": "2017-10-23T17:25:39.974Z",
+  "packageLastFetchedAt": "2017-05-04T22:10:05.289Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "q-nick",
     "id": 681475,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/681475?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/681475?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/q-nick",
     "htmlUrl": "https://github.com/q-nick",
@@ -20,21 +20,21 @@
   "description": "Graphic User Interface for NPM tasks for frontend.",
   "fork": false,
   "createdAt": "2015-12-01T15:33:38.000Z",
-  "updatedAt": "2017-05-03T11:20:17.000Z",
+  "updatedAt": "2017-10-16T16:34:49.000Z",
   "pushedAt": "2016-10-03T22:06:38.000Z",
   "homepage": "",
   "size": 3301,
-  "stargazersCount": 202,
-  "watchersCount": 202,
+  "stargazersCount": 216,
+  "watchersCount": 216,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": true,
-  "forksCount": 8,
-  "openIssuesCount": 11,
-  "openIssues": 11,
-  "watchers": 202,
+  "forksCount": 13,
+  "openIssuesCount": 13,
+  "openIssues": 13,
+  "watchers": 216,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 8,
+  "networkCount": 13,
   "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
@@ -63,10 +63,7 @@
       "test-web-server": "node node_modules/mocha/bin/mocha ./web-server/**/*.test.js",
       "test-web-server2": "node node_modules/mocha/bin/mocha ./web-server/service/project/*.test.js ./web-server/service/utils/*.test.js ./web-server/service/console/*.test.js ./web-server/service/dependencies/*.test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/q-nick/npm-gui.git"
-    },
+    "repository": "https://github.com/q-nick/npm-gui",
     "keywords": [
       "gui",
       "npm",
@@ -78,11 +75,7 @@
       "installer",
       "console"
     ],
-    "author": "Paweł Stefański",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/q-nick/npm-gui/issues"
-    },
     "homepage": "https://github.com/q-nick/npm-gui#readme",
     "devDependencies": {
       "angular": "^1.5.8",
@@ -136,6 +129,12 @@
     "build": {
       "app-bundle-id": "your.id",
       "app-category-type": "your.app.category.type"
+    },
+    "other": {
+      "author": "Paweł Stefański",
+      "bugs": {
+        "url": "https://github.com/q-nick/npm-gui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   },
   "filename": "q-nick___npm-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:07.766Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:30.343Z"
+  "lastFetchedAt": "2017-10-23T19:17:15.554Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:30.343Z",
+  "archived": false
 }

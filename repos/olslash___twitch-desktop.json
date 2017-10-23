@@ -5,7 +5,7 @@
   "owner": {
     "login": "olslash",
     "id": 693493,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/693493?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/693493?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/olslash",
     "htmlUrl": "https://github.com/olslash",
@@ -51,24 +51,13 @@
     "description": "A desktop app for twitch.tv",
     "main": "build/browser/twitchdesktop.js",
     "chromium-args": "--disable-web-security",
-    "directories": {
-      "doc": "docs",
-      "test": "tests"
-    },
     "scripts": {
       "test": "gulp test",
       "build": "gulp build",
       "run": "gulp build && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ell/twitch-desktop.git"
-    },
-    "author": "Alan Love <alan@cattes.us>",
+    "repository": "https://github.com/ell/twitch-desktop",
     "license": "WTFPL",
-    "bugs": {
-      "url": "https://github.com/ell/twitch-desktop/issues"
-    },
     "homepage": "https://github.com/ell/twitch-desktop#readme",
     "devDependencies": {
       "babelify": "^6.1.3",
@@ -96,6 +85,16 @@
       "superagent": "^1.2.0",
       "superagent-bluebird-promise": "^2.0.2",
       "uri": "^0.1.0"
+    },
+    "other": {
+      "author": "Alan Love <alan@cattes.us>",
+      "bugs": {
+        "url": "https://github.com/ell/twitch-desktop/issues"
+      },
+      "directories": {
+        "doc": "docs",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "olslash___twitch-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:26.565Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:31.545Z"
+  "lastFetchedAt": "2017-10-23T17:10:20.048Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:31.545Z",
+  "archived": false
 }

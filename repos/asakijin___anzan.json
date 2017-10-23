@@ -6,7 +6,7 @@
   "owner": {
     "login": "asakijin",
     "id": 7879231,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7879231?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7879231?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/asakijin",
     "htmlUrl": "https://github.com/asakijin",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:33:02.802Z",
+  "lastFetchedAt": "2017-10-23T20:31:40.677Z",
   "packageJSON": {
     "name": "anzan",
     "productName": "Anzan",
@@ -128,26 +128,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rsakamoto/anzan.git"
-    },
-    "author": {
-      "name": "Sakamoto Ryouske",
-      "email": "sakamoto.ryosuke.rs@gmail.com",
-      "url": "https://github.com/rsakamoto"
-    },
+    "repository": "https://github.com/rsakamoto/anzan",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rsakamoto/anzan/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -236,8 +221,23 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Sakamoto Ryouske",
+        "email": "sakamoto.ryosuke.rs@gmail.com",
+        "url": "https://github.com/rsakamoto"
+      },
+      "bugs": {
+        "url": "https://github.com/rsakamoto/anzan/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:39:56.966Z"
+  "packageLastFetchedAt": "2017-05-05T15:39:56.966Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "greggman",
     "id": 234804,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/234804?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/234804?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/greggman",
     "htmlUrl": "https://github.com/greggman",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/greggman/other-window-ipc/downloads",
   "deploymentsUrl": "https://api.github.com/repos/greggman/other-window-ipc/deployments",
   "createdAt": "2016-10-21T18:22:45.000Z",
-  "updatedAt": "2017-02-27T12:14:05.000Z",
+  "updatedAt": "2017-07-10T09:14:35.000Z",
   "pushedAt": "2016-12-12T09:59:33.000Z",
   "gitUrl": "git://github.com/greggman/other-window-ipc.git",
   "sshUrl": "git@github.com:greggman/other-window-ipc.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/greggman/other-window-ipc",
   "homepage": null,
   "size": 24,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 2,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/greggman/other-window-ipc.git"
-    },
+    "repository": "https://github.com/greggman/other-window-ipc",
     "keywords": [
       "ipc",
       "electron",
@@ -92,17 +89,19 @@
       "other-window-ipc.js",
       "lib"
     ],
-    "author": "Gregg Tavares",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/greggman/other-window-ipc/issues"
-    },
     "homepage": "https://github.com/greggman/other-window-ipc#readme",
     "devDependencies": {
       "electron": "^1.4.4"
     },
     "dependencies": {
       "debug": "^2.2.0"
+    },
+    "other": {
+      "author": "Gregg Tavares",
+      "bugs": {
+        "url": "https://github.com/greggman/other-window-ipc/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "greggman___other-window-ipc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:44:45.441Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:59.926Z"
+  "lastFetchedAt": "2017-10-23T18:12:37.630Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:59.926Z",
+  "archived": false
 }

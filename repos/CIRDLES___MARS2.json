@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mars",
     "version": "1.0.0",
@@ -98,7 +98,6 @@
       "Lab",
       "Samples"
     ],
-    "author": "Joey Baldwin",
     "license": "ISC",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -120,6 +119,9 @@
       "react-redux": "^4.4.1",
       "react-router": "^2.0.0",
       "redux": "^3.3.1"
+    },
+    "other": {
+      "author": "Joey Baldwin"
     }
   },
   "packageStatus": 200,
@@ -147,6 +149,6 @@
   },
   "filename": "CIRDLES___MARS2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:51.852Z",
+  "lastFetchedAt": "2017-10-23T17:43:51.402Z",
   "packageLastFetchedAt": "2017-05-05T17:19:13.686Z"
 }

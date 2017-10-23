@@ -5,7 +5,7 @@
   "owner": {
     "login": "snuffub",
     "id": 3164138,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3164138?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3164138?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/snuffub",
     "htmlUrl": "https://github.com/snuffub",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "MichMich",
       "id": 210954,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/210954?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/210954?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/MichMich",
       "htmlUrl": "https://github.com/MichMich",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/MichMich/MagicMirror/downloads",
     "deploymentsUrl": "https://api.github.com/repos/MichMich/MagicMirror/deployments",
     "createdAt": "2014-02-19T15:48:09.000Z",
-    "updatedAt": "2017-05-04T19:45:28.000Z",
-    "pushedAt": "2017-05-03T15:34:30.000Z",
+    "updatedAt": "2017-10-23T16:04:19.000Z",
+    "pushedAt": "2017-10-19T14:53:03.000Z",
     "gitUrl": "git://github.com/MichMich/MagicMirror.git",
     "sshUrl": "git@github.com:MichMich/MagicMirror.git",
     "cloneUrl": "https://github.com/MichMich/MagicMirror.git",
     "svnUrl": "https://github.com/MichMich/MagicMirror",
     "homepage": "http://magicmirror.builders",
-    "size": 11293,
-    "stargazersCount": 4118,
-    "watchersCount": 4118,
+    "size": 11594,
+    "stargazersCount": 5074,
+    "watchersCount": 5074,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1272,
+    "forksCount": 1529,
     "mirrorUrl": null,
-    "openIssuesCount": 22,
-    "openIssues": 22,
-    "watchers": 4118,
+    "archived": false,
+    "openIssuesCount": 3,
+    "openIssues": 3,
+    "watchers": 5074,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "MichMich",
       "id": 210954,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/210954?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/210954?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/MichMich",
       "htmlUrl": "https://github.com/MichMich",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/MichMich/MagicMirror/downloads",
     "deploymentsUrl": "https://api.github.com/repos/MichMich/MagicMirror/deployments",
     "createdAt": "2014-02-19T15:48:09.000Z",
-    "updatedAt": "2017-05-04T19:45:28.000Z",
-    "pushedAt": "2017-05-03T15:34:30.000Z",
+    "updatedAt": "2017-10-23T16:04:19.000Z",
+    "pushedAt": "2017-10-19T14:53:03.000Z",
     "gitUrl": "git://github.com/MichMich/MagicMirror.git",
     "sshUrl": "git@github.com:MichMich/MagicMirror.git",
     "cloneUrl": "https://github.com/MichMich/MagicMirror.git",
     "svnUrl": "https://github.com/MichMich/MagicMirror",
     "homepage": "http://magicmirror.builders",
-    "size": 11293,
-    "stargazersCount": 4118,
-    "watchersCount": 4118,
+    "size": 11594,
+    "stargazersCount": 5074,
+    "watchersCount": 5074,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1272,
+    "forksCount": 1529,
     "mirrorUrl": null,
-    "openIssuesCount": 22,
-    "openIssues": 22,
-    "watchers": 4118,
+    "archived": false,
+    "openIssuesCount": 3,
+    "openIssues": 3,
+    "watchers": 5074,
     "defaultBranch": "master"
   },
-  "networkCount": 1272,
+  "networkCount": 1529,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -177,22 +179,14 @@
       "htmlvalidator": "html-validator --file=index.html",
       "test": "snyk test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MichMich/MagicMirror.git"
-    },
+    "repository": "https://github.com/MichMich/MagicMirror",
     "keywords": [
       "magic mirror",
       "smart mirror",
       "mirror UI",
       "modular"
     ],
-    "author": "Michael Teeuw",
-    "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MichMich/MagicMirror/issues"
-    },
     "homepage": "https://github.com/MichMich/MagicMirror#readme",
     "devDependencies": {
       "electron-prebuilt": "latest",
@@ -215,6 +209,13 @@
       "valid-url": "latest",
       "walk": "latest",
       "rrule": "latest"
+    },
+    "other": {
+      "author": "Michael Teeuw",
+      "bugs": {
+        "url": "https://github.com/MichMich/MagicMirror/issues"
+      },
+      "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors"
     }
   },
   "packageStatus": 200,
@@ -263,6 +264,7 @@
   "svnUrl": "https://github.com/snuffub/MagicMirror",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:57:46.032Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:20.655Z"
+  "lastFetchedAt": "2017-10-23T18:03:14.801Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:20.655Z",
+  "archived": false
 }

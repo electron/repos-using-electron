@@ -5,7 +5,7 @@
   "owner": {
     "login": "hzeroo",
     "id": 546400,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/546400?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/546400?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hzeroo",
     "htmlUrl": "https://github.com/hzeroo",
@@ -20,21 +20,21 @@
   "description": "Twitch Desktop Client for Windows, OSX and Linux",
   "fork": false,
   "createdAt": "2016-06-06T23:59:29.000Z",
-  "updatedAt": "2017-04-22T23:43:39.000Z",
+  "updatedAt": "2017-10-18T16:54:49.000Z",
   "pushedAt": "2016-10-22T12:47:54.000Z",
   "homepage": "",
   "size": 306,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 9,
+  "forksCount": 2,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,14 +48,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
-  "subscribersCount": 4,
+  "networkCount": 2,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "twitch-desktop",
     "version": "1.0.0",
     "description": "Twitch Desktop Client",
-    "author": "hzero <edusvh@gmail.com",
     "scripts": {
       "build-renderer:dev": "webpack -d --config webpack.config.electron-renderer.js --progress --profile --colors --watch",
       "build-main": "webpack -p --config webpack.config.electron-main.js --progress --profile --colors",
@@ -103,6 +102,9 @@
       "bourbon": "^4.2.7",
       "proto-loader": "^0.2.0",
       "protobufjs": "^5.0.1"
+    },
+    "other": {
+      "author": "hzero <edusvh@gmail.com"
     }
   },
   "packageStatus": 200,
@@ -150,6 +152,7 @@
   "svnUrl": "https://github.com/hzeroo/twitch-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:59.002Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:31.946Z"
+  "lastFetchedAt": "2017-10-23T19:21:27.917Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:31.946Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "emkay",
     "id": 1327,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1327?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1327?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/emkay",
     "htmlUrl": "https://github.com/emkay",
@@ -81,19 +81,12 @@
       "start": "electron .",
       "test": "standard"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/emkay/oak.git"
-    },
+    "repository": "https://github.com/emkay/oak",
     "keywords": [
       "game",
       "tool"
     ],
-    "author": "Michael Matuzak",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/emkay/oak/issues"
-    },
     "homepage": "https://github.com/emkay/oak#readme",
     "dependencies": {
       "barracks": "^8.1.1",
@@ -105,6 +98,12 @@
     },
     "devDependencies": {
       "standard": "^7.1.2"
+    },
+    "other": {
+      "author": "Michael Matuzak",
+      "bugs": {
+        "url": "https://github.com/emkay/oak/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "emkay___oak.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:17.084Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:36.680Z"
+  "lastFetchedAt": "2017-10-23T17:50:33.144Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:36.680Z",
+  "archived": false
 }

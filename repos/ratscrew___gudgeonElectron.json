@@ -5,7 +5,7 @@
   "owner": {
     "login": "ratscrew",
     "id": 4635248,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4635248?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4635248?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ratscrew",
     "htmlUrl": "https://github.com/ratscrew",
@@ -35,17 +35,17 @@
   "downloadsUrl": "https://api.github.com/repos/ratscrew/gudgeonElectron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ratscrew/gudgeonElectron/deployments",
   "createdAt": "2016-05-13T14:58:28.000Z",
-  "updatedAt": "2016-05-16T15:00:28.000Z",
-  "pushedAt": "2017-03-17T13:27:53.000Z",
+  "updatedAt": "2017-06-26T11:16:37.000Z",
+  "pushedAt": "2017-06-26T11:16:33.000Z",
   "gitUrl": "git://github.com/ratscrew/gudgeonElectron.git",
   "sshUrl": "git@github.com:ratscrew/gudgeonElectron.git",
   "cloneUrl": "https://github.com/ratscrew/gudgeonElectron.git",
   "svnUrl": "https://github.com/ratscrew/gudgeonElectron",
   "homepage": null,
-  "size": 3,
+  "size": 52107,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "JavaScript",
+  "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -73,18 +73,17 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ratscrew/gudgeonElectron.git"
-    },
-    "author": "Aidan Grace",
+    "repository": "https://github.com/ratscrew/gudgeonElectron",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ratscrew/gudgeonElectron/issues"
-    },
     "homepage": "https://github.com/ratscrew/gudgeonElectron#readme",
     "dependencies": {
       "npm install electron-packager -g": "^1.0.2"
+    },
+    "other": {
+      "author": "Aidan Grace",
+      "bugs": {
+        "url": "https://github.com/ratscrew/gudgeonElectron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,7 @@
   },
   "filename": "ratscrew___gudgeonElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:21.863Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:52.386Z"
+  "lastFetchedAt": "2017-10-23T20:15:44.857Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:52.386Z",
+  "archived": false
 }

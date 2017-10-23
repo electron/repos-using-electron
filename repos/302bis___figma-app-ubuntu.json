@@ -6,7 +6,7 @@
   "owner": {
     "login": "302bis",
     "id": 5607252,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5607252?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5607252?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/302bis",
     "htmlUrl": "https://github.com/302bis",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/302bis/figma-app-ubuntu/downloads",
   "deploymentsUrl": "https://api.github.com/repos/302bis/figma-app-ubuntu/deployments",
   "createdAt": "2016-12-03T15:18:51.000Z",
-  "updatedAt": "2017-03-19T23:50:43.000Z",
+  "updatedAt": "2017-10-18T17:18:48.000Z",
   "pushedAt": "2017-02-07T07:03:36.000Z",
   "gitUrl": "git://github.com/302bis/figma-app-ubuntu.git",
   "sshUrl": "git@github.com:302bis/figma-app-ubuntu.git",
@@ -44,18 +44,18 @@
   "svnUrl": "https://github.com/302bis/figma-app-ubuntu",
   "homepage": "",
   "size": 73328,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 7,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,15 +69,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
-  "subscribersCount": 2,
+  "networkCount": 1,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "figma-ubuntu-app",
     "productName": "Figma",
     "description": "The first interface design tool with real-time collaboration.",
     "version": "0.0.0",
-    "author": "Figma team <support@figma.com>",
     "copyright": "© 2016, Figma.",
     "homepage": "http://www.figma.com",
     "license": "MIT",
@@ -102,6 +101,9 @@
     "devDependencies": {
       "electron": "^1.4.7",
       "electron-builder": "^8.6.0"
+    },
+    "other": {
+      "author": "Figma team <support@figma.com>"
     }
   },
   "packageStatus": 200,
@@ -128,6 +130,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:51.104Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:44.197Z"
+  "lastFetchedAt": "2017-10-23T20:28:14.376Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:44.197Z",
+  "archived": false
 }

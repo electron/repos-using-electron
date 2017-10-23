@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular2_with_electron_boilerplate",
     "version": "1.0.0",
@@ -83,7 +83,6 @@
       "start": "npm run build && npm run electron-run"
     },
     "license": "MIT",
-    "author": "Mike S @ Crofters Food Ltd.",
     "devDependencies": {
       "@types/core-js": "^0.9.32",
       "@types/electron": "^1.4.26",
@@ -118,6 +117,9 @@
       "reflect-metadata": "^0.1.3",
       "rxjs": "5.0.0-beta.12",
       "zone.js": "~0.6.23"
+    },
+    "other": {
+      "author": "Mike S @ Crofters Food Ltd."
     }
   },
   "packageStatus": 200,
@@ -145,6 +147,6 @@
   },
   "filename": "IT-MikeS___Angular-2-With-Electron-Boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:59.012Z",
+  "lastFetchedAt": "2017-10-23T19:28:21.540Z",
   "packageLastFetchedAt": "2017-05-05T17:06:41.008Z"
 }

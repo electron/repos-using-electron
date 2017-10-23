@@ -5,7 +5,7 @@
   "owner": {
     "login": "SEMterface",
     "id": 8539888,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8539888?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8539888?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SEMterface",
     "htmlUrl": "https://github.com/SEMterface",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "SEMterface",
     "id": 8539888,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8539888?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8539888?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SEMterface",
     "htmlUrl": "https://github.com/SEMterface",
@@ -93,15 +93,8 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SEMterface/sem-client.git"
-    },
-    "author": "Bret Comnes",
+    "repository": "https://github.com/SEMterface/sem-client",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/SEMterface/sem-client/issues"
-    },
     "homepage": "https://github.com/SEMterface/sem-client#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -116,6 +109,12 @@
       "semterface": "github:semterface/semterface",
       "serialport": "^2.0.5",
       "simple-peer": "^5.11.7"
+    },
+    "other": {
+      "author": "Bret Comnes",
+      "bugs": {
+        "url": "https://github.com/SEMterface/sem-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "SEMterface___sem-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:24.324Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:30.395Z"
+  "lastFetchedAt": "2017-10-23T20:29:08.357Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:30.395Z",
+  "archived": false
 }

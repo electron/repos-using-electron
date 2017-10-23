@@ -5,7 +5,7 @@
   "owner": {
     "login": "hibeekaey",
     "id": 12363012,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12363012?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12363012?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hibeekaey",
     "htmlUrl": "https://github.com/hibeekaey",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/hibeekaey/file-manager",
-  "description": "web based file manager",
+  "description": "Desktop File Manager",
   "fork": false,
   "url": "https://api.github.com/repos/hibeekaey/file-manager",
   "forksUrl": "https://api.github.com/repos/hibeekaey/file-manager/forks",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/hibeekaey/file-manager/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hibeekaey/file-manager/deployments",
   "createdAt": "2016-06-30T13:57:25.000Z",
-  "updatedAt": "2016-07-13T10:12:03.000Z",
-  "pushedAt": "2016-07-16T19:52:47.000Z",
+  "updatedAt": "2017-06-23T18:22:58.000Z",
+  "pushedAt": "2017-06-23T18:28:21.000Z",
   "gitUrl": "git://github.com/hibeekaey/file-manager.git",
   "sshUrl": "git@github.com:hibeekaey/file-manager.git",
   "cloneUrl": "https://github.com/hibeekaey/file-manager.git",
   "svnUrl": "https://github.com/hibeekaey/file-manager",
-  "homepage": null,
+  "homepage": "",
   "size": 108,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -75,11 +75,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hibeekaey/file-manager.git"
-    },
-    "author": "Hibeekaey",
+    "repository": "https://github.com/hibeekaey/file-manager",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
@@ -88,6 +84,9 @@
       "win": {
         "msi": true
       }
+    },
+    "other": {
+      "author": "Hibeekaey"
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,7 @@
   },
   "filename": "hibeekaey___file-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:26.048Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:56.487Z"
+  "lastFetchedAt": "2017-10-23T17:25:01.507Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:56.487Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "newslynx",
     "id": 7109969,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7109969?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7109969?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/newslynx",
     "htmlUrl": "https://github.com/newslynx",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "newslynx",
     "id": 7109969,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7109969?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7109969?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/newslynx",
     "htmlUrl": "https://github.com/newslynx",
@@ -72,11 +72,6 @@
     "description": "A desktop version of the NewsLynx web app.",
     "main": "index.js",
     "repository": "newslynx/newslynx-electron",
-    "author": {
-      "name": "mhkeller",
-      "email": "michael.keller@gmail.com",
-      "url": "newslynx.org"
-    },
     "engines": {
       "node": ">=0.10.0"
     },
@@ -109,6 +104,13 @@
     "devDependencies": {
       "electron-packager": "5.0.1",
       "electron-prebuilt": "^0.30.0"
+    },
+    "other": {
+      "author": {
+        "name": "mhkeller",
+        "email": "michael.keller@gmail.com",
+        "url": "newslynx.org"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +158,7 @@
   "svnUrl": "https://github.com/newslynx/newslynx-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:00:39.118Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:14.174Z"
+  "lastFetchedAt": "2017-10-23T18:00:52.455Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:14.174Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Waxo",
     "id": 6392586,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6392586?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6392586?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Waxo",
     "htmlUrl": "https://github.com/Waxo",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-03-24T14:52:05.000Z",
   "updatedAt": "2016-03-24T14:52:54.000Z",
-  "pushedAt": "2017-03-28T07:40:34.000Z",
+  "pushedAt": "2017-10-19T08:22:45.000Z",
   "homepage": null,
-  "size": 2873,
+  "size": 2899,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -51,7 +51,6 @@
     "description": "i-vectors system validation",
     "main": "ivectors.js",
     "repository": "https://github.com/Waxo/ivectors.git",
-    "author": "Maxime Robin <contact.waxo@gmail.com>",
     "license": "MIT",
     "xo": {
       "envs": [
@@ -109,6 +108,9 @@
       "test": "mocha",
       "clear-project": "rm -rf layers .nyc_output coverage *.csv",
       "start": "node ivectors.js"
+    },
+    "other": {
+      "author": "Maxime Robin <contact.waxo@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -156,6 +158,7 @@
   "svnUrl": "https://github.com/Waxo/ivectors",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:42:53.296Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:28.102Z"
+  "lastFetchedAt": "2017-10-23T18:38:59.461Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:28.102Z",
+  "archived": false
 }

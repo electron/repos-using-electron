@@ -5,7 +5,7 @@
   "owner": {
     "login": "JiLiZART",
     "id": 62051,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/62051?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/62051?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JiLiZART",
     "htmlUrl": "https://github.com/JiLiZART",
@@ -77,16 +77,10 @@
     "version": "1.0.0",
     "description": "A menu to read TM Feed",
     "main": "./dist/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/JiLiZART/tmfeed-menu.git"
-    },
+    "repository": "https://github.com/JiLiZART/tmfeed-menu",
     "engines": {
       "node": "0.12.7",
       "npm": "2.11.3"
-    },
-    "bugs": {
-      "url": "https://github.com/JiLiZART/tmfeed-menu/issues"
     },
     "license": "MIT",
     "scripts": {
@@ -101,10 +95,6 @@
       "package": "npm run build && ./script/package.sh",
       "release": "npm run package"
     },
-    "author": [
-      "Jingwen Owen Ou",
-      "Nikolay Kost <jilizart@gmail.com>"
-    ],
     "config": {
       "electron_version": "0.31.2"
     },
@@ -129,6 +119,15 @@
       "react": "^0.13.3",
       "request": "^2.62.0",
       "winston": "^1.0.1"
+    },
+    "other": {
+      "author": [
+        "Jingwen Owen Ou",
+        "Nikolay Kost <jilizart@gmail.com>"
+      ],
+      "bugs": {
+        "url": "https://github.com/JiLiZART/tmfeed-menu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   "filename": "JiLiZART___tmfeed-menu.json",
   "sourceRepo": "jingweno/hacker-menu",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:57.005Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:58.030Z"
+  "lastFetchedAt": "2017-10-23T17:44:05.431Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:58.030Z",
+  "archived": false
 }

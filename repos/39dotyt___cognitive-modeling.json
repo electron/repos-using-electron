@@ -1,19 +1,19 @@
 {
   "id": 55896379,
   "name": "cognitive-modeling",
-  "fullName": "39dotyt/cognitive-modeling",
+  "fullName": "yurijmikhalevich/cognitive-modeling",
   "owner": {
-    "login": "39dotyt",
+    "login": "yurijmikhalevich",
     "id": 4187729,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4187729?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4187729?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/39dotyt",
-    "htmlUrl": "https://github.com/39dotyt",
-    "followersUrl": "https://api.github.com/users/39dotyt/followers",
-    "subscriptionsUrl": "https://api.github.com/users/39dotyt/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/39dotyt/orgs",
-    "reposUrl": "https://api.github.com/users/39dotyt/repos",
-    "receivedEventsUrl": "https://api.github.com/users/39dotyt/received_events",
+    "url": "https://api.github.com/users/yurijmikhalevich",
+    "htmlUrl": "https://github.com/yurijmikhalevich",
+    "followersUrl": "https://api.github.com/users/yurijmikhalevich/followers",
+    "subscriptionsUrl": "https://api.github.com/users/yurijmikhalevich/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/yurijmikhalevich/orgs",
+    "reposUrl": "https://api.github.com/users/yurijmikhalevich/repos",
+    "receivedEventsUrl": "https://api.github.com/users/yurijmikhalevich/received_events",
     "type": "User"
   },
   "private": false,
@@ -64,24 +64,14 @@
       "start": "electron main.js",
       "start-dev": "concurrently \"npm run tsc:w\" \"npm run start\" "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/39dotyt/cognitive-modeling.git"
-    },
+    "repository": "https://github.com/39dotyt/cognitive-modeling",
     "keywords": [
       "electron",
       "cognitive",
       "modelling",
       "tutorial"
     ],
-    "author": {
-      "name": "Yurij Mikhalevich",
-      "email": "0@39.yt"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/39dotyt/cognitive-modeling/issues"
-    },
     "dependencies": {
       "angular2": "2.0.0-beta.9",
       "systemjs": "0.19.24",
@@ -103,28 +93,37 @@
       "concurrently": "^2.0.0",
       "typescript": "^1.8.9",
       "typings": "^0.7.11"
+    },
+    "other": {
+      "author": {
+        "name": "Yurij Mikhalevich",
+        "email": "0@39.yt"
+      },
+      "bugs": {
+        "url": "https://github.com/39dotyt/cognitive-modeling/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/39dotyt/cognitive-modeling",
-  "url": "https://api.github.com/repos/39dotyt/cognitive-modeling",
-  "forksUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/forks",
-  "teamsUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/teams",
-  "hooksUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/hooks",
-  "eventsUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/events",
-  "tagsUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/tags",
-  "languagesUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/languages",
-  "stargazersUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/contributors",
-  "subscribersUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/subscription",
-  "mergesUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/merges",
-  "downloadsUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/39dotyt/cognitive-modeling/deployments",
-  "gitUrl": "git://github.com/39dotyt/cognitive-modeling.git",
-  "sshUrl": "git@github.com:39dotyt/cognitive-modeling.git",
-  "cloneUrl": "https://github.com/39dotyt/cognitive-modeling.git",
-  "svnUrl": "https://github.com/39dotyt/cognitive-modeling",
+  "htmlUrl": "https://github.com/yurijmikhalevich/cognitive-modeling",
+  "url": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling",
+  "forksUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/forks",
+  "teamsUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/teams",
+  "hooksUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/hooks",
+  "eventsUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/events",
+  "tagsUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/tags",
+  "languagesUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/languages",
+  "stargazersUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/contributors",
+  "subscribersUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/subscription",
+  "mergesUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/merges",
+  "downloadsUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/yurijmikhalevich/cognitive-modeling/deployments",
+  "gitUrl": "git://github.com/yurijmikhalevich/cognitive-modeling.git",
+  "sshUrl": "git@github.com:yurijmikhalevich/cognitive-modeling.git",
+  "cloneUrl": "https://github.com/yurijmikhalevich/cognitive-modeling.git",
+  "svnUrl": "https://github.com/yurijmikhalevich/cognitive-modeling",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "8f6b21db9c85a4230ba86a56a7d9b4c76463d8c9",
@@ -150,6 +149,7 @@
   },
   "filename": "39dotyt___cognitive-modeling.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:35:04.863Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:02.811Z"
+  "lastFetchedAt": "2017-10-23T17:45:01.948Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:02.811Z",
+  "archived": false
 }

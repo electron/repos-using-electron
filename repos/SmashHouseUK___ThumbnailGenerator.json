@@ -5,7 +5,7 @@
   "owner": {
     "login": "SmashHouseUK",
     "id": 18172142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/18172142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/18172142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SmashHouseUK",
     "htmlUrl": "https://github.com/SmashHouseUK",
@@ -73,21 +73,20 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://sh-Ook@github.com/SmashHouseUK/ThumbnailGenerator.git"
-    },
-    "author": "sh-Ook",
+    "repository": "https://github.com/SmashHouseUK/ThumbnailGenerator",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/SmashHouseUK/ThumbnailGenerator/issues"
-    },
     "homepage": "https://github.com/SmashHouseUK/ThumbnailGenerator#readme",
     "devDependencies": {
       "gulp": "^3.9.1",
       "gulp-electron": "0.0.10",
       "gulp-run-electron": "^1.2.2",
       "electron": "^0.4.1"
+    },
+    "other": {
+      "author": "sh-Ook",
+      "bugs": {
+        "url": "https://github.com/SmashHouseUK/ThumbnailGenerator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,7 @@
   },
   "filename": "SmashHouseUK___ThumbnailGenerator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:13.733Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:18.261Z"
+  "lastFetchedAt": "2017-10-23T18:04:39.792Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:18.261Z",
+  "archived": false
 }

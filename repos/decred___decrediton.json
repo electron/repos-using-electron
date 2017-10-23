@@ -5,7 +5,7 @@
   "owner": {
     "login": "decred",
     "id": 16297194,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16297194?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16297194?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/decred",
     "htmlUrl": "https://github.com/decred",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/decred/decrediton",
-  "description": "Cross platform GUI for decred",
+  "description": "Cross-platform GUI for Decred.",
   "fork": false,
   "url": "https://api.github.com/repos/decred/decrediton",
   "forksUrl": "https://api.github.com/repos/decred/decrediton/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/decred/decrediton/downloads",
   "deploymentsUrl": "https://api.github.com/repos/decred/decrediton/deployments",
   "createdAt": "2016-11-09T18:55:33.000Z",
-  "updatedAt": "2017-05-02T09:46:21.000Z",
-  "pushedAt": "2017-05-03T19:21:34.000Z",
+  "updatedAt": "2017-10-23T14:03:07.000Z",
+  "pushedAt": "2017-10-23T19:43:39.000Z",
   "gitUrl": "git://github.com/decred/decrediton.git",
   "sshUrl": "git@github.com:decred/decrediton.git",
   "cloneUrl": "https://github.com/decred/decrediton.git",
   "svnUrl": "https://github.com/decred/decrediton",
-  "homepage": null,
-  "size": 3238,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "homepage": "",
+  "size": 5398,
+  "stargazersCount": 48,
+  "watchersCount": 48,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 28,
   "mirrorUrl": null,
-  "openIssuesCount": 28,
-  "openIssues": 28,
-  "watchers": 11,
+  "openIssuesCount": 85,
+  "openIssues": 85,
+  "watchers": 48,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "decred",
     "id": 16297194,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16297194?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16297194?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/decred",
     "htmlUrl": "https://github.com/decred",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/decred/received_events",
     "type": "Organization"
   },
-  "networkCount": 8,
-  "subscribersCount": 11,
+  "networkCount": 28,
+  "subscribersCount": 21,
   "status": 200,
   "packageJSON": {
     "name": "decrediton",
@@ -151,26 +151,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/decred/decrediton.git"
-    },
-    "author": {
-      "name": "The Decred developers",
-      "email": "info@decred.org",
-      "url": "https://github.com/decred"
-    },
+    "repository": "https://github.com/decred/decrediton",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/decred/decrediton/issues"
-    },
     "keywords": [
       "decred",
       "decrediton",
@@ -273,6 +258,20 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "The Decred developers",
+        "email": "info@decred.org",
+        "url": "https://github.com/decred"
+      },
+      "bugs": {
+        "url": "https://github.com/decred/decrediton/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -300,6 +299,7 @@
   },
   "filename": "decred___decrediton.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:28.396Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:14.672Z"
+  "lastFetchedAt": "2017-10-23T20:29:24.389Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:14.672Z",
+  "archived": false
 }

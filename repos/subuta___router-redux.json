@@ -5,7 +5,7 @@
   "owner": {
     "login": "subuta",
     "id": 6227288,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6227288?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6227288?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/subuta",
     "htmlUrl": "https://github.com/subuta",
@@ -185,23 +185,22 @@
       "build-example": "jspm build example/app.js docs/bundled.js --format umd --skip-source-maps --minify",
       "prepublish": "npm run build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/subuta/router-redux.git"
-    },
+    "repository": "https://github.com/subuta/router-redux",
     "keywords": [
       "redux",
       "router",
       "page",
       "route"
     ],
-    "author": "subuta <shunta.3110@gmail.com> (https://github.com/subuta)",
     "license": "MIT",
     "registry": "npm",
-    "bugs": {
-      "url": "https://github.com/subuta/router-redux/issues"
-    },
-    "homepage": "https://github.com/subuta/router-redux#readme"
+    "homepage": "https://github.com/subuta/router-redux#readme",
+    "other": {
+      "author": "subuta <shunta.3110@gmail.com> (https://github.com/subuta)",
+      "bugs": {
+        "url": "https://github.com/subuta/router-redux/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/subuta/router-redux",
@@ -248,6 +247,7 @@
   },
   "filename": "subuta___router-redux.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:34:21.785Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:42.683Z"
+  "lastFetchedAt": "2017-10-23T17:21:27.022Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:42.683Z",
+  "archived": false
 }

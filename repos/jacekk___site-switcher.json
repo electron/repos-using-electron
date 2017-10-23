@@ -5,7 +5,7 @@
   "owner": {
     "login": "jacekk",
     "id": 1695878,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1695878?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1695878?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jacekk",
     "htmlUrl": "https://github.com/jacekk",
@@ -84,12 +84,8 @@
       "app:build:linux": "npm run app:prepare:build && cd electron-app && ./node_modules/.bin/build --linux",
       "app:build:arm": "npm run app:prepare:build && cd electron-app && ./node_modules/.bin/build --armv7l"
     },
-    "author": "https://github.com/jacekk",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jacekk/site-switcher"
-    },
+    "repository": "https://github.com/jacekk/site-switcher",
     "jest": {
       "setupTestFrameworkScriptFile": "./tests/init.js",
       "collectCoverage": true,
@@ -152,6 +148,9 @@
       "redux-localstorage": "^0.4.1",
       "uuid": "^2.0.3",
       "validator": "^6.1.0"
+    },
+    "other": {
+      "author": "https://github.com/jacekk"
     }
   },
   "packageStatus": 200,
@@ -179,6 +178,7 @@
   },
   "filename": "jacekk___site-switcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:25.333Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:10.725Z"
+  "lastFetchedAt": "2017-10-23T20:20:16.353Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:10.725Z",
+  "archived": false
 }

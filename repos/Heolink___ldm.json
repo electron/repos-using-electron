@@ -5,7 +5,7 @@
   "owner": {
     "login": "Heolink",
     "id": 1562078,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1562078?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1562078?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Heolink",
     "htmlUrl": "https://github.com/Heolink",
@@ -79,15 +79,8 @@
       "package:win32": "electron-packager . ldm --platform=win32 --arch=x64 --version=0.36.4 --out=dist --overwrite --ignore='^/dist$' --ignore='^/icons$' --ignore='^/typings$' --ignore='^/src$' --prune",
       "package:all": "npm run package && npm run package:linux && npm run package:win32"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Heolink/ldm.git"
-    },
-    "author": "Heolink <heolink@gmail.com>",
+    "repository": "https://github.com/Heolink/ldm",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Heolink/ldm/issues"
-    },
     "homepage": "https://github.com/Heolink/ldm#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
@@ -104,6 +97,12 @@
       "vue": "^1.0.16-csp",
       "vue-async-data": "^1.0.2",
       "vue-router": "^0.7.11"
+    },
+    "other": {
+      "author": "Heolink <heolink@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/Heolink/ldm/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "Heolink___ldm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:49.523Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:02.861Z"
+  "lastFetchedAt": "2017-10-23T18:26:18.028Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:02.861Z",
+  "archived": false
 }

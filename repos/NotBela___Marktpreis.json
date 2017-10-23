@@ -64,13 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "EMonkey",
     "version": "1.0.0",
     "description": "A small Tool to check the E-Monkey Marketprices",
     "main": "main.js",
-    "author": "Bela Stoyan <github@nichtbela.de>",
     "license": "ISC",
     "dependencies": {
       "request": "^2.72.0"
@@ -82,6 +81,9 @@
     "scripts": {
       "start": "./node_modules/.bin/electron .",
       "compile": "electron-packager ./ E-Monkeys-Marktpreise --platform=win32 --arch=x64 --icon=Monkey.png --asar"
+    },
+    "other": {
+      "author": "Bela Stoyan <github@nichtbela.de>"
     }
   },
   "packageStatus": 200,
@@ -109,6 +111,6 @@
   },
   "filename": "NotBela___Marktpreis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:13.196Z",
+  "lastFetchedAt": "2017-10-23T17:31:37.149Z",
   "packageLastFetchedAt": "2017-05-04T22:39:23.160Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "vevedh",
     "id": 1430389,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1430389?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1430389?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vevedh",
     "htmlUrl": "https://github.com/vevedh",
@@ -75,9 +75,7 @@
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -110,12 +108,6 @@
       "webdriver-start": "webdriver-manager start",
       "webdriver-update": "webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "angular2-service-worker": "^0.1.1",
@@ -210,6 +202,14 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "~0.19.25",
       "zone.js": "0.6.12"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -238,6 +238,7 @@
   "filename": "vevedh___vvng2mat.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:19.371Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:00.780Z"
+  "lastFetchedAt": "2017-10-23T18:32:11.772Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:00.780Z",
+  "archived": false
 }

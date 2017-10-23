@@ -5,7 +5,7 @@
   "owner": {
     "login": "bobbylight",
     "id": 1631766,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1631766?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1631766?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bobbylight",
     "htmlUrl": "https://github.com/bobbylight",
@@ -76,10 +76,7 @@
     "description": "Pacman written in TypeScript",
     "version": "3.0.0",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bobbylight/PacmanJS.git"
-    },
+    "repository": "https://github.com/bobbylight/PacmanJS",
     "scripts": {
       "clean": "rimraf build",
       "build": "NODE_ENV=production webpack --config webpack/webpack.config.js",
@@ -143,6 +140,7 @@
   },
   "filename": "bobbylight___PacmanJS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:56.987Z",
-  "packageLastFetchedAt": "2017-05-04T22:33:07.818Z"
+  "lastFetchedAt": "2017-10-23T18:21:47.572Z",
+  "packageLastFetchedAt": "2017-05-04T22:33:07.818Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "deadcoder0904",
     "id": 16436270,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16436270?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16436270?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/deadcoder0904",
     "htmlUrl": "https://github.com/deadcoder0904",
@@ -70,7 +70,6 @@
     "version": "1.0.0",
     "description": "MD previewer Desktop App made in Electron",
     "main": "app.js",
-    "author": "Akshay Kadam",
     "license": "MIT",
     "scripts": {
       "package": "asar pack MyApp-linux-x64/resources/app MyApp-linux-x64/resources/app.asar",
@@ -85,6 +84,9 @@
     },
     "dependencies": {
       "electron": "^1.4.5"
+    },
+    "other": {
+      "author": "Akshay Kadam"
     }
   },
   "packageStatus": 200,
@@ -112,6 +114,7 @@
   },
   "filename": "deadcoder0904___electron-md-preview.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:04:16.393Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:48.608Z"
+  "lastFetchedAt": "2017-10-23T17:59:24.236Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:48.608Z",
+  "archived": false
 }

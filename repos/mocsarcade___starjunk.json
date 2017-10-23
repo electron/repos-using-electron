@@ -5,7 +5,7 @@
   "owner": {
     "login": "mocsarcade",
     "id": 10573777,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10573777?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10573777?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mocsarcade",
     "htmlUrl": "https://github.com/mocsarcade",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "mocsarcade",
     "id": 10573777,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10573777?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10573777?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mocsarcade",
     "htmlUrl": "https://github.com/mocsarcade",
@@ -67,16 +67,7 @@
       "type": "mit",
       "url": "https://opensource.org/licenses/MIT"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mocsarcade/starjunk"
-    },
-    "contributors": [
-      "Andrew McPherson <@ehgoodenough>",
-      "Skylar Rowan Lolmaugh <@binome>",
-      "Matthew Menard menard.matthew.b@gmail.com",
-      "Name <email/twitter/tumblr/whatever>"
-    ],
+    "repository": "https://github.com/mocsarcade/starjunk",
     "dependencies": {
       "afloop": "^1.0.1",
       "expect.js": "^0.3.1",
@@ -124,6 +115,14 @@
     },
     "scripts": {
       "build": "node build"
+    },
+    "other": {
+      "contributors": [
+        "Andrew McPherson <@ehgoodenough>",
+        "Skylar Rowan Lolmaugh <@binome>",
+        "Matthew Menard menard.matthew.b@gmail.com",
+        "Name <email/twitter/tumblr/whatever>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   "svnUrl": "https://github.com/mocsarcade/starjunk",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:49:48.304Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:37.749Z"
+  "lastFetchedAt": "2017-10-23T18:32:29.855Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:37.749Z",
+  "archived": false
 }

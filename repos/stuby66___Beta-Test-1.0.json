@@ -5,7 +5,7 @@
   "owner": {
     "login": "stuby66",
     "id": 16942854,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16942854?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16942854?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stuby66",
     "htmlUrl": "https://github.com/stuby66",
@@ -97,31 +97,7 @@
       "test": "NODE_ENV=test mocha --compilers js:babel-register --recursive $(find test -name '*Test.js')"
     },
     "repository": "brave/browser-laptop",
-    "author": {
-      "name": "Brave Developers <support@brave.com>"
-    },
-    "contributors": [
-      {
-        "name": "Brian R. Bondy",
-        "email": "brian@brave.com"
-      },
-      {
-        "name": "Aubrey Keus",
-        "email": "aubrey@brave.com"
-      },
-      {
-        "name": "Brian Johnson",
-        "email": "bjohnson@brave.com"
-      },
-      {
-        "name": "Yan Zhu",
-        "email": "yan@brave.com"
-      }
-    ],
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/bbondy/electron-sample/issues"
-    },
     "homepage": "https://github.com/bbondy/electron-sample#readme",
     "dependencies": {
       "abp-filter-parser-cpp": "^1.1.2",
@@ -202,6 +178,32 @@
     "engineStrict": true,
     "engines": {
       "node": ">= 5.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "Brave Developers <support@brave.com>"
+      },
+      "bugs": {
+        "url": "https://github.com/bbondy/electron-sample/issues"
+      },
+      "contributors": [
+        {
+          "name": "Brian R. Bondy",
+          "email": "brian@brave.com"
+        },
+        {
+          "name": "Aubrey Keus",
+          "email": "aubrey@brave.com"
+        },
+        {
+          "name": "Brian Johnson",
+          "email": "bjohnson@brave.com"
+        },
+        {
+          "name": "Yan Zhu",
+          "email": "yan@brave.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -230,6 +232,7 @@
   "filename": "stuby66___Beta-Test-1.0.json",
   "sourceRepo": "brave/browser-laptop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:12:48.722Z",
-  "packageLastFetchedAt": "2017-05-05T17:17:13.606Z"
+  "lastFetchedAt": "2017-10-23T18:00:42.457Z",
+  "packageLastFetchedAt": "2017-05-05T17:17:13.606Z",
+  "archived": false
 }

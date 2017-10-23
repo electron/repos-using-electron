@@ -5,7 +5,7 @@
   "owner": {
     "login": "frankhale",
     "id": 190154,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/190154?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/190154?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/frankhale",
     "htmlUrl": "https://github.com/frankhale",
@@ -20,21 +20,21 @@
   "description": "A YouTube player for the desktop",
   "fork": false,
   "createdAt": "2014-11-03T02:51:00.000Z",
-  "updatedAt": "2017-04-20T20:04:36.000Z",
-  "pushedAt": "2017-04-28T05:03:22.000Z",
+  "updatedAt": "2017-10-20T03:01:23.000Z",
+  "pushedAt": "2017-09-27T00:42:25.000Z",
   "homepage": "",
-  "size": 17607,
-  "stargazersCount": 81,
-  "watchersCount": 81,
+  "size": 17941,
+  "stargazersCount": 90,
+  "watchersCount": 90,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 10,
+  "forksCount": 11,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 81,
+  "watchers": 90,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 10,
-  "subscribersCount": 5,
+  "networkCount": 11,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "toby",
@@ -51,12 +51,8 @@
     "description": "A desktop YouTube player",
     "title": "Toby - A YouTube Player For The Desktop",
     "homepage": "https://github.com/frankhale/toby",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/frankhale/toby.git"
-    },
+    "repository": "https://github.com/frankhale/toby",
     "private": true,
-    "author": "Frank Hale <frankhale@gmail.com>",
     "license": "GPL-3.0",
     "main": "./build/index.html",
     "node-remote": "http://localhost:62374",
@@ -119,6 +115,9 @@
       "sqlite3": "^3.1.8",
       "title-case": "^2.1.1",
       "youtube-search": "^1.0.9"
+    },
+    "other": {
+      "author": "Frank Hale <frankhale@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,7 @@
   "svnUrl": "https://github.com/frankhale/toby",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:03:41.316Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:01.633Z"
+  "lastFetchedAt": "2017-10-23T17:14:19.608Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:01.633Z",
+  "archived": false
 }

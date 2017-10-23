@@ -5,7 +5,7 @@
   "owner": {
     "login": "priithaamer",
     "id": 194640,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/194640?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/194640?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/priithaamer",
     "htmlUrl": "https://github.com/priithaamer",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/priithaamer/Fiddlings/downloads",
   "deploymentsUrl": "https://api.github.com/repos/priithaamer/Fiddlings/deployments",
   "createdAt": "2016-10-07T12:46:56.000Z",
-  "updatedAt": "2016-11-29T05:09:30.000Z",
+  "updatedAt": "2017-10-17T11:29:03.000Z",
   "pushedAt": "2016-12-07T21:11:05.000Z",
   "gitUrl": "git://github.com/priithaamer/Fiddlings.git",
   "sshUrl": "git@github.com:priithaamer/Fiddlings.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/priithaamer/Fiddlings",
   "homepage": "",
   "size": 772,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 5,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 5,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "Fiddlings",
@@ -78,11 +78,7 @@
       "package:macos": "build --macos --x64",
       "package:all": "yarn run build:js && yarn run build:copy && yarn run package:macos"
     },
-    "repository": {
-      "url": "git@github.com:priithaamer/Fiddlings.git",
-      "type": "git"
-    },
-    "author": "Priit Haamer <priit@haamer.ee>",
+    "repository": "https://github.com/priithaamer/Fiddlings",
     "license": "MIT",
     "devDependencies": {
       "babel-loader": "^6.2.8",
@@ -121,6 +117,9 @@
         "!**/._*",
         "!src${/*}"
       ]
+    },
+    "other": {
+      "author": "Priit Haamer <priit@haamer.ee>"
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   },
   "filename": "priithaamer___Fiddlings.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:30:03.039Z",
-  "packageLastFetchedAt": "2017-05-05T17:07:50.929Z"
+  "lastFetchedAt": "2017-10-23T19:36:50.405Z",
+  "packageLastFetchedAt": "2017-05-05T17:07:50.929Z",
+  "archived": false
 }

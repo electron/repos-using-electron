@@ -5,7 +5,7 @@
   "owner": {
     "login": "EdZava",
     "id": 1155199,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1155199?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1155199?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EdZava",
     "htmlUrl": "https://github.com/EdZava",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "paulot",
       "id": 1701002,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1701002?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1701002?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/paulot",
       "htmlUrl": "https://github.com/paulot",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/paulot/gmail/downloads",
     "deploymentsUrl": "https://api.github.com/repos/paulot/gmail/deployments",
     "createdAt": "2015-11-23T06:34:41.000Z",
-    "updatedAt": "2017-05-03T22:13:58.000Z",
+    "updatedAt": "2017-08-09T10:42:33.000Z",
     "pushedAt": "2017-04-06T14:21:48.000Z",
     "gitUrl": "git://github.com/paulot/gmail.git",
     "sshUrl": "git@github.com:paulot/gmail.git",
@@ -87,8 +87,8 @@
     "svnUrl": "https://github.com/paulot/gmail",
     "homepage": "",
     "size": 333,
-    "stargazersCount": 112,
-    "watchersCount": 112,
+    "stargazersCount": 111,
+    "watchersCount": 111,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -97,9 +97,10 @@
     "hasPages": false,
     "forksCount": 15,
     "mirrorUrl": null,
-    "openIssuesCount": 5,
-    "openIssues": 5,
-    "watchers": 112,
+    "archived": false,
+    "openIssuesCount": 4,
+    "openIssues": 4,
+    "watchers": 111,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "paulot",
       "id": 1701002,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1701002?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1701002?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/paulot",
       "htmlUrl": "https://github.com/paulot",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/paulot/gmail/downloads",
     "deploymentsUrl": "https://api.github.com/repos/paulot/gmail/deployments",
     "createdAt": "2015-11-23T06:34:41.000Z",
-    "updatedAt": "2017-05-03T22:13:58.000Z",
+    "updatedAt": "2017-08-09T10:42:33.000Z",
     "pushedAt": "2017-04-06T14:21:48.000Z",
     "gitUrl": "git://github.com/paulot/gmail.git",
     "sshUrl": "git@github.com:paulot/gmail.git",
@@ -147,8 +148,8 @@
     "svnUrl": "https://github.com/paulot/gmail",
     "homepage": "",
     "size": 333,
-    "stargazersCount": 112,
-    "watchersCount": 112,
+    "stargazersCount": 111,
+    "watchersCount": 111,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -157,9 +158,10 @@
     "hasPages": false,
     "forksCount": 15,
     "mirrorUrl": null,
-    "openIssuesCount": 5,
-    "openIssues": 5,
-    "watchers": 112,
+    "archived": false,
+    "openIssuesCount": 4,
+    "openIssues": 4,
+    "watchers": 111,
     "defaultBranch": "master"
   },
   "networkCount": 15,
@@ -179,20 +181,13 @@
       "build": "electron-packager . Gmail --platform=darwin --arch=x64 --version=0.35.1 --icon=lib/media/gmail.png",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/paulot/gmail.git"
-    },
+    "repository": "https://github.com/paulot/gmail",
     "keywords": [
       "gmail",
       "mail",
       "app"
     ],
-    "author": "Paulo Tanaka",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paulot/gmail/issues"
-    },
     "homepage": "https://github.com/paulot/gmail#readme",
     "dependencies": {
       "bluebird": "^3.0.5",
@@ -204,6 +199,12 @@
       "babel-preset-es2015": "^6.1.18",
       "babel-core": "^6.2.1",
       "electron-prebuilt": "^0.35.1"
+    },
+    "other": {
+      "author": "Paulo Tanaka",
+      "bugs": {
+        "url": "https://github.com/paulot/gmail/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -252,6 +253,7 @@
   "filename": "EdZava___gmail.json",
   "sourceRepo": "paulot/gmail",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:13.211Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:51.973Z"
+  "lastFetchedAt": "2017-10-23T19:30:54.420Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:51.973Z",
+  "archived": false
 }

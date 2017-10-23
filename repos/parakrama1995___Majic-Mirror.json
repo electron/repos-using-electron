@@ -5,7 +5,7 @@
   "owner": {
     "login": "parakrama1995",
     "id": 7063680,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7063680?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7063680?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/parakrama1995",
     "htmlUrl": "https://github.com/parakrama1995",
@@ -83,22 +83,14 @@
       "htmlvalidator": "html-validator --file=index.html",
       "test": "snyk test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MichMich/MagicMirror.git"
-    },
+    "repository": "https://github.com/MichMich/MagicMirror",
     "keywords": [
       "magic mirror",
       "smart mirror",
       "mirror UI",
       "modular"
     ],
-    "author": "Michael Teeuw",
-    "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MichMich/MagicMirror/issues"
-    },
     "homepage": "https://github.com/MichMich/MagicMirror#readme",
     "devDependencies": {
       "electron-prebuilt": "latest",
@@ -121,6 +113,13 @@
       "valid-url": "latest",
       "walk": "latest",
       "rrule": "latest"
+    },
+    "other": {
+      "author": "Michael Teeuw",
+      "bugs": {
+        "url": "https://github.com/MichMich/MagicMirror/issues"
+      },
+      "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors"
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "filename": "parakrama1995___Majic-Mirror.json",
   "sourceRepo": "MichMich/MagicMirror",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:05.474Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:19.697Z"
+  "lastFetchedAt": "2017-10-23T18:48:09.418Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:19.697Z",
+  "archived": false
 }

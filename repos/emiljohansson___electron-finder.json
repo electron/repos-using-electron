@@ -5,7 +5,7 @@
   "owner": {
     "login": "emiljohansson",
     "id": 1788399,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1788399?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1788399?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/emiljohansson",
     "htmlUrl": "https://github.com/emiljohansson",
@@ -84,21 +84,20 @@
       "test": "ava",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/emiljohansson/electron-finder.git"
-    },
+    "repository": "https://github.com/emiljohansson/electron-finder",
     "keywords": [
       "electron",
       "finder",
       "app"
     ],
-    "author": "Emil Johansson <emiljohansson.se@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/emiljohansson/electron-finder/issues"
-    },
-    "homepage": "https://github.com/emiljohansson/electron-finder#readme"
+    "homepage": "https://github.com/emiljohansson/electron-finder#readme",
+    "other": {
+      "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/emiljohansson/electron-finder/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +124,7 @@
   },
   "filename": "emiljohansson___electron-finder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:08.067Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:17.061Z"
+  "lastFetchedAt": "2017-10-23T17:28:54.169Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:17.061Z",
+  "archived": false
 }

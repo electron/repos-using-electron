@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "polygen",
     "version": "1.0.0",
@@ -79,18 +79,11 @@
     "scripts": {
       "start": "./node_modules/.bin/electron index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Negan1911/PolyGen.git"
-    },
+    "repository": "https://github.com/Negan1911/PolyGen",
     "keywords": [
       "Wallpaper"
     ],
-    "author": "Nahuel A. Veron",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Negan1911/PolyGen/issues"
-    },
     "homepage": "https://github.com/Negan1911/PolyGen#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.2"
@@ -101,6 +94,12 @@
       "jquery": "^3.0.0",
       "open": "0.0.5",
       "wallpaper": "^2.1.0"
+    },
+    "other": {
+      "author": "Nahuel A. Veron",
+      "bugs": {
+        "url": "https://github.com/Negan1911/PolyGen/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,6 @@
   },
   "filename": "Negan1911___PolyGen.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:29.679Z",
+  "lastFetchedAt": "2017-10-23T17:54:45.233Z",
   "packageLastFetchedAt": "2017-05-05T17:22:56.249Z"
 }

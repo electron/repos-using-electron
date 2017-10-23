@@ -5,7 +5,7 @@
   "owner": {
     "login": "rossedfort",
     "id": 11775628,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11775628?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11775628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rossedfort",
     "htmlUrl": "https://github.com/rossedfort",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for bartleby goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -156,6 +151,13 @@
       "moment": "^2.11.2",
       "request": "^2.69.0",
       "superagent": "^1.7.2"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +185,7 @@
   },
   "filename": "rossedfort___bartleby.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:48.138Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:47.136Z"
+  "lastFetchedAt": "2017-10-23T17:45:08.471Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:47.136Z",
+  "archived": false
 }

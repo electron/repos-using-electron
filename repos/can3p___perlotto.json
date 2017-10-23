@@ -5,7 +5,7 @@
   "owner": {
     "login": "can3p",
     "id": 125821,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/125821?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/125821?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/can3p",
     "htmlUrl": "https://github.com/can3p",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/can3p/perlotto",
-  "description": "Minimal google music wrapper",
+  "description": "Minimal google music / youtube wrapper",
   "fork": false,
   "url": "https://api.github.com/repos/can3p/perlotto",
   "forksUrl": "https://api.github.com/repos/can3p/perlotto/forks",
@@ -35,34 +35,40 @@
   "downloadsUrl": "https://api.github.com/repos/can3p/perlotto/downloads",
   "deploymentsUrl": "https://api.github.com/repos/can3p/perlotto/deployments",
   "createdAt": "2016-09-11T18:05:29.000Z",
-  "updatedAt": "2016-09-11T18:05:41.000Z",
-  "pushedAt": "2016-09-11T21:25:42.000Z",
+  "updatedAt": "2017-09-10T12:55:51.000Z",
+  "pushedAt": "2017-09-11T18:17:17.000Z",
   "gitUrl": "git://github.com/can3p/perlotto.git",
   "sshUrl": "git@github.com:can3p/perlotto.git",
   "cloneUrl": "https://github.com/can3p/perlotto.git",
   "svnUrl": "https://github.com/can3p/perlotto",
-  "homepage": null,
-  "size": 16,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "homepage": "",
+  "size": 3070,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 4,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 0,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
+  "networkCount": 4,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -82,19 +88,18 @@
         "category": "public.app-category.music"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/can3p/perlotto.git"
-    },
-    "author": "Dmitry Petrov",
+    "repository": "https://github.com/can3p/perlotto",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/can3p/perlotto/issues"
-    },
     "homepage": "https://github.com/can3p/perlotto#readme",
     "devDependencies": {
       "electron-builder": "^6.6.1",
       "electron-prebuilt": "^1.3.5"
+    },
+    "other": {
+      "author": "Dmitry Petrov",
+      "bugs": {
+        "url": "https://github.com/can3p/perlotto/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +127,7 @@
   },
   "filename": "can3p___perlotto.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:52:01.142Z",
-  "packageLastFetchedAt": "2017-05-05T17:13:21.904Z"
+  "lastFetchedAt": "2017-10-23T20:23:43.754Z",
+  "packageLastFetchedAt": "2017-05-05T17:13:21.904Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nullstyle",
     "id": 366,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/366?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/366?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nullstyle",
     "htmlUrl": "https://github.com/nullstyle",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 1,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -60,16 +60,9 @@
       "start": "electron build/app/main.js",
       "make": "node build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nullstyle/wallet-one.git"
-    },
+    "repository": "https://github.com/nullstyle/wallet-one",
     "keywords": [],
-    "author": "Scott Fleckenstein <nullstyle@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nullstyle/wallet-one/issues"
-    },
     "homepage": "https://github.com/nullstyle/wallet-one#readme",
     "devDependencies": {
       "babel-eslint": "^4.1.5",
@@ -112,6 +105,12 @@
         "babel": "npm:babel-core@^5.8.24",
         "babel-runtime": "npm:babel-runtime@^5.8.24",
         "core-js": "npm:core-js@^1.1.4"
+      }
+    },
+    "other": {
+      "author": "Scott Fleckenstein <nullstyle@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/nullstyle/wallet-one/issues"
       }
     }
   },
@@ -160,6 +159,7 @@
   "svnUrl": "https://github.com/nullstyle/wallet-one",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:36:00.021Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:00.563Z"
+  "lastFetchedAt": "2017-10-23T19:19:43.843Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:00.563Z",
+  "archived": false
 }

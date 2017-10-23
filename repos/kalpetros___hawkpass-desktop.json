@@ -5,7 +5,7 @@
   "owner": {
     "login": "kalpetros",
     "id": 5626758,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5626758?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5626758?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kalpetros",
     "htmlUrl": "https://github.com/kalpetros",
@@ -20,21 +20,21 @@
   "description": "Desktop password generator built on electron",
   "fork": false,
   "createdAt": "2016-02-20T21:29:14.000Z",
-  "updatedAt": "2017-04-02T03:01:27.000Z",
+  "updatedAt": "2017-10-18T08:13:14.000Z",
   "pushedAt": "2016-04-29T17:11:28.000Z",
   "homepage": "",
   "size": 9123,
-  "stargazersCount": 26,
-  "watchersCount": 26,
+  "stargazersCount": 32,
+  "watchersCount": 32,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 26,
+  "watchers": 32,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,20 +48,16 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "hawkpass",
     "description": "Desktop password generator built on electron",
     "version": "1.0.0-alpha.6",
-    "author": "Petros Kalogiannakis (@kalpetros)",
     "licence": "MIT",
     "homepage": "https://github.com/kalpetros/hawkpass-desktop",
     "repository": "https://github.com/kalpetros/hawkpass-desktop",
-    "bugs": {
-      "url": "https://github.com/kalpetros/hawkpass-desktop/issues"
-    },
     "main": "main.js",
     "dependencies": {},
     "devDependencies": {
@@ -79,6 +75,12 @@
       "postinstall": "install-app-deps",
       "pack": "build",
       "dist": "build"
+    },
+    "other": {
+      "author": "Petros Kalogiannakis (@kalpetros)",
+      "bugs": {
+        "url": "https://github.com/kalpetros/hawkpass-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +128,7 @@
   },
   "filename": "kalpetros___hawkpass-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:20:42.866Z",
-  "packageLastFetchedAt": "2017-05-05T17:29:29.918Z"
+  "lastFetchedAt": "2017-10-23T19:17:55.594Z",
+  "packageLastFetchedAt": "2017-05-05T17:29:29.918Z",
+  "archived": false
 }

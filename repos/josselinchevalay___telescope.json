@@ -5,7 +5,7 @@
   "owner": {
     "login": "josselinchevalay",
     "id": 1745652,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1745652?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1745652?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/josselinchevalay",
     "htmlUrl": "https://github.com/josselinchevalay",
@@ -35,35 +35,41 @@
   "downloadsUrl": "https://api.github.com/repos/josselinchevalay/telescope/downloads",
   "deploymentsUrl": "https://api.github.com/repos/josselinchevalay/telescope/deployments",
   "createdAt": "2016-10-30T17:52:42.000Z",
-  "updatedAt": "2016-12-09T19:07:43.000Z",
-  "pushedAt": "2017-04-19T17:10:21.000Z",
+  "updatedAt": "2017-08-29T02:55:28.000Z",
+  "pushedAt": "2017-10-22T09:49:10.000Z",
   "gitUrl": "git://github.com/josselinchevalay/telescope.git",
   "sshUrl": "git@github.com:josselinchevalay/telescope.git",
   "cloneUrl": "https://github.com/josselinchevalay/telescope.git",
   "svnUrl": "https://github.com/josselinchevalay/telescope",
   "homepage": null,
-  "size": 55,
-  "stargazersCount": 0,
-  "watchersCount": 0,
-  "language": "TypeScript",
+  "size": 148,
+  "stargazersCount": 2,
+  "watchersCount": 2,
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 0,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
+  },
+  "networkCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-typescript-react-quick-start",
@@ -74,10 +80,7 @@
       "build": "webpack",
       "start": "electron dist/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/claudioc/electron-typescript-react-quick-start.git"
-    },
+    "repository": "https://github.com/claudioc/electron-typescript-react-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -86,7 +89,6 @@
       "react",
       "systemjs"
     ],
-    "author": "Claudio Cicali",
     "license": "MIT",
     "devDependencies": {
       "@types/node": "^6.0.48",
@@ -118,6 +120,9 @@
     },
     "engines": {
       "node": ">=6.1.0"
+    },
+    "other": {
+      "author": "Claudio Cicali"
     }
   },
   "packageStatus": 200,
@@ -145,6 +150,7 @@
   },
   "filename": "josselinchevalay___telescope.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:31:46.700Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:59.159Z"
+  "lastFetchedAt": "2017-10-23T19:34:44.936Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:59.159Z",
+  "archived": false
 }

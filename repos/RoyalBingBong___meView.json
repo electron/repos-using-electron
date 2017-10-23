@@ -7,7 +7,7 @@
   "owner": {
     "login": "RoyalBingBong",
     "id": 5507580,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5507580?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5507580?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RoyalBingBong",
     "htmlUrl": "https://github.com/RoyalBingBong",
@@ -37,27 +37,27 @@
   "downloadsUrl": "https://api.github.com/repos/RoyalBingBong/meView/downloads",
   "deploymentsUrl": "https://api.github.com/repos/RoyalBingBong/meView/deployments",
   "createdAt": "2016-05-26T22:39:20.000Z",
-  "updatedAt": "2017-04-02T07:00:04.000Z",
-  "pushedAt": "2017-03-08T19:42:28.000Z",
+  "updatedAt": "2017-08-17T13:34:02.000Z",
+  "pushedAt": "2017-09-30T14:40:23.000Z",
   "gitUrl": "git://github.com/RoyalBingBong/meView.git",
   "sshUrl": "git@github.com:RoyalBingBong/meView.git",
   "cloneUrl": "https://github.com/RoyalBingBong/meView.git",
   "svnUrl": "https://github.com/RoyalBingBong/meView",
   "homepage": null,
-  "size": 166,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 334,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 3,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,21 +71,15 @@
     "url": "https://api.github.com/licenses/isc",
     "featured": false
   },
-  "networkCount": 1,
-  "subscribersCount": 3,
-  "lastFetchedAt": "2017-05-04T20:00:52.259Z",
+  "networkCount": 2,
+  "subscribersCount": 4,
+  "lastFetchedAt": "2017-10-23T20:48:11.312Z",
   "packageJSON": {
     "name": "meview",
     "version": "1.2.1",
     "description": "Image/Video viewer for typical web media formats. Also supports zip-archives.",
     "main": "app/js/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/RoyalBingBong/meView"
-    },
-    "bugs": {
-      "url": "https://github.com/RoyalBingBong/meView/issues"
-    },
+    "repository": "https://github.com/RoyalBingBong/meView",
     "homepage": "https://github.com/RoyalBingBong/meView#readme",
     "scripts": {
       "postinstall": "cd app/ && npm install && cd ..",
@@ -110,7 +104,6 @@
       "build:linux": "npm run babel && build -l"
     },
     "keywords": [],
-    "author": "David Koch <david-k@mail.de>",
     "license": "ISC",
     "devDependencies": {
       "asar": "^0.13.0",
@@ -122,8 +115,15 @@
       "electron": "^1.4.13",
       "electron-builder": "^14.5.2",
       "rimraf": "^2.6.0"
+    },
+    "other": {
+      "author": "David Koch <david-k@mail.de>",
+      "bugs": {
+        "url": "https://github.com/RoyalBingBong/meView/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:23:46.898Z"
+  "packageLastFetchedAt": "2017-05-05T14:23:46.898Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "RIDEeditor",
     "id": 19788610,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19788610?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19788610?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RIDEeditor",
     "htmlUrl": "https://github.com/RIDEeditor",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "RIDEeditor",
     "id": 19788610,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19788610?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19788610?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RIDEeditor",
     "htmlUrl": "https://github.com/RIDEeditor",
@@ -76,28 +76,12 @@
       "start": "electron main.js",
       "preinstall": "./build_gem_deps.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/RIDEeditor/ride"
-    },
+    "repository": "https://github.com/RIDEeditor/ride",
     "keywords": [
       "Electron",
       "Ruby",
       "Rails",
       "Editor"
-    ],
-    "bugs": {
-      "url": "https://github.com/RIDEeditor/ride/issues"
-    },
-    "contributors": [
-      {
-        "name": "Anmol Desai",
-        "email": "ades597@aucklanduni.ac.nz"
-      },
-      {
-        "name": "Nicholas Molloy",
-        "email": "nmol886@aucklanduni.ac.nz"
-      }
     ],
     "homepage": "https://github.com/RIDEeditor/ride#readme",
     "devDependencies": {
@@ -124,6 +108,21 @@
       "tinycolor2": "^1.4.1",
       "tty.js": "0.2.15",
       "viz.js": "^1.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/RIDEeditor/ride/issues"
+      },
+      "contributors": [
+        {
+          "name": "Anmol Desai",
+          "email": "ades597@aucklanduni.ac.nz"
+        },
+        {
+          "name": "Nicholas Molloy",
+          "email": "nmol886@aucklanduni.ac.nz"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "RIDEeditor___ride.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:54.767Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:26.240Z"
+  "lastFetchedAt": "2017-10-23T17:33:35.385Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:26.240Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "hemanth",
     "id": 18315,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18315?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18315?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hemanth",
     "htmlUrl": "https://github.com/hemanth",
@@ -20,12 +20,12 @@
   "description": "Simple electron app for doing your math.",
   "fork": false,
   "createdAt": "2016-04-08T09:32:48.000Z",
-  "updatedAt": "2016-08-17T07:35:08.000Z",
+  "updatedAt": "2017-09-07T07:57:49.000Z",
   "pushedAt": "2016-04-08T09:34:08.000Z",
   "homepage": null,
   "size": 31,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -58,11 +58,6 @@
     "description": "Do your math.",
     "license": "MIT",
     "repository": "hemanth/math-pad",
-    "author": {
-      "name": "Hemanth.HM",
-      "email": "hemanth.hm@gmail.com",
-      "url": "h3manth.com"
-    },
     "scripts": {
       "start": "electron .",
       "build": "electron-packager . --out=dist --app-version=$npm_package_version --prune --asar --overwrite --all"
@@ -84,6 +79,13 @@
     "devDependencies": {
       "electron-packager": "^6.0.0",
       "electron-prebuilt": "^0.37.4"
+    },
+    "other": {
+      "author": {
+        "name": "Hemanth.HM",
+        "email": "hemanth.hm@gmail.com",
+        "url": "h3manth.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +133,7 @@
   },
   "filename": "hemanth___math-pad.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:05.574Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:00.291Z"
+  "lastFetchedAt": "2017-10-23T18:46:01.222Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:00.291Z",
+  "archived": false
 }

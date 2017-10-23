@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "aalcode",
     "version": "0.0.2",
@@ -79,15 +79,8 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/boginw/aalCode.git"
-    },
-    "author": "boginw",
+    "repository": "https://github.com/boginw/aalCode",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/boginw/aalCode/issues"
-    },
     "homepage": "https://github.com/boginw/aalCode#readme",
     "dependencies": {
       "ace-builds": "^1.2.5",
@@ -111,7 +104,13 @@
       "tcp-port-used": "^0.1.2",
       "vue": "^2.0.1"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "boginw",
+      "bugs": {
+        "url": "https://github.com/boginw/aalCode/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +137,6 @@
   },
   "filename": "boginw___aalCode.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:47.173Z",
+  "lastFetchedAt": "2017-10-23T18:05:24.837Z",
   "packageLastFetchedAt": "2017-05-04T22:04:30.404Z"
 }

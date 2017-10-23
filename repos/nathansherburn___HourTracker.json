@@ -5,7 +5,7 @@
   "owner": {
     "login": "nathansherburn",
     "id": 3915868,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3915868?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3915868?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nathansherburn",
     "htmlUrl": "https://github.com/nathansherburn",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nathansherburn/hourtracker"
-    },
+    "repository": "https://github.com/nathansherburn/hourtracker",
     "keywords": [
       "hour",
       "tracker",
       "timer",
       "timekeeping"
     ],
-    "author": "Nathan Sherburn",
     "license": "GPLv3",
-    "bugs": {
-      "url": "https://github.com/nathansherburn/hourtracker/issues"
-    },
     "homepage": "https://github.com/nathansherburn/hourtracker/#readme",
     "devDependencies": {
       "electron-packager": "^6.0.0",
@@ -102,6 +95,12 @@
     "dependencies": {
       "angular": "^1.5.3",
       "nedb": "^1.8.0"
+    },
+    "other": {
+      "author": "Nathan Sherburn",
+      "bugs": {
+        "url": "https://github.com/nathansherburn/hourtracker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "nathansherburn___HourTracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:09.807Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:54.088Z"
+  "lastFetchedAt": "2017-10-23T18:38:18.369Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:54.088Z",
+  "archived": false
 }

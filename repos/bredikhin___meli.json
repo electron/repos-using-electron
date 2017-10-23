@@ -5,7 +5,7 @@
   "owner": {
     "login": "bredikhin",
     "id": 1322727,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1322727?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1322727?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bredikhin",
     "htmlUrl": "https://github.com/bredikhin",
@@ -59,7 +59,6 @@
     "scripts": {
       "pack": "electron-packager ./ meli --platform=darwin --arch=x64 --icon=./icons/meli.icns"
     },
-    "author": "",
     "license": "MIT",
     "dependencies": {
       "menubar": "^3.0.0"
@@ -67,6 +66,9 @@
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.7"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -114,6 +116,7 @@
   },
   "filename": "bredikhin___meli.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:33:18.634Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:22.225Z"
+  "lastFetchedAt": "2017-10-23T18:14:40.819Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:22.225Z",
+  "archived": false
 }

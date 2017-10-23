@@ -5,7 +5,7 @@
   "owner": {
     "login": "stephenkingsley",
     "id": 13380370,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13380370?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13380370?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stephenkingsley",
     "htmlUrl": "https://github.com/stephenkingsley",
@@ -80,21 +80,14 @@
       "lint": "eslint .",
       "test": "npm run lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stephenkingsley/note.git"
-    },
+    "repository": "https://github.com/stephenkingsley/note",
     "keywords": [
       "note",
       "electron",
       "convenient",
       "high-efficiency"
     ],
-    "author": "stephen.K",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stephenkingsley/note/issues"
-    },
     "homepage": "https://github.com/stephenkingsley/note#readme",
     "devDependencies": {
       "babel-cli": "^6.10.1",
@@ -155,6 +148,12 @@
       "react-tap-event-plugin": "^1.0.0",
       "redux": "^3.5.2",
       "redux-thunk": "^2.1.0"
+    },
+    "other": {
+      "author": "stephen.K",
+      "bugs": {
+        "url": "https://github.com/stephenkingsley/note/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +181,7 @@
   },
   "filename": "stephenkingsley___note.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:04.458Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:18.601Z"
+  "lastFetchedAt": "2017-10-23T19:01:05.722Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:18.601Z",
+  "archived": false
 }

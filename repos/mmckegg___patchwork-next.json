@@ -5,7 +5,7 @@
   "owner": {
     "login": "mmckegg",
     "id": 66834,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/66834?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/66834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mmckegg",
     "htmlUrl": "https://github.com/mmckegg",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/mmckegg/patchwork-next",
-  "description": "Now located at ssbc/patchwork! This repo will continue to be mirrored until 31 March 2017.",
+  "description": "Now located at ssbc/patchwork!",
   "fork": false,
   "url": "https://api.github.com/repos/mmckegg/patchwork-next",
   "forksUrl": "https://api.github.com/repos/mmckegg/patchwork-next/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/mmckegg/patchwork-next/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mmckegg/patchwork-next/deployments",
   "createdAt": "2016-10-27T03:09:09.000Z",
-  "updatedAt": "2017-04-07T18:24:36.000Z",
-  "pushedAt": "2017-03-18T07:02:51.000Z",
+  "updatedAt": "2017-09-20T21:17:17.000Z",
+  "pushedAt": "2017-06-20T00:49:17.000Z",
   "gitUrl": "git://github.com/mmckegg/patchwork-next.git",
   "sshUrl": "git@github.com:mmckegg/patchwork-next.git",
   "cloneUrl": "https://github.com/mmckegg/patchwork-next.git",
   "svnUrl": "https://github.com/mmckegg/patchwork-next",
   "homepage": "http://github.com/ssbc/patchwork",
-  "size": 1028,
-  "stargazersCount": 36,
-  "watchersCount": 36,
+  "size": 1012,
+  "stargazersCount": 35,
+  "watchersCount": 35,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 36,
+  "watchers": 35,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 2,
-  "subscribersCount": 8,
+  "networkCount": 3,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "ssb-patchwork",
@@ -77,7 +77,6 @@
       "postinstall": "npm run rebuild",
       "rebuild": "npm rebuild --runtime=electron --target=1.4.3 --abi=50 --disturl=https://atom.io/download/atom-shell"
     },
-    "author": "Secure Scuttlebutt Consortium",
     "license": "GPL",
     "dependencies": {
       "atomic-file": "^0.1.0",
@@ -132,6 +131,9 @@
     },
     "devDependencies": {
       "electron": "~1.4.4"
+    },
+    "other": {
+      "author": "Secure Scuttlebutt Consortium"
     }
   },
   "packageStatus": 200,
@@ -159,6 +161,7 @@
   },
   "filename": "mmckegg___patchwork-next.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:04.668Z",
-  "packageLastFetchedAt": "2017-05-04T22:17:42.365Z"
+  "lastFetchedAt": "2017-10-23T19:12:05.945Z",
+  "packageLastFetchedAt": "2017-05-04T22:17:42.365Z",
+  "archived": false
 }

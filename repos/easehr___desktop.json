@@ -178,7 +178,7 @@
   },
   "networkCount": 142,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mattermost-desktop",
     "productName": "Mattermost",
@@ -242,17 +242,6 @@
         "synopsis": "Mattermost Desktop",
         "target": "deb"
       }
-    },
-    "other": {
-      "author": {
-        "name": "Yuya Ochiai",
-        "email": "yuya0321@gmail.com"
-      },
-      "directories": {
-        "buildResources": "resources",
-        "app": "dist",
-        "output": "release"
-      }
     }
   },
   "packageStatus": 200,
@@ -301,7 +290,7 @@
   "filename": "easehr___desktop.json",
   "sourceRepo": "mattermost/desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:55.386Z",
+  "lastFetchedAt": "2017-10-23T20:46:02.984Z",
   "packageLastFetchedAt": "2017-05-04T23:06:05.662Z",
   "contributors": [
     "yuya-oc",

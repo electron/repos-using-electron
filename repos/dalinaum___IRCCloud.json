@@ -5,7 +5,7 @@
   "owner": {
     "login": "dalinaum",
     "id": 145585,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/145585?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/145585?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dalinaum",
     "htmlUrl": "https://github.com/dalinaum",
@@ -20,12 +20,12 @@
   "description": "Mac App, Win App and Linux app for IRCCloud. (An Electron wrapper for IRCCloud.)",
   "fork": false,
   "createdAt": "2015-06-24T02:04:57.000Z",
-  "updatedAt": "2017-04-03T06:47:07.000Z",
+  "updatedAt": "2017-06-24T08:47:53.000Z",
   "pushedAt": "2016-09-20T05:40:32.000Z",
   "homepage": "",
   "size": 86,
-  "stargazersCount": 66,
-  "watchersCount": 66,
+  "stargazersCount": 67,
+  "watchersCount": 67,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 11,
   "openIssuesCount": 15,
   "openIssues": 15,
-  "watchers": 66,
+  "watchers": 67,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -53,14 +53,7 @@
     "keywords": [
       "IRCCloud, electron"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dalinaum/IRCCloud.git"
-    },
-    "author": {
-      "name": "LYK",
-      "email": "dalinaum@gmail.com"
-    },
+    "repository": "https://github.com/dalinaum/IRCCloud",
     "main": "main.js",
     "bin": {
       "irccloud": "./start.js"
@@ -75,6 +68,12 @@
       "electron-packager": "^5.2.0",
       "electron-prebuilt": "^0.36.2",
       "grunt-electron": "^2.0.1"
+    },
+    "other": {
+      "author": {
+        "name": "LYK",
+        "email": "dalinaum@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   "svnUrl": "https://github.com/dalinaum/IRCCloud",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:33:35.719Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:10.935Z"
+  "lastFetchedAt": "2017-10-23T20:46:46.141Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:10.935Z",
+  "archived": false
 }

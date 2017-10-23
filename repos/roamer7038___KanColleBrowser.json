@@ -5,7 +5,7 @@
   "owner": {
     "login": "roamer7038",
     "id": 9254375,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9254375?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9254375?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/roamer7038",
     "htmlUrl": "https://github.com/roamer7038",
@@ -80,15 +80,8 @@
       "start": "electron .",
       "build": "electron-packager . KanColleBrowser --platform=darwin --arch=x64 --version=1.2.8 --out=./build/Release/ --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/roamer7038/KanColleBrowser.git"
-    },
-    "author": "roamer7038",
+    "repository": "https://github.com/roamer7038/KanColleBrowser",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/roamer7038/KanColleBrowser/issues"
-    },
     "homepage": "https://github.com/roamer7038/KanColleBrowser#readme",
     "devDependencies": {
       "devtron": "^1.2.1",
@@ -99,6 +92,12 @@
       "fs-extra": "^0.30.0",
       "mkdirp": "^0.5.1",
       "photon": "git://github.com/connors/photon.git"
+    },
+    "other": {
+      "author": "roamer7038",
+      "bugs": {
+        "url": "https://github.com/roamer7038/KanColleBrowser/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "roamer7038___KanColleBrowser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:31.732Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:09.509Z"
+  "lastFetchedAt": "2017-10-23T18:09:27.259Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:09.509Z",
+  "archived": false
 }

@@ -80,17 +80,14 @@
   },
   "networkCount": 0,
   "subscribersCount": 7,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:18:38.084Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T17:54:35.680Z",
   "packageJSON": {
     "name": "sincding-electron",
     "version": "0.0.1",
     "description": "An UI for sincding",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/open-source-uc/sincding-electron"
-    },
+    "repository": "https://github.com/open-source-uc/sincding-electron",
     "scripts": {
       "start": "react-scripts start",
       "build": "react-scripts build",
@@ -102,11 +99,6 @@
       "lint": "eslint --ignore-pattern '!node_modules/*' --fix ./src ./lib",
       "deploy": "./scripts/deploy.sh",
       "pack": "./scripts/pack.sh"
-    },
-    "author": {
-      "name": "Nicolas Gebauer",
-      "mail": "negebauer@uc.cl",
-      "url": "http://negebauer.github.io"
     },
     "devDependencies": {
       "babel-eslint": "^7.1.1",
@@ -132,6 +124,13 @@
         "category": "productivity"
       },
       "asar": false
+    },
+    "other": {
+      "author": {
+        "name": "Nicolas Gebauer",
+        "mail": "negebauer@uc.cl",
+        "url": "http://negebauer.github.io"
+      }
     }
   },
   "packageStatus": 200,

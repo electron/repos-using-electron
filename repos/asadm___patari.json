@@ -5,7 +5,7 @@
   "owner": {
     "login": "asadm",
     "id": 1973513,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1973513?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1973513?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/asadm",
     "htmlUrl": "https://github.com/asadm",
@@ -20,21 +20,21 @@
   "description": "Patari app for OS X and Windows.",
   "fork": false,
   "createdAt": "2015-11-19T06:27:46.000Z",
-  "updatedAt": "2016-12-27T22:53:46.000Z",
+  "updatedAt": "2017-07-30T05:07:40.000Z",
   "pushedAt": "2016-07-01T07:39:37.000Z",
   "homepage": null,
   "size": 115813,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 3,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 9,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 3,
-  "subscribersCount": 2,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "Patari",
@@ -61,24 +61,23 @@
       "make-osx": "electron-packager . Patari --platform=darwin --arch=x64 --version=0.35.0 --icon=./assets/patari-logo.icns  --overwrite=force --app-bundle-id=com.patari.patariapp --helper-bundle-id=com.patari.patariapp --out=./bundles",
       "make-win": "electron-packager . Patari --platform=win32 --arch=ia32 --version=0.35.0 --icon=./assets/patari-logo.icns  --overwrite=force --app-bundle-id=com.patari.patariapp --helper-bundle-id=com.patari.patariapp --out=./bundles"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/asadm/patari.git"
-    },
+    "repository": "https://github.com/asadm/patari",
     "keywords": [
       "patari",
       "electron"
     ],
-    "author": "Asad Memon",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/asadm/patari/issues"
-    },
     "homepage": "https://github.com/asadm/patari#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Asad Memon",
+      "bugs": {
+        "url": "https://github.com/asadm/patari/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/asadm/patari",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:05:29.667Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:44.786Z"
+  "lastFetchedAt": "2017-10-23T19:04:50.149Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:44.786Z",
+  "archived": false
 }

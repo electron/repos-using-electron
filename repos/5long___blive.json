@@ -5,7 +5,7 @@
   "owner": {
     "login": "5long",
     "id": 159226,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/159226?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/159226?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/5long",
     "htmlUrl": "https://github.com/5long",
@@ -20,12 +20,12 @@
   "description": "Utilities for BiliBili live streaming service",
   "fork": false,
   "createdAt": "2015-06-01T08:57:39.000Z",
-  "updatedAt": "2017-03-15T09:21:45.000Z",
+  "updatedAt": "2017-09-13T09:40:40.000Z",
   "pushedAt": "2016-08-31T15:35:37.000Z",
   "homepage": "",
   "size": 79,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 6,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -90,12 +90,14 @@
       "start": "electron .",
       "package": "electron-packager . BLive --platform=win32 --arch=ia32 --app-version=0.0.1-dev --version=0.28.3 --out build/"
     },
-    "author": "Whyme Lyu",
     "license": "Unlicense",
-    "bugs": {
-      "url": "https://github.com/5long/blive/issues"
-    },
-    "homepage": "https://github.com/5long/blive#readme"
+    "homepage": "https://github.com/5long/blive#readme",
+    "other": {
+      "author": "Whyme Lyu",
+      "bugs": {
+        "url": "https://github.com/5long/blive/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +144,7 @@
   "svnUrl": "https://github.com/5long/blive",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:57:46.905Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:43.046Z"
+  "lastFetchedAt": "2017-10-23T18:21:16.702Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:43.046Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "yjkimjunior",
     "id": 10432070,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10432070?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10432070?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yjkimjunior",
     "htmlUrl": "https://github.com/yjkimjunior",
@@ -75,7 +75,6 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "author": "YJ Kim",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.12.0",
@@ -92,6 +91,9 @@
       "react-autocomplete": "^1.0.0-rc2",
       "react-dom": "^0.14.7",
       "react-dropzone": "^2.0.0"
+    },
+    "other": {
+      "author": "YJ Kim"
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,7 @@
   },
   "filename": "yjkimjunior___Clafairy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:17.252Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:55.410Z"
+  "lastFetchedAt": "2017-10-23T18:36:52.188Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:55.410Z",
+  "archived": false
 }

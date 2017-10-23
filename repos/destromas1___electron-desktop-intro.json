@@ -5,7 +5,7 @@
   "owner": {
     "login": "destromas1",
     "id": 602127,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/602127?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/602127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/destromas1",
     "htmlUrl": "https://github.com/destromas1",
@@ -81,19 +81,18 @@
       "start": "electron .",
       "build": "electron-packager ./ --platform=win32 --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/destromas1/electron-desktop-intro.git"
-    },
-    "author": "Shahjada Talukdar",
+    "repository": "https://github.com/destromas1/electron-desktop-intro",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/destromas1/electron-desktop-intro/issues"
-    },
     "homepage": "https://github.com/destromas1/electron-desktop-intro#readme",
     "devDependencies": {
       "electron-packager": "^6.0.2",
       "electron-prebuilt": "^0.37.5"
+    },
+    "other": {
+      "author": "Shahjada Talukdar",
+      "bugs": {
+        "url": "https://github.com/destromas1/electron-desktop-intro/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "destromas1___electron-desktop-intro.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:30.222Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:53.349Z"
+  "lastFetchedAt": "2017-10-23T17:09:07.939Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:53.349Z",
+  "archived": false
 }

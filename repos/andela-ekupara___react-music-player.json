@@ -5,7 +5,7 @@
   "owner": {
     "login": "kupara",
     "id": 16223673,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16223673?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16223673?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kupara",
     "htmlUrl": "https://github.com/kupara",
@@ -80,21 +80,14 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/andela-ekupara/react-music-player.git"
-    },
+    "repository": "https://github.com/andela-ekupara/react-music-player",
     "keywords": [
       "Music Player",
       "react",
       "electron",
       "soundcloud"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/andela-ekupara/react-music-player/issues"
-    },
     "homepage": "https://github.com/andela-ekupara/react-music-player#readme",
     "dependencies": {
       "axios": "^0.9.1",
@@ -116,6 +109,12 @@
     "devDependencies": {
       "babel": "^6.5.2",
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/andela-ekupara/react-music-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "filename": "andela-ekupara___react-music-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:46.393Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:45.804Z"
+  "lastFetchedAt": "2017-10-23T21:04:06.034Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:45.804Z",
+  "archived": false
 }

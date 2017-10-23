@@ -6,7 +6,7 @@
   "owner": {
     "login": "toish",
     "id": 8439945,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8439945?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8439945?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/toish",
     "htmlUrl": "https://github.com/toish",
@@ -88,7 +88,6 @@
       "vuex:module": "node tasks/vuex/module.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -151,6 +150,9 @@
       "sass-loader": "^4.0.2",
       "shortid": "^2.2.6",
       "vue": "^2.1.4"
+    },
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -177,6 +179,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:53.541Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:29.553Z"
+  "lastFetchedAt": "2017-10-23T18:22:15.638Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:29.553Z",
+  "archived": false
 }

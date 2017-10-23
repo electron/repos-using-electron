@@ -6,7 +6,7 @@
   "owner": {
     "login": "jdomizio",
     "id": 8010794,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8010794?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8010794?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdomizio",
     "htmlUrl": "https://github.com/jdomizio",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/jdomizio/kenid/deployments",
   "createdAt": "2016-10-01T22:51:09.000Z",
   "updatedAt": "2017-03-25T21:47:09.000Z",
-  "pushedAt": "2017-04-13T03:21:47.000Z",
+  "pushedAt": "2017-05-27T01:58:22.000Z",
   "gitUrl": "git://github.com/jdomizio/kenid.git",
   "sshUrl": "git@github.com:jdomizio/kenid.git",
   "cloneUrl": "https://github.com/jdomizio/kenid.git",
   "svnUrl": "https://github.com/jdomizio/kenid",
   "homepage": "",
-  "size": 874,
+  "size": 426,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -65,15 +65,14 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:49:38.320Z",
+  "lastFetchedAt": "2017-10-23T18:36:10.235Z",
   "packageJSON": {
     "name": "ken-id",
     "version": "1.0.0",
     "description": "An application to help scan potentially fraudulent licenses",
     "main": "index.js",
-    "author": "Jason Domizio",
     "license": "MIT",
     "devDependencies": {
       "autoprefixer": "^6.4.1",
@@ -154,8 +153,12 @@
         "!src/ui/**/*"
       ]
     },
-    "postinstall": "install-app-deps"
+    "postinstall": "install-app-deps",
+    "other": {
+      "author": "Jason Domizio"
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:20:36.665Z"
+  "packageLastFetchedAt": "2017-05-05T01:20:36.665Z",
+  "archived": false
 }

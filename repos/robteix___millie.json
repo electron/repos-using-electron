@@ -5,7 +5,7 @@
   "owner": {
     "login": "robteix",
     "id": 355691,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/355691?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/355691?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robteix",
     "htmlUrl": "https://github.com/robteix",
@@ -111,19 +111,8 @@
         "!release/**/*"
       ]
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/robteix/millie.git"
-    },
-    "author": {
-      "name": "Roberto Selbach Teixeira",
-      "email": "robteix@gmail.com",
-      "url": "https://robteix.com"
-    },
+    "repository": "https://github.com/robteix/millie",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/robteix/millie/issues"
-    },
     "keywords": [
       "instant messaging"
     ],
@@ -198,6 +187,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Roberto Selbach Teixeira",
+        "email": "robteix@gmail.com",
+        "url": "https://robteix.com"
+      },
+      "bugs": {
+        "url": "https://github.com/robteix/millie/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -225,6 +224,7 @@
   },
   "filename": "robteix___millie.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:51.443Z",
-  "packageLastFetchedAt": "2017-05-05T17:17:59.652Z"
+  "lastFetchedAt": "2017-10-23T19:04:42.246Z",
+  "packageLastFetchedAt": "2017-05-05T17:17:59.652Z",
+  "archived": false
 }

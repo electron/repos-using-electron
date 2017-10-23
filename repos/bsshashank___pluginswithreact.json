@@ -5,7 +5,7 @@
   "owner": {
     "login": "bsshashank",
     "id": 19818461,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19818461?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19818461?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bsshashank",
     "htmlUrl": "https://github.com/bsshashank",
@@ -76,12 +76,8 @@
     "productName": "Boilerplate",
     "description": "An Electron boilerplate project",
     "version": "1.0.0",
-    "author": "Andreas Gerlach <andi@appelgriebsch.org>",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/appelgriebsch/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/appelgriebsch/electron-boilerplate",
     "keywords": [
       "electron",
       "boilerplate",
@@ -94,9 +90,6 @@
       "png": "app/assets/boilerplate.png"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/appelgriebsch/electron-boilerplate/issues"
-    },
     "babel": {
       "presets": [
         "es2015",
@@ -145,6 +138,12 @@
       "electron-installer-debian": "^0.3.0",
       "electron-installer-redhat": "^0.2.0",
       "electron-installer-windows": "^0.2.0"
+    },
+    "other": {
+      "author": "Andreas Gerlach <andi@appelgriebsch.org>",
+      "bugs": {
+        "url": "https://github.com/appelgriebsch/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,7 @@
   },
   "filename": "bsshashank___pluginswithreact.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:25.659Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:53.778Z"
+  "lastFetchedAt": "2017-10-23T17:11:14.080Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:53.778Z",
+  "archived": false
 }

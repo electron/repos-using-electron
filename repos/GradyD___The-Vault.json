@@ -5,7 +5,7 @@
   "owner": {
     "login": "GradyD",
     "id": 994964,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/994964?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/994964?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GradyD",
     "htmlUrl": "https://github.com/GradyD",
@@ -70,25 +70,8 @@
     "productName": "Finance",
     "version": "0.0.1",
     "description": "A money management program",
-    "author": "Your Name <you.name@example.org>",
-    "contributors": [
-      {
-        "name": "Grady Duncan",
-        "email": "gradyduncan@gmail.com"
-      },
-      {
-        "name": "Trevor Yager",
-        "email": "teyager@gmail.com"
-      }
-    ],
     "main": "src/mainProcess/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/GradyD/finance"
-    },
-    "bugs": {
-      "url": "https://github.com/GradyD/finance/issues"
-    },
+    "repository": "https://github.com/GradyD/finance",
     "private": true,
     "devDependencies": {
       "banking": "^0.3.3",
@@ -99,6 +82,22 @@
       "grunt-shell": "^1.1.2",
       "sqlite3": "^3.0.8",
       "winston": "^1.0.0"
+    },
+    "other": {
+      "author": "Your Name <you.name@example.org>",
+      "bugs": {
+        "url": "https://github.com/GradyD/finance/issues"
+      },
+      "contributors": [
+        {
+          "name": "Grady Duncan",
+          "email": "gradyduncan@gmail.com"
+        },
+        {
+          "name": "Trevor Yager",
+          "email": "teyager@gmail.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "GradyD___The-Vault.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:57:58.995Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:46.681Z"
+  "lastFetchedAt": "2017-10-23T17:37:48.876Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:46.681Z",
+  "archived": false
 }

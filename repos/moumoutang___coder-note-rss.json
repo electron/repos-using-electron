@@ -5,7 +5,7 @@
   "owner": {
     "login": "moumoutang",
     "id": 12731461,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12731461?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12731461?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/moumoutang",
     "htmlUrl": "https://github.com/moumoutang",
@@ -75,17 +75,13 @@
       "dev": "webpack-dev-server --inline --hot --no-info",
       "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:moumoutang/coder-note-rss.git"
-    },
+    "repository": "https://github.com/moumoutang/coder-note-rss",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "leeds",
     "license": "",
     "homepage": "",
     "devDependencies": {
@@ -111,6 +107,9 @@
       "firebase": "^2.4.2",
       "vue": "^1.0.26",
       "vue-router": "^0.7.13"
+    },
+    "other": {
+      "author": "leeds"
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "moumoutang___coder-note-rss.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:17.854Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:04.555Z"
+  "lastFetchedAt": "2017-10-23T18:41:04.743Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:04.555Z",
+  "archived": false
 }

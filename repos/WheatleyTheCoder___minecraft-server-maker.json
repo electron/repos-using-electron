@@ -5,7 +5,7 @@
   "owner": {
     "login": "WheatleyTheCoder",
     "id": 21143013,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21143013?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21143013?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/WheatleyTheCoder",
     "htmlUrl": "https://github.com/WheatleyTheCoder",
@@ -56,21 +56,11 @@
     "version": "1.0.0",
     "description": "A tool for creating Minecraft servers",
     "main": "src/index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "istanbul cover -x *.test.js node_modules/mocha/bin/_mocha -- -R spec test/index.test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/WheatleyTheCoder/minecraft-server-maker.git"
-    },
-    "author": "WheatleyTheCoder <slendermanwithaface@gmail.com> (http://project2.neocities.org/)",
+    "repository": "https://github.com/WheatleyTheCoder/minecraft-server-maker",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/WheatleyTheCoder/minecraft-server-maker/issues"
-    },
     "homepage": "https://github.com/WheatleyTheCoder/minecraft-server-maker#readme",
     "dependencies": {
       "chai": "3.5.0",
@@ -88,6 +78,15 @@
     "config": {
       "ghooks": {
         "pre-commit": "npm test"
+      }
+    },
+    "other": {
+      "author": "WheatleyTheCoder <slendermanwithaface@gmail.com> (http://project2.neocities.org/)",
+      "bugs": {
+        "url": "https://github.com/WheatleyTheCoder/minecraft-server-maker/issues"
+      },
+      "directories": {
+        "test": "test"
       }
     }
   },
@@ -136,6 +135,7 @@
   },
   "filename": "WheatleyTheCoder___minecraft-server-maker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:21:31.702Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:29.427Z"
+  "lastFetchedAt": "2017-10-23T19:07:49.502Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:29.427Z",
+  "archived": false
 }

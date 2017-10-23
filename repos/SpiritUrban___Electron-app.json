@@ -5,7 +5,7 @@
   "owner": {
     "login": "SpiritUrban",
     "id": 16016599,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16016599?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16016599?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SpiritUrban",
     "htmlUrl": "https://github.com/SpiritUrban",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "SpiritUrban___Electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:06:04.766Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:32.485Z"
+  "lastFetchedAt": "2017-10-23T19:14:27.281Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:32.485Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ciena-blueplanet",
     "id": 4604820,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4604820?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4604820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ciena-blueplanet",
     "htmlUrl": "https://github.com/ciena-blueplanet",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "ciena-blueplanet",
     "id": 4604820,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4604820?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4604820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ciena-blueplanet",
     "htmlUrl": "https://github.com/ciena-blueplanet",
@@ -76,18 +76,14 @@
     "receivedEventsUrl": "https://api.github.com/users/ciena-blueplanet/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 9,
+  "networkCount": 3,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "ember-barista-ui",
     "version": "0.0.3",
     "description": "Small description for ember-barista-ui goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -97,14 +93,10 @@
       "snyk-protect": "snyk protect",
       "prepublish": "npm run snyk-protect"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/ciena-blueplanet/ember-barista-ui.git"
-    },
+    "repository": "https://github.com/ciena-blueplanet/ember-barista-ui",
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "Seena",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -210,7 +202,14 @@
       "string": "^3.3.1",
       "snyk": "^1.18.1"
     },
-    "snyk": true
+    "snyk": true,
+    "other": {
+      "author": "Seena",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -237,6 +236,7 @@
   },
   "filename": "ciena-blueplanet___ember-barista-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:26:35.321Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:41.485Z"
+  "lastFetchedAt": "2017-10-23T20:49:47.465Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:41.485Z",
+  "archived": false
 }

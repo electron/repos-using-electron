@@ -5,7 +5,7 @@
   "owner": {
     "login": "LifeSiteBinghamton",
     "id": 21179566,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21179566?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21179566?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LifeSiteBinghamton",
     "htmlUrl": "https://github.com/LifeSiteBinghamton",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "LifeSiteBinghamton",
     "id": 21179566,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21179566?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21179566?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LifeSiteBinghamton",
     "htmlUrl": "https://github.com/LifeSiteBinghamton",
@@ -83,9 +83,7 @@
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -132,12 +130,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "async": "^2.0.0",
@@ -252,6 +244,14 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -279,6 +279,7 @@
   },
   "filename": "LifeSiteBinghamton___lifesite-angular2-redux.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:32:09.783Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:57.122Z"
+  "lastFetchedAt": "2017-10-23T20:22:54.705Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:57.122Z",
+  "archived": false
 }

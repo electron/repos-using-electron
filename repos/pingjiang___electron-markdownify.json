@@ -5,7 +5,7 @@
   "owner": {
     "login": "pingjiang",
     "id": 961856,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/961856?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/961856?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pingjiang",
     "htmlUrl": "https://github.com/pingjiang",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "amitmerchant1990",
       "id": 3647841,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3647841?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3647841?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/amitmerchant1990",
       "htmlUrl": "https://github.com/amitmerchant1990",
@@ -62,7 +62,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/amitmerchant1990/electron-markdownify",
-    "description": ":closed_book: A minimal Markdown editor desktop app based on Electron",
+    "description": ":closed_book: A minimal Markdown editor desktop app",
     "fork": false,
     "url": "https://api.github.com/repos/amitmerchant1990/electron-markdownify",
     "forksUrl": "https://api.github.com/repos/amitmerchant1990/electron-markdownify/forks",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/amitmerchant1990/electron-markdownify/downloads",
     "deploymentsUrl": "https://api.github.com/repos/amitmerchant1990/electron-markdownify/deployments",
     "createdAt": "2016-04-15T13:15:10.000Z",
-    "updatedAt": "2017-05-04T19:05:01.000Z",
-    "pushedAt": "2017-04-09T12:07:00.000Z",
+    "updatedAt": "2017-10-23T17:00:57.000Z",
+    "pushedAt": "2017-10-23T13:43:13.000Z",
     "gitUrl": "git://github.com/amitmerchant1990/electron-markdownify.git",
     "sshUrl": "git@github.com:amitmerchant1990/electron-markdownify.git",
     "cloneUrl": "https://github.com/amitmerchant1990/electron-markdownify.git",
     "svnUrl": "https://github.com/amitmerchant1990/electron-markdownify",
     "homepage": "https://markdownify.js.org",
-    "size": 12813,
-    "stargazersCount": 216,
-    "watchersCount": 216,
+    "size": 15707,
+    "stargazersCount": 299,
+    "watchersCount": 299,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 26,
+    "forksCount": 108,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 216,
+    "archived": false,
+    "openIssuesCount": 9,
+    "openIssues": 9,
+    "watchers": 299,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "amitmerchant1990",
       "id": 3647841,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3647841?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3647841?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/amitmerchant1990",
       "htmlUrl": "https://github.com/amitmerchant1990",
@@ -122,7 +123,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/amitmerchant1990/electron-markdownify",
-    "description": ":closed_book: A minimal Markdown editor desktop app based on Electron",
+    "description": ":closed_book: A minimal Markdown editor desktop app",
     "fork": false,
     "url": "https://api.github.com/repos/amitmerchant1990/electron-markdownify",
     "forksUrl": "https://api.github.com/repos/amitmerchant1990/electron-markdownify/forks",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/amitmerchant1990/electron-markdownify/downloads",
     "deploymentsUrl": "https://api.github.com/repos/amitmerchant1990/electron-markdownify/deployments",
     "createdAt": "2016-04-15T13:15:10.000Z",
-    "updatedAt": "2017-05-04T19:05:01.000Z",
-    "pushedAt": "2017-04-09T12:07:00.000Z",
+    "updatedAt": "2017-10-23T17:00:57.000Z",
+    "pushedAt": "2017-10-23T13:43:13.000Z",
     "gitUrl": "git://github.com/amitmerchant1990/electron-markdownify.git",
     "sshUrl": "git@github.com:amitmerchant1990/electron-markdownify.git",
     "cloneUrl": "https://github.com/amitmerchant1990/electron-markdownify.git",
     "svnUrl": "https://github.com/amitmerchant1990/electron-markdownify",
     "homepage": "https://markdownify.js.org",
-    "size": 12813,
-    "stargazersCount": 216,
-    "watchersCount": 216,
+    "size": 15707,
+    "stargazersCount": 299,
+    "watchersCount": 299,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 26,
+    "forksCount": 108,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 216,
+    "archived": false,
+    "openIssuesCount": 9,
+    "openIssues": 9,
+    "watchers": 299,
     "defaultBranch": "master"
   },
-  "networkCount": 26,
+  "networkCount": 108,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -175,11 +177,7 @@
       "start": "electron main.js",
       "build": "rm -rf dist && gulp build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amitmerchant1990/markdownify.git",
-      "docs": "https://github.com/amitmerchant1990/electron-markdownify/blob/master/README.md"
-    },
+    "repository": "https://github.com/amitmerchant1990/markdownify",
     "keywords": [
       "electron",
       "markdown",
@@ -191,16 +189,8 @@
       "html",
       "desktop"
     ],
-    "author": "Amit Merchant <bullredeyes@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/amitmerchant1990/markdownify/issues"
-    },
     "homepage": "https://github.com/amitmerchant1990/markdownify#readme",
-    "_npmUser": {
-      "name": "amit_merchant",
-      "email": "bullredeyes@gmail.com"
-    },
     "devDependencies": {
       "devtron": "^1.1.2",
       "electron-packager": "^7.0.3",
@@ -212,6 +202,20 @@
       "showdown": "^1.3.0",
       "electron-json-storage": "latest",
       "parse-filepath": "latest"
+    },
+    "lastPublisher": {
+      "name": "amit_merchant",
+      "email": "bullredeyes@gmail.com"
+    },
+    "other": {
+      "_npmUser": {
+        "name": "amit_merchant",
+        "email": "bullredeyes@gmail.com"
+      },
+      "author": "Amit Merchant <bullredeyes@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/amitmerchant1990/markdownify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -260,6 +264,7 @@
   "filename": "pingjiang___electron-markdownify.json",
   "sourceRepo": "amitmerchant1990/electron-markdownify",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:52.581Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:27.183Z"
+  "lastFetchedAt": "2017-10-23T18:35:42.191Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:27.183Z",
+  "archived": false
 }

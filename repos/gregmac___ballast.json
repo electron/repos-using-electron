@@ -5,7 +5,7 @@
   "owner": {
     "login": "gregmac",
     "id": 1216375,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1216375?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1216375?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gregmac",
     "htmlUrl": "https://github.com/gregmac",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/gregmac/ballast/deployments",
   "createdAt": "2016-09-07T04:51:59.000Z",
   "updatedAt": "2016-09-07T06:02:52.000Z",
-  "pushedAt": "2016-09-28T03:11:21.000Z",
+  "pushedAt": "2017-10-09T01:22:26.000Z",
   "gitUrl": "git://github.com/gregmac/ballast.git",
   "sshUrl": "git@github.com:gregmac/ballast.git",
   "cloneUrl": "https://github.com/gregmac/ballast.git",
   "svnUrl": "https://github.com/gregmac/ballast",
   "homepage": null,
-  "size": 544,
+  "size": 524,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 10,
-  "openIssues": 10,
+  "openIssuesCount": 11,
+  "openIssues": 11,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -83,21 +83,14 @@
       "dist": "gulp",
       "build-icons": "gulp generate-icons"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gregmac/ballast.git"
-    },
+    "repository": "https://github.com/gregmac/ballast",
     "keywords": [
       "browser",
       "kiosk",
       "wallboard",
       "electron"
     ],
-    "author": "Greg MacLellean",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/gregmac/ballast/issues"
-    },
     "homepage": "https://github.com/gregmac/ballast",
     "devDependencies": {
       "electron-packager": "^8.0.0",
@@ -112,6 +105,12 @@
       "app-category-type": "public.app-category.productivity",
       "win": {
         "iconUrl": "https://raw.githubusercontent.com/gregmac/ballast/master/build/favicon.ico"
+      }
+    },
+    "other": {
+      "author": "Greg MacLellean",
+      "bugs": {
+        "url": "https://github.com/gregmac/ballast/issues"
       }
     }
   },
@@ -141,6 +140,7 @@
   "filename": "gregmac___ballast.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:39.487Z",
-  "packageLastFetchedAt": "2017-05-04T22:36:58.212Z"
+  "lastFetchedAt": "2017-10-23T19:20:25.876Z",
+  "packageLastFetchedAt": "2017-05-04T22:36:58.212Z",
+  "archived": false
 }

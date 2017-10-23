@@ -5,7 +5,7 @@
   "owner": {
     "login": "rafaelmotta",
     "id": 446731,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/446731?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/446731?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rafaelmotta",
     "htmlUrl": "https://github.com/rafaelmotta",
@@ -20,21 +20,21 @@
   "description": "Native desktop socket.io application with integration with bematech termal printers. Tested only with MP4200TH",
   "fork": false,
   "createdAt": "2016-03-14T15:14:39.000Z",
-  "updatedAt": "2017-04-26T23:54:45.000Z",
-  "pushedAt": "2017-02-21T13:33:56.000Z",
+  "updatedAt": "2017-09-17T17:30:43.000Z",
+  "pushedAt": "2017-05-18T16:31:35.000Z",
   "homepage": null,
-  "size": 43213,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 43223,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 2,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 4,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -53,21 +53,14 @@
     "scripts": {
       "start": "electron index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -77,6 +70,12 @@
       "handlebars": "^4.0.5",
       "socket.io": "^1.3.7",
       "xml2js": "^0.4.15"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "rafaelmotta___bematech-printer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:08:23.424Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:32.686Z"
+  "lastFetchedAt": "2017-10-23T18:30:52.535Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:32.686Z",
+  "archived": false
 }

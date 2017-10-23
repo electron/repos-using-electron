@@ -5,7 +5,7 @@
   "owner": {
     "login": "mika-f",
     "id": 10832834,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10832834?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10832834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mika-f",
     "htmlUrl": "https://github.com/mika-f",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/mika-f/Sagittarius/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mika-f/Sagittarius/deployments",
   "createdAt": "2015-12-21T09:56:30.000Z",
-  "updatedAt": "2017-01-25T09:24:18.000Z",
+  "updatedAt": "2017-08-01T03:58:39.000Z",
   "pushedAt": "2016-07-29T16:57:30.000Z",
   "gitUrl": "git://github.com/mika-f/Sagittarius.git",
   "sshUrl": "git@github.com:mika-f/Sagittarius.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/mika-f/Sagittarius",
   "homepage": "https://kokoiroworks.com/sgr/",
   "size": 15536,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -86,19 +86,12 @@
       "prepack": "set NODE_ENV=production && gulp build:main",
       "pack": "set NODE_ENV=production && electron-packager . Sagittarius --platform=all --arch=x64 --version=0.36.1 --out=dist --ignore={.vscode,bin,dist,src,screenshots,test,tmp}/* --prune=true --asar=true"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fuyuno/Sagittarius.git"
-    },
+    "repository": "https://github.com/fuyuno/Sagittarius",
     "keywords": [
       "ChatWork",
       "Client"
     ],
-    "author": "Mikazuki",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fuyuno/Sagittarius/issues"
-    },
     "homepage": "https://github.com/fuyuno/Sagittarius#readme",
     "dependencies": {
       "babel-polyfill": "^6.3.14",
@@ -144,6 +137,12 @@
       "typescript-require": "^0.2.9-1",
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "author": "Mikazuki",
+      "bugs": {
+        "url": "https://github.com/fuyuno/Sagittarius/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "fuyuno___Sagittarius.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:30.505Z",
-  "packageLastFetchedAt": "2017-05-04T22:31:18.146Z"
+  "lastFetchedAt": "2017-10-23T17:38:23.177Z",
+  "packageLastFetchedAt": "2017-05-04T22:31:18.146Z",
+  "archived": false
 }

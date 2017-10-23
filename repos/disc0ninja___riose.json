@@ -5,7 +5,7 @@
   "owner": {
     "login": "disc0ninja",
     "id": 15316061,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15316061?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15316061?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/disc0ninja",
     "htmlUrl": "https://github.com/disc0ninja",
@@ -80,24 +80,23 @@
       "start": "electron .",
       "package": "electron-packager ./ Riose --all --out ~/Desktop/Riose --version 0.0.0 --overwrite --icon=./app/img/app-icons/icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "filename": "disc0ninja___riose.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:14.425Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:09.326Z"
+  "lastFetchedAt": "2017-10-23T17:03:37.553Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:09.326Z",
+  "archived": false
 }

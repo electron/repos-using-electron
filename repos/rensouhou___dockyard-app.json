@@ -5,7 +5,7 @@
   "owner": {
     "login": "rensouhou",
     "id": 12384725,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12384725?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12384725?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rensouhou",
     "htmlUrl": "https://github.com/rensouhou",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "rensouhou",
     "id": 12384725,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12384725?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12384725?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rensouhou",
     "htmlUrl": "https://github.com/rensouhou",
@@ -112,19 +112,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rensouhou/dockyard-app.git"
-    },
-    "author": {
-      "name": "Stefan Rimaila",
-      "email": "stefan@rimaila.fi",
-      "url": "https://github.com/stuf"
-    },
+    "repository": "https://github.com/rensouhou/dockyard-app",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rensouhou/dockyard-app/issues"
-    },
     "keywords": [],
     "homepage": "https://github.com/rensouhou/dockyard-app#readme",
     "devDependencies": {
@@ -236,6 +225,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Stefan Rimaila",
+        "email": "stefan@rimaila.fi",
+        "url": "https://github.com/stuf"
+      },
+      "bugs": {
+        "url": "https://github.com/rensouhou/dockyard-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -263,6 +262,7 @@
   },
   "filename": "rensouhou___dockyard-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:23.895Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:07.108Z"
+  "lastFetchedAt": "2017-10-23T18:44:35.046Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:07.108Z",
+  "archived": false
 }

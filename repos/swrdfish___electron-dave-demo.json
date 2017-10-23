@@ -5,7 +5,7 @@
   "owner": {
     "login": "swrdfish",
     "id": 2018070,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2018070?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2018070?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/swrdfish",
     "htmlUrl": "https://github.com/swrdfish",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "jquery": "*"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "swrdfish___electron-dave-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:04.133Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:03.579Z"
+  "lastFetchedAt": "2017-10-23T20:49:43.455Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:03.579Z",
+  "archived": false
 }

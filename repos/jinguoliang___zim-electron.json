@@ -5,7 +5,7 @@
   "owner": {
     "login": "jinguoliang",
     "id": 1611550,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1611550?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1611550?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jinguoliang",
     "htmlUrl": "https://github.com/jinguoliang",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/jinguoliang/zim-electron/deployments",
   "createdAt": "2016-09-12T14:38:51.000Z",
   "updatedAt": "2016-09-12T14:48:01.000Z",
-  "pushedAt": "2016-09-21T15:28:40.000Z",
+  "pushedAt": "2017-08-18T18:26:16.000Z",
   "gitUrl": "git://github.com/jinguoliang/zim-electron.git",
   "sshUrl": "git@github.com:jinguoliang/zim-electron.git",
   "cloneUrl": "https://github.com/jinguoliang/zim-electron.git",
   "svnUrl": "https://github.com/jinguoliang/zim-electron",
   "homepage": null,
-  "size": 19,
+  "size": 16,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "zim-electron",
@@ -77,7 +77,6 @@
       "testui": "mocha test/ui",
       "test": "npm run babel && mocha test/unittest -t 5000"
     },
-    "author": "Jinux",
     "license": "ISC",
     "devDependencies": {
       "babel-cli": "^6.14.0",
@@ -93,6 +92,9 @@
       "react": "^15.3.1",
       "react-dom": "^15.3.1",
       "spectron": "^3.3.0"
+    },
+    "other": {
+      "author": "Jinux"
     }
   },
   "packageStatus": 200,
@@ -120,6 +122,7 @@
   },
   "filename": "jinguoliang___zim-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:04:05.384Z",
-  "packageLastFetchedAt": "2017-05-05T17:29:41.050Z"
+  "lastFetchedAt": "2017-10-23T19:23:10.095Z",
+  "packageLastFetchedAt": "2017-05-05T17:29:41.050Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "keystroke-fun",
     "version": "0.0.1",
@@ -73,7 +73,6 @@
     "scripts": {
       "start": "electron ."
     },
-    "author": "Angel D. Munoz",
     "license": "MIT",
     "devDependencies": {
       "electron": "^1.4.15",
@@ -82,6 +81,9 @@
     "dependencies": {
       "fable-core": "^0.7.26",
       "fable-import-electron": "^0.0.6"
+    },
+    "other": {
+      "author": "Angel D. Munoz"
     }
   },
   "packageStatus": 200,
@@ -109,6 +111,6 @@
   },
   "filename": "AngelMunoz___KeystrokeFun.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:37.307Z",
+  "lastFetchedAt": "2017-10-23T17:44:13.404Z",
   "packageLastFetchedAt": "2017-05-04T23:11:35.639Z"
 }

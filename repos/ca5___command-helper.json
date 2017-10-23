@@ -5,7 +5,7 @@
   "owner": {
     "login": "ca5",
     "id": 1699652,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1699652?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1699652?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ca5",
     "htmlUrl": "https://github.com/ca5",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ca5/command-helper.git"
-    },
+    "repository": "https://github.com/ca5/command-helper",
     "keywords": [
       "shell",
       "command",
@@ -84,14 +81,16 @@
       "gui",
       "electron"
     ],
-    "author": "ca5",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/ca5/command-helper/issues"
-    },
     "homepage": "http://ca5.me",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "author": "ca5",
+      "bugs": {
+        "url": "https://github.com/ca5/command-helper/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "ca5___command-helper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:51.233Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:09.463Z"
+  "lastFetchedAt": "2017-10-23T20:31:06.623Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:09.463Z",
+  "archived": false
 }

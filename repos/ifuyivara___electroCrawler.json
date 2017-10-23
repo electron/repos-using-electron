@@ -5,7 +5,7 @@
   "owner": {
     "login": "ifuyivara",
     "id": 132841,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/132841?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/132841?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ifuyivara",
     "htmlUrl": "https://github.com/ifuyivara",
@@ -72,7 +72,6 @@
     "version": "0.1.0",
     "license": "",
     "keywords": [],
-    "author": "Ivan Fuyivara",
     "scripts": {
       "start": "electron .",
       "build": "electron-packager . BioCrawl --platform=darwin --arch=x64 --version=0.30.4 --overwrite=true --out=dist"
@@ -83,6 +82,9 @@
       "jquery": "^2.1.4",
       "simplecrawler": "latest",
       "walk": "latest"
+    },
+    "other": {
+      "author": "Ivan Fuyivara"
     }
   },
   "packageStatus": 200,
@@ -110,6 +112,7 @@
   },
   "filename": "ifuyivara___electroCrawler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:49.424Z",
-  "packageLastFetchedAt": "2017-05-04T22:10:16.336Z"
+  "lastFetchedAt": "2017-10-23T20:09:44.123Z",
+  "packageLastFetchedAt": "2017-05-04T22:10:16.336Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "litongxin",
     "id": 5774421,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5774421?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5774421?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/litongxin",
     "htmlUrl": "https://github.com/litongxin",
@@ -55,15 +55,11 @@
       "startApp": "gulp copyAssets cssmin webpack; electron main.js",
       "mockApi": "drakov -f 'spec/fixtures/*.md' -p 4000 --autoOptions"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:litongxin/Feeds.git"
-    },
+    "repository": "https://github.com/litongxin/Feeds",
     "keywords": [
       "Feeds reader",
       "Node"
     ],
-    "author": "Team awesome",
     "devDependencies": {
       "babel-core": "^6.3.17",
       "babel-jest": "^5.3.0",
@@ -90,6 +86,9 @@
       "react-addons-test-utils": "^0.14.3",
       "react-dom": "^0.14.3",
       "webpack-stream": "^3.0.1"
+    },
+    "other": {
+      "author": "Team awesome"
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "litongxin___Feeds.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:09.989Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:40.169Z"
+  "lastFetchedAt": "2017-10-23T18:34:02.208Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:40.169Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "DjPale",
     "id": 1427902,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1427902?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1427902?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DjPale",
     "htmlUrl": "https://github.com/DjPale",
@@ -85,19 +85,18 @@
       "release:mac": "electron-packager ./app --asar",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DjPale/Grabtangle.git"
-    },
-    "author": "dj_pale",
+    "repository": "https://github.com/DjPale/Grabtangle",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/DjPale/Grabtangle/issues"
-    },
     "homepage": "https://github.com/DjPale/Grabtangle#readme",
     "build": {
       "appId": "hr.creaticon.eatodo",
       "app-category-type": "public.app-category.productivity"
+    },
+    "other": {
+      "author": "dj_pale",
+      "bugs": {
+        "url": "https://github.com/DjPale/Grabtangle/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "DjPale___Grabtangle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:07.643Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:09.494Z"
+  "lastFetchedAt": "2017-10-23T20:19:55.375Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:09.494Z",
+  "archived": false
 }

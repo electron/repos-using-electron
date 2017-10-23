@@ -5,7 +5,7 @@
   "owner": {
     "login": "Heolink",
     "id": 1562078,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1562078?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1562078?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Heolink",
     "htmlUrl": "https://github.com/Heolink",
@@ -43,18 +43,14 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "hosty",
     "version": "1.0.0",
     "description": "A simple hosts file manager",
-    "author": "Heolink",
     "main": "build/app.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Heolink/hosty.git"
-    },
+    "repository": "https://github.com/Heolink/hosty",
     "scripts": {
       "start": "DEV=true electron .",
       "package": "electron-packager . hosty --platform=darwin --arch=x64 --version=0.36.4 --out=dist --overwrite --icon=./icons/icon.icns --ignore='^/dist$' --ignore='^/icons$' --ignore='^/typings$' --ignore='^/src$' --prune",
@@ -84,6 +80,9 @@
       "vue": "^1.0.14",
       "vue-async-data": "^1.0.2",
       "vue-router": "^0.7.9"
+    },
+    "other": {
+      "author": "Heolink"
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "svnUrl": "https://github.com/Heolink/hosty",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T11:04:31.582Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:44.846Z"
+  "lastFetchedAt": "2017-10-23T20:20:22.371Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:44.846Z",
+  "archived": false
 }

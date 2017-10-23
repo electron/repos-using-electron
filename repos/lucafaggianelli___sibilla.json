@@ -5,7 +5,7 @@
   "owner": {
     "login": "lucafaggianelli",
     "id": 4471043,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4471043?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4471043?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lucafaggianelli",
     "htmlUrl": "https://github.com/lucafaggianelli",
@@ -58,15 +58,8 @@
       "start": "electron main.js",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lucafaggianelli/sibilla.git"
-    },
-    "author": "Luca Faggianelli",
+    "repository": "https://github.com/lucafaggianelli/sibilla",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lucafaggianelli/sibilla/issues"
-    },
     "homepage": "https://github.com/lucafaggianelli/sibilla#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -91,6 +84,12 @@
       "jquery": "~2.2.3",
       "mime-types": "^2.1.10",
       "nodejs-disks": "^0.2.1"
+    },
+    "other": {
+      "author": "Luca Faggianelli",
+      "bugs": {
+        "url": "https://github.com/lucafaggianelli/sibilla/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   "svnUrl": "https://github.com/lucafaggianelli/sibilla",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:49:03.036Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:00.576Z"
+  "lastFetchedAt": "2017-10-23T18:01:56.499Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:00.576Z",
+  "archived": false
 }

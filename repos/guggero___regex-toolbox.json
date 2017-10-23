@@ -5,7 +5,7 @@
   "owner": {
     "login": "guggero",
     "id": 1008879,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1008879?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1008879?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/guggero",
     "htmlUrl": "https://github.com/guggero",
@@ -80,10 +80,7 @@
       "start": "gulp run",
       "package": "gulp package --env production"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/guggero/regex-toolbox.git"
-    },
+    "repository": "https://github.com/guggero/regex-toolbox",
     "keywords": [
       "regular",
       "expression",
@@ -95,15 +92,7 @@
       "directory",
       "recursive"
     ],
-    "author": {
-      "name": "Oliver Gugger",
-      "email": "gugger@gmail.com",
-      "url": "https://github.com/guggero"
-    },
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/guggero/regex-toolbox/issues"
-    },
     "homepage": "https://github.com/guggero/regex-toolbox",
     "devDependencies": {
       "babel-preset-es2015": "^6.14.0",
@@ -130,6 +119,16 @@
     },
     "dependencies": {
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "author": {
+        "name": "Oliver Gugger",
+        "email": "gugger@gmail.com",
+        "url": "https://github.com/guggero"
+      },
+      "bugs": {
+        "url": "https://github.com/guggero/regex-toolbox/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   },
   "filename": "guggero___regex-toolbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:03.993Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:39.478Z"
+  "lastFetchedAt": "2017-10-23T21:04:20.684Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:39.478Z",
+  "archived": false
 }

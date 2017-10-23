@@ -6,7 +6,7 @@
   "owner": {
     "login": "nicebam",
     "id": 5946097,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5946097?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5946097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nicebam",
     "htmlUrl": "https://github.com/nicebam",
@@ -74,21 +74,14 @@
     "scripts": {
       "start": "electron main.js "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "electron-prebuilt": "^0.36.5"
@@ -103,6 +96,12 @@
       "morgan": "^1.7.0",
       "socket.io": "^1.7.2",
       "socket.io-client": "^1.7.2"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:36.106Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:53.302Z"
+  "lastFetchedAt": "2017-10-23T17:26:53.696Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:53.302Z",
+  "archived": false
 }

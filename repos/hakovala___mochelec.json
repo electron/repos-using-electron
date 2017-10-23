@@ -5,7 +5,7 @@
   "owner": {
     "login": "hakovala",
     "id": 3023749,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3023749?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3023749?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hakovala",
     "htmlUrl": "https://github.com/hakovala",
@@ -75,7 +75,6 @@
     "name": "mochelec",
     "version": "0.1.3",
     "description": "Run Mocha unit tests in Electron",
-    "author": "Harri Kovalainen <hakovala@gmail.com>",
     "main": "index.js",
     "bin": {
       "mochelec": "./bin/mochelec"
@@ -90,7 +89,10 @@
       "mocha",
       "electron"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Harri Kovalainen <hakovala@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +119,7 @@
   },
   "filename": "hakovala___mochelec.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:19:05.173Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:20.090Z"
+  "lastFetchedAt": "2017-10-23T20:40:26.435Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:20.090Z",
+  "archived": false
 }

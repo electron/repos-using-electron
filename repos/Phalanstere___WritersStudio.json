@@ -5,7 +5,7 @@
   "owner": {
     "login": "Phalanstere",
     "id": 8437466,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8437466?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8437466?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Phalanstere",
     "htmlUrl": "https://github.com/Phalanstere",
@@ -60,19 +60,12 @@
       "test": "test.js",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Phalanstere/WritersStudio.git"
-    },
+    "repository": "https://github.com/Phalanstere/WritersStudio",
     "keywords": [
       "writer",
       "authoring"
     ],
-    "author": "phalanstere <burckhardt@ludicmedia.de> (https://github.com/Phalanstere)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Phalanstere/WritersStudio/issues"
-    },
     "homepage": "https://github.com/Phalanstere/WritersStudio#readme",
     "dependencies": {
       "electron-menus": "^0.1.0",
@@ -83,6 +76,12 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.2.1"
+    },
+    "other": {
+      "author": "phalanstere <burckhardt@ludicmedia.de> (https://github.com/Phalanstere)",
+      "bugs": {
+        "url": "https://github.com/Phalanstere/WritersStudio/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "svnUrl": "https://github.com/Phalanstere/WritersStudio",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:04:45.618Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:27.978Z"
+  "lastFetchedAt": "2017-10-23T18:59:30.554Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:27.978Z",
+  "archived": false
 }

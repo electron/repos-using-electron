@@ -5,7 +5,7 @@
   "owner": {
     "login": "iiegor",
     "id": 3694005,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3694005?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3694005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iiegor",
     "htmlUrl": "https://github.com/iiegor",
@@ -20,12 +20,12 @@
   "description": "A material web browser built with JavaScript",
   "fork": false,
   "createdAt": "2015-12-26T17:03:10.000Z",
-  "updatedAt": "2017-05-03T11:03:53.000Z",
+  "updatedAt": "2017-08-02T16:19:53.000Z",
   "pushedAt": "2016-09-12T13:37:45.000Z",
   "homepage": "",
   "size": 303,
-  "stargazersCount": 63,
-  "watchersCount": 63,
+  "stargazersCount": 62,
+  "watchersCount": 62,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 63,
+  "watchers": 62,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,6 @@
     "version": "0.0.9",
     "description": "A material web browser built with JavaScript",
     "main": "browser.js",
-    "author": "Iegor Azuaga <dextrackmedia@gmail.com>",
     "license": "MIT",
     "electronVersion": "1.3.1",
     "devDependencies": {
@@ -67,7 +66,10 @@
       "build:linux": "node scripts/build.js --linux",
       "build:darwin": "node scripts/build.js --darwin"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": "Iegor Azuaga <dextrackmedia@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +116,7 @@
   "svnUrl": "https://github.com/iiegor/chrome-material",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:54:12.682Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:38.671Z"
+  "lastFetchedAt": "2017-10-23T20:12:19.524Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:38.671Z",
+  "archived": false
 }

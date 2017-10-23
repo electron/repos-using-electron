@@ -5,7 +5,7 @@
   "owner": {
     "login": "rdaly1490",
     "id": 12177854,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12177854?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12177854?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rdaly1490",
     "htmlUrl": "https://github.com/rdaly1490",
@@ -78,21 +78,9 @@
         "/Users/robdaly/Desktop/testmapboxgl2/v150"
       ]
     ],
-    "_from": "react-map-gl@1.5.0",
-    "_id": "react-map-gl@1.5.0",
     "_inCache": true,
     "_installable": true,
     "_location": "/react-map-gl",
-    "_nodeVersion": "0.10.32",
-    "_npmOperationalInternal": {
-      "host": "packages-16-east.internal.npmjs.com",
-      "tmp": "tmp/react-map-gl-1.5.0.tgz_1473459896433_0.593313765944913"
-    },
-    "_npmUser": {
-      "email": "ib.green.home@gmail.com",
-      "name": "ibgreen"
-    },
-    "_npmVersion": "3.10.6",
     "_phantomChildren": {},
     "_requested": {
       "name": "react-map-gl",
@@ -106,13 +94,9 @@
       "/"
     ],
     "_resolved": "https://registry.npmjs.org/react-map-gl/-/react-map-gl-1.5.0.tgz",
-    "_shasum": "e332f33f0c6be5136405f8ebaf9d94550152f10f",
     "_shrinkwrap": null,
     "_spec": "react-map-gl@1.5.0",
     "_where": "/Users/robdaly/Desktop/testmapboxgl2/v150",
-    "bugs": {
-      "url": "https://github.com/uber/react-map-gl/issues"
-    },
     "dependencies": {
       "autobind-decorator": "^1.3.3",
       "bowser": "^1.0.0",
@@ -156,11 +140,6 @@
       "testron": "^1.2.0",
       "uber-standard": "^5.1.0"
     },
-    "directories": {},
-    "dist": {
-      "shasum": "e332f33f0c6be5136405f8ebaf9d94550152f10f",
-      "tarball": "https://registry.npmjs.org/react-map-gl/-/react-map-gl-1.5.0.tgz"
-    },
     "engines": {
       "node": "0.10.x",
       "npm": "3.x"
@@ -180,7 +159,30 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "maintainers": [
+    "name": "react-map-gl",
+    "optionalDependencies": {},
+    "peerDependencies": {
+      "immutable": "^3.7.6",
+      "react": "0.14.x - 15.x"
+    },
+    "readme": "ERROR: No README data found!",
+    "repository": "https://github.com/uber/react-map-gl",
+    "scripts": {
+      "build": "babel src -d dist --copy-files --source-maps inline",
+      "lint": "uber-standard",
+      "precommit": "npm run lint -s",
+      "prepublish": "npm run build",
+      "prepush": "npm run lint -s",
+      "profile-disc": "browserify src/index.js --full-paths -t babelify | discify --open",
+      "start": "budo ./example/main.js --live --open --port 3000 -- -t babelify -t envify",
+      "test": "npm run lint && browserify -t babelify -t envify test/index.js | testron"
+    },
+    "version": "1.5.0",
+    "lastPublisher": {
+      "email": "ib.green.home@gmail.com",
+      "name": "ibgreen"
+    },
+    "owners": [
       {
         "name": "abmai",
         "email": "abmai91@gmail.com"
@@ -194,28 +196,43 @@
         "email": "vicapow@gmail.com"
       }
     ],
-    "name": "react-map-gl",
-    "optionalDependencies": {},
-    "peerDependencies": {
-      "immutable": "^3.7.6",
-      "react": "0.14.x - 15.x"
-    },
-    "readme": "ERROR: No README data found!",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/uber/react-map-gl.git"
-    },
-    "scripts": {
-      "build": "babel src -d dist --copy-files --source-maps inline",
-      "lint": "uber-standard",
-      "precommit": "npm run lint -s",
-      "prepublish": "npm run build",
-      "prepush": "npm run lint -s",
-      "profile-disc": "browserify src/index.js --full-paths -t babelify | discify --open",
-      "start": "budo ./example/main.js --live --open --port 3000 -- -t babelify -t envify",
-      "test": "npm run lint && browserify -t babelify -t envify test/index.js | testron"
-    },
-    "version": "1.5.0"
+    "other": {
+      "_from": "react-map-gl@1.5.0",
+      "_id": "react-map-gl@1.5.0",
+      "_nodeVersion": "0.10.32",
+      "_npmOperationalInternal": {
+        "host": "packages-16-east.internal.npmjs.com",
+        "tmp": "tmp/react-map-gl-1.5.0.tgz_1473459896433_0.593313765944913"
+      },
+      "_npmUser": {
+        "email": "ib.green.home@gmail.com",
+        "name": "ibgreen"
+      },
+      "_npmVersion": "3.10.6",
+      "_shasum": "e332f33f0c6be5136405f8ebaf9d94550152f10f",
+      "bugs": {
+        "url": "https://github.com/uber/react-map-gl/issues"
+      },
+      "directories": {},
+      "dist": {
+        "shasum": "e332f33f0c6be5136405f8ebaf9d94550152f10f",
+        "tarball": "https://registry.npmjs.org/react-map-gl/-/react-map-gl-1.5.0.tgz"
+      },
+      "maintainers": [
+        {
+          "name": "abmai",
+          "email": "abmai91@gmail.com"
+        },
+        {
+          "name": "ibgreen",
+          "email": "ib.green.home@gmail.com"
+        },
+        {
+          "name": "vicapow",
+          "email": "vicapow@gmail.com"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -242,6 +259,7 @@
   },
   "filename": "rdaly1490___React-Map-Gl-Pinch-Zoom.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:28.061Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:11.916Z"
+  "lastFetchedAt": "2017-10-23T20:32:46.878Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:11.916Z",
+  "archived": false
 }

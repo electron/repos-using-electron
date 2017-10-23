@@ -5,7 +5,7 @@
   "owner": {
     "login": "davidbastien5",
     "id": 6667697,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6667697?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6667697?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/davidbastien5",
     "htmlUrl": "https://github.com/davidbastien5",
@@ -80,15 +80,8 @@
       "start": "gulp && electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/davidbastien5/file3d.git"
-    },
-    "author": "David Bastien",
+    "repository": "https://github.com/davidbastien5/file3d",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/davidbastien5/file3d/issues"
-    },
     "homepage": "https://github.com/davidbastien5/file3d#readme",
     "devDependencies": {
       "browserify": "^13.1.0",
@@ -97,6 +90,12 @@
       "gulp": "^3.9.1",
       "gulp-rename": "^1.2.2",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "author": "David Bastien",
+      "bugs": {
+        "url": "https://github.com/davidbastien5/file3d/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "davidbastien5___file3d.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:52:03.272Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:01.832Z"
+  "lastFetchedAt": "2017-10-23T20:37:40.207Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:01.832Z",
+  "archived": false
 }

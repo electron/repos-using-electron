@@ -5,7 +5,7 @@
   "owner": {
     "login": "bigredwill",
     "id": 3138607,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3138607?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3138607?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bigredwill",
     "htmlUrl": "https://github.com/bigredwill",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/bigredwill/notational-markdown/deployments",
   "createdAt": "2016-05-10T18:08:05.000Z",
   "updatedAt": "2017-03-28T18:31:17.000Z",
-  "pushedAt": "2016-06-02T08:07:45.000Z",
+  "pushedAt": "2017-09-28T00:09:30.000Z",
   "gitUrl": "git://github.com/bigredwill/notational-markdown.git",
   "sshUrl": "git@github.com:bigredwill/notational-markdown.git",
   "cloneUrl": "https://github.com/bigredwill/notational-markdown.git",
   "svnUrl": "https://github.com/bigredwill/notational-markdown",
   "homepage": null,
-  "size": 1053,
+  "size": 1056,
   "stargazersCount": 3,
   "watchersCount": 3,
   "language": "JavaScript",
@@ -93,7 +93,6 @@
       "build:watch": "parallelshell 'npm start' 'npm run watch:js' 'npm run watch:css'",
       "start": "electron main.js"
     },
-    "author": "Will Simons",
     "license": "CC0-1.0",
     "dependencies": {
       "axios": "^0.9.1",
@@ -118,6 +117,9 @@
       "watch": "latest",
       "less": "latest",
       "less-plugin-clean-css": "latest"
+    },
+    "other": {
+      "author": "Will Simons"
     }
   },
   "packageStatus": 200,
@@ -145,6 +147,7 @@
   },
   "filename": "bigredwill___notational-markdown.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:17.236Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:39.702Z"
+  "lastFetchedAt": "2017-10-23T18:32:07.725Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:39.702Z",
+  "archived": false
 }

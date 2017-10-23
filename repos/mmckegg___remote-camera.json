@@ -5,7 +5,7 @@
   "owner": {
     "login": "mmckegg",
     "id": 66834,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/66834?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/66834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mmckegg",
     "htmlUrl": "https://github.com/mmckegg",
@@ -20,7 +20,7 @@
   "description": "Example electron app that creates a web server and then streams the remote web-cam of connected user to the local machine.",
   "fork": false,
   "createdAt": "2015-08-30T10:11:42.000Z",
-  "updatedAt": "2015-10-12T10:10:33.000Z",
+  "updatedAt": "2017-09-25T04:30:12.000Z",
   "pushedAt": "2015-09-02T03:41:15.000Z",
   "homepage": "",
   "size": 152,
@@ -56,15 +56,8 @@
     "bin": {
       "remote-camera": "./cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mmckegg/remote-camera.git"
-    },
-    "author": "Matt McKegg",
+    "repository": "https://github.com/mmckegg/remote-camera",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mmckegg/remote-camera/issues"
-    },
     "homepage": "https://github.com/mmckegg/remote-camera",
     "dependencies": {
       "beefy": "~2.1.5",
@@ -73,6 +66,12 @@
       "getusermedia": "~1.3.5",
       "simple-peer": "~5.11.5",
       "ws": "~0.8.0"
+    },
+    "other": {
+      "author": "Matt McKegg",
+      "bugs": {
+        "url": "https://github.com/mmckegg/remote-camera/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   "svnUrl": "https://github.com/mmckegg/remote-camera",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:46:30.114Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:34.808Z"
+  "lastFetchedAt": "2017-10-23T19:37:14.891Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:34.808Z",
+  "archived": false
 }

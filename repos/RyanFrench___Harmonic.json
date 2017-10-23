@@ -5,7 +5,7 @@
   "owner": {
     "login": "RyanFrench",
     "id": 979780,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/979780?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/979780?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RyanFrench",
     "htmlUrl": "https://github.com/RyanFrench",
@@ -56,7 +56,6 @@
     "version": "0.1.0",
     "description": "A cross platform desktop client for google play music - built with electron",
     "main": "main.js",
-    "author": "Ryan French <http://ryanfrench.co>",
     "scripts": {
       "start": "electron .",
       "debug": "NODE_ENV=debug electron ."
@@ -64,6 +63,9 @@
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^0.36.2"
+    },
+    "other": {
+      "author": "Ryan French <http://ryanfrench.co>"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
   "svnUrl": "https://github.com/RyanFrench/Harmonic",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:39:30.826Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:50.968Z"
+  "lastFetchedAt": "2017-10-23T19:00:40.817Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:50.968Z",
+  "archived": false
 }

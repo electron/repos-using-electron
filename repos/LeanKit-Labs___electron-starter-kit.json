@@ -5,7 +5,7 @@
   "owner": {
     "login": "LeanKit-Labs",
     "id": 7505211,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7505211?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7505211?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LeanKit-Labs",
     "htmlUrl": "https://github.com/LeanKit-Labs",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/LeanKit-Labs/electron-starter-kit/downloads",
   "deploymentsUrl": "https://api.github.com/repos/LeanKit-Labs/electron-starter-kit/deployments",
   "createdAt": "2016-04-04T17:48:14.000Z",
-  "updatedAt": "2017-03-23T21:36:03.000Z",
+  "updatedAt": "2017-07-24T12:27:43.000Z",
   "pushedAt": "2016-10-20T14:51:08.000Z",
   "gitUrl": "git://github.com/LeanKit-Labs/electron-starter-kit.git",
   "sshUrl": "git@github.com:LeanKit-Labs/electron-starter-kit.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/LeanKit-Labs/electron-starter-kit",
   "homepage": null,
   "size": 119,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "LeanKit-Labs",
     "id": 7505211,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7505211?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7505211?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LeanKit-Labs",
     "htmlUrl": "https://github.com/LeanKit-Labs",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/LeanKit-Labs/received_events",
     "type": "Organization"
   },
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
@@ -94,12 +94,8 @@
       "package": "node tasks/package.js",
       "test": "electron-mocha --compilers js:babel-core/register --reporter spec ./spec/*.spec.js --require ./spec/helpers/setup.js --colors"
     },
-    "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/LeanKit-Labs/electron-starter-kit.git"
-    },
+    "repository": "https://github.com/LeanKit-Labs/electron-starter-kit",
     "dependencies": {
       "babel-preset-node6": "^11.0.0",
       "babel-preset-react": "^6.16.0",
@@ -131,6 +127,9 @@
       "sinon": "^1.17.3",
       "sinon-as-promised": "^4.0.0",
       "sinon-chai": "^2.8.0"
+    },
+    "other": {
+      "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)"
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   },
   "filename": "LeanKit-Labs___electron-starter-kit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:14:46.760Z",
-  "packageLastFetchedAt": "2017-05-05T15:35:27.311Z"
+  "lastFetchedAt": "2017-10-23T20:29:21.373Z",
+  "packageLastFetchedAt": "2017-05-05T15:35:27.311Z",
+  "archived": false
 }

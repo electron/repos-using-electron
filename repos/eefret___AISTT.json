@@ -5,7 +5,7 @@
   "owner": {
     "login": "eefret",
     "id": 863005,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/863005?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/863005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eefret",
     "htmlUrl": "https://github.com/eefret",
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "AISTT",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/eefret/AISTT.git"
-    },
+    "repository": "https://github.com/eefret/AISTT",
     "keywords": [
       "Electron",
       "Android",
@@ -65,11 +62,7 @@
       "Translation",
       "Tool"
     ],
-    "author": "Christopher T. Herrera(eefretsoul@gmail.com), Cristian Gomez(cjgm23@gmail.com)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/eefret/AISTT/issues"
-    },
     "homepage": "https://github.com/eefret/AISTT",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0",
@@ -79,6 +72,12 @@
       "grunt-contrib-jshint": "~1.0.0",
       "grunt-contrib-nodeunit": "~1.0.0",
       "grunt-contrib-uglify": "~1.0.1"
+    },
+    "other": {
+      "author": "Christopher T. Herrera(eefretsoul@gmail.com), Cristian Gomez(cjgm23@gmail.com)",
+      "bugs": {
+        "url": "https://github.com/eefret/AISTT/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "svnUrl": "https://github.com/eefret/AISTT",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:07:26.683Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:00.175Z"
+  "lastFetchedAt": "2017-10-23T19:35:50.663Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:00.175Z",
+  "archived": false
 }

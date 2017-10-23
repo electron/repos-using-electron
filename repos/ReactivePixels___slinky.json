@@ -5,7 +5,7 @@
   "owner": {
     "login": "ReactivePixels",
     "id": 16451622,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16451622?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16451622?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ReactivePixels",
     "htmlUrl": "https://github.com/ReactivePixels",
@@ -35,17 +35,17 @@
   "downloadsUrl": "https://api.github.com/repos/ReactivePixels/slinky/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ReactivePixels/slinky/deployments",
   "createdAt": "2016-09-18T13:02:41.000Z",
-  "updatedAt": "2017-04-19T04:29:36.000Z",
-  "pushedAt": "2016-12-12T21:13:54.000Z",
+  "updatedAt": "2017-07-27T01:59:11.000Z",
+  "pushedAt": "2017-09-30T10:48:24.000Z",
   "gitUrl": "git://github.com/ReactivePixels/slinky.git",
   "sshUrl": "git@github.com:ReactivePixels/slinky.git",
   "cloneUrl": "https://github.com/ReactivePixels/slinky.git",
   "svnUrl": "https://github.com/ReactivePixels/slinky",
   "homepage": "https://reactivepixels.github.io/get-slinky/",
-  "size": 4520,
+  "size": 5285,
   "stargazersCount": 6,
   "watchersCount": 6,
-  "language": "CSS",
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -61,17 +61,11 @@
     "push": false,
     "pull": true
   },
-  "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "featured": true
-  },
+  "license": null,
   "organization": {
     "login": "ReactivePixels",
     "id": 16451622,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16451622?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16451622?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ReactivePixels",
     "htmlUrl": "https://github.com/ReactivePixels",
@@ -89,10 +83,7 @@
     "name": "slinky",
     "version": "1.0.0",
     "description": "A GUI for npm link management",
-    "repository": {
-      "url": "git+https://github.com/ReactivePixels/slinky.git",
-      "type": "git"
-    },
+    "repository": "https://github.com/ReactivePixels/slinky",
     "keywords": [
       "npm",
       "slinky",
@@ -100,11 +91,7 @@
       "symlink",
       "link dependencies"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ReactivePixels/slinky/issues"
-    },
     "build": {
       "appId": "com.reactivepixels.slinky",
       "win": {
@@ -124,9 +111,6 @@
         "icon": "resources/osx/dmg-icon.icns",
         "background": "resources/osx/dmg-background.png"
       }
-    },
-    "directories": {
-      "buildResources": "resources"
     },
     "scripts": {
       "postinstall": "install-app-deps",
@@ -170,7 +154,16 @@
         "es2016-node5"
       ]
     },
-    "main": "index.js"
+    "main": "index.js",
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/ReactivePixels/slinky/issues"
+      },
+      "directories": {
+        "buildResources": "resources"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -197,6 +190,7 @@
   },
   "filename": "ReactivePixels___slinky.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:22.284Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:29.915Z"
+  "lastFetchedAt": "2017-10-23T17:47:41.805Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:29.915Z",
+  "archived": false
 }

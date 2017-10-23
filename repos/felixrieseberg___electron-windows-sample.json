@@ -5,7 +5,7 @@
   "owner": {
     "login": "felixrieseberg",
     "id": 1426799,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1426799?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1426799?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/felixrieseberg",
     "htmlUrl": "https://github.com/felixrieseberg",
@@ -20,12 +20,12 @@
   "description": ":zap: A minimal Electron sample application showing how to make an Electron app look native on Windows",
   "fork": false,
   "createdAt": "2015-10-31T22:46:08.000Z",
-  "updatedAt": "2017-03-01T11:04:43.000Z",
+  "updatedAt": "2017-09-06T01:31:36.000Z",
   "pushedAt": "2016-01-07T14:48:44.000Z",
   "homepage": "",
   "size": 20,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 18,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "webpack --progress --colors && electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -70,11 +67,7 @@
       "tutorial",
       "windows"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/felixrieseberg/electron-windows-sample"
-    },
     "homepage": "https://github.com/felixrieseberg/electron-windows-sample#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
@@ -86,6 +79,12 @@
       "react": "^0.13.3",
       "react-winjs": "^2.4.0",
       "winjs": "^4.4.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/felixrieseberg/electron-windows-sample"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   "svnUrl": "https://github.com/felixrieseberg/electron-windows-sample",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T04:56:43.494Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:26.980Z"
+  "lastFetchedAt": "2017-10-23T20:19:41.279Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:26.980Z",
+  "archived": false
 }

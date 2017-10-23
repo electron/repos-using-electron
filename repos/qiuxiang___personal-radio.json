@@ -5,7 +5,7 @@
   "owner": {
     "login": "qiuxiang",
     "id": 1709072,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1709072?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1709072?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qiuxiang",
     "htmlUrl": "https://github.com/qiuxiang",
@@ -76,12 +76,8 @@
     "version": "0.0.0",
     "description": "Personal radio player for netease cloudmusic",
     "main": "src/app.js",
-    "author": "Qiu Xiang <xiang.qiu@qq.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/qiuxiang/personal-radio.git"
-    },
+    "repository": "https://github.com/qiuxiang/personal-radio",
     "scripts": {
       "start": "electron ."
     },
@@ -93,6 +89,9 @@
       "request": "^2.57.0",
       "tough-cookie-filestore": "0.0.1",
       "node-notifier": "~4.2.1"
+    },
+    "other": {
+      "author": "Qiu Xiang <xiang.qiu@qq.com>"
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   },
   "filename": "qiuxiang___personal-radio.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:44.912Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:38.057Z"
+  "lastFetchedAt": "2017-10-23T20:25:35.963Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:38.057Z",
+  "archived": false
 }

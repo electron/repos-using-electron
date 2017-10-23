@@ -5,7 +5,7 @@
   "owner": {
     "login": "jeromeludmann",
     "id": 9574480,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9574480?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9574480?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jeromeludmann",
     "htmlUrl": "https://github.com/jeromeludmann",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/jeromeludmann/electron-irc-app",
-  "description": "electron-based instant messaging",
+  "description": "Instant messaging, Electron platform, Angular JS",
   "fork": false,
   "url": "https://api.github.com/repos/jeromeludmann/electron-irc-app",
   "forksUrl": "https://api.github.com/repos/jeromeludmann/electron-irc-app/forks",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jeromeludmann/electron-irc-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jeromeludmann/electron-irc-app/deployments",
   "createdAt": "2016-10-02T14:48:51.000Z",
-  "updatedAt": "2017-03-25T10:12:34.000Z",
+  "updatedAt": "2017-06-10T10:22:12.000Z",
   "pushedAt": "2016-12-26T13:37:38.000Z",
   "gitUrl": "git://github.com/jeromeludmann/electron-irc-app.git",
   "sshUrl": "git@github.com:jeromeludmann/electron-irc-app.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/jeromeludmann/electron-irc-app",
   "homepage": "",
   "size": 366,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -90,7 +90,6 @@
       "prewatch": "npm run clean:js",
       "prepackage": "npm-run-all -s clean:dist lint compile"
     },
-    "author": "Jerome Ludmann",
     "license": "MIT",
     "dependencies": {
       "angular": "^1.5.8",
@@ -104,6 +103,9 @@
       "npm-run-all": "^3.0.0",
       "tslint": "^3.15.1",
       "typescript": "^1.8.10"
+    },
+    "other": {
+      "author": "Jerome Ludmann"
     }
   },
   "packageStatus": 200,
@@ -131,6 +133,7 @@
   },
   "filename": "jeromeludmann___node-irc-client.json",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T21:23:46.254Z",
-  "packageLastFetchedAt": "2017-05-05T09:36:13.487Z"
+  "lastFetchedAt": "2017-10-23T17:03:53.987Z",
+  "packageLastFetchedAt": "2017-05-05T09:36:13.487Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "starwhale",
     "id": 16645498,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16645498?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16645498?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/starwhale",
     "htmlUrl": "https://github.com/starwhale",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/starwhale/editor/downloads",
   "deploymentsUrl": "https://api.github.com/repos/starwhale/editor/deployments",
   "createdAt": "2016-01-27T11:30:57.000Z",
-  "updatedAt": "2016-01-29T15:10:18.000Z",
-  "pushedAt": "2016-01-30T22:19:01.000Z",
+  "updatedAt": "2017-07-04T22:03:44.000Z",
+  "pushedAt": "2017-07-04T22:03:41.000Z",
   "gitUrl": "git://github.com/starwhale/editor.git",
   "sshUrl": "git@github.com:starwhale/editor.git",
   "cloneUrl": "https://github.com/starwhale/editor.git",
   "svnUrl": "https://github.com/starwhale/editor",
   "homepage": null,
-  "size": 3632,
+  "size": 3601,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "starwhale",
     "id": 16645498,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16645498?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16645498?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/starwhale",
     "htmlUrl": "https://github.com/starwhale",
@@ -87,24 +87,23 @@
     "scripts": {
       "start": "electron backend/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "starwhale___editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:27.422Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:26.623Z"
+  "lastFetchedAt": "2017-10-23T17:51:16.329Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:26.623Z",
+  "archived": false
 }

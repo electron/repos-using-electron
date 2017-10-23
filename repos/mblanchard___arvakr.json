@@ -5,7 +5,7 @@
   "owner": {
     "login": "mblanchard",
     "id": 2729376,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2729376?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2729376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mblanchard",
     "htmlUrl": "https://github.com/mblanchard",
@@ -79,15 +79,8 @@
       "electron-build": "webpack --config webpack.electron.js --bail -p",
       "electron-package": "electron-packager ./app arvakr --platform=linux,win32 --arch=x64 --out=dist/app"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tomastrajan/component-pattern-for-angular-js-1-x"
-    },
-    "author": "Tomas Trajan",
+    "repository": "https://github.com/tomastrajan/component-pattern-for-angular-js-1-x",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tomastrajan/component-pattern-for-angular-js-1-x/issues"
-    },
     "homepage": "https://github.com/tomastrajan/component-pattern-for-angular-js-1-x",
     "dependencies": {
       "angular": "^1.3.16",
@@ -136,6 +129,12 @@
       "null-loader": "^0.1.1",
       "phantomjs": "^1.9.17",
       "url-loader": "^0.5.7"
+    },
+    "other": {
+      "author": "Tomas Trajan",
+      "bugs": {
+        "url": "https://github.com/tomastrajan/component-pattern-for-angular-js-1-x/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "mblanchard___arvakr.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:00.439Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:12.945Z"
+  "lastFetchedAt": "2017-10-23T18:58:32.546Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:12.945Z",
+  "archived": false
 }

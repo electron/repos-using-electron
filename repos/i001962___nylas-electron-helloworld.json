@@ -5,7 +5,7 @@
   "owner": {
     "login": "i001962",
     "id": 1039388,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1039388?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1039388?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/i001962",
     "htmlUrl": "https://github.com/i001962",
@@ -62,11 +62,7 @@
       "package": "asar pack nylas-hello-darwin-x64/nylas-hello.app/Contents/Resources/app nylas-hello-darwin-x64/nylas-hello.app/Contents/Resources/app.asar && rm -rf nylas-hello-darwin-x64/nylas-hello.app/Contents/Resources/app",
       "build": "electron-packager . nylas-hello --platform=darwin --arch=x64 --version=0.32.2 && cp images/ah.icns nylas-hello-darwin-x64/nylas-hello.app/Contents/Resources/atom.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/i001962/nylas-electron-helloworld.git"
-    },
-    "author": "",
+    "repository": "https://github.com/i001962/nylas-electron-helloworld",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^5.1.0"
@@ -77,6 +73,9 @@
       "electron-prebuilt": "^0.32.2",
       "https": "^1.0.0",
       "querystring": "^0.2.0"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "i001962___nylas-electron-helloworld.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:01.041Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:21.104Z"
+  "lastFetchedAt": "2017-10-23T17:25:26.529Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:21.104Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pokematch",
     "version": "1.0.0",
@@ -73,15 +73,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Elite-Four/PokeMatch.git"
-    },
-    "author": "Elite-Four (https://github.com/Elite-Four)",
+    "repository": "https://github.com/Elite-Four/PokeMatch",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Elite-Four/PokeMatch/issues"
-    },
     "homepage": "https://github.com/Elite-Four/PokeMatch#readme",
     "dependencies": {
       "async": "^1.4.2",
@@ -97,7 +90,13 @@
     "devDependencies": {
       "electron-prebuilt": "^0.31.2"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": "Elite-Four (https://github.com/Elite-Four)",
+      "bugs": {
+        "url": "https://github.com/Elite-Four/PokeMatch/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +143,6 @@
   "svnUrl": "https://github.com/Elite-Four/PokeMatch",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:35:34.600Z",
+  "lastFetchedAt": "2017-10-23T18:50:59.671Z",
   "packageLastFetchedAt": "2017-05-05T15:36:03.587Z"
 }

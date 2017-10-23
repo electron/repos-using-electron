@@ -5,7 +5,7 @@
   "owner": {
     "login": "tommy351",
     "id": 411425,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/411425?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/411425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tommy351",
     "htmlUrl": "https://github.com/tommy351",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
@@ -63,9 +63,6 @@
       "dev": "NODE_ENV=development node webpack/server & NODE_ENV=development electron .",
       "build": "NODE_ENV=production webpack --stats --progress"
     },
-    "directories": {
-      "lib": "./lib"
-    },
     "repository": "tommy351/hexo-app",
     "homepage": "http://hexo.io/",
     "keywords": [
@@ -75,7 +72,6 @@
       "framework",
       "hexo"
     ],
-    "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
     "license": "MIT",
     "dependencies": {
       "electron-debug": "^0.5.0",
@@ -125,6 +121,12 @@
       "webpack": "^1.12.2",
       "webpack-dev-server": "^1.12.1",
       "webpack-target-electron-renderer": "^0.1.1"
+    },
+    "other": {
+      "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+      "directories": {
+        "lib": "./lib"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +174,7 @@
   },
   "filename": "tommy351___hexo-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:07.150Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:49.582Z"
+  "lastFetchedAt": "2017-10-23T17:17:55.648Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:49.582Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "i5sing",
     "id": 20367728,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20367728?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20367728?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/i5sing",
     "htmlUrl": "https://github.com/i5sing",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/i5sing/i5SING/downloads",
   "deploymentsUrl": "https://api.github.com/repos/i5sing/i5SING/deployments",
   "createdAt": "2016-07-11T02:24:09.000Z",
-  "updatedAt": "2017-04-15T03:13:52.000Z",
+  "updatedAt": "2017-09-10T14:04:00.000Z",
   "pushedAt": "2017-02-07T17:23:30.000Z",
   "gitUrl": "git://github.com/i5sing/i5SING.git",
   "sshUrl": "git@github.com:i5sing/i5SING.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/i5sing/i5SING",
   "homepage": "http://beta.i5sing.com",
   "size": 9253,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 16,
+  "watchersCount": 16,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 8,
+  "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "i5sing",
     "id": 20367728,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20367728?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20367728?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/i5sing",
     "htmlUrl": "https://github.com/i5sing",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/i5sing/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -90,10 +90,7 @@
       "dev": "cross-env NODE_ENV=development ./scripts/develop.sh",
       "compile_to_es5": "babel ./src/i5sing --out-dir ./build/i5sing --ignore ./src/i5sing/react"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/i5sing/i5SING.git"
-    },
+    "repository": "https://github.com/i5sing/i5SING",
     "keywords": [
       "5sing",
       "5singClient",
@@ -101,11 +98,7 @@
       "5sing for mac",
       "5sing for win"
     ],
-    "author": "miaowing",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/i5sing/i5SING/issues"
-    },
     "homepage": "https://github.com/i5sing/i5SING#readme",
     "devDependencies": {
       "asar": "^0.13.0",
@@ -157,6 +150,12 @@
       "electron-sqlite3": "0.0.3",
       "nslog": "^3.0.0",
       "request": "^2.74.0"
+    },
+    "other": {
+      "author": "miaowing",
+      "bugs": {
+        "url": "https://github.com/i5sing/i5SING/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -184,6 +183,7 @@
   },
   "filename": "i5sing___i5SING.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:31.111Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:16.246Z"
+  "lastFetchedAt": "2017-10-23T20:15:10.783Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:16.246Z",
+  "archived": false
 }

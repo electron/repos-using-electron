@@ -5,7 +5,7 @@
   "owner": {
     "login": "cassidoo",
     "id": 1454517,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1454517?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1454517?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cassidoo",
     "htmlUrl": "https://github.com/cassidoo",
@@ -49,7 +49,6 @@
     "name": "Curator",
     "version": "1.0.0",
     "description": "A museum curation game.",
-    "author": "Cassidy Williams",
     "main": "main.js",
     "scripts": {
       "build": "NODE_ENV=production browserify js/app.js | uglifyjs -cm > js/bundle.js",
@@ -72,6 +71,9 @@
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "react": "^0.14.7"
+    },
+    "other": {
+      "author": "Cassidy Williams"
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,7 @@
   "svnUrl": "https://github.com/cassidoo/curator",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:14:50.429Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:24.957Z"
+  "lastFetchedAt": "2017-10-23T20:48:04.341Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:24.957Z",
+  "archived": false
 }

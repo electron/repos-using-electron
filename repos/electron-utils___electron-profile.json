@@ -6,7 +6,7 @@
   "owner": {
     "login": "electron-utils",
     "id": 24780321,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/24780321?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/24780321?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-utils",
     "htmlUrl": "https://github.com/electron-utils",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/electron-utils/electron-profile/deployments",
   "createdAt": "2017-02-16T11:21:09.000Z",
   "updatedAt": "2017-02-18T13:45:36.000Z",
-  "pushedAt": "2017-04-19T04:08:17.000Z",
+  "pushedAt": "2017-10-19T03:31:25.000Z",
   "gitUrl": "git://github.com/electron-utils/electron-profile.git",
   "sshUrl": "git@github.com:electron-utils/electron-profile.git",
   "cloneUrl": "https://github.com/electron-utils/electron-profile.git",
   "svnUrl": "https://github.com/electron-utils/electron-profile",
   "homepage": null,
-  "size": 14,
+  "size": 34,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -52,7 +52,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "electron-utils",
     "id": 24780321,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/24780321?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/24780321?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-utils",
     "htmlUrl": "https://github.com/electron-utils",
@@ -84,10 +84,10 @@
     "receivedEventsUrl": "https://api.github.com/users/electron-utils/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:25:46.858Z",
+  "lastFetchedAt": "2017-10-23T17:16:02.465Z",
   "packageJSON": {
     "name": "electron-profile",
     "version": "1.0.4",
@@ -99,19 +99,12 @@
       "test:unit": "electron-node-tap --preload ./test/unit/preload.js ./test/unit/*.spec.js",
       "test:e2e": "mocha ./test/e2e/*.spec.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron-utils/electron-profile.git"
-    },
+    "repository": "https://github.com/electron-utils/electron-profile",
     "keywords": [
       "Electron",
       "Platform"
     ],
-    "author": "jwu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron-utils/electron-profile/issues"
-    },
     "homepage": "https://github.com/electron-utils/electron-profile",
     "devDependencies": {
       "electron": "^1.6.5",
@@ -124,8 +117,15 @@
       "electron-platform": "^1.2.0",
       "electron-protocols": "^1.0.4",
       "fs-jetpack": "^0.13.3"
+    },
+    "other": {
+      "author": "jwu",
+      "bugs": {
+        "url": "https://github.com/electron-utils/electron-profile/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:22:39.217Z"
+  "packageLastFetchedAt": "2017-05-05T17:22:39.217Z",
+  "archived": false
 }

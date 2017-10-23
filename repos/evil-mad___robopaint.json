@@ -5,7 +5,7 @@
   "owner": {
     "login": "evil-mad",
     "id": 5661788,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5661788?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5661788?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/evil-mad",
     "htmlUrl": "https://github.com/evil-mad",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/evil-mad/robopaint/downloads",
   "deploymentsUrl": "https://api.github.com/repos/evil-mad/robopaint/deployments",
   "createdAt": "2013-05-01T05:33:48.000Z",
-  "updatedAt": "2017-03-26T16:32:44.000Z",
-  "pushedAt": "2016-11-12T04:08:18.000Z",
+  "updatedAt": "2017-10-17T20:12:16.000Z",
+  "pushedAt": "2017-09-24T18:11:12.000Z",
   "gitUrl": "git://github.com/evil-mad/robopaint.git",
   "sshUrl": "git@github.com:evil-mad/robopaint.git",
   "cloneUrl": "https://github.com/evil-mad/robopaint.git",
   "svnUrl": "https://github.com/evil-mad/robopaint",
   "homepage": null,
-  "size": 16120,
-  "stargazersCount": 53,
-  "watchersCount": 53,
+  "size": 15784,
+  "stargazersCount": 60,
+  "watchersCount": 60,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 19,
+  "forksCount": 22,
   "mirrorUrl": null,
   "openIssuesCount": 41,
   "openIssues": 41,
-  "watchers": 53,
+  "watchers": 60,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "evil-mad",
     "id": 5661788,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5661788?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5661788?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/evil-mad",
     "htmlUrl": "https://github.com/evil-mad",
@@ -76,19 +76,14 @@
     "receivedEventsUrl": "https://api.github.com/users/evil-mad/received_events",
     "type": "Organization"
   },
-  "networkCount": 19,
-  "subscribersCount": 14,
+  "networkCount": 22,
+  "subscribersCount": 16,
   "status": 200,
   "packageJSON": {
     "name": "robopaint",
     "version": "2.0.0-beta.3",
     "description": "A full featured SVG editor and output controller to drive @MakerSylvia's WaterColorBot",
     "main": "resources/scripts/root/window-main.js",
-    "author": {
-      "name": "James Todd",
-      "email": "james@tn42.com",
-      "url": "http://evilmadscience.com"
-    },
     "stage": "development",
     "license": "MIT",
     "electronVersion": "1.0.2",
@@ -128,12 +123,16 @@
       "robopaint-mode-spiral": "*",
       "underscore": "^1.8.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/evil-mad/robopaint.git"
-    },
+    "repository": "https://github.com/evil-mad/robopaint",
     "devDependencies": {
       "electron-prebuilt": "1.0.2"
+    },
+    "other": {
+      "author": {
+        "name": "James Todd",
+        "email": "james@tn42.com",
+        "url": "http://evilmadscience.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -161,6 +160,7 @@
   },
   "filename": "evil-mad___robopaint.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:40.338Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:02.709Z"
+  "lastFetchedAt": "2017-10-23T20:20:28.387Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:02.709Z",
+  "archived": false
 }

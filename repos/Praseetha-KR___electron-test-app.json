@@ -5,7 +5,7 @@
   "owner": {
     "login": "Praseetha-KR",
     "id": 1054350,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1054350?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1054350?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Praseetha-KR",
     "htmlUrl": "https://github.com/Praseetha-KR",
@@ -75,22 +75,21 @@
       "postinstall": "cd node_modules/leveldown && HOME=~/.electron-gyp node-gyp rebuild --target=0.36.10 --arch=x64 --dist-url=https://atom.io/download/atom-shell",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Praseetha-KR/electron-test-app.git"
-    },
+    "repository": "https://github.com/Praseetha-KR/electron-test-app",
     "keywords": [
       "electron"
     ],
-    "author": "Praseetha-KR",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Praseetha-KR/electron-test-app/issues"
-    },
     "homepage": "https://github.com/Praseetha-KR/electron-test-app#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.8",
       "level": "^1.4.0"
+    },
+    "other": {
+      "author": "Praseetha-KR",
+      "bugs": {
+        "url": "https://github.com/Praseetha-KR/electron-test-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "Praseetha-KR___electron-test-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:49.156Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:18.344Z"
+  "lastFetchedAt": "2017-10-23T17:47:49.887Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:18.344Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "reidransom",
     "id": 469283,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/469283?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/469283?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/reidransom",
     "htmlUrl": "https://github.com/reidransom",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/reidransom/encloader/downloads",
   "deploymentsUrl": "https://api.github.com/repos/reidransom/encloader/deployments",
   "createdAt": "2011-10-17T02:51:16.000Z",
-  "updatedAt": "2015-07-07T20:24:11.000Z",
+  "updatedAt": "2017-08-04T21:43:51.000Z",
   "pushedAt": "2016-04-23T15:14:12.000Z",
   "gitUrl": "git://github.com/reidransom/encloader.git",
   "sshUrl": "git@github.com:reidransom/encloader.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/reidransom/encloader",
   "homepage": "http://encloader.com/",
   "size": 1460,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 9,
   "openIssues": 9,
-  "watchers": 2,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -80,15 +80,14 @@
       "start": "electron main.js",
       "postinstall": "./postinstall"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/reidransom/encloader.git"
-    },
-    "author": "reidransom",
+    "repository": "https://github.com/reidransom/encloader",
     "license": "MIT",
     "homepage": "http://encloader.com/",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "author": "reidransom"
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   },
   "filename": "reidransom___encloader.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:02.631Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:49.029Z"
+  "lastFetchedAt": "2017-10-23T20:07:49.898Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:49.029Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Microsoft",
     "id": 6154722,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6154722?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6154722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Microsoft",
     "htmlUrl": "https://github.com/Microsoft",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Microsoft/BotFramework-Emulator",
-  "description": "Emulator for the Microsoft Bot Framework. Allows developers to test and debug their bots on localhost or remotely through a tunnel.",
+  "description": "Bot Framework Emulator",
   "fork": false,
   "url": "https://api.github.com/repos/Microsoft/BotFramework-Emulator",
   "forksUrl": "https://api.github.com/repos/Microsoft/BotFramework-Emulator/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Microsoft/BotFramework-Emulator/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Microsoft/BotFramework-Emulator/deployments",
   "createdAt": "2016-11-11T23:15:09.000Z",
-  "updatedAt": "2017-05-04T02:39:17.000Z",
-  "pushedAt": "2017-05-03T17:13:38.000Z",
+  "updatedAt": "2017-10-23T15:59:01.000Z",
+  "pushedAt": "2017-10-20T21:37:17.000Z",
   "gitUrl": "git://github.com/Microsoft/BotFramework-Emulator.git",
   "sshUrl": "git@github.com:Microsoft/BotFramework-Emulator.git",
   "cloneUrl": "https://github.com/Microsoft/BotFramework-Emulator.git",
   "svnUrl": "https://github.com/Microsoft/BotFramework-Emulator",
-  "homepage": null,
-  "size": 507,
-  "stargazersCount": 257,
-  "watchersCount": 257,
+  "homepage": "https://aka.ms/botemulator",
+  "size": 1184,
+  "stargazersCount": 425,
+  "watchersCount": 425,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 60,
+  "forksCount": 134,
   "mirrorUrl": null,
-  "openIssuesCount": 25,
-  "openIssues": 25,
-  "watchers": 257,
+  "openIssuesCount": 44,
+  "openIssues": 44,
+  "watchers": 425,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Microsoft",
     "id": 6154722,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6154722?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6154722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Microsoft",
     "htmlUrl": "https://github.com/Microsoft",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/Microsoft/received_events",
     "type": "Organization"
   },
-  "networkCount": 60,
-  "subscribersCount": 42,
+  "networkCount": 134,
+  "subscribersCount": 61,
   "status": 200,
   "packageJSON": {
     "name": "botframework-emulator",
@@ -98,10 +98,7 @@
       "release": "build",
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Microsoft/botframework-emulator.git"
-    },
+    "repository": "https://github.com/Microsoft/botframework-emulator",
     "keywords": [
       "microsoft",
       "botframework",
@@ -109,11 +106,7 @@
       "bot",
       "chatbot"
     ],
-    "author": "Microsoft Corp.",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Microsoft/botframework-emulator/issues"
-    },
     "homepage": "https://github.com/Microsoft/botframework-emulator#readme",
     "devDependencies": {
       "@types/async": "2.0.37",
@@ -209,8 +202,14 @@
         "!**/node_modules/@types"
       ]
     },
-    "directories": {
-      "output": "install"
+    "other": {
+      "author": "Microsoft Corp.",
+      "bugs": {
+        "url": "https://github.com/Microsoft/botframework-emulator/issues"
+      },
+      "directories": {
+        "output": "install"
+      }
     }
   },
   "packageStatus": 200,
@@ -238,6 +237,7 @@
   },
   "filename": "Microsoft___BotFramework-Emulator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:46.760Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:13.481Z"
+  "lastFetchedAt": "2017-10-23T17:06:36.847Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:13.481Z",
+  "archived": false
 }

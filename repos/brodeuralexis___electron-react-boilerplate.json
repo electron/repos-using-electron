@@ -6,7 +6,7 @@
   "owner": {
     "login": "brodeuralexis",
     "id": 11179144,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11179144?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11179144?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/brodeuralexis",
     "htmlUrl": "https://github.com/brodeuralexis",
@@ -67,13 +67,12 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:13:30.604Z",
+  "lastFetchedAt": "2017-10-23T17:39:35.987Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "version": "1.0.0",
     "description": "A React and Electron boilerplate",
     "main": "bin/main.js",
-    "author": "Alexis Brodeur <brodeuralexis@gmail.com>",
     "license": "MIT",
     "scripts": {
       "start": "NODE_ENV=prod yarn electron bin/main.js --",
@@ -141,8 +140,12 @@
         "__TEST__": true,
         "process.env.NODE_ENV": "test"
       }
+    },
+    "other": {
+      "author": "Alexis Brodeur <brodeuralexis@gmail.com>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:00:54.922Z"
+  "packageLastFetchedAt": "2017-05-05T17:00:54.922Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "camman3d",
     "id": 1869381,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1869381?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1869381?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/camman3d",
     "htmlUrl": "https://github.com/camman3d",
@@ -76,10 +76,7 @@
       "build": "TARGET=electron webpack",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/camman3d/open-show-designer"
-    },
+    "repository": "https://github.com/camman3d/open-show-designer",
     "keywords": [
       "OSC",
       "Art-Net",
@@ -88,11 +85,7 @@
       "Sequencing",
       "Lightshow"
     ],
-    "author": "camman3d",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/camman3d/open-show-designer/issues"
-    },
     "homepage": "https://github.com/camman3d/open-show-designer",
     "dependencies": {
       "artnet": "^1.0.5",
@@ -122,6 +115,12 @@
       "sass-loader": "^4.0.1",
       "style-loader": "^0.13.1",
       "webpack-dev-server": "^1.15.1"
+    },
+    "other": {
+      "author": "camman3d",
+      "bugs": {
+        "url": "https://github.com/camman3d/open-show-designer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   },
   "filename": "camman3d___open-show-designer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:01.051Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:37.378Z"
+  "lastFetchedAt": "2017-10-23T18:55:04.104Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:37.378Z",
+  "archived": false
 }

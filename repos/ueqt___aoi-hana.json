@@ -5,7 +5,7 @@
   "owner": {
     "login": "ueqt",
     "id": 6800801,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6800801?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6800801?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ueqt",
     "htmlUrl": "https://github.com/ueqt",
@@ -73,22 +73,15 @@
       "build:win32": "npm run prebuild && ./scripts/build.sh win32 ia32",
       "build:win64": "npm run prebuild && ./scripts/build.sh win32 x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ueqt/aoi-hana.git"
-    },
+    "repository": "https://github.com/ueqt/aoi-hana",
     "keywords": [
       "Electron",
       "aoi",
       "hana",
       "history"
     ],
-    "author": "ueqt",
     "mail": "ueqtxu@gmail.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ueqt/aoi-hana/issues"
-    },
     "homepage": "https://github.com/ueqt/aoi-hana#readme",
     "dependencies": {
       "electron-debug": "latest",
@@ -102,6 +95,12 @@
       "silence-chromium": "latest",
       "stylus": "latest",
       "uglifyjs": "latest"
+    },
+    "other": {
+      "author": "ueqt",
+      "bugs": {
+        "url": "https://github.com/ueqt/aoi-hana/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "svnUrl": "https://github.com/ueqt/aoi-hana",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:38:28.756Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:11.009Z"
+  "lastFetchedAt": "2017-10-23T20:30:11.493Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:11.009Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "corasan",
     "id": 5108929,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5108929?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5108929?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/corasan",
     "htmlUrl": "https://github.com/corasan",
@@ -77,10 +77,7 @@
       "serve": "webpack && node server.js",
       "hot": "node server.dev.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/corasan/gmail-desktop.git"
-    },
+    "repository": "https://github.com/corasan/gmail-desktop",
     "keywords": [
       "gmail",
       "google",
@@ -89,11 +86,7 @@
       "app",
       "electron"
     ],
-    "author": "Henry Paulino <henrypl360@gmail.com>",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/corasan/gmail-desktop/issues"
-    },
     "homepage": "https://github.com/corasan/gmail-desktop#readme",
     "dependencies": {
       "body-parser": "^1.15.2",
@@ -121,6 +114,12 @@
       "webpack-dev-middleware": "^1.8.4",
       "webpack-hot-middleware": "^2.13.0",
       "webpack-stream": "^3.2.0"
+    },
+    "other": {
+      "author": "Henry Paulino <henrypl360@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/corasan/gmail-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   },
   "filename": "corasan___gmail-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:33.209Z",
-  "packageLastFetchedAt": "2017-05-05T17:04:19.385Z"
+  "lastFetchedAt": "2017-10-23T20:20:45.421Z",
+  "packageLastFetchedAt": "2017-05-05T17:04:19.385Z",
+  "archived": false
 }

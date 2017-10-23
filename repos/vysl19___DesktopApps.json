@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Launcher.Electron",
     "version": "1.0.0",
@@ -81,7 +81,6 @@
       "start",
       "demo"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron": "^1.4.1",
@@ -101,6 +100,9 @@
         "installerHeaderIcon": "resources/windows/setup-icon.ico"
       },
       "authors": "Author"
+    },
+    "other": {
+      "author": "GitHub"
     }
   },
   "packageStatus": 200,
@@ -128,6 +130,6 @@
   },
   "filename": "vysl19___DesktopApps.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:45:51.990Z",
+  "lastFetchedAt": "2017-10-23T18:54:21.970Z",
   "packageLastFetchedAt": "2017-05-05T17:49:27.167Z"
 }

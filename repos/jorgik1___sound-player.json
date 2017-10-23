@@ -5,7 +5,7 @@
   "owner": {
     "login": "jorgik1",
     "id": 10710213,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10710213?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10710213?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jorgik1",
     "htmlUrl": "https://github.com/jorgik1",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "electron-soundcloud-player",
@@ -74,7 +74,6 @@
       "start": "electron main.js",
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js"
     },
-    "author": "Wern Ancheta",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "babel-preset-es2015": "^6.9.0",
@@ -88,6 +87,9 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "Wern Ancheta"
     }
   },
   "packageStatus": 200,
@@ -115,6 +117,7 @@
   },
   "filename": "jorgik1___sound-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:26.195Z",
-  "packageLastFetchedAt": "2017-05-05T17:51:28.575Z"
+  "lastFetchedAt": "2017-10-23T19:02:25.984Z",
+  "packageLastFetchedAt": "2017-05-05T17:51:28.575Z",
+  "archived": false
 }

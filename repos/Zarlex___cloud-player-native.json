@@ -6,7 +6,7 @@
   "owner": {
     "login": "Cloud-Player",
     "id": 25328964,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25328964?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25328964?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cloud-Player",
     "htmlUrl": "https://github.com/Cloud-Player",
@@ -89,12 +89,6 @@
     "keywords": [
       "Soundcloud"
     ],
-    "author": "Indie Devs",
-    "contributors": [
-      "Alexander Zarges <alex.zarges@online.de> (http://zarg.es/)",
-      "Daniel Reißner <mail@danielreissner.com (http://danielreissner.com)",
-      "Kai Schulz <mail@kaischulz.com> (http://kaischulz.com)"
-    ],
     "licenses": [
       {
         "type": "MIT",
@@ -118,13 +112,7 @@
       "electron-packager": "8.5.0",
       "electron-prebuilt": "^1.4.13"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zarlex/cloud-player-native.git"
-    },
-    "bugs": {
-      "url": "https://github.com/zarlex/cloud-player-native/issues"
-    },
+    "repository": "https://github.com/zarlex/cloud-player-native",
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "build": {
       "appId": "com.cloud-player.app",
@@ -154,6 +142,17 @@
         "artifactName": "cloud-player.setup.${ext}",
         "deleteAppDataOnUninstall": true
       }
+    },
+    "other": {
+      "author": "Indie Devs",
+      "bugs": {
+        "url": "https://github.com/zarlex/cloud-player-native/issues"
+      },
+      "contributors": [
+        "Alexander Zarges <alex.zarges@online.de> (http://zarg.es/)",
+        "Daniel Reißner <mail@danielreissner.com (http://danielreissner.com)",
+        "Kai Schulz <mail@kaischulz.com> (http://kaischulz.com)"
+      ]
     }
   },
   "packageStatus": 200,
@@ -183,7 +182,7 @@
   "organization": {
     "login": "Cloud-Player",
     "id": 25328964,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25328964?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25328964?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cloud-Player",
     "htmlUrl": "https://github.com/Cloud-Player",
@@ -194,6 +193,7 @@
     "receivedEventsUrl": "https://api.github.com/users/Cloud-Player/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T19:30:51.042Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:58.887Z"
+  "lastFetchedAt": "2017-10-23T18:22:37.999Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:58.887Z",
+  "archived": false
 }

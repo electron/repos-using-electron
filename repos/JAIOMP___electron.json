@@ -5,7 +5,7 @@
   "owner": {
     "login": "JAIOMP",
     "id": 15261217,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15261217?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15261217?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JAIOMP",
     "htmlUrl": "https://github.com/JAIOMP",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "lodash": "^4.5.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "filename": "JAIOMP___electron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:10:40.317Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:01.438Z"
+  "lastFetchedAt": "2017-10-23T20:40:53.447Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:01.438Z",
+  "archived": false
 }

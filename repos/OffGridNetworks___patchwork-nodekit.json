@@ -5,7 +5,7 @@
   "owner": {
     "login": "OffGridNetworks",
     "id": 16541225,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16541225?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16541225?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OffGridNetworks",
     "htmlUrl": "https://github.com/OffGridNetworks",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "OffGridNetworks",
     "id": 16541225,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16541225?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16541225?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OffGridNetworks",
     "htmlUrl": "https://github.com/OffGridNetworks",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "ssbc",
       "id": 10190339,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10190339?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10190339?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ssbc",
       "htmlUrl": "https://github.com/ssbc",
@@ -99,27 +99,28 @@
     "downloadsUrl": "https://api.github.com/repos/ssbc/patchwork/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ssbc/patchwork/deployments",
     "createdAt": "2015-06-24T16:00:09.000Z",
-    "updatedAt": "2017-05-04T18:58:11.000Z",
-    "pushedAt": "2017-04-28T00:21:09.000Z",
+    "updatedAt": "2017-10-23T16:57:08.000Z",
+    "pushedAt": "2017-10-19T12:21:20.000Z",
     "gitUrl": "git://github.com/ssbc/patchwork.git",
     "sshUrl": "git@github.com:ssbc/patchwork.git",
     "cloneUrl": "https://github.com/ssbc/patchwork.git",
     "svnUrl": "https://github.com/ssbc/patchwork",
     "homepage": "https://www.scuttlebutt.nz",
-    "size": 14868,
-    "stargazersCount": 989,
-    "watchersCount": 989,
+    "size": 15419,
+    "stargazersCount": 1279,
+    "watchersCount": 1279,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 84,
+    "forksCount": 118,
     "mirrorUrl": null,
-    "openIssuesCount": 64,
-    "openIssues": 64,
-    "watchers": 989,
+    "archived": false,
+    "openIssuesCount": 76,
+    "openIssues": 76,
+    "watchers": 1279,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "ssbc",
       "id": 10190339,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10190339?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10190339?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ssbc",
       "htmlUrl": "https://github.com/ssbc",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/ssbc/patchwork/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ssbc/patchwork/deployments",
     "createdAt": "2015-06-24T16:00:09.000Z",
-    "updatedAt": "2017-05-04T18:58:11.000Z",
-    "pushedAt": "2017-04-28T00:21:09.000Z",
+    "updatedAt": "2017-10-23T16:57:08.000Z",
+    "pushedAt": "2017-10-19T12:21:20.000Z",
     "gitUrl": "git://github.com/ssbc/patchwork.git",
     "sshUrl": "git@github.com:ssbc/patchwork.git",
     "cloneUrl": "https://github.com/ssbc/patchwork.git",
     "svnUrl": "https://github.com/ssbc/patchwork",
     "homepage": "https://www.scuttlebutt.nz",
-    "size": 14868,
-    "stargazersCount": 989,
-    "watchersCount": 989,
+    "size": 15419,
+    "stargazersCount": 1279,
+    "watchersCount": 1279,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 84,
+    "forksCount": 118,
     "mirrorUrl": null,
-    "openIssuesCount": 64,
-    "openIssues": 64,
-    "watchers": 989,
+    "archived": false,
+    "openIssuesCount": 76,
+    "openIssues": 76,
+    "watchers": 1279,
     "defaultBranch": "master"
   },
-  "networkCount": 84,
+  "networkCount": 118,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -190,10 +192,7 @@
     "version": "0.1.0",
     "description": "Fork of P2P Messaging App ssbc/patchwork adapted for Node and NodeKit",
     "main": "_offgrid/server/server.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/offgridnetworks/patchwork-nodekit.git"
-    },
+    "repository": "https://github.com/offgridnetworks/patchwork-nodekit",
     "scripts": {
       "desktop": "electron .",
       "clean": "rimraf _offgrid/static && rimraf _offgrid/dist && rimraf _offgrid/public/fonts && rimraf _offgrid/public/img",
@@ -207,11 +206,6 @@
       "server": "node _offgrid/server/server",
       "dev": "NODE_ENV=development node _offgrid/server/devServer"
     },
-    "author": "Paul Frazee <pfrazee@gmail.com>",
-    "contributors": [
-      "SSBC contributors",
-      "OffGridNetworks <admin@offgridnetworks.com>"
-    ],
     "license": "Apache-2.0",
     "devDependencies": {
       "electron-builder": "^2.0.0",
@@ -319,6 +313,13 @@
     },
     "bin": {
       "patchwork": "./bin.js"
+    },
+    "other": {
+      "author": "Paul Frazee <pfrazee@gmail.com>",
+      "contributors": [
+        "SSBC contributors",
+        "OffGridNetworks <admin@offgridnetworks.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -367,6 +368,7 @@
   "filename": "OffGridNetworks___patchwork-nodekit.json",
   "sourceRepo": "firstteam/patchwork",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:37:28.971Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:27.865Z"
+  "lastFetchedAt": "2017-10-23T17:35:51.743Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:27.865Z",
+  "archived": false
 }

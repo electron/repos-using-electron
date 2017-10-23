@@ -5,7 +5,7 @@
   "owner": {
     "login": "tom-weatherhead",
     "id": 15746898,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15746898?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15746898?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tom-weatherhead",
     "htmlUrl": "https://github.com/tom-weatherhead",
@@ -81,13 +81,7 @@
       "world"
     ],
     "homepage": "https://github.com/tom-weatherhead/electron-hello-world",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tom-weatherhead/electron-hello-world.git"
-    },
-    "bugs": {
-      "url": "https://github.com/tom-weatherhead/electron-hello-world/issues"
-    },
+    "repository": "https://github.com/tom-weatherhead/electron-hello-world",
     "main": "./main.js",
     "scripts": {
       "start": "electron ."
@@ -95,8 +89,13 @@
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
-    "author": "Tom Weatherhead <tom_weatherhead@hotmail.com> (https://github.com/tom-weatherhead)",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Tom Weatherhead <tom_weatherhead@hotmail.com> (https://github.com/tom-weatherhead)",
+      "bugs": {
+        "url": "https://github.com/tom-weatherhead/electron-hello-world/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +122,7 @@
   },
   "filename": "tom-weatherhead___electron-hello-world.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:17.938Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:37.220Z"
+  "lastFetchedAt": "2017-10-23T18:08:57.181Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:37.220Z",
+  "archived": false
 }

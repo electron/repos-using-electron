@@ -6,7 +6,7 @@
   "owner": {
     "login": "ventrec",
     "id": 701788,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/701788?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/701788?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ventrec",
     "htmlUrl": "https://github.com/ventrec",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T13:05:12.518Z",
+  "lastFetchedAt": "2017-10-23T18:21:19.502Z",
   "packageJSON": {
     "name": "task-timer-electron",
     "productName": "Task Timer",
@@ -79,11 +79,6 @@
       "start": "electron .",
       "package-mac": "node_modules/.bin/electron-packager . 'Task Timer' --out=dist/osx --platform=darwin --arch=x64 --overwrite --icon=clipboard.icns --prune=true"
     },
-    "author": {
-      "name": "Runar Jørgensen",
-      "email": "ventrec@ventrec.org",
-      "homepage": "http://www.ventrec.org"
-    },
     "dependencies": {
       "bulma": "^0.2.3",
       "electron": "^1.4.1",
@@ -91,8 +86,16 @@
       "lodash": "^4.16.6",
       "moment": "^2.17.1",
       "vue": "^2.0.3"
+    },
+    "other": {
+      "author": {
+        "name": "Runar Jørgensen",
+        "email": "ventrec@ventrec.org",
+        "homepage": "http://www.ventrec.org"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:07:16.843Z"
+  "packageLastFetchedAt": "2017-05-04T22:07:16.843Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "lightradius",
     "id": 11378789,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11378789?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11378789?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lightradius",
     "htmlUrl": "https://github.com/lightradius",
@@ -74,7 +74,6 @@
       "start": "electron .",
       "build": "electron-packager . --platform=linux --arch=x64 --version=0.27.2 walletApp"
     },
-    "author": "James",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^4.2.0",
@@ -105,6 +104,9 @@
     },
     "engines": {
       "node": ">=0.10.0"
+    },
+    "other": {
+      "author": "James"
     }
   },
   "packageStatus": 200,
@@ -132,6 +134,7 @@
   },
   "filename": "lightradius___electronWalletApp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:59:10.946Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:52.702Z"
+  "lastFetchedAt": "2017-10-23T18:48:40.466Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:52.702Z",
+  "archived": false
 }

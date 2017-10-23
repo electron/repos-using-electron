@@ -5,7 +5,7 @@
   "owner": {
     "login": "Cephel",
     "id": 6716857,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6716857?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6716857?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cephel",
     "htmlUrl": "https://github.com/Cephel",
@@ -79,15 +79,8 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Cephel/addon-permissions.git"
-    },
-    "author": "Cephei",
+    "repository": "https://github.com/Cephel/addon-permissions",
     "license": "GPL-2.0",
-    "bugs": {
-      "url": "https://github.com/Cephel/addon-permissions/issues"
-    },
     "homepage": "https://github.com/Cephel/addon-permissions#readme",
     "devDependencies": {
       "bower": "^1.5.3",
@@ -98,6 +91,12 @@
       "grunt-contrib-clean": "^0.6.0",
       "grunt-contrib-compress": "^0.13.0",
       "grunt-electron": "^2.0.1"
+    },
+    "other": {
+      "author": "Cephei",
+      "bugs": {
+        "url": "https://github.com/Cephel/addon-permissions/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "Cephel___addon-permissions.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:05.819Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:54.303Z"
+  "lastFetchedAt": "2017-10-23T18:12:12.556Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:54.303Z",
+  "archived": false
 }

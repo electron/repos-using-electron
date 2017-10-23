@@ -6,7 +6,7 @@
   "owner": {
     "login": "jecrockett",
     "id": 12873495,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12873495?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12873495?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jecrockett",
     "htmlUrl": "https://github.com/jecrockett",
@@ -51,7 +51,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -69,7 +69,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -81,19 +81,12 @@
       "start": "electron .",
       "build": "electron-packager . 'Change Me' --platform=all --arch=all --version=0.37.5"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/turingschool-examples/electron-react-starter-kid.git"
-    },
+    "repository": "https://github.com/turingschool-examples/electron-react-starter-kid",
     "keywords": [
       "electron",
       "react"
     ],
-    "author": "Steve Kinney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/turingschool-examples/electron-react-starter-kid/issues"
-    },
     "homepage": "https://github.com/turingschool-examples/electron-react-starter-kid#readme",
     "devDependencies": {
       "babel-eslint": "^6.0.2",
@@ -107,6 +100,12 @@
     },
     "dependencies": {
       "electron-image-resize": "^1.0.1"
+    },
+    "other": {
+      "author": "Steve Kinney",
+      "bugs": {
+        "url": "https://github.com/turingschool-examples/electron-react-starter-kid/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:00.590Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:47.734Z"
+  "lastFetchedAt": "2017-10-23T19:23:00.140Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:47.734Z",
+  "archived": false
 }

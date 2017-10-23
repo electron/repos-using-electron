@@ -1,11 +1,11 @@
 {
-  "id": 68453856,
+  "id": 103868578,
   "name": "moon",
   "fullName": "tomgeekery/moon",
   "owner": {
     "login": "tomgeekery",
     "id": 1966878,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1966878?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1966878?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomgeekery",
     "htmlUrl": "https://github.com/tomgeekery",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/tomgeekery/moon",
-  "description": "Harvest desktop application built with Electron",
+  "description": "Harvest time tracker built with Electron",
   "fork": false,
   "url": "https://api.github.com/repos/tomgeekery/moon",
   "forksUrl": "https://api.github.com/repos/tomgeekery/moon/forks",
@@ -34,18 +34,18 @@
   "mergesUrl": "https://api.github.com/repos/tomgeekery/moon/merges",
   "downloadsUrl": "https://api.github.com/repos/tomgeekery/moon/downloads",
   "deploymentsUrl": "https://api.github.com/repos/tomgeekery/moon/deployments",
-  "createdAt": "2016-09-17T13:30:35.000Z",
-  "updatedAt": "2016-10-25T00:37:30.000Z",
-  "pushedAt": "2016-12-18T20:09:41.000Z",
+  "createdAt": "2017-09-17T23:05:21.000Z",
+  "updatedAt": "2017-09-17T23:24:09.000Z",
+  "pushedAt": "2017-09-17T23:24:07.000Z",
   "gitUrl": "git://github.com/tomgeekery/moon.git",
   "sshUrl": "git@github.com:tomgeekery/moon.git",
   "cloneUrl": "https://github.com/tomgeekery/moon.git",
   "svnUrl": "https://github.com/tomgeekery/moon",
   "homepage": null,
-  "size": 56,
+  "size": 811,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "CSS",
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -61,13 +61,7 @@
     "push": false,
     "pull": true
   },
-  "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "featured": true
-  },
+  "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
@@ -79,15 +73,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tomgeekery/moon.git"
-    },
-    "author": "tomgeekery",
+    "repository": "https://github.com/tomgeekery/moon",
     "devDependencies": {
       "electron": "^1.4.1",
       "electron-settings": "^2.2.2",
       "request": "^2.75.0"
+    },
+    "other": {
+      "author": "tomgeekery"
     }
   },
   "packageStatus": 200,
@@ -115,6 +108,7 @@
   },
   "filename": "tomgeekery___moon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:05.243Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:39.255Z"
+  "lastFetchedAt": "2017-10-23T19:20:48.923Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:39.255Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-test-app",
     "version": "0.0.1",
@@ -75,7 +75,6 @@
       "start": "electron dir/lib/main/main.js",
       "dev": "npm start && npm run babel-watch"
     },
-    "author": "Jeroen de Jong",
     "license": "ISC",
     "devDependencies": {
       "babel-cli": "^6.14.0",
@@ -90,6 +89,9 @@
       "react-mapbox-gl": "^0.9.3",
       "react-router": "^2.7.0",
       "titlebar": "^1.4.0"
+    },
+    "other": {
+      "author": "Jeroen de Jong"
     }
   },
   "packageStatus": 200,
@@ -117,6 +119,6 @@
   },
   "filename": "JeroenDeJong___route-maker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:09.801Z",
+  "lastFetchedAt": "2017-10-23T18:40:41.635Z",
   "packageLastFetchedAt": "2017-05-04T22:42:37.375Z"
 }

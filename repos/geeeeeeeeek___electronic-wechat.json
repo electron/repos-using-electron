@@ -5,7 +5,7 @@
   "owner": {
     "login": "geeeeeeeeek",
     "id": 7262715,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7262715?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7262715?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/geeeeeeeeek",
     "htmlUrl": "https://github.com/geeeeeeeeek",
@@ -20,21 +20,21 @@
   "description": ":speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.",
   "fork": false,
   "createdAt": "2016-02-18T09:09:53.000Z",
-  "updatedAt": "2017-05-04T19:21:49.000Z",
-  "pushedAt": "2017-04-30T04:57:04.000Z",
+  "updatedAt": "2017-10-23T15:06:24.000Z",
+  "pushedAt": "2017-07-03T15:22:42.000Z",
   "homepage": "",
-  "size": 1095,
-  "stargazersCount": 6904,
-  "watchersCount": 6904,
+  "size": 1102,
+  "stargazersCount": 8576,
+  "watchersCount": 8576,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1189,
-  "openIssuesCount": 86,
-  "openIssues": 86,
-  "watchers": 6904,
+  "forksCount": 1508,
+  "openIssuesCount": 112,
+  "openIssues": 112,
+  "watchers": 8576,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1189,
-  "subscribersCount": 367,
+  "networkCount": 1508,
+  "subscribersCount": 468,
   "status": 200,
   "packageJSON": {
     "name": "electronic-wechat",
@@ -68,21 +68,14 @@
       "build:win32": ".\\scripts\\build-win32.bat win32 ia32",
       "build:win64": ".\\scripts\\build-win32.bat win32 x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/geeeeeeeeek/wechat-electron.git"
-    },
+    "repository": "https://github.com/geeeeeeeeek/wechat-electron",
     "keywords": [
       "Electron",
       "WeChat",
       "微信",
       "Web"
     ],
-    "author": "Zhongyi Tong",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/geeeeeeeeek/wechat-electron/issues"
-    },
     "homepage": "https://github.com/geeeeeeeeek/wechat-electron/",
     "dependencies": {
       "electron": "1.4.15",
@@ -99,6 +92,12 @@
       "eslint-plugin-import": "^2.2.0",
       "eslint-plugin-jsx-a11y": "^4.0.0",
       "eslint-plugin-react": "^6.9.0"
+    },
+    "other": {
+      "author": "Zhongyi Tong",
+      "bugs": {
+        "url": "https://github.com/geeeeeeeeek/wechat-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "geeeeeeeeek___electronic-wechat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:52.466Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:29.001Z"
+  "lastFetchedAt": "2017-10-23T17:40:14.137Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:29.001Z",
+  "archived": false
 }

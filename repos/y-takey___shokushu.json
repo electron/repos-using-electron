@@ -5,7 +5,7 @@
   "owner": {
     "login": "y-takey",
     "id": 1817802,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1817802?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1817802?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/y-takey",
     "htmlUrl": "https://github.com/y-takey",
@@ -20,12 +20,12 @@
   "description": "Local video player using electron",
   "fork": false,
   "createdAt": "2016-01-10T06:04:02.000Z",
-  "updatedAt": "2017-03-22T14:22:01.000Z",
+  "updatedAt": "2017-06-20T05:48:13.000Z",
   "pushedAt": "2016-06-01T08:32:15.000Z",
   "homepage": null,
   "size": 39419,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 11,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "shokushu",
@@ -71,16 +71,9 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/y-takey/shokushu.git"
-    },
+    "repository": "https://github.com/y-takey/shokushu",
     "keywords": [],
-    "author": "y-takey",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/y-takey/shokushu/issues"
-    },
     "homepage": "https://github.com/y-takey/shokushu#readme",
     "devDependencies": {
       "asar": "^0.9.0",
@@ -154,6 +147,12 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": "y-takey",
+      "bugs": {
+        "url": "https://github.com/y-takey/shokushu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -201,6 +200,7 @@
   "svnUrl": "https://github.com/y-takey/shokushu",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:13:06.492Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:28.582Z"
+  "lastFetchedAt": "2017-10-23T18:06:09.014Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:28.582Z",
+  "archived": false
 }

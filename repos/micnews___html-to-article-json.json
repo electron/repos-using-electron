@@ -5,7 +5,7 @@
   "owner": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -20,21 +20,21 @@
   "description": "Parses & normalizes html to a well-structured & easy to use article json format",
   "fork": false,
   "createdAt": "2016-01-22T14:19:59.000Z",
-  "updatedAt": "2017-04-20T13:02:59.000Z",
-  "pushedAt": "2017-05-02T23:58:07.000Z",
+  "updatedAt": "2017-10-04T22:32:30.000Z",
+  "pushedAt": "2017-05-27T20:06:38.000Z",
   "homepage": "",
   "size": 301,
-  "stargazersCount": 27,
-  "watchersCount": 27,
+  "stargazersCount": 34,
+  "watchersCount": 34,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 7,
-  "openIssuesCount": 32,
-  "openIssues": 32,
-  "watchers": 27,
+  "forksCount": 8,
+  "openIssuesCount": 34,
+  "openIssues": 34,
+  "watchers": 34,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/micnews/received_events",
     "type": "Organization"
   },
-  "networkCount": 7,
-  "subscribersCount": 12,
+  "networkCount": 8,
+  "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
     "name": "html-to-article-json",
@@ -84,15 +84,8 @@
       "open-coverage": "npm run test:coverage && nyc report --reporter=lcov && open coverage/lcov-report/index.html",
       "test:node": "babel-tape-runner test/*-test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/micnews/html-to-article-json.git"
-    },
-    "author": "mic.com",
+    "repository": "https://github.com/micnews/html-to-article-json",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/micnews/html-to-article-json/issues"
-    },
     "homepage": "https://github.com/micnews/html-to-article-json#readme",
     "devDependencies": {
       "babel-cli": "^6.4.5",
@@ -131,9 +124,15 @@
     "pre-commit": [
       "test:coverage"
     ],
-    "directories": {
-      "example": "example",
-      "test": "test"
+    "other": {
+      "author": "mic.com",
+      "bugs": {
+        "url": "https://github.com/micnews/html-to-article-json/issues"
+      },
+      "directories": {
+        "example": "example",
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   },
   "filename": "micnews___html-to-article-json.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:19.892Z",
-  "packageLastFetchedAt": "2017-05-05T14:49:54.263Z"
+  "lastFetchedAt": "2017-10-23T19:10:08.775Z",
+  "packageLastFetchedAt": "2017-05-05T14:49:54.263Z",
+  "archived": false
 }

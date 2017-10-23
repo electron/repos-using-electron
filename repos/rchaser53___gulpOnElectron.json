@@ -5,7 +5,7 @@
   "owner": {
     "login": "rchaser53",
     "id": 9676954,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9676954?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9676954?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rchaser53",
     "htmlUrl": "https://github.com/rchaser53",
@@ -69,7 +69,7 @@
     "featured": false
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "electron-quick-start",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "babel": "^6.3.26",
@@ -157,6 +150,12 @@
       "webpack-dev-server": "^1.14.1",
       "webpack-hot-middleware": "^2.6.4",
       "webpack-stream": "^3.1.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -184,6 +183,7 @@
   },
   "filename": "rchaser53___gulpOnElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:55:26.486Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:17.465Z"
+  "lastFetchedAt": "2017-10-23T17:52:58.451Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:17.465Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "motemen",
     "id": 8465,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8465?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8465?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/motemen",
     "htmlUrl": "https://github.com/motemen",
@@ -57,7 +57,6 @@
       "setup-dev": "dtsm --insight false install",
       "dist": "npm run compile && mkdir -p dist && cp -R package.json app res view dist/ && ( cd dist/ && npm install --production ) && electron-packager dist/ 'AdSense Report Menubar' --overwrite --platform darwin --arch=x64 --version=0.33.1 --icon appicon.icns"
     },
-    "author": "motemen <https://github.com/motemen>",
     "license": "MIT",
     "devDependencies": {
       "dtsm": "^0.11.0",
@@ -68,6 +67,9 @@
     "dependencies": {
       "googleapis": "^2.1.5",
       "lodash.assign": "^3.2.0"
+    },
+    "other": {
+      "author": "motemen <https://github.com/motemen>"
     }
   },
   "packageStatus": 200,
@@ -115,6 +117,7 @@
   },
   "filename": "motemen___adsense-report-menubar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:06.941Z",
-  "packageLastFetchedAt": "2017-05-04T22:49:07.637Z"
+  "lastFetchedAt": "2017-10-23T18:20:31.383Z",
+  "packageLastFetchedAt": "2017-05-04T22:49:07.637Z",
+  "archived": false
 }

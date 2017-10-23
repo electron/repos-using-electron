@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "xpansso",
     "productName": "Xpansso",
@@ -111,19 +111,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "Wai-Yan Yoon",
-      "email": "waiyanyoon@gmail.com",
-      "url": "https://github.com/yoonwaiyan"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/xpansso/xpansso/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -218,6 +207,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x || 7.x",
       "npm": "3.x || 4.x"
+    },
+    "other": {
+      "author": {
+        "name": "Wai-Yan Yoon",
+        "email": "waiyanyoon@gmail.com",
+        "url": "https://github.com/yoonwaiyan"
+      },
+      "bugs": {
+        "url": "https://github.com/xpansso/xpansso/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -245,6 +244,6 @@
   },
   "filename": "xpansso___xpansso.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:49.228Z",
+  "lastFetchedAt": "2017-10-23T18:09:06.136Z",
   "packageLastFetchedAt": "2017-05-04T22:23:40.395Z"
 }

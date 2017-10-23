@@ -5,7 +5,7 @@
   "owner": {
     "login": "scribeGriff",
     "id": 1296901,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1296901?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1296901?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scribeGriff",
     "htmlUrl": "https://github.com/scribeGriff",
@@ -76,16 +76,12 @@
     "productName": "Convolv Desktop",
     "description": "A quad console desktop app for working with data",
     "version": "1.1.0",
-    "author": "Richard Griffith <sjefen@convo.lv>",
     "copyright": "© 2017, Convolv",
     "homepage": "https://convo.lv",
     "license": "MIT",
     "private": true,
     "main": "app/background.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/scribeGriff/convolv-desktop"
-    },
+    "repository": "https://github.com/scribeGriff/convolv-desktop",
     "build": {
       "appId": "lv.convo.convolv-desktop",
       "files": [
@@ -120,6 +116,9 @@
       "minimist": "^1.2.0",
       "rollup": "^0.36.3",
       "source-map-support": "^0.4.2"
+    },
+    "other": {
+      "author": "Richard Griffith <sjefen@convo.lv>"
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "scribeGriff___convolv-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:54:59.507Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:06.433Z"
+  "lastFetchedAt": "2017-10-23T17:27:21.744Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:06.433Z",
+  "archived": false
 }

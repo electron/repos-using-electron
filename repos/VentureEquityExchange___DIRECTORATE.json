@@ -5,7 +5,7 @@
   "owner": {
     "login": "VentureEquityExchange",
     "id": 16022437,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16022437?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16022437?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/VentureEquityExchange",
     "htmlUrl": "https://github.com/VentureEquityExchange",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "VentureEquityExchange",
     "id": 16022437,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16022437?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16022437?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/VentureEquityExchange",
     "htmlUrl": "https://github.com/VentureEquityExchange",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/VentureEquityExchange/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -92,10 +92,7 @@
       "start": "node_modules/.bin/electron .",
       "build": "electron-packager . $npm_package_productName --out=packaged --icon='icon.icns' --overwrite --ignore='^/packaged --prune --platform=darwin --arch=x64 --version=$npm_package_electronVersion"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/VentureEquityExchange/DIRECTORATE.git"
-    },
+    "repository": "https://github.com/VentureEquityExchange/DIRECTORATE",
     "keywords": [
       "VEX",
       "ETHEREUM",
@@ -104,11 +101,7 @@
       "EQUITY",
       "EXCHANGE"
     ],
-    "author": "Ryan M. Tate",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/VentureEquityExchange/DIRECTORATE/issues"
-    },
     "homepage": "https://github.com/VentureEquityExchange/DIRECTORATE#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.3.13",
@@ -172,6 +165,12 @@
       "to-utf-8": "^1.1.0",
       "utf82hex": "^0.1.1",
       "web3": "^0.15.1"
+    },
+    "other": {
+      "author": "Ryan M. Tate",
+      "bugs": {
+        "url": "https://github.com/VentureEquityExchange/DIRECTORATE/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -199,6 +198,7 @@
   },
   "filename": "VentureEquityExchange___DIRECTORATE.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:20.582Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:29.403Z"
+  "lastFetchedAt": "2017-10-23T17:54:40.710Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:29.403Z",
+  "archived": false
 }

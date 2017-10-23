@@ -5,7 +5,7 @@
   "owner": {
     "login": "radu-v",
     "id": 3645146,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3645146?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3645146?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/radu-v",
     "htmlUrl": "https://github.com/radu-v",
@@ -74,17 +74,13 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Radu Vasilascu",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -99,6 +95,9 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "Radu Vasilascu"
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "radu-v___soundcloud-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:10.523Z",
-  "packageLastFetchedAt": "2017-05-05T13:58:08.638Z"
+  "lastFetchedAt": "2017-10-23T18:28:27.306Z",
+  "packageLastFetchedAt": "2017-05-05T13:58:08.638Z",
+  "archived": false
 }

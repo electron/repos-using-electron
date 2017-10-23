@@ -5,7 +5,7 @@
   "owner": {
     "login": "infoskjermer-norge",
     "id": 19575350,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19575350?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19575350?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/infoskjermer-norge",
     "htmlUrl": "https://github.com/infoskjermer-norge",
@@ -79,12 +79,8 @@
       "update-player-raw": "./update-script.sh",
       "config-set": "electron config-set.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/infoskjermer-norge/player.git"
-    },
+    "repository": "https://github.com/infoskjermer-norge/player",
     "keywords": [],
-    "author": "Infoskjermer Norge AS",
     "homepage": "http://infoskjermer-norge.no",
     "devDependencies": {
       "electron-prebuilt": "1.2.1"
@@ -95,6 +91,9 @@
       "is-online": "^5.1.1",
       "raven": "^0.11.0",
       "socket.io-client": "^1.4.6"
+    },
+    "other": {
+      "author": "Infoskjermer Norge AS"
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "infoskjermer-norge___player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:48.160Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:19.280Z"
+  "lastFetchedAt": "2017-10-23T17:56:26.943Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:19.280Z",
+  "archived": false
 }

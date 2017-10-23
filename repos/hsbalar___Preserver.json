@@ -5,7 +5,7 @@
   "owner": {
     "login": "hsbalar",
     "id": 16349536,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16349536?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16349536?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hsbalar",
     "htmlUrl": "https://github.com/hsbalar",
@@ -20,21 +20,21 @@
   "description": "Preserver is desktop notes organiser built on electron, angular2, pouchDB",
   "fork": false,
   "createdAt": "2016-06-03T14:10:41.000Z",
-  "updatedAt": "2017-04-26T17:11:20.000Z",
+  "updatedAt": "2017-10-06T23:17:01.000Z",
   "pushedAt": "2017-04-25T17:05:42.000Z",
   "homepage": "http://www.hiteshbalar.com/preserver",
   "size": 5384,
-  "stargazersCount": 143,
-  "watchersCount": 143,
+  "stargazersCount": 163,
+  "watchersCount": 163,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 34,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 143,
+  "forksCount": 40,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 163,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 34,
-  "subscribersCount": 5,
+  "networkCount": 40,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "preserver",
@@ -57,17 +57,7 @@
     "version": "4.0.0",
     "description": "Preserver is an notes organizer desktop app based on Electron.",
     "main": "main.js",
-    "author": "Hitesh Balar <www.hiteshbalar.com>",
-    "contributors": [
-      {
-        "name": "Hitesh Balar",
-        "email": "hsbalar@gmail.com"
-      }
-    ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/hsbalar/Preserver.git"
-    },
+    "repository": "https://github.com/hsbalar/Preserver",
     "scripts": {
       "start": "node start-electron.js",
       "dev": "webpack-dev-server --content-base public/ --port 8080",
@@ -112,6 +102,15 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1",
       "webpack-merge": "^0.14.0"
+    },
+    "other": {
+      "author": "Hitesh Balar <www.hiteshbalar.com>",
+      "contributors": [
+        {
+          "name": "Hitesh Balar",
+          "email": "hsbalar@gmail.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "hsbalar___Preserver.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:19:33.774Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:44.246Z"
+  "lastFetchedAt": "2017-10-23T17:58:50.190Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:44.246Z",
+  "archived": false
 }

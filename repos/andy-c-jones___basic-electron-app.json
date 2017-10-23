@@ -5,7 +5,7 @@
   "owner": {
     "login": "andy-c-jones",
     "id": 2070987,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2070987?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2070987?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andy-c-jones",
     "htmlUrl": "https://github.com/andy-c-jones",
@@ -81,28 +81,27 @@
       "test": "mocha test/",
       "lint": "jshint **.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "mocha": "*",
       "jshint": "^2.9.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +128,7 @@
   },
   "filename": "andy-c-jones___basic-electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:05.846Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:45.059Z"
+  "lastFetchedAt": "2017-10-23T20:39:06.567Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:45.059Z",
+  "archived": false
 }

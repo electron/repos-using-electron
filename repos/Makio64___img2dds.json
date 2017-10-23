@@ -5,7 +5,7 @@
   "owner": {
     "login": "Makio64",
     "id": 213351,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/213351?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/213351?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Makio64",
     "htmlUrl": "https://github.com/Makio64",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Makio64/img2dds/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Makio64/img2dds/deployments",
   "createdAt": "2016-05-22T08:24:05.000Z",
-  "updatedAt": "2016-11-27T13:07:08.000Z",
+  "updatedAt": "2017-06-27T04:20:16.000Z",
   "pushedAt": "2016-06-12T02:07:25.000Z",
   "gitUrl": "git://github.com/Makio64/img2dds.git",
   "sshUrl": "git@github.com:Makio64/img2dds.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/Makio64/img2dds",
   "homepage": null,
   "size": 220,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 21,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "networkCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "img2dds",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/makio64/img2dds.git"
-    },
+    "repository": "https://github.com/makio64/img2dds",
     "keywords": [
       "dxt",
       "dds",
@@ -84,17 +81,19 @@
       "texture",
       "electron"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/makio64/img2dds/issues"
-    },
     "homepage": "https://github.com/makio64/img2dds#readme",
     "devDependencies": {
       "dxt": "^1.0.0",
       "electron-prebuilt": "^1.1.1",
       "is-power-of-two": "^1.0.0",
       "next-power-of-two": "^1.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/makio64/img2dds/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "Makio64___img2dds.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:51.731Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:34.242Z"
+  "lastFetchedAt": "2017-10-23T17:29:40.046Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:34.242Z",
+  "archived": false
 }

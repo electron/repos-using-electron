@@ -5,7 +5,7 @@
   "owner": {
     "login": "reginbald",
     "id": 5693892,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5693892?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5693892?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/reginbald",
     "htmlUrl": "https://github.com/reginbald",
@@ -79,23 +79,22 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Regin",
       "CMS",
       "Reginbald"
     ],
-    "author": "Jón Reginbald Ívarsson",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Jón Reginbald Ívarsson",
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "reginbald___regin-cms.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:42.713Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:02.210Z"
+  "lastFetchedAt": "2017-10-23T19:09:42.729Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:02.210Z",
+  "archived": false
 }

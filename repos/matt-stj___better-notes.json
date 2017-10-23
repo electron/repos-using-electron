@@ -5,7 +5,7 @@
   "owner": {
     "login": "matt-stj",
     "id": 5952473,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5952473?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5952473?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matt-stj",
     "htmlUrl": "https://github.com/matt-stj",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for bartleby goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -126,6 +121,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -174,6 +176,7 @@
   "svnUrl": "https://github.com/matt-stj/better-notes",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:21:43.547Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:26.612Z"
+  "lastFetchedAt": "2017-10-23T18:59:08.562Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:26.612Z",
+  "archived": false
 }

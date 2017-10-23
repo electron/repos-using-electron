@@ -5,7 +5,7 @@
   "owner": {
     "login": "21-23",
     "id": 25139128,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25139128?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25139128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/21-23",
     "htmlUrl": "https://github.com/21-23",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/21-23/css-quickdraw-redux/downloads",
   "deploymentsUrl": "https://api.github.com/repos/21-23/css-quickdraw-redux/deployments",
   "createdAt": "2015-06-14T18:16:21.000Z",
-  "updatedAt": "2017-04-29T23:59:22.000Z",
-  "pushedAt": "2016-12-08T12:21:51.000Z",
+  "updatedAt": "2017-05-30T16:55:19.000Z",
+  "pushedAt": "2017-09-19T10:26:57.000Z",
   "gitUrl": "git://github.com/21-23/css-quickdraw-redux.git",
   "sshUrl": "git@github.com:21-23/css-quickdraw-redux.git",
   "cloneUrl": "https://github.com/21-23/css-quickdraw-redux.git",
   "svnUrl": "https://github.com/21-23/css-quickdraw-redux",
   "homepage": null,
-  "size": 5611,
-  "stargazersCount": 15,
-  "watchersCount": 15,
+  "size": 5545,
+  "stargazersCount": 16,
+  "watchersCount": 16,
   "language": "CoffeeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 58,
   "openIssues": 58,
-  "watchers": 15,
+  "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -76,9 +76,6 @@
     "version": "1.0.0",
     "description": "CSS Selector Multiplayer Puzzle",
     "main": "webpack.config.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "coffeelint": "find . ! -path \"./node_modules/*\" -path \"*.coffee\" | xargs ./node_modules/coffeelint/bin/coffeelint",
       "dev": "NODE_ENV=dev npm start",
@@ -92,15 +89,8 @@
       "test-backend": "NODE_ENV=test NODE_PATH=./ mocha --compilers coffee:coffee-script/register --require ./test/chai.coffee --recursive --reporter spec",
       "test-frontend": "node ./node_modules/karma/bin/karma start ./karma.conf.coffee --single-run"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/DaQuirm/css-quickdraw-redux.git"
-    },
-    "author": "",
+    "repository": "https://github.com/DaQuirm/css-quickdraw-redux",
     "license": "LGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/DaQuirm/css-quickdraw-redux/issues"
-    },
     "homepage": "https://github.com/DaQuirm/css-quickdraw-redux",
     "engines": {
       "node": "6.9.1"
@@ -158,6 +148,15 @@
       "passport-github": "^1.0.0",
       "passport-google-auth": "^1.0.0",
       "passport-twitter": "^1.0.3"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/DaQuirm/css-quickdraw-redux/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -188,7 +187,7 @@
   "organization": {
     "login": "21-23",
     "id": 25139128,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25139128?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25139128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/21-23",
     "htmlUrl": "https://github.com/21-23",
@@ -199,6 +198,7 @@
     "receivedEventsUrl": "https://api.github.com/users/21-23/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T18:11:10.621Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:44.920Z"
+  "lastFetchedAt": "2017-10-23T18:33:54.173Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:44.920Z",
+  "archived": false
 }

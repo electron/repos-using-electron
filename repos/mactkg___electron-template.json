@@ -5,7 +5,7 @@
   "owner": {
     "login": "mactkg",
     "id": 178418,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/178418?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/178418?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mactkg",
     "htmlUrl": "https://github.com/mactkg",
@@ -67,7 +67,6 @@
       "build:node": "browserify -t babelify ./boot.js -d --im --no-detect-globals --node | exorcist ./dist/boot.js.map > ./dist/boot.js",
       "build:client": "browserify -t babelify app/index.js -d | exorcist ./app/dist/js/bundle.js.map > ./app/dist/js/bundle.js"
     },
-    "author": "mactkg <mactkg@gmail.com> (http://makerbox.net/)",
     "license": "ISC",
     "dependencies": {
       "electron-prebuilt": "^0.37.2"
@@ -80,6 +79,9 @@
       "npm-run-all": "^1.5.3",
       "wait-on": "^1.4.0",
       "watchify": "^3.7.0"
+    },
+    "other": {
+      "author": "mactkg <mactkg@gmail.com> (http://makerbox.net/)"
     }
   },
   "packageStatus": 200,
@@ -127,6 +129,7 @@
   "svnUrl": "https://github.com/mactkg/electron-template",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:18:25.812Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:01.455Z"
+  "lastFetchedAt": "2017-10-23T17:31:48.200Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:01.455Z",
+  "archived": false
 }

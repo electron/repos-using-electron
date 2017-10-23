@@ -5,7 +5,7 @@
   "owner": {
     "login": "lorderikir",
     "id": 5687681,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5687681?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5687681?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lorderikir",
     "htmlUrl": "https://github.com/lorderikir",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "Joshua-Xavier",
       "id": 12482943,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/12482943?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12482943?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Joshua-Xavier",
       "htmlUrl": "https://github.com/Joshua-Xavier",
@@ -117,6 +117,7 @@
     "hasPages": false,
     "forksCount": 0,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -129,7 +130,7 @@
     "owner": {
       "login": "Joshua-Xavier",
       "id": 12482943,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/12482943?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/12482943?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Joshua-Xavier",
       "htmlUrl": "https://github.com/Joshua-Xavier",
@@ -177,6 +178,7 @@
     "hasPages": false,
     "forksCount": 0,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -190,21 +192,14 @@
     "version": "0.1.0",
     "description": "A Monash University Degree Planner.",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MonashUnitPlanner/monPlan.git"
-    },
+    "repository": "https://github.com/MonashUnitPlanner/monPlan",
     "keywords": [
       "Monash Uni",
       "degree",
       "course planner",
       "electron"
     ],
-    "author": "monPlan",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MonashUnitPlanner/monPlan/issues"
-    },
     "devDependencies": {
       "grunt": "~1.0.1",
       "grunt-contrib-clean": "~1.0.0",
@@ -225,6 +220,12 @@
       "grunt-bower": "^0.21.3",
       "grunt-contrib-watch": "^1.0.0",
       "grunt-ejs": "^0.3.0"
+    },
+    "other": {
+      "author": "monPlan",
+      "bugs": {
+        "url": "https://github.com/MonashUnitPlanner/monPlan/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -253,6 +254,7 @@
   "filename": "lorderikir___monPlan.json",
   "sourceRepo": "MonashUnitPlanner/monPlan",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:13.235Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:49.945Z"
+  "lastFetchedAt": "2017-10-23T21:04:11.779Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:49.945Z",
+  "archived": false
 }

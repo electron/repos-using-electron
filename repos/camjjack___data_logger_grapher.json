@@ -5,7 +5,7 @@
   "owner": {
     "login": "camjjack",
     "id": 10096130,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10096130?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10096130?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/camjjack",
     "htmlUrl": "https://github.com/camjjack",
@@ -71,11 +71,6 @@
     "version": "0.0.6",
     "main": "main.js",
     "description": "Compares two temperature data logger data sets use for refrigeration and print graphs and data associated with cooling periods etc.",
-    "author": {
-      "name": "Cameron Jack",
-      "email": "camjjack@gmail.com",
-      "url": "https://github.com/camjjack"
-    },
     "browserify": {
       "transform": [
         "browserify-shim"
@@ -119,10 +114,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/camjjack/data_logger_grapher.git"
-    },
+    "repository": "https://github.com/camjjack/data_logger_grapher",
     "scripts": {
       "start": "electron .",
       "pack": "build --dir",
@@ -132,9 +124,6 @@
       "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/camjjack/data_logger_grapher/issues"
-    },
     "devDependencies": {
       "asn1": "^0.2.3",
       "chai": "^3.5.0",
@@ -155,6 +144,16 @@
       "standard": "^8.6.0",
       "winston": "^2.3.0",
       "xlsx-extractor": "^1.0.3"
+    },
+    "other": {
+      "author": {
+        "name": "Cameron Jack",
+        "email": "camjjack@gmail.com",
+        "url": "https://github.com/camjjack"
+      },
+      "bugs": {
+        "url": "https://github.com/camjjack/data_logger_grapher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +181,7 @@
   },
   "filename": "camjjack___data_logger_grapher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:27:48.810Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:45.471Z"
+  "lastFetchedAt": "2017-10-23T17:40:02.382Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:45.471Z",
+  "archived": false
 }

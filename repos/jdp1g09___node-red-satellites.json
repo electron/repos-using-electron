@@ -6,7 +6,7 @@
   "owner": {
     "login": "jdp1g09",
     "id": 7125236,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7125236?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7125236?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdp1g09",
     "htmlUrl": "https://github.com/jdp1g09",
@@ -73,7 +73,7 @@
   "networkCount": 2,
   "subscribersCount": 3,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:17:08.832Z",
+  "lastFetchedAt": "2017-10-23T17:27:07.720Z",
   "packageJSON": {
     "name": "node-red-contrib-satellites",
     "version": "0.1.1",
@@ -85,10 +85,7 @@
       "satellite.js": "^1.3.0",
       "socket.io": "^1.7.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jdp1g09/node-red-satellites"
-    },
+    "repository": "https://github.com/jdp1g09/node-red-satellites",
     "license": "Apache-2.0",
     "keywords": [
       "node-red",
@@ -101,12 +98,15 @@
         "satellites": "satellites.js"
       }
     },
-    "author": {
-      "name": "Joe Pavitt",
-      "email": "joe_pavitt@hotmail.com",
-      "url": "http://nodered.org"
+    "other": {
+      "author": {
+        "name": "Joe Pavitt",
+        "email": "joe_pavitt@hotmail.com",
+        "url": "http://nodered.org"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:42:23.259Z"
+  "packageLastFetchedAt": "2017-05-04T22:42:23.259Z",
+  "archived": false
 }

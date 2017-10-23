@@ -5,7 +5,7 @@
   "owner": {
     "login": "OleksiiZubko",
     "id": 10045303,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10045303?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10045303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OleksiiZubko",
     "htmlUrl": "https://github.com/OleksiiZubko",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -81,21 +81,14 @@
       "postinstall": "install-app-deps",
       "buildForWindows": "electron-packager ./ --platform=win32 --arch=x64 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OleksiiZubko/webCamSecurity.git"
-    },
+    "repository": "https://github.com/OleksiiZubko/webCamSecurity",
     "keywords": [
       "Electron",
       "webcam",
       "security",
       "home"
     ],
-    "author": "Oleksii Zubko",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/OleksiiZubko/webCamSecurity/issues"
-    },
     "homepage": "https://github.com/OleksiiZubko/webCamSecurity#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0",
@@ -103,6 +96,12 @@
     },
     "dependencies": {
       "msr": "^1.2.9"
+    },
+    "other": {
+      "author": "Oleksii Zubko",
+      "bugs": {
+        "url": "https://github.com/OleksiiZubko/webCamSecurity/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "OleksiiZubko___webCamSecurity.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:30.928Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:21.190Z"
+  "lastFetchedAt": "2017-10-23T18:46:24.211Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:21.190Z",
+  "archived": false
 }

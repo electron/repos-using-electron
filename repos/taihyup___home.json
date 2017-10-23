@@ -5,7 +5,7 @@
   "owner": {
     "login": "taihyup",
     "id": 19518983,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19518983?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19518983?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/taihyup",
     "htmlUrl": "https://github.com/taihyup",
@@ -76,21 +76,14 @@
       "microphone-debug": "electron scripts/microphone-debug/main.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Smart Mirror",
       "IoT",
       "Voice Control",
       "DIY"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "install": "^0.8.1",
@@ -105,6 +98,12 @@
       "fitbit-oauth2": "0.0.1",
       "fs": "0.0.2",
       "electron-json-storage": "2.0.0"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "taihyup___home.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:10.427Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:21.091Z"
+  "lastFetchedAt": "2017-10-23T18:55:49.299Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:21.091Z",
+  "archived": false
 }

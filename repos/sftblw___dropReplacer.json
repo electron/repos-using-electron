@@ -5,7 +5,7 @@
   "owner": {
     "login": "sftblw",
     "id": 5573010,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5573010?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5573010?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sftblw",
     "htmlUrl": "https://github.com/sftblw",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/sftblw/dropReplacer/deployments",
   "createdAt": "2016-10-23T07:50:51.000Z",
   "updatedAt": "2016-10-27T20:15:06.000Z",
-  "pushedAt": "2016-11-28T14:20:44.000Z",
+  "pushedAt": "2017-05-08T09:54:43.000Z",
   "gitUrl": "git://github.com/sftblw/dropReplacer.git",
   "sshUrl": "git@github.com:sftblw/dropReplacer.git",
   "cloneUrl": "https://github.com/sftblw/dropReplacer.git",
   "svnUrl": "https://github.com/sftblw/dropReplacer",
   "homepage": "",
-  "size": 499,
+  "size": 502,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -74,11 +74,13 @@
       "start": "electron .",
       "build": "node ./task/build.js"
     },
-    "author": "sftblw",
     "license": "BSD-2-Clause",
     "devDependencies": {
       "electron-packager": "^8.0.0",
       "electron-prebuilt": "^1.3.5"
+    },
+    "other": {
+      "author": "sftblw"
     }
   },
   "packageStatus": 200,
@@ -106,6 +108,7 @@
   },
   "filename": "sftblw___dropReplacer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:23:55.386Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:07.741Z"
+  "lastFetchedAt": "2017-10-23T18:59:15.538Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:07.741Z",
+  "archived": false
 }

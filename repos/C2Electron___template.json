@@ -6,7 +6,7 @@
   "owner": {
     "login": "C2Electron",
     "id": 24421609,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/24421609?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/24421609?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/C2Electron",
     "htmlUrl": "https://github.com/C2Electron",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/C2Electron/template",
-  "description": null,
+  "description": "A prebuilt version of electron ready for Construct 2 games",
   "fork": false,
   "url": "https://api.github.com/repos/C2Electron/template",
   "forksUrl": "https://api.github.com/repos/C2Electron/template/forks",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/C2Electron/template/downloads",
   "deploymentsUrl": "https://api.github.com/repos/C2Electron/template/deployments",
   "createdAt": "2016-12-06T23:27:00.000Z",
-  "updatedAt": "2016-12-07T00:52:05.000Z",
-  "pushedAt": "2016-12-12T21:49:28.000Z",
+  "updatedAt": "2017-07-18T14:59:18.000Z",
+  "pushedAt": "2017-10-06T13:56:10.000Z",
   "gitUrl": "git://github.com/C2Electron/template.git",
   "sshUrl": "git@github.com:C2Electron/template.git",
   "cloneUrl": "https://github.com/C2Electron/template.git",
   "svnUrl": "https://github.com/C2Electron/template",
-  "homepage": null,
-  "size": 884,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "homepage": "",
+  "size": 976,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -53,9 +53,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "C2Electron",
     "id": 24421609,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/24421609?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/24421609?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/C2Electron",
     "htmlUrl": "https://github.com/C2Electron",
@@ -84,7 +84,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-quick-start",
@@ -94,21 +94,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4"
@@ -121,6 +114,12 @@
       "gulp": "^3.9.1",
       "gulp-watch": "^4.3.11",
       "jquery": "^3.1.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:57.101Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:04.615Z"
+  "lastFetchedAt": "2017-10-23T21:01:08.173Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:04.615Z",
+  "archived": false
 }

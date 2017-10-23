@@ -5,7 +5,7 @@
   "owner": {
     "login": "asidiali",
     "id": 5695057,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5695057?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5695057?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/asidiali",
     "htmlUrl": "https://github.com/asidiali",
@@ -81,15 +81,8 @@
       "build": "webpack",
       "deploy": "git checkout -q production && echo '1) MERGING MASTER INTO PRODUCTION' && git merge -q master && echo '2) BUILDING PRODUCTION' && webpack && echo '3) PUSHING PRODUCTION TO REMOTE' && git push -q && echo 'PRODUCTION DEPLOYMENT PENDING.' && git checkout -q master"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/asidiali/pivotal-press.git"
-    },
-    "author": "adamsidiali",
+    "repository": "https://github.com/asidiali/pivotal-press",
     "license": "GPL",
-    "bugs": {
-      "url": "https://github.com/asidiali/pivotal-press/issues"
-    },
     "homepage": "https://github.com/asidiali/pivotal-press#readme",
     "devDependencies": {
       "babel-core": "^6.17.0",
@@ -129,6 +122,12 @@
       "relpers": "^1.3.3",
       "request": "^2.76.0",
       "webpack": "^1.13.2"
+    },
+    "other": {
+      "author": "adamsidiali",
+      "bugs": {
+        "url": "https://github.com/asidiali/pivotal-press/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "asidiali___pivotal.press.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:03.768Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:19.472Z"
+  "lastFetchedAt": "2017-10-23T18:20:05.893Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:19.472Z",
+  "archived": false
 }

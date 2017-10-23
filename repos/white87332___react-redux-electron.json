@@ -5,7 +5,7 @@
   "owner": {
     "login": "white87332",
     "id": 2655810,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2655810?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2655810?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/white87332",
     "htmlUrl": "https://github.com/white87332",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-03-02T09:52:56.000Z",
   "updatedAt": "2016-10-24T04:54:35.000Z",
-  "pushedAt": "2017-03-23T02:11:12.000Z",
+  "pushedAt": "2017-10-17T06:03:40.000Z",
   "homepage": "",
-  "size": 201,
+  "size": 211,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -57,20 +57,13 @@
       "prod": "electron build/main.js",
       "build": "NODE_ENV=production webpack -p --config webpack.server.prod.config.js && NODE_ENV=production webpack -p --config webpack.client.prod.config.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/white87332/react-redux-electron.git"
-    },
+    "repository": "https://github.com/white87332/react-redux-electron",
     "keywords": [
       "electron",
       "react",
       "redux"
     ],
-    "author": "Tony Jiang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/white87332/react-redux-electron.git/issues"
-    },
     "homepage": "https://github.com/white87332/react-redux-electron.git#readme",
     "dependencies": {
       "deep-equal": "^1.0.1",
@@ -116,6 +109,12 @@
       "webpack": "^1.14.0",
       "webpack-dev-middleware": "^1.10.1",
       "webpack-hot-middleware": "^2.17.1"
+    },
+    "other": {
+      "author": "Tony Jiang",
+      "bugs": {
+        "url": "https://github.com/white87332/react-redux-electron.git/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   "svnUrl": "https://github.com/white87332/react-redux-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:43:41.251Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:42.618Z"
+  "lastFetchedAt": "2017-10-23T19:20:37.903Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:42.618Z",
+  "archived": false
 }

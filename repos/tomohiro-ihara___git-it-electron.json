@@ -5,7 +5,7 @@
   "owner": {
     "login": "tomohiro-ihara",
     "id": 15097595,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15097595?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15097595?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomohiro-ihara",
     "htmlUrl": "https://github.com/tomohiro-ihara",
@@ -98,15 +98,8 @@
       "pack-lin": "electron-packager . Git-it --platform=linux  --arch=x64   --icon=assets/git-it.png  --overwrite --ignore=out --ignore=assets/PortableGit --prune=true --out=out",
       "pack-win": "electron-packager . Git-it --platform=win32  --arch=ia32  --icon=assets/git-it.ico  --overwrite --ignore=out --prune=true --out=out "
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jlord/git-it-electron.git"
-    },
-    "author": "Jessica Lord",
+    "repository": "https://github.com/jlord/git-it-electron",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/jlord/git-it-electron/issues"
-    },
     "homepage": "https://github.com/jlord/git-it-electron",
     "devDependencies": {
       "electron-packager": "^5.2.0",
@@ -118,6 +111,12 @@
       "glob": "^5.0.5",
       "handlebars": "^3.0.3",
       "request": "^2.57.0"
+    },
+    "other": {
+      "author": "Jessica Lord",
+      "bugs": {
+        "url": "https://github.com/jlord/git-it-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "filename": "tomohiro-ihara___git-it-electron.json",
   "sourceRepo": "jlord/git-it-electron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:31.139Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:55.099Z"
+  "lastFetchedAt": "2017-10-23T18:52:38.931Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:55.099Z",
+  "archived": false
 }

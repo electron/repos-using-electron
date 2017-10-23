@@ -50,17 +50,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gulp-mocha-electron",
     "version": "1.0.0",
     "description": "Run client-side Mocha tests in Electron",
     "license": "MIT",
     "repository": "mrmlnc/gulp-mocha-electron",
-    "author": {
-      "name": "Denis Malinochkin",
-      "url": "canonium.com"
-    },
     "engines": {
       "node": ">=4.0.0"
     },
@@ -129,6 +125,12 @@
         "node",
         "mocha"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Denis Malinochkin",
+        "url": "canonium.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +178,6 @@
   "svnUrl": "https://github.com/mrmlnc/gulp-mocha-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:41:17.010Z",
+  "lastFetchedAt": "2017-10-23T17:25:27.542Z",
   "packageLastFetchedAt": "2017-05-05T15:21:13.125Z"
 }

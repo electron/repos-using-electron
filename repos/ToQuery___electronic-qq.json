@@ -6,7 +6,7 @@
   "owner": {
     "login": "ToQuery",
     "id": 8196704,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8196704?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8196704?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ToQuery",
     "htmlUrl": "https://github.com/ToQuery",
@@ -89,18 +89,11 @@
       "build:win32": ".\\scripts\\build-win32.bat win32 ia32",
       "build:win64": ".\\scripts\\build-win32.bat win32 x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ToQuery/electronic-qq.git"
-    },
+    "repository": "https://github.com/ToQuery/electronic-qq",
     "keywords": [
       "QQ"
     ],
-    "author": "ToQuery",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ToQuery/electronic-qq.git"
-    },
     "homepage": "https://github.com/ToQuery/electronic-qq.git",
     "dependencies": {
       "electron": "^1.4.6",
@@ -115,6 +108,12 @@
       "eslint-plugin-import": "^2.2.0",
       "eslint-plugin-jsx-a11y": "^3.0.1",
       "eslint-plugin-react": "^6.1.2"
+    },
+    "other": {
+      "author": "ToQuery",
+      "bugs": {
+        "url": "https://github.com/ToQuery/electronic-qq.git"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:41:10.205Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:28.022Z"
+  "lastFetchedAt": "2017-10-23T18:54:32.039Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:28.022Z",
+  "archived": false
 }

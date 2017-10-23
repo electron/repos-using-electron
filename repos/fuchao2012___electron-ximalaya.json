@@ -6,7 +6,7 @@
   "owner": {
     "login": "fuchao2012",
     "id": 5637185,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5637185?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5637185?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fuchao2012",
     "htmlUrl": "https://github.com/fuchao2012",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "hbprotoss",
       "id": 2310905,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2310905?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2310905?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/hbprotoss",
       "htmlUrl": "https://github.com/hbprotoss",
@@ -118,6 +118,7 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -130,7 +131,7 @@
     "owner": {
       "login": "hbprotoss",
       "id": 2310905,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/2310905?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2310905?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/hbprotoss",
       "htmlUrl": "https://github.com/hbprotoss",
@@ -178,6 +179,7 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -194,21 +196,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.4.10",
@@ -216,6 +211,12 @@
     },
     "dependencies": {
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -243,6 +244,7 @@
   },
   "sourceRepo": "hbprotoss/electron-ximalaya",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:19:50.377Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:52.540Z"
+  "lastFetchedAt": "2017-10-23T20:17:41.189Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:52.540Z",
+  "archived": false
 }

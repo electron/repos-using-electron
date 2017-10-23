@@ -5,7 +5,7 @@
   "owner": {
     "login": "kirualex",
     "id": 431974,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/431974?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/431974?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kirualex",
     "htmlUrl": "https://github.com/kirualex",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "amilajack",
       "id": 6374832,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6374832?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6374832?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/amilajack",
       "htmlUrl": "https://github.com/amilajack",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/amilajack/popcorn-time-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/amilajack/popcorn-time-desktop/deployments",
     "createdAt": "2016-04-28T05:27:16.000Z",
-    "updatedAt": "2017-05-01T17:48:47.000Z",
-    "pushedAt": "2016-12-29T02:36:54.000Z",
+    "updatedAt": "2017-10-20T18:22:11.000Z",
+    "pushedAt": "2017-10-14T02:37:01.000Z",
     "gitUrl": "git://github.com/amilajack/popcorn-time-desktop.git",
     "sshUrl": "git@github.com:amilajack/popcorn-time-desktop.git",
     "cloneUrl": "https://github.com/amilajack/popcorn-time-desktop.git",
     "svnUrl": "https://github.com/amilajack/popcorn-time-desktop",
     "homepage": "",
-    "size": 20701,
-    "stargazersCount": 105,
-    "watchersCount": 105,
+    "size": 30550,
+    "stargazersCount": 146,
+    "watchersCount": 146,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 22,
+    "forksCount": 32,
     "mirrorUrl": null,
-    "openIssuesCount": 29,
-    "openIssues": 29,
-    "watchers": 105,
+    "archived": false,
+    "openIssuesCount": 15,
+    "openIssues": 15,
+    "watchers": 146,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "amilajack",
       "id": 6374832,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6374832?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6374832?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/amilajack",
       "htmlUrl": "https://github.com/amilajack",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/amilajack/popcorn-time-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/amilajack/popcorn-time-desktop/deployments",
     "createdAt": "2016-04-28T05:27:16.000Z",
-    "updatedAt": "2017-05-01T17:48:47.000Z",
-    "pushedAt": "2016-12-29T02:36:54.000Z",
+    "updatedAt": "2017-10-20T18:22:11.000Z",
+    "pushedAt": "2017-10-14T02:37:01.000Z",
     "gitUrl": "git://github.com/amilajack/popcorn-time-desktop.git",
     "sshUrl": "git@github.com:amilajack/popcorn-time-desktop.git",
     "cloneUrl": "https://github.com/amilajack/popcorn-time-desktop.git",
     "svnUrl": "https://github.com/amilajack/popcorn-time-desktop",
     "homepage": "",
-    "size": 20701,
-    "stargazersCount": 105,
-    "watchersCount": 105,
+    "size": 30550,
+    "stargazersCount": 146,
+    "watchersCount": 146,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 22,
+    "forksCount": 32,
     "mirrorUrl": null,
-    "openIssuesCount": 29,
-    "openIssues": 29,
-    "watchers": 105,
+    "archived": false,
+    "openIssuesCount": 15,
+    "openIssues": 15,
+    "watchers": 146,
     "defaultBranch": "master"
   },
-  "networkCount": 22,
+  "networkCount": 32,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -191,19 +193,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amilajack/popcorn-time-desktop.git"
-    },
-    "author": {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
-    },
+    "repository": "https://github.com/amilajack/popcorn-time-desktop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/amilajack/popcorn-time-desktop/issues"
-    },
     "keywords": [
       "popcorn-time",
       "popcorn",
@@ -221,10 +212,6 @@
       "win": {
         "iconUrl": "https://cdn.rawgit.com/amilajack/popcorn-time-desktop/master/app/icons/app.ico"
       }
-    },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
     },
     "wcjs-prebuilt": {
       "runtime": "electron",
@@ -339,6 +326,20 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Amila Welihinda",
+        "email": "amilajack@gmail.com",
+        "url": "https://github.com/amilajack"
+      },
+      "bugs": {
+        "url": "https://github.com/amilajack/popcorn-time-desktop/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -387,6 +388,7 @@
   "svnUrl": "https://github.com/kirualex/popcorn-time-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:33:54.208Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:58.908Z"
+  "lastFetchedAt": "2017-10-23T17:30:11.226Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:58.908Z",
+  "archived": false
 }

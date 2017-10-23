@@ -5,7 +5,7 @@
   "owner": {
     "login": "CodePicnic",
     "id": 10554029,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10554029?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10554029?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CodePicnic",
     "htmlUrl": "https://github.com/CodePicnic",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "CodePicnic",
     "id": 10554029,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10554029?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10554029?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CodePicnic",
     "htmlUrl": "https://github.com/CodePicnic",
@@ -95,15 +95,8 @@
       "build": "browserify app/index.js -t babelify -o assets/js/index.js --debug --verbose",
       "watch": "watchify app/index.js -t babelify -o assets/js/index.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/codepicnic/codepicnic-desktop.git"
-    },
-    "author": "Gustavo Leon <gustavo@codepicnic.com>",
+    "repository": "https://github.com/codepicnic/codepicnic-desktop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/codepicnic/codepicnic-desktop/issues"
-    },
     "homepage": "https://github.com/codepicnic/codepicnic-desktop#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
@@ -117,6 +110,12 @@
       "moment": "^2.13.0",
       "react": "^15.1.0",
       "react-dom": "^15.1.0"
+    },
+    "other": {
+      "author": "Gustavo Leon <gustavo@codepicnic.com>",
+      "bugs": {
+        "url": "https://github.com/codepicnic/codepicnic-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "filename": "CodePicnic___codepicnic-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:26:56.266Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:48.185Z"
+  "lastFetchedAt": "2017-10-23T20:10:41.255Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:48.185Z",
+  "archived": false
 }

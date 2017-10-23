@@ -5,7 +5,7 @@
   "owner": {
     "login": "uhlryk",
     "id": 6841095,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6841095?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6841095?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uhlryk",
     "htmlUrl": "https://github.com/uhlryk",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 2,
   "openIssues": 2,
   "watchers": 2,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -65,10 +65,7 @@
     ],
     "main": "src/main.js",
     "homepage": "https://github.com/uhlryk/my-electron-boilerplate",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/uhlryk/my-electron-boilerplate.git"
-    },
+    "repository": "https://github.com/uhlryk/my-electron-boilerplate",
     "scripts": {
       "prebuild": "gulp prebuild",
       "release": "gulp build",
@@ -76,10 +73,6 @@
     },
     "electronVersion": "v0.36.4",
     "license": "MIT",
-    "author": "Krzysztof Sztompka <sztompka.krzysztof@gmail.com>",
-    "bugs": {
-      "url": "https://github.com/uhlryk/my-electron-boilerplate/issues"
-    },
     "devDependencies": {
       "babel-core": "^6.4.0",
       "babel-eslint": "^5.0.0-beta6",
@@ -118,6 +111,12 @@
       "react-router": "^2.0.0-rc5",
       "redux": "^3.0.5",
       "redux-thunk": "^1.0.3"
+    },
+    "other": {
+      "author": "Krzysztof Sztompka <sztompka.krzysztof@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/uhlryk/my-electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   "svnUrl": "https://github.com/uhlryk/my-electron-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:30:09.186Z",
-  "packageLastFetchedAt": "2017-05-05T15:42:21.311Z"
+  "lastFetchedAt": "2017-10-23T19:29:49.804Z",
+  "packageLastFetchedAt": "2017-05-05T15:42:21.311Z",
+  "archived": false
 }

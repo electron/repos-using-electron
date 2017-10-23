@@ -5,7 +5,7 @@
   "owner": {
     "login": "hasit",
     "id": 1553055,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1553055?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1553055?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hasit",
     "htmlUrl": "https://github.com/hasit",
@@ -77,17 +77,7 @@
       "build:macos": "electron-packager . \"LoL Status\" --overwrite --out=dist --platform=darwin --arch=x64 --icon=public/icons/icon.icns --prune --ignore=dist --ignore=app --ignore=assets --ignore=README.md --ignore=.gitignore --ignore=.babelrc",
       "build:win": "electron-packager . \"LoL Status\" --overwrite --out=dist --platform=win32 --arch=x64 --icon=public/icons/win/icon.ico --prune --ignore=dist --ignore=app --ignore=assets --ignore=README.md --ignore=.gitignore --ignore=.babelrc"
     },
-    "author": {
-      "name": "Hasit Mistry",
-      "email": "hasitnm@gmail.com"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hasit/lolstatus"
-    },
-    "bugs": {
-      "url": "https://github.com/hasit/lolstatus/issues"
-    },
+    "repository": "https://github.com/hasit/lolstatus",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -104,6 +94,15 @@
       "react": "^0.14.8",
       "react-dom": "^0.14.7",
       "react-select": "^1.0.0-rc.2"
+    },
+    "other": {
+      "author": {
+        "name": "Hasit Mistry",
+        "email": "hasitnm@gmail.com"
+      },
+      "bugs": {
+        "url": "https://github.com/hasit/lolstatus/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "hasit___lolstatus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:54.706Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:21.712Z"
+  "lastFetchedAt": "2017-10-23T20:43:07.708Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:21.712Z",
+  "archived": false
 }

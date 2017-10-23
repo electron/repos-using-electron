@@ -5,7 +5,7 @@
   "owner": {
     "login": "honake",
     "id": 17617220,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17617220?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17617220?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/honake",
     "htmlUrl": "https://github.com/honake",
@@ -74,19 +74,18 @@
       "start": "electron main.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/honake/markdown.git"
-    },
+    "repository": "https://github.com/honake/markdown",
     "keywords": [],
-    "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/honake/markdown/issues"
-    },
     "homepage": "https://github.com/honake/markdown#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/honake/markdown/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,7 @@
   },
   "filename": "honake___markdown.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:01.591Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:45.816Z"
+  "lastFetchedAt": "2017-10-23T20:12:31.410Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:45.816Z",
+  "archived": false
 }

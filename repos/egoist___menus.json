@@ -5,7 +5,7 @@
   "owner": {
     "login": "egoist",
     "id": 8784712,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8784712?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8784712?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/egoist",
     "htmlUrl": "https://github.com/egoist",
@@ -36,7 +36,7 @@
   "deploymentsUrl": "https://api.github.com/repos/egoist/menus/deployments",
   "createdAt": "2016-09-29T03:36:14.000Z",
   "updatedAt": "2016-12-06T13:42:14.000Z",
-  "pushedAt": "2016-09-29T03:44:17.000Z",
+  "pushedAt": "2017-07-25T13:55:24.000Z",
   "gitUrl": "git://github.com/egoist/menus.git",
   "sshUrl": "git@github.com:egoist/menus.git",
   "cloneUrl": "https://github.com/egoist/menus.git",
@@ -77,11 +77,6 @@
     "description": "Menus app using Electron",
     "license": "MIT",
     "repository": "egoist/menus",
-    "author": {
-      "name": "EGOIST",
-      "email": "0x142857@gmail.com",
-      "url": "github.com/egoist"
-    },
     "engines": {
       "node": ">=4"
     },
@@ -104,6 +99,13 @@
     },
     "eslintConfig": {
       "extends": "egoist/esnext"
+    },
+    "other": {
+      "author": {
+        "name": "EGOIST",
+        "email": "0x142857@gmail.com",
+        "url": "github.com/egoist"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +133,7 @@
   },
   "filename": "egoist___menus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:16.479Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:40.436Z"
+  "lastFetchedAt": "2017-10-23T17:43:06.307Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:40.436Z",
+  "archived": false
 }

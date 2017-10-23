@@ -6,7 +6,7 @@
   "owner": {
     "login": "electron-userland",
     "id": 17519142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17519142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17519142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-userland",
     "htmlUrl": "https://github.com/electron-userland",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/electron-userland/electron-spellchecker/downloads",
   "deploymentsUrl": "https://api.github.com/repos/electron-userland/electron-spellchecker/deployments",
   "createdAt": "2016-06-01T05:42:52.000Z",
-  "updatedAt": "2017-04-28T14:18:05.000Z",
-  "pushedAt": "2017-04-25T19:29:18.000Z",
+  "updatedAt": "2017-10-16T15:33:43.000Z",
+  "pushedAt": "2017-10-05T17:43:56.000Z",
   "gitUrl": "git://github.com/electron-userland/electron-spellchecker.git",
   "sshUrl": "git@github.com:electron-userland/electron-spellchecker.git",
   "cloneUrl": "https://github.com/electron-userland/electron-spellchecker.git",
   "svnUrl": "https://github.com/electron-userland/electron-spellchecker",
   "homepage": "",
-  "size": 539,
-  "stargazersCount": 101,
-  "watchersCount": 101,
+  "size": 556,
+  "stargazersCount": 134,
+  "watchersCount": 134,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 10,
+  "forksCount": 19,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 101,
+  "openIssuesCount": 21,
+  "openIssues": 21,
+  "watchers": 134,
   "defaultBranch": "master",
   "permissions": {
     "admin": true,
@@ -66,7 +66,7 @@
   "organization": {
     "login": "electron-userland",
     "id": 17519142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17519142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17519142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-userland",
     "htmlUrl": "https://github.com/electron-userland",
@@ -77,8 +77,8 @@
     "receivedEventsUrl": "https://api.github.com/users/electron-userland/received_events",
     "type": "Organization"
   },
-  "networkCount": 10,
-  "subscribersCount": 5,
+  "networkCount": 19,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "electron-spellchecker",
@@ -94,20 +94,13 @@
       "node": "cross-env ELECTRON_RUN_AS_NODE=1 ./node_modules/electron-prebuilt-compile/node_modules/.bin/electron",
       "start": "electron ./example/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paulcbetts/electron-spellchecker"
-    },
+    "repository": "https://github.com/paulcbetts/electron-spellchecker",
     "keywords": [
       "spelling",
       "electron",
       "rx"
     ],
-    "author": "Paul Betts <paul@paulbetts.org>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paulcbetts/electron-spellchecker/issues"
-    },
     "main": "lib/index.js",
     "homepage": "https://github.com/paulcbetts/electron-spellchecker",
     "dependencies": {
@@ -143,6 +136,12 @@
       "esdoc-plugin-async-to-sync": "^0.5.0",
       "eslint": "^3.12.2",
       "rimraf": "^2.5.4"
+    },
+    "other": {
+      "author": "Paul Betts <paul@paulbetts.org>",
+      "bugs": {
+        "url": "https://github.com/paulcbetts/electron-spellchecker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,7 @@
   "allowSquashMerge": true,
   "allowMergeCommit": true,
   "allowRebaseMerge": true,
-  "lastFetchedAt": "2017-05-04T17:47:20.820Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:00.956Z"
+  "lastFetchedAt": "2017-10-23T20:14:12.952Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:00.956Z",
+  "archived": false
 }

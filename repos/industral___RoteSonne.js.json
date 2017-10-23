@@ -5,7 +5,7 @@
   "owner": {
     "login": "industral",
     "id": 331772,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/331772?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/331772?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/industral",
     "htmlUrl": "https://github.com/industral",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/industral/RoteSonne.js",
-  "description": "JavaScript version of RoteSonne",
+  "description": "Cross Platform Audio Player written in JavaScript",
   "fork": false,
   "url": "https://api.github.com/repos/industral/RoteSonne.js",
   "forksUrl": "https://api.github.com/repos/industral/RoteSonne.js/forks",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/industral/RoteSonne.js/downloads",
   "deploymentsUrl": "https://api.github.com/repos/industral/RoteSonne.js/deployments",
   "createdAt": "2016-03-26T19:31:02.000Z",
-  "updatedAt": "2017-02-18T20:27:03.000Z",
+  "updatedAt": "2017-09-22T12:29:01.000Z",
   "pushedAt": "2016-04-14T15:12:28.000Z",
   "gitUrl": "git://github.com/industral/RoteSonne.js.git",
   "sshUrl": "git@github.com:industral/RoteSonne.js.git",
@@ -76,10 +76,7 @@
     "version": "0.0.4",
     "description": "Audio Player",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/industral/RoteSonne.js.git"
-    },
+    "repository": "https://github.com/industral/RoteSonne.js",
     "keywords": [
       "player",
       "electron",
@@ -88,11 +85,7 @@
       "aac",
       "alac"
     ],
-    "author": "Alex Ivasyuv",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/industral/RoteSonne.js/issues"
-    },
     "build": {
       "app-bundle-id": "org.rotesonne",
       "app-category-type": "public.app-category.music",
@@ -135,6 +128,12 @@
       "postinstall": "./node_modules/.bin/install-app-deps",
       "pack": "./node_modules/.bin/build",
       "dist": "./node_modules/.bin/build"
+    },
+    "other": {
+      "author": "Alex Ivasyuv",
+      "bugs": {
+        "url": "https://github.com/industral/RoteSonne.js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "industral___RoteSonne.js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:05.878Z",
-  "packageLastFetchedAt": "2017-05-05T01:33:17.811Z"
+  "lastFetchedAt": "2017-10-23T20:36:34.939Z",
+  "packageLastFetchedAt": "2017-05-05T01:33:17.811Z",
+  "archived": false
 }

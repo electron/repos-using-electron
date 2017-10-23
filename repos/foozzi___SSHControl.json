@@ -5,7 +5,7 @@
   "owner": {
     "login": "foozzi",
     "id": 1178208,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1178208?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1178208?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/foozzi",
     "htmlUrl": "https://github.com/foozzi",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/foozzi/SSHControl/downloads",
   "deploymentsUrl": "https://api.github.com/repos/foozzi/SSHControl/deployments",
   "createdAt": "2016-10-27T16:12:28.000Z",
-  "updatedAt": "2016-11-04T08:59:51.000Z",
+  "updatedAt": "2017-08-26T23:09:17.000Z",
   "pushedAt": "2016-11-13T13:56:59.000Z",
   "gitUrl": "git://github.com/foozzi/SSHControl.git",
   "sshUrl": "git@github.com:foozzi/SSHControl.git",
@@ -61,22 +61,15 @@
     "push": false,
     "pull": true
   },
-  "license": {
-    "key": "other",
-    "name": "Other",
-    "spdxId": null,
-    "url": null,
-    "featured": false
-  },
+  "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "SSHControl",
     "main": "./dist/template-app/bootstrap.js",
     "description": "Manage your openssh acces in local db (linvodb3)",
     "version": "0.0.2",
-    "author": "Tkachenko Igor",
     "keywords": [
       "ssh",
       "localdb",
@@ -84,9 +77,6 @@
     ],
     "repository": {
       "type": "git",
-      "url": ""
-    },
-    "bugs": {
       "url": ""
     },
     "scripts": {
@@ -115,6 +105,12 @@
       "menu": "0.2.5",
       "coffee-script": "1.11.1",
       "jquery": "3.1.1"
+    },
+    "other": {
+      "author": "Tkachenko Igor",
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +138,7 @@
   },
   "filename": "foozzi___SSHControl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:37.263Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:39.930Z"
+  "lastFetchedAt": "2017-10-23T18:09:03.402Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:39.930Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dirvine",
     "id": 123627,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/123627?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/123627?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dirvine",
     "htmlUrl": "https://github.com/dirvine",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for safe-intro goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -142,6 +137,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +191,7 @@
   "svnUrl": "https://github.com/dirvine/safe-intro",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:53:43.084Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:24.913Z"
+  "lastFetchedAt": "2017-10-23T17:40:08.079Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:24.913Z",
+  "archived": false
 }

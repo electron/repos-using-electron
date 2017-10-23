@@ -5,7 +5,7 @@
   "owner": {
     "login": "aktos-io",
     "id": 17827558,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17827558?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17827558?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aktos-io",
     "htmlUrl": "https://github.com/aktos-io",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/aktos-io/scada.js",
-  "description": "Web-technology oriented industrial distributed SCADA system for desktop and mobile",
+  "description": "Industrial distributed SCADA library for web, desktop and mobile",
   "fork": false,
   "url": "https://api.github.com/repos/aktos-io/scada.js",
   "forksUrl": "https://api.github.com/repos/aktos-io/scada.js/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/aktos-io/scada.js/downloads",
   "deploymentsUrl": "https://api.github.com/repos/aktos-io/scada.js/deployments",
   "createdAt": "2016-07-14T18:11:15.000Z",
-  "updatedAt": "2016-12-07T09:05:20.000Z",
-  "pushedAt": "2017-04-24T13:19:55.000Z",
+  "updatedAt": "2017-10-02T00:53:36.000Z",
+  "pushedAt": "2017-10-20T08:45:30.000Z",
   "gitUrl": "git://github.com/aktos-io/scada.js.git",
   "sshUrl": "git@github.com:aktos-io/scada.js.git",
   "cloneUrl": "https://github.com/aktos-io/scada.js.git",
   "svnUrl": "https://github.com/aktos-io/scada.js",
-  "homepage": "",
-  "size": 9327,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "homepage": "https://aktos.io",
+  "size": 11818,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "LiveScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 31,
-  "openIssues": 31,
-  "watchers": 2,
+  "openIssuesCount": 23,
+  "openIssues": 23,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "aktos-io",
     "id": 17827558,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17827558?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17827558?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aktos-io",
     "htmlUrl": "https://github.com/aktos-io",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/aktos-io/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
+  "networkCount": 6,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -88,15 +88,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "clean": "rm -rf ./build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ceremcem/livescript-ractive-example-project.git"
-    },
-    "author": "Cerem Cem ASLAN",
+    "repository": "https://github.com/ceremcem/livescript-ractive-example-project",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ceremcem/livescript-ractive-example-project/issues"
-    },
     "homepage": "https://github.com/ceremcem/livescript-ractive-example-project#readme",
     "dependencies": {
       "bases": "^0.2.1",
@@ -154,9 +147,6 @@
       "watchify": "^3.7.0",
       "yargs": "^4.8.1"
     },
-    "directories": {
-      "doc": "doc"
-    },
     "keywords": [
       "scada",
       "ractive",
@@ -165,7 +155,16 @@
       "ERP",
       "distributed",
       "control"
-    ]
+    ],
+    "other": {
+      "author": "Cerem Cem ASLAN",
+      "bugs": {
+        "url": "https://github.com/ceremcem/livescript-ractive-example-project/issues"
+      },
+      "directories": {
+        "doc": "doc"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -192,6 +191,7 @@
   },
   "filename": "aktos-io___aktos-scada2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:39.937Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:04.402Z"
+  "lastFetchedAt": "2017-10-23T20:37:03.298Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:04.402Z",
+  "archived": false
 }

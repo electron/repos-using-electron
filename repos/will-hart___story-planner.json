@@ -5,7 +5,7 @@
   "owner": {
     "login": "will-hart",
     "id": 391950,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/391950?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/391950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/will-hart",
     "htmlUrl": "https://github.com/will-hart",
@@ -76,19 +76,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/will-hart/story-planner.git"
-    },
-    "author": {
-      "name": "Will Hart",
-      "email": "will@willhart.io",
-      "url": "https://github.com/will-hart"
-    },
+    "repository": "https://github.com/will-hart/story-planner",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/will-hart/story-planner/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -164,6 +153,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Will Hart",
+        "email": "will@willhart.io",
+        "url": "https://github.com/will-hart"
+      },
+      "bugs": {
+        "url": "https://github.com/will-hart/story-planner/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -211,6 +210,7 @@
   },
   "filename": "will-hart___story-planner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:50.188Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:26.962Z"
+  "lastFetchedAt": "2017-10-23T19:13:06.222Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:26.962Z",
+  "archived": false
 }

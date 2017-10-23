@@ -5,7 +5,7 @@
   "owner": {
     "login": "iamdey",
     "id": 65737,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/65737?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/65737?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iamdey",
     "htmlUrl": "https://github.com/iamdey",
@@ -95,7 +95,6 @@
       "lint:js": "eslint src/",
       "lint:sass": "sass-lint 'src/**/*.scss'"
     },
-    "author": "CaliOpen <contact@caliopen.org> (https://caliopen.org/)",
     "license": "MIT",
     "dependencies": {
       "babel-core": "^6.17.0",
@@ -171,6 +170,9 @@
         "^.+\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
         "^.+\\.(css|less|scss)$": "<rootDir>/__mocks__/styleMock.js"
       }
+    },
+    "other": {
+      "author": "CaliOpen <contact@caliopen.org> (https://caliopen.org/)"
     }
   },
   "packageStatus": 200,
@@ -198,6 +200,7 @@
   },
   "filename": "iamdey___caliopen.frontend.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:37.533Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:33.607Z"
+  "lastFetchedAt": "2017-10-23T19:15:42.381Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:33.607Z",
+  "archived": false
 }

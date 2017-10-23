@@ -5,7 +5,7 @@
   "owner": {
     "login": "gpincheiraa",
     "id": 5608336,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5608336?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5608336?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gpincheiraa",
     "htmlUrl": "https://github.com/gpincheiraa",
@@ -76,7 +76,6 @@
       "build-darwin": "electron-packager . gp-zboxapp --platform=darwin --arch=x64 --version=0.31.1 --out=dist --ignore=\"node_modules/(electron-packager|electron-prebuilt|asar)\" --asar",
       "build-win32": "electron-packager . gp-zboxapp --platform=win32 --arch=x64 --version=0.31.1 --out=dist --ignore=\"node_modules/(electron-packager|electron-prebuilt|asar)\" --asar"
     },
-    "author": "Gonzalo Pincheira A.",
     "license": "ISC",
     "dependencies": {
       "electron-prebuilt": "^0.31.2",
@@ -95,6 +94,9 @@
       "main-bower-files": "^2.6.2",
       "protractor": "^2.2.0",
       "protractor-html-screenshot-reporter": "0.0.21"
+    },
+    "other": {
+      "author": "Gonzalo Pincheira A."
     }
   },
   "packageStatus": 200,
@@ -122,6 +124,7 @@
   },
   "filename": "gpincheiraa___zboxapp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:43.099Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:00.843Z"
+  "lastFetchedAt": "2017-10-23T20:26:16.053Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:00.843Z",
+  "archived": false
 }

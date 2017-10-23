@@ -6,7 +6,7 @@
   "owner": {
     "login": "lovesmilesha",
     "id": 181152,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/181152?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/181152?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lovesmilesha",
     "htmlUrl": "https://github.com/lovesmilesha",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "oldj",
       "id": 416130,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/416130?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/416130?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/oldj",
       "htmlUrl": "https://github.com/oldj",
@@ -101,27 +101,28 @@
     "downloadsUrl": "https://api.github.com/repos/oldj/SwitchHosts/downloads",
     "deploymentsUrl": "https://api.github.com/repos/oldj/SwitchHosts/deployments",
     "createdAt": "2011-09-02T09:38:09.000Z",
-    "updatedAt": "2017-05-04T15:40:25.000Z",
-    "pushedAt": "2017-05-03T11:47:27.000Z",
+    "updatedAt": "2017-10-23T13:19:50.000Z",
+    "pushedAt": "2017-10-20T06:35:31.000Z",
     "gitUrl": "git://github.com/oldj/SwitchHosts.git",
     "sshUrl": "git@github.com:oldj/SwitchHosts.git",
     "cloneUrl": "https://github.com/oldj/SwitchHosts.git",
     "svnUrl": "https://github.com/oldj/SwitchHosts",
     "homepage": "https://oldj.github.io/SwitchHosts/",
-    "size": 8397,
-    "stargazersCount": 2292,
-    "watchersCount": 2292,
-    "language": "JavaScript",
+    "size": 12033,
+    "stargazersCount": 3301,
+    "watchersCount": 3301,
+    "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 438,
+    "forksCount": 585,
     "mirrorUrl": null,
-    "openIssuesCount": 62,
-    "openIssues": 62,
-    "watchers": 2292,
+    "archived": false,
+    "openIssuesCount": 94,
+    "openIssues": 94,
+    "watchers": 3301,
     "defaultBranch": "master"
   },
   "source": {
@@ -131,7 +132,7 @@
     "owner": {
       "login": "oldj",
       "id": 416130,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/416130?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/416130?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/oldj",
       "htmlUrl": "https://github.com/oldj",
@@ -161,33 +162,34 @@
     "downloadsUrl": "https://api.github.com/repos/oldj/SwitchHosts/downloads",
     "deploymentsUrl": "https://api.github.com/repos/oldj/SwitchHosts/deployments",
     "createdAt": "2011-09-02T09:38:09.000Z",
-    "updatedAt": "2017-05-04T15:40:25.000Z",
-    "pushedAt": "2017-05-03T11:47:27.000Z",
+    "updatedAt": "2017-10-23T13:19:50.000Z",
+    "pushedAt": "2017-10-20T06:35:31.000Z",
     "gitUrl": "git://github.com/oldj/SwitchHosts.git",
     "sshUrl": "git@github.com:oldj/SwitchHosts.git",
     "cloneUrl": "https://github.com/oldj/SwitchHosts.git",
     "svnUrl": "https://github.com/oldj/SwitchHosts",
     "homepage": "https://oldj.github.io/SwitchHosts/",
-    "size": 8397,
-    "stargazersCount": 2292,
-    "watchersCount": 2292,
-    "language": "JavaScript",
+    "size": 12033,
+    "stargazersCount": 3301,
+    "watchersCount": 3301,
+    "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 438,
+    "forksCount": 585,
     "mirrorUrl": null,
-    "openIssuesCount": 62,
-    "openIssues": 62,
-    "watchers": 2292,
+    "archived": false,
+    "openIssuesCount": 94,
+    "openIssues": 94,
+    "watchers": 3301,
     "defaultBranch": "master"
   },
-  "networkCount": 438,
+  "networkCount": 585,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:36:26.467Z",
+  "lastFetchedAt": "2017-10-23T20:10:09.292Z",
   "packageJSON": {
     "name": "switchhosts",
     "version": "3.3.1",
@@ -205,15 +207,8 @@
       "zip": "gulp zip",
       "make": "webpack -p && gulp pack && gulp zip"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/oldj/SwitchHosts.git"
-    },
-    "author": "oldj",
+    "repository": "https://github.com/oldj/SwitchHosts",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/oldj/SwitchHosts/issues"
-    },
     "homepage": "https://oldj.github.io/SwitchHosts/",
     "dependencies": {},
     "devDependencies": {
@@ -304,8 +299,15 @@
           "stage-0"
         ]
       }
+    },
+    "other": {
+      "author": "oldj",
+      "bugs": {
+        "url": "https://github.com/oldj/SwitchHosts/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T23:07:31.182Z"
+  "packageLastFetchedAt": "2017-05-04T23:07:31.182Z",
+  "archived": false
 }

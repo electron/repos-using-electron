@@ -6,7 +6,7 @@
   "owner": {
     "login": "chimpanzees",
     "id": 16357519,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16357519?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16357519?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chimpanzees",
     "htmlUrl": "https://github.com/chimpanzees",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "chimpanzees",
     "id": 16357519,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16357519?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16357519?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chimpanzees",
     "htmlUrl": "https://github.com/chimpanzees",
@@ -85,7 +85,7 @@
     "owner": {
       "login": "sindresorhus",
       "id": 170270,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/170270?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/170270?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/sindresorhus",
       "htmlUrl": "https://github.com/sindresorhus",
@@ -115,27 +115,28 @@
     "downloadsUrl": "https://api.github.com/repos/sindresorhus/electron-context-menu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/sindresorhus/electron-context-menu/deployments",
     "createdAt": "2016-06-04T10:36:38.000Z",
-    "updatedAt": "2017-05-04T13:17:49.000Z",
-    "pushedAt": "2017-04-19T06:30:12.000Z",
+    "updatedAt": "2017-10-23T11:23:59.000Z",
+    "pushedAt": "2017-09-29T05:06:11.000Z",
     "gitUrl": "git://github.com/sindresorhus/electron-context-menu.git",
     "sshUrl": "git@github.com:sindresorhus/electron-context-menu.git",
     "cloneUrl": "https://github.com/sindresorhus/electron-context-menu.git",
     "svnUrl": "https://github.com/sindresorhus/electron-context-menu",
     "homepage": null,
-    "size": 80,
-    "stargazersCount": 258,
-    "watchersCount": 258,
+    "size": 82,
+    "stargazersCount": 349,
+    "watchersCount": 349,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 29,
+    "forksCount": 46,
     "mirrorUrl": null,
-    "openIssuesCount": 9,
-    "openIssues": 9,
-    "watchers": 258,
+    "archived": false,
+    "openIssuesCount": 15,
+    "openIssues": 15,
+    "watchers": 349,
     "defaultBranch": "master"
   },
   "source": {
@@ -145,7 +146,7 @@
     "owner": {
       "login": "sindresorhus",
       "id": 170270,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/170270?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/170270?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/sindresorhus",
       "htmlUrl": "https://github.com/sindresorhus",
@@ -175,44 +176,40 @@
     "downloadsUrl": "https://api.github.com/repos/sindresorhus/electron-context-menu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/sindresorhus/electron-context-menu/deployments",
     "createdAt": "2016-06-04T10:36:38.000Z",
-    "updatedAt": "2017-05-04T13:17:49.000Z",
-    "pushedAt": "2017-04-19T06:30:12.000Z",
+    "updatedAt": "2017-10-23T11:23:59.000Z",
+    "pushedAt": "2017-09-29T05:06:11.000Z",
     "gitUrl": "git://github.com/sindresorhus/electron-context-menu.git",
     "sshUrl": "git@github.com:sindresorhus/electron-context-menu.git",
     "cloneUrl": "https://github.com/sindresorhus/electron-context-menu.git",
     "svnUrl": "https://github.com/sindresorhus/electron-context-menu",
     "homepage": null,
-    "size": 80,
-    "stargazersCount": 258,
-    "watchersCount": 258,
+    "size": 82,
+    "stargazersCount": 349,
+    "watchersCount": 349,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 29,
+    "forksCount": 46,
     "mirrorUrl": null,
-    "openIssuesCount": 9,
-    "openIssues": 9,
-    "watchers": 258,
+    "archived": false,
+    "openIssuesCount": 15,
+    "openIssues": 15,
+    "watchers": 349,
     "defaultBranch": "master"
   },
-  "networkCount": 29,
+  "networkCount": 46,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:08:52.836Z",
+  "lastFetchedAt": "2017-10-23T18:15:24.994Z",
   "packageJSON": {
     "name": "electron-context-menu",
     "version": "0.8.0",
     "description": "Context menu for your Electron app",
     "license": "MIT",
     "repository": "sindresorhus/electron-context-menu",
-    "author": {
-      "name": "Sindre Sorhus",
-      "email": "sindresorhus@gmail.com",
-      "url": "sindresorhus.com"
-    },
     "scripts": {
       "start": "electron fixture.js",
       "test": "xo"
@@ -244,8 +241,16 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Sindre Sorhus",
+        "email": "sindresorhus@gmail.com",
+        "url": "sindresorhus.com"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T23:04:36.138Z"
+  "packageLastFetchedAt": "2017-05-04T23:04:36.138Z",
+  "archived": false
 }

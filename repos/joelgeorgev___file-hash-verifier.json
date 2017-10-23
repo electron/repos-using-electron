@@ -5,7 +5,7 @@
   "owner": {
     "login": "joelgeorgev",
     "id": 7033999,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7033999?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7033999?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joelgeorgev",
     "htmlUrl": "https://github.com/joelgeorgev",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/joelgeorgev/file-hash-verifier",
-  "description": "A simple desktop app to generate and verify cryptographic hash values of files. Created using the electron framework.",
+  "description": "A react app to generate and verify cryptographic hash values of files.",
   "fork": false,
   "url": "https://api.github.com/repos/joelgeorgev/file-hash-verifier",
   "forksUrl": "https://api.github.com/repos/joelgeorgev/file-hash-verifier/forks",
@@ -35,21 +35,21 @@
   "downloadsUrl": "https://api.github.com/repos/joelgeorgev/file-hash-verifier/downloads",
   "deploymentsUrl": "https://api.github.com/repos/joelgeorgev/file-hash-verifier/deployments",
   "createdAt": "2016-10-16T19:01:24.000Z",
-  "updatedAt": "2016-10-16T19:37:35.000Z",
-  "pushedAt": "2017-04-23T09:00:04.000Z",
+  "updatedAt": "2017-05-29T18:03:47.000Z",
+  "pushedAt": "2017-06-29T18:23:20.000Z",
   "gitUrl": "git://github.com/joelgeorgev/file-hash-verifier.git",
   "sshUrl": "git@github.com:joelgeorgev/file-hash-verifier.git",
   "cloneUrl": "https://github.com/joelgeorgev/file-hash-verifier.git",
   "svnUrl": "https://github.com/joelgeorgev/file-hash-verifier",
-  "homepage": null,
-  "size": 10,
+  "homepage": "",
+  "size": 2042,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
-  "hasPages": false,
+  "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 0,
@@ -89,13 +89,15 @@
       "sha1",
       "sha256"
     ],
-    "author": "Joel George V",
     "license": "MIT",
     "devDependencies": {
       "electron": "^1.4.1"
     },
     "dependencies": {
       "hasha": "^2.2.0"
+    },
+    "other": {
+      "author": "Joel George V"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
   },
   "filename": "joelgeorgev___file-hash-verifier.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T09:03:07.526Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:49.748Z"
+  "lastFetchedAt": "2017-10-23T18:10:25.592Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:49.748Z",
+  "archived": false
 }

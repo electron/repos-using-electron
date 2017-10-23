@@ -5,7 +5,7 @@
   "owner": {
     "login": "Elemino",
     "id": 5745027,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5745027?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5745027?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Elemino",
     "htmlUrl": "https://github.com/Elemino",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Elemino/electron-quick-start",
-  "description": " An Electron App using Web Audio",
+  "description": null,
   "fork": false,
   "url": "https://api.github.com/repos/Elemino/electron-quick-start",
   "forksUrl": "https://api.github.com/repos/Elemino/electron-quick-start/forks",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Elemino/electron-quick-start/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Elemino/electron-quick-start/deployments",
   "createdAt": "2016-06-06T02:19:36.000Z",
-  "updatedAt": "2017-05-02T09:20:26.000Z",
+  "updatedAt": "2017-09-03T23:27:24.000Z",
   "pushedAt": "2016-09-20T19:07:11.000Z",
   "gitUrl": "git://github.com/Elemino/electron-quick-start.git",
   "sshUrl": "git@github.com:Elemino/electron-quick-start.git",
@@ -79,27 +79,26 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "electron-compile": "^3.3.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "Elemino___electron-quick-start.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:35:01.551Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:12.622Z"
+  "lastFetchedAt": "2017-10-23T19:19:17.873Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:12.622Z",
+  "archived": false
 }

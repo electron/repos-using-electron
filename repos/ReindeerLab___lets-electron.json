@@ -5,7 +5,7 @@
   "owner": {
     "login": "ReindeerLab",
     "id": 13367463,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13367463?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13367463?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ReindeerLab",
     "htmlUrl": "https://github.com/ReindeerLab",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "ReindeerLab",
     "id": 13367463,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13367463?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13367463?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ReindeerLab",
     "htmlUrl": "https://github.com/ReindeerLab",
@@ -94,18 +94,11 @@
       "start": "gulp serve",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ReindeerLab/lets-electron.git"
-    },
+    "repository": "https://github.com/ReindeerLab/lets-electron",
     "keywords": [
       "electron"
     ],
-    "author": "dachi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ReindeerLab/lets-electron/issues"
-    },
     "homepage": "https://github.com/ReindeerLab/lets-electron#readme",
     "devDependencies": {
       "browserify": "^11.2.0",
@@ -126,6 +119,12 @@
     },
     "dependencies": {
       "jquery": "^2.1.4"
+    },
+    "other": {
+      "author": "dachi",
+      "bugs": {
+        "url": "https://github.com/ReindeerLab/lets-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   },
   "filename": "ReindeerLab___lets-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:02.916Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:17.077Z"
+  "lastFetchedAt": "2017-10-23T19:22:30.071Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:17.077Z",
+  "archived": false
 }

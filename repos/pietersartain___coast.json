@@ -5,7 +5,7 @@
   "owner": {
     "login": "pietersartain",
     "id": 243691,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/243691?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/243691?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pietersartain",
     "htmlUrl": "https://github.com/pietersartain",
@@ -80,21 +80,14 @@
       "start": "electron .",
       "test": "browserify -t babelify test/test-channel.js | tape-run | faucet"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "bootstrap": "^3.3.6",
@@ -111,6 +104,12 @@
       "irc": "",
       "linkifyjs": "^2.0.5",
       "moment": "^2.13.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "pietersartain___coast.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:18.139Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:56.841Z"
+  "lastFetchedAt": "2017-10-23T20:59:03.536Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:56.841Z",
+  "archived": false
 }

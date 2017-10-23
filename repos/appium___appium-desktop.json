@@ -5,7 +5,7 @@
   "owner": {
     "login": "appium",
     "id": 3221291,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3221291?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3221291?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/appium",
     "htmlUrl": "https://github.com/appium",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/appium/appium-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/appium/appium-desktop/deployments",
   "createdAt": "2016-07-18T00:08:00.000Z",
-  "updatedAt": "2017-05-04T13:14:09.000Z",
-  "pushedAt": "2017-05-02T18:11:47.000Z",
+  "updatedAt": "2017-10-23T14:27:30.000Z",
+  "pushedAt": "2017-10-23T17:08:47.000Z",
   "gitUrl": "git://github.com/appium/appium-desktop.git",
   "sshUrl": "git@github.com:appium/appium-desktop.git",
   "cloneUrl": "https://github.com/appium/appium-desktop.git",
   "svnUrl": "https://github.com/appium/appium-desktop",
   "homepage": null,
-  "size": 2955,
-  "stargazersCount": 182,
-  "watchersCount": 182,
+  "size": 3730,
+  "stargazersCount": 429,
+  "watchersCount": 429,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 43,
+  "forksCount": 122,
   "mirrorUrl": null,
-  "openIssuesCount": 27,
-  "openIssues": 27,
-  "watchers": 182,
+  "openIssuesCount": 32,
+  "openIssues": 32,
+  "watchers": 429,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "appium",
     "id": 3221291,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3221291?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3221291?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/appium",
     "htmlUrl": "https://github.com/appium",
@@ -82,26 +82,15 @@
     "receivedEventsUrl": "https://api.github.com/users/appium/received_events",
     "type": "Organization"
   },
-  "networkCount": 43,
-  "subscribersCount": 56,
+  "networkCount": 122,
+  "subscribersCount": 115,
   "status": 200,
   "packageJSON": {
     "name": "appium-desktop",
     "version": "1.0.0",
     "description": "Graphical interface for the Appium server, and an app inspector",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/appium/appium-desktop.git"
-    },
-    "author": {
-      "name": "Appium Developers",
-      "email": "",
-      "url": "https://github.com/appium"
-    },
+    "repository": "https://github.com/appium/appium-desktop",
     "license": "APACHE2",
-    "bugs": {
-      "url": "https://github.com/appium/appium-desktop/issues"
-    },
     "keywords": [
       "appium"
     ],
@@ -265,6 +254,16 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Appium Developers",
+        "email": "",
+        "url": "https://github.com/appium"
+      },
+      "bugs": {
+        "url": "https://github.com/appium/appium-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -292,6 +291,7 @@
   },
   "filename": "appium___appium-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:25.485Z",
-  "packageLastFetchedAt": "2017-05-04T22:51:43.481Z"
+  "lastFetchedAt": "2017-10-23T20:43:09.676Z",
+  "packageLastFetchedAt": "2017-05-04T22:51:43.481Z",
+  "archived": false
 }

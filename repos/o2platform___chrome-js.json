@@ -5,7 +5,7 @@
   "owner": {
     "login": "o2platform",
     "id": 680354,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/680354?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/680354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/o2platform",
     "htmlUrl": "https://github.com/o2platform",
@@ -20,12 +20,12 @@
   "description": "Node-Webkit REPL",
   "fork": false,
   "createdAt": "2014-12-01T02:30:07.000Z",
-  "updatedAt": "2017-01-31T22:00:48.000Z",
+  "updatedAt": "2017-10-21T16:45:14.000Z",
   "pushedAt": "2015-07-12T21:16:23.000Z",
   "homepage": "",
   "size": 905,
-  "stargazersCount": 14,
-  "watchersCount": 14,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 34,
   "openIssues": 34,
-  "watchers": 14,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "o2platform",
     "id": 680354,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/680354?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/680354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/o2platform",
     "htmlUrl": "https://github.com/o2platform",
@@ -98,23 +98,22 @@
       "test": "node ./node_modules/mocha/bin/mocha --compilers=coffee:coffee-script/register --recursive -R list tests",
       "dev-watch": "node ./node_modules/mocha/bin/mocha --compilers=coffee:coffee-script/register -w --recursive -R list tests bin"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/o2platform/chrome-js.git"
-    },
-    "author": {
-      "name": "Dinis Cruz",
-      "email": "dinis.cruz@owasp.org",
-      "url": "http://blog.diniscruz.com/"
-    },
+    "repository": "https://github.com/o2platform/chrome-js",
     "license": "Apache 2",
-    "bugs": {
-      "url": "https://github.com/o2platform/chrome-js/issues"
-    },
     "homepage": "https://github.com/o2platform/chrome-js",
     "description": "Chrome-JS: Set of APIs to help the automations and scripting of Web based applications (WebSites or WebServices).",
     "devDependencies": {
       "electron-prebuilt": "^0.29.2"
+    },
+    "other": {
+      "author": {
+        "name": "Dinis Cruz",
+        "email": "dinis.cruz@owasp.org",
+        "url": "http://blog.diniscruz.com/"
+      },
+      "bugs": {
+        "url": "https://github.com/o2platform/chrome-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   "svnUrl": "https://github.com/o2platform/chrome-js",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:23:02.853Z",
-  "packageLastFetchedAt": "2017-05-05T14:47:05.907Z"
+  "lastFetchedAt": "2017-10-23T21:06:08.864Z",
+  "packageLastFetchedAt": "2017-05-05T14:47:05.907Z",
+  "archived": false
 }

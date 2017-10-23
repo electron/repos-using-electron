@@ -5,7 +5,7 @@
   "owner": {
     "login": "jimibi",
     "id": 6543432,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6543432?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6543432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jimibi",
     "htmlUrl": "https://github.com/jimibi",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -105,6 +98,12 @@
       "gulp-usemin": "^0.3.21",
       "lodash": "^4.6.1",
       "mysql": "^2.10.2"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "jimibi___electron-photo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:01.568Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:01.473Z"
+  "lastFetchedAt": "2017-10-23T18:18:37.231Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:01.473Z",
+  "archived": false
 }

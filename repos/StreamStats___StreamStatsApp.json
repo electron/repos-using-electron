@@ -5,7 +5,7 @@
   "owner": {
     "login": "StreamStats",
     "id": 16867743,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16867743?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16867743?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/StreamStats",
     "htmlUrl": "https://github.com/StreamStats",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "StreamStats",
     "id": 16867743,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16867743?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16867743?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/StreamStats",
     "htmlUrl": "https://github.com/StreamStats",
@@ -90,10 +90,7 @@
     "version": "1.0.0",
     "description": "A StreamStatsApp Application Made in Electron ",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/StreamStats/StreamStatsApp.git"
-    },
+    "repository": "https://github.com/StreamStats/StreamStatsApp",
     "scripts": {
       "start": "electron main.js",
       "materialize": "bower install materialize"
@@ -104,11 +101,7 @@
       "start",
       "tutorial"
     ],
-    "author": "StreamStats",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/StreamStats/StreamStatsApp/issues"
-    },
     "homepage": "https://github.com/StreamStatsApp/StreamStatsApp",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -117,6 +110,12 @@
       "electron-installer-windows": "^0.2.0",
       "jquery": "^2.2.1",
       "bootstrap": "*"
+    },
+    "other": {
+      "author": "StreamStats",
+      "bugs": {
+        "url": "https://github.com/StreamStats/StreamStatsApp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "filename": "StreamStats___StreamStatsApp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:43.332Z",
-  "packageLastFetchedAt": "2017-05-05T17:46:07.708Z"
+  "lastFetchedAt": "2017-10-23T18:52:39.917Z",
+  "packageLastFetchedAt": "2017-05-05T17:46:07.708Z",
+  "archived": false
 }

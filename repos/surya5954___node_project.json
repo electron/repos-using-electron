@@ -5,7 +5,7 @@
   "owner": {
     "login": "surya5954",
     "id": 12806922,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12806922?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12806922?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/surya5954",
     "htmlUrl": "https://github.com/surya5954",
@@ -80,25 +80,24 @@
       "start": "electron .",
       "build": "electron-packager . myApp --ignore=node_modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "electron-packager": "^3.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "surya5954___node_project.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:50.912Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:15.684Z"
+  "lastFetchedAt": "2017-10-23T18:27:37.206Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:15.684Z",
+  "archived": false
 }

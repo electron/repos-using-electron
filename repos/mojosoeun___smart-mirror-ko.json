@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 13,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "smart-mirror",
     "version": "0.0.1",
@@ -55,21 +55,14 @@
       "start": "electron main.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "install": "^0.6.1",
@@ -77,6 +70,12 @@
       "electron-prebuilt": "^0.37.2",
       "npm": "^3.8.2",
       "bower": "^1.7.7"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   "svnUrl": "https://github.com/mojosoeun/smart-mirror-ko",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:29.031Z",
+  "lastFetchedAt": "2017-10-23T19:18:28.993Z",
   "packageLastFetchedAt": "2017-05-05T15:39:51.970Z"
 }

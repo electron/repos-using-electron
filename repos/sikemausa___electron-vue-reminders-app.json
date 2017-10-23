@@ -6,7 +6,7 @@
   "owner": {
     "login": "sikemausa",
     "id": 19242172,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19242172?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19242172?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sikemausa",
     "htmlUrl": "https://github.com/sikemausa",
@@ -86,7 +86,6 @@
       "unit": "karma start test/unit/karma.conf.js",
       "postinstall": "electron-rebuild && npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -148,6 +147,9 @@
       "path": "^0.12.7",
       "vue": "^2.1.4",
       "vue-electron": "^1.0.4"
+    },
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -174,6 +176,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:10.902Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:06.074Z"
+  "lastFetchedAt": "2017-10-23T17:28:34.889Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:06.074Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Kiricon",
     "id": 8783576,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8783576?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8783576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Kiricon",
     "htmlUrl": "https://github.com/Kiricon",
@@ -79,15 +79,8 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Kiricon/ComfyBrowser.git"
-    },
-    "author": "Dominic Valeciana",
+    "repository": "https://github.com/Kiricon/ComfyBrowser",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Kiricon/ComfyBrowser/issues"
-    },
     "homepage": "https://github.com/Kiricon/ComfyBrowser#readme",
     "dependencies": {
       "electron": "^1.4.3",
@@ -97,6 +90,12 @@
       "gulp-cached": "^1.1.0",
       "gulp-ruby-sass": "^2.1.0",
       "sortablejs": "^1.4.2"
+    },
+    "other": {
+      "author": "Dominic Valeciana",
+      "bugs": {
+        "url": "https://github.com/Kiricon/ComfyBrowser/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Kiricon___ComfyBrowser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:38.972Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:36.304Z"
+  "lastFetchedAt": "2017-10-23T19:25:24.810Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:36.304Z",
+  "archived": false
 }

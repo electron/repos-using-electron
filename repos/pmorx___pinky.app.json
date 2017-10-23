@@ -5,7 +5,7 @@
   "owner": {
     "login": "pmorx",
     "id": 21169058,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21169058?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21169058?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pmorx",
     "htmlUrl": "https://github.com/pmorx",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "pmorx",
     "id": 21169058,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21169058?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21169058?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pmorx",
     "htmlUrl": "https://github.com/pmorx",
@@ -87,21 +87,14 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pmorx/pinky.app.git"
-    },
+    "repository": "https://github.com/pmorx/pinky.app",
     "keywords": [
       "nodejs",
       "npm",
       "njs",
       "electron"
     ],
-    "author": "John Untivero <jpuntivero@gmail.com>",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/pmorx/pinky.app/issues"
-    },
     "homepage": "https://github.com/pmorx/pinky.app#readme",
     "dependencies": {
       "@angular/common": "^2.0.0-rc.5",
@@ -126,6 +119,12 @@
       "gulp-sass": "^2.3.2",
       "gulp-typescript": "^2.13.6",
       "gulp-webserver": "^0.9.1"
+    },
+    "other": {
+      "author": "John Untivero <jpuntivero@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/pmorx/pinky.app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   },
   "filename": "pmorx___pinky.app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:12.709Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:22.006Z"
+  "lastFetchedAt": "2017-10-23T20:23:57.783Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:22.006Z",
+  "archived": false
 }

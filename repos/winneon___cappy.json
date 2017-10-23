@@ -5,7 +5,7 @@
   "owner": {
     "login": "winneon",
     "id": 4269491,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4269491?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4269491?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/winneon",
     "htmlUrl": "https://github.com/winneon",
@@ -75,7 +75,6 @@
     "name": "cappy",
     "description": "An all-in-one screenshot tool.",
     "version": "0.0.1",
-    "author": "Jesse Bryan <winneonsword@gmail.com>",
     "homepage": "https://github.com/winneon/cappy",
     "repository": "winneon/cappy",
     "license": "MIT",
@@ -112,6 +111,9 @@
       "sass": "node-sass --include-path sass --output-style compressed sass/base.scss app/dist/bundle.css",
       "start": "npm run dev && concurrently --kill-others --raw \"watch 'npm run sass' sass\" \"NODE_ENV=development electron app\"",
       "webpack": "webpack"
+    },
+    "other": {
+      "author": "Jesse Bryan <winneonsword@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -139,6 +141,7 @@
   },
   "filename": "winneon___cappy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:48.350Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:50.866Z"
+  "lastFetchedAt": "2017-10-23T20:26:37.068Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:50.866Z",
+  "archived": false
 }

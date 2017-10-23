@@ -5,7 +5,7 @@
   "owner": {
     "login": "riolet",
     "id": 6329748,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6329748?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6329748?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/riolet",
     "htmlUrl": "https://github.com/riolet",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/riolet/lookout/downloads",
   "deploymentsUrl": "https://api.github.com/repos/riolet/lookout/deployments",
   "createdAt": "2016-07-16T03:43:36.000Z",
-  "updatedAt": "2016-12-09T10:45:18.000Z",
+  "updatedAt": "2017-05-05T03:35:51.000Z",
   "pushedAt": "2016-07-18T15:41:45.000Z",
   "gitUrl": "git://github.com/riolet/lookout.git",
   "sshUrl": "git@github.com:riolet/lookout.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/riolet/lookout",
   "homepage": null,
   "size": 25,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "riolet",
     "id": 6329748,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6329748?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6329748?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/riolet",
     "htmlUrl": "https://github.com/riolet",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/riolet/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -93,25 +93,24 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "properties-reader": "^0.0.15"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "riolet___lookout.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:31.030Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:10.358Z"
+  "lastFetchedAt": "2017-10-23T17:08:19.890Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:10.358Z",
+  "archived": false
 }

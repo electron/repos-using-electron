@@ -6,7 +6,7 @@
   "owner": {
     "login": "ForexC",
     "id": 7827201,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7827201?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7827201?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ForexC",
     "htmlUrl": "https://github.com/ForexC",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "maxogden",
       "id": 39759,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/maxogden",
       "htmlUrl": "https://github.com/maxogden",
@@ -100,7 +100,7 @@
     "downloadsUrl": "https://api.github.com/repos/maxogden/screencat/downloads",
     "deploymentsUrl": "https://api.github.com/repos/maxogden/screencat/deployments",
     "createdAt": "2014-11-21T08:04:37.000Z",
-    "updatedAt": "2017-05-02T10:24:50.000Z",
+    "updatedAt": "2017-10-20T15:40:38.000Z",
     "pushedAt": "2016-02-18T12:54:39.000Z",
     "gitUrl": "git://github.com/maxogden/screencat.git",
     "sshUrl": "git@github.com:maxogden/screencat.git",
@@ -108,19 +108,20 @@
     "svnUrl": "https://github.com/maxogden/screencat",
     "homepage": "http://maxogden.github.io/screencat",
     "size": 3235,
-    "stargazersCount": 1927,
-    "watchersCount": 1927,
+    "stargazersCount": 2025,
+    "watchersCount": 2025,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 191,
+    "forksCount": 212,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 33,
     "openIssues": 33,
-    "watchers": 1927,
+    "watchers": 2025,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "maxogden",
       "id": 39759,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/maxogden",
       "htmlUrl": "https://github.com/maxogden",
@@ -160,7 +161,7 @@
     "downloadsUrl": "https://api.github.com/repos/maxogden/screencat/downloads",
     "deploymentsUrl": "https://api.github.com/repos/maxogden/screencat/deployments",
     "createdAt": "2014-11-21T08:04:37.000Z",
-    "updatedAt": "2017-05-02T10:24:50.000Z",
+    "updatedAt": "2017-10-20T15:40:38.000Z",
     "pushedAt": "2016-02-18T12:54:39.000Z",
     "gitUrl": "git://github.com/maxogden/screencat.git",
     "sshUrl": "git@github.com:maxogden/screencat.git",
@@ -168,22 +169,23 @@
     "svnUrl": "https://github.com/maxogden/screencat",
     "homepage": "http://maxogden.github.io/screencat",
     "size": 3235,
-    "stargazersCount": 1927,
-    "watchersCount": 1927,
+    "stargazersCount": 2025,
+    "watchersCount": 2025,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 191,
+    "forksCount": 212,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 33,
     "openIssues": 33,
-    "watchers": 1927,
+    "watchers": 2025,
     "defaultBranch": "master"
   },
-  "networkCount": 191,
+  "networkCount": 212,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -198,7 +200,6 @@
       "test": "standard",
       "rebuild": "cd node_modules/robotjs && set HOME=~/.electron-gyp && node-gyp rebuild --target=0.36.0 --arch=x64 --dist-url=https://atom.io/download/atom-shell"
     },
-    "author": "max ogden",
     "license": "BSD-3-Clause",
     "dependencies": {
       "domify": "^1.4.0",
@@ -221,14 +222,14 @@
       "tachyons": "^1.2.0",
       "wzrd": "^1.2.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/maxogden/screencat.git"
-    },
-    "bugs": {
-      "url": "https://github.com/maxogden/screencat/issues"
-    },
-    "homepage": "https://github.com/maxogden/screencat"
+    "repository": "https://github.com/maxogden/screencat",
+    "homepage": "https://github.com/maxogden/screencat",
+    "other": {
+      "author": "max ogden",
+      "bugs": {
+        "url": "https://github.com/maxogden/screencat/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -255,6 +256,7 @@
   },
   "sourceRepo": "maxogden/screencat",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:37.903Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:56.790Z"
+  "lastFetchedAt": "2017-10-23T18:29:21.539Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:56.790Z",
+  "archived": false
 }

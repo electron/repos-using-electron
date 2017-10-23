@@ -5,7 +5,7 @@
   "owner": {
     "login": "bluewings",
     "id": 1563202,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1563202?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1563202?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bluewings",
     "htmlUrl": "https://github.com/bluewings",
@@ -55,21 +55,14 @@
       "start": "electron main.js",
       "release": "gulp release --env=production"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "asar": "^0.10.0",
@@ -107,6 +100,12 @@
     "dependencies": {
       "electron-reload": "^0.2.0",
       "fs-jetpack": "^0.7.3"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "bluewings___electro.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:04.967Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:30.951Z"
+  "lastFetchedAt": "2017-10-23T19:08:14.534Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:30.951Z",
+  "archived": false
 }

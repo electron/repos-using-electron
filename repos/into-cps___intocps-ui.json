@@ -5,7 +5,7 @@
   "owner": {
     "login": "into-cps",
     "id": 9074502,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9074502?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9074502?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/into-cps",
     "htmlUrl": "https://github.com/into-cps",
@@ -20,21 +20,21 @@
   "description": "Frontend application for the INTO-CPS tool chain",
   "fork": false,
   "createdAt": "2016-04-06T10:49:01.000Z",
-  "updatedAt": "2017-02-02T14:58:29.000Z",
-  "pushedAt": "2017-05-03T09:46:26.000Z",
+  "updatedAt": "2017-06-13T07:50:47.000Z",
+  "pushedAt": "2017-10-17T19:04:30.000Z",
   "homepage": "http://into-cps.github.io/",
-  "size": 69908,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 69926,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 2,
-  "openIssuesCount": 9,
-  "openIssues": 9,
-  "watchers": 2,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "into-cps",
     "id": 9074502,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9074502?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9074502?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/into-cps",
     "htmlUrl": "https://github.com/into-cps",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 2,
-  "subscribersCount": 12,
+  "subscribersCount": 11,
   "status": 200,
   "packageJSON": {
     "name": "into-cps-app",
@@ -71,16 +71,8 @@
     "version": "3.0.5-dev",
     "description": "User interface for the INTO-CPS Toolchain",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/intocps/intocps-ui.git"
-    },
+    "repository": "https://github.com/intocps/intocps-ui",
     "main": "dist/main.js",
-    "author": {
-      "name": "INTO-CPS Project",
-      "email": "",
-      "url": "http://into-cps.au.dk/"
-    },
     "electronVersion": "1.4.15",
     "scripts": {
       "start": "electron dist/main.js"
@@ -150,6 +142,13 @@
       "run-sequence": "~1.2.2",
       "semver": "~5.3.0",
       "webpack": "~1.13.0"
+    },
+    "other": {
+      "author": {
+        "name": "INTO-CPS Project",
+        "email": "",
+        "url": "http://into-cps.au.dk/"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,7 @@
   },
   "filename": "into-cps___intocps-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:19:07.190Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:16.464Z"
+  "lastFetchedAt": "2017-10-23T20:07:07.866Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:16.464Z",
+  "archived": false
 }

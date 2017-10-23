@@ -5,7 +5,7 @@
   "owner": {
     "login": "ghishadow",
     "id": 9583775,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9583775?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9583775?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ghishadow",
     "htmlUrl": "https://github.com/ghishadow",
@@ -81,7 +81,6 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "author": "Suraj Ghimire",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -97,6 +96,9 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "Suraj Ghimire"
     }
   },
   "packageStatus": 200,
@@ -124,6 +126,7 @@
   },
   "filename": "ghishadow___ghi-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:44.273Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:27.226Z"
+  "lastFetchedAt": "2017-10-23T20:54:11.997Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:27.226Z",
+  "archived": false
 }

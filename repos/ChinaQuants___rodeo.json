@@ -5,7 +5,7 @@
   "owner": {
     "login": "ChinaQuants",
     "id": 10070430,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10070430?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10070430?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ChinaQuants",
     "htmlUrl": "https://github.com/ChinaQuants",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "ChinaQuants",
     "id": 10070430,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10070430?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10070430?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ChinaQuants",
     "htmlUrl": "https://github.com/ChinaQuants",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "yhat",
       "id": 2684181,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2684181?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2684181?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/yhat",
       "htmlUrl": "https://github.com/yhat",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/yhat/rodeo/downloads",
     "deploymentsUrl": "https://api.github.com/repos/yhat/rodeo/deployments",
     "createdAt": "2015-04-09T17:51:22.000Z",
-    "updatedAt": "2017-05-04T09:18:42.000Z",
-    "pushedAt": "2017-01-24T22:00:49.000Z",
+    "updatedAt": "2017-10-23T14:35:15.000Z",
+    "pushedAt": "2017-05-12T08:10:12.000Z",
     "gitUrl": "git://github.com/yhat/rodeo.git",
     "sshUrl": "git@github.com:yhat/rodeo.git",
     "cloneUrl": "https://github.com/yhat/rodeo.git",
     "svnUrl": "https://github.com/yhat/rodeo",
     "homepage": "",
     "size": 25712,
-    "stargazersCount": 3454,
-    "watchersCount": 3454,
+    "stargazersCount": 3613,
+    "watchersCount": 3613,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 350,
+    "forksCount": 370,
     "mirrorUrl": null,
-    "openIssuesCount": 189,
-    "openIssues": 189,
-    "watchers": 3454,
+    "archived": false,
+    "openIssuesCount": 205,
+    "openIssues": 205,
+    "watchers": 3613,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "yhat",
       "id": 2684181,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2684181?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2684181?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/yhat",
       "htmlUrl": "https://github.com/yhat",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/yhat/rodeo/downloads",
     "deploymentsUrl": "https://api.github.com/repos/yhat/rodeo/deployments",
     "createdAt": "2015-04-09T17:51:22.000Z",
-    "updatedAt": "2017-05-04T09:18:42.000Z",
-    "pushedAt": "2017-01-24T22:00:49.000Z",
+    "updatedAt": "2017-10-23T14:35:15.000Z",
+    "pushedAt": "2017-05-12T08:10:12.000Z",
     "gitUrl": "git://github.com/yhat/rodeo.git",
     "sshUrl": "git@github.com:yhat/rodeo.git",
     "cloneUrl": "https://github.com/yhat/rodeo.git",
     "svnUrl": "https://github.com/yhat/rodeo",
     "homepage": "",
     "size": 25712,
-    "stargazersCount": 3454,
-    "watchersCount": 3454,
+    "stargazersCount": 3613,
+    "watchersCount": 3613,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 350,
+    "forksCount": 370,
     "mirrorUrl": null,
-    "openIssuesCount": 189,
-    "openIssues": 189,
-    "watchers": 3454,
+    "archived": false,
+    "openIssuesCount": 205,
+    "openIssues": 205,
+    "watchers": 3613,
     "defaultBranch": "master"
   },
-  "networkCount": 350,
+  "networkCount": 370,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -186,12 +188,8 @@
     "appBundleId": "com.yhat.rodeo",
     "helperBundleId": "com.yhat.rodeo.helper",
     "description": "An IDE for data science.",
-    "author": "The Yhat Team",
     "main": "src/desktop/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/yhat/rodeo.git"
-    },
+    "repository": "https://github.com/yhat/rodeo",
     "bin": {
       "rodeo-web": "./bin/rodeo-web"
     },
@@ -243,7 +241,10 @@
       "test": "echo it works",
       "build": "electron-compile --target ./cache src/ static/ --verbose && node scripts/build.js"
     },
-    "license": "AGPL-3.0"
+    "license": "AGPL-3.0",
+    "other": {
+      "author": "The Yhat Team"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -290,6 +291,7 @@
   "svnUrl": "https://github.com/ChinaQuants/rodeo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:33:36.792Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:32.704Z"
+  "lastFetchedAt": "2017-10-23T19:26:47.304Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:32.704Z",
+  "archived": false
 }

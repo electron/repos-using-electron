@@ -5,7 +5,7 @@
   "owner": {
     "login": "gfogle",
     "id": 7015773,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7015773?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7015773?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gfogle",
     "htmlUrl": "https://github.com/gfogle",
@@ -20,21 +20,21 @@
   "description": "Sharing of React code across Web, iOS, Android, Electron as Hello World example",
   "fork": false,
   "createdAt": "2016-02-02T01:00:09.000Z",
-  "updatedAt": "2017-05-04T01:49:17.000Z",
+  "updatedAt": "2017-06-27T02:38:50.000Z",
   "pushedAt": "2016-02-02T02:55:08.000Z",
   "homepage": null,
   "size": 361,
-  "stargazersCount": 15,
-  "watchersCount": 15,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "Objective-C",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 15,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -65,10 +65,7 @@
       "build:ios": "react-native bundle --entry-file index.ios.js --bundle-output ios/main.jsbundle --platform ios --dev false",
       "build:android": "node_modules/react-native bundle --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --platform android --dev false"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gfogle/multi-platform-react.git"
-    },
+    "repository": "https://github.com/gfogle/multi-platform-react",
     "keywords": [
       "react",
       "react",
@@ -76,11 +73,7 @@
       "electron",
       "webpack"
     ],
-    "author": "George Fogle",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gfogle/multi-platform-react/issues"
-    },
     "homepage": "https://github.com/gfogle/multi-platform-react#readme",
     "dependencies": {
       "react": "^0.14.7",
@@ -96,6 +89,12 @@
       "eslint-plugin-react": "^3.16.1",
       "webpack": "^1.12.12",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "George Fogle",
+      "bugs": {
+        "url": "https://github.com/gfogle/multi-platform-react/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   "svnUrl": "https://github.com/gfogle/multi-platform-react",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:31:14.691Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:44.683Z"
+  "lastFetchedAt": "2017-10-23T18:25:08.896Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:44.683Z",
+  "archived": false
 }

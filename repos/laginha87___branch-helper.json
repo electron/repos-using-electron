@@ -5,7 +5,7 @@
   "owner": {
     "login": "laginha87",
     "id": 6118156,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6118156?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6118156?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/laginha87",
     "htmlUrl": "https://github.com/laginha87",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for branch-helper goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -130,6 +125,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -177,6 +179,7 @@
   "svnUrl": "https://github.com/laginha87/branch-helper",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:54:38.799Z",
-  "packageLastFetchedAt": "2017-05-04T22:36:08.892Z"
+  "lastFetchedAt": "2017-10-23T18:47:09.284Z",
+  "packageLastFetchedAt": "2017-05-04T22:36:08.892Z",
+  "archived": false
 }

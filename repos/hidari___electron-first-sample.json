@@ -5,7 +5,7 @@
   "owner": {
     "login": "hidari",
     "id": 1143259,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1143259?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1143259?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hidari",
     "htmlUrl": "https://github.com/hidari",
@@ -63,12 +63,14 @@
       "build": "npm run build:osx && npm run build:linux",
       "release": "electron-builder \"dist/electron-app-darwin-x64/electron-app.app\" --platform=osx --out=./dist --config=builder.json"
     },
-    "author": "Hidari0415",
     "license": "MIT",
     "devDependencies": {
       "electron-builder": "^2.11.0",
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.37.2"
+    },
+    "other": {
+      "author": "Hidari0415"
     }
   },
   "packageStatus": 200,
@@ -116,6 +118,7 @@
   "svnUrl": "https://github.com/hidari/electron-first-sample",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:33:14.611Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:49.667Z"
+  "lastFetchedAt": "2017-10-23T18:52:24.875Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:49.667Z",
+  "archived": false
 }

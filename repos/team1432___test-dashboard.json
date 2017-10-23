@@ -5,7 +5,7 @@
   "owner": {
     "login": "team1432",
     "id": 15491546,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15491546?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15491546?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/team1432",
     "htmlUrl": "https://github.com/team1432",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "team1432",
     "id": 15491546,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15491546?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15491546?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/team1432",
     "htmlUrl": "https://github.com/team1432",
@@ -93,21 +93,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FRCDashboard/FRCDashboard"
-    },
+    "repository": "https://github.com/FRCDashboard/FRCDashboard",
     "keywords": [
       "frc",
       "dashboard",
       "first",
       "robotics"
     ],
-    "author": "FRCDashboard",
     "license": "Apache 2.0",
-    "bugs": {
-      "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
-    },
     "homepage": "http://frcdashboard.github.io",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -118,6 +111,12 @@
       "coffee-script-brunch": "^2.0.0",
       "jeet": "6.1.2",
       "stylus-brunch": "^2.7.2"
+    },
+    "other": {
+      "author": "FRCDashboard",
+      "bugs": {
+        "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "team1432___test-dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:34.356Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:31.502Z"
+  "lastFetchedAt": "2017-10-23T17:12:59.234Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:31.502Z",
+  "archived": false
 }

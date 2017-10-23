@@ -5,7 +5,7 @@
   "owner": {
     "login": "stevenla",
     "id": 887038,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/887038?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/887038?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stevenla",
     "htmlUrl": "https://github.com/stevenla",
@@ -56,7 +56,6 @@
       "dev": "./node_modules/.bin/gulp watch",
       "package-mac": "npm run compile && ./node_modules/.bin/electron-packager . 'Midas Player' --platform=darwin --arch=all --version=0.37.5 --icon=app.icns --build-version=0.1.4 --app-version=0.1.4 --ignore=src --prune --overwrite"
     },
-    "author": "Steven La <mrstevenla@gmail.com>",
     "license": "ISC",
     "dependencies": {
       "connect": "^3.4.1",
@@ -76,6 +75,9 @@
       "gulp-babel": "^6.1.2",
       "gulp-rename": "^1.2.2",
       "gulp-rimraf": "^0.2.0"
+    },
+    "other": {
+      "author": "Steven La <mrstevenla@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
   "svnUrl": "https://github.com/stevenla/midas-player",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:01:06.325Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:14.996Z"
+  "lastFetchedAt": "2017-10-23T18:25:31.203Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:14.996Z",
+  "archived": false
 }

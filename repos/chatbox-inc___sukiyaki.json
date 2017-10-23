@@ -5,7 +5,7 @@
   "owner": {
     "login": "chatbox-inc",
     "id": 12973660,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12973660?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12973660?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chatbox-inc",
     "htmlUrl": "https://github.com/chatbox-inc",
@@ -20,21 +20,21 @@
   "description": "Markdown editor.",
   "fork": false,
   "createdAt": "2016-05-20T05:42:17.000Z",
-  "updatedAt": "2016-08-23T11:46:39.000Z",
+  "updatedAt": "2017-06-06T09:23:08.000Z",
   "pushedAt": "2016-09-05T02:05:32.000Z",
   "homepage": "http://chatbox-inc.github.io/sukiyaki/",
   "size": 11915,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "Vue",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "dev",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "chatbox-inc",
     "id": 12973660,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12973660?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12973660?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chatbox-inc",
     "htmlUrl": "https://github.com/chatbox-inc",
@@ -56,7 +56,7 @@
     "receivedEventsUrl": "https://api.github.com/users/chatbox-inc/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -75,15 +75,8 @@
       "lint:check": "eslint ./src --ext=js,vue;exit 0;",
       "release": "rm -Rf ./dist;electron-packager ./ sukiyaki --platform=darwin,win32 --arch=x64 --version=1.2.5 --out=./dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chatbox-inc/sukiyaki.git"
-    },
-    "author": "Potato4d",
+    "repository": "https://github.com/chatbox-inc/sukiyaki",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chatbox-inc/sukiyaki/issues"
-    },
     "homepage": "https://github.com/chatbox-inc/sukiyaki#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -116,6 +109,12 @@
       "jquery": "^3.1.0",
       "nl2br": "0.0.3",
       "vue": "^1.0.26"
+    },
+    "other": {
+      "author": "Potato4d",
+      "bugs": {
+        "url": "https://github.com/chatbox-inc/sukiyaki/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "chatbox-inc___sukiyaki.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:58:39.379Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:44.841Z"
+  "lastFetchedAt": "2017-10-23T18:21:55.573Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:44.841Z",
+  "archived": false
 }

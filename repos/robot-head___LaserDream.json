@@ -5,7 +5,7 @@
   "owner": {
     "login": "robot-head",
     "id": 877644,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/877644?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/877644?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robot-head",
     "htmlUrl": "https://github.com/robot-head",
@@ -72,19 +72,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -154,6 +143,16 @@
       "redux": "^3.0.4",
       "redux-promise": "^0.5.0",
       "redux-thunk": "^1.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -202,6 +201,7 @@
   "svnUrl": "https://github.com/robot-head/LaserDream",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:14:59.863Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:18.722Z"
+  "lastFetchedAt": "2017-10-23T20:26:50.092Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:18.722Z",
+  "archived": false
 }

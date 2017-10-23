@@ -5,7 +5,7 @@
   "owner": {
     "login": "IMAGINARY",
     "id": 3019817,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3019817?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3019817?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IMAGINARY",
     "htmlUrl": "https://github.com/IMAGINARY",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "IMAGINARY",
     "id": 3019817,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3019817?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3019817?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IMAGINARY",
     "htmlUrl": "https://github.com/IMAGINARY",
@@ -91,14 +91,7 @@
     "version": "1.0.1",
     "description": "A slider to present, print and email Snapshots of modern mathematics from Oberwolfach",
     "homepage": "https://github.com/IMAGINARY/snapshot-slider#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/IMAGINARY/snapshot-slider.git"
-    },
-    "bugs": {
-      "url": "https://github.com/IMAGINARY/snapshot-slider/issues",
-      "email": "info@imaginary.org"
-    },
+    "repository": "https://github.com/IMAGINARY/snapshot-slider",
     "main": "main.js",
     "keywords": [
       "SNAPSHOT",
@@ -107,7 +100,6 @@
       "modern",
       "slider"
     ],
-    "author": "IMAGINARY gGmbH <info@imaginary.org>",
     "license": "Apache-2.0",
     "devDependencies": {
       "electron": "^1.4.12",
@@ -193,6 +185,13 @@
           "filter": "**/icon48x48.png"
         }
       ]
+    },
+    "other": {
+      "author": "IMAGINARY gGmbH <info@imaginary.org>",
+      "bugs": {
+        "url": "https://github.com/IMAGINARY/snapshot-slider/issues",
+        "email": "info@imaginary.org"
+      }
     }
   },
   "packageStatus": 200,
@@ -220,6 +219,7 @@
   },
   "filename": "IMAGINARY___snapshot-slider.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:21.545Z",
-  "packageLastFetchedAt": "2017-05-05T17:46:17.701Z"
+  "lastFetchedAt": "2017-10-23T20:20:05.337Z",
+  "packageLastFetchedAt": "2017-05-05T17:46:17.701Z",
+  "archived": false
 }

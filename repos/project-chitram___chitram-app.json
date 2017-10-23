@@ -5,7 +5,7 @@
   "owner": {
     "login": "project-chitram",
     "id": 17579378,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17579378?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17579378?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/project-chitram",
     "htmlUrl": "https://github.com/project-chitram",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/project-chitram/chitram-app/deployments",
   "createdAt": "2016-07-03T19:48:24.000Z",
   "updatedAt": "2016-11-14T21:12:32.000Z",
-  "pushedAt": "2016-07-27T01:04:57.000Z",
+  "pushedAt": "2017-08-30T18:27:41.000Z",
   "gitUrl": "git://github.com/project-chitram/chitram-app.git",
   "sshUrl": "git@github.com:project-chitram/chitram-app.git",
   "cloneUrl": "https://github.com/project-chitram/chitram-app.git",
   "svnUrl": "https://github.com/project-chitram/chitram-app",
   "homepage": null,
-  "size": 31761,
+  "size": 31756,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "HTML",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "project-chitram",
     "id": 17579378,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17579378?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17579378?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/project-chitram",
     "htmlUrl": "https://github.com/project-chitram",
@@ -93,21 +93,14 @@
     "scripts": {
       "start": "./bash/start-web-server.sh && electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/project-chitram/chitram-app.git"
-    },
+    "repository": "https://github.com/project-chitram/chitram-app",
     "keywords": [
       "video",
       "dataviz",
       "animation",
       "charts"
     ],
-    "author": "KavyaSukumar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/project-chitram/chitram-app/issues"
-    },
     "homepage": "https://github.com/project-chitram/chitram-app#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8",
@@ -122,6 +115,12 @@
       "jquery": "^3.1.0",
       "json-editor": "^0.7.26",
       "jsonfile": "^2.3.1"
+    },
+    "other": {
+      "author": "KavyaSukumar",
+      "bugs": {
+        "url": "https://github.com/project-chitram/chitram-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   },
   "filename": "project-chitram___chitram-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:58.292Z",
-  "packageLastFetchedAt": "2017-05-04T22:10:03.417Z"
+  "lastFetchedAt": "2017-10-23T18:49:30.553Z",
+  "packageLastFetchedAt": "2017-05-04T22:10:03.417Z",
+  "archived": false
 }

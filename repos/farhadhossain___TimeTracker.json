@@ -5,7 +5,7 @@
   "owner": {
     "login": "farhadhossain",
     "id": 1044273,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1044273?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1044273?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/farhadhossain",
     "htmlUrl": "https://github.com/farhadhossain",
@@ -81,21 +81,14 @@
       "build-mac": "electron-packager . $npm_package_productName --out=dist --ignore='^/dist$' --prune --platform=darwin  --arch=x64  --overwrite --version=1.3.2 --icon=assets/images/icon.icns",
       "build-win": "electron-packager . $npm_package_productName --out=dist --ignore='^/dist$' --prune --platform=win32  --arch=ia32  --overwrite --version=1.4.1 --icon=assets/images/icon.ico"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -113,6 +106,12 @@
       "restler": "*",
       "nconf": "*",
       "auto-launch": "*"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "farhadhossain___TimeTracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:49.425Z",
-  "packageLastFetchedAt": "2017-05-04T22:13:34.804Z"
+  "lastFetchedAt": "2017-10-23T20:24:27.836Z",
+  "packageLastFetchedAt": "2017-05-04T22:13:34.804Z",
+  "archived": false
 }

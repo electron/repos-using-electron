@@ -5,7 +5,7 @@
   "owner": {
     "login": "srujant",
     "id": 18360231,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18360231?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18360231?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/srujant",
     "htmlUrl": "https://github.com/srujant",
@@ -77,16 +77,6 @@
     "description": "Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.",
     "homepage": "http://cesiumjs.org",
     "license": "Apache-2.0",
-    "author": {
-      "name": "Analytical Graphics, Inc.",
-      "url": "http://www.agi.com"
-    },
-    "contributors": [
-      {
-        "name": "Cesium community",
-        "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
-      }
-    ],
     "keywords": [
       "3D",
       "webgl",
@@ -94,14 +84,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "chart.js": "^2.3.0",
       "requirejs": "2.3.2"
@@ -172,6 +155,22 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "author": {
+        "name": "Analytical Graphics, Inc.",
+        "url": "http://www.agi.com"
+      },
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      },
+      "contributors": [
+        {
+          "name": "Cesium community",
+          "url": "https://github.com/AnalyticalGraphicsInc/cesium/blob/master/CONTRIBUTORS.md"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -199,6 +198,7 @@
   },
   "filename": "srujant___capitalone.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:00.117Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:04.600Z"
+  "lastFetchedAt": "2017-10-23T19:23:18.124Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:04.600Z",
+  "archived": false
 }

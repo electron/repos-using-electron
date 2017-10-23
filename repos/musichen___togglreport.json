@@ -5,7 +5,7 @@
   "owner": {
     "login": "musichen",
     "id": 7377421,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7377421?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7377421?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/musichen",
     "htmlUrl": "https://github.com/musichen",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "togglreport",
@@ -97,19 +97,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/musichen/togglreport.git"
-    },
-    "author": {
-      "name": "Alexander Musichen",
-      "email": "alex.musichen@gmail.com",
-      "url": "https://github.com/musichen"
-    },
+    "repository": "https://github.com/musichen/togglreport",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/musichen/togglreport/issues"
-    },
     "keywords": [
       "toggl",
       "report",
@@ -199,6 +188,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Alexander Musichen",
+        "email": "alex.musichen@gmail.com",
+        "url": "https://github.com/musichen"
+      },
+      "bugs": {
+        "url": "https://github.com/musichen/togglreport/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -226,6 +225,7 @@
   },
   "filename": "musichen___togglreport.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:14.649Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:25.476Z"
+  "lastFetchedAt": "2017-10-23T19:35:38.121Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:25.476Z",
+  "archived": false
 }

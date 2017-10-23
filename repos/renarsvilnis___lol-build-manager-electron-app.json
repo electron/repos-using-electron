@@ -5,7 +5,7 @@
   "owner": {
     "login": "renarsvilnis",
     "id": 3515099,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3515099?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3515099?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/renarsvilnis",
     "htmlUrl": "https://github.com/renarsvilnis",
@@ -64,11 +64,6 @@
       "lint": "./node_modules/.bin/eslint ./src/js/",
       "start-app": "./node_modules/electron-prebuilt/cli.js ./prebuild"
     },
-    "author": {
-      "name": "Renārs Vilnis",
-      "email": "renars.vilnis@gmail.com",
-      "url": "https://renarsvilnis.com/"
-    },
     "license": "MIT",
     "dependencies": {
       "async": "^1.4.2",
@@ -120,6 +115,13 @@
       "gulp-sass": "^2.0.4",
       "gulp-uglify": "^1.2.0",
       "material-design-icons": "^2.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "Renārs Vilnis",
+        "email": "renars.vilnis@gmail.com",
+        "url": "https://renarsvilnis.com/"
+      }
     }
   },
   "packageStatus": 200,
@@ -167,6 +169,7 @@
   },
   "filename": "renarsvilnis___lol-build-manager-electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:38.302Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:29.654Z"
+  "lastFetchedAt": "2017-10-23T19:21:40.040Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:29.654Z",
+  "archived": false
 }

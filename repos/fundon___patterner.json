@@ -5,7 +5,7 @@
   "owner": {
     "login": "fundon",
     "id": 27926,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/27926?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/27926?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fundon",
     "htmlUrl": "https://github.com/fundon",
@@ -55,7 +55,6 @@
       "start": "electron .",
       "build": "electron-packager ./ Patterner --platform=darwin --arch=x64 --out=dist --version=0.33.3 --overwrite"
     },
-    "author": "Fangdun Cai <cfddream@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.1.0",
@@ -64,6 +63,9 @@
     "dependencies": {
       "geopattern": "^1.2.3",
       "jquery": "^2.1.4"
+    },
+    "other": {
+      "author": "Fangdun Cai <cfddream@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
   },
   "filename": "fundon___patterner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:41.269Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:33.624Z"
+  "lastFetchedAt": "2017-10-23T20:37:10.995Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:33.624Z",
+  "archived": false
 }

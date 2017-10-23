@@ -200,8 +200,8 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:05:17.535Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T19:17:57.578Z",
   "packageJSON": {
     "name": "plantuml-editor",
     "version": "0.1.0",
@@ -218,15 +218,8 @@
       "webpack-test": "webpack --config webpack.test.js --progress --profile",
       "test": "karma start"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/threestudio/plantuml-editor.git"
-    },
-    "author": "threeq <448987046@qq.com>",
+    "repository": "https://github.com/threestudio/plantuml-editor",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/joaogarin/angular2-electron/issues"
-    },
     "homepage": "",
     "dependencies": {
       "@angular/common": "2.3.1",
@@ -307,6 +300,12 @@
     "engines": {
       "node": ">= 4.2.1 <= 6",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "threeq <448987046@qq.com>",
+      "bugs": {
+        "url": "https://github.com/joaogarin/angular2-electron/issues"
+      }
     }
   },
   "packageStatus": 200,

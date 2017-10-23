@@ -5,7 +5,7 @@
   "owner": {
     "login": "dawee",
     "id": 1039076,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1039076?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1039076?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dawee",
     "htmlUrl": "https://github.com/dawee",
@@ -61,21 +61,14 @@
       "start": "electron boot/main.js",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/dawicorti/SquidMotion.git"
-    },
+    "repository": "https://github.com/dawicorti/SquidMotion",
     "keywords": [
       "animation",
       "svg",
       "motion",
       "squid"
     ],
-    "author": "David Corticchiato",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/dawicorti/SquidMotion/issues"
-    },
     "homepage": "https://github.com/dawicorti/SquidMotion#readme",
     "devDependencies": {
       "electron-prebuilt": "1.2.5",
@@ -105,6 +98,12 @@
       "react-tap-event-plugin": "^1.0.0",
       "reactcss": "1.0.4",
       "svg-flat-document": "0.0.4"
+    },
+    "other": {
+      "author": "David Corticchiato",
+      "bugs": {
+        "url": "https://github.com/dawicorti/SquidMotion/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   "svnUrl": "https://github.com/dawee/SquidMotion",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:26:41.786Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:46.184Z"
+  "lastFetchedAt": "2017-10-23T20:39:17.642Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:46.184Z",
+  "archived": false
 }

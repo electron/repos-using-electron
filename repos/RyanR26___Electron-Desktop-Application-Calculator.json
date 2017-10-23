@@ -6,7 +6,7 @@
   "owner": {
     "login": "RyanR26",
     "id": 6662228,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6662228?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6662228?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RyanR26",
     "htmlUrl": "https://github.com/RyanR26",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T14:56:08.913Z",
+  "lastFetchedAt": "2017-10-23T18:31:53.710Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -146,19 +146,8 @@
         "output": "release"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -271,8 +260,19 @@
       "node": ">=6.x",
       "npm": ">=3.x",
       "yarn": "0.21.3"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:31:21.247Z"
+  "packageLastFetchedAt": "2017-05-04T22:31:21.247Z",
+  "archived": false
 }

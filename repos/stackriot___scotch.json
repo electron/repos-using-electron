@@ -5,7 +5,7 @@
   "owner": {
     "login": "stackriot",
     "id": 16233243,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16233243?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16233243?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stackriot",
     "htmlUrl": "https://github.com/stackriot",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "stackriot",
     "id": 16233243,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16233243?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16233243?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stackriot",
     "htmlUrl": "https://github.com/stackriot",
@@ -90,19 +90,12 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/christiannwamba/scotch-player.git"
-    },
+    "repository": "https://github.com/christiannwamba/scotch-player",
     "keywords": [
       "react",
       "music"
     ],
-    "author": "Christian Nwamba",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/christiannwamba/scotch-player/issues"
-    },
     "homepage": "https://github.com/christiannwamba/scotch-player#readme",
     "dependencies": {
       "axios": "^0.9.1",
@@ -118,6 +111,12 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "Christian Nwamba",
+      "bugs": {
+        "url": "https://github.com/christiannwamba/scotch-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "stackriot___scotch.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:27.797Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:47.236Z"
+  "lastFetchedAt": "2017-10-23T19:07:02.478Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:47.236Z",
+  "archived": false
 }

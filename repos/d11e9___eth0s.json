@@ -5,7 +5,7 @@
   "owner": {
     "login": "d11e9",
     "id": 8437822,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8437822?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8437822?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/d11e9",
     "htmlUrl": "https://github.com/d11e9",
@@ -63,27 +63,26 @@
       "package": "electron-packager ./app Eth0s --all --out ./dist --overwrite --icon=app/src/client/images/icon.icns",
       "prepackage-win": "node prepackage-win.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/d11e9/eth0s.git"
-    },
+    "repository": "https://github.com/d11e9/eth0s",
     "keywords": [
       "ethereum",
       "client",
       "electron",
       "ipfs"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/d11e9/eth0s/issues"
-    },
     "homepage": "https://github.com/d11e9/eth0s#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.37.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/d11e9/eth0s/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,7 @@
   "svnUrl": "https://github.com/d11e9/eth0s",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:34:46.164Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:22.084Z"
+  "lastFetchedAt": "2017-10-23T18:55:32.505Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:22.084Z",
+  "archived": false
 }

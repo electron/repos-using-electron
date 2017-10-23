@@ -5,7 +5,7 @@
   "owner": {
     "login": "majauskas",
     "id": 1922474,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1922474?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1922474?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/majauskas",
     "htmlUrl": "https://github.com/majauskas",
@@ -70,8 +70,6 @@
     "version": "1.0.0",
     "private": true,
     "description": "IpTv Application",
-    "author": "Mindaugas Ajauskas",
-    "readmeFilename": "README.md",
     "main": "node-js/main.js",
     "dependencies": {
       "socket.io": "~1.3.4",
@@ -91,6 +89,10 @@
     },
     "scripts": {
       "start": "electron ."
+    },
+    "other": {
+      "author": "Mindaugas Ajauskas",
+      "readmeFilename": "README.md"
     }
   },
   "packageStatus": 200,
@@ -118,6 +120,7 @@
   },
   "filename": "majauskas___IpTv.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:40.585Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:12.588Z"
+  "lastFetchedAt": "2017-10-23T19:21:18.951Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:12.588Z",
+  "archived": false
 }

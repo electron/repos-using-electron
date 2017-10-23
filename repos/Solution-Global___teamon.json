@@ -5,7 +5,7 @@
   "owner": {
     "login": "Solution-Global",
     "id": 15997174,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15997174?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15997174?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Solution-Global",
     "htmlUrl": "https://github.com/Solution-Global",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 9,
   "openIssues": 9,
   "watchers": 0,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "Solution-Global",
     "id": 15997174,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15997174?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15997174?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Solution-Global",
     "htmlUrl": "https://github.com/Solution-Global",
@@ -56,7 +56,7 @@
     "receivedEventsUrl": "https://api.github.com/users/Solution-Global/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -64,13 +64,7 @@
     "version": "0.1.0",
     "description": "Unified desktop app for team communication and collaboration.",
     "main": "teamon.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Solution-Global/teamon.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Solution-Global/teamon/issues"
-    },
+    "repository": "https://github.com/Solution-Global/teamon",
     "scripts": {
       "dev": "electron .",
       "clean": "npm run clean:win",
@@ -85,7 +79,6 @@
       "asar:osx": "asar pack release/osx/teamon-osx/resources/app release/osx/teamon-osx/resources/app.asar && rm -rf release/osx/teamon-osx/resources/app",
       "build:osx": "npm run pack:osx && npm run asar:osx && electron-builder release/osx/teamon-osx --platform=osx --out=release/osx --config=packager.json"
     },
-    "author": "Solution-Global",
     "license": "GPL",
     "devDependencies": {
       "asar": "0.9.0",
@@ -112,6 +105,12 @@
       "moment": "2.11.2",
       "moment-timezone": "0.5.0",
       "autosize": "3.0.15"
+    },
+    "other": {
+      "author": "Solution-Global",
+      "bugs": {
+        "url": "https://github.com/Solution-Global/teamon/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   "svnUrl": "https://github.com/Solution-Global/teamon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:47:52.861Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:34.729Z"
+  "lastFetchedAt": "2017-10-23T17:57:41.428Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:34.729Z",
+  "archived": false
 }

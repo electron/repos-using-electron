@@ -5,7 +5,7 @@
   "owner": {
     "login": "matthewlui",
     "id": 3603284,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3603284?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3603284?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matthewlui",
     "htmlUrl": "https://github.com/matthewlui",
@@ -70,10 +70,7 @@
     "version": "0.1.5",
     "description": "Free open source cross platform MongoDB console written in Node.js Electron",
     "main": "src/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:matthewlui/ElectMongo.git"
-    },
+    "repository": "https://github.com/matthewlui/ElectMongo",
     "keywords": [
       "mongodb",
       "nodejs",
@@ -93,17 +90,19 @@
       "gulp": "^3.9.1",
       "gulp-jsdoc3": "^0.3.0"
     },
-    "author": {
-      "name": "Matthew Lui",
-      "email": "matthewluihk@icloud.com"
-    },
     "license": "MIT",
     "dependencies": {
       "path": "^0.12.7",
       "request": "^2.72.0",
       "mongoose": "*"
     },
-    "homepage": "http://techrd.in/ElectMongo"
+    "homepage": "http://techrd.in/ElectMongo",
+    "other": {
+      "author": {
+        "name": "Matthew Lui",
+        "email": "matthewluihk@icloud.com"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +129,7 @@
   },
   "filename": "matthewlui___ElectMongo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:36:31.739Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:56.661Z"
+  "lastFetchedAt": "2017-10-23T18:01:20.426Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:56.661Z",
+  "archived": false
 }

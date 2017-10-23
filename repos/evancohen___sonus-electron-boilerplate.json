@@ -6,7 +6,7 @@
   "owner": {
     "login": "evancohen",
     "id": 1198365,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1198365?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1198365?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/evancohen",
     "htmlUrl": "https://github.com/evancohen",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/evancohen/sonus-electron-boilerplate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/evancohen/sonus-electron-boilerplate/deployments",
   "createdAt": "2017-02-17T08:37:54.000Z",
-  "updatedAt": "2017-04-09T03:41:28.000Z",
+  "updatedAt": "2017-10-23T04:48:30.000Z",
   "pushedAt": "2017-04-06T20:54:00.000Z",
   "gitUrl": "git://github.com/evancohen/sonus-electron-boilerplate.git",
   "sshUrl": "git@github.com:evancohen/sonus-electron-boilerplate.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/evancohen/sonus-electron-boilerplate",
   "homepage": null,
   "size": 7,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -54,9 +54,9 @@
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 5,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "networkCount": 1,
   "subscribersCount": 4,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:03:43.316Z",
+  "lastFetchedAt": "2017-10-23T18:28:05.263Z",
   "packageJSON": {
     "name": "sonus-electron-boilerplate",
     "version": "0.0.1",
@@ -83,17 +83,13 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/sonus-electron-boilerplate.git"
-    },
+    "repository": "https://github.com/evancohen/sonus-electron-boilerplate",
     "keywords": [
       "sonus",
       "electron",
       "tts",
       "hotword-detection"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
     "dependencies": {
       "sonus": "^0.1.7"
@@ -101,11 +97,15 @@
     "devDependencies": {
       "electron": "1.6.2"
     },
-    "bugs": {
-      "url": "https://github.com/evancohen/sonus-electron-boilerplate/issues"
-    },
-    "homepage": "https://github.com/evancohen/sonus-electron-boilerplate#readme"
+    "homepage": "https://github.com/evancohen/sonus-electron-boilerplate#readme",
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/sonus-electron-boilerplate/issues"
+      }
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:30:06.171Z"
+  "packageLastFetchedAt": "2017-05-05T17:30:06.171Z",
+  "archived": false
 }

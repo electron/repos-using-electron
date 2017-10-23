@@ -5,7 +5,7 @@
   "owner": {
     "login": "stephenkingsley",
     "id": 13380370,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13380370?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13380370?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stephenkingsley",
     "htmlUrl": "https://github.com/stephenkingsley",
@@ -74,23 +74,22 @@
       "start": "electron ./main.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stephenkingsley/wechat.git"
-    },
+    "repository": "https://github.com/stephenkingsley/wechat",
     "keywords": [
       "electron",
       "wechat"
     ],
-    "author": "stephen.K",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stephenkingsley/wechat/issues"
-    },
     "homepage": "https://github.com/stephenkingsley/wechat#readme",
     "devDependencies": {
       "electron-packager": "^7.0.0",
       "electron-prebuilt": "^1.2.1"
+    },
+    "other": {
+      "author": "stephen.K",
+      "bugs": {
+        "url": "https://github.com/stephenkingsley/wechat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "stephenkingsley___wechat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:12:46.523Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:11.656Z"
+  "lastFetchedAt": "2017-10-23T20:19:18.258Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:11.656Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "mutuca",
     "id": 21229300,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21229300?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21229300?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mutuca",
     "htmlUrl": "https://github.com/mutuca",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "mutuca",
     "id": 21229300,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21229300?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21229300?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mutuca",
     "htmlUrl": "https://github.com/mutuca",
@@ -89,26 +89,19 @@
     "name": "mutuca",
     "version": "1.0.0",
     "description": "The Definitive Developer's Dashboard",
-    "author": "Leonardo Eloy",
     "main": "app/index.js",
     "scripts": {
       "test": "xo",
       "start": "electron .",
       "build": "electron-packager . --out=dist --app-version=$npm_package_version --prune --asar --overwrite --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/leonardoeloy/mutuca.git"
-    },
+    "repository": "https://github.com/leonardoeloy/mutuca",
     "keywords": [
       "mutuca",
       "developer",
       "dashboard"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/leonardoeloy/mutuca/issues"
-    },
     "homepage": "https://github.com/leonardoeloy/mutuca#readme",
     "dependencies": {
       "electron-debug": "^1.0.0"
@@ -130,6 +123,12 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": "Leonardo Eloy",
+      "bugs": {
+        "url": "https://github.com/leonardoeloy/mutuca/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   },
   "filename": "mutuca___mutuca.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:23.825Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:33.256Z"
+  "lastFetchedAt": "2017-10-23T20:12:10.423Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:33.256Z",
+  "archived": false
 }

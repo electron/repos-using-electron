@@ -5,7 +5,7 @@
   "owner": {
     "login": "jamesmorgan",
     "id": 110869,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/110869?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/110869?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jamesmorgan",
     "htmlUrl": "https://github.com/jamesmorgan",
@@ -78,11 +78,6 @@
     "description": "Cross platform github integration in your desktop menu bar!",
     "license": "MIT",
     "repository": "git@github.com:jamesmorgan/github-explorer-electron.git",
-    "author": {
-      "name": "James Morgan",
-      "email": "",
-      "url": "http://jem-solutions.co.uk"
-    },
     "scripts": {
       "clean-ng-build": "rimraf browser-content-build/",
       "watch": "webpack --watch --progress --profile --colors --display-error-details --display-cached",
@@ -154,6 +149,13 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1",
       "webpack-merge": "^0.14.0"
+    },
+    "other": {
+      "author": {
+        "name": "James Morgan",
+        "email": "",
+        "url": "http://jem-solutions.co.uk"
+      }
     }
   },
   "packageStatus": 200,
@@ -181,6 +183,7 @@
   },
   "filename": "jamesmorgan___github-explorer-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:57.178Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:26.518Z"
+  "lastFetchedAt": "2017-10-23T17:08:41.904Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:26.518Z",
+  "archived": false
 }

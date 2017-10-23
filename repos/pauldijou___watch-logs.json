@@ -5,7 +5,7 @@
   "owner": {
     "login": "pauldijou",
     "id": 1275293,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1275293?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1275293?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pauldijou",
     "htmlUrl": "https://github.com/pauldijou",
@@ -83,21 +83,14 @@
       "styles": "npm run less-dev && chokidar 'styles/*.less' -c 'npm run less-dev'",
       "log": "node test/logs/index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pauldijou/watch-logs.git"
-    },
+    "repository": "https://github.com/pauldijou/watch-logs",
     "keywords": [
       "logs",
       "log",
       "viewer",
       "watch"
     ],
-    "author": "Paul Dijou",
     "license": "Apache 2",
-    "bugs": {
-      "url": "https://github.com/pauldijou/watch-logs/issues"
-    },
     "homepage": "https://github.com/pauldijou/watch-logs#readme",
     "devDependencies": {
       "chokidar-cli": "^1.2.0",
@@ -110,6 +103,12 @@
       "chokidar": "^1.5.2",
       "mobx": "^2.4.0",
       "snabbdom": "^0.5.0"
+    },
+    "other": {
+      "author": "Paul Dijou",
+      "bugs": {
+        "url": "https://github.com/pauldijou/watch-logs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "pauldijou___watch-logs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:03.725Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:05.214Z"
+  "lastFetchedAt": "2017-10-23T18:42:06.801Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:05.214Z",
+  "archived": false
 }

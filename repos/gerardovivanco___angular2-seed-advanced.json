@@ -5,7 +5,7 @@
   "owner": {
     "login": "gerardovivanco",
     "id": 6403828,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6403828?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6403828?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gerardovivanco",
     "htmlUrl": "https://github.com/gerardovivanco",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/gerardovivanco/angular2-seed-advanced/downloads",
   "deploymentsUrl": "https://api.github.com/repos/gerardovivanco/angular2-seed-advanced/deployments",
   "createdAt": "2016-10-13T20:07:56.000Z",
-  "updatedAt": "2017-02-24T09:43:10.000Z",
+  "updatedAt": "2017-10-06T15:21:18.000Z",
   "pushedAt": "2016-10-13T20:16:22.000Z",
   "gitUrl": "git://github.com/gerardovivanco/angular2-seed-advanced.git",
   "sshUrl": "git@github.com:gerardovivanco/angular2-seed-advanced.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/gerardovivanco/angular2-seed-advanced",
   "homepage": null,
   "size": 1833,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -75,9 +75,7 @@
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -132,12 +130,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "@angular/compiler-cli": "^0.6.1",
@@ -266,6 +258,14 @@
       "rxjs": "5.0.0-beta.12",
       "systemjs": "0.19.39",
       "zone.js": "0.6.25"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -293,6 +293,7 @@
   },
   "filename": "gerardovivanco___angular2-seed-advanced.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:23:50.401Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:17.647Z"
+  "lastFetchedAt": "2017-10-23T17:12:16.148Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:17.647Z",
+  "archived": false
 }

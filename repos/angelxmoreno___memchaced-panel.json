@@ -5,7 +5,7 @@
   "owner": {
     "login": "angelxmoreno",
     "id": 363479,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/363479?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/363479?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/angelxmoreno",
     "htmlUrl": "https://github.com/angelxmoreno",
@@ -81,23 +81,12 @@
       "postinstall": "./node_modules/.bin/bower install",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/angelxmoreno/memchaced-panel.git"
-    },
+    "repository": "https://github.com/angelxmoreno/memchaced-panel",
     "keywords": [
       "Memcached",
       "Admin"
     ],
-    "author": {
-      "name": "Angel S. Moreno",
-      "email": "angelxmoreno@gmail.com",
-      "url": "https://angelxmoreno.github.io/"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/angelxmoreno/memchaced-panel/issues"
-    },
     "homepage": "https://github.com/angelxmoreno/memchaced-panel#readme",
     "dependencies": {
       "angular": "^1.5.7",
@@ -112,6 +101,16 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.2.5"
+    },
+    "other": {
+      "author": {
+        "name": "Angel S. Moreno",
+        "email": "angelxmoreno@gmail.com",
+        "url": "https://angelxmoreno.github.io/"
+      },
+      "bugs": {
+        "url": "https://github.com/angelxmoreno/memchaced-panel/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "angelxmoreno___memchaced-panel.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:29.888Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:28.872Z"
+  "lastFetchedAt": "2017-10-23T20:35:00.126Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:28.872Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "AledLewis",
     "id": 1190284,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1190284?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1190284?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AledLewis",
     "htmlUrl": "https://github.com/AledLewis",
@@ -55,18 +55,17 @@
       "start": "electron client.js",
       "package_win": "electron-packager . slobber --platform=win32 --arch=x64 --version=1.2.2 --asar --overwrite --asar-unpack \"**/node_modules/node-notifier/vendor/**\" --icon 128.png --appname Slobber"
     },
-    "author": "Aled Lewis",
     "license": "MIT",
     "dependencies": {
       "slobber-server": ">=0.0.12"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AledLewis/slobber-client"
-    },
+    "repository": "https://github.com/AledLewis/slobber-client",
     "devDependencies": {
       "electron-packager": "^7.0.3",
       "electron-prebuilt": "^1.2.2"
+    },
+    "other": {
+      "author": "Aled Lewis"
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,7 @@
   "svnUrl": "https://github.com/AledLewis/slobber-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:48:46.252Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:47.979Z"
+  "lastFetchedAt": "2017-10-23T18:48:31.453Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:47.979Z",
+  "archived": false
 }

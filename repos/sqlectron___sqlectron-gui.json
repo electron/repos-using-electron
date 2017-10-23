@@ -5,7 +5,7 @@
   "owner": {
     "login": "sqlectron",
     "id": 14129064,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14129064?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14129064?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sqlectron",
     "htmlUrl": "https://github.com/sqlectron",
@@ -20,21 +20,21 @@
   "description": "A simple and lightweight SQL client desktop with cross database and platform support.",
   "fork": false,
   "createdAt": "2015-09-05T12:22:51.000Z",
-  "updatedAt": "2017-05-04T17:01:04.000Z",
-  "pushedAt": "2017-02-27T23:42:56.000Z",
+  "updatedAt": "2017-10-23T18:33:28.000Z",
+  "pushedAt": "2017-10-23T15:09:25.000Z",
   "homepage": "https://sqlectron.github.io/",
-  "size": 3858,
-  "stargazersCount": 1333,
-  "watchersCount": 1333,
+  "size": 3914,
+  "stargazersCount": 1783,
+  "watchersCount": 1783,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 114,
-  "openIssuesCount": 44,
-  "openIssues": 44,
-  "watchers": 1333,
+  "forksCount": 167,
+  "openIssuesCount": 59,
+  "openIssues": 59,
+  "watchers": 1783,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "sqlectron",
     "id": 14129064,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14129064?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14129064?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sqlectron",
     "htmlUrl": "https://github.com/sqlectron",
@@ -62,25 +62,17 @@
     "receivedEventsUrl": "https://api.github.com/users/sqlectron/received_events",
     "type": "Organization"
   },
-  "networkCount": 114,
-  "subscribersCount": 50,
+  "networkCount": 167,
+  "subscribersCount": 65,
   "status": 200,
   "packageJSON": {
     "name": "Sqlectron",
     "version": "1.20.2",
     "description": "A simple and lightweight SQL client with cross database and platform support",
-    "author": {
-      "name": "The Sqlectron Team",
-      "email": "maxcnunes@gmail.com"
-    },
     "main": "./out/browser/main.js",
     "license": "MIT",
     "homepage": "https://sqlectron.github.io",
-    "bugs": "https://github.com/sqlectron/sqlectron-gui/issues",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sqlectron/sqlectron-gui"
-    },
+    "repository": "https://github.com/sqlectron/sqlectron-gui",
     "build": {
       "appId": "org.sqlectron.gui",
       "mac": {
@@ -222,6 +214,13 @@
       "webpack-bundle-analyzer": "^2.2.1",
       "webpack-dev-middleware": "^1.9.0",
       "webpack-dev-server": "^1.16.2"
+    },
+    "other": {
+      "author": {
+        "name": "The Sqlectron Team",
+        "email": "maxcnunes@gmail.com"
+      },
+      "bugs": "https://github.com/sqlectron/sqlectron-gui/issues"
     }
   },
   "packageStatus": 200,
@@ -269,6 +268,7 @@
   },
   "filename": "sqlectron___sqlectron-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:41.704Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:52.777Z"
+  "lastFetchedAt": "2017-10-23T19:06:50.355Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:52.777Z",
+  "archived": false
 }

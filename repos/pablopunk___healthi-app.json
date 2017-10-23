@@ -6,7 +6,7 @@
   "owner": {
     "login": "pablopunk",
     "id": 4324982,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4324982?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4324982?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pablopunk",
     "htmlUrl": "https://github.com/pablopunk",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/pablopunk/healthi-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/pablopunk/healthi-app/deployments",
   "createdAt": "2016-10-12T16:33:58.000Z",
-  "updatedAt": "2017-04-24T14:41:11.000Z",
-  "pushedAt": "2017-05-02T19:35:07.000Z",
+  "updatedAt": "2017-10-19T00:59:46.000Z",
+  "pushedAt": "2017-10-16T20:37:30.000Z",
   "gitUrl": "git://github.com/pablopunk/healthi-app.git",
   "sshUrl": "git@github.com:pablopunk/healthi-app.git",
   "cloneUrl": "https://github.com/pablopunk/healthi-app.git",
   "svnUrl": "https://github.com/pablopunk/healthi-app",
   "homepage": "http://pablopunk.com/healthi-app",
-  "size": 2352,
-  "stargazersCount": 19,
-  "watchersCount": 19,
+  "size": 3651,
+  "stargazersCount": 36,
+  "watchersCount": 36,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 4,
+  "forksCount": 5,
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 19,
+  "watchers": 36,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,8 +63,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
-  "subscribersCount": 2,
+  "networkCount": 5,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "healthi-app",
@@ -78,10 +78,7 @@
       "test": "standard src/**/*.js",
       "prepush": "yarn run test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pablopunk/healthi-app.git"
-    },
+    "repository": "https://github.com/pablopunk/healthi-app",
     "keywords": [
       "mac",
       "battery",
@@ -90,11 +87,7 @@
       "topbar",
       "app"
     ],
-    "author": "Pablo Varela",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pablopunk/healthi-app/issues"
-    },
     "homepage": "https://github.com/pablopunk/healthi-app#readme",
     "dependencies": {
       "babel-plugin-relative-import": "^1.0.3",
@@ -125,6 +118,12 @@
           }
         ]
       ]
+    },
+    "other": {
+      "author": "Pablo Varela",
+      "bugs": {
+        "url": "https://github.com/pablopunk/healthi-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   },
   "sourceRepo": "pablopunk/healthi",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:29.745Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:53.934Z"
+  "lastFetchedAt": "2017-10-23T18:07:29.091Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:53.934Z",
+  "archived": false
 }

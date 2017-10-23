@@ -5,7 +5,7 @@
   "owner": {
     "login": "marcbachmann",
     "id": 431376,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/431376?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/431376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/marcbachmann",
     "htmlUrl": "https://github.com/marcbachmann",
@@ -20,12 +20,12 @@
   "description": ":flashlight: An extendable, interactive command launcher. Inspired by spotlight & flashlight.",
   "fork": false,
   "createdAt": "2015-09-04T23:29:40.000Z",
-  "updatedAt": "2017-02-18T22:37:19.000Z",
+  "updatedAt": "2017-07-09T18:20:19.000Z",
   "pushedAt": "2015-09-21T15:53:58.000Z",
   "homepage": "",
   "size": 8756,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 12,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,11 +61,7 @@
       "clean": "rm -Rf './Limelight.app'",
       "sign": "codesign --deep -s 'Code Signing' -f 'Limelight.app'"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/marcbachmann/limelight.git"
-    },
-    "author": "Marc Bachmann",
+    "repository": "https://github.com/marcbachmann/limelight",
     "dependencies": {
       "async": "^1.4.2",
       "dark-mode": "^1.0.2",
@@ -93,12 +89,15 @@
         "Limelight.app/**"
       ]
     },
-    "bugs": {
-      "url": "https://github.com/marcbachmann/limelight/issues"
-    },
     "homepage": "https://github.com/marcbachmann/limelight#readme",
-    "directories": {
-      "doc": "docs"
+    "other": {
+      "author": "Marc Bachmann",
+      "bugs": {
+        "url": "https://github.com/marcbachmann/limelight/issues"
+      },
+      "directories": {
+        "doc": "docs"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "marcbachmann___limelight.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:25:49.907Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:04.659Z"
+  "lastFetchedAt": "2017-10-23T19:31:33.072Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:04.659Z",
+  "archived": false
 }

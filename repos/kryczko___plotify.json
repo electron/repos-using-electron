@@ -5,7 +5,7 @@
   "owner": {
     "login": "kryczko",
     "id": 3220144,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3220144?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3220144?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kryczko",
     "htmlUrl": "https://github.com/kryczko",
@@ -54,16 +54,9 @@
       "start": "electron main.js",
       "watch": "webpack --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kryczko/proplot.git"
-    },
+    "repository": "https://github.com/kryczko/proplot",
     "keywords": [],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/kryczko/proplot/issues"
-    },
     "homepage": "https://github.com/kryczko/proplot#readme",
     "devDependencies": {
       "babel-cli": "^6.6.5",
@@ -84,6 +77,12 @@
       "react-dropzone": "^3.3.2",
       "react-file-input": "^0.2.5",
       "react-router": "^2.0.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/kryczko/proplot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "kryczko___plotify.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:47.966Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:23.032Z"
+  "lastFetchedAt": "2017-10-23T18:48:28.788Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:23.032Z",
+  "archived": false
 }

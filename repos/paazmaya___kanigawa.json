@@ -5,7 +5,7 @@
   "owner": {
     "login": "paazmaya",
     "id": 369881,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/369881?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/369881?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paazmaya",
     "htmlUrl": "https://github.com/paazmaya",
@@ -20,12 +20,12 @@
   "description": "Electron based desktop application for setting geotags for images",
   "fork": false,
   "createdAt": "2015-11-19T19:59:44.000Z",
-  "updatedAt": "2016-10-30T22:21:52.000Z",
-  "pushedAt": "2017-05-02T06:38:54.000Z",
+  "updatedAt": "2017-07-26T19:54:11.000Z",
+  "pushedAt": "2017-08-23T15:30:24.000Z",
   "homepage": "http://kanigawa.paazmaya.fi",
-  "size": 95,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 98,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 10,
   "openIssues": 10,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,10 +69,7 @@
       "dev": "webpack-dev-server --progress --colors --port 9981",
       "r-build": "rollup -c rollup.config.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paazmaya/kanigawa.git"
-    },
+    "repository": "https://github.com/paazmaya/kanigawa",
     "engines": {
       "node": ">=6.9.5",
       "npm": ">=3.5.0"
@@ -83,11 +80,7 @@
       "geo",
       "geotag"
     ],
-    "author": "Juga Paazmaya <paazmaya@yahoo.com> (https://paazmaya.fi)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paazmaya/kanigawa/issues"
-    },
     "homepage": "https://github.com/paazmaya/kanigawa",
     "devDependencies": {
       "autoprefixer": "^6.7.7",
@@ -124,6 +117,12 @@
     },
     "dependencies": {
       "exiv2": "^0.6.3"
+    },
+    "other": {
+      "author": "Juga Paazmaya <paazmaya@yahoo.com> (https://paazmaya.fi)",
+      "bugs": {
+        "url": "https://github.com/paazmaya/kanigawa/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "paazmaya___kanigawa.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:21.490Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:15.991Z"
+  "lastFetchedAt": "2017-10-23T18:56:00.233Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:15.991Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Quobject",
     "id": 8404913,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8404913?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8404913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Quobject",
     "htmlUrl": "https://github.com/Quobject",
@@ -20,7 +20,7 @@
   "description": "Control arduino with NodeJS, Socket.io, Johnny Five and Electron",
   "fork": false,
   "createdAt": "2016-01-27T07:34:14.000Z",
-  "updatedAt": "2017-03-28T14:20:51.000Z",
+  "updatedAt": "2017-08-17T07:41:10.000Z",
   "pushedAt": "2016-01-27T20:25:42.000Z",
   "homepage": null,
   "size": 30,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Quobject",
     "id": 8404913,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8404913?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8404913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Quobject",
     "htmlUrl": "https://github.com/Quobject",
@@ -74,18 +74,11 @@
       "client": "electron client/main.js",
       "server": "node server/index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Quobject/electron-nodebot.git"
-    },
+    "repository": "https://github.com/Quobject/electron-nodebot",
     "keywords": [
       "pseudocode"
     ],
-    "author": "Matthias Ludwig <mludwig@quobject.io>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Quobject/electron-nodebot/issues"
-    },
     "homepage": "https://github.com/Quobject/electron-nodebot",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -97,6 +90,12 @@
       "socket.io-client": "^1.4.5",
       "bootstrap": "^3.3.6",
       "jquery": "^2.2.0"
+    },
+    "other": {
+      "author": "Matthias Ludwig <mludwig@quobject.io>",
+      "bugs": {
+        "url": "https://github.com/Quobject/electron-nodebot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/Quobject/electron-nodebot",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T04:57:09.562Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:04.569Z"
+  "lastFetchedAt": "2017-10-23T19:25:12.292Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:04.569Z",
+  "archived": false
 }

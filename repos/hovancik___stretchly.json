@@ -5,7 +5,7 @@
   "owner": {
     "login": "hovancik",
     "id": 4745859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4745859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4745859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hovancik",
     "htmlUrl": "https://github.com/hovancik",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/hovancik/stretchly/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hovancik/stretchly/deployments",
   "createdAt": "2016-07-10T19:01:00.000Z",
-  "updatedAt": "2017-05-04T18:49:47.000Z",
-  "pushedAt": "2017-05-04T15:48:06.000Z",
+  "updatedAt": "2017-10-22T07:20:56.000Z",
+  "pushedAt": "2017-10-23T17:48:27.000Z",
   "gitUrl": "git://github.com/hovancik/stretchly.git",
   "sshUrl": "git@github.com:hovancik/stretchly.git",
   "cloneUrl": "https://github.com/hovancik/stretchly.git",
   "svnUrl": "https://github.com/hovancik/stretchly",
   "homepage": "https://hovancik.net/stretchly",
-  "size": 5301,
-  "stargazersCount": 46,
-  "watchersCount": 46,
+  "size": 7906,
+  "stargazersCount": 203,
+  "watchersCount": 203,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 10,
+  "forksCount": 29,
   "mirrorUrl": null,
-  "openIssuesCount": 9,
-  "openIssues": 9,
-  "watchers": 46,
+  "openIssuesCount": 12,
+  "openIssues": 12,
+  "watchers": 203,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/bsd-2-clause",
     "featured": false
   },
-  "networkCount": 10,
-  "subscribersCount": 8,
+  "networkCount": 29,
+  "subscribersCount": 15,
   "status": 200,
   "packageJSON": {
     "name": "stretchly",
@@ -88,21 +88,14 @@
       "dist": "build --x64 --ia32",
       "test": "mocha test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hovancik/stretchly.git"
-    },
+    "repository": "https://github.com/hovancik/stretchly",
     "keywords": [
       "stretchly",
       "break",
       "time",
       "reminder"
     ],
-    "author": "Jan Hovancik <conta.srdr@gmail.com>",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/hovancik/stretchly/issues"
-    },
     "homepage": "https://hovancik.net/stretchly",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -167,6 +160,12 @@
         "fetch",
         "Notification"
       ]
+    },
+    "other": {
+      "author": "Jan Hovancik <conta.srdr@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/hovancik/stretchly/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -194,6 +193,7 @@
   },
   "filename": "hovancik___stretchly.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:50.140Z",
-  "packageLastFetchedAt": "2017-05-04T22:19:10.799Z"
+  "lastFetchedAt": "2017-10-23T19:36:50.370Z",
+  "packageLastFetchedAt": "2017-05-04T22:19:10.799Z",
+  "archived": false
 }

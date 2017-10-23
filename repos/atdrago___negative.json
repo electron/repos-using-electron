@@ -5,7 +5,7 @@
   "owner": {
     "login": "atdrago",
     "id": 144225,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/144225?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/144225?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/atdrago",
     "htmlUrl": "https://github.com/atdrago",
@@ -20,21 +20,21 @@
   "description": "An app for making visual comparisons",
   "fork": false,
   "createdAt": "2015-11-23T21:39:55.000Z",
-  "updatedAt": "2017-05-03T01:24:23.000Z",
-  "pushedAt": "2016-07-08T03:55:19.000Z",
+  "updatedAt": "2017-10-06T23:17:18.000Z",
+  "pushedAt": "2017-10-22T18:13:19.000Z",
   "homepage": "",
-  "size": 7010,
-  "stargazersCount": 82,
-  "watchersCount": 82,
+  "size": 7093,
+  "stargazersCount": 93,
+  "watchersCount": 93,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 7,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 82,
+  "forksCount": 8,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 93,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 7,
-  "subscribersCount": 6,
+  "networkCount": 8,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "Negative",
@@ -70,10 +70,6 @@
       "lint": "gulp js:lint",
       "test": "mocha --recursive",
       "travis": "npm run build-sign && npm test"
-    },
-    "author": "Adam Drago <atdrago+negative@gmail.com>",
-    "bugs": {
-      "url": "https://github.com/atdrago/negative/issues"
     },
     "dependencies": {
       "electron-window": "^0.8.1",
@@ -107,7 +103,13 @@
     },
     "os": [
       "darwin"
-    ]
+    ],
+    "other": {
+      "author": "Adam Drago <atdrago+negative@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/atdrago/negative/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/atdrago/negative",
@@ -154,6 +156,7 @@
   },
   "filename": "atdrago___negative.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:00.639Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:19.226Z"
+  "lastFetchedAt": "2017-10-23T18:53:35.194Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:19.226Z",
+  "archived": false
 }

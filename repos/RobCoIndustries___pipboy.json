@@ -5,7 +5,7 @@
   "owner": {
     "login": "RobCoIndustries",
     "id": 16062126,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16062126?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16062126?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RobCoIndustries",
     "htmlUrl": "https://github.com/RobCoIndustries",
@@ -20,12 +20,12 @@
   "description": ":beginner: Experimental pipboy Desktop app for Fallout 4",
   "fork": false,
   "createdAt": "2015-11-25T18:13:43.000Z",
-  "updatedAt": "2017-03-04T02:22:45.000Z",
+  "updatedAt": "2017-09-21T19:48:17.000Z",
   "pushedAt": "2015-12-18T20:59:28.000Z",
   "homepage": "",
   "size": 29143,
-  "stargazersCount": 49,
-  "watchersCount": 49,
+  "stargazersCount": 50,
+  "watchersCount": 50,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 6,
   "openIssuesCount": 9,
   "openIssues": 9,
-  "watchers": 49,
+  "watchers": 50,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "RobCoIndustries",
     "id": 16062126,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16062126?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16062126?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RobCoIndustries",
     "htmlUrl": "https://github.com/RobCoIndustries",
@@ -79,19 +79,12 @@
       "build:win32": "electron-packager ./ PipBoy --platform=win32 --arch=x64 --version=0.35.1",
       "build:linux": "electron-packager ./ PipBoy --platform=linux --arch=x64 --version=0.35.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/RobCoIndustries/pipboy.git"
-    },
+    "repository": "https://github.com/RobCoIndustries/pipboy",
     "keywords": [
       "Fallout4",
       "pipboy"
     ],
-    "author": "Kyle Kelley <rgbkrk@gmail.com>",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/RobCoIndustries/pipboy/issues"
-    },
     "homepage": "https://github.com/RobCoIndustries/pipboy#readme",
     "devDependencies": {
       "babel-cli": "^6.3.17",
@@ -118,6 +111,12 @@
       "react-dom": "^0.14.3",
       "react-router": "^1.0.2",
       "rx": "^4.0.7"
+    },
+    "other": {
+      "author": "Kyle Kelley <rgbkrk@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/RobCoIndustries/pipboy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   "svnUrl": "https://github.com/RobCoIndustries/pipboy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:23:05.220Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:19.645Z"
+  "lastFetchedAt": "2017-10-23T18:31:04.550Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:19.645Z",
+  "archived": false
 }

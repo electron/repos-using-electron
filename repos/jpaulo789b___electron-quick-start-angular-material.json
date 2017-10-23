@@ -5,7 +5,7 @@
   "owner": {
     "login": "jpaulo789b",
     "id": 7895720,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7895720?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7895720?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jpaulo789b",
     "htmlUrl": "https://github.com/jpaulo789b",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jpaulo789b/electron-quick-start-angular-material/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jpaulo789b/electron-quick-start-angular-material/deployments",
   "createdAt": "2016-09-08T12:01:51.000Z",
-  "updatedAt": "2016-09-08T12:12:26.000Z",
+  "updatedAt": "2017-06-05T18:26:56.000Z",
   "pushedAt": "2016-09-08T12:25:19.000Z",
   "gitUrl": "git://github.com/jpaulo789b/electron-quick-start-angular-material.git",
   "sshUrl": "git@github.com:jpaulo789b/electron-quick-start-angular-material.git",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start-angular-material.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start-angular-material",
     "keywords": [
       "Electron",
       "quick",
@@ -91,11 +88,7 @@
       "angular",
       "material"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start-angular-material/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start-angular-material#readme",
     "devDependencies": {
       "electron": "^1.3.4"
@@ -109,6 +102,12 @@
       "angular-messages": "^1.5.8",
       "angular-ui-router": "^0.3.1",
       "moment": "^2.14.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start-angular-material/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "jpaulo789b___electron-quick-start-angular-material.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:46.517Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:05.192Z"
+  "lastFetchedAt": "2017-10-23T20:38:02.310Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:05.192Z",
+  "archived": false
 }

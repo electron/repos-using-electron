@@ -5,7 +5,7 @@
   "owner": {
     "login": "rafaelstz",
     "id": 610598,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/610598?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/610598?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rafaelstz",
     "htmlUrl": "https://github.com/rafaelstz",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "gitpie",
       "id": 16898304,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/16898304?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16898304?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/gitpie",
       "htmlUrl": "https://github.com/gitpie",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/gitpie/GitPie/downloads",
     "deploymentsUrl": "https://api.github.com/repos/gitpie/GitPie/deployments",
     "createdAt": "2015-07-09T14:37:31.000Z",
-    "updatedAt": "2017-03-09T08:28:07.000Z",
+    "updatedAt": "2017-08-29T08:10:28.000Z",
     "pushedAt": "2016-08-29T15:00:14.000Z",
     "gitUrl": "git://github.com/gitpie/GitPie.git",
     "sshUrl": "git@github.com:gitpie/GitPie.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/gitpie/GitPie",
     "homepage": "http://gitpie.org",
     "size": 4049,
-    "stargazersCount": 33,
-    "watchersCount": 33,
+    "stargazersCount": 39,
+    "watchersCount": 39,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 5,
+    "forksCount": 7,
     "mirrorUrl": null,
-    "openIssuesCount": 7,
-    "openIssues": 7,
-    "watchers": 33,
+    "archived": false,
+    "openIssuesCount": 8,
+    "openIssues": 8,
+    "watchers": 39,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "gitpie",
       "id": 16898304,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/16898304?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16898304?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/gitpie",
       "htmlUrl": "https://github.com/gitpie",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/gitpie/GitPie/downloads",
     "deploymentsUrl": "https://api.github.com/repos/gitpie/GitPie/deployments",
     "createdAt": "2015-07-09T14:37:31.000Z",
-    "updatedAt": "2017-03-09T08:28:07.000Z",
+    "updatedAt": "2017-08-29T08:10:28.000Z",
     "pushedAt": "2016-08-29T15:00:14.000Z",
     "gitUrl": "git://github.com/gitpie/GitPie.git",
     "sshUrl": "git@github.com:gitpie/GitPie.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/gitpie/GitPie",
     "homepage": "http://gitpie.org",
     "size": 4049,
-    "stargazersCount": 33,
-    "watchersCount": 33,
+    "stargazersCount": 39,
+    "watchersCount": 39,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 5,
+    "forksCount": 7,
     "mirrorUrl": null,
-    "openIssuesCount": 7,
-    "openIssues": 7,
-    "watchers": 33,
+    "archived": false,
+    "openIssuesCount": 8,
+    "openIssues": 8,
+    "watchers": 39,
     "defaultBranch": "master"
   },
-  "networkCount": 5,
+  "networkCount": 7,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -193,10 +195,7 @@
       "pack:linux32": "gulp pack:linux32",
       "pack:osx64": "gulp pack:osx64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mapaiva/GitPie.git"
-    },
+    "repository": "https://github.com/mapaiva/GitPie",
     "keywords": [
       "GitHub",
       "BitBucket",
@@ -207,11 +206,7 @@
       "Mac",
       "GUI"
     ],
-    "author": "Matheus Paiva",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mapaiva/GitPie/issues"
-    },
     "homepage": "https://github.com/mapaiva/GitPie",
     "devDependencies": {
       "electron-builder": "^2.6.0",
@@ -228,6 +223,12 @@
       "fs-extra": "^0.26.2",
       "git-url-parse": "^5.0.1",
       "node-wos": "^0.2.3"
+    },
+    "other": {
+      "author": "Matheus Paiva",
+      "bugs": {
+        "url": "https://github.com/mapaiva/GitPie/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -276,6 +277,7 @@
   "filename": "rafaelstz___GitPie.json",
   "sourceRepo": "gitpie/GitPie",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:32:51.384Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:05.805Z"
+  "lastFetchedAt": "2017-10-23T18:48:44.494Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:05.805Z",
+  "archived": false
 }

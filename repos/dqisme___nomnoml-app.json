@@ -5,7 +5,7 @@
   "owner": {
     "login": "dqisme",
     "id": 11534233,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11534233?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11534233?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dqisme",
     "htmlUrl": "https://github.com/dqisme",
@@ -79,8 +79,10 @@
       "build": "mkdir output && cp -a ./src/Electron.app ./output/ && cp ./src/Info.plist ./output/Electron.app/Contents && cp -a ./app ./output/Electron.app/Contents/Resources/ && cp ./src/nomnoml.icns ./output/Electron.app/Contents/Resources && rm -rf ./output/Nomnoml.app && mv ./output/Electron.app ./output/Nomnoml.app",
       "start": "open ./output/Nomnoml.app"
     },
-    "author": "dq",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {
+      "author": "dq"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -107,6 +109,7 @@
   },
   "filename": "dqisme___nomnoml-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:19.515Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:06.854Z"
+  "lastFetchedAt": "2017-10-23T18:30:54.602Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:06.854Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "onetwopunch",
     "id": 1054518,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1054518?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1054518?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/onetwopunch",
     "htmlUrl": "https://github.com/onetwopunch",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/onetwopunch/gitifications.git"
-    },
+    "repository": "https://github.com/onetwopunch/gitifications",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Ryan Canty <jrcanty@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/onetwopunch/gitifications/issues"
-    },
     "homepage": "https://github.com/onetwopunch/gitifications#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -102,6 +95,12 @@
       "bluebird": "^3.2.1",
       "node-notifier": "^4.4.0",
       "superagent": "^1.7.2"
+    },
+    "other": {
+      "author": "Ryan Canty <jrcanty@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/onetwopunch/gitifications/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "onetwopunch___gitifications.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:03.757Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:36.921Z"
+  "lastFetchedAt": "2017-10-23T17:38:36.928Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:36.921Z",
+  "archived": false
 }

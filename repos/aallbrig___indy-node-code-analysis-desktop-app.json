@@ -5,7 +5,7 @@
   "owner": {
     "login": "aallbrig",
     "id": 3106250,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3106250?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3106250?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aallbrig",
     "htmlUrl": "https://github.com/aallbrig",
@@ -73,19 +73,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aallbrig/indy-node-code-analysis-desktop-app.git"
-    },
-    "author": {
-      "name": "Andrew Allbright",
-      "email": "aallbrig@gmail.com",
-      "url": "https://github.com/aallbrig"
-    },
+    "repository": "https://github.com/aallbrig/indy-node-code-analysis-desktop-app",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/aallbrig/indy-node-code-analysis-desktop-app/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -167,6 +156,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Andrew Allbright",
+        "email": "aallbrig@gmail.com",
+        "url": "https://github.com/aallbrig"
+      },
+      "bugs": {
+        "url": "https://github.com/aallbrig/indy-node-code-analysis-desktop-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -215,6 +214,7 @@
   "svnUrl": "https://github.com/aallbrig/indy-node-code-analysis-desktop-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:10:31.602Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:29.815Z"
+  "lastFetchedAt": "2017-10-23T18:36:20.182Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:29.815Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "francisl",
     "id": 98903,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/98903?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/98903?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/francisl",
     "htmlUrl": "https://github.com/francisl",
@@ -65,21 +65,14 @@
       "start": "npm run flow && npm run build && electron dist/electron/electron.js",
       "launch": "electron dist/electron/electron.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:francisl/bigstoat.git"
-    },
+    "repository": "https://github.com/francisl/bigstoat",
     "keywords": [
       "File Manager",
       "File Explorer",
       "html5",
       "electron"
     ],
-    "author": "Francis Lavoie",
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "autoprefixer-loader": "^3.2.0",
@@ -110,6 +103,12 @@
       "react": "^15.0.1",
       "react-dom": "^15.0.1",
       "semantic-ui-react": "^0.63.5"
+    },
+    "other": {
+      "author": "Francis Lavoie",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   "svnUrl": "https://github.com/francisl/bigstoat",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:45:45.558Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:29.723Z"
+  "lastFetchedAt": "2017-10-23T18:48:59.493Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:29.723Z",
+  "archived": false
 }

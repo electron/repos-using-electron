@@ -5,7 +5,7 @@
   "owner": {
     "login": "ren-motomura",
     "id": 5515465,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5515465?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5515465?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ren-motomura",
     "htmlUrl": "https://github.com/ren-motomura",
@@ -54,14 +54,10 @@
     "scripts": {
       "start": "electron src/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron"
     ],
-    "author": "ren.motomura",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^7.0.2",
@@ -77,6 +73,9 @@
       "react-dom": "^15.1.0",
       "sequelize": "^3.23.3",
       "sqlite3": "^3.1.4"
+    },
+    "other": {
+      "author": "ren.motomura"
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "ren-motomura___ice_rink.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:32:43.019Z",
-  "packageLastFetchedAt": "2017-05-04T22:28:10.018Z"
+  "lastFetchedAt": "2017-10-23T20:22:39.677Z",
+  "packageLastFetchedAt": "2017-05-04T22:28:10.018Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Dakad",
     "id": 3106338,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3106338?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3106338?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Dakad",
     "htmlUrl": "https://github.com/Dakad",
@@ -82,10 +82,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Akad1070/youtubenode-app.git"
-    },
+    "repository": "https://github.com/Akad1070/youtubenode-app",
     "keywords": [
       "youtube",
       "node",
@@ -93,11 +90,7 @@
       "react",
       "electron"
     ],
-    "author": "A. Kad",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Akad1070/youtubenode-app/issues"
-    },
     "homepage": "https://github.com/Akad1070/youtubenode-app#readme",
     "devDependencies": {
       "babel-cli": "^6.16.0",
@@ -139,6 +132,12 @@
       "validator": "^6.0.0",
       "winston": "^2.2.0",
       "youtube-node": "^1.3.0"
+    },
+    "other": {
+      "author": "A. Kad",
+      "bugs": {
+        "url": "https://github.com/Akad1070/youtubenode-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,7 @@
   },
   "filename": "Akad1070___youtubenode-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:25:17.283Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:00.976Z"
+  "lastFetchedAt": "2017-10-23T20:18:50.625Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:00.976Z",
+  "archived": false
 }

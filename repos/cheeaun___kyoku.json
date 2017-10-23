@@ -5,7 +5,7 @@
   "owner": {
     "login": "cheeaun",
     "id": 2296,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2296?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2296?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cheeaun",
     "htmlUrl": "https://github.com/cheeaun",
@@ -20,12 +20,12 @@
   "description": "A tiny app that shows iTunes current playing song on Mac menu bar",
   "fork": false,
   "createdAt": "2015-04-06T15:02:15.000Z",
-  "updatedAt": "2017-04-05T19:13:44.000Z",
+  "updatedAt": "2017-07-11T20:41:07.000Z",
   "pushedAt": "2017-02-24T01:11:46.000Z",
   "homepage": null,
   "size": 57,
-  "stargazersCount": 69,
-  "watchersCount": 69,
+  "stargazersCount": 70,
+  "watchersCount": 70,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 7,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 69,
+  "watchers": 70,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -58,15 +58,11 @@
       "menubar",
       "song"
     ],
-    "author": "Lim Chee Aun <cheeaun@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "user-home": "~2.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cheeaun/kyoku"
-    },
+    "repository": "https://github.com/cheeaun/kyoku",
     "devDependencies": {
       "electron-packager": "~7.0.1",
       "electron-prebuilt": "~1.0.1"
@@ -75,6 +71,9 @@
       "start": "electron .",
       "package": "electron-packager . Kyoku --overwrite --prune --platform=darwin --arch=x64 --version=0.34.0 --ignore=.DS_Store --ignore=icons --ignore=Kyoku.app --ignore=node_modules/.bin --app-version=$npm_package_version --icon=icons/music-note.icns",
       "zip": "cd Kyoku-darwin-x64 && zip -ryXq Kyoku.app.zip Kyoku.app"
+    },
+    "other": {
+      "author": "Lim Chee Aun <cheeaun@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "cheeaun___kyoku.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:22:58.775Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:33.648Z"
+  "lastFetchedAt": "2017-10-23T17:58:00.155Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:33.648Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nigeljohnwade",
     "id": 1228097,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1228097?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1228097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nigeljohnwade",
     "htmlUrl": "https://github.com/nigeljohnwade",
@@ -50,7 +50,6 @@
     "version": "1.0.0",
     "description": "A minimal Electron soundcloud player application",
     "main": "main.js",
-    "author": "Nigel Wade",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -69,6 +68,9 @@
     "scripts": {
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
+    },
+    "other": {
+      "author": "Nigel Wade"
     }
   },
   "packageStatus": 200,
@@ -117,6 +119,7 @@
   "filename": "nigeljohnwade___react-soundcloud-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:49.785Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:36.082Z"
+  "lastFetchedAt": "2017-10-23T17:08:04.889Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:36.082Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "BrunoHaveroth",
     "id": 9614068,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9614068?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9614068?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BrunoHaveroth",
     "htmlUrl": "https://github.com/BrunoHaveroth",
@@ -76,10 +76,6 @@
     "version": "0.0.0",
     "description": "Small description for steganodb-admin goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -89,7 +85,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -170,6 +165,13 @@
     },
     "dependencies": {
       "fs-promise": "^0.5.0"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +199,7 @@
   },
   "filename": "BrunoHaveroth___steganodb-admin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:05.773Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:00.988Z"
+  "lastFetchedAt": "2017-10-23T17:44:09.425Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:00.988Z",
+  "archived": false
 }

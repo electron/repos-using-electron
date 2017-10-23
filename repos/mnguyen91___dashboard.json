@@ -5,7 +5,7 @@
   "owner": {
     "login": "mnguyen91",
     "id": 17027414,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17027414?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17027414?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mnguyen91",
     "htmlUrl": "https://github.com/mnguyen91",
@@ -75,7 +75,6 @@
     "name": "ng2-admin",
     "version": "0.7.0",
     "description": "Angular 2 and Bootstrap 4 Admin Template.",
-    "author": "akveo",
     "homepage": "http://akveo.github.io/ng2-admin/",
     "license": "MIT",
     "dependencies": {
@@ -224,16 +223,16 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "akveo",
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -261,6 +260,7 @@
   },
   "filename": "mnguyen91___dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:21:30.274Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:23.918Z"
+  "lastFetchedAt": "2017-10-23T17:49:00.995Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:23.918Z",
+  "archived": false
 }

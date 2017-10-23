@@ -5,7 +5,7 @@
   "owner": {
     "login": "mannycolon",
     "id": 17072300,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17072300?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17072300?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mannycolon",
     "htmlUrl": "https://github.com/mannycolon",
@@ -92,10 +92,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mannycolon/toDo-Assistant.git"
-    },
+    "repository": "https://github.com/mannycolon/toDo-Assistant",
     "keywords": [
       "toDo",
       "assistant",
@@ -104,13 +101,15 @@
       "do",
       "list"
     ],
-    "author": "Manny Colon",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/mannycolon/toDo-Assistant/issues",
-      "email": "colonmanuel7@gmail.com"
-    },
-    "homepage": "https://github.com/mannycolon/toDo-Assistant#readme"
+    "homepage": "https://github.com/mannycolon/toDo-Assistant#readme",
+    "other": {
+      "author": "Manny Colon",
+      "bugs": {
+        "url": "https://github.com/mannycolon/toDo-Assistant/issues",
+        "email": "colonmanuel7@gmail.com"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +136,7 @@
   },
   "filename": "mannycolon___toDo-Assistant.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:18.358Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:37.286Z"
+  "lastFetchedAt": "2017-10-23T18:10:31.485Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:37.286Z",
+  "archived": false
 }

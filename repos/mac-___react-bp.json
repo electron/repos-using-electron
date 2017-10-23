@@ -5,7 +5,7 @@
   "owner": {
     "login": "mac-",
     "id": 1530281,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1530281?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1530281?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mac-",
     "htmlUrl": "https://github.com/mac-",
@@ -59,12 +59,8 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [],
-    "author": "Mac Angell <mac@base-ed.com>",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^5.2.0",
@@ -97,6 +93,9 @@
       "redux-storage-engine-localstorage": "^1.0.0",
       "redux-thunk": "^1.0.3",
       "xhr": "^2.2.0"
+    },
+    "other": {
+      "author": "Mac Angell <mac@base-ed.com>"
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/mac-/react-bp",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T08:01:17.564Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:58.516Z"
+  "lastFetchedAt": "2017-10-23T17:09:59.006Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:58.516Z",
+  "archived": false
 }

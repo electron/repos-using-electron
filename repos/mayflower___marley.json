@@ -5,7 +5,7 @@
   "owner": {
     "login": "mayflower",
     "id": 536878,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/536878?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/536878?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mayflower",
     "htmlUrl": "https://github.com/mayflower",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-07-29T09:25:22.000Z",
   "updatedAt": "2017-02-24T14:21:51.000Z",
-  "pushedAt": "2017-02-24T14:21:49.000Z",
+  "pushedAt": "2017-05-15T12:50:03.000Z",
   "homepage": "",
-  "size": 168,
+  "size": 170,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "mayflower",
     "id": 536878,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/536878?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/536878?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mayflower",
     "htmlUrl": "https://github.com/mayflower",
@@ -63,24 +63,6 @@
     "name": "MarLeY",
     "version": "0.1.2",
     "description": "a modern ini editor",
-    "author": {
-      "name": "Mayflower",
-      "mail": "oss-marley@mayflower.de"
-    },
-    "contributors": [
-      {
-        "name": "Lenz Weber (Mayflower)",
-        "url": "http://github.com/phryneas"
-      },
-      {
-        "name": "Maria Haubner (Mayflower)",
-        "url": "https://github.com/mariahaubner"
-      },
-      {
-        "name": "Martin Runge (Mayflower)",
-        "url": "https://github.com/dermeck"
-      }
-    ],
     "homepage": "https://github.com/mayflower/marley",
     "main": "main.js",
     "scripts": {
@@ -89,10 +71,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mayflower/marley.git"
-    },
+    "repository": "https://github.com/mayflower/marley",
     "keywords": [
       "ini",
       "ini-editor",
@@ -101,9 +80,6 @@
       "translation"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mayflower/marley/issues"
-    },
     "devDependencies": {
       "electron-builder": "^5.14.2",
       "electron": "^1.2.0"
@@ -121,6 +97,29 @@
       "win": {
         "iconUrl": "https://github.com/mayflower/marley/raw/master/build/icon.png"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Mayflower",
+        "mail": "oss-marley@mayflower.de"
+      },
+      "bugs": {
+        "url": "https://github.com/mayflower/marley/issues"
+      },
+      "contributors": [
+        {
+          "name": "Lenz Weber (Mayflower)",
+          "url": "http://github.com/phryneas"
+        },
+        {
+          "name": "Maria Haubner (Mayflower)",
+          "url": "https://github.com/mariahaubner"
+        },
+        {
+          "name": "Martin Runge (Mayflower)",
+          "url": "https://github.com/dermeck"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   "svnUrl": "https://github.com/mayflower/marley",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:04:23.737Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:51.829Z"
+  "lastFetchedAt": "2017-10-23T17:27:25.746Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:51.829Z",
+  "archived": false
 }

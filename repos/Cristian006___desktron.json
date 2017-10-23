@@ -5,7 +5,7 @@
   "owner": {
     "login": "Cristian006",
     "id": 14713485,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14713485?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14713485?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Cristian006",
     "htmlUrl": "https://github.com/Cristian006",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Cristian006/desktron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Cristian006/desktron/deployments",
   "createdAt": "2016-06-13T22:29:37.000Z",
-  "updatedAt": "2016-06-14T22:56:50.000Z",
+  "updatedAt": "2017-05-18T20:02:52.000Z",
   "pushedAt": "2016-08-10T05:11:36.000Z",
   "gitUrl": "git://github.com/Cristian006/desktron.git",
   "sshUrl": "git@github.com:Cristian006/desktron.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Cristian006/desktron",
   "homepage": null,
   "size": 601,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,21 +73,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Cristian006/desktron.git"
-    },
+    "repository": "https://github.com/Cristian006/desktron",
     "keywords": [
       "electron",
       "dektop",
       "application",
       "app"
     ],
-    "author": "Cristian Ponce",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Cristian006/desktron/issues"
-    },
     "homepage": "https://github.com/Cristian006/desktron#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.2"
@@ -96,6 +89,12 @@
       "electron-json-storage": "^2.0.0",
       "jsface": "^2.4.9",
       "nedb": "^1.8.0"
+    },
+    "other": {
+      "author": "Cristian Ponce",
+      "bugs": {
+        "url": "https://github.com/Cristian006/desktron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "Cristian006___desktron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:03.639Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:19.714Z"
+  "lastFetchedAt": "2017-10-23T17:39:57.062Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:19.714Z",
+  "archived": false
 }

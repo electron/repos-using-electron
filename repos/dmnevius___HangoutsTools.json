@@ -5,7 +5,7 @@
   "owner": {
     "login": "nmde",
     "id": 7990209,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7990209?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7990209?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nmde",
     "htmlUrl": "https://github.com/nmde",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/nmde/HangoutsTools/deployments",
   "createdAt": "2016-07-17T02:24:34.000Z",
   "updatedAt": "2016-11-29T20:29:24.000Z",
-  "pushedAt": "2016-11-11T15:45:50.000Z",
+  "pushedAt": "2017-07-03T00:58:05.000Z",
   "gitUrl": "git://github.com/nmde/HangoutsTools.git",
   "sshUrl": "git@github.com:nmde/HangoutsTools.git",
   "cloneUrl": "https://github.com/nmde/HangoutsTools.git",
   "svnUrl": "https://github.com/nmde/HangoutsTools",
   "homepage": null,
-  "size": 90021,
+  "size": 90772,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -77,10 +77,7 @@
       "pack": "./node_modules/.bin/build --dir",
       "dist": "./node_modules/.bin/build -mwl --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dmnevius/HangoutsTools.git"
-    },
+    "repository": "https://github.com/dmnevius/HangoutsTools",
     "keywords": [
       "google",
       "hangouts",
@@ -88,11 +85,7 @@
       "electron",
       "react"
     ],
-    "author": "dmnevius",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dmnevius/HangoutsTools/issues"
-    },
     "homepage": "https://github.com/dmnevius/HangoutsTools#readme",
     "private": true,
     "devDependencies": {
@@ -134,6 +127,12 @@
           "Categories": "Utility;"
         }
       }
+    },
+    "other": {
+      "author": "dmnevius",
+      "bugs": {
+        "url": "https://github.com/dmnevius/HangoutsTools/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -161,6 +160,7 @@
   },
   "filename": "dmnevius___HangoutsTools.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:07:47.811Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:36.845Z"
+  "lastFetchedAt": "2017-10-23T20:22:33.980Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:36.845Z",
+  "archived": false
 }

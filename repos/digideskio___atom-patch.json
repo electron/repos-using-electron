@@ -5,7 +5,7 @@
   "owner": {
     "login": "digideskio",
     "id": 14135456,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14135456?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14135456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/digideskio",
     "htmlUrl": "https://github.com/digideskio",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "atom-archive",
       "id": 13424069,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/13424069?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13424069?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/atom-archive",
       "htmlUrl": "https://github.com/atom-archive",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/atom-archive/atom-patch/downloads",
     "deploymentsUrl": "https://api.github.com/repos/atom-archive/atom-patch/deployments",
     "createdAt": "2015-04-25T19:03:16.000Z",
-    "updatedAt": "2017-04-28T21:01:08.000Z",
+    "updatedAt": "2017-08-18T22:03:48.000Z",
     "pushedAt": "2016-12-16T22:05:27.000Z",
     "gitUrl": "git://github.com/atom-archive/atom-patch.git",
     "sshUrl": "git@github.com:atom-archive/atom-patch.git",
@@ -87,8 +87,8 @@
     "svnUrl": "https://github.com/atom-archive/atom-patch",
     "homepage": null,
     "size": 460,
-    "stargazersCount": 10,
-    "watchersCount": 10,
+    "stargazersCount": 11,
+    "watchersCount": 11,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -97,9 +97,10 @@
     "hasPages": false,
     "forksCount": 7,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 10,
+    "watchers": 11,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "atom-archive",
       "id": 13424069,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/13424069?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13424069?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/atom-archive",
       "htmlUrl": "https://github.com/atom-archive",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/atom-archive/atom-patch/downloads",
     "deploymentsUrl": "https://api.github.com/repos/atom-archive/atom-patch/deployments",
     "createdAt": "2015-04-25T19:03:16.000Z",
-    "updatedAt": "2017-04-28T21:01:08.000Z",
+    "updatedAt": "2017-08-18T22:03:48.000Z",
     "pushedAt": "2016-12-16T22:05:27.000Z",
     "gitUrl": "git://github.com/atom-archive/atom-patch.git",
     "sshUrl": "git@github.com:atom-archive/atom-patch.git",
@@ -147,8 +148,8 @@
     "svnUrl": "https://github.com/atom-archive/atom-patch",
     "homepage": null,
     "size": 460,
-    "stargazersCount": 10,
-    "watchersCount": 10,
+    "stargazersCount": 11,
+    "watchersCount": 11,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -157,9 +158,10 @@
     "hasPages": false,
     "forksCount": 7,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 10,
+    "watchers": 11,
     "defaultBranch": "master"
   },
   "networkCount": 7,
@@ -178,18 +180,11 @@
       "build": "node_modules/.bin/babel src --out-dir dist",
       "clean": "rm -rf dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nathansobo/atom-patch.git"
-    },
+    "repository": "https://github.com/nathansobo/atom-patch",
     "keywords": [
       "patch data-structure"
     ],
-    "author": "Nathan Sobo <nathan@github.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nathansobo/atom-patch/issues"
-    },
     "homepage": "https://github.com/nathansobo/atom-patch",
     "devDependencies": {
       "babel": "^5.0.0",
@@ -210,6 +205,12 @@
         "it",
         "expect"
       ]
+    },
+    "other": {
+      "author": "Nathan Sobo <nathan@github.com>",
+      "bugs": {
+        "url": "https://github.com/nathansobo/atom-patch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -258,6 +259,7 @@
   "filename": "digideskio___atom-patch.json",
   "sourceRepo": "atom/atom-patch",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:07.509Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:56.676Z"
+  "lastFetchedAt": "2017-10-23T20:14:52.841Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:56.676Z",
+  "archived": false
 }

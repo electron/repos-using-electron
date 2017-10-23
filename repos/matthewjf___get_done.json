@@ -6,7 +6,7 @@
   "owner": {
     "login": "matthewjf",
     "id": 16192022,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16192022?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16192022?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matthewjf",
     "htmlUrl": "https://github.com/matthewjf",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:35:12.560Z",
+  "lastFetchedAt": "2017-10-23T19:19:13.124Z",
   "packageJSON": {
     "name": "do_list",
     "version": "1.0.0",
@@ -78,7 +78,6 @@
       "build": "webpack --watch",
       "release": "NODE_ENV=production webpack && electron-packager . --overwrite --out release"
     },
-    "author": "",
     "license": "ISC",
     "dependencies": {
       "babel-core": "^6.24.0",
@@ -101,8 +100,12 @@
       "optimize-css-assets-webpack-plugin": "^1.3.0",
       "sass-loader": "^6.0.3",
       "webpack": "^2.2.1"
+    },
+    "other": {
+      "author": ""
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:38:30.654Z"
+  "packageLastFetchedAt": "2017-05-05T17:38:30.654Z",
+  "archived": false
 }

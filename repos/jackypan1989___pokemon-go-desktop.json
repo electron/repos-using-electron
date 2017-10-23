@@ -5,7 +5,7 @@
   "owner": {
     "login": "jackypan1989",
     "id": 1138803,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1138803?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1138803?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jackypan1989",
     "htmlUrl": "https://github.com/jackypan1989",
@@ -20,21 +20,21 @@
   "description": "Desktop app for utilizing Pokemon GO",
   "fork": false,
   "createdAt": "2016-08-14T17:58:08.000Z",
-  "updatedAt": "2017-02-21T10:01:47.000Z",
+  "updatedAt": "2017-10-15T19:03:15.000Z",
   "pushedAt": "2016-08-17T03:19:02.000Z",
   "homepage": null,
   "size": 1111,
-  "stargazersCount": 52,
-  "watchersCount": 52,
+  "stargazersCount": 50,
+  "watchersCount": 50,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 15,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 52,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 50,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,19 +71,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jackypan1989/pokemon-go-desktop.git"
-    },
-    "author": {
-      "name": "Guan Yu Pan",
-      "email": "jackypan1989@gmail.com",
-      "url": "https://github.com/jackypan1989"
-    },
+    "repository": "https://github.com/jackypan1989/pokemon-go-desktop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jackypan1989/pokemon-go-desktop/issues"
-    },
     "keywords": [
       "pokemon",
       "pokemon-go",
@@ -171,6 +160,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Guan Yu Pan",
+        "email": "jackypan1989@gmail.com",
+        "url": "https://github.com/jackypan1989"
+      },
+      "bugs": {
+        "url": "https://github.com/jackypan1989/pokemon-go-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -218,6 +217,7 @@
   "svnUrl": "https://github.com/jackypan1989/pokemon-go-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:08:32.730Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:29.802Z"
+  "lastFetchedAt": "2017-10-23T18:20:00.349Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:29.802Z",
+  "archived": false
 }

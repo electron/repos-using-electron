@@ -5,7 +5,7 @@
   "owner": {
     "login": "datuxer",
     "id": 17333673,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17333673?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17333673?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/datuxer",
     "htmlUrl": "https://github.com/datuxer",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "datuxer",
     "id": 17333673,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17333673?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17333673?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/datuxer",
     "htmlUrl": "https://github.com/datuxer",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "TylerK",
       "id": 1141040,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1141040?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1141040?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/TylerK",
       "htmlUrl": "https://github.com/TylerK",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 11,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "TylerK",
       "id": 1141040,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1141040?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1141040?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/TylerK",
       "htmlUrl": "https://github.com/TylerK",
@@ -171,6 +172,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 11,
@@ -201,15 +203,8 @@
       "test": "node ./node_modules/karma/bin/karma start",
       "server": "./node_modules/.bin/webpack-dev-server --config ./webpack.config.dev.js --content-base ./dist/ --port 8080 --inline --hot --progress"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TylerK/react-multi-platform.git"
-    },
-    "author": "Tyler Kelley",
+    "repository": "https://github.com/TylerK/react-multi-platform",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/TylerK/react-multi-platform/issues"
-    },
     "homepage": "https://github.com/TylerK/react-multi-platform#readme",
     "dependencies": {
       "react": "^15.1.0",
@@ -254,6 +249,12 @@
       "style-loader": "^0.13.1",
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "Tyler Kelley",
+      "bugs": {
+        "url": "https://github.com/TylerK/react-multi-platform/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -302,6 +303,7 @@
   "filename": "datuxer___react-multi-platform.json",
   "sourceRepo": "TylerK/react-multi-platform",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:49.451Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:17.212Z"
+  "lastFetchedAt": "2017-10-23T18:28:53.427Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:17.212Z",
+  "archived": false
 }

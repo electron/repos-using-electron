@@ -6,7 +6,7 @@
   "owner": {
     "login": "openroc",
     "id": 351379,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/351379?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/351379?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openroc",
     "htmlUrl": "https://github.com/openroc",
@@ -52,7 +52,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -70,15 +70,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:55:02.912Z",
+  "lastFetchedAt": "2017-10-23T20:47:56.268Z",
   "packageJSON": {
     "name": "orSerialPortTool",
     "description": "A simple serial port debug tool",
     "version": "0.1.0",
-    "author": "roc <openroc@gmail.com>",
     "scripts": {
       "postinstall": "cd app && npm i && node ../tasks/install.js",
       "dev": "node tasks/runner.js dev",
@@ -115,8 +114,12 @@
       "webpack": "^2.2.1",
       "webpack-dev-server": "^2.2.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "roc <openroc@gmail.com>"
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:02:36.111Z"
+  "packageLastFetchedAt": "2017-05-05T17:02:36.111Z",
+  "archived": false
 }

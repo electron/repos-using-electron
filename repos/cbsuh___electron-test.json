@@ -5,7 +5,7 @@
   "owner": {
     "login": "cbsuh",
     "id": 9666191,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9666191?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9666191?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cbsuh",
     "htmlUrl": "https://github.com/cbsuh",
@@ -85,11 +85,7 @@
       "pkg:mac": "./node_modules/.bin/electron-packager ./ --platform=darwin --arch=x64 --out=package --overwrite --ignore=node_modules/ --ignore=app/ --ignore=build-babel/ --ignore=\"(node_modules|app|build-babel)$\"",
       "pkg:windows": "./node_modules/.bin/electron-packager ./ --platform=win32 --arch=x64 --out=package --overwrite --ignore=node_modules/ --ignore=app/ --ignore=build-babel/ --ignore=\"(node_modules|app|build-babel)$\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cbsuh/test.git"
-    },
-    "author": "cbsuh@naver.com",
+    "repository": "https://github.com/cbsuh/test",
     "license": "MIT",
     "keywords": [
       "electron",
@@ -102,9 +98,6 @@
       "babel",
       "vscode"
     ],
-    "bugs": {
-      "url": "https://github.com/cbsuh/test/issues"
-    },
     "homepage": "https://github.com/cbsuh/test#readme",
     "devDependencies": {
       "babel-cli": "^6.7.7",
@@ -129,6 +122,12 @@
       "react": "^15.0.1",
       "react-dom": "^15.0.1",
       "react-router": "^2.3.0"
+    },
+    "other": {
+      "author": "cbsuh@naver.com",
+      "bugs": {
+        "url": "https://github.com/cbsuh/test/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "cbsuh___electron-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:39:32.863Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:02.116Z"
+  "lastFetchedAt": "2017-10-23T17:31:49.230Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:02.116Z",
+  "archived": false
 }

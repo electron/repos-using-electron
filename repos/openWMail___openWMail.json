@@ -6,7 +6,7 @@
   "owner": {
     "login": "openWMail",
     "id": 28208119,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/28208119?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/28208119?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openWMail",
     "htmlUrl": "https://github.com/openWMail",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/openWMail/openWMail/downloads",
   "deploymentsUrl": "https://api.github.com/repos/openWMail/openWMail/deployments",
   "createdAt": "2017-04-29T18:13:23.000Z",
-  "updatedAt": "2017-05-04T04:30:24.000Z",
-  "pushedAt": "2017-05-04T15:48:58.000Z",
+  "updatedAt": "2017-10-21T01:20:12.000Z",
+  "pushedAt": "2017-08-10T19:24:20.000Z",
   "gitUrl": "git://github.com/openWMail/openWMail.git",
   "sshUrl": "git@github.com:openWMail/openWMail.git",
   "cloneUrl": "https://github.com/openWMail/openWMail.git",
   "svnUrl": "https://github.com/openWMail/openWMail",
   "homepage": "",
-  "size": 17761,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "size": 17505,
+  "stargazersCount": 40,
+  "watchersCount": 40,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 2,
+  "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 7,
+  "openIssuesCount": 21,
+  "openIssues": 21,
+  "watchers": 40,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "openWMail",
     "id": 28208119,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/28208119?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/28208119?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openWMail",
     "htmlUrl": "https://github.com/openWMail",
@@ -84,10 +84,10 @@
     "receivedEventsUrl": "https://api.github.com/users/openWMail/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 6,
+  "networkCount": 6,
+  "subscribersCount": 9,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:15:21.592Z",
+  "lastFetchedAt": "2017-10-23T21:07:38.072Z",
   "packageJSON": {
     "name": "openwmail",
     "humanName": "openWMail",
@@ -112,10 +112,6 @@
       "dev:run": "electron bin/app/index.js"
     },
     "keywords": [],
-    "author": {
-      "name": "OpenWMail Community",
-      "url": "https://github.com/openwmail/"
-    },
     "homepage": "https://github.com/openwmail/openwmail",
     "license": "MPL-2.0",
     "repository": "https://github.com/openwmail/openwmail",
@@ -161,8 +157,15 @@
       "ignore": [
         "src/app/lib/"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "OpenWMail Community",
+        "url": "https://github.com/openwmail/"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:14:46.127Z"
+  "packageLastFetchedAt": "2017-05-05T15:14:46.127Z",
+  "archived": false
 }

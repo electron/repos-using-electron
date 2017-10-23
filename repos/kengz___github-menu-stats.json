@@ -5,7 +5,7 @@
   "owner": {
     "login": "kengz",
     "id": 8209263,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8209263?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8209263?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kengz",
     "htmlUrl": "https://github.com/kengz",
@@ -81,19 +81,12 @@
       "start": "electron .",
       "build": "electron-packager . --out=dist --asar --overwrite --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kengz/github-menu-stats.git"
-    },
+    "repository": "https://github.com/kengz/github-menu-stats",
     "keywords": [
       "electron-app",
       "electron"
     ],
-    "author": "kengz <kengzwl@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kengz/github-menu-stats/issues"
-    },
     "homepage": "https://github.com/kengz/github-menu-stats#readme",
     "dependencies": {
       "electron-debug": "^1.0.0"
@@ -110,6 +103,12 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": "kengz <kengzwl@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/kengz/github-menu-stats/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "kengz___github-menu-stats.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:59.508Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:15.616Z"
+  "lastFetchedAt": "2017-10-23T20:17:07.014Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:15.616Z",
+  "archived": false
 }

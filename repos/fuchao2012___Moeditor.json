@@ -6,7 +6,7 @@
   "owner": {
     "login": "fuchao2012",
     "id": 5637185,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5637185?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5637185?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fuchao2012",
     "htmlUrl": "https://github.com/fuchao2012",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "Moeditor",
       "id": 20154318,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/20154318?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/20154318?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Moeditor",
       "htmlUrl": "https://github.com/Moeditor",
@@ -101,27 +101,28 @@
     "downloadsUrl": "https://api.github.com/repos/Moeditor/Moeditor/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Moeditor/Moeditor/deployments",
     "createdAt": "2016-06-24T01:11:26.000Z",
-    "updatedAt": "2017-05-04T13:10:12.000Z",
-    "pushedAt": "2017-03-06T08:12:46.000Z",
+    "updatedAt": "2017-10-23T01:03:50.000Z",
+    "pushedAt": "2017-06-28T04:15:58.000Z",
     "gitUrl": "git://github.com/Moeditor/Moeditor.git",
     "sshUrl": "git@github.com:Moeditor/Moeditor.git",
     "cloneUrl": "https://github.com/Moeditor/Moeditor.git",
     "svnUrl": "https://github.com/Moeditor/Moeditor",
     "homepage": "https://moeditor.org",
     "size": 2839,
-    "stargazersCount": 2900,
-    "watchersCount": 2900,
+    "stargazersCount": 3146,
+    "watchersCount": 3146,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 143,
+    "forksCount": 162,
     "mirrorUrl": null,
-    "openIssuesCount": 59,
-    "openIssues": 59,
-    "watchers": 2900,
+    "archived": false,
+    "openIssuesCount": 71,
+    "openIssues": 71,
+    "watchers": 3146,
     "defaultBranch": "master"
   },
   "source": {
@@ -131,7 +132,7 @@
     "owner": {
       "login": "Moeditor",
       "id": 20154318,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/20154318?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/20154318?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Moeditor",
       "htmlUrl": "https://github.com/Moeditor",
@@ -161,33 +162,34 @@
     "downloadsUrl": "https://api.github.com/repos/Moeditor/Moeditor/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Moeditor/Moeditor/deployments",
     "createdAt": "2016-06-24T01:11:26.000Z",
-    "updatedAt": "2017-05-04T13:10:12.000Z",
-    "pushedAt": "2017-03-06T08:12:46.000Z",
+    "updatedAt": "2017-10-23T01:03:50.000Z",
+    "pushedAt": "2017-06-28T04:15:58.000Z",
     "gitUrl": "git://github.com/Moeditor/Moeditor.git",
     "sshUrl": "git@github.com:Moeditor/Moeditor.git",
     "cloneUrl": "https://github.com/Moeditor/Moeditor.git",
     "svnUrl": "https://github.com/Moeditor/Moeditor",
     "homepage": "https://moeditor.org",
     "size": 2839,
-    "stargazersCount": 2900,
-    "watchersCount": 2900,
+    "stargazersCount": 3146,
+    "watchersCount": 3146,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 143,
+    "forksCount": 162,
     "mirrorUrl": null,
-    "openIssuesCount": 59,
-    "openIssues": 59,
-    "watchers": 2900,
+    "archived": false,
+    "openIssuesCount": 71,
+    "openIssues": 71,
+    "watchers": 3146,
     "defaultBranch": "master"
   },
-  "networkCount": 143,
+  "networkCount": 162,
   "subscribersCount": 0,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:37:39.825Z",
+  "lastFetchedAt": "2017-10-23T17:48:48.057Z",
   "packageJSON": {
     "name": "moeditor",
     "version": "0.2.0",
@@ -197,19 +199,12 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Menci/Moeditor.git"
-    },
+    "repository": "https://github.com/Menci/Moeditor",
     "keywords": [
       "markdown",
       "editor"
     ],
-    "author": "Menci",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Menci/Moeditor/issues"
-    },
     "homepage": "https://github.com/Menci/Moeditor#readme",
     "dependencies": {
       "biu.js": "^1.2.0",
@@ -232,8 +227,15 @@
       "moemark": "^0.3.8",
       "os-locale": "^1.4.0",
       "raphael": "^2.2.1"
+    },
+    "other": {
+      "author": "Menci",
+      "bugs": {
+        "url": "https://github.com/Menci/Moeditor/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:25:11.998Z"
+  "packageLastFetchedAt": "2017-05-04T22:25:11.998Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -53,23 +53,13 @@
   "status": 200,
   "packageJSON": {
     "name": "read-all-later",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/azu/read-all-later.git"
-    },
-    "author": "azu",
+    "repository": "https://github.com/azu/read-all-later",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/read-all-later",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/read-all-later/issues"
-    },
     "version": "1.0.3",
     "description": "item url to pocket",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "start": "electron .",
       "test": "mocha",
@@ -111,6 +101,15 @@
       "react-dom": "^0.14.3",
       "react-select": "^0.9.1",
       "strip-utm": "^1.0.0"
+    },
+    "other": {
+      "author": "azu",
+      "bugs": {
+        "url": "https://github.com/azu/read-all-later/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   "svnUrl": "https://github.com/azu/read-all-later",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:31:18.687Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:40.498Z"
+  "lastFetchedAt": "2017-10-23T18:27:10.210Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:40.498Z",
+  "archived": false
 }

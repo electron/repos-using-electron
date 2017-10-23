@@ -5,7 +5,7 @@
   "owner": {
     "login": "prayasht",
     "id": 3971101,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3971101?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3971101?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prayasht",
     "htmlUrl": "https://github.com/prayasht",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/prayasht/Sonidos",
-  "description": "- Minimal Music Player // Electron (Node.js) + React",
+  "description": "Minimal Music Player // Electron (Node.js) + React",
   "fork": false,
   "url": "https://api.github.com/repos/prayasht/Sonidos",
   "forksUrl": "https://api.github.com/repos/prayasht/Sonidos/forks",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/prayasht/Sonidos/downloads",
   "deploymentsUrl": "https://api.github.com/repos/prayasht/Sonidos/deployments",
   "createdAt": "2016-08-16T05:48:15.000Z",
-  "updatedAt": "2017-01-25T22:29:35.000Z",
-  "pushedAt": "2017-01-25T22:29:34.000Z",
+  "updatedAt": "2017-07-02T19:08:10.000Z",
+  "pushedAt": "2017-05-26T18:39:44.000Z",
   "gitUrl": "git://github.com/prayasht/Sonidos.git",
   "sshUrl": "git@github.com:prayasht/Sonidos.git",
   "cloneUrl": "https://github.com/prayasht/Sonidos.git",
   "svnUrl": "https://github.com/prayasht/Sonidos",
   "homepage": "",
-  "size": 1133,
+  "size": 1241,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -61,13 +61,7 @@
     "push": false,
     "pull": true
   },
-  "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "featured": true
-  },
+  "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
@@ -76,15 +70,8 @@
     "version": "0.0.1",
     "description": "A minimal music player.",
     "main": "./src/main-process/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/prayashthapa/Sonidos"
-    },
-    "author": "Prayash Thapa",
+    "repository": "https://github.com/prayashthapa/Sonidos",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/prayashthapa/Sonidos/issues"
-    },
     "scripts": {
       "ci:compile": "./node_modules/.bin/webpack --config webpack.config.js --progress --bail",
       "ci:eslint": "./node_modules/.bin/eslint . --config .eslintrc",
@@ -141,6 +128,12 @@
       "url-loader": "0.5.7",
       "webpack": "1.13.1",
       "webpack-dev-server": "1.14.1"
+    },
+    "other": {
+      "author": "Prayash Thapa",
+      "bugs": {
+        "url": "https://github.com/prayashthapa/Sonidos/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +161,7 @@
   },
   "filename": "prayashthapa___Sonidos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:50.129Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:44.395Z"
+  "lastFetchedAt": "2017-10-23T17:34:34.840Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:44.395Z",
+  "archived": false
 }

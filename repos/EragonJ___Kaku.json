@@ -5,7 +5,7 @@
   "owner": {
     "login": "EragonJ",
     "id": 68322,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/68322?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/68322?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EragonJ",
     "htmlUrl": "https://github.com/EragonJ",
@@ -17,24 +17,24 @@
     "type": "User"
   },
   "private": false,
-  "description": "Kaku is an highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.",
+  "description": "Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.",
   "fork": false,
   "createdAt": "2015-02-17T04:07:29.000Z",
-  "updatedAt": "2017-05-03T16:13:19.000Z",
-  "pushedAt": "2017-05-03T17:11:24.000Z",
+  "updatedAt": "2017-10-21T01:36:55.000Z",
+  "pushedAt": "2017-09-25T23:14:19.000Z",
   "homepage": "http://kaku.rocks",
-  "size": 3698,
-  "stargazersCount": 650,
-  "watchersCount": 650,
+  "size": 3928,
+  "stargazersCount": 730,
+  "watchersCount": 730,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 86,
-  "openIssuesCount": 23,
-  "openIssues": 23,
-  "watchers": 650,
+  "forksCount": 89,
+  "openIssuesCount": 21,
+  "openIssues": 21,
+  "watchers": 730,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,33 +48,22 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 86,
-  "subscribersCount": 47,
+  "networkCount": 89,
+  "subscribersCount": 52,
   "status": 200,
   "packageJSON": {
     "name": "Kaku",
     "version": "1.8.5",
     "description": "The next generation music client",
     "main": "bootup.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/EragonJ/Kaku"
-    },
+    "repository": "https://github.com/EragonJ/Kaku",
     "keywords": [
       "Kaku",
       "music",
       "player",
       "youtube"
     ],
-    "author": {
-      "name": "Chia-Lung, Chen (EragonJ)",
-      "email": "eragonj@eragonj.me",
-      "url": "http://eragonj.me"
-    },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/EragonJ/Kaku/issues"
-    },
     "homepage": "https://github.com/EragonJ/Kaku",
     "scripts": {
       "dev": "./node_modules/.bin/webpack --watch",
@@ -193,6 +182,16 @@
       "vimeo": "^1.1.4",
       "youtube-dl": "EragonJ/node-youtube-dl",
       "youtube-node": "EragonJ/youtube-node"
+    },
+    "other": {
+      "author": {
+        "name": "Chia-Lung, Chen (EragonJ)",
+        "email": "eragonj@eragonj.me",
+        "url": "http://eragonj.me"
+      },
+      "bugs": {
+        "url": "https://github.com/EragonJ/Kaku/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -240,6 +239,7 @@
   "svnUrl": "https://github.com/EragonJ/Kaku",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T19:58:58.276Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:47.401Z"
+  "lastFetchedAt": "2017-10-23T17:30:43.200Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:47.401Z",
+  "archived": false
 }

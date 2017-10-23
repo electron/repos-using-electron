@@ -5,7 +5,7 @@
   "owner": {
     "login": "maclover7",
     "id": 3020626,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3020626?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3020626?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maclover7",
     "htmlUrl": "https://github.com/maclover7",
@@ -74,15 +74,8 @@
       "package": "epi",
       "start": "electron index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maclover7/slack.git"
-    },
-    "author": "Jon Moss <me@jonathanmoss.me>",
+    "repository": "https://github.com/maclover7/slack",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/maclover7/slack/issues"
-    },
     "homepage": "https://github.com/maclover7/slack#readme",
     "devDependencies": {
       "electron-packager-interactive": "0.0.5",
@@ -90,6 +83,12 @@
     },
     "dependencies": {
       "jquery": "^2.2.4"
+    },
+    "other": {
+      "author": "Jon Moss <me@jonathanmoss.me>",
+      "bugs": {
+        "url": "https://github.com/maclover7/slack/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "maclover7___slack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:22.688Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:59.285Z"
+  "lastFetchedAt": "2017-10-23T18:08:51.174Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:59.285Z",
+  "archived": false
 }

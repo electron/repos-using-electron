@@ -5,7 +5,7 @@
   "owner": {
     "login": "va2ron1",
     "id": 303179,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/303179?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/303179?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/va2ron1",
     "htmlUrl": "https://github.com/va2ron1",
@@ -56,12 +56,6 @@
     "email": "javier.cordero@upr.edu",
     "version": "2.0.17",
     "description": "The most complete and professional free software teleprompter app on the web.",
-    "author": "Javier O. Cordero Pérez <javier.cordero@upr.edu>",
-    "contributors": [
-      "Victor A. Ortiz Alvarado <va2ron1@gmail.com>",
-      "Rafael Sierra <rafael.sierra2@upr.edu>",
-      "Keyvan Pérez <keyvan.perez2@gmail.com>"
-    ],
     "license": "GPL3",
     "homepage": "https://github.com/imaginaryfilms/Teleprompter",
     "main": "main.js",
@@ -83,6 +77,14 @@
       "dist:win32": "build --platform win32 --arch ia32",
       "dist:win64": "build --platform win32 --arch x64",
       "dist:linux": "build --platform linux"
+    },
+    "other": {
+      "author": "Javier O. Cordero Pérez <javier.cordero@upr.edu>",
+      "contributors": [
+        "Victor A. Ortiz Alvarado <va2ron1@gmail.com>",
+        "Rafael Sierra <rafael.sierra2@upr.edu>",
+        "Keyvan Pérez <keyvan.perez2@gmail.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -130,6 +132,7 @@
   },
   "filename": "va2ron1___Teleprompter-Electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:18.870Z",
-  "packageLastFetchedAt": "2017-05-05T15:03:42.346Z"
+  "lastFetchedAt": "2017-10-23T20:41:46.592Z",
+  "packageLastFetchedAt": "2017-05-05T15:03:42.346Z",
+  "archived": false
 }

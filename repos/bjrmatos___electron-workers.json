@@ -5,7 +5,7 @@
   "owner": {
     "login": "bjrmatos",
     "id": 4262050,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4262050?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4262050?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bjrmatos",
     "htmlUrl": "https://github.com/bjrmatos",
@@ -20,21 +20,21 @@
   "description": "Run electron scripts in managed workers :rocket: ",
   "fork": false,
   "createdAt": "2015-10-25T19:01:18.000Z",
-  "updatedAt": "2017-04-13T13:29:37.000Z",
-  "pushedAt": "2017-05-02T16:29:08.000Z",
+  "updatedAt": "2017-10-15T03:04:55.000Z",
+  "pushedAt": "2017-10-19T11:02:22.000Z",
   "homepage": null,
-  "size": 82,
-  "stargazersCount": 67,
-  "watchersCount": 67,
+  "size": 130,
+  "stargazersCount": 77,
+  "watchersCount": 77,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 8,
-  "openIssuesCount": 12,
-  "openIssues": 12,
-  "watchers": 67,
+  "openIssuesCount": 16,
+  "openIssues": 16,
+  "watchers": 77,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,10 +63,6 @@
       "test": "mocha --timeout 9000",
       "prepublish": "in-publish && npm-run-all lint clean build || not-in-publish"
     },
-    "author": {
-      "name": "BJR Matos",
-      "email": "bjrmatos@gmail.com"
-    },
     "license": "MIT",
     "keywords": [
       "electron",
@@ -75,10 +71,7 @@
       "electron spawn"
     ],
     "homepage": "https://github.com/bjrmatos/electron-workers",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:bjrmatos/electron-workers.git"
-    },
+    "repository": "https://github.com/bjrmatos/electron-workers",
     "dependencies": {
       "debug": "2.3.3",
       "lodash.findindex": "4.6.0",
@@ -98,6 +91,12 @@
       "npm-run-all": "2.3.0",
       "rimraf": "2.5.4",
       "should": "9.0.2"
+    },
+    "other": {
+      "author": {
+        "name": "BJR Matos",
+        "email": "bjrmatos@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   "svnUrl": "https://github.com/bjrmatos/electron-workers",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:05:12.860Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:40.070Z"
+  "lastFetchedAt": "2017-10-23T20:37:15.035Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:40.070Z",
+  "archived": false
 }

@@ -164,21 +164,14 @@
   },
   "networkCount": 454,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "black-screen",
     "productName": "Black Screen",
     "description": "A terminal emulator for the 21st century.",
     "version": "0.2.22",
     "main": "compiled/src/main/Main.js",
-    "author": "Volodymyr Shatskyi <shockone89@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/shockone/black-screen.git"
-    },
-    "bugs": {
-      "url": "https://github.com/shockone/black-screen/issues"
-    },
+    "repository": "https://github.com/shockone/black-screen",
     "engineStrict": true,
     "engines": {
       "node": ">= 6.0.0"
@@ -242,12 +235,18 @@
       "tsc": "tsc"
     },
     "license": "MIT",
-    "directories": {
-      "app": "."
-    },
     "build": {
       "appId": "com.github.shockone.black-screen",
       "app-category-type": "public.app-category.developer-tools"
+    },
+    "other": {
+      "author": "Volodymyr Shatskyi <shockone89@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/shockone/black-screen/issues"
+      },
+      "directories": {
+        "app": "."
+      }
     }
   },
   "packageStatus": 200,
@@ -296,6 +295,6 @@
   "svnUrl": "https://github.com/hectormenendez/black-screen",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:43:20.303Z",
+  "lastFetchedAt": "2017-10-23T20:39:24.370Z",
   "packageLastFetchedAt": "2017-05-04T22:24:25.732Z"
 }

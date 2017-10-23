@@ -5,7 +5,7 @@
   "owner": {
     "login": "akameco",
     "id": 4002137,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4002137?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4002137?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/akameco",
     "htmlUrl": "https://github.com/akameco",
@@ -78,18 +78,11 @@
       "install": "npm run dest && npm run build",
       "test": "ava"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/akameco/tamamo.git"
-    },
+    "repository": "https://github.com/akameco/tamamo",
     "keywords": [
       "twitter"
     ],
-    "author": "akameco",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/akameco/tamamo/issues"
-    },
     "homepage": "https://github.com/akameco/tamamo#readme",
     "dependencies": {
       "electron-debug": "^0.5.0",
@@ -115,6 +108,12 @@
         "browser"
       ],
       "space": true
+    },
+    "other": {
+      "author": "akameco",
+      "bugs": {
+        "url": "https://github.com/akameco/tamamo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "akameco___tamamo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:41.388Z",
-  "packageLastFetchedAt": "2017-05-04T22:19:31.925Z"
+  "lastFetchedAt": "2017-10-23T20:25:55.955Z",
+  "packageLastFetchedAt": "2017-05-04T22:19:31.925Z",
+  "archived": false
 }

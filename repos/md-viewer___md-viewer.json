@@ -5,7 +5,7 @@
   "owner": {
     "login": "md-viewer",
     "id": 12676930,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12676930?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12676930?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/md-viewer",
     "htmlUrl": "https://github.com/md-viewer",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "md-viewer",
     "id": 12676930,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12676930?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12676930?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/md-viewer",
     "htmlUrl": "https://github.com/md-viewer",
@@ -69,7 +69,6 @@
     "name": "md-viewer",
     "version": "1.0.0",
     "description": "a desktop Markdown viewer app built on Electron",
-    "author": "pmuellr",
     "main": "./lib/md-viewer",
     "scripts": {
       "cake": "cake",
@@ -78,10 +77,7 @@
     },
     "homepage": "https://github.com/pmuellr/md-viewer",
     "license": "Apache-2.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pmuellr/md-viewer.git"
-    },
+    "repository": "https://github.com/pmuellr/md-viewer",
     "dependencies": {
       "debug": "2.2.x",
       "highlight.js": "8.6.x",
@@ -99,6 +95,9 @@
       "electron-prebuilt": "0.28.x",
       "eslint": "0.24.x",
       "plist": "1.1.x"
+    },
+    "other": {
+      "author": "pmuellr"
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "svnUrl": "https://github.com/md-viewer/md-viewer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:04:13.565Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:08.245Z"
+  "lastFetchedAt": "2017-10-23T20:32:28.835Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:08.245Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "pacebook",
     "id": 6239742,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6239742?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6239742?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pacebook",
     "htmlUrl": "https://github.com/pacebook",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -78,21 +78,14 @@
       "sonus": "node sonus.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Smart Mirror",
       "IoT",
       "Voice Control",
       "DIY"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "angular-i18n": "^1.5.5",
@@ -109,6 +102,12 @@
       "fitbit-oauth2": "0.0.1",
       "hyperion-client": "1.0.3",
       "sonus": "0.1.0"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "pacebook___melol.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:29:55.715Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:55.446Z"
+  "lastFetchedAt": "2017-10-23T17:35:00.946Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:55.446Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "mamedov-rustam",
     "id": 9075425,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9075425?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9075425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mamedov-rustam",
     "htmlUrl": "https://github.com/mamedov-rustam",
@@ -74,24 +74,23 @@
       "start": "electron .",
       "start dev": "electron . --dev-tools"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "mamedov-rustam___2048.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:44.708Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:19.022Z"
+  "lastFetchedAt": "2017-10-23T17:28:18.856Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:19.022Z",
+  "archived": false
 }

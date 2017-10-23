@@ -5,7 +5,7 @@
   "owner": {
     "login": "superp00t",
     "id": 17891838,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17891838?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17891838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/superp00t",
     "htmlUrl": "https://github.com/superp00t",
@@ -75,11 +75,7 @@
     "name": "CryptocatBuilder",
     "version": "1.0.0",
     "description": "Builds Cryptocat.",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cryptocat/cryptocat"
-    },
-    "author": "Nadim Kobeissi",
+    "repository": "https://github.com/cryptocat/cryptocat",
     "license": "GPL-3.0",
     "homepage": "https://crypto.cat",
     "devDependencies": {
@@ -99,6 +95,9 @@
       "win": "grunt win",
       "mac": "grunt mac",
       "linux": "grunt linux"
+    },
+    "other": {
+      "author": "Nadim Kobeissi"
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "filename": "superp00t___cryptocat.json",
   "sourceRepo": "cryptocat/cryptocat",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:30.549Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:32.622Z"
+  "lastFetchedAt": "2017-10-23T17:17:27.595Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:32.622Z",
+  "archived": false
 }

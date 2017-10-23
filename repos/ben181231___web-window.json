@@ -5,7 +5,7 @@
   "owner": {
     "login": "ben181231",
     "id": 3863953,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3863953?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3863953?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ben181231",
     "htmlUrl": "https://github.com/ben181231",
@@ -49,14 +49,10 @@
     "name": "web-window",
     "version": "0.0.2",
     "description": "A wrapper of BrowserWindow from Electron, for easy CSS / JS Injection.",
-    "author": "ben181231 <ben181231@gmail.com>",
     "license": "MIT",
     "main": "index.js",
     "readme": "README.md",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ben181231/web-window.git"
-    },
+    "repository": "https://github.com/ben181231/web-window",
     "keywords": [
       "electron-app",
       "browser",
@@ -71,6 +67,9 @@
     "devDependencies": {
       "electron-prebuilt": "^0.33.6",
       "electron-packager": "^5.0.0"
+    },
+    "other": {
+      "author": "ben181231 <ben181231@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "ben181231___web-window.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:43.976Z",
-  "packageLastFetchedAt": "2017-05-04T22:19:49.043Z"
+  "lastFetchedAt": "2017-10-23T20:13:49.638Z",
+  "packageLastFetchedAt": "2017-05-04T22:19:49.043Z",
+  "archived": false
 }

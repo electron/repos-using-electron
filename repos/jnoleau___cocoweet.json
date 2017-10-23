@@ -5,7 +5,7 @@
   "owner": {
     "login": "jnoleau",
     "id": 1775047,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1775047?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1775047?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jnoleau",
     "htmlUrl": "https://github.com/jnoleau",
@@ -81,15 +81,8 @@
       "lintjs": "eslint app",
       "lintcss": "stylelint app/**/*.less"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jnoleau/cocoweet.git"
-    },
-    "author": "",
+    "repository": "https://github.com/jnoleau/cocoweet",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jnoleau/cocoweet/issues"
-    },
     "homepage": "https://github.com/jnoleau/cocoweet#readme",
     "dependencies": {
       "babel-loader": "6.2.5",
@@ -135,6 +128,12 @@
       "flow-bin": "0.36.0",
       "stylelint": "7.5.0",
       "stylelint-config-standard": "14.0.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/jnoleau/cocoweet/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "jnoleau___cocoweet.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:23:37.896Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:43.773Z"
+  "lastFetchedAt": "2017-10-23T18:18:14.303Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:43.773Z",
+  "archived": false
 }

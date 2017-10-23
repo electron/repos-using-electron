@@ -5,7 +5,7 @@
   "owner": {
     "login": "wjrh",
     "id": 7401509,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7401509?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7401509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wjrh",
     "htmlUrl": "https://github.com/wjrh",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "wjrh",
     "id": 7401509,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7401509?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7401509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wjrh",
     "htmlUrl": "https://github.com/wjrh",
@@ -84,15 +84,11 @@
     "version": "0.0.1",
     "description": "An interface for Teal",
     "main": "app.js",
-    "author": "Renan Dincer",
     "license": "CC0-1.0",
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://github.com/wjrh/Cerulean.git"
-    },
+    "repository": "https://github.com/wjrh/Cerulean",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "electron-builder": "^5.10.1"
@@ -107,6 +103,9 @@
       "win": {
         "iconUrl": ""
       }
+    },
+    "other": {
+      "author": "Renan Dincer"
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "wjrh___Indigo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:21:56.592Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:00.494Z"
+  "lastFetchedAt": "2017-10-23T18:54:37.051Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:00.494Z",
+  "archived": false
 }

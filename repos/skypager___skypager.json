@@ -1,12 +1,12 @@
 {
   "filename": "skypager___skypager.json",
-  "id": 81713107,
+  "id": 104806249,
   "name": "skypager",
   "fullName": "skypager/skypager",
   "owner": {
     "login": "skypager",
     "id": 16248937,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16248937?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16248937?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/skypager",
     "htmlUrl": "https://github.com/skypager",
@@ -35,18 +35,18 @@
   "mergesUrl": "https://api.github.com/repos/skypager/skypager/merges",
   "downloadsUrl": "https://api.github.com/repos/skypager/skypager/downloads",
   "deploymentsUrl": "https://api.github.com/repos/skypager/skypager/deployments",
-  "createdAt": "2017-02-12T08:33:47.000Z",
-  "updatedAt": "2017-02-12T08:37:23.000Z",
-  "pushedAt": "2017-04-06T06:34:47.000Z",
+  "createdAt": "2017-09-25T21:58:53.000Z",
+  "updatedAt": "2017-09-25T21:59:06.000Z",
+  "pushedAt": "2017-09-25T21:59:03.000Z",
   "gitUrl": "git://github.com/skypager/skypager.git",
   "sshUrl": "git@github.com:skypager/skypager.git",
   "cloneUrl": "https://github.com/skypager/skypager.git",
   "svnUrl": "https://github.com/skypager/skypager",
   "homepage": null,
-  "size": 46708,
+  "size": 7240,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "JavaScript",
+  "language": "HTML",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
@@ -63,11 +63,17 @@
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
+  },
   "organization": {
     "login": "skypager",
     "id": 16248937,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16248937?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16248937?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/skypager",
     "htmlUrl": "https://github.com/skypager",
@@ -81,7 +87,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:40:11.918Z",
+  "lastFetchedAt": "2017-10-23T21:06:17.916Z",
   "packageJSON": {
     "name": "skypager-monorepo",
     "private": "true",
@@ -121,11 +127,7 @@
       "markdown"
     ],
     "homepage": "https://github.com/skypager/skypager#readme",
-    "bugs": {
-      "url": "https://github.com/skypager/skypager/issues"
-    },
     "license": "MIT",
-    "author": "Jon Soeder <jon@chicago.com> (https://twitter.com/soederpop)",
     "skypager": {
       "paths": {
         "output": "app",
@@ -162,10 +164,7 @@
       "bin"
     ],
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/skypager/skypager.git"
-    },
+    "repository": "https://github.com/skypager/skypager",
     "devDependencies": {
       "babel-core": "^6.22.0",
       "babel-eslint": "^6.1.2",
@@ -213,8 +212,15 @@
       "skypager-project-types-react": "15.1.0",
       "json-buffer": "^2.0.11",
       "node-uuid": "^1.4.7"
+    },
+    "other": {
+      "author": "Jon Soeder <jon@chicago.com> (https://twitter.com/soederpop)",
+      "bugs": {
+        "url": "https://github.com/skypager/skypager/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:10:30.413Z"
+  "packageLastFetchedAt": "2017-05-05T15:10:30.413Z",
+  "archived": false
 }

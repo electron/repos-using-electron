@@ -5,7 +5,7 @@
   "owner": {
     "login": "targetkiller",
     "id": 3258093,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3258093?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3258093?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/targetkiller",
     "htmlUrl": "https://github.com/targetkiller",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -74,16 +74,12 @@
       "start": "electron .",
       "build": "electron-packager ./ Prefixer --version=0.35.4 --platform=darwin --arch=x64 --ignore=node_modules/electron-* --ignore=node_modules/.bin --ignore=.git --icon=./app/app-icon.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/targetkiller/Prefixer"
-    },
+    "repository": "https://github.com/targetkiller/Prefixer",
     "keywords": [
       "autoprefix",
       "postcss",
       "electron"
     ],
-    "author": "tqtan",
     "license": "MIT",
     "dependencies": {
       "gulp": "~3.9.0",
@@ -92,12 +88,15 @@
       "autoprefixer": "~6.1.2",
       "electron-prebuilt": "^0.35.0"
     },
-    "bugs": {
-      "url": "https://github.com/targetkiller/Prefixer/issues"
-    },
     "homepage": "https://github.com/targetkiller/Prefixer#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1"
+    },
+    "other": {
+      "author": "tqtan",
+      "bugs": {
+        "url": "https://github.com/targetkiller/Prefixer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "targetkiller___Prefixer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:11.825Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:49.522Z"
+  "lastFetchedAt": "2017-10-23T19:36:36.506Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:49.522Z",
+  "archived": false
 }

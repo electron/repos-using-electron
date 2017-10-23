@@ -5,7 +5,7 @@
   "owner": {
     "login": "karyfoundation",
     "id": 11377666,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11377666?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11377666?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/karyfoundation",
     "htmlUrl": "https://github.com/karyfoundation",
@@ -20,21 +20,21 @@
   "description": "A Powerful, Beautiful, Programmable and Rich Graph Editor for Students, Data Scientists, Mathematicians and anyone who want's to just have fun with graphs!",
   "fork": false,
   "createdAt": "2016-06-08T15:00:18.000Z",
-  "updatedAt": "2017-05-04T16:49:51.000Z",
+  "updatedAt": "2017-10-06T21:37:26.000Z",
   "pushedAt": "2016-12-03T18:16:22.000Z",
   "homepage": "",
   "size": 6942,
-  "stargazersCount": 17,
-  "watchersCount": 17,
+  "stargazersCount": 20,
+  "watchersCount": 20,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "openIssuesCount": 7,
   "openIssues": 7,
-  "watchers": 17,
+  "watchers": 20,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "karyfoundation",
     "id": 11377666,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11377666?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11377666?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/karyfoundation",
     "htmlUrl": "https://github.com/karyfoundation",
@@ -62,13 +62,12 @@
     "receivedEventsUrl": "https://api.github.com/users/karyfoundation/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 4,
+  "networkCount": 3,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "graph",
     "productName": "Kary Graph",
-    "author": "Kary Foundation",
     "main": "main.js",
     "description": "The most powerful programming environments for graphs!",
     "homepage": "https://github.com/karyfoundation/graph",
@@ -79,10 +78,7 @@
       "dev": "NODE_ENV='development' npm run start",
       "dist": "node_modules/.bin/build --mac --x64 --version=1.3.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/karyfoundation/graph"
-    },
+    "repository": "https://github.com/karyfoundation/graph",
     "build": {
       "appId": "org.karyfoundation.graph",
       "copyright": "Copyright 2016 by Kary Foundation, Inc. All right reserved.",
@@ -120,6 +116,9 @@
       "sloc": "0.1.10",
       "typescript": "1.8.10",
       "uglifyjs": "2.4.10"
+    },
+    "other": {
+      "author": "Kary Foundation"
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   },
   "filename": "karyfoundation___graph.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:32:10.152Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:01.262Z"
+  "lastFetchedAt": "2017-10-23T21:00:00.662Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:01.262Z",
+  "archived": false
 }

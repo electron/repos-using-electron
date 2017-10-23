@@ -5,7 +5,7 @@
   "owner": {
     "login": "resin-io",
     "id": 6157842,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6157842?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6157842?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/resin-io",
     "htmlUrl": "https://github.com/resin-io",
@@ -20,21 +20,21 @@
   "description": "Flash OS images to SD cards & USB drives, safely and easily.",
   "fork": false,
   "createdAt": "2015-10-27T16:53:23.000Z",
-  "updatedAt": "2017-05-04T04:58:55.000Z",
-  "pushedAt": "2017-05-03T21:57:25.000Z",
+  "updatedAt": "2017-10-23T20:55:47.000Z",
+  "pushedAt": "2017-10-23T17:32:47.000Z",
   "homepage": "https://etcher.io",
-  "size": 61870,
-  "stargazersCount": 2757,
-  "watchersCount": 2757,
+  "size": 86788,
+  "stargazersCount": 7187,
+  "watchersCount": 7187,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 149,
-  "openIssuesCount": 127,
-  "openIssues": 127,
-  "watchers": 2757,
+  "forksCount": 309,
+  "openIssuesCount": 191,
+  "openIssues": 191,
+  "watchers": 7187,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "resin-io",
     "id": 6157842,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6157842?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6157842?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/resin-io",
     "htmlUrl": "https://github.com/resin-io",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/resin-io/received_events",
     "type": "Organization"
   },
-  "networkCount": 149,
-  "subscribersCount": 126,
+  "networkCount": 309,
+  "subscribersCount": 224,
   "status": 200,
   "packageJSON": {
     "name": "etcher",
@@ -77,10 +77,7 @@
     "productDescription": "Etcher is a powerful OS image flasher built with web technologies to ensure flashing an SDCard or USB drive is a pleasant and safe experience. It protects you from accidentally writing to your hard-drives, ensures every byte of data was written correctly and much more.",
     "homepage": "https://github.com/resin-io/etcher",
     "gypfile": true,
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:resin-io/etcher.git"
-    },
+    "repository": "https://github.com/resin-io/etcher",
     "scripts": {
       "test": "npm run lint && electron-mocha --recursive --renderer tests/gui -R spec && electron-mocha --recursive tests/shared tests/child-writer tests/image-stream -R spec",
       "sass": "node-sass ./lib/gui/scss/main.scss > ./lib/gui/css/main.css",
@@ -97,7 +94,6 @@
       "build": "node-gyp build",
       "install": "node-gyp rebuild"
     },
-    "author": "Juan Cruz Viotti <juan@resin.io>",
     "license": "Apache-2.0",
     "copyright": "Copyright 2016 Resinio Ltd",
     "companyName": "Resinio Ltd",
@@ -198,6 +194,9 @@
       "sass-lint": "^1.10.2",
       "tmp": "0.0.31",
       "versionist": "^2.1.0"
+    },
+    "other": {
+      "author": "Juan Cruz Viotti <juan@resin.io>"
     }
   },
   "packageStatus": 200,
@@ -245,6 +244,7 @@
   },
   "filename": "resin-io___etcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:43.699Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:34.298Z"
+  "lastFetchedAt": "2017-10-23T21:03:57.645Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:34.298Z",
+  "archived": false
 }

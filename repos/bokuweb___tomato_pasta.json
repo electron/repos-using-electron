@@ -5,7 +5,7 @@
   "owner": {
     "login": "bokuweb",
     "id": 10220449,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10220449?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10220449?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bokuweb",
     "htmlUrl": "https://github.com/bokuweb",
@@ -71,19 +71,12 @@
       "zip-win32": "cd packages && zip -r pasta-win32-x64.zip pasta-win32-x64",
       "zip-linux": "cd packages && zip -r pasta-linux-x64.zip pasta-linux-x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bokuweb/tomato_pasta"
-    },
+    "repository": "https://github.com/bokuweb/tomato_pasta",
     "keywords": [
       "Electron",
       "Hatena"
     ],
-    "author": "bokuweb",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bokuweb/tomato_pasta/issues"
-    },
     "homepage": "https://github.com/bokuweb/tomato_pasta",
     "devDependencies": {
       "babel-plugin-espower": "1.0.0",
@@ -127,6 +120,12 @@
       "transform": [
         "babelify"
       ]
+    },
+    "other": {
+      "author": "bokuweb",
+      "bugs": {
+        "url": "https://github.com/bokuweb/tomato_pasta/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -174,6 +173,7 @@
   },
   "filename": "bokuweb___tomato_pasta.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:52.627Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:35.758Z"
+  "lastFetchedAt": "2017-10-23T19:01:20.792Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:35.758Z",
+  "archived": false
 }

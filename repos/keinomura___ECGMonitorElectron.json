@@ -6,7 +6,7 @@
   "owner": {
     "login": "keinomura",
     "id": 14947764,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14947764?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14947764?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/keinomura",
     "htmlUrl": "https://github.com/keinomura",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/keinomura/ECGMonitorElectron/deployments",
   "createdAt": "2017-02-20T01:02:37.000Z",
   "updatedAt": "2017-02-20T01:54:26.000Z",
-  "pushedAt": "2017-04-10T23:45:00.000Z",
+  "pushedAt": "2017-06-26T06:25:02.000Z",
   "gitUrl": "git://github.com/keinomura/ECGMonitorElectron.git",
   "sshUrl": "git@github.com:keinomura/ECGMonitorElectron.git",
   "cloneUrl": "https://github.com/keinomura/ECGMonitorElectron.git",
   "svnUrl": "https://github.com/keinomura/ECGMonitorElectron",
   "homepage": "",
-  "size": 111,
+  "size": 123,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:50:38.467Z",
+  "lastFetchedAt": "2017-10-23T17:29:56.067Z",
   "packageJSON": {
     "name": "ecgmonitor",
     "version": "0.5.0",
@@ -75,16 +75,19 @@
     "main": "main.js",
     "description": "ecg monitor for ISLS. electron ver.",
     "license": "Kei Nom",
-    "author": {
-      "name": "Kei Nom"
-    },
     "devDependencies": {
       "electron": "^1.4.15",
       "electron-builder": "^13.7.0",
       "nopt": "latest",
       "npm": "latest"
+    },
+    "other": {
+      "author": {
+        "name": "Kei Nom"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T23:10:48.453Z"
+  "packageLastFetchedAt": "2017-05-04T23:10:48.453Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "coinstac-ui",
     "version": "1.0.0",
@@ -156,22 +156,21 @@
       "publish-major": "npm run preversion && npm version major && git push origin master --tags && npm publish",
       "test": "nyc --reporter=lcov --check-coverage --lines=1 --functions=1 --branches=1 babel-node test/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MRN-Code/coinstac.git"
-    },
-    "author": "",
+    "repository": "https://github.com/MRN-Code/coinstac",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MRN-Code/coinstac/issues"
-    },
     "pre-commit": [
       "lint",
       "validate",
       "test"
     ],
     "homepage": "https://github.com/MRN-Code/coinstac",
-    "keywords": []
+    "keywords": [],
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/MRN-Code/coinstac/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -218,6 +217,6 @@
   "svnUrl": "https://github.com/MRN-Code/coinstac-ui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:29:05.614Z",
+  "lastFetchedAt": "2017-10-23T20:19:00.202Z",
   "packageLastFetchedAt": "2017-05-05T17:28:13.725Z"
 }

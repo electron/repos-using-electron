@@ -5,7 +5,7 @@
   "owner": {
     "login": "jason-hwang",
     "id": 4724172,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4724172?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4724172?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jason-hwang",
     "htmlUrl": "https://github.com/jason-hwang",
@@ -59,20 +59,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jason-hwang/secc-scheduler-gui"
-    },
+    "repository": "https://github.com/jason-hwang/secc-scheduler-gui",
     "keywords": [
       "Electron",
       "secc",
       "scheduler"
     ],
-    "author": "Jaeseong Hwang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jason-hwang/secc-scheduler-gui/issues"
-    },
     "homepage": "https://github.com/jason-hwang/secc-scheduler-gui",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -81,6 +74,12 @@
     "dependencies": {
       "electron-json-storage": "^2.0.0",
       "debug": "2.2.0"
+    },
+    "other": {
+      "author": "Jaeseong Hwang",
+      "bugs": {
+        "url": "https://github.com/jason-hwang/secc-scheduler-gui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/jason-hwang/secc-scheduler-gui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:36:37.773Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:21.025Z"
+  "lastFetchedAt": "2017-10-23T17:36:50.747Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:21.025Z",
+  "archived": false
 }

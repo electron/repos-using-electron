@@ -5,7 +5,7 @@
   "owner": {
     "login": "appelgriebsch",
     "id": 6803419,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6803419?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6803419?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/appelgriebsch",
     "htmlUrl": "https://github.com/appelgriebsch",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -77,19 +77,12 @@
     "version": "0.2.0",
     "description": "Manage local PouchDB server instances from your tray.",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/appelgriebsch/pouchdb-app.git"
-    },
+    "repository": "https://github.com/appelgriebsch/pouchdb-app",
     "keywords": [
       "electron",
       "pouchdb-server"
     ],
-    "author": "Andreas Gerlach <andi@appelgriebsch.org>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/appelgriebsch/pouchdb-app/issues"
-    },
     "homepage": "https://github.com/appelgriebsch/pouchdb-app#readme",
     "scripts": {
       "start": "electron app/",
@@ -111,6 +104,12 @@
       "grunt-electron-debian-installer": "^0.1.0",
       "grunt-electron-redhat-installer": "^0.2.0",
       "grunt-electron-installer": "^1.0"
+    },
+    "other": {
+      "author": "Andreas Gerlach <andi@appelgriebsch.org>",
+      "bugs": {
+        "url": "https://github.com/appelgriebsch/pouchdb-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "appelgriebsch___pouchdb-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:58:43.414Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:19.158Z"
+  "lastFetchedAt": "2017-10-23T18:23:22.709Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:19.158Z",
+  "archived": false
 }

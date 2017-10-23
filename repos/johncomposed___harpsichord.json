@@ -5,7 +5,7 @@
   "owner": {
     "login": "johncomposed",
     "id": 4822352,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4822352?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4822352?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/johncomposed",
     "htmlUrl": "https://github.com/johncomposed",
@@ -92,9 +92,11 @@
       "compile": "grunt compile",
       "build": "electron-packager . Harpsichord --platform=darwin --ignore=dev/ --arch=x64 --version=0.30.0 --overwrite --icon=circle"
     },
-    "author": "John Williams <johncomposed@gmail.com>",
     "license": "MIT",
-    "homepage": "https://github.com/johncomposed/harpsichord#readme"
+    "homepage": "https://github.com/johncomposed/harpsichord#readme",
+    "other": {
+      "author": "John Williams <johncomposed@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -121,6 +123,7 @@
   },
   "filename": "johncomposed___harpsichord.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:20.989Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:20.991Z"
+  "lastFetchedAt": "2017-10-23T20:54:08.948Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:20.991Z",
+  "archived": false
 }

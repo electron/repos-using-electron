@@ -5,7 +5,7 @@
   "owner": {
     "login": "lyrictenor",
     "id": 12182664,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12182664?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12182664?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lyrictenor",
     "htmlUrl": "https://github.com/lyrictenor",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "lyrictenor",
     "id": 12182664,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12182664?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12182664?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lyrictenor",
     "htmlUrl": "https://github.com/lyrictenor",
@@ -69,11 +69,6 @@
     "name": "npm-modules",
     "description": "My spectacular module",
     "version": "0.1.0",
-    "author": {
-      "name": "sanemat",
-      "email": "o.gata.ken@gmail.com",
-      "url": "sane.jp"
-    },
     "dependencies": {
       "electron-debug": "^0.1.1",
       "react": "^0.13.3"
@@ -132,6 +127,13 @@
       "start": "npm run build:local && node lib/server.js",
       "test": "mocha --require ./enable-power-assert.js -- ./test/*test.js",
       "verify": "npm run lint"
+    },
+    "other": {
+      "author": {
+        "name": "sanemat",
+        "email": "o.gata.ken@gmail.com",
+        "url": "sane.jp"
+      }
     }
   },
   "packageStatus": 200,
@@ -179,6 +181,7 @@
   "svnUrl": "https://github.com/lyrictenor/electron-npm-modules",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:04:54.497Z",
-  "packageLastFetchedAt": "2017-05-05T17:04:25.399Z"
+  "lastFetchedAt": "2017-10-23T17:56:19.192Z",
+  "packageLastFetchedAt": "2017-05-05T17:04:25.399Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jackness1208",
     "id": 9250031,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9250031?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9250031?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jackness1208",
     "htmlUrl": "https://github.com/jackness1208",
@@ -75,19 +75,12 @@
       "start": "electron .",
       "pack:pc": "electron-packager . electron-helloworld --all --version=0.1.0 --out=./build --overwrite --icon=./app/icon/app-logo.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jackness1208/electron-helloworld.git"
-    },
+    "repository": "https://github.com/jackness1208/electron-helloworld",
     "keywords": [
       "electron",
       "demo"
     ],
-    "author": "jackness",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jackness1208/electron-helloworld/issues"
-    },
     "homepage": "https://github.com/jackness1208/electron-helloworld",
     "devDependencies": {
       "electron-connect": "^0.4.2",
@@ -99,6 +92,12 @@
     },
     "dependencies": {
       "gulp": "^3.9.1"
+    },
+    "other": {
+      "author": "jackness",
+      "bugs": {
+        "url": "https://github.com/jackness1208/electron-helloworld/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "jackness1208___electron-helloworld.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:46.592Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:57.613Z"
+  "lastFetchedAt": "2017-10-23T20:46:14.050Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:57.613Z",
+  "archived": false
 }

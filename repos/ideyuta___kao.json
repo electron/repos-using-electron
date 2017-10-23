@@ -5,7 +5,7 @@
   "owner": {
     "login": "ideyuta",
     "id": 4597433,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4597433?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4597433?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ideyuta",
     "htmlUrl": "https://github.com/ideyuta",
@@ -75,7 +75,6 @@
     "name": "kao",
     "description": "Note app for Mac",
     "version": "0.0.0",
-    "author": "ideyuta <ide.yuta@gmail.com>",
     "dependencies": {
       "classnames": "^2.2.3",
       "dacho": "^1.0.0",
@@ -123,10 +122,7 @@
     "license": "MIT",
     "main": "main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ideyuta/kao.git"
-    },
+    "repository": "https://github.com/ideyuta/kao",
     "scripts": {
       "app": "electron --debug=5858 dist/main.js",
       "build": "npm-run-all --parallel build:*",
@@ -158,6 +154,9 @@
       "watch:js-renderer": "watchify -v -t babelify src/js/renderer/app.js -o \"exorcist dist/bundle.js.map > ./dist/bundle.js\" -d",
       "watch:lint": "chokidar src/js -c 'npm run -s lint'",
       "watch:server": "node-inspector"
+    },
+    "other": {
+      "author": "ideyuta <ide.yuta@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   },
   "filename": "ideyuta___kao.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:31.515Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:42.139Z"
+  "lastFetchedAt": "2017-10-23T18:51:31.765Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:42.139Z",
+  "archived": false
 }

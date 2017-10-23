@@ -5,7 +5,7 @@
   "owner": {
     "login": "almonk",
     "id": 51724,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/51724?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/51724?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/almonk",
     "htmlUrl": "https://github.com/almonk",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/almonk/shrink2/downloads",
   "deploymentsUrl": "https://api.github.com/repos/almonk/shrink2/deployments",
   "createdAt": "2016-10-17T10:07:23.000Z",
-  "updatedAt": "2017-03-23T01:48:11.000Z",
+  "updatedAt": "2017-07-06T23:09:10.000Z",
   "pushedAt": "2016-12-19T09:14:34.000Z",
   "gitUrl": "git://github.com/almonk/shrink2.git",
   "sshUrl": "git@github.com:almonk/shrink2.git",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 6,
+  "forksCount": 7,
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 6,
+  "networkCount": 7,
   "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for shrink2 goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -166,6 +161,13 @@
       "electron-default-menu": "^1.0.0",
       "electron-window-state": "^3.1.0",
       "mousetrap": "^1.6.0"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -193,6 +195,7 @@
   },
   "filename": "almonk___shrink2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:16:04.706Z",
-  "packageLastFetchedAt": "2017-05-04T22:35:05.532Z"
+  "lastFetchedAt": "2017-10-23T21:07:57.136Z",
+  "packageLastFetchedAt": "2017-05-04T22:35:05.532Z",
+  "archived": false
 }

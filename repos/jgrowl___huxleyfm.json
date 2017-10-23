@@ -5,7 +5,7 @@
   "owner": {
     "login": "jgrowl",
     "id": 90719,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/90719?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/90719?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jgrowl",
     "htmlUrl": "https://github.com/jgrowl",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "cheshire137",
       "id": 82317,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/82317?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/82317?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/cheshire137",
       "htmlUrl": "https://github.com/cheshire137",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/cheshire137/huxleyfm/downloads",
     "deploymentsUrl": "https://api.github.com/repos/cheshire137/huxleyfm/deployments",
     "createdAt": "2016-05-18T03:13:55.000Z",
-    "updatedAt": "2017-04-18T01:18:13.000Z",
+    "updatedAt": "2017-09-14T09:13:43.000Z",
     "pushedAt": "2016-06-05T01:03:14.000Z",
     "gitUrl": "git://github.com/cheshire137/huxleyfm.git",
     "sshUrl": "git@github.com:cheshire137/huxleyfm.git",
@@ -87,8 +87,8 @@
     "svnUrl": "https://github.com/cheshire137/huxleyfm",
     "homepage": "",
     "size": 1961,
-    "stargazersCount": 10,
-    "watchersCount": 10,
+    "stargazersCount": 12,
+    "watchersCount": 12,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -97,9 +97,10 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 10,
     "openIssues": 10,
-    "watchers": 10,
+    "watchers": 12,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "cheshire137",
       "id": 82317,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/82317?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/82317?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/cheshire137",
       "htmlUrl": "https://github.com/cheshire137",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/cheshire137/huxleyfm/downloads",
     "deploymentsUrl": "https://api.github.com/repos/cheshire137/huxleyfm/deployments",
     "createdAt": "2016-05-18T03:13:55.000Z",
-    "updatedAt": "2017-04-18T01:18:13.000Z",
+    "updatedAt": "2017-09-14T09:13:43.000Z",
     "pushedAt": "2016-06-05T01:03:14.000Z",
     "gitUrl": "git://github.com/cheshire137/huxleyfm.git",
     "sshUrl": "git@github.com:cheshire137/huxleyfm.git",
@@ -147,8 +148,8 @@
     "svnUrl": "https://github.com/cheshire137/huxleyfm",
     "homepage": "",
     "size": 1961,
-    "stargazersCount": 10,
-    "watchersCount": 10,
+    "stargazersCount": 12,
+    "watchersCount": 12,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -157,9 +158,10 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 10,
     "openIssues": 10,
-    "watchers": 10,
+    "watchers": 12,
     "defaultBranch": "master"
   },
   "networkCount": 1,
@@ -173,11 +175,6 @@
     "description": "An unofficial desktop app for listening to SomaFM radio stations.",
     "license": "MIT",
     "repository": "cheshire137/huxleyfm",
-    "author": {
-      "name": "Sarah Vessels",
-      "email": "cheshire137@gmail.com",
-      "url": "3till7.net"
-    },
     "scripts": {
       "test": "xo",
       "postinstall": "if [ ! -f config.json ]; then cp config.json.example config.json; fi",
@@ -247,6 +244,13 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Sarah Vessels",
+        "email": "cheshire137@gmail.com",
+        "url": "3till7.net"
+      }
     }
   },
   "packageStatus": 200,
@@ -295,6 +299,7 @@
   "svnUrl": "https://github.com/jgrowl/huxleyfm",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:17:16.424Z",
-  "packageLastFetchedAt": "2017-05-05T15:01:12.950Z"
+  "lastFetchedAt": "2017-10-23T20:11:38.446Z",
+  "packageLastFetchedAt": "2017-05-05T15:01:12.950Z",
+  "archived": false
 }

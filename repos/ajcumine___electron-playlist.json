@@ -5,7 +5,7 @@
   "owner": {
     "login": "ajcumine",
     "id": 6714789,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6714789?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6714789?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ajcumine",
     "htmlUrl": "https://github.com/ajcumine",
@@ -131,25 +131,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ajcumine/electron-playlist.git"
-    },
-    "author": {
-      "email": "ajcumine@gmail.com",
-      "url": "https://github.com/ajcumine"
-    },
+    "repository": "https://github.com/ajcumine/electron-playlist",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/ajcumine/electron-playlist/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -242,6 +228,19 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "email": "ajcumine@gmail.com",
+        "url": "https://github.com/ajcumine"
+      },
+      "bugs": {
+        "url": "https://github.com/ajcumine/electron-playlist/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -269,6 +268,7 @@
   },
   "filename": "ajcumine___electron-playlist.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:59:42.050Z",
-  "packageLastFetchedAt": "2017-05-04T22:36:35.130Z"
+  "lastFetchedAt": "2017-10-23T17:04:21.586Z",
+  "packageLastFetchedAt": "2017-05-04T22:36:35.130Z",
+  "archived": false
 }

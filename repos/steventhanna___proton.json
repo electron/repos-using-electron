@@ -5,7 +5,7 @@
   "owner": {
     "login": "steventhanna",
     "id": 2541678,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2541678?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2541678?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/steventhanna",
     "htmlUrl": "https://github.com/steventhanna",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/steventhanna/proton/downloads",
   "deploymentsUrl": "https://api.github.com/repos/steventhanna/proton/deployments",
   "createdAt": "2015-10-03T05:55:18.000Z",
-  "updatedAt": "2017-04-26T15:31:11.000Z",
-  "pushedAt": "2017-02-21T21:34:14.000Z",
+  "updatedAt": "2017-10-03T03:35:56.000Z",
+  "pushedAt": "2017-06-19T19:45:04.000Z",
   "gitUrl": "git://github.com/steventhanna/proton.git",
   "sshUrl": "git@github.com:steventhanna/proton.git",
   "cloneUrl": "https://github.com/steventhanna/proton.git",
   "svnUrl": "https://github.com/steventhanna/proton",
   "homepage": "http://steventhanna.github.io/proton",
-  "size": 420249,
-  "stargazersCount": 98,
-  "watchersCount": 98,
+  "size": 420252,
+  "stargazersCount": 117,
+  "watchersCount": 117,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 13,
+  "forksCount": 15,
   "mirrorUrl": null,
   "openIssuesCount": 10,
   "openIssues": 10,
-  "watchers": 98,
+  "watchers": 117,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 13,
-  "subscribersCount": 7,
+  "networkCount": 15,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "Proton",
@@ -92,20 +92,13 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/steventhanna/proton"
-    },
+    "repository": "https://github.com/steventhanna/proton",
     "keywords": [
       "Proton",
       "Markdown",
       "Editor"
     ],
-    "author": "Steven T Hanna",
     "license": "GNU",
-    "bugs": {
-      "url": "https://github.com/steventhanna/proton/issues"
-    },
     "homepage": "https://github.com/steventhanna/proton",
     "devDependencies": {
       "electron-builder": "^10.9.2",
@@ -129,6 +122,12 @@
       },
       "win": {
         "iconUrl": "icons/proton.ico"
+      }
+    },
+    "other": {
+      "author": "Steven T Hanna",
+      "bugs": {
+        "url": "https://github.com/steventhanna/proton/issues"
       }
     }
   },
@@ -157,6 +156,7 @@
   },
   "filename": "steventhanna___proton.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:45:41.737Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:34.591Z"
+  "lastFetchedAt": "2017-10-23T18:03:00.651Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:34.591Z",
+  "archived": false
 }

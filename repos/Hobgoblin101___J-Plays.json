@@ -5,7 +5,7 @@
   "owner": {
     "login": "Hobgoblin101",
     "id": 11359344,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11359344?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11359344?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Hobgoblin101",
     "htmlUrl": "https://github.com/Hobgoblin101",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-09-04T05:50:30.000Z",
   "updatedAt": "2016-09-04T06:01:01.000Z",
-  "pushedAt": "2016-09-10T11:02:27.000Z",
+  "pushedAt": "2017-09-28T01:22:12.000Z",
   "homepage": null,
-  "size": 3580,
+  "size": 3545,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -53,22 +53,21 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Hobgoblin101/J-Plays"
-    },
+    "repository": "https://github.com/Hobgoblin101/J-Plays",
     "keywords": [
       "media",
       "player",
       "electron"
     ],
-    "author": "Ajani James Bilby",
     "license": "ISC",
     "dependencies": {
       "electron-packager": "^7.0.2",
       "electron-prebuilt": "^1.1.1",
       "fs": "0.0.1-security",
       "musicmetadata": "^2.0.4"
+    },
+    "other": {
+      "author": "Ajani James Bilby"
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   "svnUrl": "https://github.com/Hobgoblin101/J-Plays",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:01:50.572Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:15.650Z"
+  "lastFetchedAt": "2017-10-23T17:16:31.625Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:15.650Z",
+  "archived": false
 }

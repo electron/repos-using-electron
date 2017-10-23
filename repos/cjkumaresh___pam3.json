@@ -5,7 +5,7 @@
   "owner": {
     "login": "cjkumaresh",
     "id": 4362517,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4362517?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4362517?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cjkumaresh",
     "htmlUrl": "https://github.com/cjkumaresh",
@@ -60,19 +60,12 @@
       "start": "node app.js",
       "test": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cjkumaresh/pam3.git"
-    },
+    "repository": "https://github.com/cjkumaresh/pam3",
     "keywords": [
       "remote PC",
       "mobile"
     ],
-    "author": "cjkumaresh",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cjkumaresh/pam3/issues"
-    },
     "homepage": "https://github.com/cjkumaresh/pam3",
     "dependencies": {
       "body-parser": "^1.15.0",
@@ -87,6 +80,12 @@
       "gulp": "^3.9.1",
       "gulp-eslint": "^2.0.0",
       "gulp-mocha": "^2.2.0"
+    },
+    "other": {
+      "author": "cjkumaresh",
+      "bugs": {
+        "url": "https://github.com/cjkumaresh/pam3/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   "svnUrl": "https://github.com/cjkumaresh/pam3",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:13:37.680Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:11.598Z"
+  "lastFetchedAt": "2017-10-23T20:19:31.279Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:11.598Z",
+  "archived": false
 }

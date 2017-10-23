@@ -5,7 +5,7 @@
   "owner": {
     "login": "dbfannin",
     "id": 15847407,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15847407?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15847407?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dbfannin",
     "htmlUrl": "https://github.com/dbfannin",
@@ -85,21 +85,14 @@
       "tsc:w": "tsc -w",
       "typings": "typings"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dbfannin/rc"
-    },
+    "repository": "https://github.com/dbfannin/rc",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "dependencies": {
       "@angular/common": "2.0.0-rc.5",
@@ -132,6 +125,12 @@
       "grunt-cli": "*",
       "grunt-contrib-less": "*",
       "grunt-contrib-watch": "^0.6.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "dbfannin___rc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:48.599Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:06.870Z"
+  "lastFetchedAt": "2017-10-23T20:18:03.358Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:06.870Z",
+  "archived": false
 }

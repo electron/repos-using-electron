@@ -5,7 +5,7 @@
   "owner": {
     "login": "digideskio",
     "id": 14135456,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14135456?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14135456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/digideskio",
     "htmlUrl": "https://github.com/digideskio",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "moose-team",
       "id": 12131733,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12131733?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12131733?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/moose-team",
       "htmlUrl": "https://github.com/moose-team",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/moose-team/friends/downloads",
     "deploymentsUrl": "https://api.github.com/repos/moose-team/friends/deployments",
     "createdAt": "2015-04-26T04:02:23.000Z",
-    "updatedAt": "2017-05-04T03:31:16.000Z",
+    "updatedAt": "2017-10-23T02:35:48.000Z",
     "pushedAt": "2017-03-22T21:24:17.000Z",
     "gitUrl": "git://github.com/moose-team/friends.git",
     "sshUrl": "git@github.com:moose-team/friends.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/moose-team/friends",
     "homepage": "http://moose-team.github.io/friends/",
     "size": 1510,
-    "stargazersCount": 2736,
-    "watchersCount": 2736,
+    "stargazersCount": 2815,
+    "watchersCount": 2815,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 294,
+    "forksCount": 315,
     "mirrorUrl": null,
-    "openIssuesCount": 57,
-    "openIssues": 57,
-    "watchers": 2736,
+    "archived": false,
+    "openIssuesCount": 56,
+    "openIssues": 56,
+    "watchers": 2815,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "moose-team",
       "id": 12131733,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12131733?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12131733?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/moose-team",
       "htmlUrl": "https://github.com/moose-team",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/moose-team/friends/downloads",
     "deploymentsUrl": "https://api.github.com/repos/moose-team/friends/deployments",
     "createdAt": "2015-04-26T04:02:23.000Z",
-    "updatedAt": "2017-05-04T03:31:16.000Z",
+    "updatedAt": "2017-10-23T02:35:48.000Z",
     "pushedAt": "2017-03-22T21:24:17.000Z",
     "gitUrl": "git://github.com/moose-team/friends.git",
     "sshUrl": "git@github.com:moose-team/friends.git",
@@ -147,37 +148,29 @@
     "svnUrl": "https://github.com/moose-team/friends",
     "homepage": "http://moose-team.github.io/friends/",
     "size": 1510,
-    "stargazersCount": 2736,
-    "watchersCount": 2736,
+    "stargazersCount": 2815,
+    "watchersCount": 2815,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 294,
+    "forksCount": 315,
     "mirrorUrl": null,
-    "openIssuesCount": 57,
-    "openIssues": 57,
-    "watchers": 2736,
+    "archived": false,
+    "openIssuesCount": 56,
+    "openIssues": 56,
+    "watchers": 2815,
     "defaultBranch": "master"
   },
-  "networkCount": 294,
+  "networkCount": 315,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "friends",
     "description": "P2P chat powered by the Web.",
     "version": "1.0.0",
-    "author": [
-      "feross",
-      "maxogden",
-      "mafintosh",
-      "ngoldman",
-      "shama",
-      "jlord",
-      "chrisdickinson"
-    ],
     "browser": {
       "ghsign": false,
       "github-current-user": false,
@@ -187,9 +180,6 @@
       "transforms": [
         "brfs"
       ]
-    },
-    "bugs": {
-      "url": "https://github.com/moose-team/friends/issues"
     },
     "dependencies": {
       "application-config-path": "^0.1.0",
@@ -249,10 +239,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/moose-team/friends.git"
-    },
+    "repository": "https://github.com/moose-team/friends",
     "scripts": {
       "build-css": "stylus -u nib app/style/index.styl -o app/style/bundle.css -c",
       "prepackage": "npm run build-css",
@@ -264,6 +251,20 @@
       "watch": "npm run build-css && (npm run watch-css & electron index.js 2>&1 | silence-chromium)",
       "watch-css": "stylus -u nib app/style/index.styl -o app/style/bundle.css -w",
       "web": "beefy app/web.js:bundle.js"
+    },
+    "other": {
+      "author": [
+        "feross",
+        "maxogden",
+        "mafintosh",
+        "ngoldman",
+        "shama",
+        "jlord",
+        "chrisdickinson"
+      ],
+      "bugs": {
+        "url": "https://github.com/moose-team/friends/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -312,6 +313,7 @@
   "filename": "digideskio___friends.json",
   "sourceRepo": "moose-team/friends",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:07.201Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:32.014Z"
+  "lastFetchedAt": "2017-10-23T19:04:07.178Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:32.014Z",
+  "archived": false
 }

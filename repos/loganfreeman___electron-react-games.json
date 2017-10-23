@@ -1,11 +1,11 @@
 {
   "id": 61327603,
-  "name": "electron-react-games",
-  "fullName": "loganfreeman/electron-react-games",
+  "name": "electron-tutorials",
+  "fullName": "loganfreeman/electron-tutorials",
   "owner": {
     "login": "loganfreeman",
     "id": 6404343,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6404343?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6404343?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/loganfreeman",
     "htmlUrl": "https://github.com/loganfreeman",
@@ -17,32 +17,32 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/loganfreeman/electron-react-games",
+  "htmlUrl": "https://github.com/loganfreeman/electron-tutorials",
   "description": "Electron react games",
   "fork": false,
-  "url": "https://api.github.com/repos/loganfreeman/electron-react-games",
-  "forksUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/forks",
-  "teamsUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/teams",
-  "hooksUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/hooks",
-  "eventsUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/events",
-  "tagsUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/tags",
-  "languagesUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/languages",
-  "stargazersUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/contributors",
-  "subscribersUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/subscription",
-  "mergesUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/merges",
-  "downloadsUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/loganfreeman/electron-react-games/deployments",
+  "url": "https://api.github.com/repos/loganfreeman/electron-tutorials",
+  "forksUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/forks",
+  "teamsUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/teams",
+  "hooksUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/hooks",
+  "eventsUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/events",
+  "tagsUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/tags",
+  "languagesUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/languages",
+  "stargazersUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/contributors",
+  "subscribersUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/subscription",
+  "mergesUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/merges",
+  "downloadsUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/loganfreeman/electron-tutorials/deployments",
   "createdAt": "2016-06-16T21:39:39.000Z",
-  "updatedAt": "2016-06-20T20:54:19.000Z",
-  "pushedAt": "2016-06-21T00:57:02.000Z",
-  "gitUrl": "git://github.com/loganfreeman/electron-react-games.git",
-  "sshUrl": "git@github.com:loganfreeman/electron-react-games.git",
-  "cloneUrl": "https://github.com/loganfreeman/electron-react-games.git",
-  "svnUrl": "https://github.com/loganfreeman/electron-react-games",
+  "updatedAt": "2017-10-03T21:54:18.000Z",
+  "pushedAt": "2017-10-03T21:54:00.000Z",
+  "gitUrl": "git://github.com/loganfreeman/electron-tutorials.git",
+  "sshUrl": "git@github.com:loganfreeman/electron-tutorials.git",
+  "cloneUrl": "https://github.com/loganfreeman/electron-tutorials.git",
+  "svnUrl": "https://github.com/loganfreeman/electron-tutorials",
   "homepage": null,
-  "size": 16828,
+  "size": 16806,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "CSS",
@@ -81,17 +81,9 @@
       "game"
     ],
     "homepage": "https://github.com/loganfreeman/electron-react-games",
-    "bugs": "https://github.com/loganfreeman/electron-react-games/issues",
     "license": "MIT",
-    "author": {
-      "name": "Logan Freeman",
-      "url": "https://github.com/loganfreeman"
-    },
     "main": "app/window.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/loganfreeman/electron-react-games"
-    },
+    "repository": "https://github.com/loganfreeman/electron-react-games",
     "scripts": {
       "clean": "cleandir ./app/",
       "copy:main": "cp ./src/window.js ./app/window.js",
@@ -161,6 +153,13 @@
           "never"
         ]
       }
+    },
+    "other": {
+      "author": {
+        "name": "Logan Freeman",
+        "url": "https://github.com/loganfreeman"
+      },
+      "bugs": "https://github.com/loganfreeman/electron-react-games/issues"
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   "filename": "loganfreeman___electron-react-games.json",
   "sourceRepo": "DVDAGames/simpledoku",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:32.667Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:22.564Z"
+  "lastFetchedAt": "2017-10-23T19:02:52.307Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:22.564Z",
+  "archived": false
 }

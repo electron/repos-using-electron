@@ -5,7 +5,7 @@
   "owner": {
     "login": "FoxDeveloper",
     "id": 6569962,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6569962?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6569962?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FoxDeveloper",
     "htmlUrl": "https://github.com/FoxDeveloper",
@@ -75,10 +75,7 @@
       "clean": "rm -rf build/*",
       "package": "./node_modules/.bin/electron-packager ./ skuld --out=./build --app-version 1.0.0 --version=0.35.1  --ignore='/res(/|$)' --ignore='/debian(/|$)' --ignore='/build(/|$)' --ignore='/test(/|$)' --ignore='/electron-packager(/|$)' --ignore='/electron-tmp-.+(/|$)' --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FoxDeveloper/skuld.git"
-    },
+    "repository": "https://github.com/FoxDeveloper/skuld",
     "keywords": [
       "githug",
       "release",
@@ -86,11 +83,7 @@
       "watch",
       "watch"
     ],
-    "author": "Benjamin Gaudé <development@gaudebenjamin.com>",
     "license": "AGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/FoxDeveloper/skuld/issues"
-    },
     "homepage": "https://github.com/FoxDeveloper/skuld#readme",
     "devDependencies": {
       "electron-packager": "^5.1.0",
@@ -100,6 +93,12 @@
       "cron": "^1.0.9",
       "moment": "^2.10.6",
       "nedb": "^1.4.0"
+    },
+    "other": {
+      "author": "Benjamin Gaudé <development@gaudebenjamin.com>",
+      "bugs": {
+        "url": "https://github.com/FoxDeveloper/skuld/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "FoxDeveloper___skuld.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:13:05.582Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:02.450Z"
+  "lastFetchedAt": "2017-10-23T18:02:42.607Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:02.450Z",
+  "archived": false
 }

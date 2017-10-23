@@ -5,7 +5,7 @@
   "owner": {
     "login": "fr-esco",
     "id": 4931297,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4931297?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4931297?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fr-esco",
     "htmlUrl": "https://github.com/fr-esco",
@@ -75,9 +75,7 @@
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -122,12 +120,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "async": "^1.4.2",
@@ -234,6 +226,14 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.26",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -262,6 +262,7 @@
   "filename": "fr-esco___rpg-travel-advanced.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:22:17.280Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:36.584Z"
+  "lastFetchedAt": "2017-10-23T18:03:13.691Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:36.584Z",
+  "archived": false
 }

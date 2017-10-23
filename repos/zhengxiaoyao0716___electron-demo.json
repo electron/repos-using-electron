@@ -70,26 +70,18 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-demo",
     "productName": "electron-demo",
     "version": "0.0.0",
     "description": "My super app",
-    "author": {
-      "name": "zhengxiaoyao0716",
-      "email": "1499383852@qq.com",
-      "url": "github.com/zhengxiaoyao0716/electron-demo"
-    },
     "keywords": [
       "mjwise",
       "printer"
     ],
     "license": "MIT",
     "repository": "zhengxiaoyao0716/electron-demo",
-    "bugs": {
-      "url": "https://github.com/zhengxiaoyao0716/electron-demo/issues"
-    },
     "main": "src/main.js",
     "scripts": {
       "test": "xo",
@@ -111,6 +103,16 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "zhengxiaoyao0716",
+        "email": "1499383852@qq.com",
+        "url": "github.com/zhengxiaoyao0716/electron-demo"
+      },
+      "bugs": {
+        "url": "https://github.com/zhengxiaoyao0716/electron-demo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +140,6 @@
   },
   "filename": "zhengxiaoyao0716___electron-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:46.026Z",
+  "lastFetchedAt": "2017-10-23T17:24:38.412Z",
   "packageLastFetchedAt": "2017-05-04T22:28:49.256Z"
 }

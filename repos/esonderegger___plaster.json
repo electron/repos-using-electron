@@ -5,7 +5,7 @@
   "owner": {
     "login": "esonderegger",
     "id": 818962,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/818962?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/818962?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/esonderegger",
     "htmlUrl": "https://github.com/esonderegger",
@@ -52,8 +52,8 @@
   "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
+  "openIssuesCount": 3,
+  "openIssues": 3,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -91,19 +91,12 @@
       "pack": "build --dir",
       "dist": "build -mwl"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/esonderegger/plaster.git"
-    },
+    "repository": "https://github.com/esonderegger/plaster",
     "keywords": [
       "podcast",
       "podcasting"
     ],
-    "author": "Evan Sonderegger <evan@rpy.xyz>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/esonderegger/plaster/issues"
-    },
     "homepage": "https://esonderegger.github.io/plaster/",
     "devDependencies": {
       "archiver": "^1.2.0",
@@ -173,6 +166,12 @@
           "!compiled/ffprobe_mac"
         ]
       }
+    },
+    "other": {
+      "author": "Evan Sonderegger <evan@rpy.xyz>",
+      "bugs": {
+        "url": "https://github.com/esonderegger/plaster/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   },
   "filename": "esonderegger___plaster.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:42:36.370Z",
-  "packageLastFetchedAt": "2017-05-05T01:25:31.511Z"
+  "lastFetchedAt": "2017-10-23T17:29:17.000Z",
+  "packageLastFetchedAt": "2017-05-05T01:25:31.511Z",
+  "archived": false
 }

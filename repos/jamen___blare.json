@@ -5,7 +5,7 @@
   "owner": {
     "login": "jamen",
     "id": 6251703,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6251703?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6251703?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jamen",
     "htmlUrl": "https://github.com/jamen",
@@ -80,21 +80,14 @@
       "build": "make",
       "test": "npm run build; electron . --dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jamen/blare.git"
-    },
+    "repository": "https://github.com/jamen/blare",
     "keywords": [
       "soundcloud",
       "desktop",
       "widget",
       "electron"
     ],
-    "author": "Jamen Marzonie",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jamen/blare/issues"
-    },
     "homepage": "https://github.com/jamen/blare#readme",
     "devDependencies": {
       "babel-cli": "^6.3.17",
@@ -110,6 +103,12 @@
       "minimist": "^1.2.0",
       "soundcloud": "^3.0.1",
       "vue": "^1.0.13"
+    },
+    "other": {
+      "author": "Jamen Marzonie",
+      "bugs": {
+        "url": "https://github.com/jamen/blare/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "jamen___blare.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:06:45.970Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:41.314Z"
+  "lastFetchedAt": "2017-10-23T19:36:32.597Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:41.314Z",
+  "archived": false
 }

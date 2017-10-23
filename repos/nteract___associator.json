@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/nteract/associator/downloads",
   "deploymentsUrl": "https://api.github.com/repos/nteract/associator/deployments",
   "createdAt": "2016-04-26T23:25:03.000Z",
-  "updatedAt": "2016-04-27T01:12:24.000Z",
+  "updatedAt": "2017-08-28T15:29:32.000Z",
   "pushedAt": "2017-01-20T21:48:51.000Z",
   "gitUrl": "git://github.com/nteract/associator.git",
   "sshUrl": "git@github.com:nteract/associator.git",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -93,10 +93,7 @@
     "scripts": {
       "test": "mocha test/**/*.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nteract/associator.git"
-    },
+    "repository": "https://github.com/nteract/associator",
     "keywords": [
       "associate",
       "file",
@@ -104,11 +101,7 @@
       "xdg",
       "xdg-mime"
     ],
-    "author": "nteract contributors",
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/nteract/associator/issues"
-    },
     "homepage": "https://github.com/nteract/associator#readme",
     "dependencies": {
       "expand-home-dir": "0.0.3",
@@ -117,6 +110,12 @@
     },
     "optionalDependencies": {
       "elevator": "^1.0.0"
+    },
+    "other": {
+      "author": "nteract contributors",
+      "bugs": {
+        "url": "https://github.com/nteract/associator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "filename": "nteract___associator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:13:14.517Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:31.086Z"
+  "lastFetchedAt": "2017-10-23T19:36:22.679Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:31.086Z",
+  "archived": true
 }

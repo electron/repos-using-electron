@@ -5,7 +5,7 @@
   "owner": {
     "login": "Mercateo",
     "id": 7766597,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7766597?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7766597?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mercateo",
     "htmlUrl": "https://github.com/Mercateo",
@@ -20,21 +20,21 @@
   "description": "Manage your docker containers, images and networks in a nice and clean way.",
   "fork": false,
   "createdAt": "2016-05-18T14:42:27.000Z",
-  "updatedAt": "2017-05-02T14:23:50.000Z",
+  "updatedAt": "2017-10-05T01:03:10.000Z",
   "pushedAt": "2016-09-10T08:22:38.000Z",
   "homepage": null,
   "size": 2626,
-  "stargazersCount": 105,
-  "watchersCount": 105,
+  "stargazersCount": 117,
+  "watchersCount": 117,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 9,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 105,
+  "watchers": 117,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Mercateo",
     "id": 7766597,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7766597?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7766597?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mercateo",
     "htmlUrl": "https://github.com/Mercateo",
@@ -62,17 +62,13 @@
     "receivedEventsUrl": "https://api.github.com/users/Mercateo/received_events",
     "type": "Organization"
   },
-  "networkCount": 8,
-  "subscribersCount": 20,
+  "networkCount": 9,
+  "subscribersCount": 21,
   "status": 200,
   "packageJSON": {
     "name": "DWatch",
     "version": "1.0.0-alpha.7",
     "description": "Manage your docker containers, images and networks in a nice and clean way.",
-    "author": {
-      "name": "Benjamin Otto",
-      "email": "benjamin.otto@mercateo.com"
-    },
     "license": "Apache-2.0",
     "homepage": "https://github.com/Mercateo/dwatch",
     "scripts": {
@@ -87,18 +83,12 @@
       "coverage-html": "npm run test && node scripts/generate-coverage.js html",
       "coverage-lcovonly": "npm run test && node scripts/generate-coverage.js lcovonly"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Mercateo/dwatch.git"
-    },
+    "repository": "https://github.com/Mercateo/dwatch",
     "productName": "DWatch",
     "build": {
       "app-bundle-id": "com.mercateo.dwatch",
       "app-category-type": "public.app-category.developer-tools",
       "iconUrl": "https://raw.githubusercontent.com/Mercateo/dwatch/master/assets/icon.ico"
-    },
-    "directories": {
-      "buildResources": "assets"
     },
     "devDependencies": {
       "babel-core": "^6.9.1",
@@ -136,6 +126,15 @@
       "webpack-dev-server": "^1.14.1",
       "webpack-fail-plugin": "^1.0.4",
       "webpack-node-externals": "^1.2.0"
+    },
+    "other": {
+      "author": {
+        "name": "Benjamin Otto",
+        "email": "benjamin.otto@mercateo.com"
+      },
+      "directories": {
+        "buildResources": "assets"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   "svnUrl": "https://github.com/Mercateo/dwatch",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:42:35.957Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:20.327Z"
+  "lastFetchedAt": "2017-10-23T17:04:35.614Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:20.327Z",
+  "archived": false
 }

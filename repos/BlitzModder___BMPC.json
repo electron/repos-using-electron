@@ -6,7 +6,7 @@
   "owner": {
     "login": "BlitzModder",
     "id": 24367599,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/24367599?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/24367599?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BlitzModder",
     "htmlUrl": "https://github.com/BlitzModder",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/BlitzModder/BMPC/downloads",
   "deploymentsUrl": "https://api.github.com/repos/BlitzModder/BMPC/deployments",
   "createdAt": "2016-12-04T09:54:33.000Z",
-  "updatedAt": "2017-04-13T09:23:03.000Z",
-  "pushedAt": "2017-05-01T15:20:51.000Z",
+  "updatedAt": "2017-07-01T09:57:55.000Z",
+  "pushedAt": "2017-05-20T15:31:47.000Z",
   "gitUrl": "git://github.com/BlitzModder/BMPC.git",
   "sshUrl": "git@github.com:BlitzModder/BMPC.git",
   "cloneUrl": "https://github.com/BlitzModder/BMPC.git",
   "svnUrl": "https://github.com/BlitzModder/BMPC",
   "homepage": "",
-  "size": 1091,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 1113,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "CoffeeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 7,
   "openIssues": 7,
-  "watchers": 2,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "BlitzModder",
     "id": 24367599,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/24367599?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/24367599?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BlitzModder",
     "htmlUrl": "https://github.com/BlitzModder",
@@ -83,8 +83,8 @@
     "receivedEventsUrl": "https://api.github.com/users/BlitzModder/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
-  "subscribersCount": 2,
+  "networkCount": 1,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "BlitzModder",
@@ -102,11 +102,7 @@
       "pack:win": "npm run build && build -w --ia32 --x64",
       "pack:mac": "npm run build && build -m"
     },
-    "author": "S(FV293b)",
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/BlitzModder/BMPC.git"
-    },
+    "repository": "https://github.com/BlitzModder/BMPC",
     "homepage": "https://github.com/BlitzModder/BMPC/wiki",
     "license": "MIT",
     "dependencies": {
@@ -152,6 +148,9 @@
         "output": "dist",
         "app": "bin"
       }
+    },
+    "other": {
+      "author": "S(FV293b)"
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:31:58.036Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:34.979Z"
+  "lastFetchedAt": "2017-10-23T19:36:18.307Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:34.979Z",
+  "archived": false
 }

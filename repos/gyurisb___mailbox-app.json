@@ -5,7 +5,7 @@
   "owner": {
     "login": "gyurisb",
     "id": 8672932,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8672932?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8672932?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gyurisb",
     "htmlUrl": "https://github.com/gyurisb",
@@ -69,15 +69,8 @@
     "name": "MailboxExplorer",
     "version": "1.0.0",
     "description": "An e-mail client application",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gyurisb/mailbox-app.git"
-    },
-    "author": "Gyuris Bence",
+    "repository": "https://github.com/gyurisb/mailbox-app",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/gyurisb/mailbox-app/issues"
-    },
     "homepage": "https://github.com/gyurisb/mailbox-app",
     "devDependencies": {
       "del": "^2.2.0",
@@ -102,6 +95,12 @@
       "emailjs-mime-parser": "1.0.0",
       "wo-smtpclient": "0.6.1",
       "wo-utf7": "2.0.2"
+    },
+    "other": {
+      "author": "Gyuris Bence",
+      "bugs": {
+        "url": "https://github.com/gyurisb/mailbox-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "gyurisb___mailbox-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:18.521Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:53.090Z"
+  "lastFetchedAt": "2017-10-23T19:05:34.214Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:53.090Z",
+  "archived": false
 }

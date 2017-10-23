@@ -5,7 +5,7 @@
   "owner": {
     "login": "blurredbits",
     "id": 1992322,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1992322?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1992322?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/blurredbits",
     "htmlUrl": "https://github.com/blurredbits",
@@ -74,11 +74,13 @@
       "start": "electron .",
       "package": "electron-packager ./ SoundMachine --out=/Users/mmorris/Desktop/SoundMachine --overwrite --icon=./app/img/app-icon.icns"
     },
-    "author": "Mark J. Morris",
     "license": "ISC",
     "devDependencies": {
       "electron-packager": "^8.0.0",
       "electron-prebuilt": "^1.4.1"
+    },
+    "other": {
+      "author": "Mark J. Morris"
     }
   },
   "packageStatus": 200,
@@ -106,6 +108,7 @@
   },
   "filename": "blurredbits___sound-machine.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:57.566Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:50.612Z"
+  "lastFetchedAt": "2017-10-23T18:37:32.294Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:50.612Z",
+  "archived": false
 }

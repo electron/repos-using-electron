@@ -5,7 +5,7 @@
   "owner": {
     "login": "naruaway",
     "id": 2931577,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2931577?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2931577?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/naruaway",
     "htmlUrl": "https://github.com/naruaway",
@@ -73,11 +73,7 @@
     "scripts": {
       "start": "gulp && electron dist/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/naruaway/pdftopicker.git"
-    },
-    "author": "Narutaka Awaya <naru@pixmag.net>",
+    "repository": "https://github.com/naruaway/pdftopicker",
     "license": "CC0-1.0",
     "devDependencies": {
       "@cycle/core": "^6.0.0",
@@ -96,6 +92,9 @@
       "rx-combine-latest-obj": "^1.0.2",
       "stopwords": "0.0.5",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "author": "Narutaka Awaya <naru@pixmag.net>"
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "naruaway___PDFTopicker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:10.796Z",
-  "packageLastFetchedAt": "2017-05-05T15:35:23.335Z"
+  "lastFetchedAt": "2017-10-23T17:08:59.950Z",
+  "packageLastFetchedAt": "2017-05-05T15:35:23.335Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jdmorlan",
     "id": 615215,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/615215?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/615215?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdmorlan",
     "htmlUrl": "https://github.com/jdmorlan",
@@ -55,7 +55,6 @@
       "build": "webpack",
       "dev-start": "npm run build && npm run start"
     },
-    "author": "jdmorlan",
     "license": "ISC",
     "dependencies": {
       "electron-prebuilt": "^0.37.1",
@@ -76,6 +75,9 @@
       "style-loader": "^0.13.0",
       "webpack": "^1.12.14",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "jdmorlan"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
   },
   "filename": "jdmorlan___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:46.243Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:27.725Z"
+  "lastFetchedAt": "2017-10-23T17:10:41.046Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:27.725Z",
+  "archived": false
 }

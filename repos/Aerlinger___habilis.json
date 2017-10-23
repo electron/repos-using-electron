@@ -5,7 +5,7 @@
   "owner": {
     "login": "Aerlinger",
     "id": 604138,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/604138?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/604138?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Aerlinger",
     "htmlUrl": "https://github.com/Aerlinger",
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-react-boilerplate",
@@ -70,19 +70,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -174,6 +163,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -221,6 +220,7 @@
   "svnUrl": "https://github.com/Aerlinger/habilis",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:35:47.870Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:37.056Z"
+  "lastFetchedAt": "2017-10-23T19:30:12.741Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:37.056Z",
+  "archived": false
 }

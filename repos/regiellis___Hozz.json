@@ -5,7 +5,7 @@
   "owner": {
     "login": "regiellis",
     "id": 1148310,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1148310?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1148310?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/regiellis",
     "htmlUrl": "https://github.com/regiellis",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "ppoffice",
       "id": 8849362,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8849362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8849362?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ppoffice",
       "htmlUrl": "https://github.com/ppoffice",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/ppoffice/Hozz/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ppoffice/Hozz/deployments",
     "createdAt": "2015-12-30T07:57:45.000Z",
-    "updatedAt": "2017-05-03T12:39:03.000Z",
-    "pushedAt": "2017-03-08T16:24:48.000Z",
+    "updatedAt": "2017-10-23T15:37:54.000Z",
+    "pushedAt": "2017-10-04T17:14:45.000Z",
     "gitUrl": "git://github.com/ppoffice/Hozz.git",
     "sshUrl": "git@github.com:ppoffice/Hozz.git",
     "cloneUrl": "https://github.com/ppoffice/Hozz.git",
     "svnUrl": "https://github.com/ppoffice/Hozz",
     "homepage": "http://ppoffice.github.io/Hozz",
-    "size": 3040,
-    "stargazersCount": 619,
-    "watchersCount": 619,
+    "size": 3043,
+    "stargazersCount": 750,
+    "watchersCount": 750,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 113,
+    "forksCount": 131,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 619,
+    "archived": false,
+    "openIssuesCount": 11,
+    "openIssues": 11,
+    "watchers": 750,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "ppoffice",
       "id": 8849362,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/8849362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8849362?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ppoffice",
       "htmlUrl": "https://github.com/ppoffice",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/ppoffice/Hozz/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ppoffice/Hozz/deployments",
     "createdAt": "2015-12-30T07:57:45.000Z",
-    "updatedAt": "2017-05-03T12:39:03.000Z",
-    "pushedAt": "2017-03-08T16:24:48.000Z",
+    "updatedAt": "2017-10-23T15:37:54.000Z",
+    "pushedAt": "2017-10-04T17:14:45.000Z",
     "gitUrl": "git://github.com/ppoffice/Hozz.git",
     "sshUrl": "git@github.com:ppoffice/Hozz.git",
     "cloneUrl": "https://github.com/ppoffice/Hozz.git",
     "svnUrl": "https://github.com/ppoffice/Hozz",
     "homepage": "http://ppoffice.github.io/Hozz",
-    "size": 3040,
-    "stargazersCount": 619,
-    "watchersCount": 619,
+    "size": 3043,
+    "stargazersCount": 750,
+    "watchersCount": 750,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 113,
+    "forksCount": 131,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 619,
+    "archived": false,
+    "openIssuesCount": 11,
+    "openIssues": 11,
+    "watchers": 750,
     "defaultBranch": "master"
   },
-  "networkCount": 113,
+  "networkCount": 131,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -173,20 +175,13 @@
     "scripts": {
       "start": "electron ./app/browser.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:ppoffice/Hozz.git"
-    },
+    "repository": "https://github.com/ppoffice/Hozz",
     "keywords": [
       "Electron",
       "hosts",
       "all-platform"
     ],
-    "author": "PPOffice",
     "license": "BSD",
-    "bugs": {
-      "url": "https://github.com/ppoffice/Hozz/issues"
-    },
     "homepage": "https://github.com/ppoffice/Hozz#readme",
     "devDependencies": {
       "babel-core": "^6.3.26",
@@ -216,6 +211,12 @@
     },
     "dependencies": {
       "electron-sudo": "^3.0.2"
+    },
+    "other": {
+      "author": "PPOffice",
+      "bugs": {
+        "url": "https://github.com/ppoffice/Hozz/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -264,6 +265,7 @@
   "svnUrl": "https://github.com/regiellis/Hozz",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:53:07.991Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:41.051Z"
+  "lastFetchedAt": "2017-10-23T18:09:09.176Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:41.051Z",
+  "archived": false
 }

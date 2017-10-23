@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "eing2ts",
     "version": "0.0.1",
@@ -80,24 +80,23 @@
       "start": "electron .",
       "test": "test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lfmm/electron-poc.git"
-    },
+    "repository": "https://github.com/lfmm/electron-poc",
     "keywords": [
       "electron",
       "angular",
       "github",
       "proof-of-concept"
     ],
-    "author": "Luís Mendes",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lfmm/electron-poc/issues"
-    },
     "homepage": "https://github.com/lfmm/electron-poc#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.7"
+    },
+    "other": {
+      "author": "Luís Mendes",
+      "bugs": {
+        "url": "https://github.com/lfmm/electron-poc/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   },
   "filename": "lfmm___electron-poc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:41.653Z",
+  "lastFetchedAt": "2017-10-23T18:41:08.624Z",
   "packageLastFetchedAt": "2017-05-04T22:49:28.712Z"
 }

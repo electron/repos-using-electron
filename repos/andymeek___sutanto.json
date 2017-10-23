@@ -5,7 +5,7 @@
   "owner": {
     "login": "andymeek",
     "id": 1560698,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1560698?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1560698?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andymeek",
     "htmlUrl": "https://github.com/andymeek",
@@ -74,25 +74,24 @@
       "start": "electron .",
       "build": "electron-packager . Sutanto --platform=mas --arch=all --version=1.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/andymeek/sutanto.git"
-    },
+    "repository": "https://github.com/andymeek/sutanto",
     "keywords": [
       "Sutanto",
       "Electron"
     ],
-    "author": "@andymeek",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/andymeek/sutanto/issues"
-    },
     "homepage": "https://github.com/andymeek/sutanto#readme",
     "devDependencies": {
       "electron-packager": "^7.3.0",
       "electron-prebuilt": "^1.2.7"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "@andymeek",
+      "bugs": {
+        "url": "https://github.com/andymeek/sutanto/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +118,7 @@
   },
   "filename": "andymeek___sutanto.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:42.569Z",
-  "packageLastFetchedAt": "2017-05-04T22:13:54.956Z"
+  "lastFetchedAt": "2017-10-23T20:23:33.741Z",
+  "packageLastFetchedAt": "2017-05-04T22:13:54.956Z",
+  "archived": false
 }

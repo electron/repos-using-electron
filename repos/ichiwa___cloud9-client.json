@@ -5,7 +5,7 @@
   "owner": {
     "login": "ichiwa",
     "id": 3645994,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3645994?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3645994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ichiwa",
     "htmlUrl": "https://github.com/ichiwa",
@@ -78,11 +78,6 @@
     "description": "Client for cloud9",
     "license": "MIT",
     "repository": "ichiwa/cloud9-client",
-    "author": {
-      "name": "Ichiwa",
-      "email": "shimokawa@devalon.biz",
-      "url": "github.com/ichiwa"
-    },
     "scripts": {
       "lint": "$(npm bin)/eslint ./src",
       "test": "xo",
@@ -156,6 +151,13 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Ichiwa",
+        "email": "shimokawa@devalon.biz",
+        "url": "github.com/ichiwa"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +185,7 @@
   },
   "filename": "ichiwa___cloud9-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:29:48.764Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:03.160Z"
+  "lastFetchedAt": "2017-10-23T17:05:16.690Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:03.160Z",
+  "archived": false
 }

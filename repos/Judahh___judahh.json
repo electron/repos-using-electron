@@ -5,7 +5,7 @@
   "owner": {
     "login": "Judahh",
     "id": 3602536,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3602536?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3602536?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Judahh",
     "htmlUrl": "https://github.com/Judahh",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/Judahh/judahh/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Judahh/judahh/deployments",
   "createdAt": "2016-09-02T21:00:40.000Z",
-  "updatedAt": "2016-11-28T13:19:38.000Z",
-  "pushedAt": "2017-02-01T12:23:18.000Z",
+  "updatedAt": "2017-05-12T17:23:40.000Z",
+  "pushedAt": "2017-08-16T11:55:10.000Z",
   "gitUrl": "git://github.com/Judahh/judahh.git",
   "sshUrl": "git@github.com:Judahh/judahh.git",
   "cloneUrl": "https://github.com/Judahh/judahh.git",
   "svnUrl": "https://github.com/Judahh/judahh",
   "homepage": null,
-  "size": 79113,
+  "size": 79355,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -74,7 +74,6 @@
   "packageJSON": {
     "name": "judahh",
     "productName": "Judahh",
-    "author": "Judah <judahholanda7@gmail.com>",
     "version": "0.1.0",
     "main": "app/mainElectron.js",
     "private": true,
@@ -88,10 +87,7 @@
       "tns",
       "appbuilder"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Judahh/judahh"
-    },
+    "repository": "https://github.com/Judahh/judahh",
     "homepage": "https://judahh.com",
     "android": {
       "v8Flags": "--expose_gc"
@@ -228,6 +224,9 @@
       "typescript": "^2.0.8",
       "webdriver-manager": "10.2.5",
       "yargs": "^4.8.1"
+    },
+    "other": {
+      "author": "Judah <judahholanda7@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -255,6 +254,7 @@
   },
   "filename": "Judahh___judahh.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:12.184Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:15.972Z"
+  "lastFetchedAt": "2017-10-23T17:22:48.143Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:15.972Z",
+  "archived": false
 }

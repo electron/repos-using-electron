@@ -5,7 +5,7 @@
   "owner": {
     "login": "whitelynx",
     "id": 285264,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/285264?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/285264?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/whitelynx",
     "htmlUrl": "https://github.com/whitelynx",
@@ -74,19 +74,12 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:whitelynx/toptron.git"
-    },
+    "repository": "https://github.com/whitelynx/toptron",
     "keywords": [
       "top",
       "electron"
     ],
-    "author": "David H. Bronke <whitelynx@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/whitelynx/toptron/issues"
-    },
     "devDependencies": {
       "babel-plugin-transform-runtime": "^6.3.13",
       "babel-preset-es2015": "^6.3.13",
@@ -108,6 +101,12 @@
       "less": "^2.5.3",
       "lodash": "^3.10.1",
       "vue": "^1.0.13"
+    },
+    "other": {
+      "author": "David H. Bronke <whitelynx@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/whitelynx/toptron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "whitelynx___toptron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:23.659Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:43.904Z"
+  "lastFetchedAt": "2017-10-23T17:45:03.570Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:43.904Z",
+  "archived": false
 }

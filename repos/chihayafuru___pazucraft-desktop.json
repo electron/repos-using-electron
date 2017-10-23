@@ -6,7 +6,7 @@
   "owner": {
     "login": "chihayafuru",
     "id": 188067,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/188067?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/188067?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chihayafuru",
     "htmlUrl": "https://github.com/chihayafuru",
@@ -85,7 +85,6 @@
       "package:win": "electron-packager . PazuCraft --platform=win32 --arch=x64 --version=1.4.12 --overwrite --asar=true",
       "package:mac": "$(npm bin)/electron-packager . PazuCraft --platform=darwin --arch=x64 --version=1.4.12 --ignore='(src|gulpfile.js|(node_modules/(electron|electron-packager)))' --overwrite --out='../' --asar=true"
     },
-    "author": "Takehiko YOSHIDA",
     "license": "MIT",
     "devDependencies": {
       "del": "^2.2.2",
@@ -98,14 +97,14 @@
     "dependencies": {
       "@types/electron": "^1.4.29"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/chihayafuru/pazucraft-desktop.git"
-    },
+    "repository": "https://github.com/chihayafuru/pazucraft-desktop",
     "keywords": [
       "Spherical Image",
       "Electron"
-    ]
+    ],
+    "other": {
+      "author": "Takehiko YOSHIDA"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:53.902Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:36.165Z"
+  "lastFetchedAt": "2017-10-23T19:35:52.530Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:36.165Z",
+  "archived": false
 }

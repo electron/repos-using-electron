@@ -5,7 +5,7 @@
   "owner": {
     "login": "DianaSuvorova",
     "id": 1284223,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1284223?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1284223?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DianaSuvorova",
     "htmlUrl": "https://github.com/DianaSuvorova",
@@ -70,21 +70,20 @@
     "version": "1.0.0",
     "description": "letters for Sammy",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DianaSuvorova/letters.git"
-    },
-    "author": "",
+    "repository": "https://github.com/DianaSuvorova/letters",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/DianaSuvorova/letters/issues"
-    },
     "homepage": "https://github.com/DianaSuvorova/letters#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.3"
     },
     "scripts": {
       "start": "electron ."
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/DianaSuvorova/letters/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,7 @@
   },
   "filename": "DianaSuvorova___letters.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:24:36.986Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:25.591Z"
+  "lastFetchedAt": "2017-10-23T17:13:17.239Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:25.591Z",
+  "archived": false
 }

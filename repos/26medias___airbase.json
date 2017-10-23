@@ -5,7 +5,7 @@
   "owner": {
     "login": "26medias",
     "id": 1769824,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1769824?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1769824?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/26medias",
     "htmlUrl": "https://github.com/26medias",
@@ -46,11 +46,6 @@
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
-    "author": {
-      "name": "Julien Loutre",
-      "email": "julien@twenty-six-medias.com",
-      "url": "http://www.twenty-six-medias.com/"
-    },
     "name": "airbase-ui",
     "description": "airbase",
     "version": "1.0.0",
@@ -61,10 +56,7 @@
         "url": "https://raw.github.com/26medias/airbase/master/LICENSE"
       }
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/26medias/airbase.git"
-    },
+    "repository": "https://github.com/26medias/airbase",
     "main": "airbase.js",
     "engines": {
       "node": "*"
@@ -74,11 +66,18 @@
       "app": "latest",
       "firebase": "latest"
     },
-    "readmeFilename": "readme.md",
-    "bugs": {
-      "url": "https://github.com/26medias/airbase/issues"
-    },
-    "scripts": {}
+    "scripts": {},
+    "other": {
+      "author": {
+        "name": "Julien Loutre",
+        "email": "julien@twenty-six-medias.com",
+        "url": "http://www.twenty-six-medias.com/"
+      },
+      "bugs": {
+        "url": "https://github.com/26medias/airbase/issues"
+      },
+      "readmeFilename": "readme.md"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/26medias/airbase",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:46:09.675Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:25.990Z"
+  "lastFetchedAt": "2017-10-23T19:29:54.068Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:25.990Z",
+  "archived": false
 }

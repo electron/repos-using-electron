@@ -5,7 +5,7 @@
   "owner": {
     "login": "Pinecast",
     "id": 16330236,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16330236?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16330236?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Pinecast",
     "htmlUrl": "https://github.com/Pinecast",
@@ -77,10 +77,6 @@
     "version": "0.1.0",
     "description": "An audio editor by Pinecast",
     "license": "MIT",
-    "author": {
-      "name": "Matt Basta",
-      "email": "me@mattbasta.com"
-    },
     "electronVersion": "0.36.0",
     "scripts": {
       "build": "webpack --config=webpack.config.js --progress",
@@ -124,6 +120,12 @@
       "electron-packager": "^8.5.1",
       "electron-react-devtools": "^0.4.0",
       "webpack": "^2.2.1"
+    },
+    "other": {
+      "author": {
+        "name": "Matt Basta",
+        "email": "me@mattbasta.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,7 +156,7 @@
   "organization": {
     "login": "Pinecast",
     "id": 16330236,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16330236?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16330236?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Pinecast",
     "htmlUrl": "https://github.com/Pinecast",
@@ -165,6 +167,7 @@
     "receivedEventsUrl": "https://api.github.com/users/Pinecast/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T15:26:25.733Z",
-  "packageLastFetchedAt": "2017-05-05T17:29:55.018Z"
+  "lastFetchedAt": "2017-10-23T17:16:37.822Z",
+  "packageLastFetchedAt": "2017-05-05T17:29:55.018Z",
+  "archived": false
 }

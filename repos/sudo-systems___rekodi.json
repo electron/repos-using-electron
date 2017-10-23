@@ -5,7 +5,7 @@
   "owner": {
     "login": "sudo-systems",
     "id": 2488811,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2488811?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2488811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sudo-systems",
     "htmlUrl": "https://github.com/sudo-systems",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "sudo-systems",
     "id": 2488811,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2488811?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2488811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sudo-systems",
     "htmlUrl": "https://github.com/sudo-systems",
@@ -70,13 +70,6 @@
     "version": "0.3.2",
     "main": "index.js",
     "description": "A cross platform desktop remote for Kodi/Xbmc",
-    "author": "Bram van Oploo <bram@sudo-systems.com>",
-    "contributors": [
-      {
-        "name": "Bram van Oploo",
-        "email": "bram@sudo-systems.com"
-      }
-    ],
     "scripts": {
       "start": "electron ./",
       "dev": "electron ./",
@@ -114,13 +107,7 @@
       "xbmc-event-client": "^0.0.2"
     },
     "license": "GPL-2.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sudo-systems/rekodi.git"
-    },
-    "bugs": {
-      "url": "https://github.com/sudo-systems/rekodi/issues"
-    },
+    "repository": "https://github.com/sudo-systems/rekodi",
     "keywords": [
       "kodi",
       "xbmc",
@@ -153,6 +140,18 @@
       "ecmaFeatures": {
         "modules": false
       }
+    },
+    "other": {
+      "author": "Bram van Oploo <bram@sudo-systems.com>",
+      "bugs": {
+        "url": "https://github.com/sudo-systems/rekodi/issues"
+      },
+      "contributors": [
+        {
+          "name": "Bram van Oploo",
+          "email": "bram@sudo-systems.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   },
   "filename": "sudo-systems___rekodi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:26.731Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:50.301Z"
+  "lastFetchedAt": "2017-10-23T17:16:30.494Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:50.301Z",
+  "archived": false
 }

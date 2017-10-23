@@ -6,7 +6,7 @@
   "owner": {
     "login": "bfulop",
     "id": 1718128,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1718128?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1718128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bfulop",
     "htmlUrl": "https://github.com/bfulop",
@@ -67,24 +67,24 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:23:14.521Z",
+  "lastFetchedAt": "2017-10-23T18:19:03.277Z",
   "packageJSON": {
     "name": "chai-browser",
     "version": "0.0.2b",
     "description": "Helpers to assert CSS values returned by a browser",
     "main": "chai-browser.js",
-    "author": "Balint Fulop",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bfulop/chai-css-browser.git"
-    },
+    "repository": "https://github.com/bfulop/chai-css-browser",
     "devDependencies": {
       "chai": "^3.5.0",
       "electron": "^1.6.1",
       "expect.js": "^0.3.1"
+    },
+    "other": {
+      "author": "Balint Fulop"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:41:54.983Z"
+  "packageLastFetchedAt": "2017-05-05T17:41:54.983Z",
+  "archived": false
 }

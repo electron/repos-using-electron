@@ -5,7 +5,7 @@
   "owner": {
     "login": "tronghuy2807",
     "id": 6357274,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6357274?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6357274?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tronghuy2807",
     "htmlUrl": "https://github.com/tronghuy2807",
@@ -78,21 +78,9 @@
         "/home/huydt/adminMongo"
       ]
     ],
-    "_from": "admin-mongo@latest",
-    "_id": "admin-mongo@0.0.20",
     "_inCache": true,
     "_installable": true,
     "_location": "/admin-mongo",
-    "_nodeVersion": "4.4.4",
-    "_npmOperationalInternal": {
-      "host": "packages-12-west.internal.npmjs.com",
-      "tmp": "tmp/admin-mongo-0.0.20.tgz_1472807617132_0.4217263115569949"
-    },
-    "_npmUser": {
-      "email": "mark_moffat@outlook.com",
-      "name": "mrvautin"
-    },
-    "_npmVersion": "2.15.1",
     "_phantomChildren": {},
     "_requested": {
       "name": "admin-mongo",
@@ -106,17 +94,9 @@
       "#USER"
     ],
     "_resolved": "https://registry.npmjs.org/admin-mongo/-/admin-mongo-0.0.20.tgz",
-    "_shasum": "9b1052d2140f0cec79c541e1800b6bc4a049d6f1",
     "_shrinkwrap": null,
     "_spec": "admin-mongo",
     "_where": "/home/huydt/adminMongo",
-    "author": {
-      "email": "mrvautin@gmail.com",
-      "name": "Mark Moffat"
-    },
-    "bugs": {
-      "url": "https://github.com/mrvautin/adminmongo/issues"
-    },
     "dependencies": {
       "async": "^2.0.0",
       "body-parser": "^1.15.2",
@@ -159,11 +139,6 @@
       "mocha-jsdom": "^1.1.0",
       "supertest": "^1.2.0"
     },
-    "directories": {},
-    "dist": {
-      "shasum": "9b1052d2140f0cec79c541e1800b6bc4a049d6f1",
-      "tarball": "https://registry.npmjs.org/admin-mongo/-/admin-mongo-0.0.20.tgz"
-    },
     "gitHead": "3abc57cfd028147e5141896b2826b7ffca106119",
     "homepage": "https://github.com/mrvautin/adminmongo#readme",
     "keywords": [
@@ -193,20 +168,11 @@
     ],
     "license": "MIT",
     "main": "electron.js",
-    "maintainers": [
-      {
-        "email": "mrvautin@gmail.com",
-        "name": "mrvautin"
-      }
-    ],
     "name": "admin-mongo",
     "optionalDependencies": {},
     "private": false,
     "readme": "ERROR: No README data found!",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mrvautin/adminmongo.git"
-    },
+    "repository": "https://github.com/mrvautin/adminmongo",
     "scripts": {
       "packageLinux": "electron-packager ./ adminMongo --out=releases/ --platform=linux --arch=ia32 --prune --overwrite --ignore=releases/* --icon=public/logo.ico",
       "packageOsx": "electron-packager ./ adminMongo --out=releases/ --platform=darwin --arch=x64 --prune --overwrite --ignore=releases/* --icon=public/logo.icns",
@@ -215,7 +181,50 @@
       "start": "node app.js",
       "test": "find ./tests -name '*.js' | xargs mocha -R spec -t 5000"
     },
-    "version": "0.0.20"
+    "version": "0.0.20",
+    "lastPublisher": {
+      "email": "mark_moffat@outlook.com",
+      "name": "mrvautin"
+    },
+    "owners": [
+      {
+        "email": "mrvautin@gmail.com",
+        "name": "mrvautin"
+      }
+    ],
+    "other": {
+      "_from": "admin-mongo@latest",
+      "_id": "admin-mongo@0.0.20",
+      "_nodeVersion": "4.4.4",
+      "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/admin-mongo-0.0.20.tgz_1472807617132_0.4217263115569949"
+      },
+      "_npmUser": {
+        "email": "mark_moffat@outlook.com",
+        "name": "mrvautin"
+      },
+      "_npmVersion": "2.15.1",
+      "_shasum": "9b1052d2140f0cec79c541e1800b6bc4a049d6f1",
+      "author": {
+        "email": "mrvautin@gmail.com",
+        "name": "Mark Moffat"
+      },
+      "bugs": {
+        "url": "https://github.com/mrvautin/adminmongo/issues"
+      },
+      "directories": {},
+      "dist": {
+        "shasum": "9b1052d2140f0cec79c541e1800b6bc4a049d6f1",
+        "tarball": "https://registry.npmjs.org/admin-mongo/-/admin-mongo-0.0.20.tgz"
+      },
+      "maintainers": [
+        {
+          "email": "mrvautin@gmail.com",
+          "name": "mrvautin"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -242,6 +251,7 @@
   },
   "filename": "tronghuy2807___adminMongo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:21.391Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:51.979Z"
+  "lastFetchedAt": "2017-10-23T17:46:22.700Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:51.979Z",
+  "archived": false
 }

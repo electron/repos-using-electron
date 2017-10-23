@@ -5,7 +5,7 @@
   "owner": {
     "login": "jaredpalmer",
     "id": 4060187,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4060187?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4060187?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jaredpalmer",
     "htmlUrl": "https://github.com/jaredpalmer",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jaredpalmer/electron-starter/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jaredpalmer/electron-starter/deployments",
   "createdAt": "2016-09-01T16:20:20.000Z",
-  "updatedAt": "2017-03-17T13:15:42.000Z",
+  "updatedAt": "2017-09-07T22:03:28.000Z",
   "pushedAt": "2016-09-01T16:20:24.000Z",
   "gitUrl": "git://github.com/jaredpalmer/electron-starter.git",
   "sshUrl": "git@github.com:jaredpalmer/electron-starter.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/jaredpalmer/electron-starter",
   "homepage": null,
   "size": 560,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -75,21 +75,14 @@
       "hot": "webpack-dev-server",
       "preview": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jaredpalmer/electron-starter.git"
-    },
+    "repository": "https://github.com/jaredpalmer/electron-starter",
     "keywords": [
       "Electron",
       "React",
       "Webpack"
     ],
-    "author": "Jared Palmer",
     "twitter": "@jaredpalmer",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jaredpalmer/electron-starter/issues"
-    },
     "homepage": "https://github.com/jaredpalmer/electron-starter",
     "devDependencies": {
       "babel-core": "^6.13.2",
@@ -110,6 +103,12 @@
     "dependencies": {
       "react": "^15.3.1",
       "react-dom": "^15.3.1"
+    },
+    "other": {
+      "author": "Jared Palmer",
+      "bugs": {
+        "url": "https://github.com/jaredpalmer/electron-starter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "jaredpalmer___electron-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:18:10.064Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:55.934Z"
+  "lastFetchedAt": "2017-10-23T18:54:29.323Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:55.934Z",
+  "archived": false
 }

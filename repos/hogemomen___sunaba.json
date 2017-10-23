@@ -5,7 +5,7 @@
   "owner": {
     "login": "hogemomen",
     "id": 16100867,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16100867?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16100867?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hogemomen",
     "htmlUrl": "https://github.com/hogemomen",
@@ -80,19 +80,18 @@
       "start": "node_modules/.bin/electron .",
       "build": "node build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hogemomen/sunaba"
-    },
-    "author": "hogemomen",
+    "repository": "https://github.com/hogemomen/sunaba",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hogemomen/sunaba/issues"
-    },
     "homepage": "https://github.com/hogemomen/sunaba",
     "devDependencies": {
       "electron-packager": "^5.1.1",
       "electron-prebuilt": "^0.35.2"
+    },
+    "other": {
+      "author": "hogemomen",
+      "bugs": {
+        "url": "https://github.com/hogemomen/sunaba/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   },
   "filename": "hogemomen___sunaba.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:00.311Z",
-  "packageLastFetchedAt": "2017-05-04T22:19:18.856Z"
+  "lastFetchedAt": "2017-10-23T20:29:02.341Z",
+  "packageLastFetchedAt": "2017-05-04T22:19:18.856Z",
+  "archived": false
 }

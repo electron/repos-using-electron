@@ -5,7 +5,7 @@
   "owner": {
     "login": "srossokha",
     "id": 2116649,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2116649?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2116649?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/srossokha",
     "htmlUrl": "https://github.com/srossokha",
@@ -80,21 +80,14 @@
       "start": "webpack --debug && electron main.js",
       "build": "webpack --debug"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/srossokha/shturman"
-    },
+    "repository": "https://github.com/srossokha/shturman",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/srossokha/shturman/issues"
-    },
     "homepage": "https://github.com/srossokha/shturman#readme",
     "devDependencies": {
       "babel-loader": "^6.2.4",
@@ -109,6 +102,12 @@
       "react-dom": "^15.0.2",
       "react-redux": "^4.4.5",
       "redux": "^3.5.2"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/srossokha/shturman/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "filename": "srossokha___shturman.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:36.705Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:00.554Z"
+  "lastFetchedAt": "2017-10-23T20:57:16.318Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:00.554Z",
+  "archived": false
 }

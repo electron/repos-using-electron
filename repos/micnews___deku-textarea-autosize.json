@@ -5,7 +5,7 @@
   "owner": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -77,7 +77,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 12,
+  "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
     "name": "deku-textarea-autosize",
@@ -90,7 +90,6 @@
       "lint": "semistandard | snazzy",
       "prepublish": "babel index.js --out-dir dist"
     },
-    "author": "mic.com",
     "license": "MIT",
     "keywords": [
       "deku",
@@ -116,15 +115,15 @@
       "autosize": "^3.0.15",
       "magic-virtual-element": "^1.0.6"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/micnews/deku-textarea-autosize.git"
-    },
-    "bugs": {
-      "url": "https://github.com/micnews/deku-textarea-autosize/issues"
-    },
+    "repository": "https://github.com/micnews/deku-textarea-autosize",
     "homepage": "https://github.com/micnews/deku-textarea-autosize#readme",
-    "description": "Deku textarea component with automatic resizing"
+    "description": "Deku textarea component with automatic resizing",
+    "other": {
+      "author": "mic.com",
+      "bugs": {
+        "url": "https://github.com/micnews/deku-textarea-autosize/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +150,7 @@
   },
   "filename": "micnews___deku-textarea-autosize.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:35:00.929Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:50.813Z"
+  "lastFetchedAt": "2017-10-23T18:49:44.593Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:50.813Z",
+  "archived": false
 }

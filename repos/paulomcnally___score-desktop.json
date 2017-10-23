@@ -5,7 +5,7 @@
   "owner": {
     "login": "paulomcnally",
     "id": 181533,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/181533?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/181533?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paulomcnally",
     "htmlUrl": "https://github.com/paulomcnally",
@@ -59,20 +59,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/paulomcnally/score-desktop"
-    },
+    "repository": "https://github.com/paulomcnally/score-desktop",
     "keywords": [
       "electron",
       "score",
       "realtime"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/paulomcnally/score-desktop/issues"
-    },
     "homepage": "https://github.com/paulomcnally/score-desktop#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -80,6 +73,12 @@
     "dependencies": {
       "express": "4.13.4",
       "socket.io": "1.4.5"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/paulomcnally/score-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/paulomcnally/score-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:22:08.630Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:30.690Z"
+  "lastFetchedAt": "2017-10-23T20:19:01.465Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:30.690Z",
+  "archived": false
 }

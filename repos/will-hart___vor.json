@@ -5,7 +5,7 @@
   "owner": {
     "login": "will-hart",
     "id": 391950,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/391950?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/391950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/will-hart",
     "htmlUrl": "https://github.com/will-hart",
@@ -74,19 +74,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/will-hart/vor.git"
-    },
-    "author": {
-      "name": "W. Hart",
-      "email": "hart.wl@gmail.com",
-      "url": "https://github.com/will-hart"
-    },
+    "repository": "https://github.com/will-hart/vor",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/will-hart/vor.git/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -168,6 +157,16 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "W. Hart",
+        "email": "hart.wl@gmail.com",
+        "url": "https://github.com/will-hart"
+      },
+      "bugs": {
+        "url": "https://github.com/will-hart/vor.git/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -215,6 +214,7 @@
   "svnUrl": "https://github.com/will-hart/vor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:39:31.851Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:31.811Z"
+  "lastFetchedAt": "2017-10-23T20:42:06.584Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:31.811Z",
+  "archived": false
 }

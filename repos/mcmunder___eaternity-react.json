@@ -6,7 +6,7 @@
   "owner": {
     "login": "mcmunder",
     "id": 5681686,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5681686?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5681686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mcmunder",
     "htmlUrl": "https://github.com/mcmunder",
@@ -132,26 +132,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
-    "author": {
-      "name": "mcmunder",
-      "email": "matthiasmunder@gmail.com",
-      "url": "https://github.com/mcmunder"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -247,6 +232,20 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "mcmunder",
+        "email": "matthiasmunder@gmail.com",
+        "url": "https://github.com/mcmunder"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -273,6 +272,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:15.210Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:01.451Z"
+  "lastFetchedAt": "2017-10-23T17:20:28.909Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:01.451Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "papajoker",
     "id": 4622935,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4622935?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4622935?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/papajoker",
     "htmlUrl": "https://github.com/papajoker",
@@ -86,20 +86,13 @@
       "appimage": "build --linux Appimage --x64 && rm -r ./dist/linux && cd dist; ./pkgbuild.js && makepkg -scfi -p PKGBUILD-APPIMAGE",
       "pacman": "build --linux pacman --x64 && rm -r ./dist/linux && cd dist; ./pkgbuild.js && makepkg -scfi"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/papajoker/sys-journald.git"
-    },
+    "repository": "https://github.com/papajoker/sys-journald",
     "keywords": [
       "systemd",
       "logs"
     ],
     "maxitems": 1400,
     "notify": 50,
-    "author": {
-      "name": "papajoker",
-      "email": "papajoke@archlinux.info"
-    },
     "url": "http://www.webstratege.fr",
     "license": "CC0-1.0",
     "devDependencies": {
@@ -114,6 +107,12 @@
     },
     "dependencies": {
       "sudo-prompt": "^6.2.0"
+    },
+    "other": {
+      "author": {
+        "name": "papajoker",
+        "email": "papajoke@archlinux.info"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "papajoker___sys-journald.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:54:34.308Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:59.972Z"
+  "lastFetchedAt": "2017-10-23T18:07:15.062Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:59.972Z",
+  "archived": false
 }

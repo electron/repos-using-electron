@@ -5,7 +5,7 @@
   "owner": {
     "login": "Banjerr",
     "id": 4173446,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4173446?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4173446?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Banjerr",
     "htmlUrl": "https://github.com/Banjerr",
@@ -36,7 +36,7 @@
   "deploymentsUrl": "https://api.github.com/repos/Banjerr/fASCII/deployments",
   "createdAt": "2016-06-13T16:06:42.000Z",
   "updatedAt": "2016-11-02T01:18:38.000Z",
-  "pushedAt": "2016-11-02T01:18:30.000Z",
+  "pushedAt": "2017-10-13T16:19:45.000Z",
   "gitUrl": "git://github.com/Banjerr/fASCII.git",
   "sshUrl": "git@github.com:Banjerr/fASCII.git",
   "cloneUrl": "https://github.com/Banjerr/fASCII.git",
@@ -50,10 +50,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 3,
+  "openIssues": 3,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/banjerr/fascii.git"
-    },
+    "repository": "https://github.com/banjerr/fascii",
     "keywords": [
       "ASCII",
       "face",
@@ -91,11 +88,7 @@
       "javascript",
       "angular"
     ],
-    "author": "Ben Redden",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/banjerr/fascii/issues"
-    },
     "homepage": "https://github.com/banjerr/fascii#readme",
     "devDependencies": {
       "devtron": "^1.2.0",
@@ -111,6 +104,12 @@
       "lowdb": "^0.13.1",
       "menubar": "^4.1.1",
       "ngclipboard": "^1.1.1"
+    },
+    "other": {
+      "author": "Ben Redden",
+      "bugs": {
+        "url": "https://github.com/banjerr/fascii/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "Banjerr___fASCII.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:01.754Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:12.916Z"
+  "lastFetchedAt": "2017-10-23T20:06:29.770Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:12.916Z",
+  "archived": false
 }

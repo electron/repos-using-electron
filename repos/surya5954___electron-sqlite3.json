@@ -5,7 +5,7 @@
   "owner": {
     "login": "surya5954",
     "id": 12806922,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12806922?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12806922?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/surya5954",
     "htmlUrl": "https://github.com/surya5954",
@@ -90,9 +90,6 @@
       "atom",
       "sqlite3"
     ],
-    "bugs": {
-      "url": "https://github.com/bytheway/electron-sqlite3/issues"
-    },
     "scripts": {
       "start": "electron .",
       "build": "electron-packager . electron-sqlite3 --out=dist --ignore=dist --prune --asar --all --version=0.36.4",
@@ -100,9 +97,14 @@
       "rebuild-sqlite3": "cd node_modules/sqlite3 && npm run prepublish && node-gyp configure --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-darwin-x64 && node-gyp rebuild --target=0.36.4 --arch=x64 --target_platform=darwin --dist-url=https://atom.io/download/atom-shell --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-darwin-x64",
       "rebuild-sqlite3-win": "cd node_modules/sqlite3 && npm run prepublish && node-gyp configure --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-win32-x64 && node-gyp node-gyp rebuild --target=0.36.0 --arch=x64 --target_platform=win32 --dist-url=https://atom.io/download/atom-shell --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-win32-x64"
     },
-    "author": "Ben Bytheway",
-    "contributors": [],
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Ben Bytheway",
+      "bugs": {
+        "url": "https://github.com/bytheway/electron-sqlite3/issues"
+      },
+      "contributors": []
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +131,7 @@
   },
   "filename": "surya5954___electron-sqlite3.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:35.051Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:57.908Z"
+  "lastFetchedAt": "2017-10-23T18:04:55.813Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:57.908Z",
+  "archived": false
 }

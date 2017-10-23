@@ -5,7 +5,7 @@
   "owner": {
     "login": "paulsutherland",
     "id": 2683905,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2683905?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2683905?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paulsutherland",
     "htmlUrl": "https://github.com/paulsutherland",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/paulsutherland/Polyonic/downloads",
   "deploymentsUrl": "https://api.github.com/repos/paulsutherland/Polyonic/deployments",
   "createdAt": "2016-08-19T20:29:32.000Z",
-  "updatedAt": "2017-04-21T13:45:14.000Z",
-  "pushedAt": "2017-04-17T10:03:01.000Z",
+  "updatedAt": "2017-10-23T07:35:08.000Z",
+  "pushedAt": "2017-08-12T14:39:48.000Z",
   "gitUrl": "git://github.com/paulsutherland/Polyonic.git",
   "sshUrl": "git@github.com:paulsutherland/Polyonic.git",
   "cloneUrl": "https://github.com/paulsutherland/Polyonic.git",
   "svnUrl": "https://github.com/paulsutherland/Polyonic",
   "homepage": null,
-  "size": 6014,
-  "stargazersCount": 16,
-  "watchersCount": 16,
+  "size": 7596,
+  "stargazersCount": 63,
+  "watchersCount": 63,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 6,
+  "forksCount": 17,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 16,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 63,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,21 +68,17 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 6,
-  "subscribersCount": 5,
+  "networkCount": 17,
+  "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
     "name": "polyonic",
     "productName": "A Polyonic App",
     "description": "A Polyonic Electron Ionic 2 starter application",
     "version": "1.0.0",
-    "author": "Author",
     "copyright": "© 2016, Author",
     "main": "src/app.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paulsutherland/Polyonic"
-    },
+    "repository": "https://github.com/paulsutherland/Polyonic",
     "license": "MIT",
     "devDependencies": {
       "asar": "0.13.0",
@@ -127,6 +123,9 @@
       "start": "gulp start",
       "test": "electron-mocha build",
       "ionic:build": "ionic-app-scripts build"
+    },
+    "other": {
+      "author": "Author"
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "paulsutherland___Polyonic.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:01.658Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:38.152Z"
+  "lastFetchedAt": "2017-10-23T19:06:12.322Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:38.152Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "KristjanLuik",
     "id": 2822966,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2822966?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2822966?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/KristjanLuik",
     "htmlUrl": "https://github.com/KristjanLuik",
@@ -74,19 +74,18 @@
       "start": "electron main.js",
       "debug": "electron --debug-brk=5858 main.js"
     },
-    "author": "Kristjan Luik",
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/KristjanLuik/electron-screenshot-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/KristjanLuik/electron-screenshot-app/issues"
-    },
+    "repository": "https://github.com/KristjanLuik/electron-screenshot-app",
     "homepage": "https://github.com/KristjanLuik/electron-screenshot-app#readme",
     "devDependencies": {
       "babel-cli": "^6.10.1",
       "electron-prebuilt": "^1.2.7"
+    },
+    "other": {
+      "author": "Kristjan Luik",
+      "bugs": {
+        "url": "https://github.com/KristjanLuik/electron-screenshot-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,7 @@
   },
   "filename": "KristjanLuik___electron-screenshot-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:45:22.488Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:01.328Z"
+  "lastFetchedAt": "2017-10-23T20:43:30.791Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:01.328Z",
+  "archived": false
 }

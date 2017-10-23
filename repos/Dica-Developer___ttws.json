@@ -5,7 +5,7 @@
   "owner": {
     "login": "Dica-Developer",
     "id": 1409907,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1409907?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1409907?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Dica-Developer",
     "htmlUrl": "https://github.com/Dica-Developer",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/Dica-Developer/ttws/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Dica-Developer/ttws/deployments",
   "createdAt": "2016-09-20T14:56:53.000Z",
-  "updatedAt": "2017-04-20T08:21:20.000Z",
-  "pushedAt": "2017-04-20T06:35:11.000Z",
+  "updatedAt": "2017-09-01T13:15:25.000Z",
+  "pushedAt": "2017-08-10T18:38:40.000Z",
   "gitUrl": "git://github.com/Dica-Developer/ttws.git",
   "sshUrl": "git@github.com:Dica-Developer/ttws.git",
   "cloneUrl": "https://github.com/Dica-Developer/ttws.git",
   "svnUrl": "https://github.com/Dica-Developer/ttws",
   "homepage": "https://dica-developer.github.io/ttws/",
-  "size": 323,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 322,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Dica-Developer",
     "id": 1409907,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1409907?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1409907?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Dica-Developer",
     "htmlUrl": "https://github.com/Dica-Developer",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 4,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "ttws",
@@ -96,10 +96,7 @@
       "build": "node_modules/.bin/electron-packager . ttws --platform linux --arch x64 --out dist/ --ignore \"(\\.gitignore|^app|^dist|^node_modules/electron.*)\" && chmod -R a+r dist/ttws-linux-x64 && find dist/ttws-linux-x64/resources/app -type d | xargs chmod a+x",
       "deb64": "node_modules/.bin/electron-installer-debian --src dist/ttws-linux-x64/ --dest dist/installers/ --arch amd64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Dica-Developer/ttws.git"
-    },
+    "repository": "https://github.com/Dica-Developer/ttws",
     "keywords": [
       "gps",
       "sport",
@@ -107,11 +104,7 @@
       "tomtom",
       "strava"
     ],
-    "author": "mschaaf",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Dica-Developer/ttws/issues"
-    },
     "homepage": "https://github.com/Dica-Developer/ttws",
     "dependencies": {
       "blaze": "^3.0.0",
@@ -125,6 +118,12 @@
     "devDependencies": {
       "electron-installer-debian": "^0.3.1",
       "electron-packager": "^8.1.0"
+    },
+    "other": {
+      "author": "mschaaf",
+      "bugs": {
+        "url": "https://github.com/Dica-Developer/ttws/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   },
   "filename": "Dica-Developer___ttws.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:39:26.842Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:33.335Z"
+  "lastFetchedAt": "2017-10-23T17:15:46.440Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:33.335Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "biou",
     "id": 1340376,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1340376?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1340376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/biou",
     "htmlUrl": "https://github.com/biou",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "./node_modules/.bin/jsdoc -t ./doc-template -d doc js/functional.js && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4"
@@ -103,6 +96,12 @@
       "jsdoc": "^3.4.1",
       "lodash": "^4.15.0",
       "ws": "^1.1.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "filename": "biou___js-fp-tool-en.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:02.067Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:14.901Z"
+  "lastFetchedAt": "2017-10-23T18:56:47.294Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:14.901Z",
+  "archived": false
 }

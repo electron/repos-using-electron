@@ -6,7 +6,7 @@
   "owner": {
     "login": "MagLoft",
     "id": 9048323,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9048323?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9048323?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MagLoft",
     "htmlUrl": "https://github.com/MagLoft",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "MagLoft",
     "id": 9048323,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9048323?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9048323?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MagLoft",
     "htmlUrl": "https://github.com/MagLoft",
@@ -81,15 +81,12 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:29:27.640Z",
+  "lastFetchedAt": "2017-10-23T21:04:21.663Z",
   "packageJSON": {
     "name": "powersnap",
     "version": "1.2.0",
     "description": "Take reliable screenshots from websites",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/magloft/powersnap.git"
-    },
+    "repository": "https://github.com/magloft/powersnap",
     "main": "powersnap.js",
     "bin": {
       "powersnap": "./powersnap.js"
@@ -97,7 +94,6 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Tobias Strebitzer",
     "license": "MIT",
     "dependencies": {
       "axon": "^2.0.2",
@@ -114,8 +110,12 @@
       "eslint-plugin-react": "^6.10.3",
       "eslint-plugin-jsx-a11y": "^4.0.0",
       "eslint-plugin-import": "^2.0.0"
+    },
+    "other": {
+      "author": "Tobias Strebitzer"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:52:13.628Z"
+  "packageLastFetchedAt": "2017-05-05T14:52:13.628Z",
+  "archived": false
 }

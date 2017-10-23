@@ -5,7 +5,7 @@
   "owner": {
     "login": "Darkade",
     "id": 4106546,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4106546?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4106546?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Darkade",
     "htmlUrl": "https://github.com/Darkade",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 0,
+  "openIssues": 0,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/Darkade/electron-ipc",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:23:29.774Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:46.997Z"
+  "lastFetchedAt": "2017-10-23T18:03:34.674Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:46.997Z",
+  "archived": false
 }

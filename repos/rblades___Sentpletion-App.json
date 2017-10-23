@@ -5,7 +5,7 @@
   "owner": {
     "login": "rblades",
     "id": 9255906,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9255906?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9255906?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rblades",
     "htmlUrl": "https://github.com/rblades",
@@ -59,14 +59,10 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rblades/Sentpletion-App.git"
-    },
+    "repository": "https://github.com/rblades/Sentpletion-App",
     "keywords": [
       "pyschology"
     ],
-    "author": "Rob Blades",
     "license": "MIT",
     "homepage": "https://github.com/rblades/Sentpletion-App",
     "devDependencies": {
@@ -76,6 +72,9 @@
     "dependencies": {
       "nconf": "^0.8.4",
       "node-notifier": "^4.5.0"
+    },
+    "other": {
+      "author": "Rob Blades"
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   "svnUrl": "https://github.com/rblades/Sentpletion-App",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:23:55.987Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:56.024Z"
+  "lastFetchedAt": "2017-10-23T19:04:36.168Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:56.024Z",
+  "archived": false
 }

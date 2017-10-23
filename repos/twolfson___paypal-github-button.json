@@ -5,7 +5,7 @@
   "owner": {
     "login": "twolfson",
     "id": 902488,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/902488?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/902488?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/twolfson",
     "htmlUrl": "https://github.com/twolfson",
@@ -56,18 +56,7 @@
     "description": "GitHub styled button for PayPal",
     "version": "1.0.0",
     "homepage": "https://github.com/twolfson/paypal-github-button",
-    "author": {
-      "name": "Todd Wolfson",
-      "email": "todd@twolfson.com",
-      "url": "http://twolfson.com/"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/twolfson/paypal-github-button.git"
-    },
-    "bugs": {
-      "url": "https://github.com/twolfson/paypal-github-button/issues"
-    },
+    "repository": "https://github.com/twolfson/paypal-github-button",
     "license": "Unlicense",
     "engines": {
       "node": ">= 0.10.0"
@@ -105,6 +94,16 @@
         "foundry-release-git-semver-branches",
         "foundry-release-npm"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Todd Wolfson",
+        "email": "todd@twolfson.com",
+        "url": "http://twolfson.com/"
+      },
+      "bugs": {
+        "url": "https://github.com/twolfson/paypal-github-button/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   "svnUrl": "https://github.com/twolfson/paypal-github-button",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:33:00.901Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:07.941Z"
+  "lastFetchedAt": "2017-10-23T17:57:12.325Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:07.941Z",
+  "archived": false
 }

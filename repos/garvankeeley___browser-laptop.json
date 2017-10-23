@@ -164,7 +164,7 @@
   },
   "networkCount": 575,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "brave",
     "version": "0.11.5",
@@ -208,35 +208,7 @@
       "webpack": "webpack"
     },
     "repository": "brave/browser-laptop",
-    "author": {
-      "name": "Brave Software <support+laptop@brave.com>"
-    },
-    "contributors": [
-      {
-        "name": "Brian R. Bondy",
-        "email": "brian@brave.com"
-      },
-      {
-        "name": "Aubrey Keus",
-        "email": "aubrey@brave.com"
-      },
-      {
-        "name": "Brian Johnson",
-        "email": "bjohnson@brave.com"
-      },
-      {
-        "name": "Yan Zhu",
-        "email": "yan@brave.com"
-      },
-      {
-        "name": "Brian Clifton",
-        "email": "clifton@brave.com"
-      }
-    ],
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/brave/browser-laptop/issues"
-    },
     "homepage": "https://www.brave.com/",
     "dependencies": {
       "abp-filter-parser-cpp": "1.1.x",
@@ -340,6 +312,36 @@
     "engineStrict": true,
     "engines": {
       "node": ">= 5.6.0"
+    },
+    "other": {
+      "author": {
+        "name": "Brave Software <support+laptop@brave.com>"
+      },
+      "bugs": {
+        "url": "https://github.com/brave/browser-laptop/issues"
+      },
+      "contributors": [
+        {
+          "name": "Brian R. Bondy",
+          "email": "brian@brave.com"
+        },
+        {
+          "name": "Aubrey Keus",
+          "email": "aubrey@brave.com"
+        },
+        {
+          "name": "Brian Johnson",
+          "email": "bjohnson@brave.com"
+        },
+        {
+          "name": "Yan Zhu",
+          "email": "yan@brave.com"
+        },
+        {
+          "name": "Brian Clifton",
+          "email": "clifton@brave.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -388,6 +390,6 @@
   "svnUrl": "https://github.com/garvankeeley/browser-laptop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T11:04:17.697Z",
+  "lastFetchedAt": "2017-10-23T21:03:52.129Z",
   "packageLastFetchedAt": "2017-05-05T17:06:11.671Z"
 }

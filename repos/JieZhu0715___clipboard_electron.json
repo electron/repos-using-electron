@@ -5,7 +5,7 @@
   "owner": {
     "login": "JieZhu0715",
     "id": 21296572,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21296572?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21296572?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JieZhu0715",
     "htmlUrl": "https://github.com/JieZhu0715",
@@ -76,18 +76,11 @@
       "dev": "webpack -d --watch",
       "build": "webpack -p"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/JieZhu0715/clipboard_electron.git"
-    },
+    "repository": "https://github.com/JieZhu0715/clipboard_electron",
     "keywords": [
       "clipboard"
     ],
-    "author": "jzhu",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/JieZhu0715/clipboard_electron/issues"
-    },
     "homepage": "https://github.com/JieZhu0715/clipboard_electron#readme",
     "dependencies": {
       "babel-loader": "^6.2.5",
@@ -103,6 +96,12 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.3.5"
+    },
+    "other": {
+      "author": "jzhu",
+      "bugs": {
+        "url": "https://github.com/JieZhu0715/clipboard_electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "JieZhu0715___clipboard_electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:15:38.974Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:25.883Z"
+  "lastFetchedAt": "2017-10-23T20:45:31.960Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:25.883Z",
+  "archived": false
 }

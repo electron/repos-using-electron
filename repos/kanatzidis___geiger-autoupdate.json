@@ -5,7 +5,7 @@
   "owner": {
     "login": "kanatzidis",
     "id": 806823,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/806823?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/806823?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kanatzidis",
     "htmlUrl": "https://github.com/kanatzidis",
@@ -73,10 +73,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kanatzidis/geiger-autoupdate.git"
-    },
+    "repository": "https://github.com/kanatzidis/geiger-autoupdate",
     "keywords": [
       "geiger",
       "electron",
@@ -85,11 +82,7 @@
       "auto",
       "update"
     ],
-    "author": "Alabaster Technologies, LLC",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kanatzidis/geiger-autoupdate/issues"
-    },
     "homepage": "https://github.com/kanatzidis/geiger-autoupdate#readme",
     "peerDependencies": {
       "electron": "^1.0.0"
@@ -97,6 +90,12 @@
     "dependencies": {
       "request": "^2.78.0",
       "require-dir": "^0.3.1"
+    },
+    "other": {
+      "author": "Alabaster Technologies, LLC",
+      "bugs": {
+        "url": "https://github.com/kanatzidis/geiger-autoupdate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "kanatzidis___geiger-autoupdate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:29.364Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:52.309Z"
+  "lastFetchedAt": "2017-10-23T17:41:37.248Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:52.309Z",
+  "archived": false
 }

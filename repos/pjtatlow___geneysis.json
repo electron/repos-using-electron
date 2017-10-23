@@ -5,7 +5,7 @@
   "owner": {
     "login": "pjtatlow",
     "id": 4894249,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4894249?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4894249?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pjtatlow",
     "htmlUrl": "https://github.com/pjtatlow",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/pjtatlow/geneysis/downloads",
   "deploymentsUrl": "https://api.github.com/repos/pjtatlow/geneysis/deployments",
   "createdAt": "2016-07-14T03:20:30.000Z",
-  "updatedAt": "2017-02-17T23:27:25.000Z",
-  "pushedAt": "2016-11-17T23:10:06.000Z",
+  "updatedAt": "2017-09-06T23:02:31.000Z",
+  "pushedAt": "2017-06-26T22:14:46.000Z",
   "gitUrl": "git://github.com/pjtatlow/geneysis.git",
   "sshUrl": "git@github.com:pjtatlow/geneysis.git",
   "cloneUrl": "https://github.com/pjtatlow/geneysis.git",
   "svnUrl": "https://github.com/pjtatlow/geneysis",
   "homepage": null,
-  "size": 23397,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 23564,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "Python",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,19 +79,12 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "bacteriophage",
       "alignment"
     ],
-    "author": "PJ Tatlow",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "1.2.0",
@@ -104,6 +97,12 @@
       "shelljs": "0.7.0",
       "sqlite3": "3.1.4",
       "jsonfile": "2.3.1"
+    },
+    "other": {
+      "author": "PJ Tatlow",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "pjtatlow___geneysis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:39:01.886Z",
-  "packageLastFetchedAt": "2017-05-05T14:47:29.935Z"
+  "lastFetchedAt": "2017-10-23T17:48:12.892Z",
+  "packageLastFetchedAt": "2017-05-05T14:47:29.935Z",
+  "archived": false
 }

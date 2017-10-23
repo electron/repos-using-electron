@@ -5,7 +5,7 @@
   "owner": {
     "login": "coolcao",
     "id": 3192434,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3192434?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3192434?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/coolcao",
     "htmlUrl": "https://github.com/coolcao",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/coolcao/qn-tools/downloads",
   "deploymentsUrl": "https://api.github.com/repos/coolcao/qn-tools/deployments",
   "createdAt": "2016-05-23T00:51:32.000Z",
-  "updatedAt": "2017-03-19T14:43:32.000Z",
-  "pushedAt": "2017-05-04T14:18:43.000Z",
+  "updatedAt": "2017-07-06T08:30:26.000Z",
+  "pushedAt": "2017-07-09T12:18:35.000Z",
   "gitUrl": "git://github.com/coolcao/qn-tools.git",
   "sshUrl": "git@github.com:coolcao/qn-tools.git",
   "cloneUrl": "https://github.com/coolcao/qn-tools.git",
   "svnUrl": "https://github.com/coolcao/qn-tools",
   "homepage": null,
-  "size": 5144,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 5145,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -74,18 +74,11 @@
       "start": "electron main.js",
       "build": "electron-packager ./app qn-tools --platform darwin --arch x64     --out ./OutApp --version 0.37.3 --overwrite "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/coolcao/qn-tools.git"
-    },
+    "repository": "https://github.com/coolcao/qn-tools",
     "keywords": [
       "qiniu"
     ],
-    "author": "coolcao",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/coolcao/qn-tools/issues"
-    },
     "homepage": "https://github.com/coolcao/qn-tools#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
@@ -94,6 +87,12 @@
       "electron-packager": "^8.3.0",
       "electron-prebuilt": "^1.4.10",
       "qiniu": "*"
+    },
+    "other": {
+      "author": "coolcao",
+      "bugs": {
+        "url": "https://github.com/coolcao/qn-tools/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "coolcao___qn-tools.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:32.938Z",
-  "packageLastFetchedAt": "2017-05-04T22:51:25.384Z"
+  "lastFetchedAt": "2017-10-23T17:23:25.235Z",
+  "packageLastFetchedAt": "2017-05-04T22:51:25.384Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ecology-rocks",
     "id": 10925257,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10925257?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10925257?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ecology-rocks",
     "htmlUrl": "https://github.com/ecology-rocks",
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/ecology-rocks/purple-elephant",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:19:49.284Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:31.185Z"
+  "lastFetchedAt": "2017-10-23T17:15:30.414Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:31.185Z",
+  "archived": false
 }

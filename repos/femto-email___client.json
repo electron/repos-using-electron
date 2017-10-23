@@ -6,7 +6,7 @@
   "owner": {
     "login": "femto-email",
     "id": 27827004,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/27827004?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/27827004?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/femto-email",
     "htmlUrl": "https://github.com/femto-email",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/femto-email/client",
-  "description": "A simple MailClient written in Node.JS",
+  "description": "A simple, extendable mail client written in Node.JS",
   "fork": false,
   "url": "https://api.github.com/repos/femto-email/client",
   "forksUrl": "https://api.github.com/repos/femto-email/client/forks",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/femto-email/client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/femto-email/client/deployments",
   "createdAt": "2017-04-02T19:26:02.000Z",
-  "updatedAt": "2017-04-23T12:21:03.000Z",
-  "pushedAt": "2017-05-01T20:35:47.000Z",
+  "updatedAt": "2017-08-14T05:55:08.000Z",
+  "pushedAt": "2017-08-20T00:16:26.000Z",
   "gitUrl": "git://github.com/femto-email/client.git",
   "sshUrl": "git@github.com:femto-email/client.git",
   "cloneUrl": "https://github.com/femto-email/client.git",
   "svnUrl": "https://github.com/femto-email/client",
-  "homepage": "",
+  "homepage": "http://femto.email",
   "size": 5254,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "CSS",
   "hasIssues": true,
   "hasProjects": true,
@@ -54,9 +54,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 2,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "femto-email",
     "id": 27827004,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/27827004?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/27827004?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/femto-email",
     "htmlUrl": "https://github.com/femto-email",
@@ -87,7 +87,7 @@
   "networkCount": 0,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:10:14.216Z",
+  "lastFetchedAt": "2017-10-23T18:18:29.233Z",
   "packageJSON": {
     "name": "Femto",
     "productName": "Femto",
@@ -95,18 +95,6 @@
     "description": "An open source email client.",
     "license": "MIT",
     "repository": "popey456963/mailclient",
-    "author": {
-      "name": "Alexander Craggs",
-      "email": "alexander@debenclipper.com",
-      "url": "github.com/popey456963/mailclient"
-    },
-    "contributors": [
-      {
-        "name": "Miles Budden",
-        "url": "https://milesbudden.com",
-        "email": "miles@budden.net"
-      }
-    ],
     "scripts": {
       "test": "xo",
       "start": "electron .",
@@ -165,8 +153,23 @@
       ],
       "linebreak-style": "windows",
       "semi-colon": false
+    },
+    "other": {
+      "author": {
+        "name": "Alexander Craggs",
+        "email": "alexander@debenclipper.com",
+        "url": "github.com/popey456963/mailclient"
+      },
+      "contributors": [
+        {
+          "name": "Miles Budden",
+          "url": "https://milesbudden.com",
+          "email": "miles@budden.net"
+        }
+      ]
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:35:14.139Z"
+  "packageLastFetchedAt": "2017-05-05T14:35:14.139Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "danShumway",
     "id": 3317194,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3317194?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3317194?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/danShumway",
     "htmlUrl": "https://github.com/danShumway",
@@ -60,10 +60,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danShumway/aquarium.git"
-    },
+    "repository": "https://github.com/danShumway/aquarium",
     "keywords": [
       "simulation",
       "ai",
@@ -73,14 +70,16 @@
       "raspberry",
       "pi"
     ],
-    "author": "danShumway",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/danShumway/aquarium/issues"
-    },
     "homepage": "https://github.com/danShumway/aquarium#readme",
     "dependencies": {
       "electron-prebuilt": "^0.33.3"
+    },
+    "other": {
+      "author": "danShumway",
+      "bugs": {
+        "url": "https://github.com/danShumway/aquarium/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/danShumway/aquarium",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:05:02.674Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:21.595Z"
+  "lastFetchedAt": "2017-10-23T18:52:53.043Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:21.595Z",
+  "archived": false
 }

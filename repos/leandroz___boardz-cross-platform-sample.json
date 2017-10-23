@@ -5,7 +5,7 @@
   "owner": {
     "login": "leandroz",
     "id": 4624850,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4624850?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4624850?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/leandroz",
     "htmlUrl": "https://github.com/leandroz",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "thinktecture",
       "id": 1458091,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1458091?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1458091?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/thinktecture",
       "htmlUrl": "https://github.com/thinktecture",
@@ -79,16 +79,16 @@
     "downloadsUrl": "https://api.github.com/repos/thinktecture/boardz-cross-platform-sample/downloads",
     "deploymentsUrl": "https://api.github.com/repos/thinktecture/boardz-cross-platform-sample/deployments",
     "createdAt": "2015-10-01T07:36:51.000Z",
-    "updatedAt": "2017-04-27T08:21:58.000Z",
-    "pushedAt": "2017-03-05T13:33:20.000Z",
+    "updatedAt": "2017-10-14T18:50:05.000Z",
+    "pushedAt": "2017-09-04T05:54:42.000Z",
     "gitUrl": "git://github.com/thinktecture/boardz-cross-platform-sample.git",
     "sshUrl": "git@github.com:thinktecture/boardz-cross-platform-sample.git",
     "cloneUrl": "https://github.com/thinktecture/boardz-cross-platform-sample.git",
     "svnUrl": "https://github.com/thinktecture/boardz-cross-platform-sample",
     "homepage": "",
     "size": 5463,
-    "stargazersCount": 70,
-    "watchersCount": 70,
+    "stargazersCount": 75,
+    "watchersCount": 75,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -97,9 +97,10 @@
     "hasPages": false,
     "forksCount": 30,
     "mirrorUrl": null,
-    "openIssuesCount": 10,
-    "openIssues": 10,
-    "watchers": 70,
+    "archived": false,
+    "openIssuesCount": 9,
+    "openIssues": 9,
+    "watchers": 75,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "thinktecture",
       "id": 1458091,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1458091?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1458091?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/thinktecture",
       "htmlUrl": "https://github.com/thinktecture",
@@ -139,16 +140,16 @@
     "downloadsUrl": "https://api.github.com/repos/thinktecture/boardz-cross-platform-sample/downloads",
     "deploymentsUrl": "https://api.github.com/repos/thinktecture/boardz-cross-platform-sample/deployments",
     "createdAt": "2015-10-01T07:36:51.000Z",
-    "updatedAt": "2017-04-27T08:21:58.000Z",
-    "pushedAt": "2017-03-05T13:33:20.000Z",
+    "updatedAt": "2017-10-14T18:50:05.000Z",
+    "pushedAt": "2017-09-04T05:54:42.000Z",
     "gitUrl": "git://github.com/thinktecture/boardz-cross-platform-sample.git",
     "sshUrl": "git@github.com:thinktecture/boardz-cross-platform-sample.git",
     "cloneUrl": "https://github.com/thinktecture/boardz-cross-platform-sample.git",
     "svnUrl": "https://github.com/thinktecture/boardz-cross-platform-sample",
     "homepage": "",
     "size": 5463,
-    "stargazersCount": 70,
-    "watchersCount": 70,
+    "stargazersCount": 75,
+    "watchersCount": 75,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -157,9 +158,10 @@
     "hasPages": false,
     "forksCount": 30,
     "mirrorUrl": null,
-    "openIssuesCount": 10,
-    "openIssues": 10,
-    "watchers": 70,
+    "archived": false,
+    "openIssuesCount": 9,
+    "openIssues": 9,
+    "watchers": 75,
     "defaultBranch": "master"
   },
   "networkCount": 30,
@@ -170,10 +172,7 @@
     "version": "1.0.0",
     "description": "Sample for demonstrating various aspects of modern cross-platform applications.",
     "main": "gulpfile.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thinktecture/boardz-cross-platform-sample.git"
-    },
+    "repository": "https://github.com/thinktecture/boardz-cross-platform-sample",
     "scripts": {
       "gulp": "gulp",
       "typings": "typings",
@@ -181,10 +180,6 @@
       "postinstall": "typings install",
       "build": "gulp",
       "watch-ios": "gulp [private-web]:watch:no-liveserver & gulp cordova:watch:ios"
-    },
-    "author": "Thinktecture AG <office@thinktecture.com>",
-    "bugs": {
-      "url": "https://github.com/thinktecture/boardz-cross-platform-sample/issues"
     },
     "homepage": "https://github.com/thinktecture/boardz-cross-platform-sample#readme",
     "devDependencies": {
@@ -239,6 +234,12 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Thinktecture AG <office@thinktecture.com>",
+      "bugs": {
+        "url": "https://github.com/thinktecture/boardz-cross-platform-sample/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -287,6 +288,7 @@
   "filename": "leandroz___boardz-cross-platform-sample.json",
   "sourceRepo": "thinktecture/boardz-cross-platform-sample",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:07:52.222Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:49.640Z"
+  "lastFetchedAt": "2017-10-23T19:10:28.907Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:49.640Z",
+  "archived": false
 }

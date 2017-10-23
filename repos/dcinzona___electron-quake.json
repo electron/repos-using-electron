@@ -5,7 +5,7 @@
   "owner": {
     "login": "dcinzona",
     "id": 52411,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/52411?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/52411?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dcinzona",
     "htmlUrl": "https://github.com/dcinzona",
@@ -75,20 +75,13 @@
       "package-mac": "electron-packager ./ Quake --platform=darwin --arch=x64 --overwrite",
       "package-win": "electron-packager ./ Quake --platform=win32 --arch=x64 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dcinzona/electron-quake.git"
-    },
+    "repository": "https://github.com/dcinzona/electron-quake",
     "keywords": [
       "Electron",
       "quake",
       "earthquake"
     ],
-    "author": "Gustavo Tandeciarz",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dcinzona/electron-quake/issues"
-    },
     "homepage": "https://github.com/dcinzona/electron-quake#readme",
     "dependencies": {
       "gulp-typescript": "^2.12.2",
@@ -98,6 +91,12 @@
       "electron-prebuilt": "^0.37.2",
       "electron-packager": "^6.0.0",
       "gulp": "^3.9.1"
+    },
+    "other": {
+      "author": "Gustavo Tandeciarz",
+      "bugs": {
+        "url": "https://github.com/dcinzona/electron-quake/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "dcinzona___electron-quake.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:35.163Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:34.813Z"
+  "lastFetchedAt": "2017-10-23T19:17:27.570Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:34.813Z",
+  "archived": false
 }

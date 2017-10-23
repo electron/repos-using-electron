@@ -5,7 +5,7 @@
   "owner": {
     "login": "mufty",
     "id": 648554,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/648554?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/648554?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mufty",
     "htmlUrl": "https://github.com/mufty",
@@ -81,15 +81,20 @@
       "start": "electron ui/main.js",
       "postinstall": "node_modules/bower/bin/bower install"
     },
-    "maintainers": [
+    "repository": "https://github.com/mufty/raspikids",
+    "owners": [
       {
         "email": "gubriansky@sernato.sk",
         "name": "mufty"
       }
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mufty/raspikids.git"
+    "other": {
+      "maintainers": [
+        {
+          "email": "gubriansky@sernato.sk",
+          "name": "mufty"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -137,6 +142,7 @@
   "svnUrl": "https://github.com/mufty/raspikids",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:03:50.012Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:59.805Z"
+  "lastFetchedAt": "2017-10-23T19:37:16.960Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:59.805Z",
+  "archived": false
 }

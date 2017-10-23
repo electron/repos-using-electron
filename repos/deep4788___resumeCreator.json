@@ -5,7 +5,7 @@
   "owner": {
     "login": "deep4788",
     "id": 4120258,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4120258?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4120258?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/deep4788",
     "htmlUrl": "https://github.com/deep4788",
@@ -76,7 +76,6 @@
     "productName": "ResumeCreator",
     "version": "1.0.0",
     "description": "An application that lets you create your resume with ease; no headaches of formatting.",
-    "author": "Deep Aggarwal <deep.uiuc@gmail.com>",
     "engines": {
       "node": "4.6.0",
       "npm": "2.15.9"
@@ -86,10 +85,7 @@
       "package-osx": "electron-packager . --out=dist --overwrite --platform=darwin --arch=x64 --icon=resources/app-icons/stable/rc.icns && cp -r dist/ResumeCreator-darwin-x64/ResumeCreator.app /Applications",
       "start": "electron app"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/deep4788/resumeCreator"
-    },
+    "repository": "https://github.com/deep4788/resumeCreator",
     "keywords": [
       "electron",
       "node.js",
@@ -106,7 +102,10 @@
       "handlebars": "4.0.6",
       "jsonfile": "2.4.0"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Deep Aggarwal <deep.uiuc@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +132,7 @@
   },
   "filename": "deep4788___resumeCreator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:11.722Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:19.197Z"
+  "lastFetchedAt": "2017-10-23T18:24:13.782Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:19.197Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "JaxGit",
     "id": 11201846,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11201846?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11201846?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JaxGit",
     "htmlUrl": "https://github.com/JaxGit",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "zalmoxisus",
       "id": 7957859,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7957859?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7957859?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/zalmoxisus",
       "htmlUrl": "https://github.com/zalmoxisus",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/zalmoxisus/remotedev-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/zalmoxisus/remotedev-app/deployments",
     "createdAt": "2016-01-05T08:51:59.000Z",
-    "updatedAt": "2017-03-19T13:22:07.000Z",
-    "pushedAt": "2017-04-29T15:08:51.000Z",
+    "updatedAt": "2017-09-24T14:40:24.000Z",
+    "pushedAt": "2017-05-18T06:56:46.000Z",
     "gitUrl": "git://github.com/zalmoxisus/remotedev-app.git",
     "sshUrl": "git@github.com:zalmoxisus/remotedev-app.git",
     "cloneUrl": "https://github.com/zalmoxisus/remotedev-app.git",
     "svnUrl": "https://github.com/zalmoxisus/remotedev-app",
     "homepage": "http://remotedev.io/local",
     "size": 646,
-    "stargazersCount": 63,
-    "watchersCount": 63,
+    "stargazersCount": 71,
+    "watchersCount": 71,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 13,
+    "forksCount": 16,
     "mirrorUrl": null,
-    "openIssuesCount": 3,
-    "openIssues": 3,
-    "watchers": 63,
+    "archived": false,
+    "openIssuesCount": 4,
+    "openIssues": 4,
+    "watchers": 71,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "zalmoxisus",
       "id": 7957859,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7957859?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7957859?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/zalmoxisus",
       "htmlUrl": "https://github.com/zalmoxisus",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/zalmoxisus/remotedev-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/zalmoxisus/remotedev-app/deployments",
     "createdAt": "2016-01-05T08:51:59.000Z",
-    "updatedAt": "2017-03-19T13:22:07.000Z",
-    "pushedAt": "2017-04-29T15:08:51.000Z",
+    "updatedAt": "2017-09-24T14:40:24.000Z",
+    "pushedAt": "2017-05-18T06:56:46.000Z",
     "gitUrl": "git://github.com/zalmoxisus/remotedev-app.git",
     "sshUrl": "git@github.com:zalmoxisus/remotedev-app.git",
     "cloneUrl": "https://github.com/zalmoxisus/remotedev-app.git",
     "svnUrl": "https://github.com/zalmoxisus/remotedev-app",
     "homepage": "http://remotedev.io/local",
     "size": 646,
-    "stargazersCount": 63,
-    "watchersCount": 63,
+    "stargazersCount": 71,
+    "watchersCount": 71,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 13,
+    "forksCount": 16,
     "mirrorUrl": null,
-    "openIssuesCount": 3,
-    "openIssues": 3,
-    "watchers": 63,
+    "archived": false,
+    "openIssuesCount": 4,
+    "openIssues": 4,
+    "watchers": 71,
     "defaultBranch": "master"
   },
-  "networkCount": 13,
+  "networkCount": 16,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -186,17 +188,13 @@
     "files": [
       "lib"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zalmoxisus/remotedev-app"
-    },
+    "repository": "https://github.com/zalmoxisus/remotedev-app",
     "homepage": "https://github.com/zalmoxisus/remotedev-app",
     "keywords": [
       "react",
       "redux",
       "devtools"
     ],
-    "author": "Mihail Diordiev <zalmoxisus@gmail.com> (https://github.com/zalmoxisus)",
     "license": "MIT",
     "devDependencies": {
       "babel-cli": "^6.3.15",
@@ -257,6 +255,9 @@
       "redux-devtools-themes": "^1.0.0",
       "redux-thunk": "^1.0.3",
       "socketcluster-client": "^3.1.1"
+    },
+    "other": {
+      "author": "Mihail Diordiev <zalmoxisus@gmail.com> (https://github.com/zalmoxisus)"
     }
   },
   "packageStatus": 200,
@@ -305,6 +306,7 @@
   "filename": "JaxGit___remotedev-app.json",
   "sourceRepo": "zalmoxisus/remotedev-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:27:14.559Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:35.109Z"
+  "lastFetchedAt": "2017-10-23T18:21:24.614Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:35.109Z",
+  "archived": false
 }

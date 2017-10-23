@@ -5,7 +5,7 @@
   "owner": {
     "login": "BlueWhaleRobot",
     "id": 17775876,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17775876?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17775876?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BlueWhaleRobot",
     "htmlUrl": "https://github.com/BlueWhaleRobot",
@@ -36,7 +36,7 @@
   "deploymentsUrl": "https://api.github.com/repos/BlueWhaleRobot/PathDrawer/deployments",
   "createdAt": "2016-06-28T09:04:59.000Z",
   "updatedAt": "2016-08-10T00:59:42.000Z",
-  "pushedAt": "2016-08-10T01:09:02.000Z",
+  "pushedAt": "2017-06-05T02:11:06.000Z",
   "gitUrl": "git://github.com/BlueWhaleRobot/PathDrawer.git",
   "sshUrl": "git@github.com:BlueWhaleRobot/PathDrawer.git",
   "cloneUrl": "https://github.com/BlueWhaleRobot/PathDrawer.git",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "BlueWhaleRobot",
     "id": 17775876,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17775876?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17775876?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BlueWhaleRobot",
     "htmlUrl": "https://github.com/BlueWhaleRobot",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/BlueWhaleRobot/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 3,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -89,21 +89,14 @@
       "build": "electron-packager . app --overwrite --platform linux --arch x64 --out dist/",
       "deb64": "electron-installer-debian --src dist/app-linux-x64/ --dest dist/installers/ --arch amd64 --config package.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/BlueWhaleRobot/PathDrawer.git"
-    },
+    "repository": "https://github.com/BlueWhaleRobot/PathDrawer",
     "keywords": [
       "path",
       "ORB_SLAM2",
       "map",
       "track"
     ],
-    "author": "BlueWhale",
     "license": "LGPL",
-    "bugs": {
-      "url": "https://github.com/BlueWhaleRobot/PathDrawer/issues"
-    },
     "homepage": "https://github.com/BlueWhaleRobot/PathDrawer#readme",
     "devDependencies": {
       "electron-prebuilt": "1.2.3",
@@ -118,7 +111,13 @@
       "128x128": "resources/Icon128x128.png",
       "256x256": "resources/Icon256x256.png"
     },
-    "bin": "pathdrawer"
+    "bin": "pathdrawer",
+    "other": {
+      "author": "BlueWhale",
+      "bugs": {
+        "url": "https://github.com/BlueWhaleRobot/PathDrawer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +144,7 @@
   },
   "filename": "BlueWhaleRobot___PathDrawer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:24.211Z",
-  "packageLastFetchedAt": "2017-05-05T15:05:36.635Z"
+  "lastFetchedAt": "2017-10-23T20:59:34.640Z",
+  "packageLastFetchedAt": "2017-05-05T15:05:36.635Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "thambley",
     "id": 1507746,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1507746?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1507746?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thambley",
     "htmlUrl": "https://github.com/thambley",
@@ -20,12 +20,12 @@
   "description": "Graphviz editor built using viz.js, ace and electron",
   "fork": false,
   "createdAt": "2016-05-11T02:07:50.000Z",
-  "updatedAt": "2016-11-28T03:03:07.000Z",
-  "pushedAt": "2016-12-10T03:27:29.000Z",
+  "updatedAt": "2017-06-27T20:00:01.000Z",
+  "pushedAt": "2017-09-05T22:02:14.000Z",
   "homepage": null,
-  "size": 11,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 17,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,11 +70,7 @@
       "start": "electron .",
       "build": "node build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/thambley/electron-graphviz-ace-editor.git"
-    },
-    "author": "Todd Hambley",
+    "repository": "https://github.com/thambley/electron-graphviz-ace-editor",
     "license": "MIT",
     "dependencies": {
       "electron-window": "^0.8.1",
@@ -86,10 +82,13 @@
       "electron-packager": "^8.3.0",
       "electron-prebuilt": "^1.4.10"
     },
-    "bugs": {
-      "url": "https://github.com/thambley/electron-graphviz-ace-editor/issues"
-    },
-    "homepage": "https://github.com/thambley/electron-graphviz-ace-editor#readme"
+    "homepage": "https://github.com/thambley/electron-graphviz-ace-editor#readme",
+    "other": {
+      "author": "Todd Hambley",
+      "bugs": {
+        "url": "https://github.com/thambley/electron-graphviz-ace-editor/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/thambley/electron-graphviz-ace-editor",
@@ -136,6 +135,7 @@
   },
   "filename": "thambley___electron-graphviz-ace-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:02.743Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:50.712Z"
+  "lastFetchedAt": "2017-10-23T17:31:51.223Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:50.712Z",
+  "archived": false
 }

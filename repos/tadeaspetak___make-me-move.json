@@ -5,7 +5,7 @@
   "owner": {
     "login": "tadeaspetak",
     "id": 2386087,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2386087?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2386087?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tadeaspetak",
     "htmlUrl": "https://github.com/tadeaspetak",
@@ -80,7 +80,6 @@
       "pack-linux": "npm run build && electron-packager . --overwrite --platform=linux --arch=x64 --icon=src/assets/app-icon/weights.png --prune=true --out=out",
       "pack": "npm run pack-mac && npm run pack-win && npm run pack-linux"
     },
-    "author": "Tadeas Petak <tadeaspetak@gmail.com>",
     "license": "ISC",
     "dependencies": {
       "auto-launch": "^2.0.1",
@@ -105,6 +104,9 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "author": "Tadeas Petak <tadeaspetak@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -132,6 +134,7 @@
   },
   "filename": "tadeaspetak___make-me-move.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:08.691Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:13.332Z"
+  "lastFetchedAt": "2017-10-23T19:12:03.952Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:13.332Z",
+  "archived": false
 }

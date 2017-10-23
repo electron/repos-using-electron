@@ -5,7 +5,7 @@
   "owner": {
     "login": "Nodeer",
     "id": 7587054,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7587054?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7587054?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Nodeer",
     "htmlUrl": "https://github.com/Nodeer",
@@ -74,10 +74,7 @@
       "test": "electron .",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kanomthai/project-pos.git"
-    },
+    "repository": "https://github.com/kanomthai/project-pos",
     "keywords": [
       "pos",
       "point-of-sale",
@@ -85,11 +82,7 @@
       "nodejs",
       "mysql"
     ],
-    "author": "Taweechai Yuenyang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kanomthai/project-pos/issues"
-    },
     "homepage": "https://github.com/kanomthai/project-pos#readme",
     "dependencies": {
       "electron-debug": "^1.0.1",
@@ -106,6 +99,12 @@
       "gulp": "^3.9.1",
       "gulp-livereload": "^3.8.1",
       "gulp-run": "^1.7.1"
+    },
+    "other": {
+      "author": "Taweechai Yuenyang",
+      "bugs": {
+        "url": "https://github.com/kanomthai/project-pos/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "Nodeer___project-pos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:58.681Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:13.672Z"
+  "lastFetchedAt": "2017-10-23T17:33:25.374Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:13.672Z",
+  "archived": false
 }

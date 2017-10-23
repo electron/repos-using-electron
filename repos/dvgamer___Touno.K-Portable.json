@@ -5,7 +5,7 @@
   "owner": {
     "login": "dvgamer",
     "id": 10203425,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10203425?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10203425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dvgamer",
     "htmlUrl": "https://github.com/dvgamer",
@@ -53,24 +53,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   "svnUrl": "https://github.com/dvgamer/Touno.K-Portable",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:45:25.775Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:22.453Z"
+  "lastFetchedAt": "2017-10-23T20:10:05.238Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:22.453Z",
+  "archived": false
 }

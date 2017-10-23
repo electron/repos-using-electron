@@ -5,7 +5,7 @@
   "owner": {
     "login": "acburdine",
     "id": 5167581,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5167581?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5167581?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/acburdine",
     "htmlUrl": "https://github.com/acburdine",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "TryGhost",
       "id": 2178663,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2178663?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2178663?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/TryGhost",
       "htmlUrl": "https://github.com/TryGhost",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/TryGhost/Ghost-Desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/TryGhost/Ghost-Desktop/deployments",
     "createdAt": "2015-09-09T10:40:56.000Z",
-    "updatedAt": "2017-05-04T15:52:54.000Z",
-    "pushedAt": "2017-04-27T23:24:18.000Z",
+    "updatedAt": "2017-10-22T22:35:56.000Z",
+    "pushedAt": "2017-10-20T14:05:32.000Z",
     "gitUrl": "git://github.com/TryGhost/Ghost-Desktop.git",
     "sshUrl": "git@github.com:TryGhost/Ghost-Desktop.git",
     "cloneUrl": "https://github.com/TryGhost/Ghost-Desktop.git",
     "svnUrl": "https://github.com/TryGhost/Ghost-Desktop",
     "homepage": "",
-    "size": 4128,
-    "stargazersCount": 728,
-    "watchersCount": 728,
+    "size": 4341,
+    "stargazersCount": 813,
+    "watchersCount": 813,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 106,
+    "forksCount": 125,
     "mirrorUrl": null,
-    "openIssuesCount": 23,
-    "openIssues": 23,
-    "watchers": 728,
+    "archived": false,
+    "openIssuesCount": 34,
+    "openIssues": 34,
+    "watchers": 813,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "TryGhost",
       "id": 2178663,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/2178663?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2178663?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/TryGhost",
       "htmlUrl": "https://github.com/TryGhost",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/TryGhost/Ghost-Desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/TryGhost/Ghost-Desktop/deployments",
     "createdAt": "2015-09-09T10:40:56.000Z",
-    "updatedAt": "2017-05-04T15:52:54.000Z",
-    "pushedAt": "2017-04-27T23:24:18.000Z",
+    "updatedAt": "2017-10-22T22:35:56.000Z",
+    "pushedAt": "2017-10-20T14:05:32.000Z",
     "gitUrl": "git://github.com/TryGhost/Ghost-Desktop.git",
     "sshUrl": "git@github.com:TryGhost/Ghost-Desktop.git",
     "cloneUrl": "https://github.com/TryGhost/Ghost-Desktop.git",
     "svnUrl": "https://github.com/TryGhost/Ghost-Desktop",
     "homepage": "",
-    "size": 4128,
-    "stargazersCount": 728,
-    "watchersCount": 728,
+    "size": 4341,
+    "stargazersCount": 813,
+    "watchersCount": 813,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 106,
+    "forksCount": 125,
     "mirrorUrl": null,
-    "openIssuesCount": 23,
-    "openIssues": 23,
-    "watchers": 728,
+    "archived": false,
+    "openIssuesCount": 34,
+    "openIssues": 34,
+    "watchers": 813,
     "defaultBranch": "master"
   },
-  "networkCount": 106,
+  "networkCount": 125,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -170,10 +172,6 @@
     "version": "0.6.0",
     "description": "Desktop Client for Ghost",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "homepage": "https://github.com/tryghost/ghost-desktop",
     "scripts": {
       "build": "grunt build",
@@ -193,7 +191,6 @@
     "engines": {
       "node": ">= 5.0"
     },
-    "author": "",
     "license": "MIT",
     "optionalDependencies": {
       "grunt-electron-installer-debian": "^0.3.0"
@@ -277,6 +274,13 @@
       "keytar": "^3.0.0",
       "spellchecker": "3.3.1",
       "is-reachable": "^1.3.0"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -325,6 +329,7 @@
   "filename": "acburdine___Ghost-Desktop.json",
   "sourceRepo": "TryGhost/Ghost-Desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:45:46.897Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:28.752Z"
+  "lastFetchedAt": "2017-10-23T17:13:55.401Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:28.752Z",
+  "archived": false
 }

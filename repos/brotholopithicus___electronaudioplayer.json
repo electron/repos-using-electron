@@ -5,7 +5,7 @@
   "owner": {
     "login": "brotholopithicus",
     "id": 20200231,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20200231?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20200231?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/brotholopithicus",
     "htmlUrl": "https://github.com/brotholopithicus",
@@ -80,7 +80,6 @@
       "pack": "cross-env NODE_ENV=production webpack -p --progress --colors",
       "postinstall": "cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -113,6 +112,9 @@
     },
     "dependencies": {
       "postcss-cssnext": "^2.8.0"
+    },
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -140,6 +142,7 @@
   },
   "filename": "brotholopithicus___electronaudioplayer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:08:19.414Z",
-  "packageLastFetchedAt": "2017-05-05T17:19:33.806Z"
+  "lastFetchedAt": "2017-10-23T18:27:59.266Z",
+  "packageLastFetchedAt": "2017-05-05T17:19:33.806Z",
+  "archived": false
 }

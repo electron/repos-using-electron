@@ -5,7 +5,7 @@
   "owner": {
     "login": "guzmonne",
     "id": 1446448,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1446448?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1446448?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/guzmonne",
     "htmlUrl": "https://github.com/guzmonne",
@@ -60,15 +60,8 @@
       "package:win32": "electron-packager . --platform=win32 --arch=ia32",
       "package:linux": "electron-packager . --platform=linux --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/guzmonne/electron-workshop.git"
-    },
-    "author": "",
+    "repository": "https://github.com/guzmonne/electron-workshop",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/guzmonne/electron-workshop/issues"
-    },
     "homepage": "https://github.com/guzmonne/electron-workshop#readme",
     "dependencies": {
       "electron-prebuilt": "^0.37.6"
@@ -78,6 +71,12 @@
       "electron-mocha": "^1.2.0",
       "electron-packager": "^6.0.2",
       "electron-reload": "^0.2.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/guzmonne/electron-workshop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "guzmonne___electron-workshop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:42.993Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:56.920Z"
+  "lastFetchedAt": "2017-10-23T18:01:25.677Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:56.920Z",
+  "archived": false
 }

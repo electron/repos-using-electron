@@ -5,7 +5,7 @@
   "owner": {
     "login": "gh0st42",
     "id": 1264131,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1264131?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1264131?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gh0st42",
     "htmlUrl": "https://github.com/gh0st42",
@@ -70,7 +70,6 @@
     "version": "1.0.0",
     "description": "A simple desktop app for Serval",
     "main": "app.js",
-    "author": "Lars Baumgaertner",
     "dependencies": {
       "pretty-bytes": "^2.0.1",
       "shelljs": "^0.7.0"
@@ -80,6 +79,9 @@
     },
     "scripts": {
       "start": "electron ."
+    },
+    "other": {
+      "author": "Lars Baumgaertner"
     }
   },
   "packageStatus": 200,
@@ -107,6 +109,7 @@
   },
   "filename": "gh0st42___ServalDesktopApp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:31:49.759Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:02.987Z"
+  "lastFetchedAt": "2017-10-23T17:38:57.973Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:02.987Z",
+  "archived": false
 }

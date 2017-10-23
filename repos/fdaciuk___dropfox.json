@@ -5,7 +5,7 @@
   "owner": {
     "login": "fdaciuk",
     "id": 487669,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/487669?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/487669?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fdaciuk",
     "htmlUrl": "https://github.com/fdaciuk",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "developit",
       "id": 105127,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/105127?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/105127?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/developit",
       "htmlUrl": "https://github.com/developit",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/developit/dropfox/downloads",
     "deploymentsUrl": "https://api.github.com/repos/developit/dropfox/deployments",
     "createdAt": "2016-04-06T23:54:59.000Z",
-    "updatedAt": "2017-04-23T18:53:04.000Z",
-    "pushedAt": "2016-08-14T15:52:18.000Z",
+    "updatedAt": "2017-10-09T20:18:38.000Z",
+    "pushedAt": "2017-05-09T14:49:39.000Z",
     "gitUrl": "git://github.com/developit/dropfox.git",
     "sshUrl": "git@github.com:developit/dropfox.git",
     "cloneUrl": "https://github.com/developit/dropfox.git",
     "svnUrl": "https://github.com/developit/dropfox",
     "homepage": "",
-    "size": 509,
-    "stargazersCount": 43,
-    "watchersCount": 43,
+    "size": 511,
+    "stargazersCount": 70,
+    "watchersCount": 70,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 7,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 2,
     "openIssues": 2,
-    "watchers": 43,
+    "watchers": 70,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "developit",
       "id": 105127,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/105127?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/105127?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/developit",
       "htmlUrl": "https://github.com/developit",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/developit/dropfox/downloads",
     "deploymentsUrl": "https://api.github.com/repos/developit/dropfox/deployments",
     "createdAt": "2016-04-06T23:54:59.000Z",
-    "updatedAt": "2017-04-23T18:53:04.000Z",
-    "pushedAt": "2016-08-14T15:52:18.000Z",
+    "updatedAt": "2017-10-09T20:18:38.000Z",
+    "pushedAt": "2017-05-09T14:49:39.000Z",
     "gitUrl": "git://github.com/developit/dropfox.git",
     "sshUrl": "git@github.com:developit/dropfox.git",
     "cloneUrl": "https://github.com/developit/dropfox.git",
     "svnUrl": "https://github.com/developit/dropfox",
     "homepage": "",
-    "size": 509,
-    "stargazersCount": 43,
-    "watchersCount": 43,
+    "size": 511,
+    "stargazersCount": 70,
+    "watchersCount": 70,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 7,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 2,
     "openIssues": 2,
-    "watchers": 43,
+    "watchers": 70,
     "defaultBranch": "master"
   },
-  "networkCount": 3,
+  "networkCount": 7,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -173,11 +175,6 @@
     "license": "MIT",
     "main": "build/electron/index.js",
     "repository": "developit/dropfox",
-    "author": {
-      "name": "Jason Miller",
-      "email": "jason@developit.ca",
-      "url": "http://jasonformat.com"
-    },
     "engines": {
       "node": ">=4"
     },
@@ -242,6 +239,13 @@
       "url-loader": "^0.5.6",
       "webpack": "^1.12.8",
       "webpack-dev-server": "^1.12.1"
+    },
+    "other": {
+      "author": {
+        "name": "Jason Miller",
+        "email": "jason@developit.ca",
+        "url": "http://jasonformat.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -290,6 +294,7 @@
   "svnUrl": "https://github.com/fdaciuk/dropfox",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:04:44.903Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:11.654Z"
+  "lastFetchedAt": "2017-10-23T17:27:47.893Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:11.654Z",
+  "archived": false
 }

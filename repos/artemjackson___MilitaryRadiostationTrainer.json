@@ -5,7 +5,7 @@
   "owner": {
     "login": "artemjackson",
     "id": 3768221,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3768221?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3768221?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/artemjackson",
     "htmlUrl": "https://github.com/artemjackson",
@@ -78,7 +78,6 @@
       "win-pack": "electron-packager build/ RadiostationTrainer --platform=win32 --arch=all --version=0.33.3 --overwrite",
       "ales": "electron-packager SldrTrainer/ SldrTrainer --platform=win32 --arch=ia32 --version=0.33.3 --overwrite"
     },
-    "author": "Artsiom Stsepanishchau",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^5.8.25",
@@ -113,6 +112,9 @@
     "browserify-shim": {
       "angular": "global:angular",
       "moment": "global:moment"
+    },
+    "other": {
+      "author": "Artsiom Stsepanishchau"
     }
   },
   "packageStatus": 200,
@@ -141,6 +143,7 @@
   "filename": "artemjackson___MilitaryRadiostationTrainer.json",
   "sourceRepo": "artemjackson/MilitaryNavigationEquipmentTrainer",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:30.962Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:44.215Z"
+  "lastFetchedAt": "2017-10-23T17:36:23.694Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:44.215Z",
+  "archived": false
 }

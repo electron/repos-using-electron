@@ -5,7 +5,7 @@
   "owner": {
     "login": "ManRueda",
     "id": 2576444,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2576444?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2576444?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ManRueda",
     "htmlUrl": "https://github.com/ManRueda",
@@ -91,10 +91,7 @@
       "watchLess": "nodemon --watch app/styles -e less -x \"npm run less\"",
       "remotedev": "remotedev --hostname=localhost --port=6868"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/manrueda/electro-dojo.git"
-    },
+    "repository": "https://github.com/manrueda/electro-dojo",
     "keywords": [
       "dojo",
       "coding",
@@ -102,12 +99,8 @@
       "electron",
       "node"
     ],
-    "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
     "private": true,
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/manrueda/electro-dojo/issues"
-    },
     "homepage": "https://github.com/manrueda/electro-dojo#readme",
     "postinstall": "install-app-deps",
     "devDependencies": {
@@ -129,6 +122,12 @@
       "app-bundle-id": "ar.com.manrueda.code-dojo",
       "app-category-type": "public.app-category.other",
       "compression": "store"
+    },
+    "other": {
+      "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/manrueda/electro-dojo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   "filename": "ManRueda___electro-dojo.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:22:15.622Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:37.270Z"
+  "lastFetchedAt": "2017-10-23T19:28:00.916Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:37.270Z",
+  "archived": false
 }

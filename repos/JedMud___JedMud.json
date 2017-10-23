@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "jednew",
     "version": "0.0.0",
@@ -91,7 +91,6 @@
       "rpg",
       "electron"
     ],
-    "author": "Tanel Tammik",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^7.4.0",
@@ -115,6 +114,9 @@
       "telnet-stream": "0.0.4",
       "ternary-stream": "^2.0.0",
       "vue": "^1.0.26"
+    },
+    "other": {
+      "author": "Tanel Tammik"
     }
   },
   "packageStatus": 200,
@@ -142,6 +144,6 @@
   },
   "filename": "JedMud___JedMud.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:44.176Z",
+  "lastFetchedAt": "2017-10-23T17:38:37.897Z",
   "packageLastFetchedAt": "2017-05-05T17:02:22.050Z"
 }

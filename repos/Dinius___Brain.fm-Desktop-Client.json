@@ -5,7 +5,7 @@
   "owner": {
     "login": "Dinius",
     "id": 1847857,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1847857?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1847857?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Dinius",
     "htmlUrl": "https://github.com/Dinius",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Dinius/Brain.fm-Desktop-Client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Dinius/Brain.fm-Desktop-Client/deployments",
   "createdAt": "2015-11-27T07:44:54.000Z",
-  "updatedAt": "2017-02-14T21:50:27.000Z",
+  "updatedAt": "2017-10-23T17:14:50.000Z",
   "pushedAt": "2017-03-22T15:48:20.000Z",
   "gitUrl": "git://github.com/Dinius/Brain.fm-Desktop-Client.git",
   "sshUrl": "git@github.com:Dinius/Brain.fm-Desktop-Client.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Dinius/Brain.fm-Desktop-Client",
   "homepage": null,
   "size": 58,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 14,
+  "watchersCount": 14,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 11,
+  "watchers": 14,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -80,12 +80,11 @@
       "start": "electron main.js",
       "package": "electron-packager . brainfm --all --out=./out --overwrite --icon=./brainfm.ico"
     },
-    "author": "Dinius",
     "license": "MIT",
     "homepage": "https://brain.fm",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
+    "repository": "https://github.com/atom/electron-quick-start",
+    "other": {
+      "author": "Dinius"
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   },
   "filename": "Dinius___Brain.fm-Desktop-Client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:17.460Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:40.544Z"
+  "lastFetchedAt": "2017-10-23T17:37:27.815Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:40.544Z",
+  "archived": false
 }

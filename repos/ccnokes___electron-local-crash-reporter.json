@@ -5,7 +5,7 @@
   "owner": {
     "login": "ccnokes",
     "id": 1610343,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1610343?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1610343?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ccnokes",
     "htmlUrl": "https://github.com/ccnokes",
@@ -17,24 +17,24 @@
     "type": "User"
   },
   "private": false,
-  "description": "(WIP) Simplifies running mini-breakpad-server in local development, alongside your electron app.",
+  "description": "Simplifies running mini-breakpad-server in local development, alongside your electron app.",
   "fork": false,
   "createdAt": "2016-08-17T03:42:43.000Z",
-  "updatedAt": "2017-04-23T18:14:32.000Z",
-  "pushedAt": "2016-10-11T23:02:50.000Z",
+  "updatedAt": "2017-09-17T18:34:30.000Z",
+  "pushedAt": "2017-06-26T03:55:55.000Z",
   "homepage": "",
-  "size": 22,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 23,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 3,
+  "forksCount": 1,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -54,11 +54,7 @@
       "test": "electron test/index.js",
       "clear": "rm -rf mini-breakpad-server/pool"
     },
-    "author": "Cameron Nokes",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ccnokes/electron-local-crash-reporter"
-    },
+    "repository": "https://github.com/ccnokes/electron-local-crash-reporter",
     "keywords": [
       "electron",
       "crash",
@@ -76,6 +72,9 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.4.2"
+    },
+    "other": {
+      "author": "Cameron Nokes"
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "ccnokes___electron-local-crash-reporter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:37:04.392Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:29.629Z"
+  "lastFetchedAt": "2017-10-23T19:36:48.186Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:29.629Z",
+  "archived": false
 }

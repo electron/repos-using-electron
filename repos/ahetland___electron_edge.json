@@ -5,7 +5,7 @@
   "owner": {
     "login": "ahetland",
     "id": 3541706,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3541706?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3541706?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ahetland",
     "htmlUrl": "https://github.com/ahetland",
@@ -70,19 +70,18 @@
     "version": "1.0.0",
     "description": "From Ch 5 in Developing an Electron App - Edge",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ahetland/electron_edge.git"
-    },
+    "repository": "https://github.com/ahetland/electron_edge",
     "scripts": {
       "start": "electron . ",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "A. Lunch and M. Gfeller - copied by myself",
     "license": "ISC",
     "dependencies": {
       "electron": "^1.4.*",
       "marked": "^0.3.6"
+    },
+    "other": {
+      "author": "A. Lunch and M. Gfeller - copied by myself"
     }
   },
   "packageStatus": 200,
@@ -110,6 +109,7 @@
   },
   "filename": "ahetland___electron_edge.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:09.715Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:01.423Z"
+  "lastFetchedAt": "2017-10-23T19:20:06.905Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:01.423Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kevin329",
     "id": 7793728,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7793728?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7793728?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kevin329",
     "htmlUrl": "https://github.com/kevin329",
@@ -77,15 +77,8 @@
       "build_ia32": "electron-packager . XiaoFang --platform=win32 --arch=ia32 --asar=false --ignore=node_modules/electron-* ",
       "build_linux": "electron-packager . XiaoFang --platform=linux --arch=x64 --asar=true --ignore=node_modules/electron-* "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kevin329/XiaoFang.git"
-    },
-    "author": "Kevin Kchu, Paul Li",
+    "repository": "https://github.com/kevin329/XiaoFang",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/kevin329/XiaoFang/issues"
-    },
     "homepage": "https://github.com/kevin329/XiaoFang#readme",
     "devDependencies": {
       "cheerio": "^0.22.0",
@@ -98,6 +91,12 @@
       "electron": "^1.3.5",
       "nightmare": "^2.7.0",
       "electron-prebuilt": "^1.3.5"
+    },
+    "other": {
+      "author": "Kevin Kchu, Paul Li",
+      "bugs": {
+        "url": "https://github.com/kevin329/XiaoFang/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "kevin329___XiaoFang.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:42.920Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:48.435Z"
+  "lastFetchedAt": "2017-10-23T20:49:54.550Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:48.435Z",
+  "archived": false
 }

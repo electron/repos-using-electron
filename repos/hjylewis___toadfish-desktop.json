@@ -5,7 +5,7 @@
   "owner": {
     "login": "hjylewis",
     "id": 6494737,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6494737?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6494737?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hjylewis",
     "htmlUrl": "https://github.com/hjylewis",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/hjylewis/toadfish-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hjylewis/toadfish-desktop/deployments",
   "createdAt": "2016-06-15T04:27:12.000Z",
-  "updatedAt": "2016-06-15T04:47:50.000Z",
+  "updatedAt": "2017-05-14T18:51:16.000Z",
   "pushedAt": "2016-07-09T15:22:02.000Z",
   "gitUrl": "git://github.com/hjylewis/toadfish-desktop.git",
   "sshUrl": "git@github.com:hjylewis/toadfish-desktop.git",
@@ -74,15 +74,8 @@
       "start": "electron .",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hjylewis/toadfish-desktop.git"
-    },
-    "author": "Henry Lewis",
+    "repository": "https://github.com/hjylewis/toadfish-desktop",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/hjylewis/toadfish-desktop/issues"
-    },
     "homepage": "https://github.com/hjylewis/toadfish-desktop#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -96,6 +89,12 @@
       "request": "^2.72.0",
       "toadfish-frame": "git+https://github.com/hjylewis/toadfish-frame.git",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "author": "Henry Lewis",
+      "bugs": {
+        "url": "https://github.com/hjylewis/toadfish-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "hjylewis___toadfish-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:47:56.830Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:43.070Z"
+  "lastFetchedAt": "2017-10-23T18:12:26.595Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:43.070Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Shellvis",
     "productName": "Shellvis",
@@ -55,7 +55,6 @@
       "start": "NODE_ENV=development electron .",
       "pack:osx": "electron-packager . $npm_package_productName --app-version=$npm_package_version --out=builds --ignore='builds' --platform=darwin --arch=x64 --osx-sign='Developer ID Application: Jean-Marc Skopek (7Q2MYVD7V7)' --icon=public/icon.icns --overwrite"
     },
-    "author": "Jean-Marc Skopek",
     "license": "ISC",
     "dependencies": {
       "body-parser": "^1.15.2",
@@ -76,6 +75,9 @@
     "devDependencies": {
       "electron": "^1.3.6",
       "electron-reload": "^1.0.0"
+    },
+    "other": {
+      "author": "Jean-Marc Skopek"
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,6 @@
   },
   "filename": "jskopek___visualizer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:10.557Z",
+  "lastFetchedAt": "2017-10-23T18:46:13.212Z",
   "packageLastFetchedAt": "2017-05-05T14:50:11.309Z"
 }

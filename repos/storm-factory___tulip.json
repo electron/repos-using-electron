@@ -5,7 +5,7 @@
   "owner": {
     "login": "storm-factory",
     "id": 6035246,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6035246?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6035246?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/storm-factory",
     "htmlUrl": "https://github.com/storm-factory",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/storm-factory/tulip/downloads",
   "deploymentsUrl": "https://api.github.com/repos/storm-factory/tulip/deployments",
   "createdAt": "2015-04-22T21:59:23.000Z",
-  "updatedAt": "2017-04-12T13:44:06.000Z",
-  "pushedAt": "2017-05-04T04:34:57.000Z",
+  "updatedAt": "2017-06-12T21:14:54.000Z",
+  "pushedAt": "2017-07-13T14:53:45.000Z",
   "gitUrl": "git://github.com/storm-factory/tulip.git",
   "sshUrl": "git@github.com:storm-factory/tulip.git",
   "cloneUrl": "https://github.com/storm-factory/tulip.git",
   "svnUrl": "https://github.com/storm-factory/tulip",
   "homepage": "",
-  "size": 4323,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 4320,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 1,
+  "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 2,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/gpl-2.0",
     "featured": false
   },
-  "networkCount": 1,
+  "networkCount": 3,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/storm-factory/tulip.git"
-    },
+    "repository": "https://github.com/storm-factory/tulip",
     "keywords": [
       "Electron",
       "roadbook",
       "rally",
       "tulip"
     ],
-    "author": "Drew Mitchell",
     "license": "GPL-2.0",
-    "bugs": {
-      "url": "https://github.com/storm-factory/tulip/issues"
-    },
     "homepage": "https://github.com/storm-factory/tulip",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "tape": "^4.6.3"
+    },
+    "other": {
+      "author": "Drew Mitchell",
+      "bugs": {
+        "url": "https://github.com/storm-factory/tulip/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "storm-factory___tulip.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:44.015Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:29.683Z"
+  "lastFetchedAt": "2017-10-23T19:04:15.077Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:29.683Z",
+  "archived": false
 }

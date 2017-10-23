@@ -5,7 +5,7 @@
   "owner": {
     "login": "WillStreeter",
     "id": 10928886,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10928886?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10928886?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/WillStreeter",
     "htmlUrl": "https://github.com/WillStreeter",
@@ -71,19 +71,12 @@
     "description": "A typescript module using  smith-kyle's 'electron-process' node module",
     "main": "dist/src/index.js",
     "typings": "dist/typings/src/index.d.ts",
-    "directories": {
-      "test": "test"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/WillStreeter/electron-process-ipc.git"
-    },
+    "repository": "https://github.com/WillStreeter/electron-process-ipc",
     "keywords": [
       "typescript",
       "electron",
       "ipcRender"
     ],
-    "author": "will.streeter@gmail.com",
     "license": "MIT",
     "dependencies": {
       "@types/bluebird": "^3.0.35",
@@ -129,9 +122,6 @@
       "supertest-as-promised": "^3.2.0",
       "typescript": "^1.8.10"
     },
-    "bugs": {
-      "url": "https://github.com/WillStreeter/electron-process-ipc/issues"
-    },
     "homepage": "https://github.com/WillStreeter/electron-process-ipc#readme",
     "scripts": {
       "test": "node_modules/.bin/gulp test",
@@ -139,6 +129,15 @@
       "start": "node .bin/server.js",
       "build": "rm -rf dist/src && tsc",
       "prepublish": "typings install && npm run build"
+    },
+    "other": {
+      "author": "will.streeter@gmail.com",
+      "bugs": {
+        "url": "https://github.com/WillStreeter/electron-process-ipc/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,7 @@
   },
   "filename": "WillStreeter___electron-process-ipc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:51.604Z",
-  "packageLastFetchedAt": "2017-05-04T22:23:10.224Z"
+  "lastFetchedAt": "2017-10-23T18:26:35.120Z",
+  "packageLastFetchedAt": "2017-05-04T22:23:10.224Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kenokabe",
     "id": 1316994,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1316994?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1316994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kenokabe",
     "htmlUrl": "https://github.com/kenokabe",
@@ -93,20 +93,19 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kenokabe/screen-lock-electron.git"
-    },
+    "repository": "https://github.com/kenokabe/screen-lock-electron",
     "keywords": [
       "ScreenLock",
       "Electron"
     ],
-    "author": "Ken Okabe",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kenokabe/screen-lock-electron/issues"
-    },
-    "homepage": "https://github.com/kenokabe/screen-lock-electron#readme"
+    "homepage": "https://github.com/kenokabe/screen-lock-electron#readme",
+    "other": {
+      "author": "Ken Okabe",
+      "bugs": {
+        "url": "https://github.com/kenokabe/screen-lock-electron/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +132,7 @@
   },
   "filename": "kenokabe___screen-lock-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:40.984Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:05.101Z"
+  "lastFetchedAt": "2017-10-23T17:39:41.616Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:05.101Z",
+  "archived": false
 }

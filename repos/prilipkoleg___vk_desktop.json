@@ -5,7 +5,7 @@
   "owner": {
     "login": "prilipkoleg",
     "id": 7167794,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7167794?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7167794?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prilipkoleg",
     "htmlUrl": "https://github.com/prilipkoleg",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/prilipkoleg/vk_desktop/deployments",
   "createdAt": "2016-03-09T17:49:30.000Z",
   "updatedAt": "2016-03-09T18:05:53.000Z",
-  "pushedAt": "2016-04-14T12:52:05.000Z",
+  "pushedAt": "2017-07-18T11:55:56.000Z",
   "gitUrl": "git://github.com/prilipkoleg/vk_desktop.git",
   "sshUrl": "git@github.com:prilipkoleg/vk_desktop.git",
   "cloneUrl": "https://github.com/prilipkoleg/vk_desktop.git",
   "svnUrl": "https://github.com/prilipkoleg/vk_desktop",
   "homepage": null,
-  "size": 18,
+  "size": 19,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "HTML",
@@ -69,7 +69,6 @@
     "name": "vk_desktop",
     "version": "0.0.1",
     "description": "vk api + polymer",
-    "author": "Oleg Prilipko <prilipkoleg@gmail.com>",
     "main": "index.js",
     "scripts": {
       "start": "electron .",
@@ -82,7 +81,10 @@
     "dependencies": {
       "request": "^2.64.0"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Oleg Prilipko <prilipkoleg@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,6 +111,7 @@
   },
   "filename": "prilipkoleg___vk_desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:55.445Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:52.080Z"
+  "lastFetchedAt": "2017-10-23T20:48:02.273Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:52.080Z",
+  "archived": false
 }

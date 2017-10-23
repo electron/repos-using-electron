@@ -5,7 +5,7 @@
   "owner": {
     "login": "asafyish",
     "id": 1331750,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1331750?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1331750?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/asafyish",
     "htmlUrl": "https://github.com/asafyish",
@@ -55,16 +55,9 @@
       "coverage": "istanbul cover _mocha -- -R spec",
       "lint": "eslint index.js app/*.js lib/*.js test/*.js"
     },
-    "author": "Asaf Yishai <asaf@yishai.info>",
     "license": "MIT",
     "homepage": "https://github.com/asafyish/screenshot-pool",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/asafyish/screenshot-pool"
-    },
-    "bugs": {
-      "url": "https://github.com/asafyish/screenshot-pool/issues"
-    },
+    "repository": "https://github.com/asafyish/screenshot-pool",
     "keywords": [
       "electron",
       "screenshot",
@@ -90,6 +83,12 @@
     },
     "engines": {
       "node": ">=5.0.0"
+    },
+    "other": {
+      "author": "Asaf Yishai <asaf@yishai.info>",
+      "bugs": {
+        "url": "https://github.com/asafyish/screenshot-pool/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "svnUrl": "https://github.com/asafyish/screenshot-pool",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:30:52.158Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:56.217Z"
+  "lastFetchedAt": "2017-10-23T19:11:45.959Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:56.217Z",
+  "archived": false
 }

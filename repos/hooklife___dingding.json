@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "super-ding",
     "productName": "SuperDing",
@@ -78,11 +78,6 @@
     "description": "My stylish app",
     "license": "MIT",
     "repository": "hooklife/super-ding",
-    "author": {
-      "name": "hooklife",
-      "email": "miaogaopeng123@gmail.com",
-      "url": "hooklife.site"
-    },
     "scripts": {
       "test": "xo",
       "start": "electron .",
@@ -118,6 +113,13 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "hooklife",
+        "email": "miaogaopeng123@gmail.com",
+        "url": "hooklife.site"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +147,6 @@
   },
   "filename": "hooklife___dingding.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:11.495Z",
+  "lastFetchedAt": "2017-10-23T17:53:32.473Z",
   "packageLastFetchedAt": "2017-05-05T15:39:35.932Z"
 }

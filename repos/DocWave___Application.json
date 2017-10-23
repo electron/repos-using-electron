@@ -5,7 +5,7 @@
   "owner": {
     "login": "DocWave",
     "id": 17088746,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17088746?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17088746?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DocWave",
     "htmlUrl": "https://github.com/DocWave",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/DocWave/Application/downloads",
   "deploymentsUrl": "https://api.github.com/repos/DocWave/Application/deployments",
   "createdAt": "2016-02-03T19:58:22.000Z",
-  "updatedAt": "2017-03-20T08:35:26.000Z",
+  "updatedAt": "2017-08-22T13:11:11.000Z",
   "pushedAt": "2016-03-07T16:45:11.000Z",
   "gitUrl": "git://github.com/DocWave/Application.git",
   "sshUrl": "git@github.com:DocWave/Application.git",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "DocWave",
     "id": 17088746,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17088746?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17088746?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DocWave",
     "htmlUrl": "https://github.com/DocWave",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/DocWave/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -91,20 +91,13 @@
       "package-mac": "electron-packager . DocWave --platform=darwin --arch=x64 --version=0.36.8 --overwrite --prune --icon=icons/DocWave1.icns",
       "package-linux": "electron-packager . DocWave --platform=linux --arch=x64 --version=0.36.8  --overwrite --prune --icon=icons/DocWave1.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DocWave/Doc-tor"
-    },
+    "repository": "https://github.com/DocWave/Doc-tor",
     "keywords": [
       "Documentation",
       "Searchable",
       "JavaScript"
     ],
-    "author": "Dan Levin, Cruz Welborn, Lea Fox",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/DocWave/Doc-tor/issues"
-    },
     "homepage": "https://github.com/DocWave/Doc-tor#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.0.15",
@@ -129,6 +122,12 @@
       "react-tap-event-plugin": "^0.2.2",
       "request": "^2.69.0",
       "yauzl": "^2.4.1"
+    },
+    "other": {
+      "author": "Dan Levin, Cruz Welborn, Lea Fox",
+      "bugs": {
+        "url": "https://github.com/DocWave/Doc-tor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "DocWave___Application.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:08:43.778Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:53.851Z"
+  "lastFetchedAt": "2017-10-23T20:15:53.187Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:53.851Z",
+  "archived": false
 }

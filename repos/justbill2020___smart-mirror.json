@@ -5,7 +5,7 @@
   "owner": {
     "login": "justbill2020",
     "id": 13437861,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13437861?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13437861?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/justbill2020",
     "htmlUrl": "https://github.com/justbill2020",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "evancohen",
       "id": 1198365,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1198365?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1198365?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/evancohen",
       "htmlUrl": "https://github.com/evancohen",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/evancohen/smart-mirror/downloads",
     "deploymentsUrl": "https://api.github.com/repos/evancohen/smart-mirror/deployments",
     "createdAt": "2015-09-12T02:41:53.000Z",
-    "updatedAt": "2017-05-04T12:19:54.000Z",
-    "pushedAt": "2017-05-03T22:55:30.000Z",
+    "updatedAt": "2017-10-23T14:41:56.000Z",
+    "pushedAt": "2017-10-10T03:55:03.000Z",
     "gitUrl": "git://github.com/evancohen/smart-mirror.git",
     "sshUrl": "git@github.com:evancohen/smart-mirror.git",
     "cloneUrl": "https://github.com/evancohen/smart-mirror.git",
     "svnUrl": "https://github.com/evancohen/smart-mirror",
     "homepage": "http://smart-mirror.io",
-    "size": 12017,
-    "stargazersCount": 1885,
-    "watchersCount": 1885,
+    "size": 12815,
+    "stargazersCount": 2010,
+    "watchersCount": 2010,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 606,
+    "forksCount": 633,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 1885,
+    "archived": false,
+    "openIssuesCount": 23,
+    "openIssues": 23,
+    "watchers": 2010,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "evancohen",
       "id": 1198365,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1198365?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1198365?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/evancohen",
       "htmlUrl": "https://github.com/evancohen",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/evancohen/smart-mirror/downloads",
     "deploymentsUrl": "https://api.github.com/repos/evancohen/smart-mirror/deployments",
     "createdAt": "2015-09-12T02:41:53.000Z",
-    "updatedAt": "2017-05-04T12:19:54.000Z",
-    "pushedAt": "2017-05-03T22:55:30.000Z",
+    "updatedAt": "2017-10-23T14:41:56.000Z",
+    "pushedAt": "2017-10-10T03:55:03.000Z",
     "gitUrl": "git://github.com/evancohen/smart-mirror.git",
     "sshUrl": "git@github.com:evancohen/smart-mirror.git",
     "cloneUrl": "https://github.com/evancohen/smart-mirror.git",
     "svnUrl": "https://github.com/evancohen/smart-mirror",
     "homepage": "http://smart-mirror.io",
-    "size": 12017,
-    "stargazersCount": 1885,
-    "watchersCount": 1885,
+    "size": 12815,
+    "stargazersCount": 2010,
+    "watchersCount": 2010,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 606,
+    "forksCount": 633,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 1885,
+    "archived": false,
+    "openIssuesCount": 23,
+    "openIssues": 23,
+    "watchers": 2010,
     "defaultBranch": "master"
   },
-  "networkCount": 606,
+  "networkCount": 633,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -179,21 +181,14 @@
       "motion": "sudo node motion.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Smart Mirror",
       "IoT",
       "Voice Control",
       "DIY"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "angular-i18n": "^1.5.5",
@@ -212,6 +207,12 @@
       "sonus": "^0.1.2",
       "johnny-five": "0.10.6",
       "raspi-io": "7.1.0"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -260,6 +261,7 @@
   "svnUrl": "https://github.com/justbill2020/smart-mirror",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T13:05:41.947Z",
-  "packageLastFetchedAt": "2017-05-05T15:05:27.638Z"
+  "lastFetchedAt": "2017-10-23T17:51:57.451Z",
+  "packageLastFetchedAt": "2017-05-05T15:05:27.638Z",
+  "archived": false
 }

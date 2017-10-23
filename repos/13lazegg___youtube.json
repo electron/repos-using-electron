@@ -5,7 +5,7 @@
   "owner": {
     "login": "13lazegg",
     "id": 9555644,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9555644?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9555644?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/13lazegg",
     "htmlUrl": "https://github.com/13lazegg",
@@ -75,18 +75,11 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "pack:osx": "npm run build:osx && electron-builder \"dist/osx/Loopline Systems.app\" --platform=osx --out=\"dist/osx\" --config=packager.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/13lazegg/youtube.git"
-    },
+    "repository": "https://github.com/13lazegg/youtube",
     "bin": {
       "electron-builder": "cli.js"
     },
-    "author": "Rodrigo Gonzalez Godoy",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/13lazegg/youtube/issues"
-    },
     "homepage": "https://github.com/13lazegg/youtube",
     "devDependencies": {
       "electron-prebuilt": "^0.31.2"
@@ -95,6 +88,12 @@
       "angular": "^1.4.5",
       "angular-local-storage": "^0.2.2",
       "electron-builder": "^2.0.0"
+    },
+    "other": {
+      "author": "Rodrigo Gonzalez Godoy",
+      "bugs": {
+        "url": "https://github.com/13lazegg/youtube/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "13lazegg___youtube.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:08.990Z",
-  "packageLastFetchedAt": "2017-05-05T14:52:36.581Z"
+  "lastFetchedAt": "2017-10-23T18:36:40.220Z",
+  "packageLastFetchedAt": "2017-05-05T14:52:36.581Z",
+  "archived": false
 }

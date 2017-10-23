@@ -5,7 +5,7 @@
   "owner": {
     "login": "GitHubDiom",
     "id": 19339686,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19339686?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19339686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GitHubDiom",
     "htmlUrl": "https://github.com/GitHubDiom",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "ahonn",
       "id": 9718515,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/9718515?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/9718515?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ahonn",
       "htmlUrl": "https://github.com/ahonn",
@@ -115,8 +115,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 1,
@@ -129,7 +130,7 @@
     "owner": {
       "login": "ahonn",
       "id": 9718515,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/9718515?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/9718515?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ahonn",
       "htmlUrl": "https://github.com/ahonn",
@@ -175,14 +176,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 1,
     "defaultBranch": "master"
   },
-  "networkCount": 2,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -201,7 +203,6 @@
       "postinstall": "cd app && npm install",
       "vue:route": "node tasks/vue/route.js"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -232,7 +233,10 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -260,6 +264,7 @@
   "filename": "GitHubDiom___landleg-electron.json",
   "sourceRepo": "ahonn/landleg-electron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:24.913Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:15.831Z"
+  "lastFetchedAt": "2017-10-23T21:03:38.710Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:15.831Z",
+  "archived": false
 }

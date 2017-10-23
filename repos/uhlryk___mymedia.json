@@ -5,7 +5,7 @@
   "owner": {
     "login": "uhlryk",
     "id": 6841095,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6841095?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6841095?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uhlryk",
     "htmlUrl": "https://github.com/uhlryk",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-01-25T20:26:36.000Z",
   "updatedAt": "2016-01-25T20:30:28.000Z",
-  "pushedAt": "2017-05-02T10:16:30.000Z",
+  "pushedAt": "2017-08-09T21:37:03.000Z",
   "homepage": null,
-  "size": 269,
+  "size": 1740,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 38,
-  "openIssues": 38,
+  "openIssuesCount": 45,
+  "openIssues": 45,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -41,7 +41,13 @@
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
@@ -52,10 +58,7 @@
     "keywords": [],
     "main": "src/main.js",
     "homepage": "https://github.com/uhlryk/mymedia",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/uhlryk/mymedia.git"
-    },
+    "repository": "https://github.com/uhlryk/mymedia",
     "scripts": {
       "test": "cross-env NODE_ENV=test mocha --compilers js:babel-register --recursive --require ./test/setup.js test/**/*.spec.js",
       "test-watch": "npm test -- --watch",
@@ -74,10 +77,6 @@
     },
     "electronVersion": "v0.36.4",
     "license": "MIT",
-    "author": "Krzysztof Sztompka <sztompka.krzysztof@gmail.com>",
-    "bugs": {
-      "url": "https://github.com/uhlryk/mymedia/issues"
-    },
     "devDependencies": {
       "asar": "^0.11.0",
       "babel-core": "^6.9.0",
@@ -173,6 +172,12 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": "Krzysztof Sztompka <sztompka.krzysztof@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/uhlryk/mymedia/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -220,6 +225,7 @@
   },
   "filename": "uhlryk___mymedia.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:00.836Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:56.616Z"
+  "lastFetchedAt": "2017-10-23T20:51:41.855Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:56.616Z",
+  "archived": false
 }

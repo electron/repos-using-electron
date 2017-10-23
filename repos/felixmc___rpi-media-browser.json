@@ -5,7 +5,7 @@
   "owner": {
     "login": "felixmc",
     "id": 667540,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/667540?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/667540?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/felixmc",
     "htmlUrl": "https://github.com/felixmc",
@@ -80,11 +80,7 @@
       "build:prod": "webpack --progress --colors -p",
       "clean": "rm -rf frontend/dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/felixmc/rpi-media-browser.git"
-    },
-    "author": "Felix Milea-Ciobanu",
+    "repository": "https://github.com/felixmc/rpi-media-browser",
     "license": "MIT",
     "homepage": "https://felixmilea.com",
     "devDependencies": {
@@ -144,6 +140,9 @@
       "redux-promise": "^0.5.3",
       "redux-thunk": "^2.1.0",
       "walk": "^2.3.9"
+    },
+    "other": {
+      "author": "Felix Milea-Ciobanu"
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "felixmc___rpi-media-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:30:05.813Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:30.028Z"
+  "lastFetchedAt": "2017-10-23T17:12:45.189Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:30.028Z",
+  "archived": false
 }

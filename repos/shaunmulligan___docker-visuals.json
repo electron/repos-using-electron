@@ -5,7 +5,7 @@
   "owner": {
     "login": "shaunmulligan",
     "id": 3915043,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3915043?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3915043?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shaunmulligan",
     "htmlUrl": "https://github.com/shaunmulligan",
@@ -53,21 +53,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
@@ -77,6 +70,12 @@
       "pty.js": "^0.3.0",
       "resin-sdk": "^4.0.0",
       "term.js": "0.0.7"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "filename": "shaunmulligan___docker-visuals.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:21:35.536Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:07.805Z"
+  "lastFetchedAt": "2017-10-23T17:38:46.940Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:07.805Z",
+  "archived": false
 }

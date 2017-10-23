@@ -5,7 +5,7 @@
   "owner": {
     "login": "chadrien",
     "id": 1788218,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1788218?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1788218?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chadrien",
     "htmlUrl": "https://github.com/chadrien",
@@ -69,20 +69,13 @@
     "name": "frodo",
     "version": "1.0.0",
     "description": "Universal World of Warcraft addon manager",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chadrien/frodo.git"
-    },
+    "repository": "https://github.com/chadrien/frodo",
     "keywords": [
       "wow",
       "addon",
       "warcraft"
     ],
-    "author": "Hadrien de Cuzey <chadrien@chadrien.fr>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chadrien/frodo/issues"
-    },
     "homepage": "https://github.com/chadrien/frodo#readme",
     "scripts": {
       "prebuild": "rm -rf dist",
@@ -117,6 +110,12 @@
       "tslint": "^4.4.2",
       "typescript": "^2.2.1",
       "webpack": "^2.2.1"
+    },
+    "other": {
+      "author": "Hadrien de Cuzey <chadrien@chadrien.fr>",
+      "bugs": {
+        "url": "https://github.com/chadrien/frodo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "filename": "chadrien___frodo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:05.513Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:48.128Z"
+  "lastFetchedAt": "2017-10-23T21:03:35.595Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:48.128Z",
+  "archived": false
 }

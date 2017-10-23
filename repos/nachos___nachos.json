@@ -5,7 +5,7 @@
   "owner": {
     "login": "nachos",
     "id": 10851533,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10851533?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10851533?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nachos",
     "htmlUrl": "https://github.com/nachos",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nachos",
     "id": 10851533,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10851533?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10851533?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nachos",
     "htmlUrl": "https://github.com/nachos",
@@ -78,19 +78,12 @@
     "pre-commit": [
       "lint"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nachos/nachos.git"
-    },
+    "repository": "https://github.com/nachos/nachos",
     "keywords": [
       "launcher",
       "desktop"
     ],
-    "author": "Nachos team",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nachos/nachos/issues"
-    },
     "homepage": "https://github.com/nachos/nachos",
     "devDependencies": {
       "del": "^2.0.2",
@@ -135,6 +128,12 @@
     },
     "engines": {
       "electron": "0.34.1"
+    },
+    "other": {
+      "author": "Nachos team",
+      "bugs": {
+        "url": "https://github.com/nachos/nachos/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +181,7 @@
   "svnUrl": "https://github.com/nachos/nachos",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:18:51.103Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:19.890Z"
+  "lastFetchedAt": "2017-10-23T18:21:30.526Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:19.890Z",
+  "archived": false
 }

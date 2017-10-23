@@ -5,7 +5,7 @@
   "owner": {
     "login": "v12",
     "id": 1483691,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1483691?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1483691?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/v12",
     "htmlUrl": "https://github.com/v12",
@@ -80,21 +80,14 @@
       "start": "DEBUG=* electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/v12/electron-vk-auth-demo.git"
-    },
+    "repository": "https://github.com/v12/electron-vk-auth-demo",
     "keywords": [
       "vk",
       "vk.com",
       "oauth2",
       "electron"
     ],
-    "author": "Nikita Khomyakov <dr.evil@krtn.eu>",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/v12/electron-vk-auth-demo/issues"
-    },
     "homepage": "https://github.com/v12/electron-vk-auth-demo#readme",
     "dependencies": {
       "debug": "^2.2.0",
@@ -102,6 +95,12 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.1"
+    },
+    "other": {
+      "author": "Nikita Khomyakov <dr.evil@krtn.eu>",
+      "bugs": {
+        "url": "https://github.com/v12/electron-vk-auth-demo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "v12___electron-vk-auth-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:07:01.521Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:48.650Z"
+  "lastFetchedAt": "2017-10-23T18:43:59.967Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:48.650Z",
+  "archived": false
 }

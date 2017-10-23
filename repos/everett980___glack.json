@@ -5,7 +5,7 @@
   "owner": {
     "login": "everett980",
     "id": 3471184,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3471184?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3471184?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/everett980",
     "htmlUrl": "https://github.com/everett980",
@@ -53,21 +53,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "=0.35.4"
@@ -76,6 +69,12 @@
       "electron-prebuilt": "^0.36.5",
       "github-api": "^0.10.7",
       "superagent": "=1.5.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   "svnUrl": "https://github.com/everett980/glack",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:16:27.857Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:56.953Z"
+  "lastFetchedAt": "2017-10-23T17:06:07.969Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:56.953Z",
+  "archived": false
 }

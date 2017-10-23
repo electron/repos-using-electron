@@ -6,7 +6,7 @@
   "owner": {
     "login": "trikanna",
     "id": 141816,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/141816?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/141816?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/trikanna",
     "htmlUrl": "https://github.com/trikanna",
@@ -78,7 +78,6 @@
       "web": "open \"http://localhost:8080\"",
       "build": "rimraf builds && electron-packager . Lugano --platform=darwin --out=builds --version-string.CompanyName=Santiago Camelo --icon=icon.icns --protocol=['trikanna'] --protocol-name=trikanna && npm run serve & npm run web"
     },
-    "author": "Santiago Camelo <trikanna@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "concurrently": "^3.1.0",
@@ -92,6 +91,9 @@
     "dependencies": {
       "electron-is-dev": "^0.1.2",
       "lodash": "^4.17.2"
+    },
+    "other": {
+      "author": "Santiago Camelo <trikanna@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -118,6 +120,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:09.952Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:25.719Z"
+  "lastFetchedAt": "2017-10-23T18:56:07.252Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:25.719Z",
+  "archived": false
 }

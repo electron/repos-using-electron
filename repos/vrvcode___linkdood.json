@@ -6,7 +6,7 @@
   "owner": {
     "login": "vrvcode",
     "id": 21145562,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21145562?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21145562?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vrvcode",
     "htmlUrl": "https://github.com/vrvcode",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "vrvcode",
     "id": 21145562,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21145562?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21145562?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vrvcode",
     "htmlUrl": "https://github.com/vrvcode",
@@ -81,7 +81,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:14:59.798Z",
+  "lastFetchedAt": "2017-10-23T20:25:47.967Z",
   "packageJSON": {
     "name": "dood",
     "version": "0.0.0",
@@ -99,7 +99,6 @@
       "pack:renderer": "cross-env NODE_ENV=production webpack -p --progress --colors --config webpack.renderer.config.js",
       "postinstall": "cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.24.0",
@@ -138,8 +137,12 @@
       "postcss-smart-import": "^0.6.10",
       "precss": "^1.4.0",
       "pug": "^2.0.0-beta11"
+    },
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:57:45.655Z"
+  "packageLastFetchedAt": "2017-05-04T22:57:45.655Z",
+  "archived": false
 }

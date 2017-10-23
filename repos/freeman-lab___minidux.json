@@ -5,7 +5,7 @@
   "owner": {
     "login": "freeman-lab",
     "id": 3387500,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3387500?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3387500?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/freeman-lab",
     "htmlUrl": "https://github.com/freeman-lab",
@@ -20,12 +20,12 @@
   "description": "just like redux but tiny",
   "fork": false,
   "createdAt": "2016-03-04T00:02:10.000Z",
-  "updatedAt": "2017-04-30T17:38:41.000Z",
+  "updatedAt": "2017-09-25T14:23:37.000Z",
   "pushedAt": "2016-04-19T22:54:18.000Z",
   "homepage": "",
   "size": 19,
-  "stargazersCount": 69,
-  "watchersCount": 69,
+  "stargazersCount": 81,
+  "watchersCount": 81,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 69,
+  "watchers": 81,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 2,
-  "subscribersCount": 5,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "minidux",
@@ -61,15 +61,8 @@
       "test:testron": "browserify test.js | testron | tap-spec",
       "test": "standard && npm run test:node && npm run test:testron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/freeman-lab/minidux.git"
-    },
-    "author": "sethvincent",
+    "repository": "https://github.com/freeman-lab/minidux",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/freeman-lab/minidux/issues"
-    },
     "homepage": "https://github.com/freeman-lab/minidux#readme",
     "devDependencies": {
       "browserify": "^13.0.0",
@@ -83,6 +76,12 @@
       "composite": "^0.2.3",
       "is-plain-object": "^2.0.1",
       "xtend": "^4.0.1"
+    },
+    "other": {
+      "author": "sethvincent",
+      "bugs": {
+        "url": "https://github.com/freeman-lab/minidux/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "freeman-lab___minidux.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:34.565Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:09.975Z"
+  "lastFetchedAt": "2017-10-23T18:11:07.582Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:09.975Z",
+  "archived": false
 }

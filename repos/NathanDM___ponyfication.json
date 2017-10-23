@@ -5,7 +5,7 @@
   "owner": {
     "login": "NathanDM",
     "id": 1478039,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1478039?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1478039?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NathanDM",
     "htmlUrl": "https://github.com/NathanDM",
@@ -82,7 +82,6 @@
       "lint": "./node_modules/.bin/eslint .",
       "build": "electron-packager main.js --out=dist --app-version=$npm_package_version --prune --asar --overwrite --all"
     },
-    "author": "Nathan DAMIE",
     "license": "MIT",
     "devDependencies": {
       "browserify": "^13.0.0",
@@ -114,6 +113,9 @@
         "reactify",
         "envify"
       ]
+    },
+    "other": {
+      "author": "Nathan DAMIE"
     }
   },
   "packageStatus": 200,
@@ -141,6 +143,7 @@
   },
   "filename": "NathanDM___ponyfication.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:06:35.746Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:35.731Z"
+  "lastFetchedAt": "2017-10-23T17:29:06.946Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:35.731Z",
+  "archived": false
 }

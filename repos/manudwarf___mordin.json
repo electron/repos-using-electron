@@ -5,7 +5,7 @@
   "owner": {
     "login": "manudwarf",
     "id": 397332,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/397332?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/397332?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/manudwarf",
     "htmlUrl": "https://github.com/manudwarf",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/manudwarf/mordin.git"
-    },
+    "repository": "https://github.com/manudwarf/mordin",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Emmanuel Bourgerie <manu@bourgerie.fr>",
     "license": "Apache",
-    "bugs": {
-      "url": "https://github.com/manudwarf/mordin/issues"
-    },
     "homepage": "https://github.com/manudwarf/mordin#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Emmanuel Bourgerie <manu@bourgerie.fr>",
+      "bugs": {
+        "url": "https://github.com/manudwarf/mordin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "manudwarf___mordin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:27.879Z",
-  "packageLastFetchedAt": "2017-05-05T11:36:29.417Z"
+  "lastFetchedAt": "2017-10-23T18:16:16.382Z",
+  "packageLastFetchedAt": "2017-05-05T11:36:29.417Z",
+  "archived": false
 }

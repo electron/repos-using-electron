@@ -5,7 +5,7 @@
   "owner": {
     "login": "MathijsvVelde",
     "id": 7791034,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7791034?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7791034?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MathijsvVelde",
     "htmlUrl": "https://github.com/MathijsvVelde",
@@ -75,10 +75,6 @@
     "name": "grunt-electron-packager-installer",
     "version": "0.0.1",
     "description": "Package Electron apps. Grunt task to electron-prebuilt, electron-packager and electron-builder as easy as direct cli.",
-    "author": {
-      "name": "Mathijs van Velde",
-      "email": "mathijs.v.velde@gmail.com"
-    },
     "engines": {
       "node": "^5.0.0",
       "npm": "^3.8.0"
@@ -104,10 +100,7 @@
       "grunt-contrib-jshint": "^1.0.0"
     },
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MathijsvVelde/grunt-electron-packager-installer.git"
-    },
+    "repository": "https://github.com/MathijsvVelde/grunt-electron-packager-installer",
     "keywords": [
       "gruntplugin",
       "electron",
@@ -137,7 +130,13 @@
       "linux",
       "debian",
       "rpm"
-    ]
+    ],
+    "other": {
+      "author": {
+        "name": "Mathijs van Velde",
+        "email": "mathijs.v.velde@gmail.com"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -164,6 +163,7 @@
   },
   "filename": "MathijsvVelde___grunt-electron-packager-installer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:40.598Z",
-  "packageLastFetchedAt": "2017-05-05T17:13:19.037Z"
+  "lastFetchedAt": "2017-10-23T18:05:04.829Z",
+  "packageLastFetchedAt": "2017-05-05T17:13:19.037Z",
+  "archived": false
 }

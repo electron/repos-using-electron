@@ -5,7 +5,7 @@
   "owner": {
     "login": "shug0",
     "id": 2612496,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2612496?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2612496?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shug0",
     "htmlUrl": "https://github.com/shug0",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/shug0/Awesomidi/downloads",
   "deploymentsUrl": "https://api.github.com/repos/shug0/Awesomidi/deployments",
   "createdAt": "2016-11-02T15:32:48.000Z",
-  "updatedAt": "2017-04-06T09:53:01.000Z",
+  "updatedAt": "2017-10-18T01:58:33.000Z",
   "pushedAt": "2016-12-21T18:36:59.000Z",
   "gitUrl": "git://github.com/shug0/Awesomidi.git",
   "sshUrl": "git@github.com:shug0/Awesomidi.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/shug0/Awesomidi",
   "homepage": "",
   "size": 123645,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -124,17 +124,8 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
-    },
-    "author": {
-      "name": "Thomas Alberola",
-      "email": "thomas@needacoffee.fr",
-      "url": "https://github.com/shug0/Awesomidi"
     },
     "devDependencies": {
       "asar": "^0.12.3",
@@ -213,6 +204,17 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Thomas Alberola",
+        "email": "thomas@needacoffee.fr",
+        "url": "https://github.com/shug0/Awesomidi"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -240,6 +242,7 @@
   },
   "filename": "shug0___Awesomidi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:27.609Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:04.159Z"
+  "lastFetchedAt": "2017-10-23T18:15:57.219Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:04.159Z",
+  "archived": false
 }

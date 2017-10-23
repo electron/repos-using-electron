@@ -5,7 +5,7 @@
   "owner": {
     "login": "enlight",
     "id": 233003,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/233003?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/233003?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/enlight",
     "htmlUrl": "https://github.com/enlight",
@@ -76,31 +76,30 @@
     "version": "0.1.0",
     "description": "Monkey patches node-pre-gyp to make it work with Electron.",
     "main": "lib/index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/enlight/electron-node-pre-gyp-fix.git"
-    },
+    "repository": "https://github.com/enlight/electron-node-pre-gyp-fix",
     "keywords": [
       "electron",
       "node-pre-gyp"
     ],
-    "author": "Vadim Macagon <vadim.macagon@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/enlight/electron-node-pre-gyp-fix/issues"
-    },
     "homepage": "https://github.com/enlight/electron-node-pre-gyp-fix#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.5",
       "electron-rebuild": "^1.1.2"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Vadim Macagon <vadim.macagon@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/enlight/electron-node-pre-gyp-fix/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +126,7 @@
   },
   "filename": "enlight___electron-node-pre-gyp-fix.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:56.966Z",
-  "packageLastFetchedAt": "2017-05-04T22:49:12.642Z"
+  "lastFetchedAt": "2017-10-23T18:50:21.605Z",
+  "packageLastFetchedAt": "2017-05-04T22:49:12.642Z",
+  "archived": false
 }

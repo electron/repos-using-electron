@@ -5,7 +5,7 @@
   "owner": {
     "login": "styoe",
     "id": 5688789,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5688789?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5688789?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/styoe",
     "htmlUrl": "https://github.com/styoe",
@@ -81,11 +81,7 @@
       "postinstall": "",
       "package": "electron-packager ./app --platform=win32 --arch=ia32 --prune --out=./dist --version=1.0.2 --overwrite --icon=./build/icon.ico --ignore=node_modules/babel --ignore=node_modules/gulp --ignore=node_modules/node-sass"
     },
-    "author": "Led",
     "license": "",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "",
     "devDependencies": {
       "asar": "^0.11.0",
@@ -114,6 +110,12 @@
       "win": {
         "iconUrl": ""
       }
+    },
+    "other": {
+      "author": "Led",
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +143,7 @@
   },
   "filename": "styoe___lacus-one.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:31:31.331Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:07.999Z"
+  "lastFetchedAt": "2017-10-23T17:57:33.064Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:07.999Z",
+  "archived": false
 }

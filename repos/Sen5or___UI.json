@@ -5,7 +5,7 @@
   "owner": {
     "login": "Sen5or",
     "id": 23194880,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23194880?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23194880?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Sen5or",
     "htmlUrl": "https://github.com/Sen5or",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Sen5or",
     "id": 23194880,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23194880?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23194880?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Sen5or",
     "htmlUrl": "https://github.com/Sen5or",
@@ -96,22 +96,14 @@
       "snyk-protect": "snyk protect",
       "prepublish": "npm run snyk-protect"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MichMich/MagicMirror.git"
-    },
+    "repository": "https://github.com/MichMich/MagicMirror",
     "keywords": [
       "magic mirror",
       "smart mirror",
       "mirror UI",
       "modular"
     ],
-    "author": "Michael Teeuw",
-    "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MichMich/MagicMirror/issues"
-    },
     "homepage": "https://github.com/MichMich/MagicMirror#readme",
     "devDependencies": {
       "electron": "^1.4.10",
@@ -138,7 +130,14 @@
       "valid-url": "latest",
       "walk": "latest"
     },
-    "snyk": true
+    "snyk": true,
+    "other": {
+      "author": "Michael Teeuw",
+      "bugs": {
+        "url": "https://github.com/MichMich/MagicMirror/issues"
+      },
+      "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -166,6 +165,7 @@
   "filename": "Sen5or___UI.json",
   "sourceRepo": "Deamon12/Smart_mirror_ui",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:36:19.711Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:17.812Z"
+  "lastFetchedAt": "2017-10-23T19:08:13.760Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:17.812Z",
+  "archived": false
 }

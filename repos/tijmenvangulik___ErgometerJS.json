@@ -5,7 +5,7 @@
   "owner": {
     "login": "tijmenvangulik",
     "id": 2781110,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2781110?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2781110?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tijmenvangulik",
     "htmlUrl": "https://github.com/tijmenvangulik",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/tijmenvangulik/ErgometerJS/downloads",
   "deploymentsUrl": "https://api.github.com/repos/tijmenvangulik/ErgometerJS/deployments",
   "createdAt": "2016-01-07T19:02:25.000Z",
-  "updatedAt": "2017-04-30T22:18:28.000Z",
-  "pushedAt": "2017-04-10T19:32:43.000Z",
+  "updatedAt": "2017-08-27T03:17:32.000Z",
+  "pushedAt": "2017-07-23T09:36:26.000Z",
   "gitUrl": "git://github.com/tijmenvangulik/ErgometerJS.git",
   "sshUrl": "git@github.com:tijmenvangulik/ErgometerJS.git",
   "cloneUrl": "https://github.com/tijmenvangulik/ErgometerJS.git",
   "svnUrl": "https://github.com/tijmenvangulik/ErgometerJS",
   "homepage": "",
-  "size": 2847,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "size": 2860,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 11,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 3,
+  "networkCount": 5,
   "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
@@ -107,10 +107,7 @@
       "build:webbluetooth": "node_modules/.bin/tsc -p demos/webbluetooth ",
       "build": "npm run build:api && npm run build:copy_api && npm run build:simplecordova && npm run build:simple_electron  && npm run build:recording && npm run build:webbluetooth"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tijmenvangulik/MobileErgometer"
-    }
+    "repository": "https://github.com/tijmenvangulik/MobileErgometer"
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +134,7 @@
   },
   "filename": "tijmenvangulik___ErgometerJS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:24.839Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:16.649Z"
+  "lastFetchedAt": "2017-10-23T19:04:58.187Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:16.649Z",
+  "archived": false
 }

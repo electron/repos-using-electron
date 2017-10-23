@@ -184,22 +184,18 @@
   },
   "networkCount": 280,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Marp",
     "version": "0.0.9",
     "description": "Markdown Presentation Writer (Powered by Electron)",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yhatt/marp"
-    },
+    "repository": "https://github.com/yhatt/marp",
     "main": "main.js",
     "scripts": {
       "start": "gulp compile && electron . --development",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Yuki Hattori",
     "license": "MIT",
     "devDependencies": {
       "coffee-script": "^1.10.0",
@@ -239,6 +235,9 @@
       "path": "^0.12.7",
       "photon": "github:connors/photon",
       "twemoji": "github:twitter/twemoji#v2.2.1"
+    },
+    "other": {
+      "author": "Yuki Hattori"
     }
   },
   "packageStatus": 200,
@@ -267,6 +266,6 @@
   "filename": "Comi9___marp.json",
   "sourceRepo": "angelborroy-ks/mdslide",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:06:53.098Z",
+  "lastFetchedAt": "2017-10-23T17:41:35.593Z",
   "packageLastFetchedAt": "2017-05-04T22:32:42.608Z"
 }

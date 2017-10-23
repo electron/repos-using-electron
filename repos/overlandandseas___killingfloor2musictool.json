@@ -5,7 +5,7 @@
   "owner": {
     "login": "overlandandseas",
     "id": 660813,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/660813?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/660813?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/overlandandseas",
     "htmlUrl": "https://github.com/overlandandseas",
@@ -61,14 +61,10 @@
       "clean": "rm -rf ./dist && rm ./data/updated_data.json",
       "build": "npm run clean && electron-packager ./ \"ProjectDemonHunterHunter\" --out=dist/win --platform=win32 --arch=x64 --version=0.36.0 --icon=assets/win/kfthingy.ico"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/overlandandseas/projectdemonhunterhunter.git"
-    },
+    "repository": "https://github.com/overlandandseas/projectdemonhunterhunter",
     "keywords": [
       "Electron"
     ],
-    "author": "Lucas Overland",
     "license": "WTFPL",
     "devDependencies": {
       "electron-packager": "5.2.1",
@@ -85,6 +81,9 @@
       "tar": "^2.2.1",
       "targz": "^1.0.1",
       "unzip": "^0.1.11"
+    },
+    "other": {
+      "author": "Lucas Overland"
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "overlandandseas___killingfloor2musictool.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:03.662Z",
-  "packageLastFetchedAt": "2017-05-04T22:10:53.413Z"
+  "lastFetchedAt": "2017-10-23T18:33:37.947Z",
+  "packageLastFetchedAt": "2017-05-04T22:10:53.413Z",
+  "archived": false
 }

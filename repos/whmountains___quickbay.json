@@ -5,7 +5,7 @@
   "owner": {
     "login": "whmountains",
     "id": 8680147,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8680147?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8680147?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/whmountains",
     "htmlUrl": "https://github.com/whmountains",
@@ -54,15 +54,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/whmountains/quickbay.git"
-    },
-    "author": "",
+    "repository": "https://github.com/whmountains/quickbay",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/whmountains/quickbay/issues"
-    },
     "homepage": "https://github.com/whmountains/quickbay#readme",
     "devDependencies": {
       "babel": "^5.8.29",
@@ -75,6 +68,12 @@
       "lodash": "^3.10.1",
       "react": "^0.14.0",
       "react-dom": "^0.14.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/whmountains/quickbay/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "whmountains___quickbay.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:49.691Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:26.794Z"
+  "lastFetchedAt": "2017-10-23T20:44:52.083Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:26.794Z",
+  "archived": false
 }

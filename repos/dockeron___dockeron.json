@@ -6,7 +6,7 @@
   "owner": {
     "login": "dockeron",
     "id": 26657153,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/26657153?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/26657153?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dockeron",
     "htmlUrl": "https://github.com/dockeron",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/dockeron/dockeron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dockeron/dockeron/deployments",
   "createdAt": "2017-03-24T17:01:23.000Z",
-  "updatedAt": "2017-04-22T21:56:24.000Z",
-  "pushedAt": "2017-04-24T21:18:22.000Z",
+  "updatedAt": "2017-10-23T08:27:49.000Z",
+  "pushedAt": "2017-09-23T12:52:50.000Z",
   "gitUrl": "git://github.com/dockeron/dockeron.git",
   "sshUrl": "git@github.com:dockeron/dockeron.git",
   "cloneUrl": "https://github.com/dockeron/dockeron.git",
   "svnUrl": "https://github.com/dockeron/dockeron",
   "homepage": "",
-  "size": 2925,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 4596,
+  "stargazersCount": 135,
+  "watchersCount": 135,
   "language": "Vue",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
-  "hasPages": false,
-  "forksCount": 0,
+  "hasPages": true,
+  "forksCount": 13,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 135,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "dockeron",
     "id": 26657153,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/26657153?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/26657153?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dockeron",
     "htmlUrl": "https://github.com/dockeron",
@@ -84,10 +84,10 @@
     "receivedEventsUrl": "https://api.github.com/users/dockeron/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "networkCount": 13,
+  "subscribersCount": 12,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:32:28.816Z",
+  "lastFetchedAt": "2017-10-23T19:23:41.297Z",
   "packageJSON": {
     "name": "dockeron",
     "version": "0.0.21",
@@ -104,10 +104,7 @@
       "pack:renderer": "cross-env NODE_ENV=production webpack -p --progress --colors --config webpack.renderer.config.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dockeron/dockeron.git"
-    },
+    "repository": "https://github.com/dockeron/dockeron",
     "keywords": [
       "electorn",
       "vue.js",
@@ -149,22 +146,7 @@
         ]
       }
     },
-    "contributors": [
-      {
-        "name": "Chang Liu",
-        "email": "fluency.03@gmail.com",
-        "url": "fluency03.com"
-      },
-      {
-        "name": "Pingping Lin",
-        "email": "luckylin2014@gmail.com",
-        "url": "pingping-lin.com"
-      }
-    ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dockeron/dockeron/issues"
-    },
     "devDependencies": {
       "babel-core": "^6.8.0",
       "babel-eslint": "^7.0.0",
@@ -206,8 +188,26 @@
       "webpack-dev-server": "^2.3.0",
       "webpack-node-externals": "^1.5.4"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dockeron/dockeron/issues"
+      },
+      "contributors": [
+        {
+          "name": "Chang Liu",
+          "email": "fluency.03@gmail.com",
+          "url": "fluency03.com"
+        },
+        {
+          "name": "Pingping Lin",
+          "email": "luckylin2014@gmail.com",
+          "url": "pingping-lin.com"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:05:31.593Z"
+  "packageLastFetchedAt": "2017-05-05T15:05:31.593Z",
+  "archived": false
 }

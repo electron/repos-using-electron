@@ -5,7 +5,7 @@
   "owner": {
     "login": "webuildsg",
     "id": 7611825,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7611825?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7611825?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/webuildsg",
     "htmlUrl": "https://github.com/webuildsg",
@@ -20,12 +20,12 @@
   "description": ":computer: a tiny os x menubar app to display the upcoming events and recently updated repos",
   "fork": false,
   "createdAt": "2015-05-25T11:15:52.000Z",
-  "updatedAt": "2017-01-07T01:17:58.000Z",
+  "updatedAt": "2017-07-24T05:59:46.000Z",
   "pushedAt": "2016-12-04T23:12:47.000Z",
   "homepage": "https://github.com/webuildsg/osx/releases",
   "size": 1069,
-  "stargazersCount": 37,
-  "watchersCount": 37,
+  "stargazersCount": 38,
+  "watchersCount": 38,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 4,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 37,
+  "watchers": 38,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "webuildsg",
     "id": 7611825,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7611825?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7611825?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/webuildsg",
     "htmlUrl": "https://github.com/webuildsg",
@@ -76,13 +76,7 @@
       "start": "electron .",
       "test": "jshint index.js --config .jshintrc"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/webuildsg/osx"
-    },
-    "bugs": {
-      "url": "https://github.com/webuildsg/osx/issues"
-    },
+    "repository": "https://github.com/webuildsg/osx",
     "keywords": [
       "electron",
       "iojs",
@@ -108,6 +102,11 @@
       "electron-packager": "~4.2.0",
       "electron-prebuilt": "~0.28.3",
       "jshint": "^2.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/webuildsg/osx/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   "svnUrl": "https://github.com/webuildsg/osx",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:12.997Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:55.611Z"
+  "lastFetchedAt": "2017-10-23T18:38:24.393Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:55.611Z",
+  "archived": false
 }

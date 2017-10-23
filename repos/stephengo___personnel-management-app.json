@@ -5,7 +5,7 @@
   "owner": {
     "login": "stephengo",
     "id": 10548393,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10548393?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10548393?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stephengo",
     "htmlUrl": "https://github.com/stephengo",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for personnel-management-app goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -83,7 +79,6 @@
     "engines": {
       "node": ">= 0.12.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.5",
@@ -156,6 +151,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +185,7 @@
   },
   "filename": "stephengo___personnel-management-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:13.253Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:13.511Z"
+  "lastFetchedAt": "2017-10-23T17:12:46.203Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:13.511Z",
+  "archived": false
 }

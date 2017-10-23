@@ -5,7 +5,7 @@
   "owner": {
     "login": "allencoded",
     "id": 5386804,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5386804?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5386804?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/allencoded",
     "htmlUrl": "https://github.com/allencoded",
@@ -74,19 +74,12 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/allencoded/electron-roll20.git"
-    },
+    "repository": "https://github.com/allencoded/electron-roll20",
     "keywords": [
       "roll20",
       "electron"
     ],
-    "author": "Allen Hendricks",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/allencoded/electron-roll20/issues"
-    },
     "homepage": "https://github.com/allencoded/electron-roll20#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
@@ -101,6 +94,12 @@
         "babel": "npm:babel-core@^5.8.24",
         "babel-runtime": "npm:babel-runtime@^5.8.24",
         "core-js": "npm:core-js@^1.1.4"
+      }
+    },
+    "other": {
+      "author": "Allen Hendricks",
+      "bugs": {
+        "url": "https://github.com/allencoded/electron-roll20/issues"
       }
     }
   },
@@ -129,6 +128,7 @@
   },
   "filename": "allencoded___electron-roll20.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:50.447Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:45.086Z"
+  "lastFetchedAt": "2017-10-23T17:04:54.686Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:45.086Z",
+  "archived": false
 }

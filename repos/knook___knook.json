@@ -5,7 +5,7 @@
   "owner": {
     "login": "knook",
     "id": 18286810,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/18286810?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/18286810?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/knook",
     "htmlUrl": "https://github.com/knook",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "knook",
     "id": 18286810,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/18286810?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/18286810?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/knook",
     "htmlUrl": "https://github.com/knook",
@@ -88,15 +88,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/knook/knook.git"
-    },
-    "author": {
-      "name": "Alexandre Lagrange-Cetto, Olivier Graziano, Olivier Marin",
-      "email": "",
-      "url": ""
-    },
+    "repository": "https://github.com/knook/knook",
     "license": "MIT",
     "keywords": [
       "electron",
@@ -177,6 +169,13 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Alexandre Lagrange-Cetto, Olivier Graziano, Olivier Marin",
+        "email": "",
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -224,6 +223,7 @@
   "svnUrl": "https://github.com/knook/knook",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:42:47.158Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:02.029Z"
+  "lastFetchedAt": "2017-10-23T20:24:00.836Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:02.029Z",
+  "archived": false
 }

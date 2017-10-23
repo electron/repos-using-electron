@@ -5,7 +5,7 @@
   "owner": {
     "login": "khornberg",
     "id": 3442051,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3442051?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3442051?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/khornberg",
     "htmlUrl": "https://github.com/khornberg",
@@ -20,21 +20,21 @@
   "description": "Shows docker's status in the menu bar",
   "fork": false,
   "createdAt": "2015-10-20T13:20:04.000Z",
-  "updatedAt": "2017-03-24T00:03:10.000Z",
+  "updatedAt": "2017-09-17T15:04:24.000Z",
   "pushedAt": "2016-12-02T21:22:49.000Z",
   "homepage": null,
   "size": 376,
-  "stargazersCount": 24,
-  "watchersCount": 24,
+  "stargazersCount": 29,
+  "watchersCount": 29,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 24,
+  "watchers": 29,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "featured": true
   },
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -72,11 +72,13 @@
       "dist": "build",
       "start": "electron ."
     },
-    "author": "Kyle Hornberg <kyle.hornberg@gmail.com>",
     "license": "MIT",
     "build": {
       "appId": "com.electron.docker-indicator",
       "category": "development.tools"
+    },
+    "other": {
+      "author": "Kyle Hornberg <kyle.hornberg@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -124,6 +126,7 @@
   },
   "filename": "khornberg___docker-indicator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:50.578Z",
-  "packageLastFetchedAt": "2017-05-05T14:47:18.945Z"
+  "lastFetchedAt": "2017-10-23T20:19:40.306Z",
+  "packageLastFetchedAt": "2017-05-05T14:47:18.945Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "twitter-client",
     "version": "0.0.1",
@@ -60,7 +60,6 @@
       "build:main": "webpack --config ./webpack.config.js --color",
       "start": "electron build/bundle.js"
     },
-    "author": "Kentaro Teramoto",
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "1.2.8",
@@ -78,6 +77,9 @@
       "debug": "2.2.0",
       "react": "^15.2.1",
       "rxjs": "5.0.0-beta.10"
+    },
+    "other": {
+      "author": "Kentaro Teramoto"
     }
   },
   "packageStatus": 200,
@@ -125,6 +127,6 @@
   },
   "filename": "hrl7___AwesomeTwitterClient.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:02:18.724Z",
+  "lastFetchedAt": "2017-10-23T19:13:21.121Z",
   "packageLastFetchedAt": "2017-05-05T14:38:01.513Z"
 }

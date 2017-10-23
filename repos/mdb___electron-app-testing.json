@@ -5,7 +5,7 @@
   "owner": {
     "login": "mdb",
     "id": 184109,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/184109?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/184109?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mdb",
     "htmlUrl": "https://github.com/mdb",
@@ -55,10 +55,7 @@
       "build": "electron-packager . HelloWorld --version=1.2.4 --platform=all --out=build --arch=all --ignore=\"(node_modules|src)\" --overwrite",
       "test": "node test/app_test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mdb/electron-app-testing.git"
-    },
+    "repository": "https://github.com/mdb/electron-app-testing",
     "keywords": [
       "Electron",
       "Spectron",
@@ -66,17 +63,19 @@
       "start",
       "tutorial"
     ],
-    "author": "Mike Ball",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mdb/electron-app-testing/issues"
-    },
     "homepage": "https://github.com/mdb/electron-app-testing#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "spectron": "^3.3.0",
       "electron-packager": "7.3.0",
       "pryjs": "^1.0.2"
+    },
+    "other": {
+      "author": "Mike Ball",
+      "bugs": {
+        "url": "https://github.com/mdb/electron-app-testing/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "mdb___electron-app-testing.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:22.050Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:00.998Z"
+  "lastFetchedAt": "2017-10-23T18:51:15.778Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:00.998Z",
+  "archived": false
 }

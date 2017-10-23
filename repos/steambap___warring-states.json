@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "warring-states",
     "version": "0.0.1",
@@ -83,16 +83,9 @@
       "build": "webpack --progress",
       "start": "cross-env NODE_ENV=development electron app/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/steambap/warring-states.git"
-    },
+    "repository": "https://github.com/steambap/warring-states",
     "keywords": [],
-    "author": "Weilin Shi <934587911@qq.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/steambap/warring-states/issues"
-    },
     "homepage": "https://github.com/steambap/warring-states#readme",
     "dependencies": {},
     "devDependencies": {
@@ -120,6 +113,12 @@
       "webpack": "2.2.1",
       "webpack-dev-middleware": "^1.10.1",
       "webpack-hot-middleware": "^2.17.1"
+    },
+    "other": {
+      "author": "Weilin Shi <934587911@qq.com>",
+      "bugs": {
+        "url": "https://github.com/steambap/warring-states/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,6 @@
   },
   "filename": "steambap___warring-states.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:58.463Z",
+  "lastFetchedAt": "2017-10-23T18:26:58.117Z",
   "packageLastFetchedAt": "2017-05-04T22:32:32.568Z"
 }

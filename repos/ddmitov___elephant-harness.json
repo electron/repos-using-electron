@@ -5,7 +5,7 @@
   "owner": {
     "login": "ddmitov",
     "id": 3417920,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3417920?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3417920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ddmitov",
     "htmlUrl": "https://github.com/ddmitov",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/ddmitov/elephant-harness",
-  "description": "Node.js - Electron - NW.js Controller for PHP Scripts :elephant:",
+  "description": "Node.js - Electron - NW.js controller for PHP scripts :elephant:",
   "fork": false,
   "url": "https://api.github.com/repos/ddmitov/elephant-harness",
   "forksUrl": "https://api.github.com/repos/ddmitov/elephant-harness/forks",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/ddmitov/elephant-harness/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ddmitov/elephant-harness/deployments",
   "createdAt": "2016-08-29T13:43:21.000Z",
-  "updatedAt": "2017-02-14T15:59:31.000Z",
-  "pushedAt": "2017-01-13T09:33:33.000Z",
+  "updatedAt": "2017-06-16T09:36:22.000Z",
+  "pushedAt": "2017-06-17T15:22:17.000Z",
   "gitUrl": "git://github.com/ddmitov/elephant-harness.git",
   "sshUrl": "git@github.com:ddmitov/elephant-harness.git",
   "cloneUrl": "https://github.com/ddmitov/elephant-harness.git",
   "svnUrl": "https://github.com/ddmitov/elephant-harness",
   "homepage": "https://www.npmjs.com/package/elephant-harness",
-  "size": 67,
+  "size": 103,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -76,16 +76,10 @@
     "version": "0.5.0",
     "description": "Node.js - Electron - NW.js controller for PHP scripts",
     "main": "elephant-harness.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "node test/elephant-harness-test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ddmitov/elephant-harness.git"
-    },
+    "repository": "https://github.com/ddmitov/elephant-harness",
     "keywords": [
       "php",
       "asynchronous",
@@ -93,13 +87,18 @@
       "electron",
       "nw.js"
     ],
-    "author": "Dimitar D. Mitov",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ddmitov/elephant-harness/issues"
-    },
     "homepage": "https://github.com/ddmitov/elephant-harness#readme",
-    "tonicExampleFilename": "tonic/example.js"
+    "tonicExampleFilename": "tonic/example.js",
+    "other": {
+      "author": "Dimitar D. Mitov",
+      "bugs": {
+        "url": "https://github.com/ddmitov/elephant-harness/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +125,7 @@
   },
   "filename": "ddmitov___elephant-harness.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:05:56.354Z",
-  "packageLastFetchedAt": "2017-05-05T17:25:36.711Z"
+  "lastFetchedAt": "2017-10-23T21:08:42.167Z",
+  "packageLastFetchedAt": "2017-05-05T17:25:36.711Z",
+  "archived": false
 }

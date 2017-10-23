@@ -5,7 +5,7 @@
   "owner": {
     "login": "Candeles",
     "id": 15314518,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15314518?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15314518?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Candeles",
     "htmlUrl": "https://github.com/Candeles",
@@ -70,15 +70,8 @@
     "version": "0.2.0",
     "description": "A collaborative online extended markdown editor.",
     "main": "./scripts/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Candeles/doctormarkdown.git"
-    },
-    "author": "Michael Candels, Christian Encarnacion, Jason Kraft",
+    "repository": "https://github.com/Candeles/doctormarkdown",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Candeles/doctormarkdown/issues"
-    },
     "homepage": "https://github.com/Candeles/doctormarkdown#readme",
     "dependencies": {
       "ejs": "^2.5.2",
@@ -87,6 +80,12 @@
       "html-pdf": "^2.1.0",
       "jquery": "^3.1.1",
       "showdown": "^1.4.3"
+    },
+    "other": {
+      "author": "Michael Candels, Christian Encarnacion, Jason Kraft",
+      "bugs": {
+        "url": "https://github.com/Candeles/doctormarkdown/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,7 @@
   },
   "filename": "Candeles___doctormarkdown.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:49.367Z",
-  "packageLastFetchedAt": "2017-05-05T01:25:12.787Z"
+  "lastFetchedAt": "2017-10-23T17:19:36.831Z",
+  "packageLastFetchedAt": "2017-05-05T01:25:12.787Z",
+  "archived": false
 }

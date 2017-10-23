@@ -5,7 +5,7 @@
   "owner": {
     "login": "openuni",
     "id": 9915295,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9915295?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9915295?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openuni",
     "htmlUrl": "https://github.com/openuni",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "openuni",
     "id": 9915295,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9915295?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9915295?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openuni",
     "htmlUrl": "https://github.com/openuni",
@@ -92,7 +92,6 @@
       "package": "node ./config/tasks/package.js",
       "app": "./node_modules/.bin/electron src/"
     },
-    "author": "John Faucett",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^6.0.0",
@@ -113,6 +112,9 @@
       "ri": "git://github.com/nathanfaucett/ri.git",
       "sqlite3": "^3.1.3",
       "virt-tarjeta-web": "git://github.com/openuni/virt-tarjeta-web.git"
+    },
+    "other": {
+      "author": "John Faucett"
     }
   },
   "packageStatus": 200,
@@ -140,6 +142,7 @@
   },
   "filename": "openuni___tarjeta-standalone.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:08.805Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:58.157Z"
+  "lastFetchedAt": "2017-10-23T20:50:27.540Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:58.157Z",
+  "archived": false
 }

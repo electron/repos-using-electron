@@ -5,7 +5,7 @@
   "owner": {
     "login": "alfg",
     "id": 702541,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/702541?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/702541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alfg",
     "htmlUrl": "https://github.com/alfg",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/alfg/peerfm/downloads",
   "deploymentsUrl": "https://api.github.com/repos/alfg/peerfm/deployments",
   "createdAt": "2016-06-20T02:42:30.000Z",
-  "updatedAt": "2017-01-14T06:33:47.000Z",
+  "updatedAt": "2017-10-01T19:56:41.000Z",
   "pushedAt": "2017-02-03T20:31:39.000Z",
   "gitUrl": "git://github.com/alfg/peerfm.git",
   "sshUrl": "git@github.com:alfg/peerfm.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/alfg/peerfm",
   "homepage": "",
   "size": 1798,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -135,26 +135,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alfg/peerfm.git"
-    },
-    "author": {
-      "name": "Alfred Gutierrez",
-      "email": "alf.g.jr@gmail.com",
-      "url": "https://github.com/alfg"
-    },
+    "repository": "https://github.com/alfg/peerfm",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/alfg/peerfm/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -248,6 +233,20 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Alfred Gutierrez",
+        "email": "alf.g.jr@gmail.com",
+        "url": "https://github.com/alfg"
+      },
+      "bugs": {
+        "url": "https://github.com/alfg/peerfm/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -275,6 +274,7 @@
   },
   "filename": "alfg___radicalfm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:42.579Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:14.038Z"
+  "lastFetchedAt": "2017-10-23T19:02:25.240Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:14.038Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dkundel",
     "id": 1505101,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1505101?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1505101?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dkundel",
     "htmlUrl": "https://github.com/dkundel",
@@ -17,13 +17,13 @@
     "type": "User"
   },
   "private": false,
-  "description": "A player for music via YouTube in Electron",
+  "description": "🎵 A menubar player for music via YouTube in Electron",
   "fork": false,
   "createdAt": "2016-02-16T19:11:04.000Z",
-  "updatedAt": "2016-04-08T15:25:07.000Z",
-  "pushedAt": "2016-03-01T21:35:56.000Z",
-  "homepage": null,
-  "size": 101,
+  "updatedAt": "2017-06-18T01:45:52.000Z",
+  "pushedAt": "2017-10-11T14:52:15.000Z",
+  "homepage": "",
+  "size": 527,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "TypeScript",
@@ -49,22 +49,15 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "tunes",
     "version": "1.0.0",
     "description": "A player for music via YouTube in Electron",
     "main": "out/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dkundel/tunes.git"
-    },
-    "author": "Dominik Kundel <dominik.kundel@gmail.com>",
+    "repository": "https://github.com/dkundel/tunes",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dkundel/tunes/issues"
-    },
     "homepage": "https://github.com/dkundel/tunes#readme",
     "devDependencies": {
       "bower": "^1.7.7",
@@ -97,6 +90,12 @@
       "react": "^0.14.7",
       "react-dom": "^0.14.7",
       "typescript": "^1.9.0-dev.20160216"
+    },
+    "other": {
+      "author": "Dominik Kundel <dominik.kundel@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/dkundel/tunes/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/dkundel/tunes",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:47:13.223Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:05.510Z"
+  "lastFetchedAt": "2017-10-23T18:10:08.424Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:05.510Z",
+  "archived": false
 }

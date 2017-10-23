@@ -58,21 +58,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Blankelectron.ep",
     "productName": "Blankelectron",
     "version": "1.0.0",
     "description": "TODO: Describe the project",
-    "author": {
-      "name": "Kurtis Rainbolt-Greene",
-      "email": "me@kurtisrainboltgreene.name",
-      "url": "http://www.kurtisrainboltgreene.name"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/electron-ecosystem/Blankelectron.ep.git"
-    },
+    "repository": "https://github.com/electron-ecosystem/Blankelectron.ep",
     "license": "MIT",
     "keywords": [],
     "engine": {
@@ -127,6 +119,13 @@
       "electron-builder": "2.0.0",
       "electron-packager": "4.2.0",
       "electron-prebuilt": "1.2.1"
+    },
+    "other": {
+      "author": {
+        "name": "Kurtis Rainbolt-Greene",
+        "email": "me@kurtisrainboltgreene.name",
+        "url": "http://www.kurtisrainboltgreene.name"
+      }
     }
   },
   "packageStatus": 200,
@@ -174,6 +173,6 @@
   "svnUrl": "https://github.com/electron-ecosystem/Blankelectron.ep",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:14:50.184Z",
+  "lastFetchedAt": "2017-10-23T19:18:55.728Z",
   "packageLastFetchedAt": "2017-05-05T01:26:32.699Z"
 }

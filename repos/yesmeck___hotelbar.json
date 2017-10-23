@@ -5,7 +5,7 @@
   "owner": {
     "login": "yesmeck",
     "id": 465125,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/465125?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/465125?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yesmeck",
     "htmlUrl": "https://github.com/yesmeck",
@@ -76,19 +76,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yesmeck/hotelbar.git"
-    },
-    "author": {
-      "name": "Wei Zhu",
-      "email": "yesmeck@gmail.com",
-      "url": "https://github.com/yesmeck"
-    },
+    "repository": "https://github.com/yesmeck/hotelbar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/yesmeck/hotelbar/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -176,6 +165,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Wei Zhu",
+        "email": "yesmeck@gmail.com",
+        "url": "https://github.com/yesmeck"
+      },
+      "bugs": {
+        "url": "https://github.com/yesmeck/hotelbar/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -224,6 +223,7 @@
   "svnUrl": "https://github.com/yesmeck/hotelbar",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:04:20.871Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:22.470Z"
+  "lastFetchedAt": "2017-10-23T20:55:52.135Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:22.470Z",
+  "archived": false
 }

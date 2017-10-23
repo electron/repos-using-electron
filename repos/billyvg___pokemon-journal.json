@@ -5,7 +5,7 @@
   "owner": {
     "login": "billyvg",
     "id": 79684,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/79684?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/79684?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/billyvg",
     "htmlUrl": "https://github.com/billyvg",
@@ -20,12 +20,12 @@
   "description": "View your pokemon inventory and their IVs (individual values)",
   "fork": false,
   "createdAt": "2016-07-24T21:06:27.000Z",
-  "updatedAt": "2017-03-23T19:10:03.000Z",
+  "updatedAt": "2017-09-07T09:28:58.000Z",
   "pushedAt": "2017-02-26T19:27:36.000Z",
   "homepage": "",
   "size": 4356,
-  "stargazersCount": 80,
-  "watchersCount": 80,
+  "stargazersCount": 82,
+  "watchersCount": 82,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 30,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 80,
+  "watchers": 82,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 30,
-  "subscribersCount": 12,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "pokemon-journal",
@@ -126,19 +126,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/billyvg/pokemon-journal.git"
-    },
-    "author": {
-      "name": "Billy Vong",
-      "email": "billy@mmo.me",
-      "url": "https://github.com/billyvg"
-    },
+    "repository": "https://github.com/billyvg/pokemon-journal",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/billyvg/pokemon-journal/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -255,6 +244,16 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Billy Vong",
+        "email": "billy@mmo.me",
+        "url": "https://github.com/billyvg"
+      },
+      "bugs": {
+        "url": "https://github.com/billyvg/pokemon-journal/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -302,6 +301,7 @@
   },
   "filename": "billyvg___pokemon-journal.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:12.674Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:54.675Z"
+  "lastFetchedAt": "2017-10-23T17:24:56.582Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:54.675Z",
+  "archived": false
 }

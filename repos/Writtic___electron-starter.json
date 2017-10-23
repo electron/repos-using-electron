@@ -5,7 +5,7 @@
   "owner": {
     "login": "Writtic",
     "id": 11371498,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11371498?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11371498?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Writtic",
     "htmlUrl": "https://github.com/Writtic",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Writtic___electron-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:47:43.813Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:19.149Z"
+  "lastFetchedAt": "2017-10-23T19:10:33.799Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:19.149Z",
+  "archived": false
 }

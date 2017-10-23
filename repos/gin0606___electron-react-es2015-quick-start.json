@@ -5,7 +5,7 @@
   "owner": {
     "login": "gin0606",
     "id": 795891,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/795891?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/795891?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gin0606",
     "htmlUrl": "https://github.com/gin0606",
@@ -61,20 +61,13 @@
       "build": "$(npm bin)/browserify -t babelify -o bundle.js src/main.js",
       "watch": "$(npm bin)/watchify -t babelify -o bundle.js src/main.js -v"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gin0606/electron-react-es2015-quick-start.git"
-    },
+    "repository": "https://github.com/gin0606/electron-react-es2015-quick-start",
     "keywords": [
       "Electron",
       "React",
       "ES2015"
     ],
-    "author": "gin0606",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/gin0606/electron-react-es2015-quick-start/issues"
-    },
     "homepage": "https://github.com/gin0606/electron-react-es2015-quick-start#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
@@ -88,6 +81,12 @@
       "babelify": "^7.3.0",
       "react": "^15.1.0",
       "react-dom": "^15.1.0"
+    },
+    "other": {
+      "author": "gin0606",
+      "bugs": {
+        "url": "https://github.com/gin0606/electron-react-es2015-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   "svnUrl": "https://github.com/gin0606/electron-react-es2015-quick-start",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:24:02.902Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:25.212Z"
+  "lastFetchedAt": "2017-10-23T20:14:50.801Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:25.212Z",
+  "archived": false
 }

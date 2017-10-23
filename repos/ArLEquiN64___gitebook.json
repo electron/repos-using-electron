@@ -5,7 +5,7 @@
   "owner": {
     "login": "ArLEquiN64",
     "id": 7821318,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7821318?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7821318?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ArLEquiN64",
     "htmlUrl": "https://github.com/ArLEquiN64",
@@ -49,21 +49,14 @@
     "name": "gitebook",
     "version": "0.0.0",
     "description": "This is the awesome notebook for geek :books: :octocat: :tada:",
-    "author": "ArLE <ARLEQUIN.prx@gmail.com>",
     "private": true,
-    "bugs": {
-      "url": "https://github.com/ArLEquiN64/gitebook/issues"
-    },
     "homepage": "https://github.com/ArLEquiN64/gitebook#readme",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ArLEquiN64/gitebook.git"
-    },
+    "repository": "https://github.com/ArLEquiN64/gitebook",
     "devDependencies": {
       "babel-eslint": "^6.0.2",
       "babel-plugin-transform-react-jsx": "^6.7.5",
@@ -89,6 +82,12 @@
     },
     "dependencies": {
       "marked": "^0.3.5"
+    },
+    "other": {
+      "author": "ArLE <ARLEQUIN.prx@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/ArLEquiN64/gitebook/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/ArLEquiN64/gitebook",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:09:16.981Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:43.568Z"
+  "lastFetchedAt": "2017-10-23T17:37:42.815Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:43.568Z",
+  "archived": false
 }

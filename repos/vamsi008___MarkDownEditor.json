@@ -5,7 +5,7 @@
   "owner": {
     "login": "vamsi008",
     "id": 7334035,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7334035?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7334035?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vamsi008",
     "htmlUrl": "https://github.com/vamsi008",
@@ -55,32 +55,6 @@
     "name": "Marvelous",
     "description": "Markdown editor for the future",
     "version": "0.0.1",
-    "author": "Team LeanTaaS <leantaas@imaginea.com>",
-    "contributors": [
-      {
-        "name": "Vamsi Chava",
-        "email": "vamsi.chava@imaginea.com"
-      },
-      {
-        "name": "Kiran Danduprolu",
-        "email": "kiran.d@imaginea.com"
-      },
-      {
-        "name": "Sudhir Chokkakula",
-        "email": "sudhir.chokkakula@imaginea.com"
-      },
-      {
-        "name": "Srikanth Pothkanuri",
-        "email": "srikanth.p@imaginea.com"
-      },
-      {
-        "name": "Praveen Puglia",
-        "email": "praveen.puglia@imaginea.com"
-      }
-    ],
-    "bugs": {
-      "url": "https://github.com/hashd/Marvelous/issues"
-    },
     "devDependencies": {
       "electron-packager": "^5.0.0",
       "electron-prebuilt": "^0.29.1",
@@ -102,6 +76,34 @@
       "start": "electron .",
       "build": "electron-packager . Marvelous --platform=linux --arch=all --version=0.29.2 --icon=app/img/marvelous.svg --out=./build/ --overwrite && gulp release:linux",
       "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "other": {
+      "author": "Team LeanTaaS <leantaas@imaginea.com>",
+      "bugs": {
+        "url": "https://github.com/hashd/Marvelous/issues"
+      },
+      "contributors": [
+        {
+          "name": "Vamsi Chava",
+          "email": "vamsi.chava@imaginea.com"
+        },
+        {
+          "name": "Kiran Danduprolu",
+          "email": "kiran.d@imaginea.com"
+        },
+        {
+          "name": "Sudhir Chokkakula",
+          "email": "sudhir.chokkakula@imaginea.com"
+        },
+        {
+          "name": "Srikanth Pothkanuri",
+          "email": "srikanth.p@imaginea.com"
+        },
+        {
+          "name": "Praveen Puglia",
+          "email": "praveen.puglia@imaginea.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -149,6 +151,7 @@
   },
   "filename": "vamsi008___MarkDownEditor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:19:52.862Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:50.160Z"
+  "lastFetchedAt": "2017-10-23T20:14:14.645Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:50.160Z",
+  "archived": false
 }

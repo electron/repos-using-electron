@@ -5,7 +5,7 @@
   "owner": {
     "login": "electrode-io",
     "id": 20847973,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20847973?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20847973?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electrode-io",
     "htmlUrl": "https://github.com/electrode-io",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/electrode-io/electrode-ota-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/electrode-io/electrode-ota-desktop/deployments",
   "createdAt": "2016-10-14T05:46:55.000Z",
-  "updatedAt": "2017-02-27T02:35:37.000Z",
+  "updatedAt": "2017-10-15T21:43:29.000Z",
   "pushedAt": "2016-11-16T17:35:18.000Z",
   "gitUrl": "git://github.com/electrode-io/electrode-ota-desktop.git",
   "sshUrl": "git@github.com:electrode-io/electrode-ota-desktop.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/electrode-io/electrode-ota-desktop",
   "homepage": null,
   "size": 2793,
-  "stargazersCount": 14,
-  "watchersCount": 14,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 14,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "electrode-io",
     "id": 20847973,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20847973?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20847973?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electrode-io",
     "htmlUrl": "https://github.com/electrode-io",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 2,
-  "subscribersCount": 8,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "electrode-ota-desktop",
@@ -131,19 +131,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electrode-io/electrode-ota-desktop/electrode-ota-desktop.git"
-    },
-    "author": {
-      "name": "Justin Spears",
-      "email": "speajus@gmail.com",
-      "url": "https://github.com/jspears"
-    },
+    "repository": "https://github.com/electrode-io/electrode-ota-desktop",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/electrode-io/electrode-ota-desktop/electrode-ota-desktop/issues"
-    },
     "keywords": [
       "electron",
       "code-push",
@@ -222,6 +211,16 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Justin Spears",
+        "email": "speajus@gmail.com",
+        "url": "https://github.com/jspears"
+      },
+      "bugs": {
+        "url": "https://github.com/electrode-io/electrode-ota-desktop/electrode-ota-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -249,6 +248,7 @@
   },
   "filename": "electrode-io___electrode-ota-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:30.075Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:02.960Z"
+  "lastFetchedAt": "2017-10-23T21:01:26.785Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:02.960Z",
+  "archived": false
 }

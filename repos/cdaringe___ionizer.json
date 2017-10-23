@@ -5,7 +5,7 @@
   "owner": {
     "login": "cdaringe",
     "id": 1003261,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1003261?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1003261?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cdaringe",
     "htmlUrl": "https://github.com/cdaringe",
@@ -62,18 +62,11 @@
     "bin": {
       "ionizer": "lib/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cdaringe/ionizer"
-    },
+    "repository": "https://github.com/cdaringe/ionizer",
     "keywords": [
       "electron"
     ],
-    "author": "cdaringe",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cdaringe/ionizer/issues"
-    },
     "homepage": "https://github.com/cdaringe/ionizer",
     "dependencies": {
       "bluebirdify": "1.1.0",
@@ -97,7 +90,13 @@
       "lint",
       "validate",
       "test"
-    ]
+    ],
+    "other": {
+      "author": "cdaringe",
+      "bugs": {
+        "url": "https://github.com/cdaringe/ionizer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/cdaringe/ionizer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:04:56.490Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:01.249Z"
+  "lastFetchedAt": "2017-10-23T19:26:18.128Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:01.249Z",
+  "archived": false
 }

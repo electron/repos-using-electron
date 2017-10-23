@@ -5,7 +5,7 @@
   "owner": {
     "login": "aerislabs",
     "id": 18637032,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18637032?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18637032?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aerislabs",
     "htmlUrl": "https://github.com/aerislabs",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "aerislabs",
     "id": 18637032,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18637032?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18637032?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aerislabs",
     "htmlUrl": "https://github.com/aerislabs",
@@ -87,14 +87,7 @@
     "keywords": [
       "RPHaven, electron"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/aeris/rph-desktop.git"
-    },
-    "author": {
-      "name": "Alex Wilson",
-      "email": "a@ax.gy"
-    },
+    "repository": "https://github.com/aeris/rph-desktop",
     "main": "main.js",
     "bin": {
       "rph": "./start.js"
@@ -110,6 +103,12 @@
       "electron-builder": "^2.6.0",
       "grunt-electron": "^2.0.1",
       "rcedit": "^0.3.0"
+    },
+    "other": {
+      "author": {
+        "name": "Alex Wilson",
+        "email": "a@ax.gy"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "aerislabs___rph-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:36.758Z",
-  "packageLastFetchedAt": "2017-05-05T01:33:09.752Z"
+  "lastFetchedAt": "2017-10-23T20:37:46.089Z",
+  "packageLastFetchedAt": "2017-05-05T01:33:09.752Z",
+  "archived": false
 }

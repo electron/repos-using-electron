@@ -5,7 +5,7 @@
   "owner": {
     "login": "mcgill-robotics",
     "id": 3902669,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3902669?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3902669?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mcgill-robotics",
     "htmlUrl": "https://github.com/mcgill-robotics",
@@ -20,13 +20,13 @@
   "description": "The missing ROS client for web_video_server  ",
   "fork": false,
   "createdAt": "2016-05-15T23:39:36.000Z",
-  "updatedAt": "2017-05-04T07:58:43.000Z",
-  "pushedAt": "2017-02-26T17:35:33.000Z",
+  "updatedAt": "2017-07-03T02:18:07.000Z",
+  "pushedAt": "2017-08-10T08:10:33.000Z",
   "homepage": "",
-  "size": 122,
+  "size": 140,
   "stargazersCount": 1,
   "watchersCount": 1,
-  "language": "CMake",
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "mcgill-robotics",
     "id": 3902669,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3902669?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3902669?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mcgill-robotics",
     "htmlUrl": "https://github.com/mcgill-robotics",
@@ -73,19 +73,18 @@
     "scripts": {
       "start": "electron src/app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mcgill-robotics/ros-web-image-view.git"
-    },
+    "repository": "https://github.com/mcgill-robotics/ros-web-image-view",
     "license": "GPL-2.0",
-    "bugs": {
-      "url": "https://github.com/mcgill-robotics/ros-web-image-view/issues"
-    },
-    "author": "anassinator",
     "homepage": "https://github.com/mcgill-robotics/ros-web-image-view",
     "dependencies": {
       "electron": "^1.0.1",
       "yargs": "^4.7.0"
+    },
+    "other": {
+      "author": "anassinator",
+      "bugs": {
+        "url": "https://github.com/mcgill-robotics/ros-web-image-view/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "mcgill-robotics___ros-web-image-view.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:05.685Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:31.349Z"
+  "lastFetchedAt": "2017-10-23T17:54:30.646Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:31.349Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fuzzyclus",
     "version": "1.0.0",
@@ -80,20 +80,13 @@
       "start": "electron .",
       "test": "mocha tests --recursive --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Themercee/fuzzyClus.git"
-    },
+    "repository": "https://github.com/Themercee/fuzzyClus",
     "keywords": [
       "fuzzer",
       "cluster",
       "rabbitmq"
     ],
-    "author": "Jimmy Mercier-Dionne",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Themercee/fuzzyClus/issues"
-    },
     "homepage": "https://github.com/Themercee/fuzzyClus#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -110,6 +103,12 @@
       "jsonfile": "^2.3.1",
       "node-split": "^1.0.1",
       "simple-ssh": "^0.9.0"
+    },
+    "other": {
+      "author": "Jimmy Mercier-Dionne",
+      "bugs": {
+        "url": "https://github.com/Themercee/fuzzyClus/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,6 @@
   },
   "filename": "Themercee___fuzzyClus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:37.561Z",
+  "lastFetchedAt": "2017-10-23T20:56:35.181Z",
   "packageLastFetchedAt": "2017-05-05T15:22:33.307Z"
 }

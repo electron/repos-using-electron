@@ -5,7 +5,7 @@
   "owner": {
     "login": "B-Lach",
     "id": 5971602,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5971602?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5971602?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/B-Lach",
     "htmlUrl": "https://github.com/B-Lach",
@@ -74,19 +74,18 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://B-Lach@github.com/B-Lach/SonyChannelEditor.git"
-    },
-    "author": "Benny Lach",
+    "repository": "https://github.com/B-Lach/SonyChannelEditor",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/B-Lach/SonyChannelEditor/issues"
-    },
     "homepage": "https://github.com/B-Lach/SonyChannelEditor#readme",
     "devDependencies": {
       "electron": "^1.4.5",
       "xml2js": "^0.4.17"
+    },
+    "other": {
+      "author": "Benny Lach",
+      "bugs": {
+        "url": "https://github.com/B-Lach/SonyChannelEditor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,7 @@
   },
   "filename": "B-Lach___SonyChannelEditor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:38.030Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:54.311Z"
+  "lastFetchedAt": "2017-10-23T18:15:10.858Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:54.311Z",
+  "archived": false
 }

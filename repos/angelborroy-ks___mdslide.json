@@ -5,7 +5,7 @@
   "owner": {
     "login": "angelborroy-ks",
     "id": 5584952,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5584952?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5584952?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/angelborroy-ks",
     "htmlUrl": "https://github.com/angelborroy-ks",
@@ -69,16 +69,12 @@
     "name": "mdSlide",
     "version": "0.0.3",
     "description": "Markdown slide writer, powered by Electron.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yhatt/mdslide"
-    },
+    "repository": "https://github.com/yhatt/mdslide",
     "main": "main.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Yuki Hattori",
     "license": "MIT",
     "devDependencies": {
       "coffee-script": "^1.10.0",
@@ -116,6 +112,9 @@
       "path": "^0.12.7",
       "photon": "git+https://github.com/connors/photon.git",
       "twemoji": "^1.4.1"
+    },
+    "other": {
+      "author": "Yuki Hattori"
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "angelborroy-ks___mdslide.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:43.674Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:51.289Z"
+  "lastFetchedAt": "2017-10-23T20:26:48.088Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:51.289Z",
+  "archived": false
 }

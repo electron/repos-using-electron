@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-screenshot",
     "version": "0.1.0",
@@ -88,7 +88,6 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "trikadin@mail.ru",
     "license": "UNLICENSED",
     "private": true,
     "devDependencies": {
@@ -101,14 +100,14 @@
       "express": "^4.13.4",
       "sugar": "^1.4.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Edadeal/electron-screenshot-rest.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Edadeal/electron-screenshot-rest/issues"
-    },
-    "homepage": "https://github.com/Edadeal/electron-screenshot-rest#readme"
+    "repository": "https://github.com/Edadeal/electron-screenshot-rest",
+    "homepage": "https://github.com/Edadeal/electron-screenshot-rest#readme",
+    "other": {
+      "author": "trikadin@mail.ru",
+      "bugs": {
+        "url": "https://github.com/Edadeal/electron-screenshot-rest/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +134,6 @@
   },
   "filename": "Edadeal___electron-screenshot-rest.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:55:56.117Z",
+  "lastFetchedAt": "2017-10-23T17:53:28.483Z",
   "packageLastFetchedAt": "2017-05-05T17:47:38.948Z"
 }

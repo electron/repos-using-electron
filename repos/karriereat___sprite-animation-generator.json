@@ -5,7 +5,7 @@
   "owner": {
     "login": "karriereat",
     "id": 5426901,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5426901?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5426901?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/karriereat",
     "htmlUrl": "https://github.com/karriereat",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/karriereat/sprite-animation-generator/downloads",
   "deploymentsUrl": "https://api.github.com/repos/karriereat/sprite-animation-generator/deployments",
   "createdAt": "2016-07-26T10:35:17.000Z",
-  "updatedAt": "2017-04-25T04:57:51.000Z",
+  "updatedAt": "2017-05-27T16:43:40.000Z",
   "pushedAt": "2016-07-26T10:43:48.000Z",
   "gitUrl": "git://github.com/karriereat/sprite-animation-generator.git",
   "sshUrl": "git@github.com:karriereat/sprite-animation-generator.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/karriereat/sprite-animation-generator",
   "homepage": null,
   "size": 45,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 4,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "karriereat",
     "id": 5426901,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5426901?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5426901?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/karriereat",
     "htmlUrl": "https://github.com/karriereat",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/karriereat/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
+  "networkCount": 4,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -94,7 +94,6 @@
       "start": "electron .",
       "build": "electron-packager ./ --platform=darwin,win32 --arch=x64 --prune --overwrite"
     },
-    "author": "Manuel Wieser",
     "dependencies": {
       "animation-strip-generator": "https://github.com/karriereat/animation-strip-generator.git#master"
     },
@@ -104,6 +103,9 @@
       "eslint": "^3.1.1",
       "eslint-config-airbnb": "^9.0.1",
       "eslint-plugin-import": "^1.11.1"
+    },
+    "other": {
+      "author": "Manuel Wieser"
     }
   },
   "packageStatus": 200,
@@ -132,6 +134,7 @@
   "filename": "karriereat___sprite-animation-generator.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:32:02.113Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:04.606Z"
+  "lastFetchedAt": "2017-10-23T17:05:59.725Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:04.606Z",
+  "archived": false
 }

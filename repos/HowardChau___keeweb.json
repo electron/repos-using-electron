@@ -5,7 +5,7 @@
   "owner": {
     "login": "HowardChau",
     "id": 21315425,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21315425?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21315425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HowardChau",
     "htmlUrl": "https://github.com/HowardChau",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "keeweb",
       "id": 18244763,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/18244763?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/18244763?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/keeweb",
       "htmlUrl": "https://github.com/keeweb",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/keeweb/keeweb/downloads",
     "deploymentsUrl": "https://api.github.com/repos/keeweb/keeweb/deployments",
     "createdAt": "2015-10-17T21:41:47.000Z",
-    "updatedAt": "2017-05-04T14:45:57.000Z",
-    "pushedAt": "2017-05-03T19:21:34.000Z",
+    "updatedAt": "2017-10-23T17:41:20.000Z",
+    "pushedAt": "2017-10-15T14:30:02.000Z",
     "gitUrl": "git://github.com/keeweb/keeweb.git",
     "sshUrl": "git@github.com:keeweb/keeweb.git",
     "cloneUrl": "https://github.com/keeweb/keeweb.git",
     "svnUrl": "https://github.com/keeweb/keeweb",
     "homepage": "https://keeweb.info",
-    "size": 7012,
-    "stargazersCount": 4811,
-    "watchersCount": 4811,
+    "size": 7984,
+    "stargazersCount": 5540,
+    "watchersCount": 5540,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 330,
+    "forksCount": 408,
     "mirrorUrl": null,
-    "openIssuesCount": 149,
-    "openIssues": 149,
-    "watchers": 4811,
+    "archived": false,
+    "openIssuesCount": 169,
+    "openIssues": 169,
+    "watchers": 5540,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "keeweb",
       "id": 18244763,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/18244763?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/18244763?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/keeweb",
       "htmlUrl": "https://github.com/keeweb",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/keeweb/keeweb/downloads",
     "deploymentsUrl": "https://api.github.com/repos/keeweb/keeweb/deployments",
     "createdAt": "2015-10-17T21:41:47.000Z",
-    "updatedAt": "2017-05-04T14:45:57.000Z",
-    "pushedAt": "2017-05-03T19:21:34.000Z",
+    "updatedAt": "2017-10-23T17:41:20.000Z",
+    "pushedAt": "2017-10-15T14:30:02.000Z",
     "gitUrl": "git://github.com/keeweb/keeweb.git",
     "sshUrl": "git@github.com:keeweb/keeweb.git",
     "cloneUrl": "https://github.com/keeweb/keeweb.git",
     "svnUrl": "https://github.com/keeweb/keeweb",
     "homepage": "https://keeweb.info",
-    "size": 7012,
-    "stargazersCount": 4811,
-    "watchersCount": 4811,
+    "size": 7984,
+    "stargazersCount": 5540,
+    "watchersCount": 5540,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": false,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 330,
+    "forksCount": 408,
     "mirrorUrl": null,
-    "openIssuesCount": 149,
-    "openIssues": 149,
-    "watchers": 4811,
+    "archived": false,
+    "openIssuesCount": 169,
+    "openIssues": 169,
+    "watchers": 5540,
     "defaultBranch": "master"
   },
-  "networkCount": 330,
+  "networkCount": 408,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -171,10 +173,7 @@
     "description": "Free cross-platform password manager compatible with KeePass",
     "main": "Gruntfile.js",
     "homepage": "https://keeweb.info",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/keeweb/keeweb"
-    },
+    "repository": "https://github.com/keeweb/keeweb",
     "dependencies": {},
     "devDependencies": {
       "base64-loader": "1.0.0",
@@ -218,11 +217,6 @@
       "postinstall": "cd electron && npm install",
       "copy-beta": "grunt && sed 's/<html manifest=\"manifest.appcache\">//' dist/index.html > ../keeweb-beta/diy/index.html && cd ../keeweb-beta && git add diy/index.html && git commit -a -m 'beta' && git push origin master"
     },
-    "author": {
-      "name": "Antelle",
-      "email": "antelle.net@gmail.com",
-      "url": "http://antelle.net"
-    },
     "build": {
       "app-bundle-id": "net.antelle.keeweb",
       "app-category-type": "public.app-category.productivity",
@@ -252,13 +246,20 @@
         "loadingGif": "graphics/install.gif"
       }
     },
-    "directories": {
-      "buildResources": "graphics",
-      "output": "tmp/desktop",
-      "app": "tmp/desktop/app"
-    },
     "license": "MIT",
-    "readme": "README.md"
+    "readme": "README.md",
+    "other": {
+      "author": {
+        "name": "Antelle",
+        "email": "antelle.net@gmail.com",
+        "url": "http://antelle.net"
+      },
+      "directories": {
+        "buildResources": "graphics",
+        "output": "tmp/desktop",
+        "app": "tmp/desktop/app"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -306,6 +307,7 @@
   "svnUrl": "https://github.com/HowardChau/keeweb",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:26:04.419Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:06.413Z"
+  "lastFetchedAt": "2017-10-23T18:43:16.052Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:06.413Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "w1nston",
     "id": 517536,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/517536?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/517536?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/w1nston",
     "htmlUrl": "https://github.com/w1nston",
@@ -82,15 +82,8 @@
       "test": "jest",
       "build": "NODE_ENV=production webpack -p --config ./webpack.production.config.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/w1nston/jwdotcom.git"
-    },
-    "author": "w1nston",
+    "repository": "https://github.com/w1nston/jwdotcom",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/w1nston/jwdotcom/issues"
-    },
     "homepage": "https://github.com/w1nston/jwdotcom#readme",
     "dependencies": {
       "babel-core": "^6.18.2",
@@ -124,6 +117,12 @@
       "webpack-dev-middleware": "^1.8.4",
       "webpack-dev-server": "^1.16.2",
       "webpack-hot-middleware": "^2.13.2"
+    },
+    "other": {
+      "author": "w1nston",
+      "bugs": {
+        "url": "https://github.com/w1nston/jwdotcom/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "w1nston___jwdotcom.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:16:14.808Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:55.223Z"
+  "lastFetchedAt": "2017-10-23T18:34:08.887Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:55.223Z",
+  "archived": false
 }

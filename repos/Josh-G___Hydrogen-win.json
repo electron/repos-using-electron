@@ -5,7 +5,7 @@
   "owner": {
     "login": "Josh-G",
     "id": 487384,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/487384?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/487384?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Josh-G",
     "htmlUrl": "https://github.com/Josh-G",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,12 +68,11 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "hydrogen-window",
-    "author": "josh@grantj.io",
     "version": "0.0.1",
     "description": "A cross-platform floating media window",
     "main": "main.js",
@@ -104,6 +103,9 @@
       "pack": "build --dir",
       "dist": "build",
       "start": "electron app"
+    },
+    "other": {
+      "author": "josh@grantj.io"
     }
   },
   "packageStatus": 200,
@@ -131,6 +133,7 @@
   },
   "filename": "Josh-G___Hydrogen-win.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:56.967Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:51.452Z"
+  "lastFetchedAt": "2017-10-23T19:00:57.742Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:51.452Z",
+  "archived": false
 }

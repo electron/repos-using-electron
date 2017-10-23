@@ -5,7 +5,7 @@
   "owner": {
     "login": "suminb",
     "id": 136119,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/136119?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/136119?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/suminb",
     "htmlUrl": "https://github.com/suminb",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ./assets/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/suminb/better-translator-electron.git"
-    },
+    "repository": "https://github.com/suminb/better-translator-electron",
     "keywords": [
       "Google",
       "better",
@@ -70,17 +67,19 @@
       "translation",
       "translate"
     ],
-    "author": "Sumin Byeon",
     "license": "BSD",
-    "bugs": {
-      "url": "https://github.com/suminb/better-translator-electron/issues"
-    },
     "homepage": "https://github.com/suminb/better-translator-electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.1"
     },
     "dependencies": {
       "rollbar": "^0.5.10"
+    },
+    "other": {
+      "author": "Sumin Byeon",
+      "bugs": {
+        "url": "https://github.com/suminb/better-translator-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/suminb/better-translator-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:26:13.659Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:36.978Z"
+  "lastFetchedAt": "2017-10-23T18:06:47.060Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:36.978Z",
+  "archived": false
 }

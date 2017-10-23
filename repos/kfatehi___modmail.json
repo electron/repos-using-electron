@@ -5,7 +5,7 @@
   "owner": {
     "login": "kfatehi",
     "id": 175305,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/175305?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/175305?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kfatehi",
     "htmlUrl": "https://github.com/kfatehi",
@@ -20,21 +20,21 @@
   "description": "Extremely Moddable Gmail",
   "fork": false,
   "createdAt": "2015-12-09T07:15:02.000Z",
-  "updatedAt": "2017-05-03T23:33:44.000Z",
-  "pushedAt": "2017-04-19T01:57:27.000Z",
+  "updatedAt": "2017-09-19T22:26:43.000Z",
+  "pushedAt": "2017-05-11T22:52:54.000Z",
   "homepage": "",
-  "size": 4717,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 4732,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 6,
+  "openIssuesCount": 9,
+  "openIssues": 9,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,21 +62,14 @@
       "archive": "node scripts/archive.js",
       "release": "npm install && npm run build && npm run archive"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "archiver": "^0.21.0",
@@ -90,6 +83,12 @@
       "jquery": "^2.1.4",
       "lodash": "^3.10.1",
       "openpgp": "^1.3.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "svnUrl": "https://github.com/kfatehi/modmail",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:27:02.541Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:31.398Z"
+  "lastFetchedAt": "2017-10-23T20:11:37.325Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:31.398Z",
+  "archived": false
 }

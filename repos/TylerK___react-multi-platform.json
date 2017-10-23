@@ -5,7 +5,7 @@
   "owner": {
     "login": "TylerK",
     "id": 1141040,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1141040?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1141040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TylerK",
     "htmlUrl": "https://github.com/TylerK",
@@ -73,15 +73,8 @@
       "test": "node ./node_modules/karma/bin/karma start",
       "server": "./node_modules/.bin/webpack-dev-server --config ./webpack.config.dev.js --content-base ./dist/ --port 8080 --inline --hot --progress"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TylerK/react-multi-platform.git"
-    },
-    "author": "Tyler Kelley",
+    "repository": "https://github.com/TylerK/react-multi-platform",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/TylerK/react-multi-platform/issues"
-    },
     "homepage": "https://github.com/TylerK/react-multi-platform#readme",
     "dependencies": {
       "react": "^0.14.2",
@@ -122,6 +115,12 @@
       "style-loader": "^0.13.0",
       "webpack": "^1.12.3",
       "webpack-dev-server": "^1.12.1"
+    },
+    "other": {
+      "author": "Tyler Kelley",
+      "bugs": {
+        "url": "https://github.com/TylerK/react-multi-platform/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -169,6 +168,7 @@
   "svnUrl": "https://github.com/TylerK/react-multi-platform",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:52:51.160Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:14.604Z"
+  "lastFetchedAt": "2017-10-23T20:15:49.841Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:14.604Z",
+  "archived": false
 }

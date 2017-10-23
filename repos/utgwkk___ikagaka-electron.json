@@ -5,7 +5,7 @@
   "owner": {
     "login": "utgwkk",
     "id": 4530627,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4530627?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4530627?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/utgwkk",
     "htmlUrl": "https://github.com/utgwkk",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/utgwkk/ikagaka-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/utgwkk/ikagaka-electron/deployments",
   "createdAt": "2016-11-26T02:24:37.000Z",
-  "updatedAt": "2017-01-07T02:40:52.000Z",
+  "updatedAt": "2017-05-28T11:10:16.000Z",
   "pushedAt": "2016-11-28T11:25:24.000Z",
   "gitUrl": "git://github.com/utgwkk/ikagaka-electron.git",
   "sshUrl": "git@github.com:utgwkk/ikagaka-electron.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/utgwkk/ikagaka-electron",
   "homepage": null,
   "size": 10,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -80,23 +80,22 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/utgwkk/ikagaka-electron.git"
-    },
+    "repository": "https://github.com/utgwkk/ikagaka-electron",
     "keywords": [
       "ikagaka",
       "electron"
     ],
-    "author": "utgwkk",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/utgwkk/ikagaka-electron/issues"
-    },
     "homepage": "https://github.com/utgwkk/ikagaka-electron#readme",
     "devDependencies": {
       "electron": "^1.4.8",
       "narloader": "github:ikagaka/NarLoader#jszip3"
+    },
+    "other": {
+      "author": "utgwkk",
+      "bugs": {
+        "url": "https://github.com/utgwkk/ikagaka-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "utgwkk___ikagaka-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:07.462Z",
-  "packageLastFetchedAt": "2017-05-04T22:49:22.721Z"
+  "lastFetchedAt": "2017-10-23T19:28:56.328Z",
+  "packageLastFetchedAt": "2017-05-04T22:49:22.721Z",
+  "archived": false
 }

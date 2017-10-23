@@ -5,7 +5,7 @@
   "owner": {
     "login": "tbrisbout",
     "id": 1216408,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1216408?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1216408?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tbrisbout",
     "htmlUrl": "https://github.com/tbrisbout",
@@ -81,18 +81,11 @@
       "lint": "./node_modules/.bin/eslint .",
       "build": "electron-packager . --out=dist --app-version=$npm_package_version --prune --asar --overwrite --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tbrisbout/notebook.git"
-    },
+    "repository": "https://github.com/tbrisbout/notebook",
     "keywords": [
       "notes"
     ],
-    "author": "Thomas BRISBOUT",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tbrisbout/notebook/issues"
-    },
     "homepage": "https://github.com/tbrisbout/notebook#readme",
     "devDependencies": {
       "electron-connect": "^0.3.7",
@@ -103,6 +96,12 @@
       "firebase": "^2.4.2",
       "gulp": "^3.9.1",
       "simplemde": "^1.10.1"
+    },
+    "other": {
+      "author": "Thomas BRISBOUT",
+      "bugs": {
+        "url": "https://github.com/tbrisbout/notebook/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "tbrisbout___notebook.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:42.632Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:20.833Z"
+  "lastFetchedAt": "2017-10-23T17:35:03.579Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:20.833Z",
+  "archived": false
 }

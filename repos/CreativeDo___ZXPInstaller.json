@@ -5,7 +5,7 @@
   "owner": {
     "login": "CreativeDo",
     "id": 12860713,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12860713?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12860713?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CreativeDo",
     "htmlUrl": "https://github.com/CreativeDo",
@@ -20,21 +20,21 @@
   "description": "Open Source ZXP Installer for Adobe Extensions",
   "fork": false,
   "createdAt": "2015-06-18T13:23:48.000Z",
-  "updatedAt": "2017-04-17T12:42:10.000Z",
-  "pushedAt": "2016-06-22T20:17:10.000Z",
+  "updatedAt": "2017-09-24T23:53:41.000Z",
+  "pushedAt": "2017-10-23T15:59:09.000Z",
   "homepage": "http://zxpinstaller.com/",
-  "size": 201997,
-  "stargazersCount": 94,
-  "watchersCount": 94,
+  "size": 201996,
+  "stargazersCount": 103,
+  "watchersCount": 103,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
   "forksCount": 18,
-  "openIssuesCount": 9,
-  "openIssues": 9,
-  "watchers": 94,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 103,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "CreativeDo",
     "id": 12860713,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12860713?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12860713?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CreativeDo",
     "htmlUrl": "https://github.com/CreativeDo",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 18,
-  "subscribersCount": 20,
+  "subscribersCount": 22,
   "status": 200,
   "packageJSON": {
     "name": "zxpinstaller",
@@ -88,16 +88,15 @@
       "pack:osx": "npm run build:osx && ./node_modules/.bin/electron-builder \"release/osx/ZXPInstaller.app\" --platform=macos --out=\"release/osx\" --config=packager.json",
       "pack:win": "npm run build:win && ./node_modules/.bin/electron-builder \"release/win/ZXPInstaller-win32\" --platform=win --out=\"release/win\" --config=packager.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/CreativeDo/ZXPInstaller.git"
-    },
-    "author": "CreativeDo",
+    "repository": "https://github.com/CreativeDo/ZXPInstaller",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/CreativeDo/ZXPInstaller/issues"
-    },
-    "homepage": "https://github.com/CreativeDo/ZXPInstaller#readme"
+    "homepage": "https://github.com/CreativeDo/ZXPInstaller#readme",
+    "other": {
+      "author": "CreativeDo",
+      "bugs": {
+        "url": "https://github.com/CreativeDo/ZXPInstaller/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/CreativeDo/ZXPInstaller",
@@ -144,6 +143,7 @@
   },
   "filename": "CreativeDo___ZXPInstaller.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:16:10.386Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:10.328Z"
+  "lastFetchedAt": "2017-10-23T20:09:17.080Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:10.328Z",
+  "archived": false
 }

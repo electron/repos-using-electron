@@ -5,7 +5,7 @@
   "owner": {
     "login": "uraway",
     "id": 15242484,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15242484?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15242484?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uraway",
     "htmlUrl": "https://github.com/uraway",
@@ -77,19 +77,8 @@
       "electron": "./node_modules/.bin/electron",
       "build": "./node_modules/.bin/build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/uraway/todo-electron.git"
-    },
-    "author": {
-      "name": "C. T. Lin",
-      "email": "chentsulin@gmail.com",
-      "url": "https://github.com/chentsulin"
-    },
+    "repository": "https://github.com/uraway/todo-electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/uraway/todo-electron/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -182,6 +171,16 @@
       "appId": "MasatoUrai.TodoElectron",
       "app-category-type": "public.app-category.productivity",
       "compression": "store"
+    },
+    "other": {
+      "author": {
+        "name": "C. T. Lin",
+        "email": "chentsulin@gmail.com",
+        "url": "https://github.com/chentsulin"
+      },
+      "bugs": {
+        "url": "https://github.com/uraway/todo-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -229,6 +228,7 @@
   },
   "filename": "uraway___todo-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:05.670Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:11.348Z"
+  "lastFetchedAt": "2017-10-23T20:24:33.876Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:11.348Z",
+  "archived": false
 }

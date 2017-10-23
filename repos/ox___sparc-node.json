@@ -5,7 +5,7 @@
   "owner": {
     "login": "ox",
     "id": 103545,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/103545?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/103545?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ox",
     "htmlUrl": "https://github.com/ox",
@@ -69,7 +69,6 @@
     "name": "sparc-node",
     "version": "1.0.0",
     "description": "A tool for knowing when your Diffs are ready",
-    "author": "Artem Titoulenko <artem.titoulenko@gmail.com>",
     "main": "./app.js",
     "scripts": {
       "start": "electron ./"
@@ -86,6 +85,9 @@
     },
     "devDependencies": {
       "electron-packager": "~5.0.2"
+    },
+    "other": {
+      "author": "Artem Titoulenko <artem.titoulenko@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -113,6 +115,7 @@
   },
   "filename": "ox___sparc-node.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:14.648Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:15.128Z"
+  "lastFetchedAt": "2017-10-23T17:25:14.524Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:15.128Z",
+  "archived": false
 }

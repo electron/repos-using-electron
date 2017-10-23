@@ -5,7 +5,7 @@
   "owner": {
     "login": "dochoaj",
     "id": 1789678,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1789678?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1789678?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dochoaj",
     "htmlUrl": "https://github.com/dochoaj",
@@ -79,20 +79,13 @@
     "scripts": {
       "start": "gulp build && electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dochoaj/react-electron"
-    },
+    "repository": "https://github.com/dochoaj/react-electron",
     "keywords": [
       "Electron",
       "React",
       "Boilerplate"
     ],
-    "author": "dochoaj",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/dochoaj/react-electron/issues"
-    },
     "homepage": "https://github.com/dochoaj/react-electron#readme",
     "dependencies": {
       "react": "^15.0.2",
@@ -118,6 +111,12 @@
       "react-dom": "^15.0.2",
       "redux-devtools": "^3.2.0",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "author": "dochoaj",
+      "bugs": {
+        "url": "https://github.com/dochoaj/react-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "filename": "dochoaj___react-electron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:08.406Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:59.399Z"
+  "lastFetchedAt": "2017-10-23T18:48:22.434Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:59.399Z",
+  "archived": false
 }

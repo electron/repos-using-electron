@@ -5,7 +5,7 @@
   "owner": {
     "login": "4tee",
     "id": 3272392,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3272392?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3272392?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/4tee",
     "htmlUrl": "https://github.com/4tee",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/4tee/smart-mirror-tablet/downloads",
   "deploymentsUrl": "https://api.github.com/repos/4tee/smart-mirror-tablet/deployments",
   "createdAt": "2016-03-24T09:40:52.000Z",
-  "updatedAt": "2016-11-29T02:31:56.000Z",
+  "updatedAt": "2017-09-26T17:35:30.000Z",
   "pushedAt": "2016-12-15T06:40:27.000Z",
   "gitUrl": "git://github.com/4tee/smart-mirror-tablet.git",
   "sshUrl": "git@github.com:4tee/smart-mirror-tablet.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/4tee/smart-mirror-tablet",
   "homepage": "https://4tee.github.io/smart-mirror-tablet/#/",
   "size": 2325,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": true,
   "forksCount": 9,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,24 +73,23 @@
     "scripts": {
       "start": "electron main.js "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "electron-prebuilt": "^0.36.5"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "4tee___smart-mirror-tablet.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:31:35.216Z",
-  "packageLastFetchedAt": "2017-05-04T22:00:51.130Z"
+  "lastFetchedAt": "2017-10-23T18:54:57.094Z",
+  "packageLastFetchedAt": "2017-05-04T22:00:51.130Z",
+  "archived": false
 }

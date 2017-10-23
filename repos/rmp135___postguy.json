@@ -5,7 +5,7 @@
   "owner": {
     "login": "codeweavers",
     "id": 1282033,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1282033?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1282033?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/codeweavers",
     "htmlUrl": "https://github.com/codeweavers",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/codeweavers/Consign/deployments",
   "createdAt": "2016-09-08T06:12:18.000Z",
   "updatedAt": "2017-03-13T10:01:07.000Z",
-  "pushedAt": "2017-05-04T20:29:38.000Z",
+  "pushedAt": "2017-10-23T16:13:41.000Z",
   "gitUrl": "git://github.com/codeweavers/Consign.git",
   "sshUrl": "git@github.com:codeweavers/Consign.git",
   "cloneUrl": "https://github.com/codeweavers/Consign.git",
   "svnUrl": "https://github.com/codeweavers/Consign",
   "homepage": null,
-  "size": 1278,
+  "size": 1465,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
+  "openIssuesCount": 0,
+  "openIssues": 0,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -62,11 +62,11 @@
     "pull": true
   },
   "license": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
-    "spdxId": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "featured": true
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdxId": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "featured": false
   },
   "networkCount": 1,
   "subscribersCount": 2,
@@ -87,14 +87,6 @@
       "watch": "webpack --watch",
       "dev": "electron . --enable-logging --log-level 5"
     },
-    "author": "Codeweavers",
-    "contributors": [
-      {
-        "name": "Ryan Poole",
-        "email": "rmp135@gmail.com",
-        "url": "https://github.com/rmp135"
-      }
-    ],
     "license": "CC0-1.0",
     "dependencies": {
       "@rmp135/vue-select": "^1.0.5",
@@ -176,6 +168,16 @@
       "directories": {
         "buildResources": "resources"
       }
+    },
+    "other": {
+      "author": "Codeweavers",
+      "contributors": [
+        {
+          "name": "Ryan Poole",
+          "email": "rmp135@gmail.com",
+          "url": "https://github.com/rmp135"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -206,7 +208,7 @@
   "organization": {
     "login": "codeweavers",
     "id": 1282033,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1282033?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1282033?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/codeweavers",
     "htmlUrl": "https://github.com/codeweavers",
@@ -217,6 +219,7 @@
     "receivedEventsUrl": "https://api.github.com/users/codeweavers/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T21:05:11.626Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:15.746Z"
+  "lastFetchedAt": "2017-10-23T20:44:12.130Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:15.746Z",
+  "archived": false
 }

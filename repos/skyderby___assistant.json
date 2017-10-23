@@ -6,7 +6,7 @@
   "owner": {
     "login": "skyderby",
     "id": 12656581,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12656581?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12656581?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/skyderby",
     "htmlUrl": "https://github.com/skyderby",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "skyderby",
     "id": 12656581,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12656581?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12656581?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/skyderby",
     "htmlUrl": "https://github.com/skyderby",
@@ -81,7 +81,7 @@
   "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T14:25:35.838Z",
+  "lastFetchedAt": "2017-10-23T20:22:35.691Z",
   "packageJSON": {
     "name": "assistant",
     "version": "0.0.0",
@@ -104,7 +104,6 @@
       "unit": "cross-env BABEL_ENV=testing-unit karma start test/unit/karma.conf.js",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -167,8 +166,12 @@
       "bootstrap": "^3.3.7",
       "jquery": "^3.2.1",
       "sass-font-face": "^1.0.1"
+    },
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:57:54.494Z"
+  "packageLastFetchedAt": "2017-05-05T14:57:54.494Z",
+  "archived": false
 }

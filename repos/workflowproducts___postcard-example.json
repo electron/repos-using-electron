@@ -5,7 +5,7 @@
   "owner": {
     "login": "workflowproducts",
     "id": 22156405,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/22156405?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/22156405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/workflowproducts",
     "htmlUrl": "https://github.com/workflowproducts",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/workflowproducts/postcard-example/downloads",
   "deploymentsUrl": "https://api.github.com/repos/workflowproducts/postcard-example/deployments",
   "createdAt": "2016-11-09T16:14:19.000Z",
-  "updatedAt": "2016-11-09T16:42:53.000Z",
+  "updatedAt": "2017-09-16T05:14:07.000Z",
   "pushedAt": "2016-11-11T22:52:20.000Z",
   "gitUrl": "git://github.com/workflowproducts/postcard-example.git",
   "sshUrl": "git@github.com:workflowproducts/postcard-example.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/workflowproducts/postcard-example",
   "homepage": null,
   "size": 36,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "workflowproducts",
     "id": 22156405,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/22156405?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/22156405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/workflowproducts",
     "htmlUrl": "https://github.com/workflowproducts",
@@ -95,7 +95,6 @@
       "start": "electron .",
       "dist": "build ."
     },
-    "author": "Nunzio Tocci <nunzio@workflowproducts.com> (http://www.workflowproducts.com/)",
     "build": {
       "appId": "com.workflowproducts.postage",
       "asar": false,
@@ -140,6 +139,9 @@
     "dependencies": {
       "postcard": "^1.0.0",
       "pg": "^6.1.0"
+    },
+    "other": {
+      "author": "Nunzio Tocci <nunzio@workflowproducts.com> (http://www.workflowproducts.com/)"
     }
   },
   "packageStatus": 200,
@@ -167,6 +169,7 @@
   },
   "filename": "workflowproducts___postcard-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:07.562Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:37.459Z"
+  "lastFetchedAt": "2017-10-23T17:56:25.958Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:37.459Z",
+  "archived": false
 }

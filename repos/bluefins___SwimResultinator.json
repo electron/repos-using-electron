@@ -50,12 +50,11 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "SwimResultinator",
     "version": "1.0.0",
     "description": "SwimResultinator application",
-    "author": "Brett Cherrington",
     "license": "Apache-2.0",
     "main": "index.js",
     "scripts": {
@@ -117,18 +116,18 @@
       "sqlite3": "^3.1.8",
       "uuid": "^3.0.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bluefins/SwimResultinator.git"
-    },
+    "repository": "https://github.com/bluefins/SwimResultinator",
     "keywords": [
       "Swimming",
       "Meets"
     ],
-    "bugs": {
-      "url": "https://github.com/bluefins/SwimResultinator.git/issues"
-    },
-    "homepage": "https://github.com/bluefins/SwimResultinator.git#readme"
+    "homepage": "https://github.com/bluefins/SwimResultinator.git#readme",
+    "other": {
+      "author": "Brett Cherrington",
+      "bugs": {
+        "url": "https://github.com/bluefins/SwimResultinator.git/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/bluefins/SwimResultinator",
@@ -175,6 +174,6 @@
   },
   "filename": "bluefins___SwimResultinator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:52.230Z",
+  "lastFetchedAt": "2017-10-23T20:52:26.755Z",
   "packageLastFetchedAt": "2017-05-04T22:19:22.889Z"
 }

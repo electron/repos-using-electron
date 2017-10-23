@@ -5,7 +5,7 @@
   "owner": {
     "login": "daveboling",
     "id": 5677536,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5677536?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5677536?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/daveboling",
     "htmlUrl": "https://github.com/daveboling",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/resin-io-projects/electron-rpi-quick-start.git"
-    },
+    "repository": "https://github.com/resin-io-projects/electron-rpi-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/resin-io-projects/electron-rpi-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.10"
@@ -101,6 +94,12 @@
     "dependencies": {
       "jquery": "^2.2.3",
       "moment": "^2.13.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/resin-io-projects/electron-rpi-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "filename": "daveboling___electron-tech-demo.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:18.489Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:56.720Z"
+  "lastFetchedAt": "2017-10-23T17:23:54.311Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:56.720Z",
+  "archived": false
 }

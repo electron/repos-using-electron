@@ -5,7 +5,7 @@
   "owner": {
     "login": "rivine",
     "id": 11573943,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11573943?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11573943?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rivine",
     "htmlUrl": "https://github.com/rivine",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/rivine/rivine-UI/deployments",
   "createdAt": "2016-10-25T14:24:57.000Z",
   "updatedAt": "2017-03-04T23:44:10.000Z",
-  "pushedAt": "2017-02-16T16:09:53.000Z",
+  "pushedAt": "2017-06-09T13:59:44.000Z",
   "gitUrl": "git://github.com/rivine/rivine-UI.git",
   "sshUrl": "git@github.com:rivine/rivine-UI.git",
   "cloneUrl": "https://github.com/rivine/rivine-UI.git",
   "svnUrl": "https://github.com/rivine/rivine-UI",
   "homepage": "",
-  "size": 13180,
+  "size": 13342,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
+  "openIssuesCount": 4,
+  "openIssues": 4,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -71,7 +71,7 @@
   "organization": {
     "login": "rivine",
     "id": 11573943,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11573943?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11573943?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rivine",
     "htmlUrl": "https://github.com/rivine",
@@ -89,7 +89,6 @@
     "name": "Rivine-UI",
     "version": "v0.0.2",
     "main": "dist/main.js",
-    "author": "NebulousLabs",
     "description": "A UI application for interfacing with Rivine",
     "license": "MIT",
     "devDependencies": {
@@ -144,12 +143,12 @@
       "lint": "eslint --max-warnings 0 ./index.js ./plugins ./js ./test",
       "lint-fix": "eslint --fix ./index.js ./plugins ./js ./test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/rivine/rivine-UI.git"
-    },
-    "bugs": {
-      "url": "https://github.com/rivine/rivine-UI/issues"
+    "repository": "https://github.com/rivine/rivine-UI",
+    "other": {
+      "author": "NebulousLabs",
+      "bugs": {
+        "url": "https://github.com/rivine/rivine-UI/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,7 @@
   "filename": "rivine___rivine-UI.json",
   "sourceRepo": "NebulousLabs/Sia-UI",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:12.584Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:05.646Z"
+  "lastFetchedAt": "2017-10-23T18:48:45.484Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:05.646Z",
+  "archived": false
 }

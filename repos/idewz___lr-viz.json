@@ -5,7 +5,7 @@
   "owner": {
     "login": "idewz",
     "id": 351228,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/351228?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/351228?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/idewz",
     "htmlUrl": "https://github.com/idewz",
@@ -55,20 +55,13 @@
       "jscs": "jscs .",
       "lint": "jshint ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/idewz/lr-viz.git"
-    },
+    "repository": "https://github.com/idewz/lr-viz",
     "keywords": [
       "lightroom",
       "catalog",
       "visual"
     ],
-    "author": "Siwadon Saosoong",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/idewz/lr-viz/issues"
-    },
     "homepage": "https://github.com/idewz/lr-viz#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.6",
@@ -84,6 +77,12 @@
       "lodash": "^4.11.1",
       "moment": "^2.12.0",
       "sqlite3": "^3.1.3"
+    },
+    "other": {
+      "author": "Siwadon Saosoong",
+      "bugs": {
+        "url": "https://github.com/idewz/lr-viz/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "idewz___lr-viz.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:44.216Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:56.822Z"
+  "lastFetchedAt": "2017-10-23T18:10:52.461Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:56.822Z",
+  "archived": false
 }

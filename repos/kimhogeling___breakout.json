@@ -5,7 +5,7 @@
   "owner": {
     "login": "kimhogeling",
     "id": 1118999,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1118999?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1118999?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kimhogeling",
     "htmlUrl": "https://github.com/kimhogeling",
@@ -79,17 +79,16 @@
     "scripts": {
       "start": "./node_modules/.bin/electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kimhogeling/breakout.git"
-    },
-    "author": "kimhogeling@gmail.com",
-    "bugs": {
-      "url": "https://github.com/kimhogeling/breakout/issues"
-    },
+    "repository": "https://github.com/kimhogeling/breakout",
     "homepage": "https://github.com/kimhogeling/breakout#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "kimhogeling@gmail.com",
+      "bugs": {
+        "url": "https://github.com/kimhogeling/breakout/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "kimhogeling___breakout.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:43.712Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:44.540Z"
+  "lastFetchedAt": "2017-10-23T17:13:34.261Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:44.540Z",
+  "archived": false
 }

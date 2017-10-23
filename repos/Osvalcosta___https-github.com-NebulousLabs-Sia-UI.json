@@ -5,7 +5,7 @@
   "owner": {
     "login": "Osvalcosta",
     "id": 11290058,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11290058?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11290058?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Osvalcosta",
     "htmlUrl": "https://github.com/Osvalcosta",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Osvalcosta/https-github.com-NebulousLabs-Sia-UI/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Osvalcosta/https-github.com-NebulousLabs-Sia-UI/deployments",
   "createdAt": "2016-11-09T21:40:45.000Z",
-  "updatedAt": "2016-11-09T21:42:03.000Z",
+  "updatedAt": "2017-08-13T10:06:58.000Z",
   "pushedAt": "2016-11-09T21:41:59.000Z",
   "gitUrl": "git://github.com/Osvalcosta/https-github.com-NebulousLabs-Sia-UI.git",
   "sshUrl": "git@github.com:Osvalcosta/https-github.com-NebulousLabs-Sia-UI.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Osvalcosta/https-github.com-NebulousLabs-Sia-UI",
   "homepage": null,
   "size": 11965,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -75,7 +75,6 @@
     "name": "Sia-UI",
     "version": "v1.0.3",
     "main": "dist/main.js",
-    "author": "NebulousLabs",
     "description": "A UI application for interfacing with Sia",
     "license": "MIT",
     "devDependencies": {
@@ -132,12 +131,12 @@
       "lint": "eslint --max-warnings 0 ./index.js ./plugins ./js ./test",
       "lint-fix": "eslint --fix ./index.js ./plugins ./js ./test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/NebulousLabs/Sia-UI.git"
-    },
-    "bugs": {
-      "url": "https://github.com/NebulousLabs/Sia-UI/issues"
+    "repository": "https://github.com/NebulousLabs/Sia-UI",
+    "other": {
+      "author": "NebulousLabs",
+      "bugs": {
+        "url": "https://github.com/NebulousLabs/Sia-UI/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,7 @@
   "filename": "Osvalcosta___https-github.com-NebulousLabs-Sia-UI.json",
   "sourceRepo": "NebulousLabs/Sia-UI",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:05.335Z",
-  "packageLastFetchedAt": "2017-05-04T22:31:45.320Z"
+  "lastFetchedAt": "2017-10-23T20:20:40.419Z",
+  "packageLastFetchedAt": "2017-05-04T22:31:45.320Z",
+  "archived": false
 }

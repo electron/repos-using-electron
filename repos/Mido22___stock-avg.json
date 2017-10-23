@@ -5,7 +5,7 @@
   "owner": {
     "login": "Mido22",
     "id": 3879886,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3879886?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3879886?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mido22",
     "htmlUrl": "https://github.com/Mido22",
@@ -87,10 +87,7 @@
     "scripts": {
       "test": "./soon.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mido22/stock-avg.git"
-    },
+    "repository": "https://github.com/mido22/stock-avg",
     "keywords": [
       "nodeJS",
       "electron",
@@ -98,12 +95,14 @@
       "stock",
       "data-analysis"
     ],
-    "author": "Ban Mido",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mido22/stock-avg/issues"
-    },
-    "homepage": "https://github.com/mido22/stock-avg#readme"
+    "homepage": "https://github.com/mido22/stock-avg#readme",
+    "other": {
+      "author": "Ban Mido",
+      "bugs": {
+        "url": "https://github.com/mido22/stock-avg/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +129,7 @@
   },
   "filename": "Mido22___stock-avg.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:01:18.539Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:30.464Z"
+  "lastFetchedAt": "2017-10-23T20:40:25.408Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:30.464Z",
+  "archived": false
 }

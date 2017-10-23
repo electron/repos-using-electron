@@ -5,7 +5,7 @@
   "owner": {
     "login": "Rhym",
     "id": 1136811,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1136811?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1136811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Rhym",
     "htmlUrl": "https://github.com/Rhym",
@@ -81,7 +81,6 @@
       "watch": "watchify app/app.js -t babelify -o public/javascripts/bundle.js --debug --verbose"
     },
     "keywords": [],
-    "author": "GitHub",
     "license": "CC0-1.0",
     "devDependencies": {
       "axios": "^0.15.2",
@@ -92,6 +91,9 @@
       "electron-reload": "^1.0.2",
       "react": "^15.3.2",
       "react-dom": "^15.3.2"
+    },
+    "other": {
+      "author": "GitHub"
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,7 @@
   },
   "filename": "Rhym___electron-react-quick-start.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:37:18.615Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:07.096Z"
+  "lastFetchedAt": "2017-10-23T18:05:41.931Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:07.096Z",
+  "archived": false
 }

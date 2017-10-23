@@ -5,7 +5,7 @@
   "owner": {
     "login": "Kielan",
     "id": 4452059,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4452059?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4452059?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Kielan",
     "htmlUrl": "https://github.com/Kielan",
@@ -151,10 +151,7 @@
       "webpack": "^1.12.11",
       "webpack-dev-server": "^1.14.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Kielan/onDemanager"
-    },
+    "repository": "https://github.com/Kielan/onDemanager",
     "scripts": {
       "start": "NODE_ENV=development node webpack/server.dev.js",
       "build": "NODE_ENV=production webpack --config webpack/webpack.prod.babel.js --progress --colors -p",
@@ -176,8 +173,10 @@
       "test:ie": "npm run test -- --browsers IE"
     },
     "pre-commit": "lint:staged",
-    "author": "Kielan",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "author": "Kielan"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -204,6 +203,7 @@
   },
   "filename": "Kielan___onDemanager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:03.039Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:24.874Z"
+  "lastFetchedAt": "2017-10-23T18:44:49.081Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:24.874Z",
+  "archived": false
 }

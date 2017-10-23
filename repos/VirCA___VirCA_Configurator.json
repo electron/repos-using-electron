@@ -5,7 +5,7 @@
   "owner": {
     "login": "VirCA",
     "id": 7311455,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7311455?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7311455?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/VirCA",
     "htmlUrl": "https://github.com/VirCA",
@@ -54,19 +54,12 @@
       "start": "electron main.js",
       "build": "electron-packager . VirCA_Configurator --platform=win32 --arch=ia32 --version=0.36.8"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/VirCA/VirCA_Configurator.git"
-    },
+    "repository": "https://github.com/VirCA/VirCA_Configurator",
     "keywords": [
       "VirCA",
       "Configurator"
     ],
-    "author": "tarsoly",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/VirCA/VirCA_Configurator/issues"
-    },
     "homepage": "https://github.com/VirCA/VirCA_Configurator#readme",
     "dependencies": {
       "bootstrap": "^3.3.6",
@@ -74,6 +67,12 @@
       "recursive-readdir": "^1.3.0",
       "request-ip": "^1.2.2",
       "slash": "^1.0.0"
+    },
+    "other": {
+      "author": "tarsoly",
+      "bugs": {
+        "url": "https://github.com/VirCA/VirCA_Configurator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "svnUrl": "https://github.com/VirCA/VirCA_Configurator",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:17:25.579Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:36.293Z"
+  "lastFetchedAt": "2017-10-23T20:56:48.512Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:36.293Z",
+  "archived": false
 }

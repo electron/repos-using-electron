@@ -170,7 +170,7 @@
   },
   "networkCount": 12,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-aurelia-example",
     "productName": "ElectronAureliaExample",
@@ -178,14 +178,7 @@
     "description": "An example electron app using Aurelia",
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "url": "https://github.com/jimschubert/electron-aurelia-example"
-    },
-    "author": {
-      "name": "Jim Schubert",
-      "email": "james.schubert@gmail.com",
-      "url": "ipreferjim.com"
-    },
+    "repository": "https://github.com/jimschubert/electron-aurelia-example",
     "engines": {
       "node": ">=0.10.0"
     },
@@ -243,6 +236,13 @@
         "babel-runtime": "npm:babel-runtime@^5.1.13",
         "core-js": "npm:core-js@^0.9.4"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Jim Schubert",
+        "email": "james.schubert@gmail.com",
+        "url": "ipreferjim.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -291,6 +291,6 @@
   "sourceRepo": "jimschubert/electron-aurelia-example",
   "filename": "behzad888___electron-aurelia-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:29:29.551Z",
+  "lastFetchedAt": "2017-10-23T17:17:36.563Z",
   "packageLastFetchedAt": "2017-05-04T22:34:48.450Z"
 }

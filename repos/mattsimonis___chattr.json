@@ -5,7 +5,7 @@
   "owner": {
     "login": "mattsimonis",
     "id": 720686,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/720686?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/720686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mattsimonis",
     "htmlUrl": "https://github.com/mattsimonis",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mattsimonis/chattr.git"
-    },
+    "repository": "https://github.com/mattsimonis/chattr",
     "keywords": [
       "chattr",
       "salesforce",
       "chatter",
       "electron"
     ],
-    "author": "Matt Simonis",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mattsimonis/chattr/issues"
-    },
     "homepage": "https://github.com/mattsimonis/chattr#readme",
     "dependencies": {
       "jsforce": "^1.7.0",
@@ -101,6 +94,12 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "Matt Simonis",
+      "bugs": {
+        "url": "https://github.com/mattsimonis/chattr/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "mattsimonis___chattr.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:23.270Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:45.811Z"
+  "lastFetchedAt": "2017-10-23T18:55:07.126Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:45.811Z",
+  "archived": false
 }

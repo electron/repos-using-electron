@@ -5,7 +5,7 @@
   "owner": {
     "login": "MaritimeCloud",
     "id": 6151739,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6151739?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6151739?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MaritimeCloud",
     "htmlUrl": "https://github.com/MaritimeCloud",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/MaritimeCloud/MaritimeCloudPortal/deployments",
   "createdAt": "2016-10-10T12:40:00.000Z",
   "updatedAt": "2016-10-24T09:05:37.000Z",
-  "pushedAt": "2017-05-03T10:39:57.000Z",
+  "pushedAt": "2017-10-18T10:11:14.000Z",
   "gitUrl": "git://github.com/MaritimeCloud/MaritimeCloudPortal.git",
   "sshUrl": "git@github.com:MaritimeCloud/MaritimeCloudPortal.git",
   "cloneUrl": "https://github.com/MaritimeCloud/MaritimeCloudPortal.git",
   "svnUrl": "https://github.com/MaritimeCloud/MaritimeCloudPortal",
   "homepage": null,
-  "size": 14219,
+  "size": 14313,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "TypeScript",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "MaritimeCloud",
     "id": 6151739,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6151739?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6151739?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MaritimeCloud",
     "htmlUrl": "https://github.com/MaritimeCloud",
@@ -89,7 +89,6 @@
     "name": "maritime-cloud-management-portal",
     "version": "0.5.0",
     "description": "Management Portal for the Maritime Cloud",
-    "author": "Danish Maritime Authority",
     "homepage": "http://maritimecloud.net",
     "license": "Apache 2.0",
     "dependencies": {
@@ -243,16 +242,16 @@
       "postversion": "git push && git push --tags",
       "electron": "electron ./src/electron/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MaritimeCloud/MaritimeCloudPortal.git"
-    },
-    "bugs": {
-      "url": "https://github.com/MaritimeCloud/MaritimeCloudPortal/issues"
-    },
+    "repository": "https://github.com/MaritimeCloud/MaritimeCloudPortal",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "Danish Maritime Authority",
+      "bugs": {
+        "url": "https://github.com/MaritimeCloud/MaritimeCloudPortal/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -280,6 +279,7 @@
   },
   "filename": "MaritimeCloud___MaritimeCloudPortal.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:03.998Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:17.184Z"
+  "lastFetchedAt": "2017-10-23T19:06:54.366Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:17.184Z",
+  "archived": false
 }

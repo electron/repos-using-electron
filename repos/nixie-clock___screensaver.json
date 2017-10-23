@@ -5,7 +5,7 @@
   "owner": {
     "login": "nixie-clock",
     "id": 4164392,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4164392?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4164392?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nixie-clock",
     "htmlUrl": "https://github.com/nixie-clock",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "nixie-clock",
     "id": 4164392,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4164392?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4164392?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nixie-clock",
     "htmlUrl": "https://github.com/nixie-clock",
@@ -88,15 +88,8 @@
       "start": "npm run build && electron .",
       "build": "rm -rf app/ && exec coffee -b -c -o app/ src/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nixie-clock/electron.git"
-    },
-    "author": "Nick Iv",
+    "repository": "https://github.com/nixie-clock/electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nixie-clock/electron/issues"
-    },
     "homepage": "https://github.com/nixie-clock/electron#readme",
     "devDependencies": {
       "coffee-script": "^1.10.0",
@@ -107,6 +100,12 @@
     "dependencies": {
       "jquery": "^3.1.0",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "author": "Nick Iv",
+      "bugs": {
+        "url": "https://github.com/nixie-clock/electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "nixie-clock___screensaver.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:46.328Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:36.412Z"
+  "lastFetchedAt": "2017-10-23T18:16:02.589Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:36.412Z",
+  "archived": false
 }

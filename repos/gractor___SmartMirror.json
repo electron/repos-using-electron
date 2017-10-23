@@ -5,7 +5,7 @@
   "owner": {
     "login": "gractor",
     "id": 17305255,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17305255?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17305255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gractor",
     "htmlUrl": "https://github.com/gractor",
@@ -73,21 +73,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
@@ -98,6 +91,12 @@
       "socket.io": "1.4.5",
       "socket.io-client": "*",
       "express": "*"
+    },
+    "other": {
+      "author": "Evan Cohen",
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "gractor___SmartMirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:58.101Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:42.865Z"
+  "lastFetchedAt": "2017-10-23T17:30:52.139Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:42.865Z",
+  "archived": false
 }

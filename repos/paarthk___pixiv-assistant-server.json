@@ -5,7 +5,7 @@
   "owner": {
     "login": "paarthenon",
     "id": 10353928,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10353928?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10353928?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paarthenon",
     "htmlUrl": "https://github.com/paarthenon",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-02-07T00:28:39.000Z",
   "updatedAt": "2017-04-23T00:15:08.000Z",
-  "pushedAt": "2017-04-21T04:44:06.000Z",
+  "pushedAt": "2017-06-07T16:53:57.000Z",
   "homepage": null,
-  "size": 111,
+  "size": 120,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -57,18 +57,11 @@
       "make": "electron-forge make",
       "lint": "tslint src"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/paarthenon/pixiv-assistant-server.git"
-    },
+    "repository": "https://github.com/paarthenon/pixiv-assistant-server",
     "keywords": [
       "pixiv"
     ],
-    "author": "Paarth",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paarthenon/pixiv-assistant-server/issues"
-    },
     "homepage": "https://github.com/paarthenon/pixiv-assistant-server#readme",
     "config": {
       "forge": {
@@ -138,6 +131,12 @@
       "electron-prebuilt-compile": "1.6.2",
       "tslint": "^4.5.1",
       "typescript": "^2.1.6"
+    },
+    "other": {
+      "author": "Paarth",
+      "bugs": {
+        "url": "https://github.com/paarthenon/pixiv-assistant-server/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   "svnUrl": "https://github.com/paarthenon/pixiv-assistant-server",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:20:53.800Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:12.290Z"
+  "lastFetchedAt": "2017-10-23T19:29:17.051Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:12.290Z",
+  "archived": false
 }

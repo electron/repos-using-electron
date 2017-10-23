@@ -5,7 +5,7 @@
   "owner": {
     "login": "mongodb-js",
     "id": 11214950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11214950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11214950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mongodb-js",
     "htmlUrl": "https://github.com/mongodb-js",
@@ -20,12 +20,12 @@
   "description": "Wrapper to persist Ampersand.js models and collections to various storage backends.",
   "fork": false,
   "createdAt": "2015-11-28T23:51:28.000Z",
-  "updatedAt": "2016-11-23T04:42:12.000Z",
+  "updatedAt": "2017-10-21T00:46:11.000Z",
   "pushedAt": "2017-03-14T04:07:54.000Z",
   "homepage": null,
   "size": 73,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "mongodb-js",
     "id": 11214950,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11214950?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11214950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mongodb-js",
     "htmlUrl": "https://github.com/mongodb-js",
@@ -68,24 +68,10 @@
   "packageJSON": {
     "name": "storage-mixin",
     "description": "Ampersand model mixin to persist data via various storage backends",
-    "bugs": {
-      "url": "https://github.com/mongodb-js/storage-mixin/issues"
-    },
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "homepage": "https://github.com/mongodb-js/storage-mixin",
     "version": "0.8.0",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mongodb-js/storage-mixin.git"
-    },
-    "author": "Thomas Rueckstiess <thomas@mongodb.com>",
-    "contributors": [
-      "Thomas Rueckstiess <thomas@mongodb.com>",
-      "Lucas Hrabovsky <lucas@mongodb.com>"
-    ],
+    "repository": "https://github.com/mongodb-js/storage-mixin",
     "license": "Apache-2.0",
     "keywords": [
       "mongodb-js",
@@ -129,6 +115,19 @@
     },
     "peerDepdendencies": {
       "keytar": "^3.0.0"
+    },
+    "other": {
+      "author": "Thomas Rueckstiess <thomas@mongodb.com>",
+      "bugs": {
+        "url": "https://github.com/mongodb-js/storage-mixin/issues"
+      },
+      "contributors": [
+        "Thomas Rueckstiess <thomas@mongodb.com>",
+        "Lucas Hrabovsky <lucas@mongodb.com>"
+      ],
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +175,7 @@
   "svnUrl": "https://github.com/mongodb-js/storage-mixin",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:08:18.319Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:11.669Z"
+  "lastFetchedAt": "2017-10-23T17:52:26.402Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:11.669Z",
+  "archived": false
 }

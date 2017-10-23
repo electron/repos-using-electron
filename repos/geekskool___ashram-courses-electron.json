@@ -6,7 +6,7 @@
   "owner": {
     "login": "geekskool",
     "id": 11995637,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11995637?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11995637?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/geekskool",
     "htmlUrl": "https://github.com/geekskool",
@@ -73,7 +73,7 @@
   "organization": {
     "login": "geekskool",
     "id": 11995637,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11995637?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11995637?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/geekskool",
     "htmlUrl": "https://github.com/geekskool",
@@ -87,7 +87,7 @@
   "networkCount": 0,
   "subscribersCount": 3,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T17:54:46.401Z",
+  "lastFetchedAt": "2017-10-23T17:53:21.505Z",
   "packageJSON": {
     "name": "projectv",
     "version": "0.0.1-alpha0",
@@ -98,15 +98,8 @@
       "watch": "./node_modules/.bin/webpack-dev-server",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mukeshm/projectV.git"
-    },
-    "author": "",
+    "repository": "https://github.com/mukeshm/projectV",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mukeshm/projectV/issues"
-    },
     "homepage": "https://github.com/mukeshm/projectV#readme",
     "devDependencies": {
       "babel": "^6.23.0",
@@ -129,8 +122,15 @@
       "react-dom": "^15.4.2",
       "react-router": "^3.0.2",
       "uuid": "^3.0.1"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/mukeshm/projectV/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:03:26.656Z"
+  "packageLastFetchedAt": "2017-05-05T17:03:26.656Z",
+  "archived": false
 }

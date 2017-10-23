@@ -5,7 +5,7 @@
   "owner": {
     "login": "ma-bo-do-fu",
     "id": 16829656,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16829656?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16829656?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ma-bo-do-fu",
     "htmlUrl": "https://github.com/ma-bo-do-fu",
@@ -74,16 +74,9 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "$(npm bin)/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ma-bo-do-fu/electronOauth.git"
-    },
+    "repository": "https://github.com/ma-bo-do-fu/electronOauth",
     "keywords": [],
-    "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ma-bo-do-fu/electronOauth/issues"
-    },
     "homepage": "https://github.com/ma-bo-do-fu/electronOauth#readme",
     "dependencies": {
       "electron": "^1.4.0",
@@ -100,6 +93,12 @@
       "eslint-plugin-import": "^1.15.0",
       "eslint-plugin-jsx-a11y": "^2.2.2",
       "eslint-plugin-react": "^6.3.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/ma-bo-do-fu/electronOauth/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "ma-bo-do-fu___electronOauth.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:57.911Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:31.251Z"
+  "lastFetchedAt": "2017-10-23T20:41:52.525Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:31.251Z",
+  "archived": false
 }

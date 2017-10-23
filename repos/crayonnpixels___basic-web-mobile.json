@@ -5,7 +5,7 @@
   "owner": {
     "login": "crayonnpixels",
     "id": 21695041,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21695041?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21695041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/crayonnpixels",
     "htmlUrl": "https://github.com/crayonnpixels",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "crayonnpixels",
     "id": 21695041,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21695041?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21695041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/crayonnpixels",
     "htmlUrl": "https://github.com/crayonnpixels",
@@ -83,7 +83,7 @@
     "owner": {
       "login": "jlooper",
       "id": 1450004,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1450004?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1450004?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jlooper",
       "htmlUrl": "https://github.com/jlooper",
@@ -113,27 +113,28 @@
     "downloadsUrl": "https://api.github.com/repos/jlooper/angular-starter/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jlooper/angular-starter/deployments",
     "createdAt": "2016-10-17T19:35:43.000Z",
-    "updatedAt": "2017-04-25T16:21:02.000Z",
-    "pushedAt": "2017-04-13T18:04:55.000Z",
+    "updatedAt": "2017-10-18T16:15:45.000Z",
+    "pushedAt": "2017-05-29T00:23:00.000Z",
     "gitUrl": "git://github.com/jlooper/angular-starter.git",
     "sshUrl": "git@github.com:jlooper/angular-starter.git",
     "cloneUrl": "https://github.com/jlooper/angular-starter.git",
     "svnUrl": "https://github.com/jlooper/angular-starter",
     "homepage": "https://github.com/jlooper/angular-starter",
-    "size": 3208,
-    "stargazersCount": 61,
-    "watchersCount": 61,
+    "size": 3209,
+    "stargazersCount": 77,
+    "watchersCount": 77,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 16,
+    "forksCount": 21,
     "mirrorUrl": null,
-    "openIssuesCount": 3,
-    "openIssues": 3,
-    "watchers": 61,
+    "archived": false,
+    "openIssuesCount": 4,
+    "openIssues": 4,
+    "watchers": 77,
     "defaultBranch": "master"
   },
   "source": {
@@ -143,7 +144,7 @@
     "owner": {
       "login": "jlooper",
       "id": 1450004,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1450004?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1450004?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jlooper",
       "htmlUrl": "https://github.com/jlooper",
@@ -173,39 +174,38 @@
     "downloadsUrl": "https://api.github.com/repos/jlooper/angular-starter/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jlooper/angular-starter/deployments",
     "createdAt": "2016-10-17T19:35:43.000Z",
-    "updatedAt": "2017-04-25T16:21:02.000Z",
-    "pushedAt": "2017-04-13T18:04:55.000Z",
+    "updatedAt": "2017-10-18T16:15:45.000Z",
+    "pushedAt": "2017-05-29T00:23:00.000Z",
     "gitUrl": "git://github.com/jlooper/angular-starter.git",
     "sshUrl": "git@github.com:jlooper/angular-starter.git",
     "cloneUrl": "https://github.com/jlooper/angular-starter.git",
     "svnUrl": "https://github.com/jlooper/angular-starter",
     "homepage": "https://github.com/jlooper/angular-starter",
-    "size": 3208,
-    "stargazersCount": 61,
-    "watchersCount": 61,
+    "size": 3209,
+    "stargazersCount": 77,
+    "watchersCount": 77,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 16,
+    "forksCount": 21,
     "mirrorUrl": null,
-    "openIssuesCount": 3,
-    "openIssues": 3,
-    "watchers": 61,
+    "archived": false,
+    "openIssuesCount": 4,
+    "openIssues": 4,
+    "watchers": 77,
     "defaultBranch": "master"
   },
-  "networkCount": 16,
+  "networkCount": 21,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "basic-web-mobile",
     "version": "0.0.0",
     "description": "A seed to build a web and mobile app using shared code",
-    "repository": {
-      "url": "https://github.com/jlooper/basic-web-mobile"
-    },
+    "repository": "https://github.com/jlooper/basic-web-mobile",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -257,12 +257,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Nathan Walker <NathanWalker>",
-    "contributors": [
-      {
-        "name": "Jen Looper <jlooper>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "@angular/compiler-cli": "^0.6.1",
@@ -368,6 +362,14 @@
       "rxjs": "5.0.0-beta.12",
       "systemjs": "0.19.27",
       "zone.js": "0.6.21"
+    },
+    "other": {
+      "author": "Nathan Walker <NathanWalker>",
+      "contributors": [
+        {
+          "name": "Jen Looper <jlooper>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -396,6 +398,7 @@
   "filename": "crayonnpixels___basic-web-mobile.json",
   "sourceRepo": "jlooper/angular-starter",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:09.893Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:59.980Z"
+  "lastFetchedAt": "2017-10-23T17:09:22.053Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:59.980Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "bbondy",
     "id": 831718,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/831718?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/831718?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bbondy",
     "htmlUrl": "https://github.com/bbondy",
@@ -80,15 +80,8 @@
       "test": "standard",
       "pack:osx": "electron-builder \"MyApp-darwin-x64/MyApp.app\" --platform=osx --out=\"dist\" --config=builderConfig.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bbondy/electron-sample.git"
-    },
-    "author": "Brian R. Bondy <netzen@gmail.com> (http://www.brianbondy.com)",
+    "repository": "https://github.com/bbondy/electron-sample",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bbondy/electron-sample/issues"
-    },
     "homepage": "https://github.com/bbondy/electron-sample#readme",
     "dependencies": {
       "electron-prebuilt": "^1.2.8",
@@ -125,7 +118,13 @@
     },
     "pre-commit": [
       "lint"
-    ]
+    ],
+    "other": {
+      "author": "Brian R. Bondy <netzen@gmail.com> (http://www.brianbondy.com)",
+      "bugs": {
+        "url": "https://github.com/bbondy/electron-sample/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +151,7 @@
   },
   "filename": "bbondy___electron-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:51.001Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:45.558Z"
+  "lastFetchedAt": "2017-10-23T20:39:34.337Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:45.558Z",
+  "archived": false
 }

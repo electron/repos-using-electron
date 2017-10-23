@@ -5,7 +5,7 @@
   "owner": {
     "login": "valette",
     "id": 303166,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/303166?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/303166?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/valette",
     "htmlUrl": "https://github.com/valette",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-03-30T15:35:08.000Z",
   "updatedAt": "2016-03-30T15:35:38.000Z",
-  "pushedAt": "2017-02-20T19:41:35.000Z",
+  "pushedAt": "2017-10-04T11:08:27.000Z",
   "homepage": null,
-  "size": 30,
+  "size": 73,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -57,12 +57,8 @@
     "description": "electron.js version of DESK",
     "license": "CECILL-B",
     "main": "desk.js",
-    "author": "Sebastien Valette <sebastien.valette@creatis.insa-lyon.fr> (http://www.creatis.insa-lyon.fr/~valette)",
     "version": "0.3.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/valette/desk-electron.git"
-    },
+    "repository": "https://github.com/valette/desk-electron",
     "dependencies": {
       "desk-base": ">0.0.0",
       "desk-ui": ">0.0.0",
@@ -86,6 +82,9 @@
       "zipDarwin": "zip -r desk-darwin-x64.zip desk-darwin-x64",
       "zip": "npm run zipLinux && npm run zipArmv7l && npm run zipWindows && npm run zipDarwin",
       "build": "npm run clean && npm run package && npm run zip"
+    },
+    "other": {
+      "author": "Sebastien Valette <sebastien.valette@creatis.insa-lyon.fr> (http://www.creatis.insa-lyon.fr/~valette)"
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "valette___desk-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:12:51.583Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:25.862Z"
+  "lastFetchedAt": "2017-10-23T17:39:46.053Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:25.862Z",
+  "archived": false
 }

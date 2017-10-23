@@ -5,7 +5,7 @@
   "owner": {
     "login": "qualiancy",
     "id": 1142083,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1142083?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1142083?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qualiancy",
     "htmlUrl": "https://github.com/qualiancy",
@@ -20,12 +20,12 @@
   "description": "Middleware based proxy for cluster or table based routing.",
   "fork": false,
   "createdAt": "2012-01-22T02:16:15.000Z",
-  "updatedAt": "2015-04-04T15:17:15.000Z",
+  "updatedAt": "2017-05-22T23:34:32.000Z",
   "pushedAt": "2015-07-06T16:18:48.000Z",
   "homepage": "",
   "size": 415,
-  "stargazersCount": 10,
-  "watchersCount": 10,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 10,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "qualiancy",
     "id": 1142083,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1142083?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1142083?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qualiancy",
     "htmlUrl": "https://github.com/qualiancy",
@@ -60,7 +60,6 @@
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
-    "author": "Jake Luer <jake@qualiancy.com>",
     "name": "carbon",
     "description": "Middleware based proxy for cluster or table based routing.",
     "keywords": [
@@ -71,13 +70,7 @@
     ],
     "license": "MIT",
     "version": "0.5.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/qualiancy/carbon.git"
-    },
-    "bugs": {
-      "url": "https://github.com/qualiancy/carbon/issues"
-    },
+    "repository": "https://github.com/qualiancy/carbon",
     "main": "./index",
     "bin": {
       "carbon": "./bin/carbon"
@@ -103,6 +96,12 @@
       "mocha": "*",
       "chai": "*",
       "chai-http": "*"
+    },
+    "other": {
+      "author": "Jake Luer <jake@qualiancy.com>",
+      "bugs": {
+        "url": "https://github.com/qualiancy/carbon/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   "svnUrl": "https://github.com/qualiancy/carbon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:19:37.044Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:55.936Z"
+  "lastFetchedAt": "2017-10-23T17:11:08.057Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:55.936Z",
+  "archived": false
 }

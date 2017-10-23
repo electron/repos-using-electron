@@ -5,7 +5,7 @@
   "owner": {
     "login": "joaomaridalho",
     "id": 16777249,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16777249?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16777249?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joaomaridalho",
     "htmlUrl": "https://github.com/joaomaridalho",
@@ -79,21 +79,20 @@
     "scripts": {
       "start": "lessc ./assets/css/app.less ./assets/css/app.css && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/joaomaridalho/DevTasks.git"
-    },
-    "author": "João Maridalho",
+    "repository": "https://github.com/joaomaridalho/DevTasks",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/joaomaridalho/DevTasks/issues"
-    },
     "homepage": "https://github.com/joaomaridalho/DevTasks#readme",
     "devDependencies": {
       "electron": "^1.3.3"
     },
     "dependencies": {
       "jquery": "^3.1.0"
+    },
+    "other": {
+      "author": "João Maridalho",
+      "bugs": {
+        "url": "https://github.com/joaomaridalho/DevTasks/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "joaomaridalho___DevTasks.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:35.930Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:14.858Z"
+  "lastFetchedAt": "2017-10-23T18:02:40.570Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:14.858Z",
+  "archived": false
 }

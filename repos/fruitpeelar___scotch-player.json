@@ -5,7 +5,7 @@
   "owner": {
     "login": "fruitpeelar",
     "id": 8967292,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8967292?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8967292?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fruitpeelar",
     "htmlUrl": "https://github.com/fruitpeelar",
@@ -81,7 +81,6 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "author": "Scotch",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -97,6 +96,9 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "Scotch"
     }
   },
   "packageStatus": 200,
@@ -125,6 +127,7 @@
   "filename": "fruitpeelar___scotch-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:43.440Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:28.268Z"
+  "lastFetchedAt": "2017-10-23T17:04:50.661Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:28.268Z",
+  "archived": false
 }

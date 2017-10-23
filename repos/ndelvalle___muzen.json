@@ -5,7 +5,7 @@
   "owner": {
     "login": "ndelvalle",
     "id": 6719053,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6719053?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6719053?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ndelvalle",
     "htmlUrl": "https://github.com/ndelvalle",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/ndelvalle/muzen/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ndelvalle/muzen/deployments",
   "createdAt": "2016-10-11T22:14:47.000Z",
-  "updatedAt": "2017-01-04T20:11:49.000Z",
+  "updatedAt": "2017-08-16T20:24:10.000Z",
   "pushedAt": "2017-01-23T02:06:37.000Z",
   "gitUrl": "git://github.com/ndelvalle/muzen.git",
   "sshUrl": "git@github.com:ndelvalle/muzen.git",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -82,7 +82,6 @@
       "pack": "cross-env NODE_ENV=production webpack -p --progress --colors",
       "postinstall": "npm run lint:fix && cd app && npm install"
     },
-    "author": "Nicolas Del Valle <nicolas.delvalle@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -125,6 +124,9 @@
     },
     "dependencies": {
       "autocannon": "^0.14.1"
+    },
+    "other": {
+      "author": "Nicolas Del Valle <nicolas.delvalle@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -152,6 +154,7 @@
   },
   "filename": "ndelvalle___muzen.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:14.630Z",
-  "packageLastFetchedAt": "2017-05-04T22:02:53.160Z"
+  "lastFetchedAt": "2017-10-23T17:37:47.818Z",
+  "packageLastFetchedAt": "2017-05-04T22:02:53.160Z",
+  "archived": false
 }

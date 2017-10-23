@@ -5,7 +5,7 @@
   "owner": {
     "login": "yamashi",
     "id": 672982,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/672982?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/672982?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yamashi",
     "htmlUrl": "https://github.com/yamashi",
@@ -59,24 +59,23 @@
     "scripts": {
       "start": "electron . --disable-http-cache --ignore-certificate-errors"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yamashi/NecroUI.git"
-    },
+    "repository": "https://github.com/yamashi/NecroUI",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/yamashi/NecroUI/issues"
-    },
     "homepage": "https://github.com/yamashi/NecroUI/blob/master/README.md",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/yamashi/NecroUI/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/yamashi/NecroUI",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:39:22.528Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:10.435Z"
+  "lastFetchedAt": "2017-10-23T17:43:17.359Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:10.435Z",
+  "archived": false
 }

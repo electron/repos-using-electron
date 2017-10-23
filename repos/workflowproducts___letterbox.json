@@ -5,7 +5,7 @@
   "owner": {
     "login": "workflowproducts",
     "id": 22156405,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/22156405?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/22156405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/workflowproducts",
     "htmlUrl": "https://github.com/workflowproducts",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/workflowproducts/letterbox/downloads",
   "deploymentsUrl": "https://api.github.com/repos/workflowproducts/letterbox/deployments",
   "createdAt": "2016-11-04T15:17:29.000Z",
-  "updatedAt": "2016-12-14T07:45:08.000Z",
+  "updatedAt": "2017-08-01T17:25:33.000Z",
   "pushedAt": "2017-04-28T21:53:44.000Z",
   "gitUrl": "git://github.com/workflowproducts/letterbox.git",
   "sshUrl": "git@github.com:workflowproducts/letterbox.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/workflowproducts/letterbox",
   "homepage": null,
   "size": 45,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "workflowproducts",
     "id": 22156405,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/22156405?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/22156405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/workflowproducts",
     "htmlUrl": "https://github.com/workflowproducts",
@@ -90,21 +90,14 @@
     "version": "2.0.14",
     "description": "A database driven application platform using Envelope",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/workflowproducts/letterbox.git"
-    },
+    "repository": "https://github.com/workflowproducts/letterbox",
     "keywords": [
       "envelope",
       "electron",
       "postgres",
       "application"
     ],
-    "author": "Nunzio Tocci <nunzio@workflowproducts.com> (http://www.workflowproducts.com/)",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/workflowproducts/letterbox/issues"
-    },
     "homepage": "https://github.com/workflowproducts/letterbox#readme",
     "dependencies": {
       "electron-context-menu": "^0.6.0",
@@ -120,6 +113,12 @@
       "envelope-portable-linux32": "3.2.7-build1",
       "envelope-portable-linux64": "3.2.7-build1",
       "envelope-portable-windows": "3.2.7-build1"
+    },
+    "other": {
+      "author": "Nunzio Tocci <nunzio@workflowproducts.com> (http://www.workflowproducts.com/)",
+      "bugs": {
+        "url": "https://github.com/workflowproducts/letterbox/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "workflowproducts___letterbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:57:20.856Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:34.937Z"
+  "lastFetchedAt": "2017-10-23T18:44:11.992Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:34.937Z",
+  "archived": false
 }

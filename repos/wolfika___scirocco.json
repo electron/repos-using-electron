@@ -5,7 +5,7 @@
   "owner": {
     "login": "wolfika",
     "id": 1512067,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1512067?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1512067?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wolfika",
     "htmlUrl": "https://github.com/wolfika",
@@ -55,20 +55,9 @@
     "name": "scirocco",
     "version": "0.0.1",
     "description": "BitTorrent client written in JavaScript",
-    "author": {
-      "name": "Máté Farkas",
-      "email": "farkas.mate38@gmail.com",
-      "url": "https://github.com/wolfika"
-    },
     "license": "MIT",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wolfika/scirocco"
-    },
-    "bugs": {
-      "url": "https://github.com/wolfika/scirocco/issues"
-    },
+    "repository": "https://github.com/wolfika/scirocco",
     "scripts": {
       "start": "gulp",
       "electron": "electron build/lib/bootstrap.js",
@@ -106,6 +95,16 @@
     "config": {
       "commitizen": {
         "path": "node_modules/cz-conventional-changelog"
+      }
+    },
+    "other": {
+      "author": {
+        "name": "Máté Farkas",
+        "email": "farkas.mate38@gmail.com",
+        "url": "https://github.com/wolfika"
+      },
+      "bugs": {
+        "url": "https://github.com/wolfika/scirocco/issues"
       }
     }
   },
@@ -154,6 +153,7 @@
   "svnUrl": "https://github.com/wolfika/scirocco",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:55:32.701Z",
-  "packageLastFetchedAt": "2017-05-05T13:58:10.540Z"
+  "lastFetchedAt": "2017-10-23T17:14:28.394Z",
+  "packageLastFetchedAt": "2017-05-05T13:58:10.540Z",
+  "archived": false
 }

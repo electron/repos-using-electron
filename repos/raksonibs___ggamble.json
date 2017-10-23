@@ -5,7 +5,7 @@
   "owner": {
     "login": "raksonibs",
     "id": 5430402,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5430402?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5430402?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/raksonibs",
     "htmlUrl": "https://github.com/raksonibs",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for ggamble goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -63,7 +59,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.4.2",
@@ -174,6 +169,13 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -221,6 +223,7 @@
   "svnUrl": "https://github.com/raksonibs/ggamble",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:16:39.769Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:11.267Z"
+  "lastFetchedAt": "2017-10-23T20:25:12.923Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:11.267Z",
+  "archived": false
 }

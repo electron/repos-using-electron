@@ -5,7 +5,7 @@
   "owner": {
     "login": "DarkKaname",
     "id": 16843072,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16843072?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16843072?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DarkKaname",
     "htmlUrl": "https://github.com/DarkKaname",
@@ -101,27 +101,7 @@
       "test": "NODE_ENV=test mocha --compilers js:babel-register --recursive $(find test -name '*Test.js')"
     },
     "repository": "brave/browser-laptop",
-    "author": {
-      "name": "Brave Developers <support@brave.com>"
-    },
-    "contributors": [
-      {
-        "name": "Brian R. Bondy",
-        "email": "brian@brave.com"
-      },
-      {
-        "name": "Aubrey Keus",
-        "email": "aubrey@brave.com"
-      },
-      {
-        "name": "Brian Johnson",
-        "email": "bjohnson@brave.com"
-      }
-    ],
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/bbondy/electron-sample/issues"
-    },
     "homepage": "https://github.com/bbondy/electron-sample#readme",
     "dependencies": {
       "abp-filter-parser-cpp": "^1.0.22",
@@ -198,6 +178,28 @@
     "engineStrict": true,
     "engines": {
       "node": ">= 5.0.0"
+    },
+    "other": {
+      "author": {
+        "name": "Brave Developers <support@brave.com>"
+      },
+      "bugs": {
+        "url": "https://github.com/bbondy/electron-sample/issues"
+      },
+      "contributors": [
+        {
+          "name": "Brian R. Bondy",
+          "email": "brian@brave.com"
+        },
+        {
+          "name": "Aubrey Keus",
+          "email": "aubrey@brave.com"
+        },
+        {
+          "name": "Brian Johnson",
+          "email": "bjohnson@brave.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -226,6 +228,7 @@
   "filename": "DarkKaname___Brave-Browser.json",
   "sourceRepo": "brave/browser-laptop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:32.404Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:55.502Z"
+  "lastFetchedAt": "2017-10-23T17:56:53.004Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:55.502Z",
+  "archived": false
 }

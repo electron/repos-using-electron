@@ -5,7 +5,7 @@
   "owner": {
     "login": "harc",
     "id": 22809831,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/22809831?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/22809831?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/harc",
     "htmlUrl": "https://github.com/harc",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/harc/ohm-editor/downloads",
   "deploymentsUrl": "https://api.github.com/repos/harc/ohm-editor/deployments",
   "createdAt": "2016-05-16T22:24:07.000Z",
-  "updatedAt": "2017-05-03T14:01:34.000Z",
-  "pushedAt": "2017-03-28T19:18:56.000Z",
+  "updatedAt": "2017-10-12T03:01:54.000Z",
+  "pushedAt": "2017-10-04T08:03:20.000Z",
   "gitUrl": "git://github.com/harc/ohm-editor.git",
   "sshUrl": "git@github.com:harc/ohm-editor.git",
   "cloneUrl": "https://github.com/harc/ohm-editor.git",
   "svnUrl": "https://github.com/harc/ohm-editor",
   "homepage": null,
-  "size": 41292,
-  "stargazersCount": 44,
-  "watchersCount": 44,
+  "size": 41368,
+  "stargazersCount": 48,
+  "watchersCount": 48,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 19,
-  "openIssues": 19,
-  "watchers": 44,
+  "openIssuesCount": 13,
+  "openIssues": 13,
+  "watchers": 48,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "harc",
     "id": 22809831,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/22809831?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/22809831?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/harc",
     "htmlUrl": "https://github.com/harc",
@@ -102,7 +102,6 @@
       "prototyping"
     ],
     "homepage": "https://ohmlang.github.io/editor/",
-    "bugs": "https://github.com/harc/ohm-editor/issues",
     "main": "index.js",
     "bin": {
       "ohm-editor": "cli.js"
@@ -125,13 +124,6 @@
       "test"
     ],
     "license": "MIT",
-    "author": "Alex Warth <alexwarth@gmail.com> (http://tinlizzie.org/~awarth)",
-    "contributors": [
-      "Marko Röder <m.roeder@photon-software.de>",
-      "Meixian Li <lmeixian@gmail.com>",
-      "Patrick Dubroy <pdubroy@gmail.com>",
-      "Saketh Kasibatla <sake.kasi@gmail.com>"
-    ],
     "dependencies": {
       "electron-prebuilt": "^1.1.0",
       "ohm-js": "git://github.com/harc/ohm.git#537ff61"
@@ -176,6 +168,16 @@
     },
     "engines": {
       "node": ">=4.0"
+    },
+    "other": {
+      "author": "Alex Warth <alexwarth@gmail.com> (http://tinlizzie.org/~awarth)",
+      "bugs": "https://github.com/harc/ohm-editor/issues",
+      "contributors": [
+        "Marko Röder <m.roeder@photon-software.de>",
+        "Meixian Li <lmeixian@gmail.com>",
+        "Patrick Dubroy <pdubroy@gmail.com>",
+        "Saketh Kasibatla <sake.kasi@gmail.com>"
+      ]
     }
   },
   "packageStatus": 200,
@@ -204,6 +206,7 @@
   "filename": "cdglabs___ohm-editor.json",
   "sourceRepo": "harc/ohm-editor",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:17.067Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:26.253Z"
+  "lastFetchedAt": "2017-10-23T21:06:01.157Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:26.253Z",
+  "archived": false
 }

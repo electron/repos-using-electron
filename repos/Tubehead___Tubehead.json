@@ -5,7 +5,7 @@
   "owner": {
     "login": "Tubehead",
     "id": 16859218,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16859218?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16859218?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Tubehead",
     "htmlUrl": "https://github.com/Tubehead",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Tubehead/Tubehead/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Tubehead/Tubehead/deployments",
   "createdAt": "2015-12-16T14:36:57.000Z",
-  "updatedAt": "2017-04-19T09:51:31.000Z",
+  "updatedAt": "2017-09-20T03:16:39.000Z",
   "pushedAt": "2016-03-27T12:30:21.000Z",
   "gitUrl": "git://github.com/Tubehead/Tubehead.git",
   "sshUrl": "git@github.com:Tubehead/Tubehead.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Tubehead/Tubehead",
   "homepage": "https://github.com/Tubehead/Tubehead/releases",
   "size": 1060,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "stargazersCount": 25,
+  "watchersCount": 25,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 21,
+  "watchers": 25,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Tubehead",
     "id": 16859218,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16859218?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16859218?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Tubehead",
     "htmlUrl": "https://github.com/Tubehead",
@@ -91,12 +91,8 @@
       "build": "gulp build",
       "package": "gulp package && zip Tubehead-darwin-x64.zip -r ./Tubehead-darwin-x64"
     },
-    "author": "makotot",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Tubehead/Tubehead.git"
-    },
+    "repository": "https://github.com/Tubehead/Tubehead",
     "dependencies": {
       "babel-core": "^6.4.5",
       "express": "^4.13.4",
@@ -138,6 +134,9 @@
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0",
       "watchify": "^3.7.0"
+    },
+    "other": {
+      "author": "makotot"
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   },
   "filename": "Tubehead___Tubehead.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:23:14.380Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:25.514Z"
+  "lastFetchedAt": "2017-10-23T20:10:08.174Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:25.514Z",
+  "archived": false
 }

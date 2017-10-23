@@ -5,7 +5,7 @@
   "owner": {
     "login": "icecreamliker",
     "id": 721822,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/721822?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/721822?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/icecreamliker",
     "htmlUrl": "https://github.com/icecreamliker",
@@ -79,15 +79,11 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/icecreamliker/todo.git"
-    },
+    "repository": "https://github.com/icecreamliker/todo",
     "keywords": [
       "TODO",
       "GTD"
     ],
-    "author": "Lee Yao <yaoli111144@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "autoprefixer-loader": "^3.2.0",
@@ -100,6 +96,9 @@
       "less-loader": "^2.2.3",
       "react": "^0.14.7",
       "webpack": "^1.12.14"
+    },
+    "other": {
+      "author": "Lee Yao <yaoli111144@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "icecreamliker___todo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:50.565Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:55.565Z"
+  "lastFetchedAt": "2017-10-23T20:55:42.121Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:55.565Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "13hsha",
     "id": 5515813,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5515813?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5515813?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/13hsha",
     "htmlUrl": "https://github.com/13hsha",
@@ -70,9 +70,6 @@
     "version": "0.0.0",
     "description": "threeJS in the yurt",
     "main": "index.js",
-    "directories": {
-      "doc": "docs"
-    },
     "dependencies": {
       "commander": "~2.9.0",
       "electron-prebuilt": "~1.1.2",
@@ -83,16 +80,18 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/13hsha/ccv.git"
-    },
-    "author": "Heather Sha & Martha Edwards",
+    "repository": "https://github.com/13hsha/ccv",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/13hsha/ccv/issues"
-    },
-    "homepage": "https://github.com/13hsha/ccv"
+    "homepage": "https://github.com/13hsha/ccv",
+    "other": {
+      "author": "Heather Sha & Martha Edwards",
+      "bugs": {
+        "url": "https://github.com/13hsha/ccv/issues"
+      },
+      "directories": {
+        "doc": "docs"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +118,7 @@
   },
   "filename": "13hsha___ccv.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:44.146Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:52.714Z"
+  "lastFetchedAt": "2017-10-23T18:46:19.223Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:52.714Z",
+  "archived": false
 }

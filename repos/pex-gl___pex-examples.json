@@ -5,7 +5,7 @@
   "owner": {
     "login": "pex-gl",
     "id": 13921958,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13921958?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13921958?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pex-gl",
     "htmlUrl": "https://github.com/pex-gl",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/pex-gl/pex-examples/downloads",
   "deploymentsUrl": "https://api.github.com/repos/pex-gl/pex-examples/deployments",
   "createdAt": "2014-04-30T21:53:33.000Z",
-  "updatedAt": "2017-04-19T18:21:01.000Z",
+  "updatedAt": "2017-09-11T15:02:55.000Z",
   "pushedAt": "2016-05-11T09:20:19.000Z",
   "gitUrl": "git://github.com/pex-gl/pex-examples.git",
   "sshUrl": "git@github.com:pex-gl/pex-examples.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/pex-gl/pex-examples",
   "homepage": null,
   "size": 30935,
-  "stargazersCount": 13,
-  "watchersCount": 13,
+  "stargazersCount": 14,
+  "watchersCount": 14,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 13,
+  "watchers": 14,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "pex-gl",
     "id": 13921958,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13921958?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13921958?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pex-gl",
     "htmlUrl": "https://github.com/pex-gl",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 4,
-  "subscribersCount": 4,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "pex-examples",
@@ -96,29 +96,8 @@
       "3d",
       "graphics"
     ],
-    "author": {
-      "name": "variable.io",
-      "email": "contact@variable.io",
-      "url": "http://variable.io"
-    },
-    "contributors": [
-      {
-        "name": "Marcin Ignac",
-        "email": "marcin.ignac@gmail.com",
-        "url": "http://marcinignac.com"
-      },
-      {
-        "name": "Henryk Wollik",
-        "email": "hwollik@hotmail.com",
-        "url": "http://henrykwollik.com"
-      }
-    ],
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pex-gl/pex-examples.git"
-    },
-    "bugs": "https://github.com/pex-gl/pex-examples/issues",
+    "repository": "https://github.com/pex-gl/pex-examples",
     "license": "MIT",
     "dependencies": {
       "browserify": "^10.2.6",
@@ -152,6 +131,26 @@
     },
     "scripts": {
       "example": "beefy context.createMesh/main.js  --open -- -i plask -t glslify-promise/transform"
+    },
+    "other": {
+      "author": {
+        "name": "variable.io",
+        "email": "contact@variable.io",
+        "url": "http://variable.io"
+      },
+      "bugs": "https://github.com/pex-gl/pex-examples/issues",
+      "contributors": [
+        {
+          "name": "Marcin Ignac",
+          "email": "marcin.ignac@gmail.com",
+          "url": "http://marcinignac.com"
+        },
+        {
+          "name": "Henryk Wollik",
+          "email": "hwollik@hotmail.com",
+          "url": "http://henrykwollik.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -179,6 +178,7 @@
   },
   "filename": "pex-gl___pex-examples.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:02:47.813Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:43.031Z"
+  "lastFetchedAt": "2017-10-23T19:29:57.750Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:43.031Z",
+  "archived": false
 }

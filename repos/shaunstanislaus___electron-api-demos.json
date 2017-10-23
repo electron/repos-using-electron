@@ -5,7 +5,7 @@
   "owner": {
     "login": "shaunstanislaus",
     "id": 1703530,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1703530?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1703530?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shaunstanislaus",
     "htmlUrl": "https://github.com/shaunstanislaus",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "electron",
       "id": 13409222,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13409222?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13409222?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/electron",
       "htmlUrl": "https://github.com/electron",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/electron/electron-api-demos/downloads",
     "deploymentsUrl": "https://api.github.com/repos/electron/electron-api-demos/deployments",
     "createdAt": "2015-10-16T17:59:08.000Z",
-    "updatedAt": "2017-05-04T18:57:42.000Z",
-    "pushedAt": "2017-05-04T19:58:12.000Z",
+    "updatedAt": "2017-10-23T17:31:48.000Z",
+    "pushedAt": "2017-10-10T08:08:45.000Z",
     "gitUrl": "git://github.com/electron/electron-api-demos.git",
     "sshUrl": "git@github.com:electron/electron-api-demos.git",
     "cloneUrl": "https://github.com/electron/electron-api-demos.git",
     "svnUrl": "https://github.com/electron/electron-api-demos",
     "homepage": "http://electron.atom.io/#get-started",
-    "size": 4850,
-    "stargazersCount": 2464,
-    "watchersCount": 2464,
+    "size": 4863,
+    "stargazersCount": 3122,
+    "watchersCount": 3122,
     "language": "HTML",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 384,
+    "forksCount": 506,
     "mirrorUrl": null,
-    "openIssuesCount": 14,
-    "openIssues": 14,
-    "watchers": 2464,
+    "archived": false,
+    "openIssuesCount": 25,
+    "openIssues": 25,
+    "watchers": 3122,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "electron",
       "id": 13409222,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/13409222?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/13409222?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/electron",
       "htmlUrl": "https://github.com/electron",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/electron/electron-api-demos/downloads",
     "deploymentsUrl": "https://api.github.com/repos/electron/electron-api-demos/deployments",
     "createdAt": "2015-10-16T17:59:08.000Z",
-    "updatedAt": "2017-05-04T18:57:42.000Z",
-    "pushedAt": "2017-05-04T19:58:12.000Z",
+    "updatedAt": "2017-10-23T17:31:48.000Z",
+    "pushedAt": "2017-10-10T08:08:45.000Z",
     "gitUrl": "git://github.com/electron/electron-api-demos.git",
     "sshUrl": "git@github.com:electron/electron-api-demos.git",
     "cloneUrl": "https://github.com/electron/electron-api-demos.git",
     "svnUrl": "https://github.com/electron/electron-api-demos",
     "homepage": "http://electron.atom.io/#get-started",
-    "size": 4850,
-    "stargazersCount": 2464,
-    "watchersCount": 2464,
+    "size": 4863,
+    "stargazersCount": 3122,
+    "watchersCount": 3122,
     "language": "HTML",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 384,
+    "forksCount": 506,
     "mirrorUrl": null,
-    "openIssuesCount": 14,
-    "openIssues": 14,
-    "watchers": 2464,
+    "archived": false,
+    "openIssuesCount": 25,
+    "openIssues": 25,
+    "watchers": 3122,
     "defaultBranch": "master"
   },
-  "networkCount": 384,
+  "networkCount": 506,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -187,20 +189,13 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-api-demos.git"
-    },
+    "repository": "https://github.com/electron/electron-api-demos",
     "keywords": [
       "Electron",
       "API",
       "demo"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-api-demos/issues"
-    },
     "homepage": "https://github.com/electron/electron-api-demos#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -225,6 +220,12 @@
     "standard": {
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-api-demos/issues"
       }
     }
   },
@@ -274,6 +275,7 @@
   "filename": "shaunstanislaus___electron-api-demos.json",
   "sourceRepo": "electron/electron-api-demos",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:06:38.035Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:35.807Z"
+  "lastFetchedAt": "2017-10-23T18:57:20.488Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:35.807Z",
+  "archived": false
 }

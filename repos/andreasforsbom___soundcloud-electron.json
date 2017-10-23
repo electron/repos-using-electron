@@ -5,7 +5,7 @@
   "owner": {
     "login": "andreasforsbom",
     "id": 4124894,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4124894?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4124894?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andreasforsbom",
     "htmlUrl": "https://github.com/andreasforsbom",
@@ -79,22 +79,21 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/andreasforsbom/soundcloud-electron.git"
-    },
+    "repository": "https://github.com/andreasforsbom/soundcloud-electron",
     "keywords": [
       "Soundcloud",
       "electron"
     ],
-    "author": "Andreas Forsbom",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/andreasforsbom/soundcloud-electron/issues"
-    },
     "homepage": "https://github.com/andreasforsbom/soundcloud-electron#readme",
     "dependencies": {
       "electron-prebuilt": "^0.36.7"
+    },
+    "other": {
+      "author": "Andreas Forsbom",
+      "bugs": {
+        "url": "https://github.com/andreasforsbom/soundcloud-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "andreasforsbom___soundcloud-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:52:16.598Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:10.517Z"
+  "lastFetchedAt": "2017-10-23T18:50:41.766Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:10.517Z",
+  "archived": false
 }

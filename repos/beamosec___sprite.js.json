@@ -5,7 +5,7 @@
   "owner": {
     "login": "beamosec",
     "id": 13819848,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13819848?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13819848?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/beamosec",
     "htmlUrl": "https://github.com/beamosec",
@@ -80,21 +80,20 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/beamosec/sprite.js.git"
-    },
-    "author": "beamosec",
+    "repository": "https://github.com/beamosec/sprite.js",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/beamosec/sprite.js/issues"
-    },
     "homepage": "https://github.com/beamosec/sprite.js#readme",
     "dependencies": {
       "buzz": "^1.2.0"
     },
     "devDependencies": {
       "electron": "^1.4.3"
+    },
+    "other": {
+      "author": "beamosec",
+      "bugs": {
+        "url": "https://github.com/beamosec/sprite.js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "beamosec___sprite.js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:20.288Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:09.857Z"
+  "lastFetchedAt": "2017-10-23T17:35:38.600Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:09.857Z",
+  "archived": false
 }

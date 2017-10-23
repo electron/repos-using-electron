@@ -5,7 +5,7 @@
   "owner": {
     "login": "arogan-group",
     "id": 22391541,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22391541?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22391541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/arogan-group",
     "htmlUrl": "https://github.com/arogan-group",
@@ -20,21 +20,21 @@
   "description": null,
   "fork": false,
   "createdAt": "2016-03-13T20:13:21.000Z",
-  "updatedAt": "2017-04-11T10:09:51.000Z",
-  "pushedAt": "2017-03-25T17:50:13.000Z",
+  "updatedAt": "2017-09-11T02:00:29.000Z",
+  "pushedAt": "2017-07-12T07:24:01.000Z",
   "homepage": null,
-  "size": 1368,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 1370,
+  "stargazersCount": 20,
+  "watchersCount": 20,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
   "forksCount": 1,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 18,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 20,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 8,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "irc4osu",
@@ -63,23 +63,12 @@
       "dist": "build",
       "dist-wm": "build -w -m"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/GAMELASTER/irc4osu.git"
-    },
+    "repository": "https://github.com/GAMELASTER/irc4osu",
     "keywords": [
       "irc",
       "osu"
     ],
-    "author": "Noobish",
-    "contributors": [
-      "Uwe Wiemer <hallowatcher@gmail.com> (http://hwchr.com/)",
-      "GAMELASTER <gamelaster@outlook.com> (http://marekkraus.sk/)"
-    ],
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/GAMELASTER/irc4osu/issues"
-    },
     "homepage": "https://github.com/GAMELASTER/irc4osu#readme",
     "devDependencies": {
       "electron": "^1.4.4",
@@ -102,6 +91,16 @@
       "win": {
         "iconUrl": "https://raw.githubusercontent.com/arogan-group/irc4osu/master/app/resources/images/logo.ico"
       }
+    },
+    "other": {
+      "author": "Noobish",
+      "bugs": {
+        "url": "https://github.com/GAMELASTER/irc4osu/issues"
+      },
+      "contributors": [
+        "Uwe Wiemer <hallowatcher@gmail.com> (http://hwchr.com/)",
+        "GAMELASTER <gamelaster@outlook.com> (http://marekkraus.sk/)"
+      ]
     }
   },
   "packageStatus": 200,
@@ -153,7 +152,7 @@
   "organization": {
     "login": "arogan-group",
     "id": 22391541,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22391541?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22391541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/arogan-group",
     "htmlUrl": "https://github.com/arogan-group",
@@ -164,6 +163,7 @@
     "receivedEventsUrl": "https://api.github.com/users/arogan-group/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T19:54:26.002Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:03.181Z"
+  "lastFetchedAt": "2017-10-23T21:03:59.939Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:03.181Z",
+  "archived": false
 }

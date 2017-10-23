@@ -5,7 +5,7 @@
   "owner": {
     "login": "leeola",
     "id": 47556,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/47556?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/47556?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/leeola",
     "htmlUrl": "https://github.com/leeola",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/leeola/koding/downloads",
   "deploymentsUrl": "https://api.github.com/repos/leeola/koding/deployments",
   "createdAt": "2015-04-06T23:32:47.000Z",
-  "updatedAt": "2017-05-03T01:40:46.000Z",
+  "updatedAt": "2017-08-31T21:34:36.000Z",
   "pushedAt": "2016-09-08T17:00:41.000Z",
   "gitUrl": "git://github.com/leeola/koding.git",
   "sshUrl": "git@github.com:leeola/koding.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/leeola/koding",
   "homepage": "https://koding.com",
   "size": 589983,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "CoffeeScript",
   "hasIssues": false,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,19 +69,15 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
-    "author": "Koding Team <team@koding.com>",
     "name": "Koding",
     "description": "Koding codebase",
     "version": "0.9.2",
     "homepage": "koding.com",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:koding/koding.git"
-    },
+    "repository": "https://github.com/koding/koding",
     "main": "server/index.js",
     "scripts": {
       "preinstall": "./.npm-preinstall.sh",
@@ -189,6 +185,9 @@
     "optionalDependencies": {},
     "engines": {
       "node": "0.10.20"
+    },
+    "other": {
+      "author": "Koding Team <team@koding.com>"
     }
   },
   "packageStatus": 200,
@@ -216,6 +215,7 @@
   },
   "filename": "leeola___koding.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:16:38.146Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:55.984Z"
+  "lastFetchedAt": "2017-10-23T20:12:37.447Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:55.984Z",
+  "archived": false
 }

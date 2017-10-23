@@ -5,7 +5,7 @@
   "owner": {
     "login": "QuantumNinja92",
     "id": 13407825,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13407825?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13407825?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/QuantumNinja92",
     "htmlUrl": "https://github.com/QuantumNinja92",
@@ -74,21 +74,14 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/QuantumNinja92/soundcloud-player"
-    },
+    "repository": "https://github.com/QuantumNinja92/soundcloud-player",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Ramzy Karam",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/QuantumNinja92/soundcloud-player"
-    },
     "homepage": "Heroku-URL",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -103,6 +96,12 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "author": "Ramzy Karam",
+      "bugs": {
+        "url": "https://github.com/QuantumNinja92/soundcloud-player"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "filename": "QuantumNinja92___soundcloud-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:10.164Z",
-  "packageLastFetchedAt": "2017-05-04T22:28:39.169Z"
+  "lastFetchedAt": "2017-10-23T20:26:25.051Z",
+  "packageLastFetchedAt": "2017-05-04T22:28:39.169Z",
+  "archived": false
 }

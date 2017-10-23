@@ -5,7 +5,7 @@
   "owner": {
     "login": "mironal",
     "id": 537587,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/537587?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/537587?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mironal",
     "htmlUrl": "https://github.com/mironal",
@@ -82,7 +82,6 @@
       "pack-mac": "electron-packager . \"Make LGTM!\" --platform=darwin --arch=x64 --version=0.34.1 --out=builds --icon=img/menubar-icon@2x.png",
       "pack-win": "electron-packager . \"Make LGTM!\" --platform=win32 --arch=x64 --version=0.34.1 --out=builds --icon=img/menubar-icon@2x.png"
     },
-    "author": "mironal",
     "license": "MIT",
     "dependencies": {
       "react": "^0.13.3",
@@ -91,7 +90,10 @@
       "underscore": "^1.8.3",
       "electron-prebuilt": "^0.31.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "mironal"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +120,7 @@
   },
   "filename": "mironal___make-lgtm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:04:03.165Z",
-  "packageLastFetchedAt": "2017-05-04T22:20:29.298Z"
+  "lastFetchedAt": "2017-10-23T18:15:31.936Z",
+  "packageLastFetchedAt": "2017-05-04T22:20:29.298Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "Periculosus",
     "id": 20902072,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20902072?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20902072?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Periculosus",
     "htmlUrl": "https://github.com/Periculosus",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/Periculosus/press-stamp/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Periculosus/press-stamp/deployments",
   "createdAt": "2017-03-27T17:39:18.000Z",
-  "updatedAt": "2017-03-27T17:47:16.000Z",
-  "pushedAt": "2017-04-21T14:22:31.000Z",
+  "updatedAt": "2017-06-03T18:38:53.000Z",
+  "pushedAt": "2017-06-06T23:37:44.000Z",
   "gitUrl": "git://github.com/Periculosus/press-stamp.git",
   "sshUrl": "git@github.com:Periculosus/press-stamp.git",
   "cloneUrl": "https://github.com/Periculosus/press-stamp.git",
   "svnUrl": "https://github.com/Periculosus/press-stamp",
   "homepage": null,
-  "size": 3511,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 96206,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 0,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T18:11:04.311Z",
+  "lastFetchedAt": "2017-10-23T18:10:43.365Z",
   "packageJSON": {
     "name": "press-stamp",
     "version": "0.0.1",
@@ -76,17 +76,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "press-stamp system",
       "compensator",
       "elastic plate",
       "contact ratio"
     ],
-    "author": "Alex Babaevsky",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron": "^1.4.1",
@@ -95,11 +91,15 @@
     "dependencies": {
       "electron-window-manager": "^1.0.1"
     },
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
-    "homepage": "https://github.com/electron/electron-quick-start#readme"
+    "homepage": "https://github.com/electron/electron-quick-start#readme",
+    "other": {
+      "author": "Alex Babaevsky",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:27:38.818Z"
+  "packageLastFetchedAt": "2017-05-04T22:27:38.818Z",
+  "archived": false
 }

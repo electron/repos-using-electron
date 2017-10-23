@@ -5,7 +5,7 @@
   "owner": {
     "login": "EdZava",
     "id": 1155199,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1155199?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1155199?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EdZava",
     "htmlUrl": "https://github.com/EdZava",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "0x00A",
       "id": 136109,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/136109?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/136109?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/0x00A",
       "htmlUrl": "https://github.com/0x00A",
@@ -85,27 +85,28 @@
     "downloadsUrl": "https://api.github.com/repos/0x00A/levelui/downloads",
     "deploymentsUrl": "https://api.github.com/repos/0x00A/levelui/deployments",
     "createdAt": "2013-03-16T02:14:20.000Z",
-    "updatedAt": "2017-04-30T05:26:33.000Z",
-    "pushedAt": "2017-03-23T22:27:36.000Z",
+    "updatedAt": "2017-10-20T13:23:23.000Z",
+    "pushedAt": "2017-09-06T07:46:03.000Z",
     "gitUrl": "git://github.com/0x00A/levelui.git",
     "sshUrl": "git@github.com:0x00A/levelui.git",
     "cloneUrl": "https://github.com/0x00A/levelui.git",
     "svnUrl": "https://github.com/0x00A/levelui",
     "homepage": "",
     "size": 24706,
-    "stargazersCount": 498,
-    "watchersCount": 498,
+    "stargazersCount": 519,
+    "watchersCount": 519,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 56,
+    "forksCount": 64,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 498,
+    "archived": false,
+    "openIssuesCount": 13,
+    "openIssues": 13,
+    "watchers": 519,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "0x00A",
       "id": 136109,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/136109?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/136109?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/0x00A",
       "htmlUrl": "https://github.com/0x00A",
@@ -145,30 +146,31 @@
     "downloadsUrl": "https://api.github.com/repos/0x00A/levelui/downloads",
     "deploymentsUrl": "https://api.github.com/repos/0x00A/levelui/deployments",
     "createdAt": "2013-03-16T02:14:20.000Z",
-    "updatedAt": "2017-04-30T05:26:33.000Z",
-    "pushedAt": "2017-03-23T22:27:36.000Z",
+    "updatedAt": "2017-10-20T13:23:23.000Z",
+    "pushedAt": "2017-09-06T07:46:03.000Z",
     "gitUrl": "git://github.com/0x00A/levelui.git",
     "sshUrl": "git@github.com:0x00A/levelui.git",
     "cloneUrl": "https://github.com/0x00A/levelui.git",
     "svnUrl": "https://github.com/0x00A/levelui",
     "homepage": "",
     "size": 24706,
-    "stargazersCount": 498,
-    "watchersCount": 498,
+    "stargazersCount": 519,
+    "watchersCount": 519,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 56,
+    "forksCount": 64,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 498,
+    "archived": false,
+    "openIssuesCount": 13,
+    "openIssues": 13,
+    "watchers": 519,
     "defaultBranch": "master"
   },
-  "networkCount": 56,
+  "networkCount": 64,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,15 +183,8 @@
       "styles": "node_modules/.bin/stylus ./styles/index.styl -o ./assets/css",
       "layouts": "node_modules/.bin/jade ./layouts/index.jade -o ./assets/html"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hij1nx/levelui.git"
-    },
-    "author": "hij1nx",
+    "repository": "https://github.com/hij1nx/levelui",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hij1nx/levelui/issues"
-    },
     "keywords": [
       "leveldb",
       "levelDB",
@@ -226,6 +221,12 @@
       "rc": "^0.5.4",
       "stylus": "^0.49.3",
       "xtend": "^4.0.0"
+    },
+    "other": {
+      "author": "hij1nx",
+      "bugs": {
+        "url": "https://github.com/hij1nx/levelui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -274,6 +275,7 @@
   "svnUrl": "https://github.com/EdZava/levelui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:24:16.022Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:46.714Z"
+  "lastFetchedAt": "2017-10-23T20:53:30.910Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:46.714Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "lialin",
     "id": 4048234,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4048234?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4048234?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lialin",
     "htmlUrl": "https://github.com/lialin",
@@ -52,7 +52,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -64,10 +64,10 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:23:26.546Z",
+  "lastFetchedAt": "2017-10-23T18:56:55.306Z",
   "packageJSON": {
     "name": "timesheet-app",
     "productName": "FBF TimeSheet App",
@@ -86,11 +86,7 @@
       "build:win-installer": "npm run pack && node createinstaller.js",
       "cleanup": "mop -v"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lialin/timesheetapp.git"
-    },
-    "author": "llin",
+    "repository": "https://github.com/lialin/timesheetapp",
     "license": "MIT",
     "dependencies": {
       "electron-prebuilt": "^0.37.2",
@@ -122,8 +118,12 @@
       "electron-winstaller": "^2.5.2",
       "electron-squirrel-startup": "^1.0.0",
       "asar": "^0.13.0"
+    },
+    "other": {
+      "author": "llin"
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:37:09.596Z"
+  "packageLastFetchedAt": "2017-05-05T15:37:09.596Z",
+  "archived": false
 }

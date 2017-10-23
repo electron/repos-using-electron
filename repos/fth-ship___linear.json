@@ -5,7 +5,7 @@
   "owner": {
     "login": "fth-ship",
     "id": 4284301,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4284301?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4284301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fth-ship",
     "htmlUrl": "https://github.com/fth-ship",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "fth-ship",
     "id": 4284301,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4284301?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4284301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fth-ship",
     "htmlUrl": "https://github.com/fth-ship",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "mikaa123",
       "id": 428280,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/428280?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/428280?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mikaa123",
       "htmlUrl": "https://github.com/mikaa123",
@@ -93,7 +93,7 @@
     "downloadsUrl": "https://api.github.com/repos/mikaa123/linear/downloads",
     "deploymentsUrl": "https://api.github.com/repos/mikaa123/linear/deployments",
     "createdAt": "2015-12-16T16:03:38.000Z",
-    "updatedAt": "2017-04-27T17:10:20.000Z",
+    "updatedAt": "2017-09-06T20:52:53.000Z",
     "pushedAt": "2016-09-02T07:47:52.000Z",
     "gitUrl": "git://github.com/mikaa123/linear.git",
     "sshUrl": "git@github.com:mikaa123/linear.git",
@@ -101,19 +101,20 @@
     "svnUrl": "https://github.com/mikaa123/linear",
     "homepage": "http://mikaa123.github.io/linear-website/",
     "size": 816,
-    "stargazersCount": 225,
-    "watchersCount": 225,
+    "stargazersCount": 232,
+    "watchersCount": 232,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 14,
+    "forksCount": 15,
     "mirrorUrl": null,
-    "openIssuesCount": 7,
-    "openIssues": 7,
-    "watchers": 225,
+    "archived": false,
+    "openIssuesCount": 8,
+    "openIssues": 8,
+    "watchers": 232,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "mikaa123",
       "id": 428280,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/428280?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/428280?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mikaa123",
       "htmlUrl": "https://github.com/mikaa123",
@@ -153,7 +154,7 @@
     "downloadsUrl": "https://api.github.com/repos/mikaa123/linear/downloads",
     "deploymentsUrl": "https://api.github.com/repos/mikaa123/linear/deployments",
     "createdAt": "2015-12-16T16:03:38.000Z",
-    "updatedAt": "2017-04-27T17:10:20.000Z",
+    "updatedAt": "2017-09-06T20:52:53.000Z",
     "pushedAt": "2016-09-02T07:47:52.000Z",
     "gitUrl": "git://github.com/mikaa123/linear.git",
     "sshUrl": "git@github.com:mikaa123/linear.git",
@@ -161,22 +162,23 @@
     "svnUrl": "https://github.com/mikaa123/linear",
     "homepage": "http://mikaa123.github.io/linear-website/",
     "size": 816,
-    "stargazersCount": 225,
-    "watchersCount": 225,
+    "stargazersCount": 232,
+    "watchersCount": 232,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 14,
+    "forksCount": 15,
     "mirrorUrl": null,
-    "openIssuesCount": 7,
-    "openIssues": 7,
-    "watchers": 225,
+    "archived": false,
+    "openIssuesCount": 8,
+    "openIssues": 8,
+    "watchers": 232,
     "defaultBranch": "master"
   },
-  "networkCount": 14,
+  "networkCount": 15,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -188,16 +190,12 @@
       "start": "electron main.js",
       "package": "electron-packager . linear --platform=darwin --arch=all --version=0.35.4 --icon=src/assets/images/lrMacIcon.icns --out=bin --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "ruler",
       "measure",
       "electron"
     ],
-    "author": "Michael Sokol",
     "license": "MIT",
     "homepage": "http://mikaa123.github.io/linear-website/",
     "devDependencies": {
@@ -206,6 +204,9 @@
     },
     "dependencies": {
       "nconf": "^0.8.2"
+    },
+    "other": {
+      "author": "Michael Sokol"
     }
   },
   "packageStatus": 200,
@@ -254,6 +255,7 @@
   "svnUrl": "https://github.com/fth-ship/linear",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T13:05:35.802Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:22.718Z"
+  "lastFetchedAt": "2017-10-23T20:49:15.534Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:22.718Z",
+  "archived": false
 }

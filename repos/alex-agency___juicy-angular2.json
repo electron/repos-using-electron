@@ -5,7 +5,7 @@
   "owner": {
     "login": "alex-agency",
     "id": 1122708,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1122708?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1122708?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alex-agency",
     "htmlUrl": "https://github.com/alex-agency",
@@ -75,9 +75,7 @@
     "name": "juicy-angular2",
     "version": "0.0.0",
     "description": "Angular 2 playground",
-    "repository": {
-      "url": "https://github.com/alex-agency/juicy-angular2"
-    },
+    "repository": "https://github.com/alex-agency/juicy-angular2",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -116,12 +114,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Alexander Zavgorodniy"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "async": "^1.4.2",
@@ -239,6 +231,14 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.26",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Alexander Zavgorodniy"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -266,6 +266,7 @@
   },
   "filename": "alex-agency___juicy-angular2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:12.353Z",
-  "packageLastFetchedAt": "2017-05-05T01:25:14.483Z"
+  "lastFetchedAt": "2017-10-23T18:22:51.673Z",
+  "packageLastFetchedAt": "2017-05-05T01:25:14.483Z",
+  "archived": false
 }

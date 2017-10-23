@@ -6,7 +6,7 @@
   "owner": {
     "login": "ecrmnn",
     "id": 1481696,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1481696?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1481696?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ecrmnn",
     "htmlUrl": "https://github.com/ecrmnn",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/ecrmnn/minta",
-  "description": "Electron app for generating regular expressions",
+  "description": "✳️ Electron app for generating regular expressions",
   "fork": false,
   "url": "https://api.github.com/repos/ecrmnn/minta",
   "forksUrl": "https://api.github.com/repos/ecrmnn/minta/forks",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/ecrmnn/minta/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ecrmnn/minta/deployments",
   "createdAt": "2016-12-23T21:12:01.000Z",
-  "updatedAt": "2017-05-04T16:32:46.000Z",
+  "updatedAt": "2017-10-23T14:41:59.000Z",
   "pushedAt": "2017-03-29T13:56:12.000Z",
   "gitUrl": "git://github.com/ecrmnn/minta.git",
   "sshUrl": "git@github.com:ecrmnn/minta.git",
   "cloneUrl": "https://github.com/ecrmnn/minta.git",
   "svnUrl": "https://github.com/ecrmnn/minta",
-  "homepage": null,
+  "homepage": "",
   "size": 1058,
-  "stargazersCount": 148,
-  "watchersCount": 148,
+  "stargazersCount": 216,
+  "watchersCount": 216,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 12,
+  "forksCount": 19,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 148,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 216,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 12,
+  "networkCount": 19,
   "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
@@ -85,11 +85,6 @@
       "compress": "cd dist/osx/Minta-darwin-x64 && tar cvzf Minta.tar.gz Minta.app"
     },
     "repository": "https://github.com/ecrmnn/minta",
-    "author": {
-      "name": "Daniel Eckermann",
-      "email": "danieleckermann@gmail.com",
-      "url": "http://danieleckermann.com"
-    },
     "license": "MIT",
     "devDependencies": {
       "electron": "^1.4.1"
@@ -100,6 +95,13 @@
       "electron-packager": "^8.4.0",
       "regexgen": "^1.0.0",
       "vue": "^2.1.6"
+    },
+    "other": {
+      "author": {
+        "name": "Daniel Eckermann",
+        "email": "danieleckermann@gmail.com",
+        "url": "http://danieleckermann.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +128,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:21.566Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:02.215Z"
+  "lastFetchedAt": "2017-10-23T18:56:04.247Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:02.215Z",
+  "archived": false
 }

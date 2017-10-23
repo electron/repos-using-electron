@@ -5,7 +5,7 @@
   "owner": {
     "login": "ddmitov",
     "id": 3417920,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3417920?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3417920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ddmitov",
     "htmlUrl": "https://github.com/ddmitov",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/ddmitov/camel-harness",
-  "description": "Node.js - Electron - NW.js Controller for Perl 5 Scripts :dromedary_camel:",
+  "description": "Node.js - Electron - NW.js controller for Perl 5 scripts :dromedary_camel:",
   "fork": false,
   "url": "https://api.github.com/repos/ddmitov/camel-harness",
   "forksUrl": "https://api.github.com/repos/ddmitov/camel-harness/forks",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/ddmitov/camel-harness/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ddmitov/camel-harness/deployments",
   "createdAt": "2016-08-16T23:01:15.000Z",
-  "updatedAt": "2017-02-14T15:58:45.000Z",
-  "pushedAt": "2017-01-12T20:52:53.000Z",
+  "updatedAt": "2017-06-17T18:06:57.000Z",
+  "pushedAt": "2017-06-24T19:00:18.000Z",
   "gitUrl": "git://github.com/ddmitov/camel-harness.git",
   "sshUrl": "git@github.com:ddmitov/camel-harness.git",
   "cloneUrl": "https://github.com/ddmitov/camel-harness.git",
   "svnUrl": "https://github.com/ddmitov/camel-harness",
   "homepage": "https://www.npmjs.com/package/camel-harness",
   "size": 110,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 6,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -76,16 +76,10 @@
     "version": "0.7.1",
     "description": "Node.js - Electron - NW.js controller for Perl 5 scripts",
     "main": "camel-harness.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "node test/camel-harness-test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ddmitov/camel-harness.git"
-    },
+    "repository": "https://github.com/ddmitov/camel-harness",
     "keywords": [
       "perl",
       "asynchronous",
@@ -93,13 +87,18 @@
       "electron",
       "nw.js"
     ],
-    "author": "Dimitar D. Mitov",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ddmitov/camel-harness/issues"
-    },
     "homepage": "https://github.com/ddmitov/camel-harness#readme",
-    "tonicExampleFilename": "tonic/example.js"
+    "tonicExampleFilename": "tonic/example.js",
+    "other": {
+      "author": "Dimitar D. Mitov",
+      "bugs": {
+        "url": "https://github.com/ddmitov/camel-harness/issues"
+      },
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +125,7 @@
   },
   "filename": "ddmitov___camel-harness.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:19:10.259Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:33.767Z"
+  "lastFetchedAt": "2017-10-23T20:09:49.153Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:33.767Z",
+  "archived": false
 }

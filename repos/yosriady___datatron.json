@@ -5,7 +5,7 @@
   "owner": {
     "login": "yosriady",
     "id": 1084226,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1084226?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1084226?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yosriady",
     "htmlUrl": "https://github.com/yosriady",
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "dependencies": {
       "d3": "^3.5.13",
@@ -106,6 +99,12 @@
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "electron-rebuild": "^1.1.1"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "yosriady___datatron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:01.461Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:33.974Z"
+  "lastFetchedAt": "2017-10-23T20:36:15.902Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:33.974Z",
+  "archived": false
 }

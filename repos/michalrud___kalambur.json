@@ -5,7 +5,7 @@
   "owner": {
     "login": "michalrud",
     "id": 25756,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/25756?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/25756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/michalrud",
     "htmlUrl": "https://github.com/michalrud",
@@ -79,18 +79,17 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/michalrud/kalambur.git"
-    },
-    "author": "fleg",
+    "repository": "https://github.com/michalrud/kalambur",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/michalrud/kalambur/issues"
-    },
     "homepage": "https://github.com/michalrud/kalambur",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "author": "fleg",
+      "bugs": {
+        "url": "https://github.com/michalrud/kalambur/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   "filename": "michalrud___kalambur.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:18.247Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:58.723Z"
+  "lastFetchedAt": "2017-10-23T20:21:14.487Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:58.723Z",
+  "archived": false
 }

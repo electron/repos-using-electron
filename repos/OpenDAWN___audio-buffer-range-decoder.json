@@ -5,7 +5,7 @@
   "owner": {
     "login": "OpenDAWN",
     "id": 15044426,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15044426?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15044426?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OpenDAWN",
     "htmlUrl": "https://github.com/OpenDAWN",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "OpenDAWN",
     "id": 15044426,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15044426?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15044426?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OpenDAWN",
     "htmlUrl": "https://github.com/OpenDAWN",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "mmckegg",
       "id": 66834,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/66834?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/66834?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mmckegg",
       "htmlUrl": "https://github.com/mmckegg",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 9,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "mmckegg",
       "id": 66834,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/66834?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/66834?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mmckegg",
       "htmlUrl": "https://github.com/mmckegg",
@@ -171,6 +172,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 9,
@@ -188,10 +190,7 @@
       "test": "standard",
       "example": "electron-spawn example.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/livejs/audio-buffer-range-decoder.git"
-    },
+    "repository": "https://github.com/livejs/audio-buffer-range-decoder",
     "keywords": [
       "AudioBuffer",
       "decodeAudioData",
@@ -200,16 +199,18 @@
       "access",
       "waapi"
     ],
-    "author": "Matt McKegg",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/livejs/random-access-audio-buffer/issues"
-    },
     "homepage": "https://github.com/livejs/random-access-audio-buffer",
     "devDependencies": {
       "electron-prebuilt": "^0.30.3",
       "electron-spawn": "^3.0.0",
       "standard": "^5.0.2"
+    },
+    "other": {
+      "author": "Matt McKegg",
+      "bugs": {
+        "url": "https://github.com/livejs/random-access-audio-buffer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -258,6 +259,7 @@
   "svnUrl": "https://github.com/OpenDAWN/audio-buffer-range-decoder",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:17:52.817Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:56.481Z"
+  "lastFetchedAt": "2017-10-23T17:17:57.732Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:56.481Z",
+  "archived": false
 }

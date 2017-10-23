@@ -5,7 +5,7 @@
   "owner": {
     "login": "0x00A",
     "id": 136109,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/136109?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/136109?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/0x00A",
     "htmlUrl": "https://github.com/0x00A",
@@ -20,21 +20,21 @@
   "description": "A GUI for LevelDB management based on atom-shell.",
   "fork": false,
   "createdAt": "2013-03-16T02:14:20.000Z",
-  "updatedAt": "2017-04-30T05:26:33.000Z",
-  "pushedAt": "2017-03-23T22:27:36.000Z",
+  "updatedAt": "2017-10-20T13:23:23.000Z",
+  "pushedAt": "2017-09-06T07:46:03.000Z",
   "homepage": "",
   "size": 24706,
-  "stargazersCount": 498,
-  "watchersCount": 498,
+  "stargazersCount": 519,
+  "watchersCount": 519,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 56,
-  "openIssuesCount": 12,
-  "openIssues": 12,
-  "watchers": 498,
+  "forksCount": 64,
+  "openIssuesCount": 13,
+  "openIssues": 13,
+  "watchers": 519,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 56,
-  "subscribersCount": 26,
+  "networkCount": 64,
+  "subscribersCount": 29,
   "status": 200,
   "packageJSON": {
     "name": "levelui",
@@ -61,15 +61,8 @@
       "styles": "node_modules/.bin/stylus ./styles/index.styl -o ./assets/css",
       "layouts": "node_modules/.bin/jade ./layouts/index.jade -o ./assets/html"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hij1nx/levelui.git"
-    },
-    "author": "hij1nx",
+    "repository": "https://github.com/hij1nx/levelui",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hij1nx/levelui/issues"
-    },
     "keywords": [
       "leveldb",
       "levelDB",
@@ -106,6 +99,12 @@
       "rc": "^0.5.4",
       "stylus": "^0.49.3",
       "xtend": "^4.0.0"
+    },
+    "other": {
+      "author": "hij1nx",
+      "bugs": {
+        "url": "https://github.com/hij1nx/levelui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   },
   "filename": "0x00A___levelui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:17.797Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:15.594Z"
+  "lastFetchedAt": "2017-10-23T20:06:12.752Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:15.594Z",
+  "archived": false
 }

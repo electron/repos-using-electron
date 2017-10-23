@@ -5,7 +5,7 @@
   "owner": {
     "login": "takesection",
     "id": 3461074,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3461074?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3461074?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/takesection",
     "htmlUrl": "https://github.com/takesection",
@@ -74,19 +74,18 @@
       "start": "tsc && electron .",
       "postinstall": "typings install"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/takesection/electron-hello-world.git"
-    },
-    "author": "takesection@gmail.com",
+    "repository": "https://github.com/takesection/electron-hello-world",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/takesection/electron-hello-world/issues"
-    },
     "devDependencies": {
       "electron-prebuilt": "^1.4.1",
       "typescript": "^2.0.3",
       "typings": "^1.4.0"
+    },
+    "other": {
+      "author": "takesection@gmail.com",
+      "bugs": {
+        "url": "https://github.com/takesection/electron-hello-world/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,7 @@
   },
   "filename": "takesection___electron-hello-world.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:09:02.916Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:48.726Z"
+  "lastFetchedAt": "2017-10-23T19:00:03.736Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:48.726Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "KylePDavis",
     "id": 1820410,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1820410?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1820410?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/KylePDavis",
     "htmlUrl": "https://github.com/KylePDavis",
@@ -55,15 +55,10 @@
     "name": "mongodb-workbench",
     "productName": "MongoDB Workbench",
     "version": "0.0.1",
-    "author": "Kyle P. Davis",
     "description": "A client to make working with MongoDB even better",
     "license": "MIT",
     "homepage": "https://KylePDavis.github.io/mongodb-workbench",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/KylePDavis/mongodb-workbench.git"
-    },
-    "bugs": "https://github.com/KylePDavis/mongodb-workbench/issues",
+    "repository": "https://github.com/KylePDavis/mongodb-workbench",
     "keywords": [
       "mongodb",
       "workbench",
@@ -90,7 +85,11 @@
       "electron-prebuilt": "~0.30.1",
       "electron-rebuild": "~0.2.5"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "author": "Kyle P. Davis",
+      "bugs": "https://github.com/KylePDavis/mongodb-workbench/issues"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/KylePDavis/mongodb-workbench",
@@ -137,6 +136,7 @@
   },
   "filename": "KylePDavis___mongodb-workbench.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:40:45.011Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:17.851Z"
+  "lastFetchedAt": "2017-10-23T20:37:33.070Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:17.851Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "baopham",
     "id": 783410,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/783410?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/783410?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/baopham",
     "htmlUrl": "https://github.com/baopham",
@@ -77,19 +77,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/baopham/github-publisher.git"
-    },
-    "author": {
-      "name": "Bao Pham",
-      "email": "gbaopham@gmail.com",
-      "url": "https://github.com/baopham"
-    },
+    "repository": "https://github.com/baopham/github-publisher",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/github-publisher/issues"
-    },
     "keywords": [
       "electron",
       "github",
@@ -173,6 +162,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Bao Pham",
+        "email": "gbaopham@gmail.com",
+        "url": "https://github.com/baopham"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/github-publisher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -221,6 +220,7 @@
   "filename": "baopham___github-publisher.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:24:35.949Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:43.449Z"
+  "lastFetchedAt": "2017-10-23T19:27:28.106Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:43.449Z",
+  "archived": false
 }

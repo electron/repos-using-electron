@@ -5,7 +5,7 @@
   "owner": {
     "login": "fraserxu",
     "id": 1183541,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1183541?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1183541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fraserxu",
     "htmlUrl": "https://github.com/fraserxu",
@@ -20,21 +20,21 @@
   "description": "📄 A command line tool to generate PDF from URL, HTML or Markdown files.",
   "fork": false,
   "createdAt": "2015-08-19T15:47:51.000Z",
-  "updatedAt": "2017-05-04T13:53:26.000Z",
-  "pushedAt": "2017-04-27T18:32:05.000Z",
+  "updatedAt": "2017-10-23T16:06:16.000Z",
+  "pushedAt": "2017-09-29T20:25:17.000Z",
   "homepage": "",
-  "size": 248,
-  "stargazersCount": 603,
-  "watchersCount": 603,
+  "size": 256,
+  "stargazersCount": 701,
+  "watchersCount": 701,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 70,
-  "openIssuesCount": 18,
-  "openIssues": 18,
-  "watchers": 603,
+  "forksCount": 79,
+  "openIssuesCount": 27,
+  "openIssues": 27,
+  "watchers": 701,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 70,
-  "subscribersCount": 21,
+  "networkCount": 79,
+  "subscribersCount": 25,
   "status": 200,
   "packageJSON": {
     "name": "electron-pdf",
@@ -65,10 +65,7 @@
     "bin": {
       "electron-pdf": "cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/fraserxu/electron-pdf.git"
-    },
+    "repository": "https://github.com/fraserxu/electron-pdf",
     "keywords": [
       "electron",
       "electron-tool",
@@ -79,11 +76,7 @@
       "html",
       "markdown"
     ],
-    "author": "Fraser Xu, Nate Good",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fraserxu/electron-pdf/issues"
-    },
     "homepage": "https://github.com/fraserxu/electron-pdf",
     "devDependencies": {
       "ava": "^0.18.0",
@@ -112,6 +105,12 @@
       "failFast": true,
       "tap": true,
       "powerAssert": false
+    },
+    "other": {
+      "author": "Fraser Xu, Nate Good",
+      "bugs": {
+        "url": "https://github.com/fraserxu/electron-pdf/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   "svnUrl": "https://github.com/fraserxu/electron-pdf",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:46:30.014Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:27.759Z"
+  "lastFetchedAt": "2017-10-23T19:25:26.951Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:27.759Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "cnwalker",
     "id": 8570077,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8570077?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8570077?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cnwalker",
     "htmlUrl": "https://github.com/cnwalker",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/cnwalker/flash-interface/deployments",
   "createdAt": "2016-02-12T23:20:37.000Z",
   "updatedAt": "2017-01-19T20:45:32.000Z",
-  "pushedAt": "2017-02-22T09:11:22.000Z",
+  "pushedAt": "2017-06-05T21:17:57.000Z",
   "gitUrl": "git://github.com/cnwalker/flash-interface.git",
   "sshUrl": "git@github.com:cnwalker/flash-interface.git",
   "cloneUrl": "https://github.com/cnwalker/flash-interface.git",
   "svnUrl": "https://github.com/cnwalker/flash-interface",
   "homepage": "http://flash.uchicago.edu/",
-  "size": 240,
+  "size": 239,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cnwalker/flash_interface.git"
-    },
+    "repository": "https://github.com/cnwalker/flash_interface",
     "keywords": [
       "FLASH",
       "physics",
@@ -91,11 +88,7 @@
       "simulations",
       "parameters"
     ],
-    "author": "Christopher Walker",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/cnwalker/flash_interface/issues"
-    },
     "homepage": "http://flash.uchicago.edu/site/index.shtml",
     "devDependencies": {
       "electron-packager": "^8.5.0",
@@ -104,6 +97,12 @@
     },
     "dependencies": {
       "electron-prebuilt": "^1.4.0"
+    },
+    "other": {
+      "author": "Christopher Walker",
+      "bugs": {
+        "url": "https://github.com/cnwalker/flash_interface/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "cnwalker___flash-interface.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:52:32.992Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:34.677Z"
+  "lastFetchedAt": "2017-10-23T20:11:13.302Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:34.677Z",
+  "archived": false
 }

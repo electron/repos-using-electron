@@ -5,7 +5,7 @@
   "owner": {
     "login": "Granze",
     "id": 1193298,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1193298?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1193298?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Granze",
     "htmlUrl": "https://github.com/Granze",
@@ -50,21 +50,14 @@
     "version": "0.1.0",
     "description": "A simple markdown editor built with React JS and Electron",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Granze/Neutrino"
-    },
+    "repository": "https://github.com/Granze/Neutrino",
     "keywords": [
       "editor",
       "react",
       "electron",
       "markdown"
     ],
-    "author": "Maurizio Mangione",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Granze/Neutrino/issues"
-    },
     "homepage": "https://github.com/Granze/Neutrino",
     "devDependencies": {
       "babel": "^5.6.7",
@@ -78,6 +71,12 @@
     "scripts": {
       "styles": "node-sass -w styles/main.scss styles/main.css",
       "lint": "eslint -c .eslintrc ./"
+    },
+    "other": {
+      "author": "Maurizio Mangione",
+      "bugs": {
+        "url": "https://github.com/Granze/Neutrino/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/Granze/neutrino",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:49:54.306Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:38.297Z"
+  "lastFetchedAt": "2017-10-23T20:08:44.040Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:38.297Z",
+  "archived": false
 }

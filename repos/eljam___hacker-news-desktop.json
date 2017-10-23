@@ -5,7 +5,7 @@
   "owner": {
     "login": "eljam",
     "id": 121432,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/121432?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/121432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eljam",
     "htmlUrl": "https://github.com/eljam",
@@ -81,21 +81,14 @@
       "dev": "concurrently -k 'babel-node server.js' 'npm start'",
       "build": "webpack --config webpack.config.production.js && electron-packager . HackerNews --platform=darwin --arch=all --prune --overwrite --icon ./HN_icon"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "babel": {
       "presets": [
@@ -132,6 +125,12 @@
       "webpack-hot-middleware": "^2.10.0",
       "webpack-target-electron-renderer": "^0.4.0",
       "webpack": "^1.12.14"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "eljam___hacker-news-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:56:40.505Z",
-  "packageLastFetchedAt": "2017-05-05T15:00:41.864Z"
+  "lastFetchedAt": "2017-10-23T17:44:10.449Z",
+  "packageLastFetchedAt": "2017-05-05T15:00:41.864Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "amilajack",
     "id": 6374832,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6374832?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6374832?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/amilajack",
     "htmlUrl": "https://github.com/amilajack",
@@ -35,35 +35,41 @@
   "downloadsUrl": "https://api.github.com/repos/amilajack/popcorn-time-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/amilajack/popcorn-time-desktop/deployments",
   "createdAt": "2016-04-28T05:27:16.000Z",
-  "updatedAt": "2017-05-01T17:48:47.000Z",
-  "pushedAt": "2016-12-29T02:36:54.000Z",
+  "updatedAt": "2017-10-20T18:22:11.000Z",
+  "pushedAt": "2017-10-14T02:37:01.000Z",
   "gitUrl": "git://github.com/amilajack/popcorn-time-desktop.git",
   "sshUrl": "git@github.com:amilajack/popcorn-time-desktop.git",
   "cloneUrl": "https://github.com/amilajack/popcorn-time-desktop.git",
   "svnUrl": "https://github.com/amilajack/popcorn-time-desktop",
   "homepage": "",
-  "size": 20701,
-  "stargazersCount": 105,
-  "watchersCount": 105,
+  "size": 30550,
+  "stargazersCount": 146,
+  "watchersCount": 146,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 22,
+  "forksCount": 32,
   "mirrorUrl": null,
-  "openIssuesCount": 29,
-  "openIssues": 29,
-  "watchers": 105,
+  "openIssuesCount": 15,
+  "openIssues": 15,
+  "watchers": 146,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 22,
-  "subscribersCount": 22,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
+  "networkCount": 32,
+  "subscribersCount": 28,
   "status": 200,
   "packageJSON": {
     "name": "popcorn-time-desktop",
@@ -95,19 +101,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amilajack/popcorn-time-desktop.git"
-    },
-    "author": {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
-    },
+    "repository": "https://github.com/amilajack/popcorn-time-desktop",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/amilajack/popcorn-time-desktop/issues"
-    },
     "keywords": [
       "popcorn-time",
       "popcorn",
@@ -124,10 +119,6 @@
       "win": {
         "iconUrl": "https://cdn.rawgit.com/amilajack/popcorn-time-desktop/master/app/icons/app.ico"
       }
-    },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
     },
     "homepage": "https://github.com/amilajack/popcorn-time-desktop",
     "devDependencies": {
@@ -259,6 +250,20 @@
     "optionalDependencies": {
       "chromecast-player": "0.2.3",
       "castv2-webpack": "^0.1.10"
+    },
+    "other": {
+      "author": {
+        "name": "Amila Welihinda",
+        "email": "amilajack@gmail.com",
+        "url": "https://github.com/amilajack"
+      },
+      "bugs": {
+        "url": "https://github.com/amilajack/popcorn-time-desktop/issues"
+      },
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -287,6 +292,7 @@
   "filename": "amilajack___popcorn-time-desktop.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:28.913Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:03.541Z"
+  "lastFetchedAt": "2017-10-23T18:21:39.538Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:03.541Z",
+  "archived": false
 }

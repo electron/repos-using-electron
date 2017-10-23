@@ -5,7 +5,7 @@
   "owner": {
     "login": "jtanori",
     "id": 920148,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/920148?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/920148?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jtanori",
     "htmlUrl": "https://github.com/jtanori",
@@ -59,21 +59,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "1.4.2",
@@ -97,6 +90,12 @@
       "underscore.string": "^3.2.3",
       "validate.js": "^0.10.0",
       "writefile": "^0.2.8"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   "svnUrl": "https://github.com/jtanori/alderaan",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:18:33.826Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:59.386Z"
+  "lastFetchedAt": "2017-10-23T19:00:04.676Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:59.386Z",
+  "archived": false
 }

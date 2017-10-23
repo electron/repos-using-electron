@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "git-electron",
     "displayName": "Git Electron",
@@ -52,14 +52,10 @@
     "description": "Electronified Git",
     "main": "app/main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jojobyte/git-electron.git"
-    },
+    "repository": "https://github.com/jojobyte/git-electron",
     "keywords": [
       "git"
     ],
-    "author": "Jordan Hess <jordan.hess@gmail.com>",
     "scripts": {
       "clean": "rimraf dist",
       "postinstall": "install-app-deps",
@@ -91,9 +87,6 @@
         "msi": false
       }
     },
-    "directories": {
-      "app": "app"
-    },
     "devDependencies": {
       "babel-core": "^6.0.0",
       "babel-loader": "^6.0.0",
@@ -118,6 +111,12 @@
     "engines": {
       "electron": "1.3.4",
       "atom-shell": "1.3.4"
+    },
+    "other": {
+      "author": "Jordan Hess <jordan.hess@gmail.com>",
+      "directories": {
+        "app": "app"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,6 @@
   },
   "filename": "jojobyte___git-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:38.425Z",
+  "lastFetchedAt": "2017-10-23T19:21:04.222Z",
   "packageLastFetchedAt": "2017-05-05T17:52:25.883Z"
 }

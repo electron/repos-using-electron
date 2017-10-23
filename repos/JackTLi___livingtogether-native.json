@@ -5,7 +5,7 @@
   "owner": {
     "login": "JackTLi",
     "id": 9454024,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9454024?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9454024?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JackTLi",
     "htmlUrl": "https://github.com/JackTLi",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "JackTLi___livingtogether-native.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:14.673Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:33.510Z"
+  "lastFetchedAt": "2017-10-23T18:59:02.639Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:33.510Z",
+  "archived": false
 }

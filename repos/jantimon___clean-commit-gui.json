@@ -5,7 +5,7 @@
   "owner": {
     "login": "jantimon",
     "id": 4113649,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4113649?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4113649?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jantimon",
     "htmlUrl": "https://github.com/jantimon",
@@ -74,19 +74,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jantimon/clean-commit-gui.git"
-    },
-    "author": {
-      "name": "Jan Nicklas",
-      "email": "j.nicklas@me.com",
-      "url": "https://github.com/jantimon"
-    },
+    "repository": "https://github.com/jantimon/clean-commit-gui",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -187,6 +176,16 @@
       "commitizen": {
         "path": "./node_modules/cz-conventional-changelog"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Jan Nicklas",
+        "email": "j.nicklas@me.com",
+        "url": "https://github.com/jantimon"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -234,6 +233,7 @@
   "svnUrl": "https://github.com/jantimon/clean-commit-gui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:42:44.002Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:37.236Z"
+  "lastFetchedAt": "2017-10-23T18:59:45.629Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:37.236Z",
+  "archived": false
 }

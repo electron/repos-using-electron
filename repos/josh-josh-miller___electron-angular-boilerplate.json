@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-angular-boilerplate",
     "version": "0.0.1",
@@ -73,7 +73,6 @@
     "scripts": {
       "start": "electron ."
     },
-    "author": "Josh Miller",
     "license": "ISC",
     "dependencies": {
       "angular": "1.5.8",
@@ -91,6 +90,9 @@
       "gulp-ngmin": "^0.3.0",
       "gulp-sass": "^2.3.2",
       "gulp-uglify": "^2.0.0"
+    },
+    "other": {
+      "author": "Josh Miller"
     }
   },
   "packageStatus": 200,
@@ -118,6 +120,6 @@
   },
   "filename": "josh-josh-miller___electron-angular-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:41:06.095Z",
+  "lastFetchedAt": "2017-10-23T20:37:30.035Z",
   "packageLastFetchedAt": "2017-05-05T14:48:45.154Z"
 }

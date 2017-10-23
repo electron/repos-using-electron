@@ -5,7 +5,7 @@
   "owner": {
     "login": "surmon-china",
     "id": 14019524,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14019524?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14019524?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/surmon-china",
     "htmlUrl": "https://github.com/surmon-china",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/surmon-china/angular-admin/downloads",
   "deploymentsUrl": "https://api.github.com/repos/surmon-china/angular-admin/deployments",
   "createdAt": "2016-09-23T01:59:08.000Z",
-  "updatedAt": "2017-05-03T09:46:51.000Z",
-  "pushedAt": "2017-04-19T10:00:37.000Z",
+  "updatedAt": "2017-10-20T02:56:17.000Z",
+  "pushedAt": "2017-09-25T02:28:40.000Z",
   "gitUrl": "git://github.com/surmon-china/angular-admin.git",
   "sshUrl": "git@github.com:surmon-china/angular-admin.git",
   "cloneUrl": "https://github.com/surmon-china/angular-admin.git",
   "svnUrl": "https://github.com/surmon-china/angular-admin",
   "homepage": "https://admin.surmon.me",
-  "size": 23336,
-  "stargazersCount": 111,
-  "watchersCount": 111,
+  "size": 25135,
+  "stargazersCount": 187,
+  "watchersCount": 187,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 33,
+  "forksCount": 64,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 111,
+  "watchers": 187,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,14 +68,13 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 33,
-  "subscribersCount": 7,
+  "networkCount": 64,
+  "subscribersCount": 19,
   "status": 200,
   "packageJSON": {
     "name": "angular-admin",
     "version": "1.1.0",
     "description": "Angular 4 and Bootstrap 4 Admin Template.",
-    "author": "Surmon",
     "homepage": "https://admin.surmon.me",
     "license": "MIT",
     "dependencies": {
@@ -207,16 +206,16 @@
       "version": "npm run build",
       "postversion": "git push && git push --tags"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/surmon-china/angular-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/surmon-china/angular-admin/issues"
-    },
+    "repository": "https://github.com/surmon-china/angular-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "author": "Surmon",
+      "bugs": {
+        "url": "https://github.com/surmon-china/angular-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +243,7 @@
   },
   "filename": "surmon-china___angular-admin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:39.414Z",
-  "packageLastFetchedAt": "2017-05-04T22:00:07.742Z"
+  "lastFetchedAt": "2017-10-23T18:08:53.135Z",
+  "packageLastFetchedAt": "2017-05-04T22:00:07.742Z",
+  "archived": false
 }

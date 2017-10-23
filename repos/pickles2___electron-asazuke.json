@@ -5,7 +5,7 @@
   "owner": {
     "login": "pickles2",
     "id": 14938251,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14938251?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14938251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pickles2",
     "htmlUrl": "https://github.com/pickles2",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "pickles2",
     "id": 14938251,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14938251?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14938251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pickles2",
     "htmlUrl": "https://github.com/pickles2",
@@ -97,15 +97,7 @@
       "build": "source release.sh; submodule_update; node release.js; copy_shareDir;",
       "build-all": "source release.sh; build_all;"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pickles2/electron-asazuke.git"
-    },
-    "author": {
-      "name": "Misaki Shibata",
-      "email": "misaki.pink@gmail.com",
-      "url": "http://pickles2.pxt.jp/tools/asazuke/"
-    },
+    "repository": "https://github.com/pickles2/electron-asazuke",
     "license": "MIT",
     "devDependencies": {
       "archiver": "^0.21.0",
@@ -193,6 +185,13 @@
       "rimraf": "^2.5.1",
       "smalltalk": "file:submodules/smalltalk",
       "underscore": "^1.7.0"
+    },
+    "other": {
+      "author": {
+        "name": "Misaki Shibata",
+        "email": "misaki.pink@gmail.com",
+        "url": "http://pickles2.pxt.jp/tools/asazuke/"
+      }
     }
   },
   "packageStatus": 200,
@@ -220,6 +219,7 @@
   },
   "filename": "pickles2___electron-asazuke.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:27:54.556Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:15.086Z"
+  "lastFetchedAt": "2017-10-23T19:19:09.764Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:15.086Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "MulberryComic20",
     "id": 14168256,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14168256?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14168256?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MulberryComic20",
     "htmlUrl": "https://github.com/MulberryComic20",
@@ -74,15 +74,7 @@
       "start": "electron . --dev",
       "watch": "gulp watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-"
-    },
-    "author": {
-      "name": "Samuel Attard",
-      "email": "samuel.r.attard@gmail.com",
-      "url": "https://www.samuelattard.com"
-    },
+    "repository": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
     "homepage": "http://www.googleplaymusicdesktopplayer.com",
     "license": "MIT",
     "dependencies": {
@@ -133,6 +125,13 @@
     "optionalDependencies": {
       "electron-installer-debian": "^0.2.0",
       "electron-installer-redhat": "^0.2.0"
+    },
+    "other": {
+      "author": {
+        "name": "Samuel Attard",
+        "email": "samuel.r.attard@gmail.com",
+        "url": "https://www.samuelattard.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   "svnUrl": "https://github.com/MulberryComic20/Mulberry-Player",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:31:13.663Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:44.825Z"
+  "lastFetchedAt": "2017-10-23T18:00:25.387Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:44.825Z",
+  "archived": false
 }

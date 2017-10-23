@@ -5,7 +5,7 @@
   "owner": {
     "login": "scimusmn",
     "id": 777830,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/777830?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/777830?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scimusmn",
     "htmlUrl": "https://github.com/scimusmn",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "scimusmn",
     "id": 777830,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/777830?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/777830?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scimusmn",
     "htmlUrl": "https://github.com/scimusmn",
@@ -87,17 +87,13 @@
     "scripts": {
       "start": "electron main.js --enable-logging"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/scimusmn/Vieworks-Node-Module.git"
-    },
+    "repository": "https://github.com/scimusmn/Vieworks-Node-Module",
     "keywords": [
       "Vieworks",
       "high",
       "speed",
       "camera"
     ],
-    "author": "SMM",
     "license": "CC0-1.0",
     "devDependencies": {
       "electron-prebuilt": "0.36.1",
@@ -109,6 +105,9 @@
       "nan": "^2.0.0",
       "serialport": "^3.1.2",
       "ws": "^1.1.0"
+    },
+    "other": {
+      "author": "SMM"
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "scimusmn___Vieworks-Node-Module.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:50:47.202Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:35.717Z"
+  "lastFetchedAt": "2017-10-23T17:14:06.340Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:35.717Z",
+  "archived": false
 }

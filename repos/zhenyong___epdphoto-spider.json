@@ -5,7 +5,7 @@
   "owner": {
     "login": "zhenyong",
     "id": 4012276,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4012276?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4012276?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zhenyong",
     "htmlUrl": "https://github.com/zhenyong",
@@ -61,21 +61,14 @@
       "server": "browser-sync start --server --files=\"*.html, css/**, js/**\"",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zhenyong/epdphoto-spider.git"
-    },
+    "repository": "https://github.com/zhenyong/epdphoto-spider",
     "keywords": [
       "epdphoto",
       "spider",
       "grab",
       "photo"
     ],
-    "author": "zhenyong (116982086@qq.com)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zhenyong/epdphoto-spider/issues"
-    },
     "homepage": "https://github.com/zhenyong/epdphoto-spider#readme",
     "devDependencies": {
       "browser-sync": "^2.11.2",
@@ -83,6 +76,12 @@
     },
     "dependencies": {
       "request": "^2.69.0"
+    },
+    "other": {
+      "author": "zhenyong (116982086@qq.com)",
+      "bugs": {
+        "url": "https://github.com/zhenyong/epdphoto-spider/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "svnUrl": "https://github.com/zhenyong/epdphoto-spider",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:40:20.697Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:55.388Z"
+  "lastFetchedAt": "2017-10-23T17:09:35.992Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:55.388Z",
+  "archived": false
 }

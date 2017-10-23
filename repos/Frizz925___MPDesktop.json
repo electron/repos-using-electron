@@ -5,7 +5,7 @@
   "owner": {
     "login": "Frizz925",
     "id": 3439473,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3439473?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3439473?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Frizz925",
     "htmlUrl": "https://github.com/Frizz925",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Frizz925/MPDesktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Frizz925/MPDesktop/deployments",
   "createdAt": "2016-05-31T07:51:03.000Z",
-  "updatedAt": "2016-05-31T07:51:43.000Z",
+  "updatedAt": "2017-07-31T12:56:05.000Z",
   "pushedAt": "2016-06-22T02:26:58.000Z",
   "gitUrl": "git://github.com/Frizz925/MPDesktop.git",
   "sshUrl": "git@github.com:Frizz925/MPDesktop.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/Frizz925/MPDesktop",
   "homepage": null,
   "size": 1684,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -85,21 +85,14 @@
       "build:win32": "electron-packager . --platform=win32 --arch=ia32 --out=build --overwrite --prune",
       "build:win64": "electron-packager . --platform=win32 --arch=x64 --out=build --overwrite --prune"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:Frizz925/MPDesktop"
-    },
+    "repository": "https://github.com/Frizz925/MPDesktop",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "Frizz925 <Frizz925@hotmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Frizz925/MPDesktop/issues"
-    },
     "homepage": "https://github.com/Frizz925/MPDesktop#readme",
     "devDependencies": {
       "babel-core": "^6.9.1",
@@ -137,6 +130,12 @@
       "immutable": "^3.8.1",
       "jquery": "^2.2.4",
       "lodash": "^4.13.1"
+    },
+    "other": {
+      "author": "Frizz925 <Frizz925@hotmail.com>",
+      "bugs": {
+        "url": "https://github.com/Frizz925/MPDesktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   },
   "filename": "Frizz925___MPDesktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T13:05:44.687Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:59.434Z"
+  "lastFetchedAt": "2017-10-23T19:00:38.719Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:59.434Z",
+  "archived": false
 }

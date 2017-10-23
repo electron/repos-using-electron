@@ -5,7 +5,7 @@
   "owner": {
     "login": "idekerlab",
     "id": 2167664,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2167664?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2167664?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/idekerlab",
     "htmlUrl": "https://github.com/idekerlab",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "idekerlab",
     "id": 2167664,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2167664?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2167664?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/idekerlab",
     "htmlUrl": "https://github.com/idekerlab",
@@ -75,17 +75,13 @@
       "start": "electron main.js",
       "build": "./build-all.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/idekerlab/ndex-valet-electron.git"
-    },
+    "repository": "https://github.com/idekerlab/ndex-valet-electron",
     "keywords": [
       "Electron",
       "cytoscape",
       "bioinformatics",
       "graph"
     ],
-    "author": "Keiichiro Ono",
     "license": "MIT",
     "homepage": "https://github.com/idekerlab/ndex-valet-electron#readme",
     "devDependencies": {
@@ -100,6 +96,9 @@
       "jsonfile": "^2.3.1",
       "winston": "^2.2.0",
       "ws": "^1.1.0"
+    },
+    "other": {
+      "author": "Keiichiro Ono"
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   "filename": "idekerlab___ndex-valet-electron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:05:42.211Z",
-  "packageLastFetchedAt": "2017-05-04T22:45:05.170Z"
+  "lastFetchedAt": "2017-10-23T18:32:15.784Z",
+  "packageLastFetchedAt": "2017-05-04T22:45:05.170Z",
+  "archived": false
 }

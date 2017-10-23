@@ -5,7 +5,7 @@
   "owner": {
     "login": "Hypercubed",
     "id": 509946,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/509946?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/509946?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Hypercubed",
     "htmlUrl": "https://github.com/Hypercubed",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/Hypercubed/Project-Chi/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Hypercubed/Project-Chi/deployments",
   "createdAt": "2015-06-24T08:04:04.000Z",
-  "updatedAt": "2017-03-14T00:14:07.000Z",
-  "pushedAt": "2017-01-13T07:18:57.000Z",
+  "updatedAt": "2017-10-05T08:58:34.000Z",
+  "pushedAt": "2017-06-28T01:52:58.000Z",
   "gitUrl": "git://github.com/Hypercubed/Project-Chi.git",
   "sshUrl": "git@github.com:Hypercubed/Project-Chi.git",
   "cloneUrl": "https://github.com/Hypercubed/Project-Chi.git",
   "svnUrl": "https://github.com/Hypercubed/Project-Chi",
   "homepage": "http://hypercubed.github.io/Project-Chi/",
   "size": 19585,
-  "stargazersCount": 16,
-  "watchersCount": 16,
+  "stargazersCount": 18,
+  "watchersCount": 18,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": true,
   "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 16,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 18,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,21 +69,15 @@
     "featured": true
   },
   "networkCount": 3,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "project-chi",
     "version": "1.0.1",
     "private": true,
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Hypercubed/Project-Chi.git"
-    },
+    "repository": "https://github.com/Hypercubed/Project-Chi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Hypercubed/Project-Chi/issues"
-    },
     "homepage": "http://hypercubed.github.io/Project-Chi/",
     "dependencies": {
       "source-map-explorer": "^1.3.3"
@@ -485,7 +479,12 @@
       }
     },
     "description": "Project χ (pronounced project /ˈ</span><span title=\"'k' in 'kind'\">k</span><span title=\"/aɪ/ long 'i' in 'tide'\">aɪ</span></span>/) is an modular open source visualization gallery toolkit.  It offers a boilerplate and toolset for building self-hosted data-centric visualization websites. Geared towards sharing of supplemental materials associated with scientific publications; Project χ allows visitors to interact with visualizations, download associated data and images, and even try the visualization with their own uploaded or publicly available datasets.  For developers the toolkit comes preconfigured with the popular design frameworks (Twitter Bootstrap, Angular UI) and cutting edge build tools (gulp, jspm, SystemJS) and examples integrating interactive visualizations using [d3.js](http://d3js.org/), [AngularJS](https://angularjs.org/), and [BioJS](http://biojs.io/).",
-    "author": "J. Harshbarger"
+    "other": {
+      "author": "J. Harshbarger",
+      "bugs": {
+        "url": "https://github.com/Hypercubed/Project-Chi/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -512,6 +511,7 @@
   },
   "filename": "Hypercubed___Project-Chi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:36:06.039Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:36.796Z"
+  "lastFetchedAt": "2017-10-23T18:51:47.899Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:36.796Z",
+  "archived": false
 }

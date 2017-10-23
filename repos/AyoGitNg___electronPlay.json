@@ -5,7 +5,7 @@
   "owner": {
     "login": "AyoGitNg",
     "id": 13318431,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13318431?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13318431?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AyoGitNg",
     "htmlUrl": "https://github.com/AyoGitNg",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/AyoGitNg/electronPlay",
-  "description": null,
+  "description": "A basic desktop app built with electron",
   "fork": false,
   "url": "https://api.github.com/repos/AyoGitNg/electronPlay",
   "forksUrl": "https://api.github.com/repos/AyoGitNg/electronPlay/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/AyoGitNg/electronPlay/downloads",
   "deploymentsUrl": "https://api.github.com/repos/AyoGitNg/electronPlay/deployments",
   "createdAt": "2016-08-13T06:57:47.000Z",
-  "updatedAt": "2016-08-13T07:14:50.000Z",
+  "updatedAt": "2017-09-14T18:55:02.000Z",
   "pushedAt": "2016-11-23T17:11:04.000Z",
   "gitUrl": "git://github.com/AyoGitNg/electronPlay.git",
   "sshUrl": "git@github.com:AyoGitNg/electronPlay.git",
   "cloneUrl": "https://github.com/AyoGitNg/electronPlay.git",
   "svnUrl": "https://github.com/AyoGitNg/electronPlay",
-  "homepage": null,
+  "homepage": "",
   "size": 1369,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -80,10 +80,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AyoGitNg/electronPlay.git"
-    },
+    "repository": "https://github.com/AyoGitNg/electronPlay",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^1.2.6",
@@ -108,12 +105,14 @@
       "glob": "^6.0.4",
       "highlight.js": "^9.3.0"
     },
-    "author": "Akingbule Ayodele",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/AyoGitNg/electronPlay/issues"
-    },
-    "homepage": "https://github.com/AyoGitNg/electronPlay#readme"
+    "homepage": "https://github.com/AyoGitNg/electronPlay#readme",
+    "other": {
+      "author": "Akingbule Ayodele",
+      "bugs": {
+        "url": "https://github.com/AyoGitNg/electronPlay/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +139,7 @@
   },
   "filename": "AyoGitNg___electronPlay.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:58.282Z",
-  "packageLastFetchedAt": "2017-05-05T01:24:28.322Z"
+  "lastFetchedAt": "2017-10-23T19:27:50.651Z",
+  "packageLastFetchedAt": "2017-05-05T01:24:28.322Z",
+  "archived": false
 }

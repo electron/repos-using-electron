@@ -5,7 +5,7 @@
   "owner": {
     "login": "thefakegm",
     "id": 19489411,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19489411?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19489411?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thefakegm",
     "htmlUrl": "https://github.com/thefakegm",
@@ -78,7 +78,6 @@
       "postinstall": "install-app-deps",
       "start": "electron app"
     },
-    "author": "TheFakeGM",
     "license": "ISC",
     "build": {
       "appId": "com.electron.gifdb",
@@ -86,9 +85,6 @@
         "maintainer": "thefakestgm@gmail.com",
         "author": "TheFakeGM"
       }
-    },
-    "directories": {
-      "app": "app"
     },
     "dependencies": {
       "bluebird": "^3.4.1",
@@ -116,6 +112,12 @@
       "webpack": "^1.13.1",
       "webpack-stream": "^3.2.0",
       "electron-prebuilt": "1.2.8"
+    },
+    "other": {
+      "author": "TheFakeGM",
+      "directories": {
+        "app": "app"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +145,7 @@
   },
   "filename": "thefakegm___GifDB.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:50.705Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:48.196Z"
+  "lastFetchedAt": "2017-10-23T20:07:01.172Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:48.196Z",
+  "archived": false
 }

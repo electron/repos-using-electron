@@ -5,7 +5,7 @@
   "owner": {
     "login": "localdisk",
     "id": 4827406,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4827406?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4827406?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/localdisk",
     "htmlUrl": "https://github.com/localdisk",
@@ -79,21 +79,20 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/localdisk/chidori.git"
-    },
-    "author": "@localdisk",
+    "repository": "https://github.com/localdisk/chidori",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/localdisk/chidori/issues"
-    },
     "homepage": "https://github.com/localdisk/chidori#readme",
     "devDependencies": {
       "typescript": "^1.8.10"
     },
     "dependencies": {
       "electron-prebuilt": "^1.2.5"
+    },
+    "other": {
+      "author": "@localdisk",
+      "bugs": {
+        "url": "https://github.com/localdisk/chidori/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "localdisk___chidori.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:35.540Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:45.020Z"
+  "lastFetchedAt": "2017-10-23T17:48:17.866Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:45.020Z",
+  "archived": false
 }

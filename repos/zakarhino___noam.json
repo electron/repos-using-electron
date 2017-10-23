@@ -5,7 +5,7 @@
   "owner": {
     "login": "zakarhino",
     "id": 9221134,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9221134?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9221134?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zakarhino",
     "htmlUrl": "https://github.com/zakarhino",
@@ -86,11 +86,6 @@
       "test": "xo --fix",
       "package": "cp package.json public; electron-packager ./public noam --platform=darwin --arch=x64 --out=./built --version=1.2.2 --overwrite"
     },
-    "author": {
-      "name": "Zak Golding",
-      "email": "zak@0x7cf.com",
-      "url": "https://github.com/zakarhino"
-    },
     "license": "WTFPL",
     "dependencies": {
       "core-js": "^2.4.1",
@@ -134,6 +129,13 @@
       "typescript": "^1.8.10",
       "webpack-dev-middleware": "^1.6.1",
       "webpack-hot-middleware": "^2.12.1"
+    },
+    "other": {
+      "author": {
+        "name": "Zak Golding",
+        "email": "zak@0x7cf.com",
+        "url": "https://github.com/zakarhino"
+      }
     }
   },
   "packageStatus": 200,
@@ -161,6 +163,7 @@
   },
   "filename": "zakarhino___noam.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:32:52.597Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:40.205Z"
+  "lastFetchedAt": "2017-10-23T20:15:28.817Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:40.205Z",
+  "archived": false
 }

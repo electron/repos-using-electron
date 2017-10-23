@@ -5,7 +5,7 @@
   "owner": {
     "login": "bessuaba",
     "id": 9296104,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9296104?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9296104?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bessuaba",
     "htmlUrl": "https://github.com/bessuaba",
@@ -77,18 +77,11 @@
       "serve": "webpack --progress --colors --watch",
       "compile-windows": "electron-packager . my-app --platform=win32 --arch=ia32 --out=dist/ && asar pack dist/my-app-win32-ia32/resources/app dist/my-app-win32-ia32/resources/app.asar"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:bessuaba/electron-angular2-blank.git"
-    },
+    "repository": "https://github.com/bessuaba/electron-angular2-blank",
     "keywords": [
       "desktop"
     ],
-    "author": "Slava Losev",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bessuaba/electron-angular2-blank/issues"
-    },
     "homepage": "https://github.com/bessuaba/electron-angular2-blank#README",
     "dependencies": {
       "@angular/common": "2.0.0-rc.5",
@@ -118,6 +111,12 @@
       "typescript": "^1.7.3",
       "webpack": "^1.12.9",
       "webpack-dev-server": "^1.14.0"
+    },
+    "other": {
+      "author": "Slava Losev",
+      "bugs": {
+        "url": "https://github.com/bessuaba/electron-angular2-blank/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "bessuaba___electron-angular2-blank.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:27:46.436Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:53.937Z"
+  "lastFetchedAt": "2017-10-23T17:37:29.811Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:53.937Z",
+  "archived": false
 }

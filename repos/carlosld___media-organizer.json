@@ -5,7 +5,7 @@
   "owner": {
     "login": "carlosld",
     "id": 1881381,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1881381?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1881381?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/carlosld",
     "htmlUrl": "https://github.com/carlosld",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/carlosld/media-organizer.git"
-    },
+    "repository": "https://github.com/carlosld/media-organizer",
     "keywords": [
       "Electron",
       "media",
@@ -91,11 +88,7 @@
       "photo",
       "video"
     ],
-    "author": "Carlos León",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/carlosld/media-organizer/issues"
-    },
     "homepage": "https://github.com/carlosld/media-organizer#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -104,6 +97,12 @@
     "dependencies": {
       "handlebars": "^4.0.5",
       "jquery": "^2.2.1"
+    },
+    "other": {
+      "author": "Carlos León",
+      "bugs": {
+        "url": "https://github.com/carlosld/media-organizer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "carlosld___media-organizer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:14.946Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:49.568Z"
+  "lastFetchedAt": "2017-10-23T19:00:09.673Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:49.568Z",
+  "archived": false
 }

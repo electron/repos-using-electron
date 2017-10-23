@@ -5,7 +5,7 @@
   "owner": {
     "login": "noffle",
     "id": 489362,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/489362?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/489362?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/noffle",
     "htmlUrl": "https://github.com/noffle",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "digidem",
       "id": 405221,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/405221?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/405221?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/digidem",
       "htmlUrl": "https://github.com/digidem",
@@ -82,7 +82,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/digidem/mapeo-desktop",
-    "description": "An experimental offline mapping app based on iD Editor, for indigenous territory mapping in remote environments",
+    "description": "An offline mapping app based on iD Editor, for indigenous territory mapping in remote environments",
     "fork": false,
     "url": "https://api.github.com/repos/digidem/mapeo-desktop",
     "forksUrl": "https://api.github.com/repos/digidem/mapeo-desktop/forks",
@@ -99,27 +99,28 @@
     "downloadsUrl": "https://api.github.com/repos/digidem/mapeo-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/digidem/mapeo-desktop/deployments",
     "createdAt": "2016-02-24T00:47:51.000Z",
-    "updatedAt": "2017-04-30T02:50:27.000Z",
-    "pushedAt": "2017-04-30T23:46:06.000Z",
+    "updatedAt": "2017-10-22T01:06:03.000Z",
+    "pushedAt": "2017-10-21T21:36:38.000Z",
     "gitUrl": "git://github.com/digidem/mapeo-desktop.git",
     "sshUrl": "git@github.com:digidem/mapeo-desktop.git",
     "cloneUrl": "https://github.com/digidem/mapeo-desktop.git",
     "svnUrl": "https://github.com/digidem/mapeo-desktop",
-    "homepage": "",
-    "size": 2347,
-    "stargazersCount": 46,
-    "watchersCount": 46,
+    "homepage": "https://mapeo.world/",
+    "size": 6354,
+    "stargazersCount": 62,
+    "watchersCount": 62,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 8,
+    "forksCount": 10,
     "mirrorUrl": null,
-    "openIssuesCount": 45,
-    "openIssues": 45,
-    "watchers": 46,
+    "archived": false,
+    "openIssuesCount": 48,
+    "openIssues": 48,
+    "watchers": 62,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "digidem",
       "id": 405221,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/405221?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/405221?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/digidem",
       "htmlUrl": "https://github.com/digidem",
@@ -142,7 +143,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/digidem/mapeo-desktop",
-    "description": "An experimental offline mapping app based on iD Editor, for indigenous territory mapping in remote environments",
+    "description": "An offline mapping app based on iD Editor, for indigenous territory mapping in remote environments",
     "fork": false,
     "url": "https://api.github.com/repos/digidem/mapeo-desktop",
     "forksUrl": "https://api.github.com/repos/digidem/mapeo-desktop/forks",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/digidem/mapeo-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/digidem/mapeo-desktop/deployments",
     "createdAt": "2016-02-24T00:47:51.000Z",
-    "updatedAt": "2017-04-30T02:50:27.000Z",
-    "pushedAt": "2017-04-30T23:46:06.000Z",
+    "updatedAt": "2017-10-22T01:06:03.000Z",
+    "pushedAt": "2017-10-21T21:36:38.000Z",
     "gitUrl": "git://github.com/digidem/mapeo-desktop.git",
     "sshUrl": "git@github.com:digidem/mapeo-desktop.git",
     "cloneUrl": "https://github.com/digidem/mapeo-desktop.git",
     "svnUrl": "https://github.com/digidem/mapeo-desktop",
-    "homepage": "",
-    "size": 2347,
-    "stargazersCount": 46,
-    "watchersCount": 46,
+    "homepage": "https://mapeo.world/",
+    "size": 6354,
+    "stargazersCount": 62,
+    "watchersCount": 62,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 8,
+    "forksCount": 10,
     "mirrorUrl": null,
-    "openIssuesCount": 45,
-    "openIssues": 45,
-    "watchers": 46,
+    "archived": false,
+    "openIssuesCount": 48,
+    "openIssues": 48,
+    "watchers": 62,
     "defaultBranch": "master"
   },
-  "networkCount": 8,
+  "networkCount": 10,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -191,7 +193,6 @@
     "productName": "Mapeo",
     "version": "1.6.2",
     "productDescription": "Offline Map Editor",
-    "author": "Digital Democracy",
     "main": "app.js",
     "engine": {
       "node": "6.2.1"
@@ -210,10 +211,7 @@
       "dev": "electron app.js --debug --disable-http-cache",
       "postinstall": "npmpd"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/digidem/mapeo-desktop.git"
-    },
+    "repository": "https://github.com/digidem/mapeo-desktop",
     "keywords": [
       "osm",
       "p2p",
@@ -223,15 +221,7 @@
       "iD",
       "osm-p2p"
     ],
-    "contributors": [
-      "substack",
-      "Gregor MacLennan <gmaclennan@digital-democracy.org>",
-      "noffle"
-    ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/digidem/mapeo-desktop/issues"
-    },
     "homepage": "https://github.com/digidem/mapeo-desktop#readme",
     "dependencies": {
       "JSONStream": "^1.0.3",
@@ -287,6 +277,17 @@
       "npm-platform-dependencies": "0.0.12",
       "rimraf": "^2.5.2",
       "watchify": "^3.7.0"
+    },
+    "other": {
+      "author": "Digital Democracy",
+      "bugs": {
+        "url": "https://github.com/digidem/mapeo-desktop/issues"
+      },
+      "contributors": [
+        "substack",
+        "Gregor MacLennan <gmaclennan@digital-democracy.org>",
+        "noffle"
+      ]
     }
   },
   "packageStatus": 200,
@@ -315,6 +316,7 @@
   "filename": "noffle___mapeo-desktop.json",
   "sourceRepo": "digidem/mapeo-desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:15.494Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:41.230Z"
+  "lastFetchedAt": "2017-10-23T19:13:20.191Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:41.230Z",
+  "archived": false
 }

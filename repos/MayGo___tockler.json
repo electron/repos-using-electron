@@ -5,7 +5,7 @@
   "owner": {
     "login": "MayGo",
     "id": 1929299,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1929299?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1929299?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MayGo",
     "htmlUrl": "https://github.com/MayGo",
@@ -20,21 +20,21 @@
   "description": "Application that tracks your time by monitoring your active windows (only titles) and idle time.",
   "fork": false,
   "createdAt": "2016-02-28T08:32:04.000Z",
-  "updatedAt": "2017-04-20T04:22:04.000Z",
-  "pushedAt": "2017-05-02T19:41:28.000Z",
+  "updatedAt": "2017-10-20T01:30:51.000Z",
+  "pushedAt": "2017-10-12T19:34:18.000Z",
   "homepage": "http://trimatech.ee/tockler",
-  "size": 6480,
-  "stargazersCount": 69,
-  "watchersCount": 69,
-  "language": "JavaScript",
+  "size": 7396,
+  "stargazersCount": 99,
+  "watchersCount": 99,
+  "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 13,
+  "forksCount": 17,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 69,
+  "watchers": 99,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/gpl-2.0",
     "featured": false
   },
-  "networkCount": 13,
-  "subscribersCount": 7,
+  "networkCount": 17,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "Tockler",
@@ -65,7 +65,6 @@
       "rebuild-sqlite-win": "electron-rebuild -f -w sqlite3 && rmdir .\\app\\node_modules\\sqlite3 /s && xcopy .\\node_modules\\sqlite3 .\\app\\node_modules\\sqlite3 /s /e /h",
       "rebuild-sqlite-osx": "electron-rebuild -f -w sqlite3 && rm -rf ./app/node_modules/sqlite3 && cp -R ./node_modules/sqlite3 ./app/node_modules/sqlite3"
     },
-    "author": "Maigo Erit <maigo.erit@gmail.com>",
     "devDependencies": {
       "electron-connect": "0.6.0",
       "electron": "1.4.15",
@@ -105,6 +104,9 @@
       "linux": {
         "target": "deb"
       }
+    },
+    "other": {
+      "author": "Maigo Erit <maigo.erit@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -152,6 +154,7 @@
   },
   "filename": "MayGo___tockler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:03.367Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:52.215Z"
+  "lastFetchedAt": "2017-10-23T17:23:46.285Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:52.215Z",
+  "archived": false
 }

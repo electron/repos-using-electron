@@ -6,7 +6,7 @@
   "owner": {
     "login": "kubo25",
     "id": 9075875,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9075875?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9075875?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kubo25",
     "htmlUrl": "https://github.com/kubo25",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/kubo25/MultiEye/deployments",
   "createdAt": "2016-12-11T13:43:56.000Z",
   "updatedAt": "2017-02-25T08:37:38.000Z",
-  "pushedAt": "2017-05-03T14:20:49.000Z",
+  "pushedAt": "2017-05-07T22:42:40.000Z",
   "gitUrl": "git://github.com/kubo25/MultiEye.git",
   "sshUrl": "git@github.com:kubo25/MultiEye.git",
   "cloneUrl": "https://github.com/kubo25/MultiEye.git",
   "svnUrl": "https://github.com/kubo25/MultiEye",
   "homepage": "",
-  "size": 4178,
+  "size": 4259,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:08:32.904Z",
+  "lastFetchedAt": "2017-10-23T18:36:17.178Z",
   "packageJSON": {
     "name": "multieye",
     "version": "0.7.0",
@@ -76,15 +76,8 @@
     "scripts": {
       "start": "electron --high-dpi-support=1 --force-device-scale-factor=1 ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kubo25/MultiEye.git"
-    },
-    "author": "Jakub Hučko",
+    "repository": "https://github.com/kubo25/MultiEye",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/kubo25/MultiEye/issues"
-    },
     "homepage": "https://github.com/kubo25/MultiEye#readme",
     "dependencies": {
       "electron": "^1.6.2",
@@ -93,8 +86,15 @@
     },
     "devDependencies": {
       "electron-reload": "^1.1.0"
+    },
+    "other": {
+      "author": "Jakub Hučko",
+      "bugs": {
+        "url": "https://github.com/kubo25/MultiEye/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:34:49.790Z"
+  "packageLastFetchedAt": "2017-05-05T17:34:49.790Z",
+  "archived": false
 }

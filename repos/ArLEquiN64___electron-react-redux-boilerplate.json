@@ -5,7 +5,7 @@
   "owner": {
     "login": "ArLEquiN64",
     "id": 7821318,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7821318?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7821318?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ArLEquiN64",
     "htmlUrl": "https://github.com/ArLEquiN64",
@@ -59,21 +59,14 @@
       "build": "npm run build-css",
       "build-css": "node-sass --include-path scss src/scss/main.scss static/css/main.css"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ArLEquiN64/electron-react-redux-boilerplate.git"
-    },
+    "repository": "https://github.com/ArLEquiN64/electron-react-redux-boilerplate",
     "keywords": [
       "electron",
       "react",
       "redux",
       "boilerplate"
     ],
-    "author": "ArLE <ARLEQUIN.prx@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ArLEquiN64/electron-react-redux-boilerplate/issues"
-    },
     "homepage": "https://github.com/ArLEquiN64/electron-react-redux-boilerplate#readme",
     "devDependencies": {
       "ava": "^0.15.1",
@@ -108,6 +101,12 @@
       "require": [
         "babel-core/register"
       ]
+    },
+    "other": {
+      "author": "ArLE <ARLEQUIN.prx@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/ArLEquiN64/electron-react-redux-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   },
   "filename": "ArLEquiN64___electron-react-redux-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:57.722Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:52.114Z"
+  "lastFetchedAt": "2017-10-23T17:41:48.240Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:52.114Z",
+  "archived": false
 }

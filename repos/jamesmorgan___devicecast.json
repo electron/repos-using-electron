@@ -5,7 +5,7 @@
   "owner": {
     "login": "jamesmorgan",
     "id": 110869,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/110869?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/110869?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jamesmorgan",
     "htmlUrl": "https://github.com/jamesmorgan",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jamesmorgan/devicecast/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jamesmorgan/devicecast/deployments",
   "createdAt": "2016-01-10T17:08:23.000Z",
-  "updatedAt": "2017-04-07T12:06:42.000Z",
+  "updatedAt": "2017-08-14T09:23:19.000Z",
   "pushedAt": "2016-01-27T22:00:18.000Z",
   "gitUrl": "git://github.com/jamesmorgan/devicecast.git",
   "sshUrl": "git@github.com:jamesmorgan/devicecast.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/jamesmorgan/devicecast",
   "homepage": "",
   "size": 3765,
-  "stargazersCount": 10,
-  "watchersCount": 10,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 10,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,17 +69,13 @@
     "featured": true
   },
   "networkCount": 2,
-  "subscribersCount": 3,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "devicecast",
     "version": "0.2.0",
     "description": "Cast OSX Audio to a UPNP Device OR Chromecast - powered by electron and runs as a menubar application.",
-    "author": "James Morgan",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jamesmorgan/devicecast"
-    },
+    "repository": "https://github.com/jamesmorgan/devicecast",
     "dependencies": {
       "castv2-client": "1.1.1",
       "lodash": "3.10.1",
@@ -115,7 +111,10 @@
       "streaming",
       "osx",
       "chromecast"
-    ]
+    ],
+    "other": {
+      "author": "James Morgan"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +141,7 @@
   },
   "filename": "jamesmorgan___devicecast.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:57.770Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:58.346Z"
+  "lastFetchedAt": "2017-10-23T21:04:29.689Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:58.346Z",
+  "archived": false
 }

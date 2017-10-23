@@ -5,7 +5,7 @@
   "owner": {
     "login": "yosmoc",
     "id": 9694,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9694?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9694?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yosmoc",
     "htmlUrl": "https://github.com/yosmoc",
@@ -83,7 +83,6 @@
       "zip-darwin": "cd packages/v0.0.1 && zip -r cutecom-clone-darwin-x64.zip cutecom-clone-darwin-x64",
       "zip-win32": "cd packages/v0.0.1 && zip -r cutecom-clone-win32-ia32.zip cutecom-clone-win32-ia32 && zip -r cutecom-clone-win32-x64.zip cutecom-clone-win32-x64"
     },
-    "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.0.2",
@@ -92,6 +91,9 @@
       "gulp-babel": "^5.2.1",
       "gulp-plumber": "^1.0.1",
       "gulp-watch": "^4.3.5"
+    },
+    "other": {
+      "author": "samurai20000 <samurai20000@gmail.com>(https://github.com/samurai20000)"
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,7 @@
   },
   "filename": "yosmoc___cutecom-clone.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:22.744Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:52.242Z"
+  "lastFetchedAt": "2017-10-23T20:43:27.712Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:52.242Z",
+  "archived": false
 }

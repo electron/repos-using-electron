@@ -5,7 +5,7 @@
   "owner": {
     "login": "20after4",
     "id": 30934,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/30934?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/30934?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/20after4",
     "htmlUrl": "https://github.com/20after4",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/20after4/electric-gb"
-    },
+    "repository": "https://github.com/20after4/electric-gb",
     "keywords": [
       "Electron",
       "Glowing-bear",
@@ -85,17 +82,19 @@
       "Desktop",
       "Client"
     ],
-    "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/20after4/electric-gb/issues"
-    },
     "homepage": "https://github.com/20after4/electric-gb",
     "dependencies": {
       "open": "0.0.5"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/20after4/electric-gb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "20after4___electric-gb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:13.971Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:56.983Z"
+  "lastFetchedAt": "2017-10-23T18:12:02.585Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:56.983Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nsisodiya",
     "id": 333455,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/333455?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/333455?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nsisodiya",
     "htmlUrl": "https://github.com/nsisodiya",
@@ -79,18 +79,11 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nsisodiya/time-spent.git"
-    },
+    "repository": "https://github.com/nsisodiya/time-spent",
     "keywords": [
       "Electron"
     ],
-    "author": "Narendra Sisodiya",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nsisodiya/time-spent/issues"
-    },
     "homepage": "https://github.com/nsisodiya/time-spent#readme",
     "devDependencies": {
       "electron-installer-dmg": "^0.1.1",
@@ -98,6 +91,12 @@
     },
     "dependencies": {
       "time-ago": "^0.1.0"
+    },
+    "other": {
+      "author": "Narendra Sisodiya",
+      "bugs": {
+        "url": "https://github.com/nsisodiya/time-spent/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "nsisodiya___time-spent.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:57.272Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:47.937Z"
+  "lastFetchedAt": "2017-10-23T20:35:41.786Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:47.937Z",
+  "archived": false
 }

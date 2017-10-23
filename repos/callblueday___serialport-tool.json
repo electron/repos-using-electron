@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "serialport-tool",
     "version": "1.0.0",
@@ -59,21 +59,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:callblueday/serialport-tool.git"
-    },
+    "repository": "https://github.com/callblueday/serialport-tool",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "https://github.com/callblueday/serialport-tool#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -82,6 +75,12 @@
       "jquery": "^2.2.0",
       "serialport": "^2.0.6",
       "socket.io": "^1.4.3"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,6 @@
   },
   "filename": "callblueday___serialport-tool.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:22.374Z",
+  "lastFetchedAt": "2017-10-23T18:33:13.065Z",
   "packageLastFetchedAt": "2017-05-04T22:42:06.179Z"
 }

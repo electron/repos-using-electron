@@ -5,7 +5,7 @@
   "owner": {
     "login": "mathieuancelin",
     "id": 277206,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/277206?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/277206?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mathieuancelin",
     "htmlUrl": "https://github.com/mathieuancelin",
@@ -63,7 +63,6 @@
       "build-mac": "electron-zip-packager app RedditClient --out=dist --platform=darwin --arch=x64 --version=0.37.5 --asar=true --icon=./icons/logo --cache=./cache --name=RedditClient --overwrite=true",
       "build-linux": "electron-zip-packager app RedditClient --out=dist --platform=linux --arch=x64 --version=0.37.5 --asar=true --icon=./icons/logo --cache=./cache --name=RedditClient --overwrite=true"
     },
-    "author": "Mathieu ANCELIN",
     "license": "MIT",
     "dependencies": {
       "elemjs": "^0.1.29",
@@ -79,6 +78,9 @@
       "babel-preset-stage-0": "^6.5.0",
       "babel-register": "^6.7.2",
       "electron-prebuilt": "^0.37.5"
+    },
+    "other": {
+      "author": "Mathieu ANCELIN"
     }
   },
   "packageStatus": 200,
@@ -126,6 +128,7 @@
   "svnUrl": "https://github.com/mathieuancelin/electron-demo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:03.919Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:45.522Z"
+  "lastFetchedAt": "2017-10-23T18:21:36.500Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:45.522Z",
+  "archived": false
 }

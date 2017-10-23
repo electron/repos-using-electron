@@ -5,7 +5,7 @@
   "owner": {
     "login": "phylor",
     "id": 1394828,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1394828?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1394828?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/phylor",
     "htmlUrl": "https://github.com/phylor",
@@ -77,21 +77,14 @@
       "watch": "npm run start & npm run elm:watch & wait",
       "build:pi": "electron-packager . Dashboard --platform=linux --arch=armv7l"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^8.1.0",
@@ -100,6 +93,12 @@
     },
     "dependencies": {
       "electron": "^1.4.2"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "phylor___elm-pi-dash.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:33.100Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:36.470Z"
+  "lastFetchedAt": "2017-10-23T19:25:39.270Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:36.470Z",
+  "archived": false
 }

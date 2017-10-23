@@ -5,7 +5,7 @@
   "owner": {
     "login": "HSLdevcom",
     "id": 2813507,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2813507?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2813507?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HSLdevcom",
     "htmlUrl": "https://github.com/HSLdevcom",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-03-01T13:29:06.000Z",
   "updatedAt": "2016-03-01T13:30:12.000Z",
-  "pushedAt": "2017-05-04T16:09:50.000Z",
+  "pushedAt": "2017-10-12T11:56:35.000Z",
   "homepage": null,
-  "size": 2177,
+  "size": 15125,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "HSLdevcom",
     "id": 2813507,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2813507?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2813507?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HSLdevcom",
     "htmlUrl": "https://github.com/HSLdevcom",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 7,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "hsl-map-generator-ui",
@@ -83,19 +83,8 @@
       "start-prod": "cross-env NODE_ENV=production node -r babel-register server.js",
       "start": "npm run start-dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/HSLdevcom/hsl-map-generator-ui.git"
-    },
-    "author": {
-      "name": "Hannes Junnila",
-      "email": "hannes.junnila@gmail.com",
-      "url": "https://github.com/hannesj"
-    },
+    "repository": "https://github.com/HSLdevcom/hsl-map-generator-ui",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/HSLdevcom/hsl-map-generator-ui/issues"
-    },
     "keywords": [
       "react",
       "flux",
@@ -173,6 +162,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Hannes Junnila",
+        "email": "hannes.junnila@gmail.com",
+        "url": "https://github.com/hannesj"
+      },
+      "bugs": {
+        "url": "https://github.com/HSLdevcom/hsl-map-generator-ui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -221,6 +220,7 @@
   "svnUrl": "https://github.com/HSLdevcom/hsl-map-generator-ui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:03:26.789Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:09.944Z"
+  "lastFetchedAt": "2017-10-23T20:08:19.972Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:09.944Z",
+  "archived": false
 }

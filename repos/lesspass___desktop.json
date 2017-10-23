@@ -5,7 +5,7 @@
   "owner": {
     "login": "lesspass",
     "id": 17266927,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17266927?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17266927?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lesspass",
     "htmlUrl": "https://github.com/lesspass",
@@ -20,12 +20,12 @@
   "description": "desktop application",
   "fork": false,
   "createdAt": "2016-07-05T13:34:22.000Z",
-  "updatedAt": "2017-03-13T13:37:08.000Z",
-  "pushedAt": "2017-04-25T20:38:12.000Z",
+  "updatedAt": "2017-07-30T09:51:14.000Z",
+  "pushedAt": "2017-10-19T17:34:58.000Z",
   "homepage": "https://lesspass.com",
-  "size": 1494,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 2241,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "Python",
   "hasIssues": false,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 4,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "lesspass",
     "id": 17266927,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17266927?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17266927?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lesspass",
     "htmlUrl": "https://github.com/lesspass",
@@ -70,7 +70,6 @@
     "version": "1.0.0",
     "description": "lesspass app",
     "license": "GPL-3.0",
-    "author": "Guillaume Vincent <guillaume@oslab.fr>",
     "main": "main.js",
     "repository": "lesspass/cozy",
     "scripts": {
@@ -91,7 +90,10 @@
       "rimraf": "^2.6.1"
     },
     "private": true,
-    "productName": "LessPass"
+    "productName": "LessPass",
+    "other": {
+      "author": "Guillaume Vincent <guillaume@oslab.fr>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +140,7 @@
   "svnUrl": "https://github.com/lesspass/desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:55:54.385Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:03.223Z"
+  "lastFetchedAt": "2017-10-23T17:04:09.049Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:03.223Z",
+  "archived": false
 }

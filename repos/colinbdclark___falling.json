@@ -5,7 +5,7 @@
   "owner": {
     "login": "colinbdclark",
     "id": 558076,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/558076?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/558076?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/colinbdclark",
     "htmlUrl": "https://github.com/colinbdclark",
@@ -71,12 +71,9 @@
     "description": "Falling, a sound installation by Colin Clark",
     "main": "main.js",
     "version": "2.0.0",
-    "author": "Colin Clark",
     "license": "MIT",
     "repository": "git://github.com/colinbdclark/falling.git",
-    "bugs": "http://github.com/colinbdclark/falling/issues",
     "homepage": "http://github.com/colinbdclark/falling",
-    "readmeFilename": "README.md",
     "dependencies": {
       "infusion": "2.0.0-dev.20151024T031903Z.3da18aa",
       "dedupe-infusion": "1.0.0",
@@ -89,6 +86,11 @@
     "scripts": {
       "dedupe-infusion": "node -e \"require('dedupe-infusion')();\"",
       "start": "electron node_modules/windvane/main.js"
+    },
+    "other": {
+      "author": "Colin Clark",
+      "bugs": "http://github.com/colinbdclark/falling/issues",
+      "readmeFilename": "README.md"
     }
   },
   "packageStatus": 200,
@@ -117,6 +119,7 @@
   "filename": "colinbdclark___falling.json",
   "sourceRepo": "colinbdclark/lou",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:06.220Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:22.423Z"
+  "lastFetchedAt": "2017-10-23T18:33:38.829Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:22.423Z",
+  "archived": false
 }

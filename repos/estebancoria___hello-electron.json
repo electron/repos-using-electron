@@ -5,7 +5,7 @@
   "owner": {
     "login": "estebancoria",
     "id": 17251649,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17251649?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17251649?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/estebancoria",
     "htmlUrl": "https://github.com/estebancoria",
@@ -81,7 +81,6 @@
       "package:win32": "electron-packager . --platform=win32 --arch=ia32",
       "package:linux": "electron-packager . --platform=linux --arch=x64"
     },
-    "author": "Esteban Coria",
     "license": "ISC",
     "dependencies": {
       "electron-prebuilt": "^1.2.6",
@@ -91,6 +90,9 @@
       "chai": "^3.5.0",
       "electron-mocha": "^2.2.1",
       "electron-packager": "^7.2.0"
+    },
+    "other": {
+      "author": "Esteban Coria"
     }
   },
   "packageStatus": 200,
@@ -118,6 +120,7 @@
   },
   "filename": "estebancoria___hello-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:53.032Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:43.187Z"
+  "lastFetchedAt": "2017-10-23T17:39:10.966Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:43.187Z",
+  "archived": false
 }

@@ -1,11 +1,11 @@
 {
   "id": 49439255,
-  "name": "YuriNET-Electron",
-  "fullName": "icharge/YuriNET-Electron",
+  "name": "YuriNET2-Electron",
+  "fullName": "icharge/YuriNET2-Electron",
   "owner": {
     "login": "icharge",
     "id": 1619007,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1619007?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1619007?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/icharge",
     "htmlUrl": "https://github.com/icharge",
@@ -17,38 +17,38 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/icharge/YuriNET-Electron",
+  "htmlUrl": "https://github.com/icharge/YuriNET2-Electron",
   "description": "YuriNET 2 using Electron",
   "fork": false,
-  "url": "https://api.github.com/repos/icharge/YuriNET-Electron",
-  "forksUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/forks",
-  "teamsUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/teams",
-  "hooksUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/hooks",
-  "eventsUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/events",
-  "tagsUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/tags",
-  "languagesUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/languages",
-  "stargazersUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/contributors",
-  "subscribersUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/subscription",
-  "mergesUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/merges",
-  "downloadsUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/icharge/YuriNET-Electron/deployments",
+  "url": "https://api.github.com/repos/icharge/YuriNET2-Electron",
+  "forksUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/forks",
+  "teamsUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/teams",
+  "hooksUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/hooks",
+  "eventsUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/events",
+  "tagsUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/tags",
+  "languagesUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/languages",
+  "stargazersUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/contributors",
+  "subscribersUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/subscription",
+  "mergesUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/merges",
+  "downloadsUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/icharge/YuriNET2-Electron/deployments",
   "createdAt": "2016-01-11T16:34:44.000Z",
-  "updatedAt": "2017-03-07T17:08:54.000Z",
-  "pushedAt": "2017-03-07T17:00:47.000Z",
-  "gitUrl": "git://github.com/icharge/YuriNET-Electron.git",
-  "sshUrl": "git@github.com:icharge/YuriNET-Electron.git",
-  "cloneUrl": "https://github.com/icharge/YuriNET-Electron.git",
-  "svnUrl": "https://github.com/icharge/YuriNET-Electron",
+  "updatedAt": "2017-07-16T15:24:45.000Z",
+  "pushedAt": "2017-09-01T12:56:11.000Z",
+  "gitUrl": "git://github.com/icharge/YuriNET2-Electron.git",
+  "sshUrl": "git@github.com:icharge/YuriNET2-Electron.git",
+  "cloneUrl": "https://github.com/icharge/YuriNET2-Electron.git",
+  "svnUrl": "https://github.com/icharge/YuriNET2-Electron",
   "homepage": null,
-  "size": 1144,
+  "size": 1753,
   "stargazersCount": 1,
   "watchersCount": 1,
-  "language": "JavaScript",
+  "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
-  "hasWiki": true,
+  "hasWiki": false,
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "yurinet",
@@ -73,16 +73,12 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "author": "Norrapat Nimmanee",
     "license": "ISC",
     "devDependencies": {
       "debug-menu": "0.5.0",
       "electron-prebuilt": "1.4.13"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "dependencies": {
       "angular": "1.6.2",
       "angular-animate": "1.6.2",
@@ -91,6 +87,9 @@
       "angular-translate": "2.15.1",
       "angular-ui-router": "0.4.2",
       "electron-debug": "1.1.0"
+    },
+    "other": {
+      "author": "Norrapat Nimmanee"
     }
   },
   "packageStatus": 200,
@@ -117,7 +116,8 @@
     }
   },
   "filename": "icharge___YuriNET-Electron.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:32.294Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:00.849Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T19:32:23.542Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:00.849Z",
+  "archived": false
 }

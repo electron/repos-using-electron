@@ -5,7 +5,7 @@
   "owner": {
     "login": "PaulLeCam",
     "id": 790995,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/790995?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/790995?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PaulLeCam",
     "htmlUrl": "https://github.com/PaulLeCam",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/PaulLeCam/react-native-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/PaulLeCam/react-native-electron/deployments",
   "createdAt": "2016-10-29T14:09:05.000Z",
-  "updatedAt": "2017-05-04T08:21:40.000Z",
-  "pushedAt": "2017-05-03T18:38:56.000Z",
+  "updatedAt": "2017-10-20T23:16:31.000Z",
+  "pushedAt": "2017-09-28T21:54:13.000Z",
   "gitUrl": "git://github.com/PaulLeCam/react-native-electron.git",
   "sshUrl": "git@github.com:PaulLeCam/react-native-electron.git",
   "cloneUrl": "https://github.com/PaulLeCam/react-native-electron.git",
   "svnUrl": "https://github.com/PaulLeCam/react-native-electron",
   "homepage": "",
-  "size": 220,
-  "stargazersCount": 40,
-  "watchersCount": 40,
+  "size": 294,
+  "stargazersCount": 60,
+  "watchersCount": 60,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 5,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 40,
+  "watchers": 60,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
-  "subscribersCount": 2,
+  "networkCount": 5,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "react-native-electron",
@@ -87,15 +87,8 @@
       "start": "npm run test && npm run build:lib",
       "test": "eslint ./src && flow"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/PaulLeCam/react-native-electron.git"
-    },
-    "author": "Paul Le Cam",
+    "repository": "https://github.com/PaulLeCam/react-native-electron",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/PaulLeCam/react-native-electron/issues"
-    },
     "homepage": "https://github.com/PaulLeCam/react-native-electron#readme",
     "dependencies": {
       "prop-types": "^15.5.0",
@@ -129,6 +122,12 @@
       "react-transform-hmr": "^1.0.4",
       "webpack": "^2.3.3",
       "webpack-dev-server": "^2.4.5"
+    },
+    "other": {
+      "author": "Paul Le Cam",
+      "bugs": {
+        "url": "https://github.com/PaulLeCam/react-native-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "PaulLeCam___react-native-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:21:27.298Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:48.560Z"
+  "lastFetchedAt": "2017-10-23T17:37:10.789Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:48.560Z",
+  "archived": false
 }

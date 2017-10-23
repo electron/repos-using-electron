@@ -191,14 +191,13 @@
   },
   "networkCount": 74,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "PiBakery",
     "displayName": "PiBakery",
     "version": "0.3.2",
     "description": "The blocks based, easy to use setup tool for Raspberry Pi",
     "main": "./main.js",
-    "author": "David Ferguson <david@pibakery.org>",
     "license": "GPL-3.0+",
     "scripts": {
       "setup": "npm install && if uname | grep Darwin; then mkdir -p '/Library/Application Support/PiBakery/os/'; fi",
@@ -232,6 +231,9 @@
     "devDependencies": {
       "electron-packager": "^7.4.0",
       "electron-prebuilt": "^1.3.2"
+    },
+    "other": {
+      "author": "David Ferguson <david@pibakery.org>"
     }
   },
   "packageStatus": 200,
@@ -259,6 +261,6 @@
   },
   "sourceRepo": "davidferguson/pibakery",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:37.336Z",
+  "lastFetchedAt": "2017-10-23T17:38:17.864Z",
   "packageLastFetchedAt": "2017-05-05T14:44:25.421Z"
 }

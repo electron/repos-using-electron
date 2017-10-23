@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Fryer",
     "productName": "Fryer",
@@ -58,11 +58,6 @@
     "description": "Opinionated desktop application framework",
     "license": "MIT",
     "repository": "emilkje/fryer",
-    "author": {
-      "name": "",
-      "email": "",
-      "url": "kjels.no"
-    },
     "electronVersion": "0.35.0",
     "scripts": {
       "test": "xo",
@@ -98,6 +93,13 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "",
+        "email": "",
+        "url": "kjels.no"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +147,6 @@
   },
   "filename": "emilkje___fryer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:26.978Z",
+  "lastFetchedAt": "2017-10-23T18:03:35.662Z",
   "packageLastFetchedAt": "2017-05-05T15:22:22.325Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Lokua",
     "id": 5567407,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5567407?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5567407?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Lokua",
     "htmlUrl": "https://github.com/Lokua",
@@ -83,21 +83,14 @@
       "dev-server": "node webpack/dev-server",
       "nodemon": "./node_modules/.bin/nodemon --exec \"./node_modules/.bin/electron .\" "
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lokua/midi-monitor.git"
-    },
+    "repository": "https://github.com/lokua/midi-monitor",
     "keywords": [
       "midi",
       "monitor",
       "desktop",
       "electron"
     ],
-    "author": "Joshua Kleckner <lokua@lokua.net> (http://github.com/lokua)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lokua/midi-monitor/issues"
-    },
     "homepage": "https://github.com/lokua/midi-monitor",
     "devDependencies": {
       "autoprefixer": "^6.3.6",
@@ -198,6 +191,12 @@
       "redux-thunk": "^2.0.1",
       "reselect": "^2.5.1",
       "whatwg-fetch": "^1.0.0"
+    },
+    "other": {
+      "author": "Joshua Kleckner <lokua@lokua.net> (http://github.com/lokua)",
+      "bugs": {
+        "url": "https://github.com/lokua/midi-monitor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -225,6 +224,7 @@
   },
   "filename": "Lokua___midi-monitor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:37.607Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:57.710Z"
+  "lastFetchedAt": "2017-10-23T17:27:30.748Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:57.710Z",
+  "archived": false
 }

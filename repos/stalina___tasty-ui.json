@@ -5,7 +5,7 @@
   "owner": {
     "login": "stalina",
     "id": 19432224,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19432224?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19432224?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stalina",
     "htmlUrl": "https://github.com/stalina",
@@ -56,15 +56,8 @@
       "electron-rebuild": "./node_modules/.bin/electron-rebuild",
       "test": "jest --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stalina/tasty-ui.git"
-    },
-    "author": "",
+    "repository": "https://github.com/stalina/tasty-ui",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/stalina/tasty-ui/issues"
-    },
     "jest": {
       "scriptPreprocessor": "node_modules/babel-jest",
       "unmockedModulePathPatterns": [
@@ -119,6 +112,12 @@
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1",
       "webpack-stream": "^3.2.0"
+    },
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/stalina/tasty-ui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,7 @@
   },
   "filename": "stalina___tasty-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:06.476Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:02.114Z"
+  "lastFetchedAt": "2017-10-23T19:24:28.407Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:02.114Z",
+  "archived": false
 }

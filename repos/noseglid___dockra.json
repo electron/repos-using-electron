@@ -5,7 +5,7 @@
   "owner": {
     "login": "noseglid",
     "id": 933880,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/933880?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/933880?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/noseglid",
     "htmlUrl": "https://github.com/noseglid",
@@ -56,15 +56,8 @@
     "scripts": {
       "start": "NODE_ENV=development electron build/dev/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/noseglid/dockra.git"
-    },
-    "author": "Alexander Olsson <noseglid@gmail.com>",
+    "repository": "https://github.com/noseglid/dockra",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/noseglid/dockra/issues"
-    },
     "homepage": "https://github.com/noseglid/dockra#readme",
     "devDependencies": {
       "asar": "^0.9.0",
@@ -117,6 +110,12 @@
       "spinkit": "^1.2.5",
       "term.js": "0.0.7",
       "toastr": "^2.1.2"
+    },
+    "other": {
+      "author": "Alexander Olsson <noseglid@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/noseglid/dockra/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   "svnUrl": "https://github.com/noseglid/dockra",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:34:05.982Z",
-  "packageLastFetchedAt": "2017-05-05T06:36:08.981Z"
+  "lastFetchedAt": "2017-10-23T20:07:18.852Z",
+  "packageLastFetchedAt": "2017-05-05T06:36:08.981Z",
+  "archived": false
 }

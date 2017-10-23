@@ -5,7 +5,7 @@
   "owner": {
     "login": "ahonn",
     "id": 9718515,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9718515?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9718515?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ahonn",
     "htmlUrl": "https://github.com/ahonn",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 2,
+  "networkCount": 1,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -81,7 +81,6 @@
       "postinstall": "cd app && npm install",
       "vue:route": "node tasks/vue/route.js"
     },
-    "author": "Greg Holguin <simulatedgreg@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -112,7 +111,10 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "Greg Holguin <simulatedgreg@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +141,7 @@
   },
   "filename": "ahonn___landleg-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:35.658Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:57.897Z"
+  "lastFetchedAt": "2017-10-23T17:37:30.809Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:57.897Z",
+  "archived": false
 }

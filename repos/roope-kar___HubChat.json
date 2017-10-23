@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hubchat",
     "version": "1.0.0",
@@ -81,10 +81,7 @@
       "postinstall": "./node_modules/.bin/webpack -p --config webpack.prod.js --progress --colors",
       "start": "node server.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/roope-kar/HubChat.git"
-    },
+    "repository": "https://github.com/roope-kar/HubChat",
     "keywords": [
       "github",
       "chat",
@@ -93,11 +90,7 @@
       "es6",
       "freezer"
     ],
-    "author": "roopekar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/roope-kar/HubChat/issues"
-    },
     "homepage": "https://github.com/roope-kar/HubChat#readme",
     "devDependencies": {
       "autoprefixer": "^6.4.0",
@@ -144,6 +137,12 @@
       "redux-thunk": "^2.1.0",
       "socket.io": "^1.4.8",
       "whatwg-fetch": "^1.0.0"
+    },
+    "other": {
+      "author": "roopekar",
+      "bugs": {
+        "url": "https://github.com/roope-kar/HubChat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,6 @@
   },
   "filename": "roope-kar___HubChat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:40.107Z",
+  "lastFetchedAt": "2017-10-23T17:33:10.346Z",
   "packageLastFetchedAt": "2017-05-05T01:28:45.095Z"
 }

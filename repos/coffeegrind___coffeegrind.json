@@ -5,7 +5,7 @@
   "owner": {
     "login": "coffeegrind",
     "id": 17771920,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17771920?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17771920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/coffeegrind",
     "htmlUrl": "https://github.com/coffeegrind",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "coffeegrind",
     "id": 17771920,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17771920?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17771920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/coffeegrind",
     "htmlUrl": "https://github.com/coffeegrind",
@@ -69,10 +69,7 @@
       "install": "cd vendor/node-system-idle-time/ && node-gyp rebuild",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/coffeegrind/coffeegrind.git"
-    },
+    "repository": "https://github.com/coffeegrind/coffeegrind",
     "keywords": [
       "time",
       "tracking",
@@ -84,11 +81,7 @@
       "linux",
       "windows"
     ],
-    "author": "Zach Cawthorne, Nick Aversano",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/coffeegrind/coffeegrind/issues"
-    },
     "homepage": "https://github.com/coffeegrind/coffeegrind#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -107,6 +100,12 @@
       "bindings": "^1.2.1",
       "nan": "^2.2.0",
       "node-persist": "0.0.11"
+    },
+    "other": {
+      "author": "Zach Cawthorne, Nick Aversano",
+      "bugs": {
+        "url": "https://github.com/coffeegrind/coffeegrind/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   "svnUrl": "https://github.com/coffeegrind/coffeegrind",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:15:28.925Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:46.087Z"
+  "lastFetchedAt": "2017-10-23T18:45:05.320Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:46.087Z",
+  "archived": false
 }

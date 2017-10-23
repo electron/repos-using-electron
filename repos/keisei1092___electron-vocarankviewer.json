@@ -5,7 +5,7 @@
   "owner": {
     "login": "keisei1092",
     "id": 3320719,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3320719?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3320719?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/keisei1092",
     "htmlUrl": "https://github.com/keisei1092",
@@ -79,24 +79,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "filename": "keisei1092___electron-vocarankviewer.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:58.249Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:39.687Z"
+  "lastFetchedAt": "2017-10-23T18:35:25.053Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:39.687Z",
+  "archived": false
 }

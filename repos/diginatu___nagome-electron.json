@@ -5,7 +5,7 @@
   "owner": {
     "login": "diginatu",
     "id": 5309969,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5309969?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5309969?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/diginatu",
     "htmlUrl": "https://github.com/diginatu",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/diginatu/nagome-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/diginatu/nagome-electron/deployments",
   "createdAt": "2016-08-30T16:49:45.000Z",
-  "updatedAt": "2016-08-31T05:10:57.000Z",
+  "updatedAt": "2017-10-15T15:44:39.000Z",
   "pushedAt": "2016-09-12T16:57:49.000Z",
   "gitUrl": "git://github.com/diginatu/nagome-electron.git",
   "sshUrl": "git@github.com:diginatu/nagome-electron.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/diginatu/nagome-electron",
   "homepage": "",
   "size": 9,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "nagome-electron",
@@ -79,27 +79,26 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/diginatu/nagome-electron.git"
-    },
+    "repository": "https://github.com/diginatu/nagome-electron",
     "keywords": [
       "comment viewer",
       "Nagome",
       "NicoNama",
       "Electron"
     ],
-    "author": "Diginatu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/diginatu/nagome-electron",
     "devDependencies": {},
     "dependencies": {
       "electron-prebuilt": "^1.2.0",
       "bootstrap": "^3.3.7",
       "electron-json-storage": "^2.0.0"
+    },
+    "other": {
+      "author": "Diginatu",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "diginatu___nagome-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:17.987Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:12.733Z"
+  "lastFetchedAt": "2017-10-23T20:22:53.694Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:12.733Z",
+  "archived": false
 }

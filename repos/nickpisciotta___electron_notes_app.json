@@ -5,7 +5,7 @@
   "owner": {
     "login": "nickpisciotta",
     "id": 13399432,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13399432?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13399432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nickpisciotta",
     "htmlUrl": "https://github.com/nickpisciotta",
@@ -75,18 +75,11 @@
       "start": "electron .",
       "build": "electron-packager . 'Fire Sale' --platform=all --arch=all --version=0.36.8"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nickpisciotta/electron_notes_app.git"
-    },
+    "repository": "https://github.com/nickpisciotta/electron_notes_app",
     "keywords": [
       "yes"
     ],
-    "author": "nickpisciotta",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nickpisciotta/electron_notes_app/issues"
-    },
     "homepage": "https://github.com/nickpisciotta/electron_notes_app#readme",
     "devDependencies": {
       "electron": "^1.3.5",
@@ -103,6 +96,12 @@
       "jquery": "^3.1.0",
       "react": "^15.3.1",
       "react-dom": "^15.3.1"
+    },
+    "other": {
+      "author": "nickpisciotta",
+      "bugs": {
+        "url": "https://github.com/nickpisciotta/electron_notes_app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "nickpisciotta___electron_notes_app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:04:34.644Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:04.503Z"
+  "lastFetchedAt": "2017-10-23T18:11:09.460Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:04.503Z",
+  "archived": false
 }

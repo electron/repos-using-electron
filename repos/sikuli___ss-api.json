@@ -5,7 +5,7 @@
   "owner": {
     "login": "sikuli",
     "id": 1049262,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1049262?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1049262?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sikuli",
     "htmlUrl": "https://github.com/sikuli",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "sikuli",
     "id": 1049262,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1049262?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1049262?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sikuli",
     "htmlUrl": "https://github.com/sikuli",
@@ -83,10 +83,7 @@
     "name": "ss-api",
     "version": "1.0.0",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sikuli/ss-parser.git"
-    },
+    "repository": "https://github.com/sikuli/ss-parser",
     "description": "work in progress",
     "scripts": {
       "build": "gulp",
@@ -94,7 +91,6 @@
       "coverage": "istanbul cover _mocha",
       "coveralls": "npm run-script coverage && coveralls < coverage/lcov.info"
     },
-    "author": "Khalid Alharbi",
     "license": "MIT",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -111,6 +107,9 @@
     },
     "dependencies": {
       "robotjs": "^0.4.4"
+    },
+    "other": {
+      "author": "Khalid Alharbi"
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "sikuli___ss-api.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:07:23.464Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:45.872Z"
+  "lastFetchedAt": "2017-10-23T17:58:33.147Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:45.872Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "fengzilong",
     "id": 9125255,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9125255?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9125255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fengzilong",
     "htmlUrl": "https://github.com/fengzilong",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/fengzilong/handy/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fengzilong/handy/deployments",
   "createdAt": "2016-07-04T15:49:47.000Z",
-  "updatedAt": "2016-07-04T16:35:31.000Z",
+  "updatedAt": "2017-05-30T15:45:51.000Z",
   "pushedAt": "2016-09-06T00:47:58.000Z",
   "gitUrl": "git://github.com/fengzilong/handy.git",
   "sshUrl": "git@github.com:fengzilong/handy.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/fengzilong/handy",
   "homepage": "",
   "size": 75,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -78,11 +78,6 @@
     "description": "My breathtaking app",
     "license": "MIT",
     "repository": "fengzilong/handy",
-    "author": {
-      "name": "mo",
-      "email": "feng_zilong@163.com",
-      "url": "https://github.com/fengzilong/handy"
-    },
     "scripts": {
       "test": "xo",
       "dev": "concurrently --kill-others \"npm run electron\" \"npm run riot\"",
@@ -120,6 +115,13 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "mo",
+        "email": "feng_zilong@163.com",
+        "url": "https://github.com/fengzilong/handy"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +149,7 @@
   },
   "filename": "fengzilong___handy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:01.648Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:03.950Z"
+  "lastFetchedAt": "2017-10-23T18:32:30.803Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:03.950Z",
+  "archived": false
 }

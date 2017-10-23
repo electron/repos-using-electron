@@ -5,7 +5,7 @@
   "owner": {
     "login": "shyiko",
     "id": 370176,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/370176?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/370176?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shyiko",
     "htmlUrl": "https://github.com/shyiko",
@@ -20,21 +20,21 @@
   "description": "A command-line tool for generating HTTP Archive (HAR) (based on Electron)",
   "fork": false,
   "createdAt": "2015-12-09T23:58:28.000Z",
-  "updatedAt": "2017-04-01T16:34:58.000Z",
-  "pushedAt": "2016-07-21T20:39:28.000Z",
+  "updatedAt": "2017-07-26T11:18:46.000Z",
+  "pushedAt": "2017-09-22T17:27:03.000Z",
   "homepage": "https://www.npmjs.com/package/electron-har",
-  "size": 29,
-  "stargazersCount": 23,
-  "watchersCount": 23,
+  "size": 21,
+  "stargazersCount": 24,
+  "watchersCount": 24,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 9,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 23,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 24,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -55,12 +55,8 @@
     "name": "electron-har",
     "description": "A command-line tool for generating HTTP Archive (HAR) (based on Electron)",
     "version": "0.2.0",
-    "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/shyiko/electron-har"
-    },
+    "repository": "https://github.com/shyiko/electron-har",
     "bin": "./bin/electron-har",
     "main": "./src/index.js",
     "dependencies": {
@@ -101,7 +97,10 @@
     "keywords": [
       "electron",
       "har"
-    ]
+    ],
+    "other": {
+      "author": "Stanley Shyiko <stanley.shyiko@gmail.com>"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/shyiko/electron-har",
@@ -148,6 +147,7 @@
   },
   "filename": "shyiko___electron-har.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:37.698Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:54.948Z"
+  "lastFetchedAt": "2017-10-23T21:05:10.806Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:54.948Z",
+  "archived": false
 }

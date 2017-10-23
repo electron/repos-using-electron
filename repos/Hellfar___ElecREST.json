@@ -5,7 +5,7 @@
   "owner": {
     "login": "Hellfar",
     "id": 2372207,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2372207?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2372207?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Hellfar",
     "htmlUrl": "https://github.com/Hellfar",
@@ -80,23 +80,22 @@
       "start": "electron .",
       "clean": "rm -rf node_modules/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Hellfar/ElecREST.git"
-    },
+    "repository": "https://github.com/Hellfar/ElecREST",
     "keywords": [
       "Electron",
       "REST",
       "client"
     ],
-    "author": "Hellfar",
     "license": "LGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Hellfar/ElecREST/issues"
-    },
     "homepage": "https://github.com/Hellfar/ElecREST#readme",
     "devDependencies": {
       "electron": "^1.4.1"
+    },
+    "other": {
+      "author": "Hellfar",
+      "bugs": {
+        "url": "https://github.com/Hellfar/ElecREST/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Hellfar___ElecREST.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:35:09.557Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:13.585Z"
+  "lastFetchedAt": "2017-10-23T19:13:33.120Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:13.585Z",
+  "archived": false
 }

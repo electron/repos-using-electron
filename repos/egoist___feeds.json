@@ -5,7 +5,7 @@
   "owner": {
     "login": "egoist",
     "id": 8784712,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8784712?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8784712?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/egoist",
     "htmlUrl": "https://github.com/egoist",
@@ -36,7 +36,7 @@
   "deploymentsUrl": "https://api.github.com/repos/egoist/feeds/deployments",
   "createdAt": "2015-12-15T15:08:28.000Z",
   "updatedAt": "2015-12-15T15:08:50.000Z",
-  "pushedAt": "2015-12-15T15:08:49.000Z",
+  "pushedAt": "2017-07-25T13:49:37.000Z",
   "gitUrl": "git://github.com/egoist/feeds.git",
   "sshUrl": "git@github.com:egoist/feeds.git",
   "cloneUrl": "https://github.com/egoist/feeds.git",
@@ -79,10 +79,7 @@
       "start": "HOT=1 NODE_ENV=development electron .",
       "start:win": "set HOT=1 && set NODE_ENV=development && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/egoist/vuepack.git"
-    },
+    "repository": "https://github.com/egoist/vuepack",
     "keywords": [
       "vue",
       "webpack",
@@ -92,11 +89,7 @@
       "mvvm",
       "starter"
     ],
-    "author": "EGOIST",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/egoist/vuepack/issues"
-    },
     "homepage": "https://github.com/egoist/vuepack#readme",
     "devDependencies": {
       "babel-core": "^6.3.13",
@@ -132,6 +125,12 @@
     },
     "dependencies": {
       "menubar": "^3.0.0"
+    },
+    "other": {
+      "author": "EGOIST",
+      "bugs": {
+        "url": "https://github.com/egoist/vuepack/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "egoist___feeds.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:37:16.898Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:29.912Z"
+  "lastFetchedAt": "2017-10-23T21:02:10.858Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:29.912Z",
+  "archived": false
 }

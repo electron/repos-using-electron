@@ -5,7 +5,7 @@
   "owner": {
     "login": "iosonofabio",
     "id": 1200640,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1200640?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1200640?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iosonofabio",
     "htmlUrl": "https://github.com/iosonofabio",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,28 +62,27 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electroalloy",
     "version": "0.0.1",
     "description": "Trying to marry github electron with alloy editor.",
-    "author": "Fabio Zanini <fabio.zanini@fastmail.fm>",
     "scripts": {
       "start": "./node_modules/.bin/electron ."
     },
     "main": "build/electroalloy.js",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/iosonofabio/electroalloy"
-    },
+    "repository": "https://github.com/iosonofabio/electroalloy",
     "dependencies": {
       "react": "^0.13.3"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.33.6"
+    },
+    "other": {
+      "author": "Fabio Zanini <fabio.zanini@fastmail.fm>"
     }
   },
   "packageStatus": 200,
@@ -111,6 +110,7 @@
   },
   "filename": "iosonofabio___electroalloy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:19.269Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:46.534Z"
+  "lastFetchedAt": "2017-10-23T20:50:04.499Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:46.534Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ChristianMurphy",
     "id": 3107513,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3107513?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3107513?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ChristianMurphy",
     "htmlUrl": "https://github.com/ChristianMurphy",
@@ -81,21 +81,14 @@
       "start-dev": "cross-env ELECTRON_ENV=dev electron src/main.js",
       "test": "remark -q --no-stdout -u remark-lint *.md && eslint . && ava"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ChristianMurphy/electrolysis.git"
-    },
+    "repository": "https://github.com/ChristianMurphy/electrolysis",
     "keywords": [
       "video",
       "conversion",
       "electron",
       "ffmpeg"
     ],
-    "author": "Christian Murphy",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ChristianMurphy/electrolysis/issues"
-    },
     "homepage": "https://github.com/ChristianMurphy/electrolysis#readme",
     "dependencies": {
       "fluent-ffmpeg": "^2.1.0",
@@ -119,6 +112,12 @@
     },
     "engines": {
       "node": ">=6.0.0"
+    },
+    "other": {
+      "author": "Christian Murphy",
+      "bugs": {
+        "url": "https://github.com/ChristianMurphy/electrolysis/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "ChristianMurphy___electrolysis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:37.187Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:02.971Z"
+  "lastFetchedAt": "2017-10-23T17:35:21.598Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:02.971Z",
+  "archived": false
 }

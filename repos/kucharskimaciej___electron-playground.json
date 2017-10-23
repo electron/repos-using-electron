@@ -5,7 +5,7 @@
   "owner": {
     "login": "kucharskimaciej",
     "id": 9625090,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9625090?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9625090?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kucharskimaciej",
     "htmlUrl": "https://github.com/kucharskimaciej",
@@ -81,7 +81,6 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "author": "Scotch",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -97,6 +96,9 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "author": "Scotch"
     }
   },
   "packageStatus": 200,
@@ -125,6 +127,7 @@
   "filename": "kucharskimaciej___electron-playground.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:36.308Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:27.520Z"
+  "lastFetchedAt": "2017-10-23T20:32:14.751Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:27.520Z",
+  "archived": false
 }

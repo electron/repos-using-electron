@@ -5,7 +5,7 @@
   "owner": {
     "login": "meso",
     "id": 58097,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/58097?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/58097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/meso",
     "htmlUrl": "https://github.com/meso",
@@ -60,11 +60,13 @@
       "start": "electron main.js",
       "build": "electron-packager . dearu --platform=all --arch=x64 --version=0.36.8 --asar --out=out"
     },
-    "author": "Toshihiro Shimizu",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Toshihiro Shimizu"
     }
   },
   "packageStatus": 200,
@@ -112,6 +114,7 @@
   },
   "filename": "meso___dearu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:53.459Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:14.402Z"
+  "lastFetchedAt": "2017-10-23T17:16:27.506Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:14.402Z",
+  "archived": false
 }

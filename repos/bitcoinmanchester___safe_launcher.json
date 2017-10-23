@@ -5,7 +5,7 @@
   "owner": {
     "login": "bitcoinmanchester",
     "id": 5564385,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5564385?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5564385?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bitcoinmanchester",
     "htmlUrl": "https://github.com/bitcoinmanchester",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "bitcoinmanchester",
     "id": 5564385,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5564385?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5564385?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bitcoinmanchester",
     "htmlUrl": "https://github.com/bitcoinmanchester",
@@ -83,7 +83,7 @@
     "owner": {
       "login": "maidsafe",
       "id": 536423,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/536423?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/536423?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/maidsafe",
       "htmlUrl": "https://github.com/maidsafe",
@@ -113,7 +113,7 @@
     "downloadsUrl": "https://api.github.com/repos/maidsafe/safe_launcher/downloads",
     "deploymentsUrl": "https://api.github.com/repos/maidsafe/safe_launcher/deployments",
     "createdAt": "2015-10-11T10:39:20.000Z",
-    "updatedAt": "2017-04-19T12:03:20.000Z",
+    "updatedAt": "2017-09-22T02:25:33.000Z",
     "pushedAt": "2017-04-06T18:54:27.000Z",
     "gitUrl": "git://github.com/maidsafe/safe_launcher.git",
     "sshUrl": "git@github.com:maidsafe/safe_launcher.git",
@@ -121,19 +121,20 @@
     "svnUrl": "https://github.com/maidsafe/safe_launcher",
     "homepage": "",
     "size": 27763,
-    "stargazersCount": 92,
-    "watchersCount": 92,
+    "stargazersCount": 108,
+    "watchersCount": 108,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 43,
+    "forksCount": 42,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 21,
     "openIssues": 21,
-    "watchers": 92,
+    "watchers": 108,
     "defaultBranch": "master"
   },
   "source": {
@@ -143,7 +144,7 @@
     "owner": {
       "login": "maidsafe",
       "id": 536423,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/536423?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/536423?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/maidsafe",
       "htmlUrl": "https://github.com/maidsafe",
@@ -173,7 +174,7 @@
     "downloadsUrl": "https://api.github.com/repos/maidsafe/safe_launcher/downloads",
     "deploymentsUrl": "https://api.github.com/repos/maidsafe/safe_launcher/deployments",
     "createdAt": "2015-10-11T10:39:20.000Z",
-    "updatedAt": "2017-04-19T12:03:20.000Z",
+    "updatedAt": "2017-09-22T02:25:33.000Z",
     "pushedAt": "2017-04-06T18:54:27.000Z",
     "gitUrl": "git://github.com/maidsafe/safe_launcher.git",
     "sshUrl": "git@github.com:maidsafe/safe_launcher.git",
@@ -181,22 +182,23 @@
     "svnUrl": "https://github.com/maidsafe/safe_launcher",
     "homepage": "",
     "size": 27763,
-    "stargazersCount": 92,
-    "watchersCount": 92,
+    "stargazersCount": 108,
+    "watchersCount": 108,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 43,
+    "forksCount": 42,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 21,
     "openIssues": 21,
-    "watchers": 92,
+    "watchers": 108,
     "defaultBranch": "master"
   },
-  "networkCount": 43,
+  "networkCount": 42,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -228,18 +230,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maidsafe/safe_launcher.git"
-    },
-    "author": {
-      "name": "MaidSafe",
-      "email": "qa@maidsafe.net",
-      "url": "https://maidsafe.net"
-    },
-    "bugs": {
-      "url": "https://github.com/maidsafe/safe_launcher/issues"
-    },
+    "repository": "https://github.com/maidsafe/safe_launcher",
     "keywords": [
       "maidsafe",
       "launcher"
@@ -347,6 +338,16 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "author": {
+        "name": "MaidSafe",
+        "email": "qa@maidsafe.net",
+        "url": "https://maidsafe.net"
+      },
+      "bugs": {
+        "url": "https://github.com/maidsafe/safe_launcher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -375,6 +376,7 @@
   "filename": "bitcoinmanchester___safe_launcher.json",
   "sourceRepo": "maidsafe/safe_launcher",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:05.909Z",
-  "packageLastFetchedAt": "2017-05-05T17:17:53.537Z"
+  "lastFetchedAt": "2017-10-23T17:53:15.582Z",
+  "packageLastFetchedAt": "2017-05-05T17:17:53.537Z",
+  "archived": false
 }

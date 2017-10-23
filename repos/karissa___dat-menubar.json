@@ -5,7 +5,7 @@
   "owner": {
     "login": "karissa",
     "id": 633012,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/633012?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/633012?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/karissa",
     "htmlUrl": "https://github.com/karissa",
@@ -20,7 +20,7 @@
   "description": "deprecated",
   "fork": false,
   "createdAt": "2015-11-21T23:43:43.000Z",
-  "updatedAt": "2017-02-11T11:06:18.000Z",
+  "updatedAt": "2017-09-30T04:47:42.000Z",
   "pushedAt": "2016-04-20T07:07:33.000Z",
   "homepage": "http://dat-data.com",
   "size": 457,
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 6,
-  "subscribersCount": 9,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "dat-app",
@@ -56,15 +56,8 @@
       "mac-bundle": "electron-packager . --prune Dat --platform=darwin --arch=x64 --version=0.35.5 --ignore=node_modules/electron-prebuilt && cp info.plist Dat-darwin-x64/Dat.app/Contents/Info.plist && cp icon.icns Dat-darwin-x64/Dat.app/Contents/Resources/atom.icns",
       "win-bundle": "electron-packager . --prune Dat --platform=win32 --arch=ia32 --version=0.35.5 --ignore=node_modules/electron-prebuilt,Dat-darwin-x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/karissa/dat-app.git"
-    },
-    "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+    "repository": "https://github.com/karissa/dat-app",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/karissa/dat-app/issues"
-    },
     "homepage": "https://github.com/karissa/dat-app#readme",
     "dependencies": {
       "csjs-inject": "^1.0.0",
@@ -82,6 +75,12 @@
       "run-parallel": "^1.1.4",
       "xtend": "^4.0.1",
       "yo-yo": "^1.1.1"
+    },
+    "other": {
+      "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+      "bugs": {
+        "url": "https://github.com/karissa/dat-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "svnUrl": "https://github.com/karissa/dat-menubar",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:20:59.365Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:21.729Z"
+  "lastFetchedAt": "2017-10-23T19:03:27.047Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:21.729Z",
+  "archived": false
 }

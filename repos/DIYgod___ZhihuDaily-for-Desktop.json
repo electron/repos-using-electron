@@ -5,7 +5,7 @@
   "owner": {
     "login": "DIYgod",
     "id": 8266075,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8266075?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8266075?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DIYgod",
     "htmlUrl": "https://github.com/DIYgod",
@@ -20,7 +20,7 @@
   "description": ":cake: A ZhihuDaily client on Mac OS X, Windows and Linux.",
   "fork": false,
   "createdAt": "2016-02-27T16:46:55.000Z",
-  "updatedAt": "2017-04-28T16:35:30.000Z",
+  "updatedAt": "2017-05-24T04:32:45.000Z",
   "pushedAt": "2016-03-24T13:48:51.000Z",
   "homepage": "https://www.anotherhome.net/2411",
   "size": 1312,
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 3,
-  "subscribersCount": 5,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "zhihudaily",
@@ -55,26 +55,25 @@
       "start": "electron main.js",
       "dev": "electron --debug=5858 main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DIYgod/ZhihuDaily-for-Desktop"
-    },
+    "repository": "https://github.com/DIYgod/ZhihuDaily-for-Desktop",
     "keywords": [
       "ZhihuDaily",
       "zhihu",
       "electron",
       "知乎"
     ],
-    "author": "DIYgod",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DIYgod/ZhihuDaily-for-Desktop/issues"
-    },
     "homepage": "https://github.com/DIYgod/ZhihuDaily-for-Desktop#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.2"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "DIYgod",
+      "bugs": {
+        "url": "https://github.com/DIYgod/ZhihuDaily-for-Desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -121,6 +120,7 @@
   "svnUrl": "https://github.com/DIYgod/ZhihuDaily-for-Desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:25:55.289Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:54.053Z"
+  "lastFetchedAt": "2017-10-23T20:53:08.856Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:54.053Z",
+  "archived": false
 }

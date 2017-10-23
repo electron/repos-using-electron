@@ -5,7 +5,7 @@
   "owner": {
     "login": "ChooseDews",
     "id": 13653568,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13653568?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13653568?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ChooseDews",
     "htmlUrl": "https://github.com/ChooseDews",
@@ -53,24 +53,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "ChooseDews___TheDewsElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:08:05.598Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:53.082Z"
+  "lastFetchedAt": "2017-10-23T17:18:13.641Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:53.082Z",
+  "archived": false
 }

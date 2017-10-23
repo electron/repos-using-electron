@@ -5,7 +5,7 @@
   "owner": {
     "login": "maxogden",
     "id": 39759,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maxogden",
     "htmlUrl": "https://github.com/maxogden",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/maxogden/usfs-fstopo/downloads",
   "deploymentsUrl": "https://api.github.com/repos/maxogden/usfs-fstopo/deployments",
   "createdAt": "2016-08-10T16:27:04.000Z",
-  "updatedAt": "2017-04-25T19:24:15.000Z",
-  "pushedAt": "2016-08-10T19:04:28.000Z",
+  "updatedAt": "2017-10-12T03:49:55.000Z",
+  "pushedAt": "2017-05-15T18:36:51.000Z",
   "gitUrl": "git://github.com/maxogden/usfs-fstopo.git",
   "sshUrl": "git@github.com:maxogden/usfs-fstopo.git",
   "cloneUrl": "https://github.com/maxogden/usfs-fstopo.git",
   "svnUrl": "https://github.com/maxogden/usfs-fstopo",
   "homepage": null,
-  "size": 160,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "size": 270,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 11,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "usfs-fstopo",
@@ -73,22 +73,21 @@
       "start": "electron index.js"
     },
     "keywords": [],
-    "author": "",
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maxogden/usfs-fstopo.git"
-    },
-    "bugs": {
-      "url": "https://github.com/maxogden/usfs-fstopo/issues"
-    },
+    "repository": "https://github.com/maxogden/usfs-fstopo",
     "homepage": "https://github.com/maxogden/usfs-fstopo#readme",
     "description": "Scrapes all the FSTopo topographic forest PDF maps from [the U.S. Forest Service FSTopo website](http://data.fs.usda.gov/geodata/rastergateway/states-regions/states.php).",
     "dependencies": {
       "run-series": "^1.1.4",
       "electron-prebuilt": "0.36.7"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "author": "",
+      "bugs": {
+        "url": "https://github.com/maxogden/usfs-fstopo/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +114,7 @@
   },
   "filename": "maxogden___usfs-fstopo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:39:36.838Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:08.217Z"
+  "lastFetchedAt": "2017-10-23T20:31:11.640Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:08.217Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "stefanjudis",
     "id": 962099,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/962099?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/962099?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stefanjudis",
     "htmlUrl": "https://github.com/stefanjudis",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/stefanjudis/blocky/downloads",
   "deploymentsUrl": "https://api.github.com/repos/stefanjudis/blocky/deployments",
   "createdAt": "2015-10-04T15:54:49.000Z",
-  "updatedAt": "2017-03-09T02:41:37.000Z",
+  "updatedAt": "2017-10-12T04:30:03.000Z",
   "pushedAt": "2017-02-12T00:57:29.000Z",
   "gitUrl": "git://github.com/stefanjudis/blocky.git",
   "sshUrl": "git@github.com:stefanjudis/blocky.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/stefanjudis/blocky",
   "homepage": "",
   "size": 2799,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 9,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -84,19 +84,18 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stefanjudis/electron-block-screensaver-example.git"
-    },
-    "author": "stefanjudis <stefanjudis@gmail.com>",
+    "repository": "https://github.com/stefanjudis/electron-block-screensaver-example",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stefanjudis/electron-block-screensaver-example/issues"
-    },
     "homepage": "https://github.com/stefanjudis/electron-block-screensaver-example#readme",
     "devDependencies": {
       "electron": "^1.4.15",
       "electron-builder": "^13.5.0"
+    },
+    "other": {
+      "author": "stefanjudis <stefanjudis@gmail.com>",
+      "bugs": {
+        "url": "https://github.com/stefanjudis/electron-block-screensaver-example/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "stefanjudis___blocky.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:48.099Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:25.587Z"
+  "lastFetchedAt": "2017-10-23T18:59:43.922Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:25.587Z",
+  "archived": false
 }

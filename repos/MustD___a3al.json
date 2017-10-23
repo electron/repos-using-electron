@@ -5,7 +5,7 @@
   "owner": {
     "login": "MustD",
     "id": 3086970,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3086970?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3086970?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MustD",
     "htmlUrl": "https://github.com/MustD",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/MustD/a3al/downloads",
   "deploymentsUrl": "https://api.github.com/repos/MustD/a3al/deployments",
   "createdAt": "2016-09-03T13:42:16.000Z",
-  "updatedAt": "2017-04-04T19:00:38.000Z",
+  "updatedAt": "2017-05-28T12:18:09.000Z",
   "pushedAt": "2017-02-23T16:10:30.000Z",
   "gitUrl": "git://github.com/MustD/a3al.git",
   "sshUrl": "git@github.com:MustD/a3al.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/MustD/a3al",
   "homepage": null,
   "size": 1896,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 4,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -96,13 +96,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MustD/a3al.git"
-    },
-    "author": {
-      "name": "mustd"
-    },
+    "repository": "https://github.com/MustD/a3al",
     "license": "MIT",
     "keywords": [
       "arma3",
@@ -179,6 +173,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "mustd"
+      }
     }
   },
   "packageStatus": 200,
@@ -206,6 +205,7 @@
   },
   "filename": "MustD___a3al.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:01:01.398Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:19.901Z"
+  "lastFetchedAt": "2017-10-23T19:24:43.589Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:19.901Z",
+  "archived": false
 }

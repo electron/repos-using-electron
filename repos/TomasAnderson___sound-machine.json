@@ -5,7 +5,7 @@
   "owner": {
     "login": "TomasAnderson",
     "id": 11039401,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11039401?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11039401?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TomasAnderson",
     "htmlUrl": "https://github.com/TomasAnderson",
@@ -60,7 +60,6 @@
       "start": "electron .",
       "package": "electron-packager ./ SoundMachine --all --out ~/Desktop/SoundMachine --version 0.30.2 --overwrite --icon=./app/img/app-icon.icns"
     },
-    "author": "yuri chow",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -68,6 +67,9 @@
     },
     "dependencies": {
       "nconf": "^0.8.4"
+    },
+    "other": {
+      "author": "yuri chow"
     }
   },
   "packageStatus": 200,
@@ -115,6 +117,7 @@
   "svnUrl": "https://github.com/TomasAnderson/sound-machine",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:03:48.996Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:19.599Z"
+  "lastFetchedAt": "2017-10-23T19:14:20.262Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:19.599Z",
+  "archived": false
 }

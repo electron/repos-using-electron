@@ -6,7 +6,7 @@
   "owner": {
     "login": "niklasi",
     "id": 1456821,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1456821?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1456821?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/niklasi",
     "htmlUrl": "https://github.com/niklasi",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/niklasi/halland-proxy/downloads",
   "deploymentsUrl": "https://api.github.com/repos/niklasi/halland-proxy/deployments",
   "createdAt": "2016-10-14T12:32:12.000Z",
-  "updatedAt": "2016-12-25T09:59:55.000Z",
-  "pushedAt": "2017-04-24T23:46:55.000Z",
+  "updatedAt": "2017-09-29T09:06:17.000Z",
+  "pushedAt": "2017-10-19T18:43:39.000Z",
   "gitUrl": "git://github.com/niklasi/halland-proxy.git",
   "sshUrl": "git@github.com:niklasi/halland-proxy.git",
   "cloneUrl": "https://github.com/niklasi/halland-proxy.git",
   "svnUrl": "https://github.com/niklasi/halland-proxy",
   "homepage": "",
-  "size": 648,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 795,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
-  "hasWiki": true,
+  "hasWiki": false,
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -85,24 +85,14 @@
       "pack": "npm run build && build --dir",
       "dist": "npm run build && build --draft"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/niklasi/halland-proxy.git"
-    },
+    "repository": "https://github.com/niklasi/halland-proxy",
     "keywords": [
       "proxy",
       "debugging",
       "testing",
       "http(s)"
     ],
-    "author": {
-      "name": "Niklas Ingholt",
-      "email": "niklas@ingholt.com"
-    },
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/niklasi/hallandproxy/issues"
-    },
     "homepage": "https://github.com/niklasi/hallandproxy#readme",
     "main": "app/index.js",
     "devDependencies": {
@@ -189,6 +179,15 @@
           "AppImage"
         ]
       }
+    },
+    "other": {
+      "author": {
+        "name": "Niklas Ingholt",
+        "email": "niklas@ingholt.com"
+      },
+      "bugs": {
+        "url": "https://github.com/niklasi/hallandproxy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -214,7 +213,8 @@
       "commentCount": 0
     }
   },
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:37:11.485Z",
-  "packageLastFetchedAt": "2017-05-05T17:53:54.040Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T21:06:50.913Z",
+  "packageLastFetchedAt": "2017-05-05T17:53:54.040Z",
+  "archived": false
 }

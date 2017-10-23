@@ -5,7 +5,7 @@
   "owner": {
     "login": "kyo-ago",
     "id": 67387,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/67387?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/67387?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kyo-ago",
     "htmlUrl": "https://github.com/kyo-ago",
@@ -20,12 +20,12 @@
   "description": null,
   "fork": false,
   "createdAt": "2016-07-21T16:46:38.000Z",
-  "updatedAt": "2017-01-27T09:27:48.000Z",
-  "pushedAt": "2017-05-04T17:49:16.000Z",
+  "updatedAt": "2017-09-12T05:40:49.000Z",
+  "pushedAt": "2017-10-22T13:30:08.000Z",
   "homepage": null,
-  "size": 608,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "size": 1200,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 8,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,8 +49,6 @@
     "name": "lifter",
     "description": "Electron Local Proxy for Fiddler users",
     "version": "0.0.1",
-    "author": "@kyo_ago",
-    "bugs": "https://github.com/kyo-ago/lifter/issues",
     "build": {
       "productName": "Lifter Proxy",
       "appId": "com.electron.lifter",
@@ -119,6 +117,10 @@
       "pretest": "tsc -p ./tsconfig_test.json",
       "start": "NODE_ENV='development' && electron ./app --enable-logging",
       "watch": "tsc -p ./tsconfig.json --watch"
+    },
+    "other": {
+      "author": "@kyo_ago",
+      "bugs": "https://github.com/kyo-ago/lifter/issues"
     }
   },
   "packageStatus": 200,
@@ -166,6 +168,7 @@
   },
   "filename": "kyo-ago___lifter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:01.434Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:27.250Z"
+  "lastFetchedAt": "2017-10-23T17:49:25.010Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:27.250Z",
+  "archived": false
 }

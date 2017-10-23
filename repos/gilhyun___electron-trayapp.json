@@ -5,7 +5,7 @@
   "owner": {
     "login": "gilhyun",
     "id": 1836994,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1836994?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1836994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gilhyun",
     "htmlUrl": "https://github.com/gilhyun",
@@ -20,12 +20,12 @@
   "description": "Arrow trick for Electron tray application.",
   "fork": false,
   "createdAt": "2015-12-16T09:26:43.000Z",
-  "updatedAt": "2016-05-03T12:08:54.000Z",
+  "updatedAt": "2017-10-17T04:25:59.000Z",
   "pushedAt": "2015-12-16T09:55:41.000Z",
   "homepage": null,
   "size": 182,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -53,24 +53,23 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gilhyun/electron-trayapp.git"
-    },
+    "repository": "https://github.com/gilhyun/electron-trayapp",
     "keywords": [
       "Electron",
       "trayapp",
       "tray",
       "window arrow"
     ],
-    "author": "Gil Hyun",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gilhyun/electron-trayapp/issues"
-    },
     "homepage": "https://github.com/gilhyun/electron-trayapp#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "author": "Gil Hyun",
+      "bugs": {
+        "url": "https://github.com/gilhyun/electron-trayapp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   "svnUrl": "https://github.com/gilhyun/electron-trayapp",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:05:05.826Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:19.624Z"
+  "lastFetchedAt": "2017-10-23T17:16:42.516Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:19.624Z",
+  "archived": false
 }

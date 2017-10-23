@@ -4,8 +4,8 @@
   "fullName": "Petitsurume/MUCSforDesktop",
   "owner": {
     "login": "Petitsurume",
-    "id": 6533808,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6533808?v=3",
+    "id": 32974381,
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/32974381?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Petitsurume",
     "htmlUrl": "https://github.com/Petitsurume",
@@ -14,7 +14,7 @@
     "organizationsUrl": "https://api.github.com/users/Petitsurume/orgs",
     "reposUrl": "https://api.github.com/users/Petitsurume/repos",
     "receivedEventsUrl": "https://api.github.com/users/Petitsurume/received_events",
-    "type": "User"
+    "type": "Organization"
   },
   "private": false,
   "htmlUrl": "https://github.com/Petitsurume/MUCSforDesktop",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Petitsurume/MUCSforDesktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Petitsurume/MUCSforDesktop/deployments",
   "createdAt": "2015-11-09T08:18:49.000Z",
-  "updatedAt": "2015-11-11T11:22:53.000Z",
+  "updatedAt": "2017-10-21T08:04:59.000Z",
   "pushedAt": "2015-12-07T11:03:46.000Z",
   "gitUrl": "git://github.com/Petitsurume/MUCSforDesktop.git",
   "sshUrl": "git@github.com:Petitsurume/MUCSforDesktop.git",
@@ -80,24 +80,23 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Petitsurume",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Petitsurume/MUCSForDesktop.git"
-    },
+    "repository": "https://github.com/Petitsurume/MUCSForDesktop",
     "keywords": [
       "Misskey"
     ],
-    "bugs": {
-      "url": "https://github.com/Petitsurume/MUCSForDesktop/issues"
-    },
     "homepage": "https://github.com/Petitsurume/MUCSForDesktop#readme",
     "dependencies": {
       "cheerio": "^0.19.0",
       "electron": "^0.4.1",
       "electron-prebuilt": "^0.34.3",
       "menubar": "^2.2.1"
+    },
+    "other": {
+      "author": "Petitsurume",
+      "bugs": {
+        "url": "https://github.com/Petitsurume/MUCSForDesktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,21 @@
   },
   "filename": "Petitsurume___MUCSforDesktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:32:16.439Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:42.061Z"
+  "lastFetchedAt": "2017-10-23T18:21:43.522Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:42.061Z",
+  "archived": false,
+  "organization": {
+    "login": "Petitsurume",
+    "id": 32974381,
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/32974381?v=4",
+    "gravatarId": "",
+    "url": "https://api.github.com/users/Petitsurume",
+    "htmlUrl": "https://github.com/Petitsurume",
+    "followersUrl": "https://api.github.com/users/Petitsurume/followers",
+    "subscriptionsUrl": "https://api.github.com/users/Petitsurume/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/Petitsurume/orgs",
+    "reposUrl": "https://api.github.com/users/Petitsurume/repos",
+    "receivedEventsUrl": "https://api.github.com/users/Petitsurume/received_events",
+    "type": "Organization"
+  }
 }

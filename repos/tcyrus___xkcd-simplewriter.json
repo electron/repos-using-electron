@@ -5,7 +5,7 @@
   "owner": {
     "login": "tcyrus",
     "id": 4201229,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4201229?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4201229?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tcyrus",
     "htmlUrl": "https://github.com/tcyrus",
@@ -59,7 +59,6 @@
     "license": "MIT",
     "repository": "tcyrus/xkcd-simplewriter",
     "main": "main.js",
-    "author": "TCYRUS",
     "electronVersion": "0.35.0",
     "scripts": {
       "updateWords": "wget -qN https://xkcd.com/simplewriter/words.js",
@@ -74,14 +73,17 @@
       "simple",
       "writer"
     ],
-    "bugs": {
-      "url": "https://github.com/tcyrus/xkcd-simplewriter/issues"
-    },
     "homepage": "https://github.com/tcyrus/xkcd-simplewriter#readme",
     "dependencies": {},
     "devDependencies": {
       "electron-packager": "^5.0.0",
       "electron-prebuilt": "^0.35.0"
+    },
+    "other": {
+      "author": "TCYRUS",
+      "bugs": {
+        "url": "https://github.com/tcyrus/xkcd-simplewriter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +131,7 @@
   },
   "filename": "tcyrus___xkcd-simplewriter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:20.295Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:33.451Z"
+  "lastFetchedAt": "2017-10-23T17:25:53.553Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:33.451Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "jaszhix",
     "id": 6859057,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6859057?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6859057?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jaszhix",
     "htmlUrl": "https://github.com/jaszhix",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/jaszhix/NoMansConnect/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jaszhix/NoMansConnect/deployments",
   "createdAt": "2017-03-27T15:02:01.000Z",
-  "updatedAt": "2017-04-24T12:10:30.000Z",
-  "pushedAt": "2017-04-29T15:11:01.000Z",
+  "updatedAt": "2017-09-08T02:45:22.000Z",
+  "pushedAt": "2017-09-27T22:43:54.000Z",
   "gitUrl": "git://github.com/jaszhix/NoMansConnect.git",
   "sshUrl": "git@github.com:jaszhix/NoMansConnect.git",
   "cloneUrl": "https://github.com/jaszhix/NoMansConnect.git",
   "svnUrl": "https://github.com/jaszhix/NoMansConnect",
   "homepage": null,
-  "size": 4819,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 17668,
+  "stargazersCount": 16,
+  "watchersCount": 16,
   "language": "CSS",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 4,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -64,16 +64,16 @@
     "pull": true
   },
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdxId": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 0,
-  "subscribersCount": 2,
+  "networkCount": 2,
+  "subscribersCount": 3,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T14:51:10.320Z",
+  "lastFetchedAt": "2017-10-23T20:14:30.714Z",
   "packageJSON": {
     "name": "no-mans-connect",
     "productName": "No Man's Connect",
@@ -157,19 +157,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jaszhix/NoMansConnect.git"
-    },
-    "author": {
-      "name": "Jason Hicks",
-      "email": "jaszhix@gmail.com",
-      "url": "https://github.com/jaszhix"
-    },
+    "repository": "https://github.com/jaszhix/NoMansConnect",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jaszhix/NoMansConnect/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -306,8 +295,19 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Jason Hicks",
+        "email": "jaszhix@gmail.com",
+        "url": "https://github.com/jaszhix"
+      },
+      "bugs": {
+        "url": "https://github.com/jaszhix/NoMansConnect/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:08:13.046Z"
+  "packageLastFetchedAt": "2017-05-04T22:08:13.046Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "timche",
     "id": 8075074,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8075074?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8075074?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/timche",
     "htmlUrl": "https://github.com/timche",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/timche/gmail-desktop",
-  "description": ":envelope: An unofficial Gmail Desktop App built with Electron",
+  "description": ":envelope: Gmail Desktop App built with Electron",
   "fork": false,
   "url": "https://api.github.com/repos/timche/gmail-desktop",
   "forksUrl": "https://api.github.com/repos/timche/gmail-desktop/forks",
@@ -35,34 +35,40 @@
   "downloadsUrl": "https://api.github.com/repos/timche/gmail-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/timche/gmail-desktop/deployments",
   "createdAt": "2016-04-25T14:14:16.000Z",
-  "updatedAt": "2017-04-30T15:04:18.000Z",
-  "pushedAt": "2016-11-30T19:10:07.000Z",
+  "updatedAt": "2017-10-19T13:35:05.000Z",
+  "pushedAt": "2017-10-18T14:03:12.000Z",
   "gitUrl": "git://github.com/timche/gmail-desktop.git",
   "sshUrl": "git@github.com:timche/gmail-desktop.git",
   "cloneUrl": "https://github.com/timche/gmail-desktop.git",
   "svnUrl": "https://github.com/timche/gmail-desktop",
   "homepage": "",
-  "size": 214,
-  "stargazersCount": 33,
-  "watchersCount": 33,
+  "size": 192,
+  "stargazersCount": 36,
+  "watchersCount": 36,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 5,
+  "forksCount": 9,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 33,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 36,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 5,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
+  "networkCount": 9,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -79,10 +85,7 @@
       "build:osx": "electron-packager . --protocol-name=\"Email Address URL\" --protocol=\"mailto\" --out=build --overwrite --platform=darwin --arch=x64 --icon=src/assets/icons/icon.icns --app-version=$npm_package_version",
       "build": "npm run clean && npm run build:osx"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/timche/gmail-desktop.git"
-    },
+    "repository": "https://github.com/timche/gmail-desktop",
     "keywords": [
       "gmail",
       "google",
@@ -95,11 +98,7 @@
       "linux",
       "electron"
     ],
-    "author": "timche",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/timche/gmail-desktop/issues"
-    },
     "homepage": "https://github.com/timche/gmail-desktop#readme",
     "devDependencies": {
       "babel-core": "^6.7.7",
@@ -111,6 +110,12 @@
       "eslint-config-airbnb-base": "^3.0.1",
       "eslint-plugin-import": "^1.8.0",
       "rimraf": "^2.5.2"
+    },
+    "other": {
+      "author": "timche",
+      "bugs": {
+        "url": "https://github.com/timche/gmail-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,7 +142,8 @@
     }
   },
   "filename": "timche___gmail-desktop.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:07.027Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:17.227Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T19:11:08.795Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:17.227Z",
+  "archived": false
 }

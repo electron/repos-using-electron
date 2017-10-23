@@ -5,7 +5,7 @@
   "owner": {
     "login": "tzmfreedom",
     "id": 4991143,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4991143?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4991143?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tzmfreedom",
     "htmlUrl": "https://github.com/tzmfreedom",
@@ -59,16 +59,12 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tzmfreedom/ET_Tool.git"
-    },
+    "repository": "https://github.com/tzmfreedom/ET_Tool",
     "keywords": [
       "Electron",
       "ExactTarget",
       "Salesforce"
     ],
-    "author": "Makoto Tajitsu",
     "license": "MIT",
     "homepage": "https://github.com/tzmfreedom/ET_Tool",
     "devDependencies": {
@@ -110,6 +106,9 @@
       "redux-devtools-dock-monitor": "^1.0.1",
       "redux-devtools-log-monitor": "^1.0.4",
       "redux-thunk": "^1.0.3"
+    },
+    "other": {
+      "author": "Makoto Tajitsu"
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   "svnUrl": "https://github.com/tzmfreedom/ET_Tool",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:17:29.915Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:33.894Z"
+  "lastFetchedAt": "2017-10-23T19:19:08.761Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:33.894Z",
+  "archived": false
 }

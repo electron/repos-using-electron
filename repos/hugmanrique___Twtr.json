@@ -6,7 +6,7 @@
   "owner": {
     "login": "hugmanrique",
     "id": 6255580,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6255580?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6255580?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hugmanrique",
     "htmlUrl": "https://github.com/hugmanrique",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/hugmanrique/Twtr/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hugmanrique/Twtr/deployments",
   "createdAt": "2017-03-25T17:13:31.000Z",
-  "updatedAt": "2017-04-05T12:38:48.000Z",
+  "updatedAt": "2017-05-09T07:43:56.000Z",
   "pushedAt": "2017-04-24T12:44:31.000Z",
   "gitUrl": "git://github.com/hugmanrique/Twtr.git",
   "sshUrl": "git@github.com:hugmanrique/Twtr.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/hugmanrique/Twtr",
   "homepage": "",
   "size": 279,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "CSS",
   "hasIssues": true,
   "hasProjects": false,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 3,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:26:25.337Z",
+  "lastFetchedAt": "2017-10-23T19:00:29.669Z",
   "packageJSON": {
     "name": "twtr",
     "productName": "Twtr",
@@ -81,11 +81,6 @@
     "description": "Twtr Twitter client",
     "license": "MIT",
     "repository": "hugmanrique/twtr",
-    "author": {
-      "name": "Hugo Manrique",
-      "email": "npm@hugmanrique.me",
-      "url": "https://hugmanrique.me"
-    },
     "scripts": {
       "start": "electron .",
       "build": "npm run build:macos && npm run build:linux && npm.run build:win",
@@ -111,8 +106,16 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Hugo Manrique",
+        "email": "npm@hugmanrique.me",
+        "url": "https://hugmanrique.me"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:18:05.582Z"
+  "packageLastFetchedAt": "2017-05-05T17:18:05.582Z",
+  "archived": false
 }

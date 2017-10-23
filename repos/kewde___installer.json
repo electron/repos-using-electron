@@ -5,7 +5,7 @@
   "owner": {
     "login": "kewde",
     "id": 13770485,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13770485?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13770485?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kewde",
     "htmlUrl": "https://github.com/kewde",
@@ -57,24 +57,14 @@
     "version": "1.0.0",
     "description": "Installs the Umbra client from Shadowproject",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kewde/installer.git"
-    },
+    "repository": "https://github.com/kewde/installer",
     "keywords": [
       "Shadowcash",
       "Umbra",
       "SDC",
       "Shadowproject"
     ],
-    "author": [
-      "Kewde",
-      "Matthewjamesr"
-    ],
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://riot.im/app/#/room/#shadowproject:matrix.org"
-    },
     "homepage": "https://shadowproject.io/",
     "dependencies": {
       "dialog": "0.2.0",
@@ -96,6 +86,15 @@
       "package-win32": "electron-packager . --overwrite --asar=true --platform=win32 --arch=ia32 --icon=./assets/icons/shadow.ico --prune=true --out=release-builds --version-string.CompanyName=Shadowproject --version-string.FileDescription=\"Easy Umbra Install\" --version-string.ProductName=\"Install Umbra by Shadowproject\"",
       "package-win64": "electron-packager . --overwrite --asar=true --platform=win32 --arch=x64 --icon=./assets/icons/shadow.ico --prune=true --out=release-builds --version-string.CompanyName=Shadowproject --version-string.FileDescription=\"Easy Umbra Install\" --version-string.ProductName=\"Install Umbra by Shadowproject\"",
       "package-linux": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=./assets/icons/shadow.png --prune=true --out=release-builds"
+    },
+    "other": {
+      "author": [
+        "Kewde",
+        "Matthewjamesr"
+      ],
+      "bugs": {
+        "url": "https://riot.im/app/#/room/#shadowproject:matrix.org"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "filename": "kewde___installer.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:20.929Z",
-  "packageLastFetchedAt": "2017-05-04T22:45:37.356Z"
+  "lastFetchedAt": "2017-10-23T18:34:16.944Z",
+  "packageLastFetchedAt": "2017-05-04T22:45:37.356Z",
+  "archived": false
 }

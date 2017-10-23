@@ -5,7 +5,7 @@
   "owner": {
     "login": "perroud",
     "id": 1348062,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1348062?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1348062?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/perroud",
     "htmlUrl": "https://github.com/perroud",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "ajainvivek",
       "id": 1182600,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1182600?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1182600?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ajainvivek",
       "htmlUrl": "https://github.com/ajainvivek",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/ajainvivek/P2PDrop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ajainvivek/P2PDrop/deployments",
     "createdAt": "2015-12-11T06:46:03.000Z",
-    "updatedAt": "2017-03-28T15:42:48.000Z",
+    "updatedAt": "2017-06-09T16:14:15.000Z",
     "pushedAt": "2016-07-06T21:16:37.000Z",
     "gitUrl": "git://github.com/ajainvivek/P2PDrop.git",
     "sshUrl": "git@github.com:ajainvivek/P2PDrop.git",
@@ -87,8 +87,8 @@
     "svnUrl": "https://github.com/ajainvivek/P2PDrop",
     "homepage": "http://app.p2pdrop.com/",
     "size": 1856,
-    "stargazersCount": 21,
-    "watchersCount": 21,
+    "stargazersCount": 24,
+    "watchersCount": 24,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
@@ -97,9 +97,10 @@
     "hasPages": false,
     "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
-    "watchers": 21,
+    "watchers": 24,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "ajainvivek",
       "id": 1182600,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1182600?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1182600?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ajainvivek",
       "htmlUrl": "https://github.com/ajainvivek",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/ajainvivek/P2PDrop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/ajainvivek/P2PDrop/deployments",
     "createdAt": "2015-12-11T06:46:03.000Z",
-    "updatedAt": "2017-03-28T15:42:48.000Z",
+    "updatedAt": "2017-06-09T16:14:15.000Z",
     "pushedAt": "2016-07-06T21:16:37.000Z",
     "gitUrl": "git://github.com/ajainvivek/P2PDrop.git",
     "sshUrl": "git@github.com:ajainvivek/P2PDrop.git",
@@ -147,8 +148,8 @@
     "svnUrl": "https://github.com/ajainvivek/P2PDrop",
     "homepage": "http://app.p2pdrop.com/",
     "size": 1856,
-    "stargazersCount": 21,
-    "watchersCount": 21,
+    "stargazersCount": 24,
+    "watchersCount": 24,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
@@ -157,9 +158,10 @@
     "hasPages": false,
     "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
-    "watchers": 21,
+    "watchers": 24,
     "defaultBranch": "master"
   },
   "networkCount": 3,
@@ -170,10 +172,6 @@
     "version": "0.0.1",
     "description": "Small description for p2pdrop goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -183,7 +181,6 @@
     "engines": {
       "node": ">= 0.10.0"
     },
-    "author": "",
     "license": "MIT",
     "devDependencies": {
       "broccoli-asset-rev": "^2.1.2",
@@ -252,6 +249,13 @@
       "electron-rebuild": "^1.1.3",
       "ember-electron": "^1.4.1",
       "electron-window-state": "^2.0.0"
+    },
+    "other": {
+      "author": "",
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -300,6 +304,7 @@
   "filename": "perroud___P2PDrop.json",
   "sourceRepo": "ajainvivek/P2PDrop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:30:30.255Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:10.841Z"
+  "lastFetchedAt": "2017-10-23T20:11:03.381Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:10.841Z",
+  "archived": false
 }

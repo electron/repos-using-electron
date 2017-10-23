@@ -64,10 +64,9 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ionic-hello-world",
-    "author": "Ionic Framework",
     "homepage": "http://ionicframework.com/",
     "private": true,
     "scripts": {
@@ -109,7 +108,10 @@
       "ionic-plugin-keyboard"
     ],
     "cordovaPlatforms": [],
-    "description": "ava-panel: An Ionic project"
+    "description": "ava-panel: An Ionic project",
+    "other": {
+      "author": "Ionic Framework"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +138,6 @@
   },
   "filename": "tintounn___ava-panel.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:49.157Z",
+  "lastFetchedAt": "2017-10-23T19:25:45.329Z",
   "packageLastFetchedAt": "2017-05-04T23:00:11.570Z"
 }

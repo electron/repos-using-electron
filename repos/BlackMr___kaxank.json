@@ -1,46 +1,46 @@
 {
   "id": 64675710,
   "name": "kaxank",
-  "fullName": "BlackMr/kaxank",
+  "fullName": "kaxank/kaxank",
   "owner": {
-    "login": "BlackMr",
+    "login": "kaxank",
     "id": 13561570,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13561570?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13561570?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/BlackMr",
-    "htmlUrl": "https://github.com/BlackMr",
-    "followersUrl": "https://api.github.com/users/BlackMr/followers",
-    "subscriptionsUrl": "https://api.github.com/users/BlackMr/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/BlackMr/orgs",
-    "reposUrl": "https://api.github.com/users/BlackMr/repos",
-    "receivedEventsUrl": "https://api.github.com/users/BlackMr/received_events",
+    "url": "https://api.github.com/users/kaxank",
+    "htmlUrl": "https://github.com/kaxank",
+    "followersUrl": "https://api.github.com/users/kaxank/followers",
+    "subscriptionsUrl": "https://api.github.com/users/kaxank/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/kaxank/orgs",
+    "reposUrl": "https://api.github.com/users/kaxank/repos",
+    "receivedEventsUrl": "https://api.github.com/users/kaxank/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/BlackMr/kaxank",
+  "htmlUrl": "https://github.com/kaxank/kaxank",
   "description": null,
   "fork": false,
-  "url": "https://api.github.com/repos/BlackMr/kaxank",
-  "forksUrl": "https://api.github.com/repos/BlackMr/kaxank/forks",
-  "teamsUrl": "https://api.github.com/repos/BlackMr/kaxank/teams",
-  "hooksUrl": "https://api.github.com/repos/BlackMr/kaxank/hooks",
-  "eventsUrl": "https://api.github.com/repos/BlackMr/kaxank/events",
-  "tagsUrl": "https://api.github.com/repos/BlackMr/kaxank/tags",
-  "languagesUrl": "https://api.github.com/repos/BlackMr/kaxank/languages",
-  "stargazersUrl": "https://api.github.com/repos/BlackMr/kaxank/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/BlackMr/kaxank/contributors",
-  "subscribersUrl": "https://api.github.com/repos/BlackMr/kaxank/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/BlackMr/kaxank/subscription",
-  "mergesUrl": "https://api.github.com/repos/BlackMr/kaxank/merges",
-  "downloadsUrl": "https://api.github.com/repos/BlackMr/kaxank/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/BlackMr/kaxank/deployments",
+  "url": "https://api.github.com/repos/kaxank/kaxank",
+  "forksUrl": "https://api.github.com/repos/kaxank/kaxank/forks",
+  "teamsUrl": "https://api.github.com/repos/kaxank/kaxank/teams",
+  "hooksUrl": "https://api.github.com/repos/kaxank/kaxank/hooks",
+  "eventsUrl": "https://api.github.com/repos/kaxank/kaxank/events",
+  "tagsUrl": "https://api.github.com/repos/kaxank/kaxank/tags",
+  "languagesUrl": "https://api.github.com/repos/kaxank/kaxank/languages",
+  "stargazersUrl": "https://api.github.com/repos/kaxank/kaxank/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/kaxank/kaxank/contributors",
+  "subscribersUrl": "https://api.github.com/repos/kaxank/kaxank/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/kaxank/kaxank/subscription",
+  "mergesUrl": "https://api.github.com/repos/kaxank/kaxank/merges",
+  "downloadsUrl": "https://api.github.com/repos/kaxank/kaxank/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/kaxank/kaxank/deployments",
   "createdAt": "2016-08-01T14:52:01.000Z",
   "updatedAt": "2016-08-01T18:35:44.000Z",
   "pushedAt": "2016-08-01T19:11:49.000Z",
-  "gitUrl": "git://github.com/BlackMr/kaxank.git",
-  "sshUrl": "git@github.com:BlackMr/kaxank.git",
-  "cloneUrl": "https://github.com/BlackMr/kaxank.git",
-  "svnUrl": "https://github.com/BlackMr/kaxank",
+  "gitUrl": "git://github.com/kaxank/kaxank.git",
+  "sshUrl": "git@github.com:kaxank/kaxank.git",
+  "cloneUrl": "https://github.com/kaxank/kaxank.git",
+  "svnUrl": "https://github.com/kaxank/kaxank",
   "homepage": null,
   "size": 3422,
   "stargazersCount": 0,
@@ -69,9 +69,7 @@
     "name": "kaxank",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -118,12 +116,6 @@
       "webdriver-start": "node_modules/protractor/bin/webdriver-manager start",
       "webdriver-update": "node_modules/protractor/bin/webdriver-manager update"
     },
-    "author": "Minko Gechev <mgechev>",
-    "contributors": [
-      {
-        "name": "Nathan Walker <NathanWalker>"
-      }
-    ],
     "license": "MIT",
     "devDependencies": {
       "async": "^2.0.0",
@@ -230,6 +222,14 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "author": "Minko Gechev <mgechev>",
+      "contributors": [
+        {
+          "name": "Nathan Walker <NathanWalker>"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -258,6 +258,7 @@
   "filename": "BlackMr___kaxank.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:32.314Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:55.197Z"
+  "lastFetchedAt": "2017-10-23T19:26:24.700Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:55.197Z",
+  "archived": false
 }

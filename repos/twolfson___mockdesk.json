@@ -5,7 +5,7 @@
   "owner": {
     "login": "twolfson",
     "id": 902488,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/902488?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/902488?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/twolfson",
     "htmlUrl": "https://github.com/twolfson",
@@ -50,18 +50,7 @@
     "description": "Desktop application for creating mockups",
     "version": "0.14.2",
     "homepage": "https://github.com/twolfson/mockdesk",
-    "author": {
-      "name": "Todd Wolfson",
-      "email": "todd@twolfson.com",
-      "url": "http://twolfson.com/"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/twolfson/mockdesk.git"
-    },
-    "bugs": {
-      "url": "https://github.com/twolfson/mockdesk/issues"
-    },
+    "repository": "https://github.com/twolfson/mockdesk",
     "bin": {
       "mockdesk": "bin/mockdesk.js"
     },
@@ -127,6 +116,16 @@
         "foundry-release-git",
         "foundry-release-npm"
       ]
+    },
+    "other": {
+      "author": {
+        "name": "Todd Wolfson",
+        "email": "todd@twolfson.com",
+        "url": "http://twolfson.com/"
+      },
+      "bugs": {
+        "url": "https://github.com/twolfson/mockdesk/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -174,6 +173,7 @@
   "svnUrl": "https://github.com/twolfson/mockdesk",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:23:26.852Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:53.566Z"
+  "lastFetchedAt": "2017-10-23T20:37:19.008Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:53.566Z",
+  "archived": false
 }

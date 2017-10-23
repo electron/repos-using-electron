@@ -5,7 +5,7 @@
   "owner": {
     "login": "thereactleague",
     "id": 22086900,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22086900?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22086900?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thereactleague",
     "htmlUrl": "https://github.com/thereactleague",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "thereactleague",
     "id": 22086900,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22086900?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22086900?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thereactleague",
     "htmlUrl": "https://github.com/thereactleague",
@@ -96,25 +96,14 @@
       "test": "mocha --compilers js:babel-core/register,css:test/css-null-compiler.js --recursive --reporter nyan test/*.js",
       "coverage": "istanbul cover _mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thereactleague/galaxy.git"
-    },
+    "repository": "https://github.com/thereactleague/galaxy",
     "keywords": [
       "Solr",
       "Electron",
       "React",
       "Admin"
     ],
-    "author": "thereactleague",
-    "contributors": [
-      "yriveiro",
-      "fbielejec"
-    ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/thereactleague/galaxy/issues"
-    },
     "homepage": "https://github.com/thereactleague/galaxy#readme",
     "devDependencies": {
       "autoprefixer": "^6.1.2",
@@ -170,6 +159,16 @@
       "react-router": "^2.8.0",
       "react-tap-event-plugin": "^1.0.0",
       "request": "^2.74.0"
+    },
+    "other": {
+      "author": "thereactleague",
+      "bugs": {
+        "url": "https://github.com/thereactleague/galaxy/issues"
+      },
+      "contributors": [
+        "yriveiro",
+        "fbielejec"
+      ]
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,7 @@
   },
   "filename": "thereactleague___galaxy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:19.066Z",
-  "packageLastFetchedAt": "2017-05-05T01:32:04.359Z"
+  "lastFetchedAt": "2017-10-23T17:51:38.302Z",
+  "packageLastFetchedAt": "2017-05-05T01:32:04.359Z",
+  "archived": false
 }

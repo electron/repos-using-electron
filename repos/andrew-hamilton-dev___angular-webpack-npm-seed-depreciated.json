@@ -64,12 +64,11 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular-webpack-npm-seed",
     "version": "1.0.0",
     "description": "Playground to test a local development environment focused around webpack and npm scripts",
-    "author": "Andrew Hamilton <andrew.hamilton.dev@gmail.com>",
     "license": "MIT",
     "main": "./src/app/app.js",
     "scripts": {
@@ -157,6 +156,9 @@
       "webpack": "^1.12.1",
       "webpack-dev-server": "^1.10.1",
       "yargs": "^3.25.0"
+    },
+    "other": {
+      "author": "Andrew Hamilton <andrew.hamilton.dev@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -184,6 +186,6 @@
   },
   "filename": "andrew-hamilton-dev___angular-webpack-npm-seed-depreciated.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:52:50.731Z",
+  "lastFetchedAt": "2017-10-23T17:47:26.718Z",
   "packageLastFetchedAt": "2017-05-05T17:48:02.261Z"
 }

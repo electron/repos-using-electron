@@ -5,7 +5,7 @@
   "owner": {
     "login": "sozercan",
     "id": 852750,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/852750?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/852750?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sozercan",
     "htmlUrl": "https://github.com/sozercan",
@@ -69,19 +69,11 @@
     "name": "manifoldjs-win32",
     "version": "0.2.0",
     "description": "Manifoldjs Windows Desktop Platform",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sozercan/manifoldjs-win32"
-    },
+    "repository": "https://github.com/sozercan/manifoldjs-win32",
     "engines": {
       "node": ">=4.0.0"
     },
     "engine-strict": true,
-    "author": {
-      "name": "Sertac Ozercan",
-      "email": "sozercan@gmail.com",
-      "url": "http://sertacozercan.com"
-    },
     "license": "MIT",
     "licenses": [
       {
@@ -125,10 +117,17 @@
       "test": "grunt",
       "debug-tests": "mocha test/**/*.js --debug-brk"
     },
-    "bugs": {
-      "url": "https://github.com/sozercan/manifoldjs-win32/issues"
-    },
-    "homepage": "https://github.com/sozercan/manifoldjs-win32"
+    "homepage": "https://github.com/sozercan/manifoldjs-win32",
+    "other": {
+      "author": {
+        "name": "Sertac Ozercan",
+        "email": "sozercan@gmail.com",
+        "url": "http://sertacozercan.com"
+      },
+      "bugs": {
+        "url": "https://github.com/sozercan/manifoldjs-win32/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -155,6 +154,7 @@
   },
   "filename": "sozercan___manifoldjs-win32.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:37:00.840Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:27.779Z"
+  "lastFetchedAt": "2017-10-23T18:02:35.579Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:27.779Z",
+  "archived": false
 }

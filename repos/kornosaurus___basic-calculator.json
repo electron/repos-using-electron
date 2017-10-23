@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "basic-calculator",
     "version": "0.0.1",
@@ -79,17 +79,10 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kornosaurus/basic-calculator.git"
-    },
-    "author": "Simon Korn",
+    "repository": "https://github.com/kornosaurus/basic-calculator",
     "license": {
       "type": "MIT",
       "url": "https://raw.githubusercontent.com/kornosaurus/basic-calculator/master/LICENSE"
-    },
-    "bugs": {
-      "url": "https://github.com/kornosaurus/basic-calculator/issues"
     },
     "homepage": "https://github.com/kornosaurus/basic-calculator",
     "devDependencies": {
@@ -97,6 +90,12 @@
     },
     "dependencies": {
       "bower": "^1.4.1"
+    },
+    "other": {
+      "author": "Simon Korn",
+      "bugs": {
+        "url": "https://github.com/kornosaurus/basic-calculator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   },
   "filename": "kornosaurus___basic-calculator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:36:20.725Z",
+  "lastFetchedAt": "2017-10-23T20:18:07.118Z",
   "packageLastFetchedAt": "2017-05-05T01:33:07.745Z"
 }

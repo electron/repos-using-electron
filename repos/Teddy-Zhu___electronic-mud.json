@@ -5,7 +5,7 @@
   "owner": {
     "login": "Teddy-Zhu",
     "id": 9956097,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9956097?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9956097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Teddy-Zhu",
     "htmlUrl": "https://github.com/Teddy-Zhu",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/Teddy-Zhu/electronic-mud/deployments",
   "createdAt": "2016-09-10T07:00:38.000Z",
   "updatedAt": "2017-02-27T22:08:00.000Z",
-  "pushedAt": "2016-09-18T13:40:35.000Z",
+  "pushedAt": "2017-08-09T01:41:37.000Z",
   "gitUrl": "git://github.com/Teddy-Zhu/electronic-mud.git",
   "sshUrl": "git@github.com:Teddy-Zhu/electronic-mud.git",
   "cloneUrl": "https://github.com/Teddy-Zhu/electronic-mud.git",
   "svnUrl": "https://github.com/Teddy-Zhu/electronic-mud",
   "homepage": null,
-  "size": 442,
+  "size": 423,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -50,10 +50,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -81,21 +81,14 @@
       "posx": "electron-packager ./ --platform=mas --arch=x64",
       "pwin64": "electron-packager ./ --platform=win32 --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Teddy-Zhu/electronic-mud.git"
-    },
+    "repository": "https://github.com/Teddy-Zhu/electronic-mud",
     "keywords": [
       "Electron",
       "mud",
       "terminal",
       "simple"
     ],
-    "author": "TeddyZhu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Teddy-Zhu/electronic-mud/issues"
-    },
     "homepage": "https://github.com/Teddy-Zhu/electronic-mud",
     "devDependencies": {
       "electron": "^1.3.4",
@@ -106,6 +99,12 @@
       "ansi_up": "^1.3.0",
       "iconv-lite": "^0.4.13",
       "lowdb": "^0.13.1"
+    },
+    "other": {
+      "author": "TeddyZhu",
+      "bugs": {
+        "url": "https://github.com/Teddy-Zhu/electronic-mud/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "Teddy-Zhu___electronic-mud.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:19.348Z",
-  "packageLastFetchedAt": "2017-05-05T17:13:12.900Z"
+  "lastFetchedAt": "2017-10-23T21:05:58.854Z",
+  "packageLastFetchedAt": "2017-05-05T17:13:12.900Z",
+  "archived": false
 }

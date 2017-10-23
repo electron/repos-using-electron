@@ -5,7 +5,7 @@
   "owner": {
     "login": "lumios",
     "id": 13420050,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13420050?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13420050?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lumios",
     "htmlUrl": "https://github.com/lumios",
@@ -20,12 +20,12 @@
   "description": "緊急地震速報プログラム – Desktop Earthquake Warnings",
   "fork": false,
   "createdAt": "2015-06-25T15:25:04.000Z",
-  "updatedAt": "2017-04-16T09:00:00.000Z",
+  "updatedAt": "2017-07-22T02:19:54.000Z",
   "pushedAt": "2016-04-20T19:28:10.000Z",
   "homepage": "http://kurisubrooks.com/shake",
   "size": 5726,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 21,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "lumios",
     "id": 13420050,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13420050?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13420050?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lumios",
     "htmlUrl": "https://github.com/lumios",
@@ -70,7 +70,6 @@
     "version": "0.3.0",
     "description": "緊急地震速報のプログラム",
     "homepage": "http://lumios.xyz/shake",
-    "author": "Lumios",
     "license": "UNLICENSED",
     "private": true,
     "main": "./src/index.js",
@@ -86,19 +85,19 @@
       "japan",
       "日本"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lumios/shake.git"
-    },
-    "bugs": {
-      "url": "https://github.com/lumios/shake/issues"
-    },
+    "repository": "https://github.com/lumios/shake",
     "scripts": {
       "start": "./src/node_modules/.bin/electron ./src/index.js"
     },
     "devDependencies": {
       "gulp": "^3.9.1",
       "gulp-electron": "^0.1.1"
+    },
+    "other": {
+      "author": "Lumios",
+      "bugs": {
+        "url": "https://github.com/lumios/shake/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "svnUrl": "https://github.com/lumios/shake",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:28:56.560Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:04.346Z"
+  "lastFetchedAt": "2017-10-23T18:11:54.469Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:04.346Z",
+  "archived": false
 }

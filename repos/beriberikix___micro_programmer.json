@@ -5,7 +5,7 @@
   "owner": {
     "login": "beriberikix",
     "id": 178376,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/178376?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/178376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/beriberikix",
     "htmlUrl": "https://github.com/beriberikix",
@@ -80,21 +80,14 @@
       "start": "electron main.js",
       "clean": "rm -rf node_modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/beriberikix/micro_programmer.git"
-    },
+    "repository": "https://github.com/beriberikix/micro_programmer",
     "keywords": [
       "Electron",
       "serial",
       "mcu",
       "Programmer"
     ],
-    "author": "beriberikix",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/beriberikix/micro_programmer/issues"
-    },
     "homepage": "https://github.com/beriberikix/micro_programmer#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -102,6 +95,12 @@
     },
     "dependencies": {
       "serialport": "^2.0.6"
+    },
+    "other": {
+      "author": "beriberikix",
+      "bugs": {
+        "url": "https://github.com/beriberikix/micro_programmer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "beriberikix___micro_programmer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:34:51.857Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:14.765Z"
+  "lastFetchedAt": "2017-10-23T17:50:05.102Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:14.765Z",
+  "archived": false
 }

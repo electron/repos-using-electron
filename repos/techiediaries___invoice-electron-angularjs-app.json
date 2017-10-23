@@ -5,7 +5,7 @@
   "owner": {
     "login": "techiediaries",
     "id": 22133314,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22133314?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22133314?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/techiediaries",
     "htmlUrl": "https://github.com/techiediaries",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 5,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
+  "networkCount": 5,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -79,21 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -102,6 +95,12 @@
     "dependencies": {
       "electron-packager": "^7.1.0",
       "electron-packager-interactive": "0.0.7"
+    },
+    "other": {
+      "author": "GitHub",
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "techiediaries___invoice-electron-angularjs-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:38.676Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:30.016Z"
+  "lastFetchedAt": "2017-10-23T18:31:51.662Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:30.016Z",
+  "archived": false
 }

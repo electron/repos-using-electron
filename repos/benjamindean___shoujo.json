@@ -5,7 +5,7 @@
   "owner": {
     "login": "benjamindean",
     "id": 5139993,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5139993?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5139993?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/benjamindean",
     "htmlUrl": "https://github.com/benjamindean",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-10-24T13:07:47.000Z",
   "updatedAt": "2016-10-25T11:00:19.000Z",
-  "pushedAt": "2017-04-07T18:21:32.000Z",
+  "pushedAt": "2017-10-15T09:49:43.000Z",
   "homepage": null,
-  "size": 2415,
+  "size": 1639,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -51,11 +51,6 @@
     "main": "shoujo.js",
     "description": "Manga and comic book reader",
     "repository": "benjamindean/shoujo",
-    "author": {
-      "name": "Benjamin Dean",
-      "email": "benjamin.dean@noaddress.com",
-      "url": "github.com/benjamindean"
-    },
     "scripts": {
       "start": "electron . test.zip",
       "build": "npm run build:linux && npm run build:macos && npm run deb64",
@@ -80,6 +75,13 @@
       "gulp-cssmin": "^0.1.7",
       "gulp-rename": "^1.2.2",
       "gulp-sass": "^2.3.2"
+    },
+    "other": {
+      "author": {
+        "name": "Benjamin Dean",
+        "email": "benjamin.dean@noaddress.com",
+        "url": "github.com/benjamindean"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +129,7 @@
   "svnUrl": "https://github.com/benjamindean/shoujo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:09.541Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:05.223Z"
+  "lastFetchedAt": "2017-10-23T17:14:37.363Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:05.223Z",
+  "archived": false
 }

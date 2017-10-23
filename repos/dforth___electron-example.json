@@ -5,7 +5,7 @@
   "owner": {
     "login": "dforth",
     "id": 122867,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/122867?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/122867?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dforth",
     "htmlUrl": "https://github.com/dforth",
@@ -89,19 +89,8 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dforth/electron-example"
-    },
-    "author": {
-      "name": "Don Forth",
-      "email": "dforth@codehappy.com",
-      "url": "https://github.com/dforth"
-    },
+    "repository": "https://github.com/dforth/electron-example",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dforth/electron-example/issues"
-    },
     "keywords": [
       "electron",
       "example",
@@ -180,6 +169,16 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "author": {
+        "name": "Don Forth",
+        "email": "dforth@codehappy.com",
+        "url": "https://github.com/dforth"
+      },
+      "bugs": {
+        "url": "https://github.com/dforth/electron-example/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -207,6 +206,7 @@
   },
   "filename": "dforth___electron-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:40:41.523Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:23.545Z"
+  "lastFetchedAt": "2017-10-23T17:12:31.165Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:23.545Z",
+  "archived": false
 }

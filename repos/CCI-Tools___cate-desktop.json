@@ -5,7 +5,7 @@
   "owner": {
     "login": "CCI-Tools",
     "id": 17924920,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17924920?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17924920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CCI-Tools",
     "htmlUrl": "https://github.com/CCI-Tools",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/CCI-Tools/cate-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/CCI-Tools/cate-desktop/deployments",
   "createdAt": "2016-11-02T15:03:15.000Z",
-  "updatedAt": "2017-02-24T13:42:20.000Z",
-  "pushedAt": "2017-04-25T12:09:24.000Z",
+  "updatedAt": "2017-09-25T09:51:07.000Z",
+  "pushedAt": "2017-10-10T14:00:41.000Z",
   "gitUrl": "git://github.com/CCI-Tools/cate-desktop.git",
   "sshUrl": "git@github.com:CCI-Tools/cate-desktop.git",
   "cloneUrl": "https://github.com/CCI-Tools/cate-desktop.git",
   "svnUrl": "https://github.com/CCI-Tools/cate-desktop",
   "homepage": "",
-  "size": 9238,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 12319,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "TypeScript",
-  "hasIssues": true,
+  "hasIssues": false,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 0,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "CCI-Tools",
     "id": 17924920,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17924920?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17924920?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CCI-Tools",
     "htmlUrl": "https://github.com/CCI-Tools",
@@ -83,7 +83,7 @@
     "type": "Organization"
   },
   "networkCount": 1,
-  "subscribersCount": 7,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "cate-desktop",
@@ -105,10 +105,7 @@
       "clean:dist": "rimraf dist",
       "clean:all": "npm run clean && rimraf dist app/node_modules && npm prune"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/CCI-Tools/cate-desktop.git"
-    },
+    "repository": "https://github.com/CCI-Tools/cate-desktop",
     "keywords": [
       "esa",
       "cci",
@@ -116,11 +113,7 @@
       "climate",
       "science"
     ],
-    "author": "Norman Fomferra, Marco Zühlke (Brockmann Consult GmbH)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/CCI-Tools/cate-desktop/issues"
-    },
     "homepage": "https://github.com/CCI-Tools/cate-desktop",
     "devDependencies": {
       "@blueprintjs/core": "~1.13.x",
@@ -207,6 +200,12 @@
           "zip"
         ]
       }
+    },
+    "other": {
+      "author": "Norman Fomferra, Marco Zühlke (Brockmann Consult GmbH)",
+      "bugs": {
+        "url": "https://github.com/CCI-Tools/cate-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -234,6 +233,7 @@
   },
   "filename": "CCI-Tools___cate-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:30.223Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:24.873Z"
+  "lastFetchedAt": "2017-10-23T18:42:26.790Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:24.873Z",
+  "archived": false
 }

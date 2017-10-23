@@ -5,7 +5,7 @@
   "owner": {
     "login": "zertyz",
     "id": 20879629,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20879629?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20879629?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zertyz",
     "htmlUrl": "https://github.com/zertyz",
@@ -75,7 +75,6 @@
     "name": "ng2-admin",
     "version": "0.9.0",
     "description": "Angular 2 and Bootstrap 4 Admin Template.",
-    "author": "akveo",
     "homepage": "http://akveo.github.io/ng2-admin/",
     "license": "MIT",
     "dependencies": {
@@ -260,15 +259,15 @@
       "clean:aot": "npm run rimraf -- compiled",
       "build:ci": "npm run build:prod && npm run build:aot"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 5.4.1 < 7"
+    },
+    "other": {
+      "author": "akveo",
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -297,6 +296,7 @@
   "filename": "zertyz___ng2-admin-spikes.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:39.248Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:46.230Z"
+  "lastFetchedAt": "2017-10-23T20:24:51.227Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:46.230Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "editdata",
     "id": 14816301,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14816301?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14816301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/editdata",
     "htmlUrl": "https://github.com/editdata",
@@ -20,7 +20,7 @@
   "description": "A tool for editing CSV & JSON files from your computer & from GitHub.",
   "fork": false,
   "createdAt": "2015-08-05T00:26:37.000Z",
-  "updatedAt": "2016-12-03T06:22:51.000Z",
+  "updatedAt": "2017-09-25T14:22:24.000Z",
   "pushedAt": "2017-02-21T00:58:55.000Z",
   "homepage": "http://app.editdata.org",
   "size": 271,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 7,
+  "forksCount": 8,
   "openIssuesCount": 18,
   "openIssues": 18,
   "watchers": 46,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "editdata",
     "id": 14816301,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14816301?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14816301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/editdata",
     "htmlUrl": "https://github.com/editdata",
@@ -62,16 +62,14 @@
     "receivedEventsUrl": "https://api.github.com/users/editdata/received_events",
     "type": "Organization"
   },
-  "networkCount": 7,
-  "subscribersCount": 8,
+  "networkCount": 8,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "app.editdata.org",
     "description": "edit data. save it on github.",
     "version": "1.0.2",
-    "repository": {
-      "url": "git://github.com/editdata/app.editdata.org.git"
-    },
+    "repository": "https://github.com/editdata/app.editdata.org",
     "main": "app.js",
     "scripts": {
       "deploy": "npm run bundle:production && staticland . app.editdata.org",
@@ -185,6 +183,7 @@
   "svnUrl": "https://github.com/editdata/app.editdata.org",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:34:05.409Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:02.979Z"
+  "lastFetchedAt": "2017-10-23T18:54:39.071Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:02.979Z",
+  "archived": false
 }

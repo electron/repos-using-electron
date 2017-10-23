@@ -5,7 +5,7 @@
   "owner": {
     "login": "todbot",
     "id": 274093,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/274093?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/274093?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/todbot",
     "htmlUrl": "https://github.com/todbot",
@@ -20,21 +20,21 @@
   "description": "Blink1Control in Electron, React, and Node.  Control blink(1) USB RGB LED devices.",
   "fork": false,
   "createdAt": "2015-09-14T00:45:55.000Z",
-  "updatedAt": "2017-04-28T04:17:03.000Z",
-  "pushedAt": "2017-01-24T02:57:42.000Z",
+  "updatedAt": "2017-10-22T12:57:42.000Z",
+  "pushedAt": "2017-10-12T02:42:37.000Z",
   "homepage": "http://blink1.thingm.com/",
-  "size": 7537,
-  "stargazersCount": 31,
-  "watchersCount": 31,
+  "size": 7623,
+  "stargazersCount": 46,
+  "watchersCount": 46,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 6,
+  "forksCount": 8,
   "openIssuesCount": 35,
   "openIssues": 35,
-  "watchers": 31,
+  "watchers": 46,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,13 +48,12 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "featured": true
   },
-  "networkCount": 6,
-  "subscribersCount": 10,
+  "networkCount": 8,
+  "subscribersCount": 14,
   "status": 200,
   "packageJSON": {
     "name": "Blink1Control2",
     "version": "2.0.0-beta4",
-    "author": "ThingM",
     "description": "Blink1Control2 GUI app for blink(1) devices",
     "keywords": [
       "blink(1)",
@@ -73,7 +72,6 @@
     "companyName": "ThingM",
     "homepage": "https://github.com/todbot/Blink1Control2",
     "repository": "https://github.com/todbot/Blink1Control2",
-    "bugs": "https://github.com/todbot/Blink1Control2/issues",
     "license": "ISC",
     "scripts": {
       "startdev": "NODE_ENV=development npm run start",
@@ -160,7 +158,11 @@
       "webpack": "^1.13.2",
       "webpack-dev-server": "^1.15.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "author": "ThingM",
+      "bugs": "https://github.com/todbot/Blink1Control2/issues"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/todbot/Blink1Control2",
@@ -207,6 +209,7 @@
   },
   "filename": "todbot___Blink1Control2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:40:31.586Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:13.206Z"
+  "lastFetchedAt": "2017-10-23T17:59:35.854Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:13.206Z",
+  "archived": false
 }

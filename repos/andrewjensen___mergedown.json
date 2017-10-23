@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mergedown",
     "version": "0.0.1",
@@ -85,7 +85,6 @@
     "bin": {
       "mergedown": "bin/mergedown.js"
     },
-    "author": "Andrew Jensen <andrewjensen90@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "aphrodite": "^0.3.1",
@@ -105,6 +104,9 @@
       "electron-prebuilt": "^0.37.7",
       "nodemon": "^1.9.1",
       "webpack": "^1.13.0"
+    },
+    "other": {
+      "author": "Andrew Jensen <andrewjensen90@gmail.com>"
     }
   },
   "packageStatus": 200,
@@ -132,6 +134,6 @@
   },
   "filename": "andrewjensen___mergedown.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:55:23.149Z",
+  "lastFetchedAt": "2017-10-23T20:57:36.351Z",
   "packageLastFetchedAt": "2017-05-05T01:29:41.396Z"
 }

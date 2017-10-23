@@ -5,7 +5,7 @@
   "owner": {
     "login": "citycide",
     "id": 16605186,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16605186?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16605186?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/citycide",
     "htmlUrl": "https://github.com/citycide",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/citycide/levers/deployments",
   "createdAt": "2016-07-27T06:45:12.000Z",
   "updatedAt": "2017-03-17T07:34:39.000Z",
-  "pushedAt": "2017-03-17T07:40:19.000Z",
+  "pushedAt": "2017-06-01T22:45:08.000Z",
   "gitUrl": "git://github.com/citycide/levers.git",
   "sshUrl": "git@github.com:citycide/levers.git",
   "cloneUrl": "https://github.com/citycide/levers.git",
   "svnUrl": "https://github.com/citycide/levers",
   "homepage": "",
-  "size": 54,
+  "size": 121,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -75,18 +75,9 @@
     "name": "levers",
     "version": "1.0.0-alpha.1",
     "description": "Configuration handling with no class whatsoever.",
-    "author": {
-      "name": "Bo Lingen",
-      "email": "thecitycide@gmail.com",
-      "url": "github.com/citycide"
-    },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/citycide/levers.git"
-    },
+    "repository": "https://github.com/citycide/levers",
     "homepage": "https://github.com/citycide/levers",
-    "bugs": "https://github.com/citycide/levers/issues",
     "engines": {
       "node": ">=4"
     },
@@ -122,6 +113,14 @@
       "commitizen": {
         "path": "./node_modules/cz-conventional-changelog"
       }
+    },
+    "other": {
+      "author": {
+        "name": "Bo Lingen",
+        "email": "thecitycide@gmail.com",
+        "url": "github.com/citycide"
+      },
+      "bugs": "https://github.com/citycide/levers/issues"
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   },
   "filename": "citycide___levers.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:54:37.357Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:11.152Z"
+  "lastFetchedAt": "2017-10-23T19:18:53.750Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:11.152Z",
+  "archived": false
 }

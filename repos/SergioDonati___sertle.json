@@ -5,7 +5,7 @@
   "owner": {
     "login": "SergioDonati",
     "id": 6071489,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6071489?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6071489?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SergioDonati",
     "htmlUrl": "https://github.com/SergioDonati",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/SergioDonati/sertle/deployments",
   "createdAt": "2016-08-18T15:52:43.000Z",
   "updatedAt": "2016-08-18T15:53:04.000Z",
-  "pushedAt": "2017-03-16T00:06:57.000Z",
+  "pushedAt": "2017-09-15T08:04:23.000Z",
   "gitUrl": "git://github.com/SergioDonati/sertle.git",
   "sshUrl": "git@github.com:SergioDonati/sertle.git",
   "cloneUrl": "https://github.com/SergioDonati/sertle.git",
   "svnUrl": "https://github.com/SergioDonati/sertle",
   "homepage": null,
-  "size": 261609,
+  "size": 262628,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -77,12 +77,8 @@
       "dist": "build --x64",
       "import": "node imports/fromCSVDeskDot.js"
     },
-    "author": "donati.sergio@gmail.com",
     "license": "GPL-3.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/SergioDonati/sertle.git"
-    },
+    "repository": "https://github.com/SergioDonati/sertle",
     "build": {
       "appId": "com.sertle.desktop.app",
       "category": "public.app-category.business",
@@ -106,6 +102,9 @@
       "electron": "^1.4.15",
       "electron-builder": "^10.17.3",
       "lokijs": "^1.4.2"
+    },
+    "other": {
+      "author": "donati.sergio@gmail.com"
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "SergioDonati___sertle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:24.810Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:45.873Z"
+  "lastFetchedAt": "2017-10-23T18:06:13.981Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:45.873Z",
+  "archived": false
 }

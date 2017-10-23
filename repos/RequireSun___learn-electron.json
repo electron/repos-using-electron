@@ -5,7 +5,7 @@
   "owner": {
     "login": "RequireSun",
     "id": 7576691,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7576691?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7576691?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RequireSun",
     "htmlUrl": "https://github.com/RequireSun",
@@ -87,11 +87,7 @@
       "webpack": "npm run clean && webpack --progress --colors --config webpack.config.development.js",
       "watch": "npm run clean && webpack-dev-server --progress --colors --content-base dev/ --port=8008 --hot --inline --config webpack.config.production.js"
     },
-    "author": "Require Sun <kelvinsen@outlook.com> (https://github.com/RequireSun)",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/RequireSun/learn-electron.git"
-    },
+    "repository": "https://github.com/RequireSun/learn-electron",
     "license": "MIT",
     "devDependencies": {
       "babel-core": "^6.18.2",
@@ -123,6 +119,9 @@
       "vue": "^2.1.4",
       "vue-loader": "^10.0.2",
       "vuex": "^2.0.0"
+    },
+    "other": {
+      "author": "Require Sun <kelvinsen@outlook.com> (https://github.com/RequireSun)"
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   },
   "filename": "RequireSun___learn-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:18:40.127Z",
-  "packageLastFetchedAt": "2017-05-05T09:36:20.436Z"
+  "lastFetchedAt": "2017-10-23T19:26:03.767Z",
+  "packageLastFetchedAt": "2017-05-05T09:36:20.436Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "NobodyInc",
     "id": 13605746,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13605746?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13605746?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NobodyInc",
     "htmlUrl": "https://github.com/NobodyInc",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "NobodyInc",
     "id": 13605746,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13605746?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13605746?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NobodyInc",
     "htmlUrl": "https://github.com/NobodyInc",
@@ -87,21 +87,20 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nobodyinc/jane.git"
-    },
+    "repository": "https://github.com/nobodyinc/jane",
     "keywords": [
       "Jane"
     ],
-    "author": "Nobody, Inc.",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nobodyinc/jane/issues"
-    },
     "homepage": "https://github.com/nobodyinc/jane",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "author": "Nobody, Inc.",
+      "bugs": {
+        "url": "https://github.com/nobodyinc/jane/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "NobodyInc___Jane.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:27.263Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:54.191Z"
+  "lastFetchedAt": "2017-10-23T20:41:33.510Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:54.191Z",
+  "archived": false
 }
