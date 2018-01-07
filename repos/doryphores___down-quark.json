@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "down-quark",
     "productName": "Down Quark",
@@ -67,10 +67,7 @@
       "watch": "npm run build-css -- -m -w & npm run build-js -- -s -w"
     },
     "author": "Martin Laine",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/doryphores/down-quark"
-    },
+    "repository": "https://github.com/doryphores/down-quark",
     "license": "MIT",
     "dependencies": {
       "babel": "^5.8.21",
@@ -80,7 +77,8 @@
       "mkdirp": "^0.5.1",
       "rimraf": "^2.4.3",
       "stylus": "^0.52.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,6 @@
   "svnUrl": "https://github.com/doryphores/down-quark",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:41:39.209Z",
+  "lastFetchedAt": "2017-10-23T23:11:18.334Z",
   "packageLastFetchedAt": "2017-05-05T15:02:30.125Z"
 }

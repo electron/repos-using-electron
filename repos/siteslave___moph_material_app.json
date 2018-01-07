@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,9 +82,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -100,6 +94,11 @@
       "angular-material-data-table": "^0.10.9",
       "angular-messages": "^1.5.8",
       "angular-ui-router": "^0.3.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,6 @@
   },
   "filename": "siteslave___moph_material_app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:25:32.812Z",
+  "lastFetchedAt": "2017-10-23T23:06:55.834Z",
   "packageLastFetchedAt": "2017-05-05T17:53:30.856Z"
 }

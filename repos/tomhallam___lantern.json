@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "lantern",
     "productName": "Lantern",
@@ -55,10 +55,7 @@
       "start": "DEBUG=lantern* electron main.js",
       "build": "electron-packager . Lantern --out=release --platform=darwin --prune --asar --arch=all --version=0.34.2 --ignore=node_modules/electron-prebuilt --ignore=node_modules/electron-packager --ignore=.git"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tomhallam/lantern.git"
-    },
+    "repository": "https://github.com/tomhallam/lantern",
     "keywords": [],
     "author": "Tom Hallam",
     "homepage": "https://github.com/tomhallam/lantern.git#readme",
@@ -75,7 +72,8 @@
       "noble": "^1.2.0",
       "noble-device": "^1.1.0",
       "photon": "https://github.com/connors/photon"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/tomhallam/lantern",
@@ -122,6 +120,6 @@
   },
   "filename": "tomhallam___lantern.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:06.402Z",
+  "lastFetchedAt": "2017-10-23T23:09:33.331Z",
   "packageLastFetchedAt": "2017-05-05T15:30:01.599Z"
 }

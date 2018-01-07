@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fs-ui",
     "description": "File System User Interface",
@@ -76,10 +76,7 @@
     ],
     "version": "0.0.1",
     "homepage": "https://github.com/chbrown/fs-ui",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/chbrown/fs-ui.git"
-    },
+    "repository": "https://github.com/chbrown/fs-ui",
     "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
     "license": "MIT",
     "private": true,
@@ -104,7 +101,8 @@
       "electron-prebuilt": "*",
       "less": "*",
       "typescript": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +129,6 @@
   },
   "filename": "chbrown___fs-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:21.953Z",
+  "lastFetchedAt": "2017-10-23T23:03:23.324Z",
   "packageLastFetchedAt": "2017-05-05T17:45:52.623Z"
 }

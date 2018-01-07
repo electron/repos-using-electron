@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/rhysd/Chromenu/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rhysd/Chromenu/deployments",
   "createdAt": "2016-11-18T12:03:59.000Z",
-  "updatedAt": "2017-04-24T06:00:46.000Z",
+  "updatedAt": "2017-10-13T12:06:45.000Z",
   "pushedAt": "2017-01-14T11:49:25.000Z",
   "gitUrl": "git://github.com/rhysd/Chromenu.git",
   "sshUrl": "git@github.com:rhysd/Chromenu.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/rhysd/Chromenu",
   "homepage": null,
   "size": 214,
-  "stargazersCount": 31,
-  "watchersCount": 31,
+  "stargazersCount": 32,
+  "watchersCount": 32,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 31,
+  "watchers": 32,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -93,10 +93,7 @@
       "preuninstall": "node ./bin/cli.js --unsetup-launchctl",
       "release": "npm run lint && ./scripts/make-release.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/Chromenu.git"
-    },
+    "repository": "https://github.com/rhysd/Chromenu",
     "keywords": [
       "browser",
       "electron",
@@ -104,9 +101,6 @@
     ],
     "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rhysd/Chromenu/issues"
-    },
     "homepage": "https://github.com/rhysd/Chromenu#readme",
     "devDependencies": {
       "@types/cheerio": "^0.17.31",
@@ -147,6 +141,11 @@
       "react-redux": "^5.0.2",
       "redux": "^3.6.0",
       "request": "^2.79.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/Chromenu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -174,6 +173,7 @@
   },
   "filename": "rhysd___Chromenu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:10.061Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:07.209Z"
+  "lastFetchedAt": "2017-10-23T23:40:36.664Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:07.209Z",
+  "archived": false
 }

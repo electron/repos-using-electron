@@ -72,8 +72,8 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:17:26.896Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:02:03.602Z",
   "packageJSON": {
     "name": "menubar-helper",
     "version": "2.0.0",
@@ -103,7 +103,8 @@
       "build": "rm -rf ./build/*darwin*; electron-packager . MenuBarHelper --out=./build --platform=darwin --arch=x64 --icon=./assets/images/icon.icns --overwrite",
       "package": "create-dmg 'build/MenuBarHelper-darwin-x64/MenuBarHelper.app' && mv ./*.dmg ./build",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "packageLastFetchedAt": "2017-05-05T14:43:30.288Z"

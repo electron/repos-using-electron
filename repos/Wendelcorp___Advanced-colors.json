@@ -5,7 +5,7 @@
   "owner": {
     "login": "Wendelcorp",
     "id": 6202145,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6202145?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6202145?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Wendelcorp",
     "htmlUrl": "https://github.com/Wendelcorp",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Wendelcorp/Advanced-colors",
-  "description": "A lightening fast swatch tool for designers and developers.",
+  "description": "A lightning fast swatch tool for designers and developers.",
   "fork": false,
   "url": "https://api.github.com/repos/Wendelcorp/Advanced-colors",
   "forksUrl": "https://api.github.com/repos/Wendelcorp/Advanced-colors/forks",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/Wendelcorp/Advanced-colors/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Wendelcorp/Advanced-colors/deployments",
   "createdAt": "2016-09-23T05:35:14.000Z",
-  "updatedAt": "2016-12-12T23:03:58.000Z",
+  "updatedAt": "2017-05-09T20:21:35.000Z",
   "pushedAt": "2017-01-06T03:15:30.000Z",
   "gitUrl": "git://github.com/Wendelcorp/Advanced-colors.git",
   "sshUrl": "git@github.com:Wendelcorp/Advanced-colors.git",
@@ -74,10 +74,7 @@
       "start": "electron .",
       "build": "electron-packager . AdvancedColors --platform=darwin --arch=x64 --version=1.0.0 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Wendelcorp/Advanced-colors.git"
-    },
+    "repository": "https://github.com/Wendelcorp/Advanced-colors",
     "keywords": [
       "color",
       "palette",
@@ -90,13 +87,15 @@
     ],
     "author": "Bryce Wendelaar",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "http://www.brycewendelaar.com"
-    },
     "homepage": "github",
     "devDependencies": {
       "electron": "^1.3.4",
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "http://www.brycewendelaar.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Wendelcorp___Advanced-colors.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:21.083Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:46.108Z"
+  "lastFetchedAt": "2017-10-23T21:45:14.129Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:46.108Z",
+  "archived": false
 }

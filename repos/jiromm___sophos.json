@@ -5,7 +5,7 @@
   "owner": {
     "login": "jiromm",
     "id": 946588,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/946588?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/946588?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jiromm",
     "htmlUrl": "https://github.com/jiromm",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jiromm/sophos.git"
-    },
+    "repository": "https://github.com/jiromm/sophos",
     "keywords": [
       "Electron",
       "sophos",
@@ -85,9 +82,6 @@
     ],
     "author": "Aram Baghdasaryan <xquack@gmail.com>",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/jiromm/sophos/issues"
-    },
     "homepage": "https://github.com/jiromm/sophos",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
@@ -102,6 +96,11 @@
       "nprogress": "^0.2.0",
       "request": "^2.72.0",
       "sister": "^3.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jiromm/sophos/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "jiromm___sophos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:13.792Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:48.842Z"
+  "lastFetchedAt": "2017-10-24T00:14:26.441Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:48.842Z",
+  "archived": false
 }

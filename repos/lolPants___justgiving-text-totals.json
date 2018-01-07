@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "justgiving-text-totals",
     "version": "0.6.5",
@@ -82,10 +82,7 @@
       "package-quick": "electron-packager ./ JGTextTotals --arch x64 --platform win32 --asar --icon app/img/app --out .release --version 1.4.3 --overwrite",
       "package-all": "electron-packager ./ JGTextTotals --all --asar --icon app/img/app --out .release --version 1.4.3 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lolPants/justgiving-text-totals.git"
-    },
+    "repository": "https://github.com/lolPants/justgiving-text-totals",
     "keywords": [
       "justgiving",
       "text",
@@ -94,9 +91,6 @@
     ],
     "author": "Jack Baron <me@jackbaron.com> (https://jackbaron.com)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/lolPants/justgiving-text-totals/issues"
-    },
     "homepage": "https://github.com/lolPants/justgiving-text-totals#readme",
     "devDependencies": {
       "electron": "^1.4.3",
@@ -106,6 +100,11 @@
       "electron-json-storage": "^2.0.1",
       "jquery": "^3.1.1",
       "request": "^2.75.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lolPants/justgiving-text-totals/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,6 @@
   },
   "filename": "lolPants___justgiving-text-totals.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:25.662Z",
+  "lastFetchedAt": "2017-10-23T22:59:38.565Z",
   "packageLastFetchedAt": "2017-05-04T23:06:20.804Z"
 }

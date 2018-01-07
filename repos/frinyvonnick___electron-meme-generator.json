@@ -5,7 +5,7 @@
   "owner": {
     "login": "frinyvonnick",
     "id": 13099512,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13099512?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13099512?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/frinyvonnick",
     "htmlUrl": "https://github.com/frinyvonnick",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/frinyvonnick/electron-meme-generator/downloads",
   "deploymentsUrl": "https://api.github.com/repos/frinyvonnick/electron-meme-generator/deployments",
   "createdAt": "2016-05-15T17:18:03.000Z",
-  "updatedAt": "2017-04-07T12:03:35.000Z",
+  "updatedAt": "2017-07-26T11:48:20.000Z",
   "pushedAt": "2017-04-24T14:02:53.000Z",
   "gitUrl": "git://github.com/frinyvonnick/electron-meme-generator.git",
   "sshUrl": "git@github.com:frinyvonnick/electron-meme-generator.git",
@@ -78,10 +78,7 @@
       "test": "node_modules/.bin/mocha src/tests && npm run lint",
       "package": "electron-packager . --overwrite --platform=win32 --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/frinyvonnick/electron-meme-generator.git"
-    },
+    "repository": "https://github.com/frinyvonnick/electron-meme-generator",
     "keywords": [
       "Electron",
       "meme"
@@ -91,9 +88,6 @@
       "Eric Briand <eric.briand@zenika.com>"
     ],
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/frinyvonnick/electron-meme-generator/issues"
-    },
     "dependencies": {
       "electron-connect": "0.4.5",
       "electron-json-storage": "2.0.0",
@@ -120,6 +114,11 @@
       ],
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/frinyvonnick/electron-meme-generator/issues"
       }
     }
   },
@@ -148,6 +147,7 @@
   },
   "filename": "frinyvonnick___electron-meme-generator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:19:02.735Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:38.192Z"
+  "lastFetchedAt": "2017-10-23T22:32:41.508Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:38.192Z",
+  "archived": false
 }

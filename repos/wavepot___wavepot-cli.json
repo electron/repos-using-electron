@@ -5,7 +5,7 @@
   "owner": {
     "login": "wavepot",
     "id": 7874084,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7874084?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7874084?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wavepot",
     "htmlUrl": "https://github.com/wavepot",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "wavepot",
     "id": 7874084,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7874084?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7874084?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wavepot",
     "htmlUrl": "https://github.com/wavepot",
@@ -104,11 +104,6 @@
       "osc": "github:opendsp/osc",
       "sampler": "github:opendsp/sampler"
     },
-    "directories": {
-      "bin": "bin",
-      "example": "example",
-      "lib": "lib"
-    },
     "keywords": [
       "wavepot",
       "audio",
@@ -118,14 +113,18 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wavepot/wavepot-cli.git"
-    },
-    "bugs": {
-      "url": "https://github.com/wavepot/wavepot-cli/issues"
-    },
-    "homepage": "https://github.com/wavepot/wavepot-cli#readme"
+    "repository": "https://github.com/wavepot/wavepot-cli",
+    "homepage": "https://github.com/wavepot/wavepot-cli#readme",
+    "other": {
+      "directories": {
+        "bin": "bin",
+        "example": "example",
+        "lib": "lib"
+      },
+      "bugs": {
+        "url": "https://github.com/wavepot/wavepot-cli/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +151,7 @@
   },
   "filename": "wavepot___wavepot-cli.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:33.521Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:09.721Z"
+  "lastFetchedAt": "2017-10-23T22:33:17.007Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:09.721Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "dchest",
     "id": 52677,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/52677?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/52677?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dchest",
     "htmlUrl": "https://github.com/dchest",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/dchest/tweetnacl-js/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dchest/tweetnacl-js/deployments",
   "createdAt": "2014-01-05T11:15:32.000Z",
-  "updatedAt": "2017-05-04T00:20:49.000Z",
-  "pushedAt": "2017-02-24T16:08:29.000Z",
+  "updatedAt": "2017-10-17T14:09:29.000Z",
+  "pushedAt": "2017-10-05T23:02:26.000Z",
   "gitUrl": "git://github.com/dchest/tweetnacl-js.git",
   "sshUrl": "git@github.com:dchest/tweetnacl-js.git",
   "cloneUrl": "https://github.com/dchest/tweetnacl-js.git",
   "svnUrl": "https://github.com/dchest/tweetnacl-js",
   "homepage": "https://tweetnacl.js.org",
-  "size": 3936,
-  "stargazersCount": 413,
-  "watchersCount": 413,
+  "size": 4003,
+  "stargazersCount": 480,
+  "watchersCount": 480,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 60,
+  "forksCount": 80,
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 413,
+  "watchers": 480,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,8 +69,8 @@
     "url": "https://api.github.com/licenses/unlicense",
     "featured": false
   },
-  "networkCount": 60,
-  "subscribersCount": 25,
+  "networkCount": 80,
+  "subscribersCount": 30,
   "status": 200,
   "packageJSON": {
     "name": "tweetnacl",
@@ -78,9 +78,6 @@
     "description": "Port of TweetNaCl cryptographic library to JavaScript",
     "main": "nacl-fast.js",
     "types": "nacl.d.ts",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "build": "uglifyjs nacl.js -c -m -o nacl.min.js && uglifyjs nacl-fast.js -c -m -o nacl-fast.min.js",
       "test-node": "tape test/*.js | faucet",
@@ -91,10 +88,7 @@
       "bench": "node test/benchmark/bench.js",
       "lint": "eslint nacl.js nacl-fast.js test/*.js test/benchmark/*.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dchest/tweetnacl-js.git"
-    },
+    "repository": "https://github.com/dchest/tweetnacl-js",
     "keywords": [
       "crypto",
       "cryptography",
@@ -111,9 +105,6 @@
     ],
     "author": "TweetNaCl-js contributors",
     "license": "Unlicense",
-    "bugs": {
-      "url": "https://github.com/dchest/tweetnacl-js/issues"
-    },
     "homepage": "https://tweetnacl.js.org",
     "devDependencies": {
       "browserify": "^13.1.1",
@@ -129,6 +120,14 @@
     "browser": {
       "buffer": false,
       "crypto": false
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/dchest/tweetnacl-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:34.189Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:54.580Z"
+  "lastFetchedAt": "2017-10-23T22:07:57.783Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:54.580Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tickets",
     "version": "1.0.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/BrandonDBrown/tickets.git"
-    },
+    "repository": "https://github.com/BrandonDBrown/tickets",
     "keywords": [
       "tickets",
       "work"
@@ -88,7 +85,8 @@
       "continuation-local-storage": "^3.1.4",
       "request": "^2.74.0",
       "request-promise": "^1.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,6 @@
   },
   "filename": "BrandonDBrown___tickets.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:59.123Z",
+  "lastFetchedAt": "2017-10-23T23:06:38.815Z",
   "packageLastFetchedAt": "2017-05-05T14:55:42.091Z"
 }

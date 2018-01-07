@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "eth0s-build-env",
     "version": "0.0.1",
@@ -63,10 +63,7 @@
       "package": "electron-packager ./app Eth0s --all --out ./dist --overwrite --icon=app/src/client/images/icon.icns",
       "prepackage-win": "node prepackage-win.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/d11e9/eth0s.git"
-    },
+    "repository": "https://github.com/d11e9/eth0s",
     "keywords": [
       "ethereum",
       "client",
@@ -75,15 +72,17 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/d11e9/eth0s/issues"
-    },
     "homepage": "https://github.com/d11e9/eth0s#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.37.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/d11e9/eth0s/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,6 @@
   "svnUrl": "https://github.com/d11e9/eth0s",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:34:46.164Z",
+  "lastFetchedAt": "2017-10-23T22:58:37.337Z",
   "packageLastFetchedAt": "2017-05-05T15:40:22.084Z"
 }

@@ -70,16 +70,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "image_tagger",
     "version": "0.0.1",
     "description": "An application for tagging images",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/catalin-testenv/electron_image_tagger.git"
-    },
+    "repository": "https://github.com/catalin-testenv/electron_image_tagger",
     "keywords": [
       "Electron",
       "image",
@@ -87,9 +84,6 @@
     ],
     "author": "Catalin Enache",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/catalin-testenv/electron_image_tagger/issues"
-    },
     "homepage": "https://github.com/catalin-testenv/electron_image_tagger",
     "dependencies": {
       "babel-polyfill": "6.7.4",
@@ -123,6 +117,11 @@
       "compile-play": "browserify --extension=.jsx -o _play.js play.js",
       "bundle": "browserify --extension=.jsx -o bundle.js src/main.jsx",
       "run": "electron main.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/catalin-testenv/electron_image_tagger/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,6 @@
   },
   "filename": "catalin-testenv___electron_image_tagger.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:40:18.935Z",
+  "lastFetchedAt": "2017-10-23T23:08:52.840Z",
   "packageLastFetchedAt": "2017-05-04T22:03:51.328Z"
 }

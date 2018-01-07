@@ -5,7 +5,7 @@
   "owner": {
     "login": "voyageth",
     "id": 366810,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/366810?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/366810?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/voyageth",
     "htmlUrl": "https://github.com/voyageth",
@@ -89,10 +89,7 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/voyageth/github-issues.git"
-    },
+    "repository": "https://github.com/voyageth/github-issues",
     "keywords": [
       "Electron",
       "API",
@@ -100,9 +97,6 @@
     ],
     "author": "voyageth",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/voyageth/github-issues/issues"
-    },
     "homepage": "https://github.com/voyageth/github-issues#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -141,6 +135,11 @@
       "env": {
         "mocha": true
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/voyageth/github-issues/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   },
   "filename": "voyageth___github-issues.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:38.404Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:42.940Z"
+  "lastFetchedAt": "2017-10-23T23:39:54.680Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:42.940Z",
+  "archived": false
 }

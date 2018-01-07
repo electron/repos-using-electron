@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Filemanager",
     "version": "1.0.0",
@@ -75,10 +75,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hibeekaey/file-manager.git"
-    },
+    "repository": "https://github.com/hibeekaey/file-manager",
     "author": "Hibeekaey",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -88,7 +85,8 @@
       "win": {
         "msi": true
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,6 @@
   },
   "filename": "hibeekaey___file-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:26.048Z",
+  "lastFetchedAt": "2017-10-23T23:08:06.808Z",
   "packageLastFetchedAt": "2017-05-04T22:54:56.487Z"
 }

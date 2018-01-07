@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-background-process",
     "version": "0.1.0",
@@ -82,7 +82,8 @@
       "electron-process-ipc": "git://github.com/WillStreeter/electron-process-ipc.git#6605aab92a5b26dc0800519e83a1eb83f5b8ae79",
       "lodash": "^4.16.4",
       "object-hash": "^1.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,6 +110,6 @@
   },
   "filename": "willSonic___electron-background-process-ipc-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:54:32.311Z",
+  "lastFetchedAt": "2017-10-23T23:00:50.818Z",
   "packageLastFetchedAt": "2017-05-05T17:53:36.158Z"
 }

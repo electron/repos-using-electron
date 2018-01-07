@@ -5,7 +5,7 @@
   "owner": {
     "login": "railsware",
     "id": 9354,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9354?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/railsware",
     "htmlUrl": "https://github.com/railsware",
@@ -20,21 +20,21 @@
   "description": "Scaffold, Run, Test and Package Electron application with ease",
   "fork": false,
   "createdAt": "2016-04-26T23:16:28.000Z",
-  "updatedAt": "2017-05-02T21:08:02.000Z",
-  "pushedAt": "2017-03-10T16:48:35.000Z",
+  "updatedAt": "2017-10-21T10:08:56.000Z",
+  "pushedAt": "2017-09-04T08:53:15.000Z",
   "homepage": "",
-  "size": 1354,
-  "stargazersCount": 473,
-  "watchersCount": 473,
+  "size": 1380,
+  "stargazersCount": 513,
+  "watchersCount": 513,
   "language": "CoffeeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 31,
-  "openIssuesCount": 11,
-  "openIssues": 11,
-  "watchers": 473,
+  "forksCount": 33,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 513,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "railsware",
     "id": 9354,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9354?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/railsware",
     "htmlUrl": "https://github.com/railsware",
@@ -62,17 +62,14 @@
     "receivedEventsUrl": "https://api.github.com/users/railsware/received_events",
     "type": "Organization"
   },
-  "networkCount": 31,
-  "subscribersCount": 40,
+  "networkCount": 33,
+  "subscribersCount": 38,
   "status": 200,
   "packageJSON": {
     "name": "bozon",
     "version": "0.7.1",
     "description": "Framework for building Electron applications",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/railsware/bozon.git"
-    },
+    "repository": "https://github.com/railsware/bozon",
     "main": "lib",
     "scripts": {
       "test": "mocha test/lib/bin/*.* --compilers coffee:coffee-script/register && mocha test/lib/building/*.* --compilers coffee:coffee-script/register && mocha test/lib/packaging/*.* --compilers coffee:coffee-script/register && mocha test/lib/scaffolding/*.* --compilers coffee:coffee-script/register && mocha test/lib/testing/*.* --compilers coffee:coffee-script/register && mocha test/lib/utils/*.* --compilers coffee:coffee-script/register"
@@ -118,7 +115,8 @@
       "mocha": "^3.2.0",
       "spectron": "^3.6.0",
       "webpack-stream": "^3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -165,6 +163,7 @@
   "svnUrl": "https://github.com/railsware/bozon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:17:56.387Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:16.020Z"
+  "lastFetchedAt": "2017-10-23T22:11:11.557Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:16.020Z",
+  "archived": false
 }

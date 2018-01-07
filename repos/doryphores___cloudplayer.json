@@ -5,7 +5,7 @@
   "owner": {
     "login": "doryphores",
     "id": 23947,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/23947?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/23947?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/doryphores",
     "htmlUrl": "https://github.com/doryphores",
@@ -56,10 +56,7 @@
     "version": "0.0.1",
     "description": "Desktop player for soundcloud.com",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/doryphores/cloudplayer"
-    },
+    "repository": "https://github.com/doryphores/cloudplayer",
     "scripts": {
       "start": "npm run build-css -- -m && npm run build-js -- -s && electron app",
       "package": "npm run build-css && npm run build-js && node scripts/package.js",
@@ -76,7 +73,8 @@
       "mkdirp": "^0.5.1",
       "rimraf": "^2.4.3",
       "stylus": "^0.52.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +121,7 @@
   "svnUrl": "https://github.com/doryphores/cloudplayer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:21:51.046Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:45.531Z"
+  "lastFetchedAt": "2017-10-23T23:37:33.035Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:45.531Z",
+  "archived": false
 }

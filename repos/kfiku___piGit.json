@@ -6,7 +6,7 @@
   "owner": {
     "login": "kfiku",
     "id": 1486311,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1486311?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1486311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kfiku",
     "htmlUrl": "https://github.com/kfiku",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/kfiku/piGit/downloads",
   "deploymentsUrl": "https://api.github.com/repos/kfiku/piGit/deployments",
   "createdAt": "2016-09-21T19:50:30.000Z",
-  "updatedAt": "2017-02-16T13:26:29.000Z",
-  "pushedAt": "2017-05-03T21:18:45.000Z",
+  "updatedAt": "2017-10-23T10:48:55.000Z",
+  "pushedAt": "2017-10-23T21:37:34.000Z",
   "gitUrl": "git://github.com/kfiku/piGit.git",
   "sshUrl": "git@github.com:kfiku/piGit.git",
   "cloneUrl": "https://github.com/kfiku/piGit.git",
   "svnUrl": "https://github.com/kfiku/piGit",
   "homepage": null,
-  "size": 542,
-  "stargazersCount": 3,
-  "watchersCount": 3,
-  "language": "TypeScript",
+  "size": 2070,
+  "stargazersCount": 4,
+  "watchersCount": 4,
+  "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 11,
-  "openIssues": 11,
-  "watchers": 3,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,7 +70,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "PiGit",
@@ -135,10 +135,7 @@
       "package:mac": "build --mac",
       "test:unit-w": "chokidar 'test/unit/**/*.ts' 'src/**/*.ts' -c 'npm run test:unit' "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kfiku/piGit.git"
-    },
+    "repository": "https://github.com/kfiku/piGit",
     "keywords": [
       "Electron",
       "Git",
@@ -150,9 +147,6 @@
       "url": "https://github.com/kfiku"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kfiku/piGit/issues"
-    },
     "homepage": "https://github.com/kfiku/piGit",
     "devDependencies": {
       "@types/async": "~2.0.37",
@@ -200,6 +194,11 @@
       "redux-thunk": "^2.2.0",
       "simple-git": "^1.67.0",
       "sortablejs": "~1.5.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kfiku/piGit/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -227,6 +226,7 @@
   },
   "sourceRepo": "kfiku/gitWatch",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:55:41.052Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:59.234Z"
+  "lastFetchedAt": "2017-10-23T22:53:31.212Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:59.234Z",
+  "archived": false
 }

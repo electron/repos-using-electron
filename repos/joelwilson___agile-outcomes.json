@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "agile-outcomes",
     "version": "0.8.0",
@@ -103,9 +103,6 @@
       "url": ""
     },
     "license": "UNLICENSED",
-    "bugs": {
-      "url": ""
-    },
     "keywords": [
       "gtd"
     ],
@@ -173,6 +170,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +202,6 @@
   },
   "filename": "joelwilson___agile-outcomes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:24.417Z",
+  "lastFetchedAt": "2017-10-24T00:09:51.415Z",
   "packageLastFetchedAt": "2017-05-05T16:59:50.065Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "mathieudutour",
     "id": 3254314,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3254314?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3254314?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mathieudutour",
     "htmlUrl": "https://github.com/mathieudutour",
@@ -20,12 +20,12 @@
   "description": "Interactive JavaScript notebooks with clever graphing",
   "fork": false,
   "createdAt": "2016-06-08T20:59:00.000Z",
-  "updatedAt": "2017-01-26T14:48:50.000Z",
-  "pushedAt": "2016-08-03T14:10:42.000Z",
+  "updatedAt": "2017-09-04T16:39:22.000Z",
+  "pushedAt": "2017-05-14T19:39:44.000Z",
   "homepage": null,
-  "size": 5496,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 5588,
+  "stargazersCount": 19,
+  "watchersCount": 19,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 7,
   "openIssues": 7,
-  "watchers": 18,
+  "watchers": 19,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,10 +51,7 @@
     "main": "electron/index.js",
     "version": "0.2.4",
     "description": "Interactive JavaScript notebooks with clever graphing",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mathieudutour/kayero"
-    },
+    "repository": "https://github.com/mathieudutour/kayero",
     "keywords": [
       "interactive",
       "javscript",
@@ -64,9 +61,6 @@
     ],
     "author": "Mathieu Dutour <mathieu.dutour@me.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mathieudutour/kayero/issues"
-    },
     "homepage": "https://github.com/mathieudutour/kayero",
     "dependencies": {
       "clipboard": "^1.5.10",
@@ -143,6 +137,11 @@
       "watch": "make build-watch",
       "build": "make build && make sign",
       "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mathieudutour/kayero/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +189,7 @@
   "svnUrl": "https://github.com/mathieudutour/kayero",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:55:28.497Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:43.966Z"
+  "lastFetchedAt": "2017-10-24T00:12:39.945Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:43.966Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Electron-Express-App",
     "version": "1.0.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "node ./start-electron.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "author": "Bradford Lamson-Scribner",
     "license": "MIT",
     "devDependencies": {
@@ -84,7 +81,8 @@
     },
     "dependencies": {
       "jquery": "^2.2.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -111,6 +109,6 @@
   },
   "filename": "bradford-hamilton___Electron-App.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:55.890Z",
+  "lastFetchedAt": "2017-10-23T22:59:30.813Z",
   "packageLastFetchedAt": "2017-05-05T15:19:36.869Z"
 }

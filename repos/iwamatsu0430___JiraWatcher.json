@@ -5,7 +5,7 @@
   "owner": {
     "login": "iwamatsu0430",
     "id": 3608976,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3608976?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3608976?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iwamatsu0430",
     "htmlUrl": "https://github.com/iwamatsu0430",
@@ -90,7 +90,8 @@
       "publish:win": "npm run build:scss && npm run build:riot && ./node_modules/.bin/electron-packager . JiraWatcher --out=dist --icon=./app/resources/icons/app.ico --platform=win32 --arch=x64 --overwrite --forced"
     },
     "author": "iwamatsu0430",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +118,7 @@
   },
   "filename": "iwamatsu0430___JiraWatcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:02.354Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:16.724Z"
+  "lastFetchedAt": "2017-10-24T00:07:58.938Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:16.724Z",
+  "archived": false
 }

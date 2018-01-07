@@ -6,7 +6,7 @@
   "owner": {
     "login": "serramatutu",
     "id": 18057473,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18057473?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18057473?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/serramatutu",
     "htmlUrl": "https://github.com/serramatutu",
@@ -75,10 +75,7 @@
       "prestart": "lessc app/styles/main.less app/stylesheet.css",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/serramatutu/baller.git"
-    },
+    "repository": "https://github.com/serramatutu/baller",
     "dependencies": {
       "less": ">=2.7.0",
       "electron": ">=1.4.0",
@@ -86,10 +83,12 @@
     },
     "author": "Lucas Valente",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/serramatutu/baller/issues"
-    },
-    "homepage": "https://github.com/serramatutu/baller#readme"
+    "homepage": "https://github.com/serramatutu/baller#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/serramatutu/baller/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +114,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:47:13.943Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:19.580Z"
+  "lastFetchedAt": "2017-10-23T22:06:39.376Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:19.580Z",
+  "archived": false
 }

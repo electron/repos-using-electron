@@ -164,7 +164,7 @@
   },
   "networkCount": 448,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pokemon-go-map",
     "description": "Electron wrapper for PokemonGo-Map",
@@ -197,7 +197,8 @@
       "grunt-electron": "*",
       "load-grunt-tasks": "*",
       "grunt": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -245,6 +246,6 @@
   "svnUrl": "https://github.com/williamd1k0/PokemonGo-DesktopMap",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:15:38.947Z",
+  "lastFetchedAt": "2017-10-23T23:01:26.842Z",
   "packageLastFetchedAt": "2017-05-04T21:54:48.791Z"
 }

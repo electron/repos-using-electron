@@ -5,7 +5,7 @@
   "owner": {
     "login": "wpzero",
     "id": 7711386,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7711386?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7711386?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wpzero",
     "htmlUrl": "https://github.com/wpzero",
@@ -81,10 +81,7 @@
       "start": "npm run build & electron .",
       "build_with_watch": "babel src --out-dir build --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -93,9 +90,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-cli": "^6.11.4",
@@ -105,6 +99,11 @@
       "babel-preset-react": "^6.11.1",
       "babel-preset-stage-0": "^6.5.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   "filename": "wpzero___electron-react-start.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:16:40.501Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:34.277Z"
+  "lastFetchedAt": "2017-10-23T22:14:19.265Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:34.277Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -74,10 +74,7 @@
       "start": "electron .",
       "dev": "webpack --progress --colors --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -86,9 +83,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "awesome-typescript-loader": "^1.1.1",
@@ -103,6 +97,11 @@
       "react": "^15.4.1",
       "react-dom": "^15.4.1",
       "react-router": "^3.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,6 @@
   },
   "filename": "adamhammes___typescript-electron-react.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:45:58.028Z",
+  "lastFetchedAt": "2017-10-23T22:33:03.011Z",
   "packageLastFetchedAt": "2017-05-04T22:04:42.548Z"
 }

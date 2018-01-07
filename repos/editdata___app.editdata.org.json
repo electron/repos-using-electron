@@ -64,14 +64,12 @@
   },
   "networkCount": 7,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "app.editdata.org",
     "description": "edit data. save it on github.",
     "version": "1.0.2",
-    "repository": {
-      "url": "git://github.com/editdata/app.editdata.org.git"
-    },
+    "repository": "https://github.com/editdata/app.editdata.org",
     "main": "app.js",
     "scripts": {
       "deploy": "npm run bundle:production && staticland . app.editdata.org",
@@ -138,7 +136,8 @@
       "tape": "^4.4.0",
       "testron": "^1.2.0",
       "zuul": "^3.9.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -185,6 +184,6 @@
   "svnUrl": "https://github.com/editdata/app.editdata.org",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:34:05.409Z",
+  "lastFetchedAt": "2017-10-23T23:09:37.583Z",
   "packageLastFetchedAt": "2017-05-05T15:33:02.979Z"
 }

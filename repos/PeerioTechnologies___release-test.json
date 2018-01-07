@@ -6,7 +6,7 @@
   "owner": {
     "login": "PeerioTechnologies",
     "id": 8494251,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8494251?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8494251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PeerioTechnologies",
     "htmlUrl": "https://github.com/PeerioTechnologies",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "PeerioTechnologies",
     "id": 8494251,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8494251?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8494251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PeerioTechnologies",
     "htmlUrl": "https://github.com/PeerioTechnologies",
@@ -79,9 +79,9 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 10,
+  "subscribersCount": 13,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:24:24.984Z",
+  "lastFetchedAt": "2017-10-24T00:12:22.776Z",
   "packageJSON": {
     "name": "helloworld",
     "productName": "Hello World",
@@ -96,10 +96,7 @@
     "author": "Dmitry Chestnykh",
     "license": "UNLICENSED",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/PeerioTechnologies/release-test.git"
-    },
+    "repository": "https://github.com/PeerioTechnologies/release-test",
     "dependencies": {
       "classnames": "^2.2.5",
       "electron-updater": "^1.14.2",
@@ -190,8 +187,10 @@
           "AppImage"
         ]
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:36:45.410Z"
+  "packageLastFetchedAt": "2017-05-05T17:36:45.410Z",
+  "archived": false
 }

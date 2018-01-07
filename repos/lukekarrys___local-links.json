@@ -5,7 +5,7 @@
   "owner": {
     "login": "lukekarrys",
     "id": 542108,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/542108?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/542108?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lukekarrys",
     "htmlUrl": "https://github.com/lukekarrys",
@@ -20,12 +20,12 @@
   "description": "Determine cross-browser if an event or anchor element should be handled locally.",
   "fork": false,
   "createdAt": "2014-08-14T20:06:19.000Z",
-  "updatedAt": "2017-03-16T04:21:01.000Z",
-  "pushedAt": "2017-05-01T05:15:37.000Z",
+  "updatedAt": "2017-09-22T21:19:49.000Z",
+  "pushedAt": "2017-10-20T10:03:45.000Z",
   "homepage": null,
   "size": 42,
-  "stargazersCount": 32,
-  "watchersCount": 32,
+  "stargazersCount": 31,
+  "watchersCount": 31,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 32,
+  "watchers": 31,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,9 +56,6 @@
     "description": "Determine cross-browser if an event or anchor element should be handled locally.",
     "version": "1.4.1",
     "author": "Luke Karrys <luke@lukekarrys.com>",
-    "bugs": {
-      "url": "https://github.com/lukekarrys/local-links/issues"
-    },
     "devDependencies": {
       "browserify": "^14.3.0",
       "electron": "^1.6.1",
@@ -86,10 +83,7 @@
       "test",
       "validate"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:lukekarrys/local-links.git"
-    },
+    "repository": "https://github.com/lukekarrys/local-links",
     "scripts": {
       "clean": "rm .source.* || true",
       "lint": "standard",
@@ -100,6 +94,11 @@
       "validate": "npm ls",
       "zuul": "zuul --ui tape -- test/index.js",
       "zuul-local": "zuul --local 8080 --ui tape -- test/index.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lukekarrys/local-links/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   "svnUrl": "https://github.com/lukekarrys/local-links",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:22:56.720Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:46.819Z"
+  "lastFetchedAt": "2017-10-24T00:08:34.211Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:46.819Z",
+  "archived": false
 }

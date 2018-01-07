@@ -5,7 +5,7 @@
   "owner": {
     "login": "eatrero",
     "id": 728615,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/728615?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/728615?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eatrero",
     "htmlUrl": "https://github.com/eatrero",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/eatrero/electron-rsync/downloads",
   "deploymentsUrl": "https://api.github.com/repos/eatrero/electron-rsync/deployments",
   "createdAt": "2016-01-25T03:44:12.000Z",
-  "updatedAt": "2016-01-25T03:47:09.000Z",
+  "updatedAt": "2017-08-31T16:12:58.000Z",
   "pushedAt": "2016-01-25T03:47:05.000Z",
   "gitUrl": "git://github.com/eatrero/electron-rsync.git",
   "sshUrl": "git@github.com:eatrero/electron-rsync.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/eatrero/electron-rsync",
   "homepage": null,
   "size": 17,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,15 +88,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "rsync": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "eatrero___electron-rsync.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:15:39.971Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:00.514Z"
+  "lastFetchedAt": "2017-10-24T00:06:30.209Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:00.514Z",
+  "archived": false
 }

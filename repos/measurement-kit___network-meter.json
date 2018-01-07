@@ -5,7 +5,7 @@
   "owner": {
     "login": "measurement-kit",
     "id": 11982841,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11982841?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11982841?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/measurement-kit",
     "htmlUrl": "https://github.com/measurement-kit",
@@ -17,10 +17,10 @@
     "type": "Organization"
   },
   "private": false,
-  "description": "Graphical frontend for various network tests",
+  "description": "[HISTORICAL, UNUSED] Graphical frontend for various network tests",
   "fork": false,
   "createdAt": "2015-05-09T15:42:30.000Z",
-  "updatedAt": "2016-08-10T20:13:20.000Z",
+  "updatedAt": "2017-07-17T14:05:52.000Z",
   "pushedAt": "2016-03-09T16:14:40.000Z",
   "homepage": "",
   "size": 478,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "measurement-kit",
     "id": 11982841,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11982841?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11982841?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/measurement-kit",
     "htmlUrl": "https://github.com/measurement-kit",
@@ -68,9 +68,6 @@
       "type": "git",
       "url": "git://github.com:measurement-kit/network-meter.git"
     },
-    "bugs": {
-      "url": "https://github.com/measurement-kit/network-meter/issues"
-    },
     "main": "index.js",
     "devDependencies": {
       "beefy": "^2.1.5",
@@ -92,6 +89,11 @@
       "package": "electron-packager . NetworkMeter --icon=static/Icon.icns",
       "start": "electron index.js 2>&1 | silence-chromium",
       "web": "beefy web.js:bundle.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/measurement-kit/network-meter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +141,7 @@
   "svnUrl": "https://github.com/measurement-kit/network-meter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:28:31.366Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:25.929Z"
+  "lastFetchedAt": "2017-10-23T22:25:29.035Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:25.929Z",
+  "archived": false
 }

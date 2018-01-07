@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "EasyPass-desktop",
     "description": "EasyPass desktop application for Windows, Linux and OS X.",
@@ -81,10 +81,7 @@
       "url": "http://www.malagadev.com/"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jduarter/easypass-desktop.git"
-    },
+    "repository": "https://github.com/jduarter/easypass-desktop",
     "main": "main.js",
     "scripts": {
       "test": "standard && mocha --recursive",
@@ -182,7 +179,8 @@
     },
     "dependencies": {
       "photon": "^2.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -209,6 +207,6 @@
   },
   "filename": "jduarter___easypass-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:59.401Z",
+  "lastFetchedAt": "2017-10-23T23:01:20.325Z",
   "packageLastFetchedAt": "2017-05-05T14:40:35.908Z"
 }

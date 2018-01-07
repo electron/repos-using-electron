@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 20,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "installer",
     "version": "1.0.0",
@@ -78,7 +78,8 @@
     },
     "dependencies": {
       "adm-zip": "^0.4.7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -105,6 +106,6 @@
   },
   "filename": "tejohnso___rise-launcher-test-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:36:53.412Z",
+  "lastFetchedAt": "2017-10-24T00:11:19.414Z",
   "packageLastFetchedAt": "2017-05-05T17:09:42.345Z"
 }

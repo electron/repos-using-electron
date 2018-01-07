@@ -64,15 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Presentdown",
     "version": "0.0.5",
     "description": "Create awesome presentations just using markdown",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/whatisinternet/Presentdown.git"
-    },
+    "repository": "https://github.com/whatisinternet/Presentdown",
     "main": "index.js",
     "scripts": {
       "gulp": "gulp",
@@ -122,7 +119,8 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.8.10",
       "webpack-dev-server": "~1.12.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -149,6 +147,6 @@
   },
   "filename": "whatisinternet___Presentdown.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:00.107Z",
+  "lastFetchedAt": "2017-10-24T00:10:10.911Z",
   "packageLastFetchedAt": "2017-05-05T14:58:46.573Z"
 }

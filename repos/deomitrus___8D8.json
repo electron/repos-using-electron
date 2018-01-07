@@ -5,7 +5,7 @@
   "owner": {
     "login": "deomitrus",
     "id": 2581815,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2581815?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2581815?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/deomitrus",
     "htmlUrl": "https://github.com/deomitrus",
@@ -20,12 +20,12 @@
   "description": "8D8 has been reprogrammed for sadism (DNS Server in React + Electron)",
   "fork": false,
   "createdAt": "2016-06-09T16:42:47.000Z",
-  "updatedAt": "2016-06-21T00:25:39.000Z",
+  "updatedAt": "2017-07-28T17:23:07.000Z",
   "pushedAt": "2016-09-20T00:48:55.000Z",
   "homepage": "",
   "size": 2683,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 2,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -64,15 +64,9 @@
       "pack": "node ./node_modules/electron-packager/cli.js ./src --all --overwrite --out binaries",
       "build": "npm run css; npm run deps; npm run pack"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/deomitrus/8D8.git"
-    },
+    "repository": "https://github.com/deomitrus/8D8",
     "author": "Deomitrus",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/deomitrus/8D8/issues"
-    },
     "homepage": "https://github.com/deomitrus/8D8#readme",
     "dependencies": {
       "co": "^4.6.0",
@@ -89,6 +83,11 @@
       "electron-packager": "^7.0.3",
       "electron-prebuilt": "^1.2.3",
       "stylus": "^0.54.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/deomitrus/8D8/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/deomitrus/8D8",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:29:59.514Z",
-  "packageLastFetchedAt": "2017-05-05T15:42:52.445Z"
+  "lastFetchedAt": "2017-10-23T21:50:14.357Z",
+  "packageLastFetchedAt": "2017-05-05T15:42:52.445Z",
+  "archived": false
 }

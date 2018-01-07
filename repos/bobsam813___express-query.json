@@ -5,7 +5,7 @@
   "owner": {
     "login": "bobsam813",
     "id": 20983599,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20983599?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20983599?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bobsam813",
     "htmlUrl": "https://github.com/bobsam813",
@@ -83,10 +83,7 @@
       "start": "npm run watch | npm run dev",
       "packager": "electron-packager ./ express --platform=win32 --arch=x64 --out ./express --version=1.4.4 --icon=./express.ico"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:bobsam813/express-query.git"
-    },
+    "repository": "https://github.com/bobsam813/express-query",
     "keywords": [
       "express",
       "query"
@@ -115,7 +112,8 @@
       "vue-loader": "^8.5.4",
       "vue-style-loader": "^1.0.0",
       "webpack": "^1.13.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +140,7 @@
   },
   "filename": "bobsam813___express-query.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:59:35.993Z",
-  "packageLastFetchedAt": "2017-05-05T15:25:10.661Z"
+  "lastFetchedAt": "2017-10-23T22:07:20.149Z",
+  "packageLastFetchedAt": "2017-05-05T15:25:10.661Z",
+  "archived": false
 }

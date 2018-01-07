@@ -5,7 +5,7 @@
   "owner": {
     "login": "calebjordan",
     "id": 5473908,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5473908?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5473908?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/calebjordan",
     "htmlUrl": "https://github.com/calebjordan",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/calebjordan/data-viewer"
-    },
+    "repository": "https://github.com/calebjordan/data-viewer",
     "keywords": [
       "data",
       "viewer",
@@ -91,9 +88,6 @@
     ],
     "author": "Caleb Jordan",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/calebjordan/data-viewer/issues"
-    },
     "homepage": "https://github.com/calebjordan/data-viewer#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -102,6 +96,11 @@
     "dependencies": {
       "hdf5": "^0.2.1",
       "plotly.js": "^1.14.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/calebjordan/data-viewer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "calebjordan___Data-Viewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:34.119Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:37.110Z"
+  "lastFetchedAt": "2017-10-23T23:12:25.622Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:37.110Z",
+  "archived": false
 }

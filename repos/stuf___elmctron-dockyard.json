@@ -70,21 +70,15 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "elmctron-dockyard",
     "version": "0.1.0",
     "description": "Elmctron Dockyard",
     "main": "main-electron.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stuf/elmctron-dockyard.git"
-    },
+    "repository": "https://github.com/stuf/elmctron-dockyard",
     "author": "Stefan Rimaila <stefan@rimaila.fi> (https://stuf.github.io)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stuf/elmctron-dockyard/issues"
-    },
     "homepage": "https://github.com/stuf/elmctron-dockyard#readme",
     "devDependencies": {
       "browser-sync": "^2.13.0",
@@ -139,6 +133,11 @@
           "AppImage"
         ]
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stuf/elmctron-dockyard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,6 @@
   },
   "filename": "stuf___elmctron-dockyard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:23:36.913Z",
+  "lastFetchedAt": "2017-10-23T23:01:42.335Z",
   "packageLastFetchedAt": "2017-05-05T17:50:59.414Z"
 }

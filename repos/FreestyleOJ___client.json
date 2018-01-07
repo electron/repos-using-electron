@@ -5,7 +5,7 @@
   "owner": {
     "login": "FreestyleOJ",
     "id": 14993371,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14993371?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14993371?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FreestyleOJ",
     "htmlUrl": "https://github.com/FreestyleOJ",
@@ -21,7 +21,7 @@
   "fork": false,
   "createdAt": "2015-11-03T09:49:41.000Z",
   "updatedAt": "2015-12-11T14:22:53.000Z",
-  "pushedAt": "2017-05-02T05:01:31.000Z",
+  "pushedAt": "2017-05-24T16:21:54.000Z",
   "homepage": "",
   "size": 2135,
   "stargazersCount": 1,
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 1,
-  "openIssuesCount": 105,
-  "openIssues": 105,
+  "openIssuesCount": 108,
+  "openIssues": 108,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -51,7 +51,7 @@
   "organization": {
     "login": "FreestyleOJ",
     "id": 14993371,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14993371?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14993371?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FreestyleOJ",
     "htmlUrl": "https://github.com/FreestyleOJ",
@@ -75,19 +75,13 @@
       "start": "electron index.js",
       "codecov": "cat coverage/*/lcov.info | codecov"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FreestyleOJ/FOJ-Client.git"
-    },
+    "repository": "https://github.com/FreestyleOJ/FOJ-Client",
     "keywords": [
       "FreestyleOJ",
       "client"
     ],
     "author": "sirius.caffrey@gmail.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/FreestyleOJ/FOJ-Client/issues"
-    },
     "homepage": "https://github.com/FreestyleOJ/FOJ-Client#readme",
     "devDependencies": {
       "codecov.io": "^0.1.6",
@@ -96,7 +90,12 @@
       "istanbul": "^0.4.0",
       "mocha": "^2.3.3"
     },
-    "preferGlobal": true
+    "preferGlobal": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/FreestyleOJ/FOJ-Client/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/FreestyleOJ/client",
@@ -143,6 +142,7 @@
   },
   "filename": "FreestyleOJ___client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:25.744Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:07.014Z"
+  "lastFetchedAt": "2017-10-23T23:45:46.168Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:07.014Z",
+  "archived": false
 }

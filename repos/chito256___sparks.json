@@ -5,7 +5,7 @@
   "owner": {
     "login": "chito256",
     "id": 19518296,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19518296?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19518296?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chito256",
     "htmlUrl": "https://github.com/chito256",
@@ -86,15 +86,9 @@
       "build:prod": "npm run bundle && build",
       "clean:all": "rm -r dist && rm -r app/build && rm -r app/node_modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chito256/sparks.git"
-    },
+    "repository": "https://github.com/chito256/sparks",
     "author": "Chi To",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chito256/sparks/issues"
-    },
     "homepage": "https://github.com/chito256/sparks#readme",
     "devDependencies": {
       "babel-core": "^6.14.0",
@@ -144,6 +138,11 @@
       "squirrelWindows": {
         "msi": true
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chito256/sparks/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "chito256___sparks.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:40:28.930Z",
-  "packageLastFetchedAt": "2017-05-05T14:23:32.429Z"
+  "lastFetchedAt": "2017-10-23T22:56:02.135Z",
+  "packageLastFetchedAt": "2017-05-05T14:23:32.429Z",
+  "archived": false
 }

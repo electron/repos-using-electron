@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 13,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-meshblu-connector-installer",
     "productName": "MeshbluConnectorInstaller",
@@ -142,26 +142,16 @@
         "synopsis": "Cross-Platform Meshblu Connector Installer"
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/octoblu/electron-meshblu-connector-installer.git"
-    },
+    "repository": "https://github.com/octoblu/electron-meshblu-connector-installer",
     "author": {
       "name": "Octoblu, Inc.",
       "email": "npm@octoblu.com",
       "url": "https://github.com/octoblu"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/octoblu/electron-meshblu-connector-installer/issues"
-    },
     "keywords": [
       "electron",
       "meshblu",
@@ -248,6 +238,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/octoblu/electron-meshblu-connector-installer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -295,6 +294,6 @@
   },
   "filename": "octoblu___electron-meshblu-connector-installer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:24.027Z",
+  "lastFetchedAt": "2017-10-23T23:01:56.119Z",
   "packageLastFetchedAt": "2017-05-05T17:26:59.502Z"
 }

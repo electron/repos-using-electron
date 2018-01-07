@@ -5,7 +5,7 @@
   "owner": {
     "login": "sgtaziz",
     "id": 5303104,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5303104?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5303104?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sgtaziz",
     "htmlUrl": "https://github.com/sgtaziz",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/sgtaziz/RemoteMessages-Client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/sgtaziz/RemoteMessages-Client/deployments",
   "createdAt": "2016-10-07T02:35:49.000Z",
-  "updatedAt": "2017-02-01T16:13:57.000Z",
+  "updatedAt": "2017-09-02T19:06:49.000Z",
   "pushedAt": "2016-10-14T08:25:03.000Z",
   "gitUrl": "git://github.com/sgtaziz/RemoteMessages-Client.git",
   "sshUrl": "git@github.com:sgtaziz/RemoteMessages-Client.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/sgtaziz/RemoteMessages-Client",
   "homepage": null,
   "size": 1226,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 6,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -98,15 +98,13 @@
       "electron-settings": "^2.2.1",
       "electron-squirrel-startup": "^1.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sgtaziz/RemoteMessages-Client.git"
-    },
+    "repository": "https://github.com/sgtaziz/RemoteMessages-Client",
     "scripts": {
       "test": "mocha scripts/run-test.js",
       "publish": "build -mwl --publish always",
       "build": "build -mwl"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,7 @@
   },
   "filename": "sgtaziz___RemoteMessages-Client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:22.836Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:49.271Z"
+  "lastFetchedAt": "2017-10-23T22:52:33.614Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:49.271Z",
+  "archived": false
 }

@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "xbl-friends",
     "version": "1.0.0",
@@ -81,14 +81,8 @@
     },
     "author": "Michael David Barrett <mike182uk@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mike182uk/xbl-friends.git"
-    },
+    "repository": "https://github.com/mike182uk/xbl-friends",
     "homepage": "https://github.com/mike182uk/xbl-friends",
-    "bugs": {
-      "url": "https://github.com/mike182uk/xbl-friends/issues"
-    },
     "devDependencies": {
       "babel-cli": "^6.5.1",
       "babel-core": "^6.4.0",
@@ -143,6 +137,11 @@
         "__DEV__",
         "__INT__"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mike182uk/xbl-friends/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +189,6 @@
   "svnUrl": "https://github.com/mike182uk/xbl-friends",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:18:29.971Z",
+  "lastFetchedAt": "2017-10-23T22:56:35.397Z",
   "packageLastFetchedAt": "2017-05-04T22:20:46.373Z"
 }

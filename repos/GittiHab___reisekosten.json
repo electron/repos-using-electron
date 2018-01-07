@@ -6,7 +6,7 @@
   "owner": {
     "login": "GittiHab",
     "id": 6453623,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6453623?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6453623?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/GittiHab",
     "htmlUrl": "https://github.com/GittiHab",
@@ -92,9 +92,6 @@
       "mocha": "^3.0.2"
     },
     "main": "app/index.js",
-    "directories": {
-      "test": "test"
-    },
     "dependencies": {
       "angular": "^1.5.8",
       "angular-ui-router": "^1.0.0-beta.2",
@@ -110,7 +107,12 @@
     },
     "author": "Pius Ladenburger",
     "license": "Apache 2",
-    "description": "The open source travel expense report solution for the German tax payer."
+    "description": "The open source travel expense report solution for the German tax payer.",
+    "other": {
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +138,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:16.685Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:01.788Z"
+  "lastFetchedAt": "2017-10-23T22:30:49.267Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:01.788Z",
+  "archived": false
 }

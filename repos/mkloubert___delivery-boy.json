@@ -5,7 +5,7 @@
   "owner": {
     "login": "mkloubert",
     "id": 4951215,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4951215?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4951215?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mkloubert",
     "htmlUrl": "https://github.com/mkloubert",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mkloubert/delivery-boy.git"
-    },
+    "repository": "https://github.com/mkloubert/delivery-boy",
     "keywords": [
       "delivery",
       "boy",
@@ -98,9 +95,6 @@
     ],
     "author": "mkloubert",
     "license": "GPL3",
-    "bugs": {
-      "url": "https://github.com/mkloubert/delivery-boy/issues"
-    },
     "homepage": "https://github.com/mkloubert/delivery-boy#readme",
     "readmeFilename": "README.md",
     "devDependencies": {
@@ -110,6 +104,11 @@
     "dependencies": {
       "file-type": "^4.1.0",
       "node-simple-socket": "^2.3.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mkloubert/delivery-boy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "mkloubert___delivery-boy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:28.358Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:35.829Z"
+  "lastFetchedAt": "2017-10-23T23:42:29.607Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:35.829Z",
+  "archived": false
 }

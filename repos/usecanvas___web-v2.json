@@ -6,7 +6,7 @@
   "owner": {
     "login": "usecanvas",
     "id": 8454979,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8454979?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8454979?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/usecanvas",
     "htmlUrl": "https://github.com/usecanvas",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/usecanvas/web-v2/downloads",
   "deploymentsUrl": "https://api.github.com/repos/usecanvas/web-v2/deployments",
   "createdAt": "2017-04-04T16:15:06.000Z",
-  "updatedAt": "2017-05-02T17:13:31.000Z",
+  "updatedAt": "2017-10-02T19:28:53.000Z",
   "pushedAt": "2017-04-05T04:44:34.000Z",
   "gitUrl": "git://github.com/usecanvas/web-v2.git",
   "sshUrl": "git@github.com:usecanvas/web-v2.git",
@@ -44,19 +44,19 @@
   "svnUrl": "https://github.com/usecanvas/web-v2",
   "homepage": null,
   "size": 1681,
-  "stargazersCount": 80,
-  "watchersCount": 80,
+  "stargazersCount": 94,
+  "watchersCount": 94,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": false,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 15,
+  "forksCount": 21,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 80,
+  "watchers": 94,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "usecanvas",
     "id": 8454979,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8454979?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8454979?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/usecanvas",
     "htmlUrl": "https://github.com/usecanvas",
@@ -84,19 +84,15 @@
     "receivedEventsUrl": "https://api.github.com/users/usecanvas/received_events",
     "type": "Organization"
   },
-  "networkCount": 15,
+  "networkCount": 21,
   "subscribersCount": 6,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:11:16.684Z",
+  "lastFetchedAt": "2017-10-23T22:53:40.378Z",
   "packageJSON": {
     "name": "canvas-web",
     "version": "0.0.12",
     "description": "Small description for canvas-web goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "lint": "eslint app config tests",
@@ -206,8 +202,15 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:12:10.567Z"
+  "packageLastFetchedAt": "2017-05-04T22:12:10.567Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jmsstudio",
     "id": 158855,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/158855?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/158855?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jmsstudio",
     "htmlUrl": "https://github.com/jmsstudio",
@@ -60,10 +60,7 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o dist/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jmsstudio/sc-player.git"
-    },
+    "repository": "https://github.com/jmsstudio/sc-player",
     "keywords": [
       "Electron",
       "soundcloud",
@@ -84,7 +81,8 @@
       "react-dom": "^0.14.8",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +130,7 @@
   "svnUrl": "https://github.com/jmsstudio/sc-player",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:09:53.988Z",
-  "packageLastFetchedAt": "2017-05-05T14:29:47.878Z"
+  "lastFetchedAt": "2017-10-23T22:14:38.537Z",
+  "packageLastFetchedAt": "2017-05-05T14:29:47.878Z",
+  "archived": false
 }

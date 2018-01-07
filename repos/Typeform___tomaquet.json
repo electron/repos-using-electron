@@ -5,7 +5,7 @@
   "owner": {
     "login": "nali",
     "id": 1028877,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1028877?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1028877?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nali",
     "htmlUrl": "https://github.com/nali",
@@ -76,16 +76,10 @@
       "build": "electron-packager ./ --platform=darwin --arch=x64 --out dist --icon=assets/large_icon.icns",
       "postinstall": "electron-rebuild --pre-gyp-fix --force"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Typeform/tomaquet.git"
-    },
+    "repository": "https://github.com/Typeform/tomaquet",
     "keywords": [],
     "author": "Typeform",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/Typeform/tomaquet/issues"
-    },
     "homepage": "https://github.com/Typeform/tomaquet#readme",
     "devDependencies": {
       "electron-packager": "^7.5.1",
@@ -96,6 +90,11 @@
       "electron-settings": "^2.1.1",
       "luxafor-api": "^2.0.0",
       "time-counter": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Typeform/tomaquet/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/nali/tomaquet",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:46:44.032Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:27.325Z"
+  "lastFetchedAt": "2017-10-23T23:41:39.200Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:27.325Z",
+  "archived": false
 }

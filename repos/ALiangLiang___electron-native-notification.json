@@ -6,7 +6,7 @@
   "owner": {
     "login": "ALiangLiang",
     "id": 6974496,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6974496?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6974496?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ALiangLiang",
     "htmlUrl": "https://github.com/ALiangLiang",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/ALiangLiang/electron-native-notification/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ALiangLiang/electron-native-notification/deployments",
   "createdAt": "2016-11-16T09:34:16.000Z",
-  "updatedAt": "2017-05-03T15:03:25.000Z",
-  "pushedAt": "2016-11-21T06:33:07.000Z",
+  "updatedAt": "2017-10-03T11:15:36.000Z",
+  "pushedAt": "2017-10-18T08:55:38.000Z",
   "gitUrl": "git://github.com/ALiangLiang/electron-native-notification.git",
   "sshUrl": "git@github.com:ALiangLiang/electron-native-notification.git",
   "cloneUrl": "https://github.com/ALiangLiang/electron-native-notification.git",
   "svnUrl": "https://github.com/ALiangLiang/electron-native-notification",
   "homepage": null,
-  "size": 16,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "size": 15,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -80,10 +80,7 @@
     "scripts": {
       "test": "sh tests/test.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ALiangLiang/electron-native-notification.git"
-    },
+    "repository": "https://github.com/ALiangLiang/electron-native-notification",
     "keywords": [
       "electron",
       "desktop",
@@ -97,13 +94,15 @@
     ],
     "author": "ALiangLiang <david27072183@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ALiangLiang/electron-native-notification/issues"
-    },
     "homepage": "https://github.com/ALiangLiang/electron-native-notification#readme",
     "devDependencies": {
       "electron-mocha": "^3.2.0",
       "electron-prebuilt": "^1.4.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ALiangLiang/electron-native-notification/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:41.947Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:45.456Z"
+  "lastFetchedAt": "2017-10-23T23:41:41.163Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:45.456Z",
+  "archived": false
 }

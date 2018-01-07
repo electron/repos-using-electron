@@ -164,7 +164,7 @@
   },
   "networkCount": 24,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-devtools-installer-offline",
     "version": "0.1.4",
@@ -185,10 +185,7 @@
     ],
     "author": "huang.xinghui <huang.x.hui@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/huang-x-h/electron-devtools-installer-offline.git"
-    },
+    "repository": "https://github.com/huang-x-h/electron-devtools-installer-offline",
     "devDependencies": {
       "babel": "^6.5.2",
       "babel-cli": "^6.9.0",
@@ -207,7 +204,8 @@
       "presets": [
         "es2015"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -255,6 +253,6 @@
   "svnUrl": "https://github.com/huang-x-h/electron-devtools-installer-offline",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:22:44.912Z",
+  "lastFetchedAt": "2017-10-23T23:04:54.575Z",
   "packageLastFetchedAt": "2017-05-05T14:41:19.063Z"
 }

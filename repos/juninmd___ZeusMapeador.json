@@ -5,7 +5,7 @@
   "owner": {
     "login": "juninmd",
     "id": 6952134,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6952134?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6952134?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/juninmd",
     "htmlUrl": "https://github.com/juninmd",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/juninmd/ZeusMapeador/deployments",
   "createdAt": "2016-03-28T20:42:11.000Z",
   "updatedAt": "2016-03-28T20:45:09.000Z",
-  "pushedAt": "2016-03-28T20:45:08.000Z",
+  "pushedAt": "2017-10-11T18:26:18.000Z",
   "gitUrl": "git://github.com/juninmd/ZeusMapeador.git",
   "sshUrl": "git@github.com:juninmd/ZeusMapeador.git",
   "cloneUrl": "https://github.com/juninmd/ZeusMapeador.git",
   "svnUrl": "https://github.com/juninmd/ZeusMapeador",
   "homepage": null,
-  "size": 20,
+  "size": 21,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 2,
+  "openIssues": 2,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,15 +88,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "electron": "^0.4.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "juninmd___ZeusMapeador.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:05.131Z",
-  "packageLastFetchedAt": "2017-05-05T14:25:05.575Z"
+  "lastFetchedAt": "2017-10-24T00:05:13.712Z",
+  "packageLastFetchedAt": "2017-05-05T14:25:05.575Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "systembugtj",
     "id": 777576,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/777576?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/777576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/systembugtj",
     "htmlUrl": "https://github.com/systembugtj",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/systembugtj/picasa-electron/deployments",
   "createdAt": "2016-07-22T15:54:32.000Z",
   "updatedAt": "2016-07-22T15:57:57.000Z",
-  "pushedAt": "2016-10-11T00:42:54.000Z",
+  "pushedAt": "2017-10-03T04:12:03.000Z",
   "gitUrl": "git://github.com/systembugtj/picasa-electron.git",
   "sshUrl": "git@github.com:systembugtj/picasa-electron.git",
   "cloneUrl": "https://github.com/systembugtj/picasa-electron.git",
   "svnUrl": "https://github.com/systembugtj/picasa-electron",
   "homepage": null,
-  "size": 31,
+  "size": 225,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for picasa goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -169,6 +165,12 @@
       "electron-json-storage": "^2.0.1",
       "glob": "^7.0.6",
       "loader.js": "^4.0.1"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -196,6 +198,7 @@
   },
   "filename": "systembugtj___picasa-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:08.619Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:38.895Z"
+  "lastFetchedAt": "2017-10-24T00:20:05.187Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:38.895Z",
+  "archived": false
 }

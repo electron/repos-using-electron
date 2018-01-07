@@ -5,7 +5,7 @@
   "owner": {
     "login": "amandala",
     "id": 6064242,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6064242?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6064242?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/amandala",
     "htmlUrl": "https://github.com/amandala",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,15 +68,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "nconf": "^0.8.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "ahayn465___graphic-body-app-windows-build.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:43.538Z",
-  "packageLastFetchedAt": "2017-05-05T01:33:34.913Z"
+  "lastFetchedAt": "2017-10-23T21:49:42.446Z",
+  "packageLastFetchedAt": "2017-05-05T01:33:34.913Z",
+  "archived": false
 }

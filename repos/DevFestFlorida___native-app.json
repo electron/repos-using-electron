@@ -5,7 +5,7 @@
   "owner": {
     "login": "DevFestFlorida",
     "id": 20824276,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20824276?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20824276?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DevFestFlorida",
     "htmlUrl": "https://github.com/DevFestFlorida",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "DevFestFlorida",
     "id": 20824276,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20824276?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20824276?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DevFestFlorida",
     "htmlUrl": "https://github.com/DevFestFlorida",
@@ -89,9 +89,7 @@
     "name": "native-app",
     "version": "0.0.0",
     "description": "DevFest Florida 2016 native apps",
-    "repository": {
-      "url": "https://github.com/DevFestFlorida/native-app"
-    },
+    "repository": "https://github.com/DevFestFlorida/native-app",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -252,7 +250,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -280,6 +279,7 @@
   "filename": "DevFestFlorida___native-app.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:36:59.836Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:21.506Z"
+  "lastFetchedAt": "2017-10-23T22:14:59.039Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:21.506Z",
+  "archived": false
 }

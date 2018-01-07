@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "masque-sql",
     "productName": "Masque SQL",
@@ -96,19 +96,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/commander-lol/masque-sql.git"
-    },
+    "repository": "https://github.com/commander-lol/masque-sql",
     "author": {
       "name": "Louis Capitanchik",
       "email": "contact@louiscap.co",
       "url": "https://github.com/commander-lol"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/commander-lol/masque-sql/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -204,6 +198,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/commander-lol/masque-sql/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -232,6 +231,6 @@
   "filename": "Commander-lol___masque-sql.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:51.256Z",
+  "lastFetchedAt": "2017-10-23T22:59:37.071Z",
   "packageLastFetchedAt": "2017-05-05T17:40:02.694Z"
 }

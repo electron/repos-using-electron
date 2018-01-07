@@ -5,7 +5,7 @@
   "owner": {
     "login": "ranceliglesias",
     "id": 17485057,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17485057?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17485057?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ranceliglesias",
     "htmlUrl": "https://github.com/ranceliglesias",
@@ -75,18 +75,12 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/christiannwamba/scotch-player.git"
-    },
+    "repository": "https://github.com/christiannwamba/scotch-player",
     "keywords": [
       "react",
       "music"
     ],
     "author": "Rancel Iglesias",
-    "bugs": {
-      "url": "https://github.com/christiannwamba/scotch-player/issues"
-    },
     "homepage": "https://github.com/christiannwamba/scotch-player#readme",
     "dependencies": {
       "axios": "^0.9.1",
@@ -102,6 +96,11 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/christiannwamba/scotch-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "ranceliglesias___playerDesktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:34.110Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:51.773Z"
+  "lastFetchedAt": "2017-10-24T00:14:47.700Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:51.773Z",
+  "archived": false
 }

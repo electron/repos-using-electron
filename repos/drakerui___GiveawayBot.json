@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "giveawaybot",
     "title": "Giveaway Bot",
@@ -76,15 +76,9 @@
       "test": "electron .",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/drakerui/GiveawayBot.git"
-    },
+    "repository": "https://github.com/drakerui/GiveawayBot",
     "author": "Drake",
     "license": "UNLICENCED",
-    "bugs": {
-      "url": "https://github.com/drakerui/GiveawayBot/issues"
-    },
     "homepage": "https://github.com/drakerui/GiveawayBot#readme",
     "dependencies": {
       "electron-is": ">=2.4.0",
@@ -101,6 +95,11 @@
     "build": {
       "appId": "com.drake.giveawaybot",
       "category": "general"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/drakerui/GiveawayBot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:51.696Z",
+  "lastFetchedAt": "2017-10-23T22:57:36.598Z",
   "packageLastFetchedAt": "2017-05-05T14:35:40.341Z"
 }

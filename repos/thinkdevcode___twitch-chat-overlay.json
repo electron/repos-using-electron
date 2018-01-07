@@ -5,7 +5,7 @@
   "owner": {
     "login": "thinkdevcode",
     "id": 562854,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/562854?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/562854?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thinkdevcode",
     "htmlUrl": "https://github.com/thinkdevcode",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thinkdevcode/twitch-chat-overlay"
-    },
+    "repository": "https://github.com/thinkdevcode/twitch-chat-overlay",
     "keywords": [
       "twitch",
       "chat",
@@ -71,15 +68,17 @@
     ],
     "author": "Eugene Alfonso <thinkdevcode@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/thinkdevcode/twitch-chat-overlay/issues"
-    },
     "homepage": "https://github.com/thinkdevcode/twitch-chat-overlay#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "electron-localshortcut": "^0.6.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/thinkdevcode/twitch-chat-overlay/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "thinkdevcode___twitch-chat-overlay.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:52.060Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:04.365Z"
+  "lastFetchedAt": "2017-10-24T00:16:04.243Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:04.365Z",
+  "archived": false
 }

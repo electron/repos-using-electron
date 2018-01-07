@@ -1,11 +1,11 @@
 {
   "id": 40780830,
-  "name": "MC-commander",
-  "fullName": "HoodieCollin/MC-commander",
+  "name": "minescript",
+  "fullName": "HoodieCollin/minescript",
   "owner": {
     "login": "HoodieCollin",
     "id": 5888427,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5888427?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5888427?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HoodieCollin",
     "htmlUrl": "https://github.com/HoodieCollin",
@@ -17,32 +17,32 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/HoodieCollin/MC-commander",
+  "htmlUrl": "https://github.com/HoodieCollin/minescript",
   "description": "A multi-platform app that helps construct commands for minecraft",
   "fork": false,
-  "url": "https://api.github.com/repos/HoodieCollin/MC-commander",
-  "forksUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/forks",
-  "teamsUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/teams",
-  "hooksUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/hooks",
-  "eventsUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/events",
-  "tagsUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/tags",
-  "languagesUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/languages",
-  "stargazersUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/contributors",
-  "subscribersUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/subscription",
-  "mergesUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/merges",
-  "downloadsUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/HoodieCollin/MC-commander/deployments",
+  "url": "https://api.github.com/repos/HoodieCollin/minescript",
+  "forksUrl": "https://api.github.com/repos/HoodieCollin/minescript/forks",
+  "teamsUrl": "https://api.github.com/repos/HoodieCollin/minescript/teams",
+  "hooksUrl": "https://api.github.com/repos/HoodieCollin/minescript/hooks",
+  "eventsUrl": "https://api.github.com/repos/HoodieCollin/minescript/events",
+  "tagsUrl": "https://api.github.com/repos/HoodieCollin/minescript/tags",
+  "languagesUrl": "https://api.github.com/repos/HoodieCollin/minescript/languages",
+  "stargazersUrl": "https://api.github.com/repos/HoodieCollin/minescript/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/HoodieCollin/minescript/contributors",
+  "subscribersUrl": "https://api.github.com/repos/HoodieCollin/minescript/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/HoodieCollin/minescript/subscription",
+  "mergesUrl": "https://api.github.com/repos/HoodieCollin/minescript/merges",
+  "downloadsUrl": "https://api.github.com/repos/HoodieCollin/minescript/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/HoodieCollin/minescript/deployments",
   "createdAt": "2015-08-15T19:37:21.000Z",
-  "updatedAt": "2015-08-15T21:16:37.000Z",
-  "pushedAt": "2015-12-09T18:46:02.000Z",
-  "gitUrl": "git://github.com/HoodieCollin/MC-commander.git",
-  "sshUrl": "git@github.com:HoodieCollin/MC-commander.git",
-  "cloneUrl": "https://github.com/HoodieCollin/MC-commander.git",
-  "svnUrl": "https://github.com/HoodieCollin/MC-commander",
+  "updatedAt": "2017-05-29T08:14:31.000Z",
+  "pushedAt": "2017-06-09T06:03:29.000Z",
+  "gitUrl": "git://github.com/HoodieCollin/minescript.git",
+  "sshUrl": "git@github.com:HoodieCollin/minescript.git",
+  "cloneUrl": "https://github.com/HoodieCollin/minescript.git",
+  "svnUrl": "https://github.com/HoodieCollin/minescript",
   "homepage": null,
-  "size": 345,
+  "size": 361,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -81,15 +81,9 @@
       "start": "([ ! -e /app/dist/app-bundle.js ] && grunt browserify:app) && (npm run dev & grunt watch)",
       "test": "grunt"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/HoodieCollin/MC-commander.git"
-    },
+    "repository": "https://github.com/HoodieCollin/MC-commander",
     "author": "Collin Kokotas",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/HoodieCollin/MC-commander/issues"
-    },
     "homepage": "https://github.com/HoodieCollin/MC-commander",
     "devDependencies": {
       "electron": "^0.4.1",
@@ -107,6 +101,11 @@
     "dependencies": {
       "body-parser": "^1.13.3",
       "express": "^4.13.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/HoodieCollin/MC-commander/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "HoodieCollin___MC-commander.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:05.021Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:29.569Z"
+  "lastFetchedAt": "2017-10-24T00:18:09.032Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:29.569Z",
+  "archived": false
 }

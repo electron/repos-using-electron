@@ -164,15 +164,11 @@
   },
   "networkCount": 47,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Butter-Desktop",
     "homepage": "https://butterproject.github.io/",
-    "bugs": "https://github.com/butterproject/butter-desktop-angular/issues",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/butterproject/butter-desktop-angular.git"
-    },
+    "repository": "https://github.com/butterproject/butter-desktop-angular",
     "version": "0.4.0",
     "description": "There's nothing on TV",
     "main": "build/scripts/main.js",
@@ -229,6 +225,9 @@
       "torrent-health": "0.0.6",
       "torrent-stream": "1.0.0",
       "wcjs-prebuilt": "^2.0.6"
+    },
+    "other": {
+      "bugs": "https://github.com/butterproject/butter-desktop-angular/issues"
     }
   },
   "packageStatus": 200,
@@ -277,6 +276,6 @@
   "svnUrl": "https://github.com/riyadhalnur/butter-desktop-angular",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:25:08.355Z",
+  "lastFetchedAt": "2017-10-23T23:09:02.076Z",
   "packageLastFetchedAt": "2017-05-05T15:14:20.025Z"
 }

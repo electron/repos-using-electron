@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Indigo",
     "version": "0.0.1",
@@ -89,10 +89,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://github.com/wjrh/Cerulean.git"
-    },
+    "repository": "https://github.com/wjrh/Cerulean",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "electron-builder": "^5.10.1"
@@ -107,7 +104,8 @@
       "win": {
         "iconUrl": ""
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +132,6 @@
   },
   "filename": "wjrh___Indigo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:21:56.592Z",
+  "lastFetchedAt": "2017-10-23T23:06:10.079Z",
   "packageLastFetchedAt": "2017-05-05T17:05:00.494Z"
 }

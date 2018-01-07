@@ -70,7 +70,7 @@
   },
   "networkCount": 40,
   "subscribersCount": 11,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-workshop",
     "description": "A Markdown-to-HTML renderer",
@@ -79,9 +79,6 @@
       "name": "Feross Aboukhadijeh",
       "email": "feross@feross.org",
       "url": "http://feross.org/"
-    },
-    "bugs": {
-      "url": "https://github.com/feross/electron-workshop/issues"
     },
     "dependencies": {
       "drag-drop": "^2.12.1",
@@ -100,14 +97,16 @@
     ],
     "license": "MIT",
     "main": "lib/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/feross/electron-workshop.git"
-    },
+    "repository": "https://github.com/feross/electron-workshop",
     "scripts": {
       "package": "electron-packager . 'Markdown Editor'",
       "package-all": "electron-packager . 'Markdown Editor' --platform=all --arch=all",
       "start": "electron ."
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/feross/electron-workshop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   "allowSquashMerge": true,
   "allowMergeCommit": true,
   "allowRebaseMerge": true,
-  "lastFetchedAt": "2017-05-04T18:08:53.937Z",
+  "lastFetchedAt": "2017-10-23T23:03:08.077Z",
   "packageLastFetchedAt": "2017-05-05T15:01:25.982Z"
 }

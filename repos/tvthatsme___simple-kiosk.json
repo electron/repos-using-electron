@@ -5,7 +5,7 @@
   "owner": {
     "login": "tvthatsme",
     "id": 3386714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3386714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3386714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tvthatsme",
     "htmlUrl": "https://github.com/tvthatsme",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tvthatsme/simple-kiosk.git"
-    },
+    "repository": "https://github.com/tvthatsme/simple-kiosk",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/tvthatsme/simple-kiosk/issues"
-    },
     "homepage": "https://github.com/tvthatsme/simple-kiosk",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tvthatsme/simple-kiosk/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "tvthatsme___simple-kiosk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:30.042Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:56.642Z"
+  "lastFetchedAt": "2017-10-23T23:12:18.896Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:56.642Z",
+  "archived": false
 }

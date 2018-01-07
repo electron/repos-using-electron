@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular2-electron",
     "version": "0.0.1",
@@ -117,10 +117,8 @@
       "rxjs": "5.0.0-beta.6",
       "zone.js": "~0.6.12"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nnombela/angular2-electron.git"
-    }
+    "repository": "https://github.com/nnombela/angular2-electron",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +145,6 @@
   },
   "filename": "nnombela___angular2-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:54:32.362Z",
+  "lastFetchedAt": "2017-10-23T23:02:09.091Z",
   "packageLastFetchedAt": "2017-05-05T14:49:26.300Z"
 }

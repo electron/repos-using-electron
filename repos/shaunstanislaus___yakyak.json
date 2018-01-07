@@ -5,7 +5,7 @@
   "owner": {
     "login": "shaunstanislaus",
     "id": 1703530,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1703530?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1703530?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shaunstanislaus",
     "htmlUrl": "https://github.com/shaunstanislaus",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "yakyak",
       "id": 12713673,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12713673?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12713673?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/yakyak",
       "htmlUrl": "https://github.com/yakyak",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/yakyak/yakyak/downloads",
     "deploymentsUrl": "https://api.github.com/repos/yakyak/yakyak/deployments",
     "createdAt": "2015-06-02T12:08:31.000Z",
-    "updatedAt": "2017-05-04T12:42:19.000Z",
-    "pushedAt": "2017-04-21T13:42:49.000Z",
+    "updatedAt": "2017-10-23T19:19:06.000Z",
+    "pushedAt": "2017-10-17T13:07:15.000Z",
     "gitUrl": "git://github.com/yakyak/yakyak.git",
     "sshUrl": "git@github.com:yakyak/yakyak.git",
     "cloneUrl": "https://github.com/yakyak/yakyak.git",
     "svnUrl": "https://github.com/yakyak/yakyak",
     "homepage": "",
-    "size": 12694,
-    "stargazersCount": 2685,
-    "watchersCount": 2685,
+    "size": 10116,
+    "stargazersCount": 2964,
+    "watchersCount": 2964,
     "language": "CoffeeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 209,
+    "forksCount": 245,
     "mirrorUrl": null,
-    "openIssuesCount": 161,
-    "openIssues": 161,
-    "watchers": 2685,
+    "archived": false,
+    "openIssuesCount": 92,
+    "openIssues": 92,
+    "watchers": 2964,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "yakyak",
       "id": 12713673,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12713673?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12713673?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/yakyak",
       "htmlUrl": "https://github.com/yakyak",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/yakyak/yakyak/downloads",
     "deploymentsUrl": "https://api.github.com/repos/yakyak/yakyak/deployments",
     "createdAt": "2015-06-02T12:08:31.000Z",
-    "updatedAt": "2017-05-04T12:42:19.000Z",
-    "pushedAt": "2017-04-21T13:42:49.000Z",
+    "updatedAt": "2017-10-23T19:19:06.000Z",
+    "pushedAt": "2017-10-17T13:07:15.000Z",
     "gitUrl": "git://github.com/yakyak/yakyak.git",
     "sshUrl": "git@github.com:yakyak/yakyak.git",
     "cloneUrl": "https://github.com/yakyak/yakyak.git",
     "svnUrl": "https://github.com/yakyak/yakyak",
     "homepage": "",
-    "size": 12694,
-    "stargazersCount": 2685,
-    "watchersCount": 2685,
+    "size": 10116,
+    "stargazersCount": 2964,
+    "watchersCount": 2964,
     "language": "CoffeeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 209,
+    "forksCount": 245,
     "mirrorUrl": null,
-    "openIssuesCount": 161,
-    "openIssues": 161,
-    "watchers": 2685,
+    "archived": false,
+    "openIssuesCount": 92,
+    "openIssues": 92,
+    "watchers": 2964,
     "defaultBranch": "master"
   },
-  "networkCount": 209,
+  "networkCount": 245,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -176,10 +178,7 @@
       "test": "mocha",
       "deploy": "bash ./deploy.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yakyak/yakyak"
-    },
+    "repository": "https://github.com/yakyak/yakyak",
     "keywords": [
       "hangouts",
       "chat",
@@ -187,9 +186,6 @@
     ],
     "author": "Martin Algesten",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/yakyak/yakyak/issues"
-    },
     "homepage": "https://github.com/yakyak/yakyak",
     "dependencies": {
       "autosize": "^3.0.8",
@@ -221,6 +217,11 @@
       "rimraf": "^2.4.2",
       "sinon": "^1.15.4",
       "sinon-chai": "^2.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/yakyak/yakyak/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -269,6 +270,7 @@
   "filename": "shaunstanislaus___yakyak.json",
   "sourceRepo": "yakyak/yakyak",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:46.541Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:46.822Z"
+  "lastFetchedAt": "2017-10-23T22:28:04.842Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:46.822Z",
+  "archived": false
 }

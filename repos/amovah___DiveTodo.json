@@ -5,7 +5,7 @@
   "owner": {
     "login": "amovah",
     "id": 6108180,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6108180?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6108180?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/amovah",
     "htmlUrl": "https://github.com/amovah",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "divetodo",
@@ -84,19 +84,10 @@
       "build-linux": "./node_modules/electron-packager/cli.js . --platform=linux --arch=x64 --prune",
       "build-windows": "echo \"I hate windows, I love Linux. Use Linux instead.\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amovah/divetodo.git"
-    },
+    "repository": "https://github.com/amovah/divetodo",
     "author": "Ali Movahedi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/amovah/divetodo/issues"
-    },
     "homepage": "https://github.com/amovah/divetodo#readme",
-    "directories": {
-      "lib": "src"
-    },
     "engines": {
       "node": ">=0.12.0"
     },
@@ -124,6 +115,14 @@
       "gulp-eslint": "^2.0.0",
       "gulp-less": "^3.0.5",
       "gulp-rimraf": "^0.2.0"
+    },
+    "other": {
+      "directories": {
+        "lib": "src"
+      },
+      "bugs": {
+        "url": "https://github.com/amovah/divetodo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "amovah___DiveTodo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:14.910Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:01.207Z"
+  "lastFetchedAt": "2017-10-23T22:06:09.283Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:01.207Z",
+  "archived": false
 }

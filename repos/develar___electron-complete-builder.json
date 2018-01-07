@@ -5,7 +5,7 @@
   "owner": {
     "login": "develar",
     "id": 350686,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/350686?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/350686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/develar",
     "htmlUrl": "https://github.com/develar",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/develar/electron-complete-builder/downloads",
   "deploymentsUrl": "https://api.github.com/repos/develar/electron-complete-builder/deployments",
   "createdAt": "2015-12-28T14:52:46.000Z",
-  "updatedAt": "2017-01-22T03:29:32.000Z",
+  "updatedAt": "2017-09-08T17:09:09.000Z",
   "pushedAt": "2016-03-03T18:04:28.000Z",
   "gitUrl": "git://github.com/develar/electron-complete-builder.git",
   "sshUrl": "git@github.com:develar/electron-complete-builder.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/develar/electron-complete-builder",
   "homepage": "",
   "size": 104906,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 4,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 12,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 4,
-  "subscribersCount": 1,
+  "networkCount": 2,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-complete-builder",
@@ -117,11 +117,7 @@
       "tslint": "^3.3.0",
       "typescript": "^1.8.0-beta"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/develar/electron-complete-builder.git"
-    },
-    "bugs": "https://github.com/develar/electron-complete-builder/issues",
+    "repository": "https://github.com/develar/electron-complete-builder",
     "engines": {
       "node": ">=0.4.0"
     },
@@ -152,7 +148,10 @@
       "OS X",
       "Mac",
       "sign"
-    ]
+    ],
+    "other": {
+      "bugs": "https://github.com/develar/electron-complete-builder/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -179,6 +178,7 @@
   },
   "filename": "develar___electron-complete-builder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:18.265Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:26.698Z"
+  "lastFetchedAt": "2017-10-24T00:16:02.214Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:26.698Z",
+  "archived": false
 }

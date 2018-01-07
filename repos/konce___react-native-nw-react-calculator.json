@@ -185,17 +185,14 @@
   },
   "networkCount": 417,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ReactNativeNWReactCalculator",
     "version": "1.0.0",
     "description": "A mobile, desktop and website App with the same code",
     "author": "Benoit VALLON <benoitvallon@gmail.com> (http://github.com/benoitvallon)",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/benoitvallon/react-native-nw-react-calculator"
-    },
+    "repository": "https://github.com/benoitvallon/react-native-nw-react-calculator",
     "homepage": "https://github.com/benoitvallon/react-native-nw-react-calculator",
     "keywords": [
       "react",
@@ -305,7 +302,8 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.12.14",
       "webpack-dev-server": "^1.14.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -332,6 +330,6 @@
   },
   "sourceRepo": "benoitvallon/react-native-nw-react-calculator",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:23.489Z",
+  "lastFetchedAt": "2017-10-23T23:05:59.328Z",
   "packageLastFetchedAt": "2017-05-05T17:35:07.934Z"
 }

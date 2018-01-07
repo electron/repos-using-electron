@@ -186,8 +186,8 @@
   },
   "networkCount": 2,
   "subscribersCount": 0,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T17:58:27.051Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:09:12.327Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -255,26 +255,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ivtpz/brancher.git"
-    },
+    "repository": "https://github.com/ivtpz/brancher",
     "author": {
       "name": "Ivey Topaz",
       "email": "iveytopaz@gmail.com",
       "url": "https://github.com/ivtpz"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ivtpz/brancher/issues"
-    },
     "keywords": [
       "electron",
       "react",
@@ -380,6 +370,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/ivtpz/brancher/issues"
+      }
     }
   },
   "packageStatus": 200,

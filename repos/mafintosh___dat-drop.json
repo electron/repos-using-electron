@@ -5,7 +5,7 @@
   "owner": {
     "login": "mafintosh",
     "id": 376661,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/376661?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/376661?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mafintosh",
     "htmlUrl": "https://github.com/mafintosh",
@@ -20,7 +20,7 @@
   "description": "Simplest tool to share files with friends",
   "fork": false,
   "createdAt": "2016-08-03T12:14:02.000Z",
-  "updatedAt": "2017-02-21T17:30:09.000Z",
+  "updatedAt": "2017-09-21T21:23:46.000Z",
   "pushedAt": "2016-08-05T13:59:24.000Z",
   "homepage": null,
   "size": 2318,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 18,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -68,16 +68,15 @@
       "rebuild": "npm rebuild --runtime=electron --target=1.1.3 --disturl=https://atom.io/download/atom-shell --abi=48",
       "package": "electron-packager . --platform=darwin --arch=x64 --out=dist/ --extend-info extend.plist --app-bundle-id=com.drop.dat"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mafintosh/dat-drop.git"
-    },
+    "repository": "https://github.com/mafintosh/dat-drop",
     "author": "Mathias Buus (@mafintosh)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mafintosh/dat-drop/issues"
-    },
-    "homepage": "https://github.com/mafintosh/dat-drop"
+    "homepage": "https://github.com/mafintosh/dat-drop",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mafintosh/dat-drop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mafintosh/dat-drop",
@@ -124,6 +123,7 @@
   },
   "filename": "mafintosh___dat-drop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:22:59.842Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:34.640Z"
+  "lastFetchedAt": "2017-10-23T22:13:28.278Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:34.640Z",
+  "archived": false
 }

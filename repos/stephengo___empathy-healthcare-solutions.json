@@ -5,7 +5,7 @@
   "owner": {
     "login": "stephengo",
     "id": 10548393,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10548393?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10548393?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stephengo",
     "htmlUrl": "https://github.com/stephengo",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -69,7 +69,7 @@
     "owner": {
       "login": "kesensoy",
       "id": 10524432,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10524432?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10524432?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/kesensoy",
       "htmlUrl": "https://github.com/kesensoy",
@@ -115,8 +115,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 1,
@@ -129,7 +130,7 @@
     "owner": {
       "login": "kesensoy",
       "id": 10524432,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10524432?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/10524432?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/kesensoy",
       "htmlUrl": "https://github.com/kesensoy",
@@ -175,14 +176,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 2,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 1,
     "defaultBranch": "master"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -190,10 +192,6 @@
     "version": "0.0.1",
     "description": "EmpathyEMR",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -278,6 +276,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -306,6 +310,7 @@
   "filename": "stephengo___empathy-healthcare-solutions.json",
   "sourceRepo": "kesensoy/EMRproject",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:15:48.961Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:12.027Z"
+  "lastFetchedAt": "2017-10-24T00:05:19.804Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:12.027Z",
+  "archived": false
 }

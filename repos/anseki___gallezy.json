@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gallezy",
     "productName": "Gallezy",
@@ -89,15 +89,14 @@
       "rimraf": "^2.5.2"
     },
     "homepage": "https://anseki.github.io/gallezy/",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/anseki/gallezy.git"
-    },
-    "bugs": "https://github.com/anseki/gallezy/issues",
+    "repository": "https://github.com/anseki/gallezy",
     "license": "MIT",
     "author": {
       "name": "anseki",
       "url": "https://github.com/anseki"
+    },
+    "other": {
+      "bugs": "https://github.com/anseki/gallezy/issues"
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,6 @@
   "svnUrl": "https://github.com/anseki/gallezy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:29:50.490Z",
+  "lastFetchedAt": "2017-10-23T23:08:35.088Z",
   "packageLastFetchedAt": "2017-05-05T17:21:32.038Z"
 }

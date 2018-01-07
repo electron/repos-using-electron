@@ -6,7 +6,7 @@
   "owner": {
     "login": "ajaysharavat",
     "id": 6229404,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6229404?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6229404?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ajaysharavat",
     "htmlUrl": "https://github.com/ajaysharavat",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "mrvautin",
       "id": 299398,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/299398?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/299398?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mrvautin",
       "htmlUrl": "https://github.com/mrvautin",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/mrvautin/adminMongo/downloads",
     "deploymentsUrl": "https://api.github.com/repos/mrvautin/adminMongo/deployments",
     "createdAt": "2016-01-16T07:09:15.000Z",
-    "updatedAt": "2017-05-04T16:33:51.000Z",
-    "pushedAt": "2017-05-02T05:07:52.000Z",
+    "updatedAt": "2017-10-23T14:11:31.000Z",
+    "pushedAt": "2017-10-02T18:57:29.000Z",
     "gitUrl": "git://github.com/mrvautin/adminMongo.git",
     "sshUrl": "git@github.com:mrvautin/adminMongo.git",
     "cloneUrl": "https://github.com/mrvautin/adminMongo.git",
     "svnUrl": "https://github.com/mrvautin/adminMongo",
-    "homepage": "http://adminmongo.com",
-    "size": 2740,
-    "stargazersCount": 819,
-    "watchersCount": 819,
+    "homepage": "https://adminmongo.markmoffat.com",
+    "size": 2751,
+    "stargazersCount": 1049,
+    "watchersCount": 1049,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 218,
+    "forksCount": 269,
     "mirrorUrl": null,
-    "openIssuesCount": 11,
-    "openIssues": 11,
-    "watchers": 819,
+    "archived": false,
+    "openIssuesCount": 15,
+    "openIssues": 15,
+    "watchers": 1049,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "mrvautin",
       "id": 299398,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/299398?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/299398?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mrvautin",
       "htmlUrl": "https://github.com/mrvautin",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/mrvautin/adminMongo/downloads",
     "deploymentsUrl": "https://api.github.com/repos/mrvautin/adminMongo/deployments",
     "createdAt": "2016-01-16T07:09:15.000Z",
-    "updatedAt": "2017-05-04T16:33:51.000Z",
-    "pushedAt": "2017-05-02T05:07:52.000Z",
+    "updatedAt": "2017-10-23T14:11:31.000Z",
+    "pushedAt": "2017-10-02T18:57:29.000Z",
     "gitUrl": "git://github.com/mrvautin/adminMongo.git",
     "sshUrl": "git@github.com:mrvautin/adminMongo.git",
     "cloneUrl": "https://github.com/mrvautin/adminMongo.git",
     "svnUrl": "https://github.com/mrvautin/adminMongo",
-    "homepage": "http://adminmongo.com",
-    "size": 2740,
-    "stargazersCount": 819,
-    "watchersCount": 819,
+    "homepage": "https://adminmongo.markmoffat.com",
+    "size": 2751,
+    "stargazersCount": 1049,
+    "watchersCount": 1049,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 218,
+    "forksCount": 269,
     "mirrorUrl": null,
-    "openIssuesCount": 11,
-    "openIssues": 11,
-    "watchers": 819,
+    "archived": false,
+    "openIssuesCount": 15,
+    "openIssues": 15,
+    "watchers": 1049,
     "defaultBranch": "master"
   },
-  "networkCount": 218,
+  "networkCount": 269,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -192,14 +194,8 @@
     "description": "A Web user interface to administer MongoDB databases built using Express",
     "author": "Mark Moffat <mrvautin@gmail.com>",
     "private": false,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mrvautin/adminmongo"
-    },
+    "repository": "https://github.com/mrvautin/adminmongo",
     "main": "electron.js",
-    "bugs": {
-      "url": "https://github.com/mrvautin/adminmongo/issues"
-    },
     "scripts": {
       "start": "node app.js",
       "postinstall": "node ./lib/npm_postinstall.js",
@@ -274,6 +270,11 @@
       "mocha": "^2.5.3",
       "mocha-jsdom": "^1.1.0",
       "supertest": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mrvautin/adminmongo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -301,6 +302,7 @@
   },
   "sourceRepo": "mrvautin/adminMongo",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:00.414Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:55.436Z"
+  "lastFetchedAt": "2017-10-23T21:47:51.478Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:55.436Z",
+  "archived": false
 }

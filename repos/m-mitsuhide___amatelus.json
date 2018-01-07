@@ -5,7 +5,7 @@
   "owner": {
     "login": "m-mitsuhide",
     "id": 9402912,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9402912?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9402912?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/m-mitsuhide",
     "htmlUrl": "https://github.com/m-mitsuhide",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "archiver": "^0.21.0",
@@ -121,6 +115,11 @@
       "react-tap-event-plugin": "^0.2.1",
       "redux": "^3.0.5",
       "superagent": "^1.6.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "filename": "m-mitsuhide___amatelus.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:56.361Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:49.939Z"
+  "lastFetchedAt": "2017-10-23T22:11:51.302Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:49.939Z",
+  "archived": false
 }

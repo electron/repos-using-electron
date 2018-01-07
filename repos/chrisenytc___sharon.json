@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sharon",
     "description": "A personal assistant to manage your github account",
@@ -60,13 +60,7 @@
       "name": "Christopher EnyTC",
       "email": "chrisenytc@gmail.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/chrisenytc/sharon.git"
-    },
-    "bugs": {
-      "url": "https://github.com/chrisenytc/sharon/issues"
-    },
+    "repository": "https://github.com/chrisenytc/sharon",
     "licenses": [
       {
         "type": "MIT",
@@ -99,7 +93,12 @@
       "github",
       "personal",
       "assistant"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chrisenytc/sharon/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/chrisenytc/sharon",
@@ -146,6 +145,6 @@
   },
   "filename": "chrisenytc___sharon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:06:17.003Z",
+  "lastFetchedAt": "2017-10-23T23:03:34.580Z",
   "packageLastFetchedAt": "2017-05-04T22:05:48.610Z"
 }

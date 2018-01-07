@@ -164,7 +164,7 @@
   },
   "networkCount": 1038,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cesium",
     "version": "1.23.0",
@@ -186,14 +186,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -263,6 +256,12 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -311,6 +310,6 @@
   "filename": "dailiwei___cesium.json",
   "sourceRepo": "AnalyticalGraphicsInc/cesium",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:00.797Z",
+  "lastFetchedAt": "2017-10-23T23:03:33.593Z",
   "packageLastFetchedAt": "2017-05-05T15:29:56.512Z"
 }

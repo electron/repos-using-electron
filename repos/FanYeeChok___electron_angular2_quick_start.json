@@ -5,7 +5,7 @@
   "owner": {
     "login": "FanYeeChok",
     "id": 7939010,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7939010?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7939010?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FanYeeChok",
     "htmlUrl": "https://github.com/FanYeeChok",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/FanYeeChok/electron_angular2_quick_start/downloads",
   "deploymentsUrl": "https://api.github.com/repos/FanYeeChok/electron_angular2_quick_start/deployments",
   "createdAt": "2016-09-26T01:26:20.000Z",
-  "updatedAt": "2016-09-26T02:01:41.000Z",
+  "updatedAt": "2017-05-21T01:52:25.000Z",
   "pushedAt": "2016-09-26T01:59:30.000Z",
   "gitUrl": "git://github.com/FanYeeChok/electron_angular2_quick_start.git",
   "sshUrl": "git@github.com:FanYeeChok/electron_angular2_quick_start.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/FanYeeChok/electron_angular2_quick_start",
   "homepage": "",
   "size": 783,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 1,
+  "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -82,10 +82,7 @@
       "test": "karma start",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -94,9 +91,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "dependencies": {
       "@angular/common": "2.0.0",
@@ -141,6 +135,11 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1",
       "webpack-merge": "^0.14.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   },
   "filename": "FanYeeChok___electron_angular2_quick_start.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:54:41.389Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:52.391Z"
+  "lastFetchedAt": "2017-10-23T21:43:34.768Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:52.391Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "gordonbisnor",
     "id": 16955,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16955?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16955?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gordonbisnor",
     "htmlUrl": "https://github.com/gordonbisnor",
@@ -76,10 +76,6 @@
     "version": "0.0.0",
     "description": "Small description for ckdu-desktop goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -163,6 +159,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +192,7 @@
   },
   "filename": "gordonbisnor___ckdu-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:26:06.171Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:19.399Z"
+  "lastFetchedAt": "2017-10-23T22:14:09.788Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:19.399Z",
+  "archived": false
 }

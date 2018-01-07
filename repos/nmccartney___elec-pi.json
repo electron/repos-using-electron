@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "elec-pi",
     "version": "0.0.1",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nmccartney/elec-pi"
-    },
+    "repository": "https://github.com/nmccartney/elec-pi",
     "keywords": [
       "Electron",
       "quick",
@@ -71,9 +68,6 @@
     ],
     "author": "Nathan McCartney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nmccartney/elec-pi/issues"
-    },
     "homepage": "https://github.com/nmccartney/elec-pi",
     "devDependencies": {
       "electron-connect": "^0.5.0",
@@ -90,6 +84,11 @@
       "angular-ui-router": "^0.3.1",
       "bootstrap-sass": "^3.3.7",
       "jquery": "^3.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nmccartney/elec-pi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,6 @@
   "svnUrl": "https://github.com/nmccartney/elec-pi",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:16:31.871Z",
+  "lastFetchedAt": "2017-10-23T22:58:04.818Z",
   "packageLastFetchedAt": "2017-05-05T15:02:17.105Z"
 }

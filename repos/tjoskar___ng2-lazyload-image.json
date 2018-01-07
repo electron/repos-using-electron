@@ -5,7 +5,7 @@
   "owner": {
     "login": "tjoskar",
     "id": 1525612,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1525612?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1525612?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tjoskar",
     "htmlUrl": "https://github.com/tjoskar",
@@ -20,21 +20,21 @@
   "description": "Lazy image loader for Angular ≥ v2",
   "fork": false,
   "createdAt": "2016-02-20T09:30:48.000Z",
-  "updatedAt": "2017-05-04T11:54:57.000Z",
-  "pushedAt": "2017-05-04T10:54:13.000Z",
-  "homepage": "http://tjoskar.github.io/ng-lazyload-image/",
-  "size": 6173,
-  "stargazersCount": 105,
-  "watchersCount": 105,
+  "updatedAt": "2017-10-22T12:37:16.000Z",
+  "pushedAt": "2017-10-18T15:52:26.000Z",
+  "homepage": "https://tjoskar.github.io/ng-lazyload-image/",
+  "size": 6313,
+  "stargazersCount": 238,
+  "watchersCount": 238,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
-  "hasWiki": true,
+  "hasWiki": false,
   "hasPages": true,
-  "forksCount": 36,
-  "openIssuesCount": 14,
-  "openIssues": 14,
-  "watchers": 105,
+  "forksCount": 59,
+  "openIssuesCount": 23,
+  "openIssues": 23,
+  "watchers": 238,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 36,
-  "subscribersCount": 6,
+  "networkCount": 59,
+  "subscribersCount": 14,
   "status": 200,
   "packageJSON": {
     "name": "ng-lazyload-image",
@@ -69,10 +69,7 @@
       "webdriver:start": "webdriver-manager start",
       "e2e:debug": "protractor --elementExplorer"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tjoskar/ng-lazyload-image.git"
-    },
+    "repository": "https://github.com/tjoskar/ng-lazyload-image",
     "keywords": [
       "lazy-load",
       "lazy-image",
@@ -80,9 +77,6 @@
     ],
     "author": "Oskar Karlsson <kontakta@oskarkarlsson.nu>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tjoskar/ng-lazyload-image/issues"
-    },
     "homepage": "https://github.com/tjoskar/ng-lazyload-image#readme",
     "peerDependencies": {
       "@angular/core": ">=2.0.0",
@@ -125,6 +119,11 @@
       "webpack": "^2.3.2",
       "webpack-dev-server": "^2.4.2",
       "zone.js": "^0.8.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tjoskar/ng-lazyload-image/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -171,7 +170,8 @@
     }
   },
   "filename": "tjoskar___ng2-lazyload-image.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:26.744Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:42.822Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T23:36:14.227Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:42.822Z",
+  "archived": false
 }

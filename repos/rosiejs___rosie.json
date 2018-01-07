@@ -5,7 +5,7 @@
   "owner": {
     "login": "rosiejs",
     "id": 13803744,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13803744?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13803744?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rosiejs",
     "htmlUrl": "https://github.com/rosiejs",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/rosiejs/rosie/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rosiejs/rosie/deployments",
   "createdAt": "2011-04-15T16:08:10.000Z",
-  "updatedAt": "2017-05-04T11:45:28.000Z",
+  "updatedAt": "2017-10-23T18:08:21.000Z",
   "pushedAt": "2016-08-30T03:57:15.000Z",
   "gitUrl": "git://github.com/rosiejs/rosie.git",
   "sshUrl": "git@github.com:rosiejs/rosie.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/rosiejs/rosie",
   "homepage": "",
   "size": 188,
-  "stargazersCount": 574,
-  "watchersCount": 574,
+  "stargazersCount": 630,
+  "watchersCount": 630,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 62,
+  "forksCount": 64,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 574,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 630,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "rosiejs",
     "id": 13803744,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13803744?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13803744?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rosiejs",
     "htmlUrl": "https://github.com/rosiejs",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/rosiejs/received_events",
     "type": "Organization"
   },
-  "networkCount": 62,
+  "networkCount": 64,
   "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
@@ -110,10 +110,7 @@
     "engines": {
       "node": "*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/bkeepers/rosie.git"
-    },
+    "repository": "https://github.com/bkeepers/rosie",
     "main": "src/rosie.js",
     "scripts": {
       "pretest": "eslint src spec",
@@ -123,7 +120,8 @@
     "files": [
       "src/rosie.js"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -150,6 +148,7 @@
   },
   "filename": "rosiejs___rosie.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:05.981Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:27.392Z"
+  "lastFetchedAt": "2017-10-23T23:46:17.404Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:27.392Z",
+  "archived": false
 }

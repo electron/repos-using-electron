@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sounci",
     "version": "1.4.0",
@@ -81,10 +81,7 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jbkuczma/sounci.git"
-    },
+    "repository": "https://github.com/jbkuczma/sounci",
     "keywords": [
       "electron",
       "soundcloud",
@@ -108,10 +105,12 @@
       "smalltalk": "^1.6.8",
       "soundmanager2": "^2.97.20150601-a"
     },
-    "bugs": {
-      "url": "https://github.com/jbkuczma/sounci/issues"
-    },
-    "homepage": "https://github.com/jbkuczma/sounci#readme"
+    "homepage": "https://github.com/jbkuczma/sounci#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jbkuczma/sounci/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +137,6 @@
   },
   "filename": "jbkuczma___sounci.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:25.157Z",
+  "lastFetchedAt": "2017-10-23T22:59:12.661Z",
   "packageLastFetchedAt": "2017-05-04T22:31:13.293Z"
 }

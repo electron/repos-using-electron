@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -73,17 +73,11 @@
   "status": 200,
   "packageJSON": {
     "name": "electron-authentication-hatena",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/azu/electron-authentication-hatena.git"
-    },
+    "repository": "https://github.com/azu/electron-authentication-hatena",
     "author": "azu",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/electron-authentication-hatena",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/electron-authentication-hatena/issues"
-    },
     "version": "2.0.1",
     "description": "Hatena OAuth Window library.",
     "main": "lib/AuthenticationHatena.js",
@@ -91,9 +85,6 @@
       "lib",
       "src"
     ],
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "build": "babel src --out-dir lib --source-maps",
       "watch": "babel src --out-dir lib --watch --source-maps",
@@ -111,6 +102,14 @@
     },
     "dependencies": {
       "oauth": "^0.9.14"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/azu/electron-authentication-hatena/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "azu___electron-authentication-hatena.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:07.858Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:47.568Z"
+  "lastFetchedAt": "2017-10-23T21:46:13.558Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:47.568Z",
+  "archived": false
 }

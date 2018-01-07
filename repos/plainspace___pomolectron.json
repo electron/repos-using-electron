@@ -6,7 +6,7 @@
   "owner": {
     "login": "plainspace",
     "id": 24152,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/24152?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/24152?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plainspace",
     "htmlUrl": "https://github.com/plainspace",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "amitmerchant1990",
       "id": 3647841,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3647841?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3647841?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/amitmerchant1990",
       "htmlUrl": "https://github.com/amitmerchant1990",
@@ -101,27 +101,28 @@
     "downloadsUrl": "https://api.github.com/repos/amitmerchant1990/pomolectron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/amitmerchant1990/pomolectron/deployments",
     "createdAt": "2017-03-14T19:19:58.000Z",
-    "updatedAt": "2017-05-04T09:05:39.000Z",
-    "pushedAt": "2017-04-25T18:08:56.000Z",
+    "updatedAt": "2017-10-23T21:11:09.000Z",
+    "pushedAt": "2017-10-23T13:45:14.000Z",
     "gitUrl": "git://github.com/amitmerchant1990/pomolectron.git",
     "sshUrl": "git@github.com:amitmerchant1990/pomolectron.git",
     "cloneUrl": "https://github.com/amitmerchant1990/pomolectron.git",
     "svnUrl": "https://github.com/amitmerchant1990/pomolectron",
     "homepage": "",
-    "size": 2558,
-    "stargazersCount": 196,
-    "watchersCount": 196,
+    "size": 2562,
+    "stargazersCount": 295,
+    "watchersCount": 295,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 11,
+    "forksCount": 27,
     "mirrorUrl": null,
-    "openIssuesCount": 4,
-    "openIssues": 4,
-    "watchers": 196,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 295,
     "defaultBranch": "master"
   },
   "source": {
@@ -131,7 +132,7 @@
     "owner": {
       "login": "amitmerchant1990",
       "id": 3647841,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3647841?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3647841?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/amitmerchant1990",
       "htmlUrl": "https://github.com/amitmerchant1990",
@@ -161,33 +162,34 @@
     "downloadsUrl": "https://api.github.com/repos/amitmerchant1990/pomolectron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/amitmerchant1990/pomolectron/deployments",
     "createdAt": "2017-03-14T19:19:58.000Z",
-    "updatedAt": "2017-05-04T09:05:39.000Z",
-    "pushedAt": "2017-04-25T18:08:56.000Z",
+    "updatedAt": "2017-10-23T21:11:09.000Z",
+    "pushedAt": "2017-10-23T13:45:14.000Z",
     "gitUrl": "git://github.com/amitmerchant1990/pomolectron.git",
     "sshUrl": "git@github.com:amitmerchant1990/pomolectron.git",
     "cloneUrl": "https://github.com/amitmerchant1990/pomolectron.git",
     "svnUrl": "https://github.com/amitmerchant1990/pomolectron",
     "homepage": "",
-    "size": 2558,
-    "stargazersCount": 196,
-    "watchersCount": 196,
+    "size": 2562,
+    "stargazersCount": 295,
+    "watchersCount": 295,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 11,
+    "forksCount": 27,
     "mirrorUrl": null,
-    "openIssuesCount": 4,
-    "openIssues": 4,
-    "watchers": 196,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 295,
     "defaultBranch": "master"
   },
-  "networkCount": 11,
+  "networkCount": 27,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:43:27.318Z",
+  "lastFetchedAt": "2017-10-24T00:13:54.803Z",
   "packageJSON": {
     "name": "pomolectron",
     "version": "1.0.0",
@@ -197,11 +199,7 @@
     "scripts": {
       "start": "electron index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amitmerchant1990/pomolectron",
-      "docs": "https://github.com/amitmerchant1990/pomolectron/blob/master/README.md"
-    },
+    "repository": "https://github.com/amitmerchant1990/pomolectron",
     "keywords": [
       "electron",
       "pomodoro",
@@ -215,14 +213,7 @@
     ],
     "author": "Amit Merchant <bullredeyes@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/amitmerchant1990/pomolectron/issues"
-    },
     "homepage": "https://github.com/amitmerchant1990/pomolectron#readme",
-    "_npmUser": {
-      "name": "amit_merchant",
-      "email": "bullredeyes@gmail.com"
-    },
     "devDependencies": {
       "devtron": "^1.1.2",
       "electron-packager": "^7.0.3",
@@ -231,8 +222,22 @@
     },
     "dependencies": {
       "menubar": "latest"
+    },
+    "lastPublisher": {
+      "name": "amit_merchant",
+      "email": "bullredeyes@gmail.com"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/amitmerchant1990/pomolectron/issues"
+      },
+      "_npmUser": {
+        "name": "amit_merchant",
+        "email": "bullredeyes@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:14:04.995Z"
+  "packageLastFetchedAt": "2017-05-05T15:14:04.995Z",
+  "archived": false
 }

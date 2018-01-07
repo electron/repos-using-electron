@@ -5,7 +5,7 @@
   "owner": {
     "login": "ovrmrw",
     "id": 9123938,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9123938?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9123938?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ovrmrw",
     "htmlUrl": "https://github.com/ovrmrw",
@@ -85,16 +85,10 @@
       "express": "concurrently \"node src-server/express.js\" \"gulp browsersync\" ",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ovrmrw/angular2sample1.git"
-    },
+    "repository": "https://github.com/ovrmrw/angular2sample1",
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ovrmrw/angular2sample1/issues"
-    },
     "homepage": "https://github.com/ovrmrw/angular2sample1#readme",
     "dependencies": {
       "@angular/common": "^2.0.0-rc.0",
@@ -128,6 +122,11 @@
       "gulp-typescript": "^2.13.0",
       "typescript": "^1.8.10",
       "typings": "^0.8.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ovrmrw/angular2sample1/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   },
   "filename": "ovrmrw___angular2sample1.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:05.070Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:19.266Z"
+  "lastFetchedAt": "2017-10-23T23:40:45.656Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:19.266Z",
+  "archived": false
 }

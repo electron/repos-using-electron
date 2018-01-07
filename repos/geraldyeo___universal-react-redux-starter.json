@@ -5,7 +5,7 @@
   "owner": {
     "login": "geraldyeo",
     "id": 73524,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/73524?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/73524?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/geraldyeo",
     "htmlUrl": "https://github.com/geraldyeo",
@@ -71,14 +71,7 @@
     "description": "Universal React Redux Starter",
     "author": "",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/geraldyeo/universal-react-redux-starter.git"
-    },
-    "bugs": {
-      "url": "https://github.com/geraldyeo/universal-react-redux-starter/issues",
-      "email": "gerald.yeo@gmail.com"
-    },
+    "repository": "https://github.com/geraldyeo/universal-react-redux-starter",
     "main": "bin/server.js",
     "scripts": {
       "start": "concurrent --kill-others \"npm run start-prod\" \"npm run start-prod-api\"",
@@ -235,6 +228,12 @@
       "socket.io-client": "^1.4.5",
       "superagent": "^1.7.2",
       "webpack-isomorphic-tools": "^2.2.26"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/geraldyeo/universal-react-redux-starter/issues",
+        "email": "gerald.yeo@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -262,6 +261,7 @@
   },
   "filename": "geraldyeo___universal-react-redux-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:44.262Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:15.478Z"
+  "lastFetchedAt": "2017-10-23T22:25:39.062Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:15.478Z",
+  "archived": false
 }

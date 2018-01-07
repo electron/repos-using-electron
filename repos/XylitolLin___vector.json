@@ -5,7 +5,7 @@
   "owner": {
     "login": "XylitolLin",
     "id": 9338822,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9338822?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9338822?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/XylitolLin",
     "htmlUrl": "https://github.com/XylitolLin",
@@ -83,15 +83,9 @@
       "start": "dora -p 8001 --plugins \"webpack?disableNpmInstall,hmr,proxy?livereload?enableJs=false&injectHost=127.0.0.1,browser-history?index=/src/entries/index.html\"",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/XylitolLin/vector.git"
-    },
+    "repository": "https://github.com/XylitolLin/vector",
     "author": "xylitol_lin",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/XylitolLin/vector/issues"
-    },
     "theme": {
       "primary-color": "#748FF5"
     },
@@ -114,6 +108,11 @@
       "react-dom": "^15.3.2",
       "react-redux": "^4.4.5",
       "redux": "^3.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/XylitolLin/vector/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "XylitolLin___vector.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:53.285Z",
-  "packageLastFetchedAt": "2017-05-04T22:51:07.303Z"
+  "lastFetchedAt": "2017-10-23T22:13:59.038Z",
+  "packageLastFetchedAt": "2017-05-04T22:51:07.303Z",
+  "archived": false
 }

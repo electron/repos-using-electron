@@ -5,7 +5,7 @@
   "owner": {
     "login": "NutsJs",
     "id": 22662317,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22662317?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22662317?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NutsJs",
     "htmlUrl": "https://github.com/NutsJs",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "NutsJs",
     "id": 22662317,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/22662317?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/22662317?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NutsJs",
     "htmlUrl": "https://github.com/NutsJs",
@@ -94,10 +94,7 @@
       "build:win64": "rm -rf dist && electron-packager ./ fdFlow --platform=win32 --arch=x64 --icon=./assets/img/fd.png --overwrite --out ./dist --version=1.4.5 --ignore=.github",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/F-happy/nuts-desktop.git"
-    },
+    "repository": "https://github.com/F-happy/nuts-desktop",
     "build": {
       "appId": "com.jonnyf.fdflow",
       "mac": {
@@ -146,7 +143,8 @@
       "node-fetch": "^1.6.3",
       "vue": "^2.1.6",
       "webpack-stream": "^3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -174,6 +172,7 @@
   "filename": "NutsJs___nuts-desktop.json",
   "sourceRepo": "F-happy/nuts-desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:31:16.664Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:25.379Z"
+  "lastFetchedAt": "2017-10-24T00:06:52.469Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:25.379Z",
+  "archived": false
 }

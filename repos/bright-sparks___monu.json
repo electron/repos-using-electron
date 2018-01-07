@@ -5,7 +5,7 @@
   "owner": {
     "login": "bright-sparks",
     "id": 5949451,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5949451?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5949451?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bright-sparks",
     "htmlUrl": "https://github.com/bright-sparks",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "bright-sparks",
     "id": 5949451,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5949451?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5949451?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bright-sparks",
     "htmlUrl": "https://github.com/bright-sparks",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "maxogden",
       "id": 39759,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/maxogden",
       "htmlUrl": "https://github.com/maxogden",
@@ -99,7 +99,7 @@
     "downloadsUrl": "https://api.github.com/repos/maxogden/monu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/maxogden/monu/deployments",
     "createdAt": "2015-03-20T20:35:45.000Z",
-    "updatedAt": "2017-05-02T08:23:30.000Z",
+    "updatedAt": "2017-10-20T03:52:04.000Z",
     "pushedAt": "2016-02-01T08:24:58.000Z",
     "gitUrl": "git://github.com/maxogden/monu.git",
     "sshUrl": "git@github.com:maxogden/monu.git",
@@ -107,19 +107,20 @@
     "svnUrl": "https://github.com/maxogden/monu",
     "homepage": "https://github.com/maxogden/monu/releases",
     "size": 470,
-    "stargazersCount": 1051,
-    "watchersCount": 1051,
+    "stargazersCount": 1073,
+    "watchersCount": 1073,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 66,
+    "forksCount": 70,
     "mirrorUrl": null,
-    "openIssuesCount": 15,
-    "openIssues": 15,
-    "watchers": 1051,
+    "archived": false,
+    "openIssuesCount": 16,
+    "openIssues": 16,
+    "watchers": 1073,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "maxogden",
       "id": 39759,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/maxogden",
       "htmlUrl": "https://github.com/maxogden",
@@ -159,7 +160,7 @@
     "downloadsUrl": "https://api.github.com/repos/maxogden/monu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/maxogden/monu/deployments",
     "createdAt": "2015-03-20T20:35:45.000Z",
-    "updatedAt": "2017-05-02T08:23:30.000Z",
+    "updatedAt": "2017-10-20T03:52:04.000Z",
     "pushedAt": "2016-02-01T08:24:58.000Z",
     "gitUrl": "git://github.com/maxogden/monu.git",
     "sshUrl": "git@github.com:maxogden/monu.git",
@@ -167,22 +168,23 @@
     "svnUrl": "https://github.com/maxogden/monu",
     "homepage": "https://github.com/maxogden/monu/releases",
     "size": 470,
-    "stargazersCount": 1051,
-    "watchersCount": 1051,
+    "stargazersCount": 1073,
+    "watchersCount": 1073,
     "language": "CSS",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 66,
+    "forksCount": 70,
     "mirrorUrl": null,
-    "openIssuesCount": 15,
-    "openIssues": 15,
-    "watchers": 1051,
+    "archived": false,
+    "openIssuesCount": 16,
+    "openIssues": 16,
+    "watchers": 1073,
     "defaultBranch": "master"
   },
-  "networkCount": 66,
+  "networkCount": 70,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -197,10 +199,7 @@
       "build": "electron-packager . Monu --platform=darwin --arch=x64 --version=0.30.1 --ignore='node_modules/electron-(packager|prebuild)'",
       "publish": "publish-release --template notes.md --assets Monu.zip"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/maxogden/monu"
-    },
+    "repository": "https://github.com/maxogden/monu",
     "author": "max ogden",
     "license": "BSD",
     "dependencies": {
@@ -224,7 +223,8 @@
       "ignore": [
         "Monu.app/**"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -272,6 +272,7 @@
   "svnUrl": "https://github.com/bright-sparks/monu",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:43:30.446Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:04.158Z"
+  "lastFetchedAt": "2017-10-24T00:05:50.304Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:04.158Z",
+  "archived": false
 }

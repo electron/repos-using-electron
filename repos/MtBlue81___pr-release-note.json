@@ -5,7 +5,7 @@
   "owner": {
     "login": "MtBlue81",
     "id": 233012,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/233012?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/233012?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MtBlue81",
     "htmlUrl": "https://github.com/MtBlue81",
@@ -73,18 +73,17 @@
       "start": "electron src",
       "pack:mac": "electron-packager src pr-release-note --platform=darwin --arch=x64 --version=1.4.5"
     },
-    "directories": {
-      "app": "src"
-    },
     "author": "MtBlue81",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:MtBlue81/pr-release-note.git"
-    },
+    "repository": "https://github.com/MtBlue81/pr-release-note",
     "devDependencies": {
       "electron": "1.4.5",
       "electron-packager": "8.2.0"
+    },
+    "other": {
+      "directories": {
+        "app": "src"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,7 @@
   },
   "filename": "MtBlue81___pr-release-note.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:31.205Z",
-  "packageLastFetchedAt": "2017-05-05T17:07:18.830Z"
+  "lastFetchedAt": "2017-10-23T23:42:40.165Z",
+  "packageLastFetchedAt": "2017-05-05T17:07:18.830Z",
+  "archived": false
 }

@@ -200,17 +200,13 @@
   },
   "networkCount": 15,
   "subscribersCount": 5,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:28:21.697Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:04:08.355Z",
   "packageJSON": {
     "name": "canvas-web",
     "version": "0.0.12",
     "description": "Small description for canvas-web goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "lint": "eslint app config tests",
@@ -319,6 +315,12 @@
         "OriginalFilename": null,
         "ProductName": null,
         "InternalName": null
+      }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
       }
     }
   },

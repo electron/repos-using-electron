@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "harry",
     "version": "2.2.0",
@@ -74,10 +74,7 @@
       "test": "standard && make test",
       "start": "node index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/segmentio/nightmare.git"
-    },
+    "repository": "https://github.com/segmentio/nightmare",
     "author": "bossbossk20",
     "keywords": [
       "nightmare",
@@ -110,7 +107,8 @@
       "express": "^4.13.3",
       "mocha-generators": "^1.2.0",
       "mocha": "^2.3.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,6 @@
   },
   "filename": "fen555___bookHarry.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:06.785Z",
+  "lastFetchedAt": "2017-10-23T23:02:18.352Z",
   "packageLastFetchedAt": "2017-05-05T17:32:56.505Z"
 }

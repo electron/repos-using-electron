@@ -6,7 +6,7 @@
   "owner": {
     "login": "DistributedObjectProtocol",
     "id": 11381387,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11381387?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11381387?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DistributedObjectProtocol",
     "htmlUrl": "https://github.com/DistributedObjectProtocol",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/DistributedObjectProtocol/dop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/DistributedObjectProtocol/dop/deployments",
   "createdAt": "2014-10-16T15:38:09.000Z",
-  "updatedAt": "2017-04-17T06:39:40.000Z",
-  "pushedAt": "2017-05-01T10:01:42.000Z",
+  "updatedAt": "2017-09-09T13:37:05.000Z",
+  "pushedAt": "2017-09-21T07:16:56.000Z",
   "gitUrl": "git://github.com/DistributedObjectProtocol/dop.git",
   "sshUrl": "git@github.com:DistributedObjectProtocol/dop.git",
   "cloneUrl": "https://github.com/DistributedObjectProtocol/dop.git",
   "svnUrl": "https://github.com/DistributedObjectProtocol/dop",
   "homepage": "https://distributedobjectprotocol.org",
-  "size": 1993,
-  "stargazersCount": 48,
-  "watchersCount": 48,
+  "size": 2177,
+  "stargazersCount": 53,
+  "watchersCount": 53,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -55,7 +55,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 48,
+  "watchers": 53,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "DistributedObjectProtocol",
     "id": 11381387,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11381387?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11381387?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DistributedObjectProtocol",
     "htmlUrl": "https://github.com/DistributedObjectProtocol",
@@ -94,10 +94,7 @@
     "unpkg": "./dist/browser.min.js",
     "license": "MIT",
     "url": "http://www.distributedobjectprotocol.org",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DistributedObjectProtocol/dop.git"
-    },
+    "repository": "https://github.com/DistributedObjectProtocol/dop",
     "author": "Josema Gonzalez (http://josema.es/)",
     "description": "Distributed Object Protocol.",
     "keywords": [
@@ -153,7 +150,8 @@
       "test-socketio": "tap test/protocol/**.js --test-arg=socketio",
       "test-sockjs": "tap test/protocol/**.js --test-arg=sockjs",
       "test-local": "tap test/protocol/**.js --test-arg=local"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -179,6 +177,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:27.392Z",
-  "packageLastFetchedAt": "2017-05-05T17:18:03.606Z"
+  "lastFetchedAt": "2017-10-24T00:05:54.980Z",
+  "packageLastFetchedAt": "2017-05-05T17:18:03.606Z",
+  "archived": false
 }

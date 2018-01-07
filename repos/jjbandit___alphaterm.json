@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "alphaterm",
     "version": "0.0.1",
@@ -82,7 +82,8 @@
     "scripts": {
       "start": "./node_modules/.bin/electron .",
       "postinstall": "./scripts/postinstall.sh"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +130,6 @@
   "svnUrl": "https://github.com/jjbandit/alphaterm",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:22:06.728Z",
+  "lastFetchedAt": "2017-10-23T23:04:03.572Z",
   "packageLastFetchedAt": "2017-05-04T22:58:08.789Z"
 }

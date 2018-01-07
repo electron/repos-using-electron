@@ -5,7 +5,7 @@
   "owner": {
     "login": "glamp",
     "id": 1409333,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1409333?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1409333?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/glamp",
     "htmlUrl": "https://github.com/glamp",
@@ -57,20 +57,19 @@
     "scripts": {
       "test": "echo tests are for suckers"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/glamp/electron-demo.git"
-    },
+    "repository": "https://github.com/glamp/electron-demo",
     "keywords": [
       "Electron",
       "Demo"
     ],
     "author": "Greg Lamp <lamp.greg@gmail.com>",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/glamp/electron-demo/issues"
-    },
-    "homepage": "https://github.com/glamp/electron-demo#readme"
+    "homepage": "https://github.com/glamp/electron-demo#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/glamp/electron-demo/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +116,7 @@
   "svnUrl": "https://github.com/glamp/electron-hello-world",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:33:52.737Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:54.755Z"
+  "lastFetchedAt": "2017-10-24T00:14:37.942Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:54.755Z",
+  "archived": false
 }

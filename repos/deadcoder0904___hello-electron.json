@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hello-electron",
     "version": "1.0.0",
@@ -80,7 +80,8 @@
     },
     "dependencies": {
       "electron": "^1.4.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -107,6 +108,6 @@
   },
   "filename": "deadcoder0904___hello-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:39:33.539Z",
+  "lastFetchedAt": "2017-10-23T22:59:06.587Z",
   "packageLastFetchedAt": "2017-05-05T17:44:30.727Z"
 }

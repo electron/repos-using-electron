@@ -5,7 +5,7 @@
   "owner": {
     "login": "firejune",
     "id": 68166,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/68166?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/68166?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/firejune",
     "htmlUrl": "https://github.com/firejune",
@@ -52,10 +52,7 @@
     "description": "React Study Example",
     "license": "MIT",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/firejune/react-study.git"
-    },
+    "repository": "https://github.com/firejune/react-study",
     "dependencies": {
       "jquery": "^2.2.0",
       "jquery-ui": "^1.10.5",
@@ -104,7 +101,8 @@
       "test": "eslint src && jest",
       "build": "eslint src && jest && webpack --config ./scripts/package.js --release",
       "server": "webpack-dev-server --config ./scripts/package.js --colors --inline --port 3000"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +149,7 @@
   "svnUrl": "https://github.com/firejune/react-study",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:32:22.517Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:04.676Z"
+  "lastFetchedAt": "2017-10-23T21:42:49.146Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:04.676Z",
+  "archived": false
 }

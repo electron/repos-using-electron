@@ -5,7 +5,7 @@
   "owner": {
     "login": "johnnash03",
     "id": 4971658,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4971658?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4971658?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/johnnash03",
     "htmlUrl": "https://github.com/johnnash03",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,15 +68,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "node-notifier": "^4.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "johnnash03___liveCricketNotification.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:14.330Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:47.848Z"
+  "lastFetchedAt": "2017-10-23T22:55:14.370Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:47.848Z",
+  "archived": false
 }

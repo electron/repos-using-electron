@@ -6,7 +6,7 @@
   "owner": {
     "login": "hmt1203",
     "id": 1265468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1265468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1265468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hmt1203",
     "htmlUrl": "https://github.com/hmt1203",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/hmt1203/doc88-download/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hmt1203/doc88-download/deployments",
   "createdAt": "2016-12-08T17:22:43.000Z",
-  "updatedAt": "2017-02-28T09:27:58.000Z",
+  "updatedAt": "2017-10-20T13:30:52.000Z",
   "pushedAt": "2016-12-14T02:48:46.000Z",
   "gitUrl": "git://github.com/hmt1203/doc88-download.git",
   "sshUrl": "git@github.com:hmt1203/doc88-download.git",
@@ -44,18 +44,18 @@
   "svnUrl": "https://github.com/hmt1203/doc88-download",
   "homepage": null,
   "size": 19670,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 1,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 2,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -73,10 +73,7 @@
     "homepage": "https://github.com/hmt1203/doc88-download",
     "main": "index.js",
     "author": "TunG",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hmt1203/doc88-download"
-    },
+    "repository": "https://github.com/hmt1203/doc88-download",
     "license": "MIT",
     "dependencies": {
       "async": "^2.1.4",
@@ -92,7 +89,8 @@
     },
     "bin": {
       "doc88-download": "./cli.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +116,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:40.944Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:33.814Z"
+  "lastFetchedAt": "2017-10-23T22:08:05.023Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:33.814Z",
+  "archived": false
 }

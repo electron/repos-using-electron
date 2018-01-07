@@ -5,7 +5,7 @@
   "owner": {
     "login": "jdholdren",
     "id": 1269210,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1269210?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1269210?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdholdren",
     "htmlUrl": "https://github.com/jdholdren",
@@ -87,16 +87,15 @@
       "watch": "./node_modules/.bin/webpack -d --watch",
       "webpack": "./node_modules/.bin/webpack -d"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jdholdren/reflected.git"
-    },
+    "repository": "https://github.com/jdholdren/reflected",
     "author": "James Holdren",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jdholdren/reflected/issues"
-    },
-    "homepage": "https://github.com/jdholdren/reflected#readme"
+    "homepage": "https://github.com/jdholdren/reflected#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jdholdren/reflected/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +122,7 @@
   },
   "filename": "jdholdren___reflected.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:35.330Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:38.554Z"
+  "lastFetchedAt": "2017-10-23T23:40:36.892Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:38.554Z",
+  "archived": false
 }

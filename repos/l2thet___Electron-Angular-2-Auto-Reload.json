@@ -5,7 +5,7 @@
   "owner": {
     "login": "l2thet",
     "id": 12286844,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12286844?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12286844?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/l2thet",
     "htmlUrl": "https://github.com/l2thet",
@@ -60,10 +60,7 @@
       "start": "electron main.js",
       "postinstall": "typings install && npm install -g ntypescript"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/l2thet/ElectronWithAngular2.git"
-    },
+    "repository": "https://github.com/l2thet/ElectronWithAngular2",
     "keywords": [
       "Electron",
       "Angular2",
@@ -72,9 +69,6 @@
     ],
     "author": "L2theT",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/l2thet/ElectronWithAngular2/issues"
-    },
     "homepage": "https://github.com/l2thet/ElectronWithAngular2#readme",
     "dependencies": {
       "angular2": "2.0.0-beta.17",
@@ -91,6 +85,11 @@
       "typescript": "1.8.10",
       "ntypescript": "1.201606230120.1",
       "typings": "0.7.12"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/l2thet/ElectronWithAngular2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   "svnUrl": "https://github.com/l2thet/Electron-Angular-2-Auto-Reload",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:36:28.340Z",
-  "packageLastFetchedAt": "2017-05-04T22:00:25.808Z"
+  "lastFetchedAt": "2017-10-23T22:25:18.269Z",
+  "packageLastFetchedAt": "2017-05-04T22:00:25.808Z",
+  "archived": false
 }

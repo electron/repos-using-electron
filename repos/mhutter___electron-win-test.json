@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "win-test",
     "productName": "Win Test",
@@ -76,7 +76,8 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.37.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -103,6 +104,6 @@
   },
   "filename": "mhutter___electron-win-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:29.402Z",
+  "lastFetchedAt": "2017-10-23T22:25:40.484Z",
   "packageLastFetchedAt": "2017-05-05T17:09:43.287Z"
 }

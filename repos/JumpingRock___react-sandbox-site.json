@@ -5,7 +5,7 @@
   "owner": {
     "login": "JumpingRock",
     "id": 6527675,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6527675?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6527675?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JumpingRock",
     "htmlUrl": "https://github.com/JumpingRock",
@@ -134,22 +134,12 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -258,6 +248,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -285,6 +284,7 @@
   },
   "filename": "JumpingRock___react-sandbox-site.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:07.149Z",
-  "packageLastFetchedAt": "2017-05-04T22:33:58.100Z"
+  "lastFetchedAt": "2017-10-23T23:45:49.916Z",
+  "packageLastFetchedAt": "2017-05-04T22:33:58.100Z",
+  "archived": false
 }

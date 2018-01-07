@@ -6,7 +6,7 @@
   "owner": {
     "login": "monterey-framework",
     "id": 20094769,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20094769?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20094769?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/monterey-framework",
     "htmlUrl": "https://github.com/monterey-framework",
@@ -72,7 +72,7 @@
   "organization": {
     "login": "monterey-framework",
     "id": 20094769,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20094769?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20094769?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/monterey-framework",
     "htmlUrl": "https://github.com/monterey-framework",
@@ -99,27 +99,18 @@
       "gui"
     ],
     "homepage": "",
-    "bugs": {
-      "url": "https://github.com/monterey-framework/prototyper/issues"
-    },
     "main": "app/index.js",
     "license": "CC0-1.0",
     "author": {
       "name": "aureliatools",
       "email": "info@aureliatools.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/monterey-framework/prototyper"
-    },
+    "repository": "https://github.com/monterey-framework/prototyper",
     "scripts": {
       "postinstall": "install-app-deps",
       "pack": "build --dir",
       "dist": "gulp clean-installer-dist && gulp build && build",
       "setup": "node utils -setup"
-    },
-    "directories": {
-      "app": "app"
     },
     "build": {
       "appId": "monterey",
@@ -189,6 +180,14 @@
       "typescript": "^2.0.0",
       "vinyl-paths": "^2.1.0",
       "yargs": "^6.3.0"
+    },
+    "other": {
+      "directories": {
+        "app": "app"
+      },
+      "bugs": {
+        "url": "https://github.com/monterey-framework/prototyper/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -215,6 +214,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:32:18.815Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:33.675Z"
+  "lastFetchedAt": "2017-10-23T22:12:36.818Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:33.675Z",
+  "archived": false
 }

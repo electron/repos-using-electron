@@ -178,7 +178,7 @@
   },
   "networkCount": 22,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electorrent",
     "productName": "Electorrent",
@@ -199,10 +199,7 @@
     "keywords": [
       "utorrent"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Tympanix/Electorrent.git"
-    },
+    "repository": "https://github.com/Tympanix/Electorrent",
     "author": "Mathias Mortensen",
     "devDependencies": {
       "electron-prebuilt": "^1.2.6",
@@ -222,7 +219,8 @@
     "build": {
       "appId": "dk.sparken.electorrent",
       "app-category-type": "public.app-category.utilities"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -270,6 +268,6 @@
   "svnUrl": "https://github.com/LogikIO/Electorrent",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T19:59:02.420Z",
+  "lastFetchedAt": "2017-10-23T22:56:34.843Z",
   "packageLastFetchedAt": "2017-05-05T17:31:39.264Z"
 }

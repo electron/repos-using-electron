@@ -5,7 +5,7 @@
   "owner": {
     "login": "mafzst",
     "id": 6941014,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6941014?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6941014?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mafzst",
     "htmlUrl": "https://github.com/mafzst",
@@ -65,13 +65,7 @@
       "live reload"
     ],
     "homepage": "http://projets.nicolas-perraut.fr/SPHR",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mafzst/SPHR"
-    },
-    "bugs": {
-      "url": "https://github.com/mafzst/SPHR/issues"
-    },
+    "repository": "https://github.com/mafzst/SPHR",
     "main": "main.js",
     "scripts": {
       "build": "npm run webpack && npm run inject-scripts-prod",
@@ -108,6 +102,11 @@
       "socket.io": "^1.4.6",
       "socket.io-client": "^1.4.6",
       "websocket": "^1.0.23"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mafzst/SPHR/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   },
   "filename": "mafzst___SPHR.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:07:57.126Z",
-  "packageLastFetchedAt": "2017-05-05T01:25:48.568Z"
+  "lastFetchedAt": "2017-10-23T22:53:22.631Z",
+  "packageLastFetchedAt": "2017-05-05T01:25:48.568Z",
+  "archived": false
 }

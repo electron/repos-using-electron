@@ -5,7 +5,7 @@
   "owner": {
     "login": "mkg20001",
     "id": 7735145,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7735145?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7735145?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mkg20001",
     "htmlUrl": "https://github.com/mkg20001",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/mkg20001/mc-launch/deployments",
   "createdAt": "2016-02-20T17:13:26.000Z",
   "updatedAt": "2016-11-03T09:51:39.000Z",
-  "pushedAt": "2016-11-03T11:25:37.000Z",
+  "pushedAt": "2017-09-26T12:33:01.000Z",
   "gitUrl": "git://github.com/mkg20001/mc-launch.git",
   "sshUrl": "git@github.com:mkg20001/mc-launch.git",
   "cloneUrl": "https://github.com/mkg20001/mc-launch.git",
   "svnUrl": "https://github.com/mkg20001/mc-launch",
   "homepage": null,
-  "size": 29,
+  "size": 28,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -74,10 +74,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mkg20001/mc-launch.git"
-    },
+    "repository": "https://github.com/mkg20001/mc-launch",
     "keywords": [
       "minecraft",
       "launcher"
@@ -109,9 +106,6 @@
       "run-sequence": "^1.2.2",
       "vulcanize": ">=1.14.8"
     },
-    "bugs": {
-      "url": "https://github.com/mkg20001/mc-launch/issues"
-    },
     "homepage": "https://github.com/mkg20001/mc-launch#readme",
     "dependencies": {
       "electron": "^1.4.5",
@@ -123,6 +117,11 @@
       "sha1": "^1.1.1",
       "unzip": "^0.1.11",
       "uuid": "^2.0.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mkg20001/mc-launch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   },
   "filename": "mkg20001___mc-launch.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:21.871Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:50.061Z"
+  "lastFetchedAt": "2017-10-24T00:16:10.952Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:50.061Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "kccrs",
     "id": 14968813,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14968813?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14968813?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kccrs",
     "htmlUrl": "https://github.com/kccrs",
@@ -78,15 +78,9 @@
       "start-sel": "selenium-standalone start",
       "integration": "wdio wdio.conf.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kccrs/recipes"
-    },
+    "repository": "https://github.com/kccrs/recipes",
     "author": "Casey Cross and MaryJane Valade",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kccrs/recipes/issues"
-    },
     "homepage": "https://github.com/kccrs/recipes#readme",
     "devDependencies": {
       "babel-core": "^6.20.0",
@@ -105,12 +99,17 @@
       "webpack": "^1.14.0",
       "webpack-dev-server": "^1.16.2"
     },
-    "directories": {
-      "test": "test"
-    },
     "dependencies": {
       "jquery": "^3.1.1",
       "jsdom": "^9.8.3"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/kccrs/recipes/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:23:51.326Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:14.566Z"
+  "lastFetchedAt": "2017-10-23T22:53:07.381Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:14.566Z",
+  "archived": false
 }

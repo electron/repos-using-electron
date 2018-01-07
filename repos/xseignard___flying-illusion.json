@@ -5,7 +5,7 @@
   "owner": {
     "login": "xseignard",
     "id": 515603,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/515603?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/515603?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xseignard",
     "htmlUrl": "https://github.com/xseignard",
@@ -65,15 +65,9 @@
       "pack:linux": "node tasks/buildPackage.es5.js",
       "pack:osx": "electron-builder electron/osx/flying-illusion-darwin-x64/flying-illusion.app --platform=osx --out=electron/osx --config=resources/config.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/xseignard/flying-illusion.git"
-    },
+    "repository": "https://github.com/xseignard/flying-illusion",
     "author": "Xavier Seignard <xavier.seignard@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/xseignard/flying-illusion/issues"
-    },
     "homepage": "https://github.com/xseignard/flying-illusion#readme",
     "devDependencies": {
       "babel-core": "^6.4.5",
@@ -135,6 +129,11 @@
       "commitizen": {
         "path": "./node_modules/cz-conventional-changelog"
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/xseignard/flying-illusion/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +181,7 @@
   "svnUrl": "https://github.com/xseignard/flying-illusion",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:20:21.398Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:19.398Z"
+  "lastFetchedAt": "2017-10-24T00:04:53.265Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:19.398Z",
+  "archived": false
 }

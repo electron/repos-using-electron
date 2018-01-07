@@ -86,8 +86,8 @@
   },
   "networkCount": 3,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:07:06.484Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-24T00:10:30.668Z",
   "packageJSON": {
     "name": "universal-app",
     "version": "0.1.0",
@@ -103,15 +103,9 @@
       "desktop:watch": "cd packages/universal-app-desktop && npm run hot-server",
       "mobile:watch": "cd packages/universal-app-mobile && npm run dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bkonkle/universal-application-demo.git"
-    },
+    "repository": "https://github.com/bkonkle/universal-application-demo",
     "author": "Brandon Konkle <brandon@ecliptic.io>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bkonkle/universal-application-demo/issues"
-    },
     "homepage": "https://github.com/bkonkle/universal-application-demo#readme",
     "devDependencies": {
       "babel-eslint": "^7.2.0",
@@ -136,6 +130,11 @@
     },
     "dependencies": {
       "concurrently": "^3.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bkonkle/universal-application-demo/issues"
+      }
     }
   },
   "packageStatus": 200,

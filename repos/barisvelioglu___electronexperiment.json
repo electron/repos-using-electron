@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-tutorial-app",
     "productName": "Electron tutorial app",
@@ -81,10 +81,7 @@
       "electron-squirrel-startup": "^1.0.0",
       "electron-winstaller": "^2.4.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/barisvelioglu/electronexperiment.git"
-    },
+    "repository": "https://github.com/barisvelioglu/electronexperiment",
     "scripts": {
       "start": "node ./bin/www",
       "package-mac": "electron-packager . --overwrite --asar=true --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds",
@@ -103,7 +100,8 @@
       "level": "^1.5.0",
       "morgan": "~1.7.0",
       "serve-favicon": "~2.3.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +127,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:06:33.376Z",
+  "lastFetchedAt": "2017-10-23T23:02:07.681Z",
   "packageLastFetchedAt": "2017-05-05T17:41:02.892Z"
 }

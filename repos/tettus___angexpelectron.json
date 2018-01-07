@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angexpelectron",
     "version": "1.0.0",
@@ -137,17 +137,15 @@
       "Electron Angular2",
       "Express"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tettus/angexpelectron.git"
-    },
+    "repository": "https://github.com/tettus/angexpelectron",
     "build": {
       "appId": "tettu",
       "app-category-type": "CRM",
       "win": {
         "iconUrl": "https://cdn-images-1.medium.com/max/400/1*GS-t3eNz9Jy7YWKIxxmJPg.png"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -174,6 +172,6 @@
   },
   "filename": "tettus___angexpelectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:23:51.179Z",
+  "lastFetchedAt": "2017-10-23T23:02:53.584Z",
   "packageLastFetchedAt": "2017-05-05T14:51:56.491Z"
 }

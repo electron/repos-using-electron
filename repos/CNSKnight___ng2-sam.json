@@ -5,7 +5,7 @@
   "owner": {
     "login": "CNSKnight",
     "id": 220025,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/220025?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/220025?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CNSKnight",
     "htmlUrl": "https://github.com/CNSKnight",
@@ -75,9 +75,7 @@
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -253,7 +251,8 @@
       "@ngrx/store-devtools": "^3.1.0",
       "@ngrx/store-log-monitor": "^3.0.2",
       "angular2-materialize": "^5.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -281,6 +280,7 @@
   "filename": "CNSKnight___ng2-sam.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:04.756Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:50.110Z"
+  "lastFetchedAt": "2017-10-23T23:11:47.366Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:50.110Z",
+  "archived": false
 }

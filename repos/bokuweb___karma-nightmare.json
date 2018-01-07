@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "karma-nightmare",
     "version": "0.4.6",
@@ -82,10 +82,7 @@
       "karma-launcher",
       "nightmare"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bokuweb/karma-nightmare.git"
-    },
+    "repository": "https://github.com/bokuweb/karma-nightmare",
     "author": "@bokuweb",
     "license": "MIT",
     "devDependencies": {
@@ -105,7 +102,8 @@
       "mkdirp": "^0.5.1",
       "nightmare": "^2.9.1"
     },
-    "types": "./index.d.ts"
+    "types": "./index.d.ts",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +129,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:15.536Z",
+  "lastFetchedAt": "2017-10-24T00:11:00.946Z",
   "packageLastFetchedAt": "2017-05-05T01:20:33.637Z"
 }

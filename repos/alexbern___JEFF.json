@@ -6,7 +6,7 @@
   "owner": {
     "login": "alexbern",
     "id": 15358172,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15358172?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15358172?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alexbern",
     "htmlUrl": "https://github.com/alexbern",
@@ -77,19 +77,13 @@
       "rebuild": "electron-rebuild",
       "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --prune=true --out=release-builds"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alexbern/JEFF.git"
-    },
+    "repository": "https://github.com/alexbern/JEFF",
     "keywords": [
       "experimantal",
       "installation"
     ],
     "author": "Alex Bernard",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/alexbern/JEFF/issues"
-    },
     "homepage": "https://github.com/alexbern/JEFF#readme",
     "dependencies": {
       "electron": "^1.4.10",
@@ -105,6 +99,11 @@
       "fetch": "^1.1.0",
       "isomorphic-fetch": "^2.2.1",
       "webpack": "^1.13.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alexbern/JEFF/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:14.369Z",
-  "packageLastFetchedAt": "2017-05-05T15:13:27.865Z"
+  "lastFetchedAt": "2017-10-24T02:02:52.412Z",
+  "packageLastFetchedAt": "2017-05-05T15:13:27.865Z",
+  "archived": false
 }

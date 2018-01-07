@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "timetrack",
     "version": "1.0.0",
@@ -59,19 +59,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "time",
       "track"
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "dependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -87,6 +81,11 @@
     },
     "devDependencies": {
       "electron-packager": "^7.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,6 @@
   },
   "filename": "istvan-antal___drawingboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:59.265Z",
+  "lastFetchedAt": "2017-10-23T23:03:37.577Z",
   "packageLastFetchedAt": "2017-05-04T22:40:51.766Z"
 }

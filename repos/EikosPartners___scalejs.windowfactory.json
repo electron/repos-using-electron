@@ -5,7 +5,7 @@
   "owner": {
     "login": "EikosPartners",
     "id": 11875127,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11875127?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11875127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EikosPartners",
     "htmlUrl": "https://github.com/EikosPartners",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/EikosPartners/windowmanagerjs/downloads",
   "deploymentsUrl": "https://api.github.com/repos/EikosPartners/windowmanagerjs/deployments",
   "createdAt": "2016-07-06T17:07:03.000Z",
-  "updatedAt": "2017-04-14T02:32:52.000Z",
-  "pushedAt": "2017-04-20T20:29:18.000Z",
+  "updatedAt": "2017-08-25T10:01:36.000Z",
+  "pushedAt": "2017-10-23T16:43:19.000Z",
   "gitUrl": "git://github.com/EikosPartners/windowmanagerjs.git",
   "sshUrl": "git@github.com:EikosPartners/windowmanagerjs.git",
   "cloneUrl": "https://github.com/EikosPartners/windowmanagerjs.git",
   "svnUrl": "https://github.com/EikosPartners/windowmanagerjs",
   "homepage": "https://eikospartners.github.io/windowmanagerjs/",
-  "size": 2761,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 3882,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 6,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "EikosPartners",
     "id": 11875127,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11875127?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11875127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EikosPartners",
     "htmlUrl": "https://github.com/EikosPartners",
@@ -101,13 +101,7 @@
     "license": "MIT",
     "main": "index.js",
     "homepage": "https://eikospartners.github.io/windowmanagerjs/",
-    "bugs": {
-      "url": "https://github.com/EikosPartners/windowmanagerjs/issues"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/EikosPartners/windowmanagerjs.git"
-    },
+    "repository": "https://github.com/EikosPartners/windowmanagerjs",
     "scripts": {
       "build": "npm run build-dist && npm run build-docs",
       "build-dist": "webpack -d --devtool source-map && webpack -p --devtool source-map",
@@ -135,6 +129,11 @@
       "release-it": "^2.7.1",
       "webpack": "^2.3.3",
       "yargs": "^7.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/EikosPartners/windowmanagerjs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "EikosPartners___scalejs.windowfactory.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:44.888Z",
-  "packageLastFetchedAt": "2017-05-05T17:19:32.747Z"
+  "lastFetchedAt": "2017-10-23T22:10:11.112Z",
+  "packageLastFetchedAt": "2017-05-05T17:19:32.747Z",
+  "archived": false
 }

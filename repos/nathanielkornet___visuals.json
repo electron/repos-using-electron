@@ -1,12 +1,12 @@
 {
   "filename": "nathanielkornet___visuals.json",
-  "id": 87587451,
+  "id": 92484310,
   "name": "visuals",
   "fullName": "nathanielkornet/visuals",
   "owner": {
     "login": "nathanielkornet",
     "id": 1503134,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1503134?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1503134?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nathanielkornet",
     "htmlUrl": "https://github.com/nathanielkornet",
@@ -35,17 +35,17 @@
   "mergesUrl": "https://api.github.com/repos/nathanielkornet/visuals/merges",
   "downloadsUrl": "https://api.github.com/repos/nathanielkornet/visuals/downloads",
   "deploymentsUrl": "https://api.github.com/repos/nathanielkornet/visuals/deployments",
-  "createdAt": "2017-04-07T21:14:41.000Z",
-  "updatedAt": "2017-04-07T21:19:16.000Z",
-  "pushedAt": "2017-05-02T03:11:14.000Z",
+  "createdAt": "2017-05-26T07:29:00.000Z",
+  "updatedAt": "2017-07-20T00:49:42.000Z",
+  "pushedAt": "2017-08-18T23:54:25.000Z",
   "gitUrl": "git://github.com/nathanielkornet/visuals.git",
   "sshUrl": "git@github.com:nathanielkornet/visuals.git",
   "cloneUrl": "https://github.com/nathanielkornet/visuals.git",
   "svnUrl": "https://github.com/nathanielkornet/visuals",
   "homepage": null,
-  "size": 1366,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 158,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -54,26 +54,20 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "featured": true
-  },
+  "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-03T20:04:16.699Z",
+  "lastFetchedAt": "2017-10-23T23:12:19.613Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -146,19 +140,13 @@
         "output": "release"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -276,8 +264,14 @@
       "node": ">=7.x",
       "npm": ">=4.x",
       "yarn": "0.21.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:09:28.310Z"
+  "packageLastFetchedAt": "2017-05-05T15:09:28.310Z",
+  "archived": false
 }

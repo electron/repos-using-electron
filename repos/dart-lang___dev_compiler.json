@@ -5,7 +5,7 @@
   "owner": {
     "login": "dart-archive",
     "id": 25019405,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/25019405?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/25019405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dart-archive",
     "htmlUrl": "https://github.com/dart-archive",
@@ -20,21 +20,21 @@
   "description": "DEPRECATED - Moved to main SDK",
   "fork": false,
   "createdAt": "2014-11-17T16:02:35.000Z",
-  "updatedAt": "2017-04-28T18:55:19.000Z",
-  "pushedAt": "2016-09-06T19:47:34.000Z",
+  "updatedAt": "2017-09-26T08:48:23.000Z",
+  "pushedAt": "2017-07-11T18:10:05.000Z",
   "homepage": "https://github.com/dart-lang/sdk/tree/master/pkg/dev_compiler",
-  "size": 30755,
-  "stargazersCount": 142,
-  "watchersCount": 142,
+  "size": 29991,
+  "stargazersCount": 139,
+  "watchersCount": 139,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 31,
-  "openIssuesCount": 59,
-  "openIssues": 59,
-  "watchers": 142,
+  "forksCount": 33,
+  "openIssuesCount": 56,
+  "openIssues": 56,
+  "watchers": 139,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "dart-archive",
     "id": 25019405,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/25019405?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/25019405?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dart-archive",
     "htmlUrl": "https://github.com/dart-archive",
@@ -62,22 +62,18 @@
     "receivedEventsUrl": "https://api.github.com/users/dart-archive/received_events",
     "type": "Organization"
   },
-  "networkCount": 31,
-  "subscribersCount": 53,
+  "networkCount": 33,
+  "subscribersCount": 52,
   "status": 200,
   "packageJSON": {
     "name": "dev_compiler",
     "version": "0.1.24",
     "description": "Dart Development Compiler",
     "homepage": "https://github.com/dart-lang/dev_compiler",
-    "bugs": "https://github.com/dart-lang/dev_compiler/issues",
     "contributors": {
       "Dart Team": "dev-compiler@dartlang.org"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dart-lang/dev_compiler.git"
-    },
+    "repository": "https://github.com/dart-lang/dev_compiler",
     "scripts": {
       "postinstall": "./node_modules/.bin/webdriver-manager update",
       "test": "./node_modules/.bin/karma start --single-run"
@@ -94,6 +90,9 @@
       "mocha": "^2.2.4",
       "requirejs": "^2.1.17",
       "webdriver-manager": "8.0.0"
+    },
+    "other": {
+      "bugs": "https://github.com/dart-lang/dev_compiler/issues"
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "svnUrl": "https://github.com/dart-archive/dev_compiler",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:36:43.465Z",
-  "packageLastFetchedAt": "2017-05-04T22:33:13.821Z"
+  "lastFetchedAt": "2017-10-23T22:27:53.594Z",
+  "packageLastFetchedAt": "2017-05-04T22:33:13.821Z",
+  "archived": false
 }

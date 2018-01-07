@@ -5,7 +5,7 @@
   "owner": {
     "login": "kuniiskywalker",
     "id": 1308794,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1308794?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1308794?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kuniiskywalker",
     "htmlUrl": "https://github.com/kuniiskywalker",
@@ -79,10 +79,7 @@
     "author": "kuniiskywalker",
     "npmName": "nagarami",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git@bitbucket.org:k-family/nagarami-desktop.git"
-    },
+    "repository": "https://github.com/k-family/nagarami-desktop",
     "scripts": {
       "start": "electron .",
       "pack:win": "electron-packager ./ nagarami --platform=win32 --arch=x64 --version=1.2.2 --prune",
@@ -107,7 +104,8 @@
       "electron-json-storage": "^2.0.0",
       "youtube-api": "^2.0.2",
       "babel-polyfill": "^6.9.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +132,7 @@
   },
   "filename": "kuniiskywalker___nagarami.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:52.427Z",
-  "packageLastFetchedAt": "2017-05-05T14:45:43.688Z"
+  "lastFetchedAt": "2017-10-23T22:23:52.261Z",
+  "packageLastFetchedAt": "2017-05-05T14:45:43.688Z",
+  "archived": false
 }

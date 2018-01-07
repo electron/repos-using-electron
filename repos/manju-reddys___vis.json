@@ -70,14 +70,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -235,7 +233,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -263,6 +262,6 @@
   "filename": "manju-reddys___vis.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:02.340Z",
+  "lastFetchedAt": "2017-10-23T23:01:59.077Z",
   "packageLastFetchedAt": "2017-05-04T22:35:41.743Z"
 }

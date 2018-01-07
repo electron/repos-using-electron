@@ -5,7 +5,7 @@
   "owner": {
     "login": "miudit",
     "id": 3705628,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3705628?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3705628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/miudit",
     "htmlUrl": "https://github.com/miudit",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/miudit/YuiTracker",
-  "description": null,
+  "description": "Web Platform of ITF-2 Reception Report and Telemetry Visualization",
   "fork": false,
   "url": "https://api.github.com/repos/miudit/YuiTracker",
   "forksUrl": "https://api.github.com/repos/miudit/YuiTracker/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/miudit/YuiTracker/downloads",
   "deploymentsUrl": "https://api.github.com/repos/miudit/YuiTracker/deployments",
   "createdAt": "2016-07-02T01:21:01.000Z",
-  "updatedAt": "2016-07-02T01:43:11.000Z",
+  "updatedAt": "2017-06-13T14:38:45.000Z",
   "pushedAt": "2017-01-23T10:33:02.000Z",
   "gitUrl": "git://github.com/miudit/YuiTracker.git",
   "sshUrl": "git@github.com:miudit/YuiTracker.git",
   "cloneUrl": "https://github.com/miudit/YuiTracker.git",
   "svnUrl": "https://github.com/miudit/YuiTracker",
-  "homepage": null,
+  "homepage": "",
   "size": 39035,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -92,14 +92,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -169,6 +162,12 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -196,6 +195,7 @@
   },
   "filename": "miudit___YuiTracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:53.571Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:06.876Z"
+  "lastFetchedAt": "2017-10-23T21:51:39.130Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:06.876Z",
+  "archived": false
 }

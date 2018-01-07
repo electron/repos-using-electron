@@ -50,7 +50,7 @@
   },
   "networkCount": 6,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "npm-search",
     "productName": "NpmSearch",
@@ -104,7 +104,8 @@
         "node",
         "browser"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +152,6 @@
   "svnUrl": "https://github.com/vadimdemedes/npm-search",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:19:59.197Z",
+  "lastFetchedAt": "2017-10-23T23:08:29.085Z",
   "packageLastFetchedAt": "2017-05-05T15:40:54.081Z"
 }

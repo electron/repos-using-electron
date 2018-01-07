@@ -5,7 +5,7 @@
   "owner": {
     "login": "AuHau",
     "id": 6072250,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6072250?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6072250?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AuHau",
     "htmlUrl": "https://github.com/AuHau",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/AuHau/daGui/downloads",
   "deploymentsUrl": "https://api.github.com/repos/AuHau/daGui/deployments",
   "createdAt": "2016-11-03T13:04:19.000Z",
-  "updatedAt": "2017-04-30T02:59:00.000Z",
-  "pushedAt": "2017-04-27T17:16:34.000Z",
+  "updatedAt": "2017-10-18T05:43:53.000Z",
+  "pushedAt": "2017-06-05T05:43:28.000Z",
   "gitUrl": "git://github.com/AuHau/daGui.git",
   "sshUrl": "git@github.com:AuHau/daGui.git",
   "cloneUrl": "https://github.com/AuHau/daGui.git",
   "svnUrl": "https://github.com/AuHau/daGui",
   "homepage": null,
-  "size": 1290,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 3042,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -117,26 +117,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AuHau/daGui"
-    },
+    "repository": "https://github.com/AuHau/daGui",
     "author": {
       "name": "Adam Uhlíř",
       "email": "hello@adam-uhlir.me",
       "url": "https://www.adam-uhlir.me"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/AuHau/daGui"
-    },
     "keywords": [
       "dataflow",
       "dag",
@@ -236,6 +226,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/AuHau/daGui"
+      }
     }
   },
   "packageStatus": 200,
@@ -263,6 +262,7 @@
   },
   "filename": "AuHau___dataflow-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:27:03.906Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:53.639Z"
+  "lastFetchedAt": "2017-10-23T22:15:53.351Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:53.639Z",
+  "archived": false
 }

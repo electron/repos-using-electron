@@ -5,7 +5,7 @@
   "owner": {
     "login": "hugoruscitti",
     "id": 99183,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/99183?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/99183?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hugoruscitti",
     "htmlUrl": "https://github.com/hugoruscitti",
@@ -76,10 +76,6 @@
     "version": "1.0.3",
     "description": "Una herramienta para aprender a programar utilizando bloques.",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -172,6 +168,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -199,6 +201,7 @@
   },
   "filename": "hugoruscitti___prueba-releases.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:32:17.863Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:16.125Z"
+  "lastFetchedAt": "2017-10-24T00:08:39.696Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:16.125Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "hrkt",
     "id": 2157466,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2157466?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2157466?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hrkt",
     "htmlUrl": "https://github.com/hrkt",
@@ -73,15 +73,12 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:32:46.861Z",
+  "lastFetchedAt": "2017-10-24T00:05:16.208Z",
   "packageJSON": {
     "name": "shu-ho-standalone",
     "version": "0.0.4",
     "description": "Shu-ho, a weekly-report editing application",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hrkt/shu-ho-standalone.git"
-    },
+    "repository": "https://github.com/hrkt/shu-ho-standalone",
     "scripts": {
       "bootlint": "/bin/cat index.html | ./node_modules/.bin/bootlint ",
       "build": "./node_modules/.bin/webpack --config webpack.config.js",
@@ -148,8 +145,10 @@
     "main": "main.js",
     "node": {
       "fs": "empty"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:29:19.985Z"
+  "packageLastFetchedAt": "2017-05-05T17:29:19.985Z",
+  "archived": false
 }

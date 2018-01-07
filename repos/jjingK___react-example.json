@@ -5,7 +5,7 @@
   "owner": {
     "login": "jjingK",
     "id": 10173313,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10173313?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10173313?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jjingK",
     "htmlUrl": "https://github.com/jjingK",
@@ -78,10 +78,7 @@
     "description": "React Study Example",
     "license": "MIT",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jjingK/react-example.git"
-    },
+    "repository": "https://github.com/jjingK/react-example",
     "dependencies": {
       "jquery": "^2.2.0",
       "jquery-ui": "^1.10.5",
@@ -132,7 +129,8 @@
       "test": "./node_modules/mocha/bin/mocha ./test --compilers js:babel-core/register",
       "build": "eslint src && jest && webpack --config ./scripts/package.js --release",
       "server": "webpack-dev-server --config ./scripts/package.js --colors --inline --port 3000"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -159,6 +157,7 @@
   },
   "filename": "jjingK___react-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:14.192Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:00.452Z"
+  "lastFetchedAt": "2017-10-23T22:54:17.360Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:00.452Z",
+  "archived": false
 }

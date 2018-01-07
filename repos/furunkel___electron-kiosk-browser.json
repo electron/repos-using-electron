@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-browser",
     "version": "1.0.0",
@@ -84,7 +84,8 @@
     "devDependencies": {
       "electron-prebuilt": "^0.28.2"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +113,6 @@
   "filename": "furunkel___electron-kiosk-browser.json",
   "sourceRepo": "pfrazee/electron-browser",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:17.685Z",
+  "lastFetchedAt": "2017-10-23T23:10:47.836Z",
   "packageLastFetchedAt": "2017-05-05T17:17:03.496Z"
 }

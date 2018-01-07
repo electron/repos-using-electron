@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "finale",
     "version": "1.0.0",
@@ -104,10 +104,7 @@
     "scripts": {
       "start": "gulp && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/madebybright/finale.git"
-    },
+    "repository": "https://github.com/madebybright/finale",
     "keywords": [
       "finale",
       "lastfm",
@@ -116,10 +113,12 @@
     ],
     "author": "Josh Trommel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/madebybright/finale/issues"
-    },
-    "homepage": "https://github.com/madebybright/finale#readme"
+    "homepage": "https://github.com/madebybright/finale#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/madebybright/finale/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +145,6 @@
   },
   "filename": "Maybulb___finale.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:25.591Z",
+  "lastFetchedAt": "2017-10-23T23:02:01.379Z",
   "packageLastFetchedAt": "2017-05-05T17:01:26.972Z"
 }

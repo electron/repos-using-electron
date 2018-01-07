@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "crunk",
     "productName": "Crunk",
@@ -81,13 +81,7 @@
       "name": "Mikael Hermansson"
     },
     "homepage": "https://github.com/mihe/crunk",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:mihe/crunk.git"
-    },
-    "bugs": {
-      "url": "https://github.com/mihe/crunk/issues"
-    },
+    "repository": "https://github.com/mihe/crunk",
     "main": "output/main.js",
     "devDependencies": {
       "7zip-bin": "2.0.4",
@@ -139,6 +133,11 @@
       "deploy-linux": "gulp deploy-linux",
       "deploy-mac": "gulp deploy-mac",
       "start": "electron ."
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mihe/crunk/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,6 @@
   },
   "filename": "mihe___crunk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:04.195Z",
+  "lastFetchedAt": "2017-10-23T21:51:04.862Z",
   "packageLastFetchedAt": "2017-05-05T15:28:08.043Z"
 }

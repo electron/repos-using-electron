@@ -5,7 +5,7 @@
   "owner": {
     "login": "redhat-developer-tooling",
     "id": 14943368,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14943368?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14943368?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/redhat-developer-tooling",
     "htmlUrl": "https://github.com/redhat-developer-tooling",
@@ -17,24 +17,24 @@
     "type": "Organization"
   },
   "private": false,
-  "description": "Installer for Red Hat development tools handles all of the prerequisites and interdepencies for you, so that with just a few clicks you can have a world-class development environment. See for details ",
+  "description": "Single Installer for all Red Hat Development Tools and more. Download it form Red Hat Developers Portal web site -  http://developers.redhat.com/products/devsuite/overview/.",
   "fork": false,
   "createdAt": "2015-10-12T18:10:26.000Z",
-  "updatedAt": "2017-03-14T14:45:05.000Z",
-  "pushedAt": "2017-05-04T14:32:11.000Z",
-  "homepage": "http://developers.redhat.com/products/devsuite/overview/",
-  "size": 167638,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "updatedAt": "2017-10-12T04:40:07.000Z",
+  "pushedAt": "2017-10-23T22:51:38.000Z",
+  "homepage": "",
+  "size": 168329,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "JavaScript",
-  "hasIssues": false,
+  "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 16,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 12,
+  "forksCount": 19,
+  "openIssuesCount": 19,
+  "openIssues": 19,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "redhat-developer-tooling",
     "id": 14943368,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14943368?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14943368?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/redhat-developer-tooling",
     "htmlUrl": "https://github.com/redhat-developer-tooling",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/redhat-developer-tooling/received_events",
     "type": "Organization"
   },
-  "networkCount": 16,
-  "subscribersCount": 3,
+  "networkCount": 19,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "devstudio-platform-installer",
@@ -71,15 +71,9 @@
     "version": "1.4.0-GA",
     "description": "Red Hat Development Suite Installer",
     "main": "main/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/redhat-developer-tooling/developer-platform-install.git"
-    },
+    "repository": "https://github.com/redhat-developer-tooling/developer-platform-install",
     "author": "Red Hat Developer Tooling Group",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://issues.jboss.org/projects/JBDS/summary"
-    },
     "homepage": "https://github.com/redhat-developer-tooling/developer-platform-install#readme",
     "scripts": {
       "start": "./node_modules/.bin/gulp run",
@@ -160,6 +154,11 @@
       "tmp": "0.0.31",
       "xunit-file": "1.0.0",
       "yargs": "7.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://issues.jboss.org/projects/JBDS/summary"
+      }
     }
   },
   "packageStatus": 200,
@@ -207,6 +206,7 @@
   "svnUrl": "https://github.com/redhat-developer-tooling/developer-platform-install",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:26:49.497Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:03.260Z"
+  "lastFetchedAt": "2017-10-24T00:13:42.944Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:03.260Z",
+  "archived": false
 }

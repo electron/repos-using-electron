@@ -64,16 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "visor-offline",
     "version": "0.1.6",
     "description": "Small description for visor-offline goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -152,6 +148,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -179,6 +181,6 @@
   },
   "filename": "hugoruscitti___visor-offline.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:29.410Z",
+  "lastFetchedAt": "2017-10-23T23:07:13.070Z",
   "packageLastFetchedAt": "2017-05-05T14:54:25.860Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Mad-Chemist",
     "id": 6208614,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6208614?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6208614?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mad-Chemist",
     "htmlUrl": "https://github.com/Mad-Chemist",
@@ -91,15 +91,17 @@
       "electron-prebuilt": "^0.37.8"
     },
     "build": {},
-    "directories": {
-      "app": "./app"
-    },
     "scripts": {
       "postinstall": "install-app-deps",
       "start": "./app/node_modules/.bin/electron ./app",
       "reset": "pkill -f selenium-standalone",
       "build": "node electron-build.js",
       "dist": "node electron-build.js"
+    },
+    "other": {
+      "directories": {
+        "app": "./app"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +129,7 @@
   },
   "filename": "Mad-Chemist___voter-registration-check.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:15:20.960Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:26.826Z"
+  "lastFetchedAt": "2017-10-23T23:41:02.929Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:26.826Z",
+  "archived": false
 }

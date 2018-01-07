@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 2,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Magic-Mycroft-Mirror",
     "version": "1.0.0",
@@ -60,10 +60,7 @@
       "start-mirror-auto": "webpack && electron . mirror auto",
       "start-mirror-manual": "webpack && electron . mirror manual"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joshymcd/mycroft-magic-mirror.git"
-    },
+    "repository": "https://github.com/joshymcd/mycroft-magic-mirror",
     "author": "Joshua McDonald",
     "license": "MIT",
     "devDependencies": {
@@ -89,7 +86,8 @@
       "react": "^15.1.0",
       "react-bootstrap": "^0.29.5",
       "react-dom": "^15.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/joshymcd/mycroft-magic-mirror",
@@ -136,6 +134,6 @@
   },
   "filename": "joshymcd___mycroft-magic-mirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:09:32.023Z",
+  "lastFetchedAt": "2017-10-23T23:11:10.335Z",
   "packageLastFetchedAt": "2017-05-04T22:35:28.964Z"
 }

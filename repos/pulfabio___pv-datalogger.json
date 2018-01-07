@@ -6,7 +6,7 @@
   "owner": {
     "login": "pulfabio",
     "id": 12064228,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12064228?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12064228?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pulfabio",
     "htmlUrl": "https://github.com/pulfabio",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/pulfabio/pv-datalogger/deployments",
   "createdAt": "2017-04-10T20:51:08.000Z",
   "updatedAt": "2017-04-10T21:03:57.000Z",
-  "pushedAt": "2017-05-03T05:27:52.000Z",
+  "pushedAt": "2017-06-05T12:41:24.000Z",
   "gitUrl": "git://github.com/pulfabio/pv-datalogger.git",
   "sshUrl": "git@github.com:pulfabio/pv-datalogger.git",
   "cloneUrl": "https://github.com/pulfabio/pv-datalogger.git",
   "svnUrl": "https://github.com/pulfabio/pv-datalogger",
   "homepage": null,
-  "size": 13082,
+  "size": 13146,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T19:44:36.516Z",
+  "lastFetchedAt": "2017-10-23T21:43:57.784Z",
   "packageJSON": {
     "name": "ensolar",
     "version": "0.9.0",
@@ -254,17 +254,17 @@
       "clean:aot": "npm run rimraf -- compiled",
       "build:ci": "npm run build:prod && npm run build:aot"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pulfabio/ensolar.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/pulfabio/ensolar",
     "engines": {
       "node": ">= 5.4.1 < 7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T23:00:37.732Z"
+  "packageLastFetchedAt": "2017-05-04T23:00:37.732Z",
+  "archived": false
 }

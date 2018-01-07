@@ -5,7 +5,7 @@
   "owner": {
     "login": "crabl",
     "id": 705734,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/705734?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/705734?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/crabl",
     "htmlUrl": "https://github.com/crabl",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/crabl/news/downloads",
   "deploymentsUrl": "https://api.github.com/repos/crabl/news/deployments",
   "createdAt": "2016-01-20T05:30:19.000Z",
-  "updatedAt": "2016-01-21T07:24:35.000Z",
+  "updatedAt": "2017-08-14T00:20:30.000Z",
   "pushedAt": "2016-01-21T07:36:53.000Z",
   "gitUrl": "git://github.com/crabl/news.git",
   "sshUrl": "git@github.com:crabl/news.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/crabl/news",
   "homepage": null,
   "size": 1600,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,15 +70,9 @@
     "version": "1.0.0",
     "description": "Not yo mama's RSS reader",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/crabl/news.git"
-    },
+    "repository": "https://github.com/crabl/news",
     "author": "Chris Rabl <chris@crabl.net>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/crabl/news/issues"
-    },
     "homepage": "https://github.com/crabl/news#readme",
     "scripts": {
       "build": "webpack --progress --profile --colors --display-error-details --display-cached",
@@ -106,6 +100,11 @@
       "reflect-metadata": "0.1.2",
       "rxjs": "5.0.0-beta.0",
       "zone.js": "^0.5.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/crabl/news/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "crabl___news.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:30:30.800Z",
-  "packageLastFetchedAt": "2017-05-05T01:33:52.131Z"
+  "lastFetchedAt": "2017-10-23T22:53:58.354Z",
+  "packageLastFetchedAt": "2017-05-05T01:33:52.131Z",
+  "archived": false
 }

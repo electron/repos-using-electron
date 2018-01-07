@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "wkcg2016",
     "version": "1.0.0",
@@ -88,10 +88,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tihbe/WKCG2016.git"
-    },
+    "repository": "https://github.com/tihbe/WKCG2016",
     "keywords": [
       "wolters",
       "kluwer",
@@ -101,9 +98,6 @@
     ],
     "author": "Ismael Balafrej & Zi Long Li",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tihbe/WKCG2016/issues"
-    },
     "homepage": "https://github.com/tihbe/WKCG2016#readme",
     "dependencies": {
       "angular": "^1.5.5",
@@ -111,6 +105,11 @@
       "firebase": "^2.4.2",
       "lodash": "^4.12.0",
       "node-watch": "^0.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tihbe/WKCG2016/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   },
   "filename": "Wolters-Kluwer-Canada-2016-Code-Games___Marmottes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:34.686Z",
+  "lastFetchedAt": "2017-10-23T23:01:51.583Z",
   "packageLastFetchedAt": "2017-05-05T17:21:15.045Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Rabrennie",
     "id": 9087372,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9087372?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9087372?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Rabrennie",
     "htmlUrl": "https://github.com/Rabrennie",
@@ -63,15 +63,9 @@
       "format": "eslint --fix app/**/*.js app/**/**/*.js",
       "electron": "gulp build && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Rabrennie/WewPixel.git"
-    },
+    "repository": "https://github.com/Rabrennie/WewPixel",
     "author": "Rab Rennie <rabrennie@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Rabrennie/WewPixel/issues"
-    },
     "homepage": "https://github.com/Rabrennie/WewPixel#readme",
     "dependencies": {
       "bresenham": "0.0.3"
@@ -99,6 +93,11 @@
       "run-sequence": "^1.1.5",
       "vinyl-source-stream": "^1.1.0",
       "watchify": "^3.6.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Rabrennie/WewPixel/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "svnUrl": "https://github.com/Rabrennie/WewPixel",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:35:27.196Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:28.125Z"
+  "lastFetchedAt": "2017-10-23T21:51:49.133Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:28.125Z",
+  "archived": false
 }

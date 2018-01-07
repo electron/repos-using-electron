@@ -5,7 +5,7 @@
   "owner": {
     "login": "sairoutine",
     "id": 6726054,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6726054?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6726054?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sairoutine",
     "htmlUrl": "https://github.com/sairoutine",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/sairoutine/Yakusoku/downloads",
   "deploymentsUrl": "https://api.github.com/repos/sairoutine/Yakusoku/deployments",
   "createdAt": "2016-08-07T18:04:28.000Z",
-  "updatedAt": "2016-10-22T12:08:12.000Z",
-  "pushedAt": "2017-03-26T13:20:43.000Z",
+  "updatedAt": "2017-09-05T19:53:28.000Z",
+  "pushedAt": "2017-08-07T10:56:28.000Z",
   "gitUrl": "git://github.com/sairoutine/Yakusoku.git",
   "sshUrl": "git@github.com:sairoutine/Yakusoku.git",
   "cloneUrl": "https://github.com/sairoutine/Yakusoku.git",
   "svnUrl": "https://github.com/sairoutine/Yakusoku",
   "homepage": "https://sairoutine.github.io/Yakusoku/public/",
-  "size": 225743,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 258376,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 0,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 1,
   "defaultBranch": "gh-pages",
   "permissions": {
     "admin": false,
@@ -76,15 +76,9 @@
       "build:mac": "cd public && electron-packager ./ Yakusoku --overwrite --platform=darwin --arch=x64 --version=0.36.1 --icon=icon.icns --out ../Mac",
       "build:win32": "cd public && electron-packager ./ Yakusoku --overwrite --platform=win32  --arch=ia32 --version=1.6.0 --icon=icon.ico --out ../Win32"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sairoutine/Yakusoku.git"
-    },
+    "repository": "https://github.com/sairoutine/Yakusoku",
     "author": "sairoutine",
     "license": "NO LICENSE",
-    "bugs": {
-      "url": "https://github.com/sairoutine/Yakusoku/issues"
-    },
     "devDependencies": {
       "browser-sync": "2.14.3",
       "browserify": "12.0.1",
@@ -121,6 +115,11 @@
     "homepage": "https://github.com/sairoutine/Yakusoku#readme",
     "dependencies": {
       "mersenne-twister": "1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sairoutine/Yakusoku/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   },
   "filename": "sairoutine___Yakusoku.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:37.022Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:51.194Z"
+  "lastFetchedAt": "2017-10-24T00:20:26.708Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:51.194Z",
+  "archived": false
 }

@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "clipboard-manager",
     "version": "1.0.0",
@@ -63,10 +63,7 @@
     "keywords": [
       "clipboard-manager"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dmfarcas/clipboard-manager"
-    },
+    "repository": "https://github.com/dmfarcas/clipboard-manager",
     "author": "Dan Farcas <dan@farcas.me>",
     "license": "GPL-3.0",
     "dependencies": {
@@ -82,7 +79,8 @@
       "node-notifier": "^4.4.0",
       "qr-image": "^3.1.0",
       "rimraf": "^2.5.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/dmfarcas/clipboard-manager",
@@ -129,6 +127,6 @@
   },
   "filename": "dmfarcas___clipboard-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:44.202Z",
+  "lastFetchedAt": "2017-10-23T23:02:13.827Z",
   "packageLastFetchedAt": "2017-05-05T14:44:40.480Z"
 }

@@ -198,7 +198,7 @@
   },
   "networkCount": 40,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-workshop",
     "description": "A Markdown-to-HTML renderer",
@@ -207,9 +207,6 @@
       "name": "Feross Aboukhadijeh",
       "email": "feross@feross.org",
       "url": "http://feross.org/"
-    },
-    "bugs": {
-      "url": "https://github.com/feross/electron-workshop/issues"
     },
     "dependencies": {
       "drag-drop": "^2.12.1",
@@ -230,14 +227,16 @@
     "license": "MIT",
     "main": "lib/main.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/feross/electron-workshop.git"
-    },
+    "repository": "https://github.com/feross/electron-workshop",
     "scripts": {
       "package": "electron-packager . 'Markdown Editor'",
       "package-all": "electron-packager . 'Markdown Editor' --platform=all --arch=all",
       "start": "electron ."
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/feross/electron-workshop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -266,6 +265,6 @@
   "filename": "toowoo___electron-workshop.json",
   "sourceRepo": "feross/electron-workshop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:48.223Z",
+  "lastFetchedAt": "2017-10-23T23:02:47.077Z",
   "packageLastFetchedAt": "2017-05-04T22:58:01.795Z"
 }

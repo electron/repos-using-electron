@@ -5,7 +5,7 @@
   "owner": {
     "login": "david-driscoll",
     "id": 1269157,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1269157?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1269157?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/david-driscoll",
     "htmlUrl": "https://github.com/david-driscoll",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 0,
+  "openIssues": 0,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -82,19 +82,13 @@
       "tsc": "tsc",
       "tsc:w": "tsc -w"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/david-driscoll/bike-computer.git"
-    },
+    "repository": "https://github.com/david-driscoll/bike-computer",
     "keywords": [
       "bike",
       "bicycle"
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/david-driscoll/bike-computer/issues"
-    },
     "homepage": "https://github.com/david-driscoll/bike-computer#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.1.0",
@@ -125,6 +119,11 @@
       "roboto-font": "^0.1.0",
       "rxjs": "^5.0.0-beta.7",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/david-driscoll/bike-computer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   },
   "filename": "david-driscoll___bike-computer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:39.786Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:16.197Z"
+  "lastFetchedAt": "2017-10-23T22:25:28.534Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:16.197Z",
+  "archived": false
 }

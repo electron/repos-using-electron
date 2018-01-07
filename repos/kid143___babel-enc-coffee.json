@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "babel-enc-coffee",
     "version": "0.0.1",
@@ -61,10 +61,7 @@
       "start": "NODE_ENV=production electron .",
       "start-dev": "NODE_ENV=development electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/kid143/babel-enc-coffee.git"
-    },
+    "repository": "https://github.com/kid143/babel-enc-coffee",
     "keywords": [
       "coffeescript",
       "encoding",
@@ -95,7 +92,8 @@
       "jquery": "^2.1.4",
       "react-bootstrap": "^0.27.3",
       "uuid": "^2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/kid143/babel-enc-coffee",
@@ -142,6 +140,6 @@
   },
   "filename": "kid143___babel-enc-coffee.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:32:35.572Z",
+  "lastFetchedAt": "2017-10-23T22:56:37.101Z",
   "packageLastFetchedAt": "2017-05-05T17:38:46.474Z"
 }

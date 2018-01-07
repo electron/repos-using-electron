@@ -5,7 +5,7 @@
   "owner": {
     "login": "amatho",
     "id": 2756712,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2756712?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2756712?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/amatho",
     "htmlUrl": "https://github.com/amatho",
@@ -17,12 +17,12 @@
     "type": "User"
   },
   "private": false,
-  "description": "Simple app to deploy to a server via SFTP",
+  "description": "Deploy to a server via SFTP",
   "fork": false,
   "createdAt": "2016-08-07T12:25:25.000Z",
-  "updatedAt": "2016-08-07T12:26:46.000Z",
+  "updatedAt": "2017-07-07T10:58:14.000Z",
   "pushedAt": "2017-01-27T09:06:06.000Z",
-  "homepage": null,
+  "homepage": "",
   "size": 299,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -65,10 +65,7 @@
       "dist": "build",
       "bump": "echo \"Enter type for npm version and press [ENTER]: \" && read bump_version && cd app && PACKAGE_VERSION=$(npm --no-git-tag-version version $bump_version) && git add package.json && git commit -m \"Release $PACKAGE_VERSION\" && git tag -a $PACKAGE_VERSION -m \"$PACKAGE_VERSION\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amatho/sftployapp.git"
-    },
+    "repository": "https://github.com/amatho/sftployapp",
     "author": "Amandus Søve Thorsrud <ama.thorsrud@gmail.com>",
     "dependencies": {},
     "devDependencies": {
@@ -90,11 +87,13 @@
         "iconUrl": "https://raw.githubusercontent.com/amatho/sftployapp/master/build/icon.ico"
       }
     },
-    "bugs": {
-      "url": "https://github.com/amatho/sftployapp/issues"
-    },
     "homepage": "https://github.com/amatho/sftployapp#readme",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/amatho/sftployapp/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/amatho/sftployapp",
@@ -141,6 +140,7 @@
   },
   "filename": "amatho___sftployapp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:32.407Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:28.082Z"
+  "lastFetchedAt": "2017-10-24T00:11:43.445Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:28.082Z",
+  "archived": false
 }

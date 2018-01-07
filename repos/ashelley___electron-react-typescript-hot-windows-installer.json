@@ -5,7 +5,7 @@
   "owner": {
     "login": "ashelley",
     "id": 3195045,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3195045?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3195045?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ashelley",
     "htmlUrl": "https://github.com/ashelley",
@@ -84,10 +84,7 @@
       "package": "electron-packager . --platform=win32 --arch=x64 --version-string.ProductName=\"Test App\"",
       "create-setup": "node tasks/build-installer"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -96,9 +93,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "@types/react": "^0.14.27",
@@ -139,6 +133,11 @@
     "dependencies": {
       "react": "^15.2.1",
       "react-dom": "^15.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +165,7 @@
   },
   "filename": "ashelley___electron-react-typescript-hot-windows-installer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:36.465Z",
-  "packageLastFetchedAt": "2017-05-05T01:24:11.271Z"
+  "lastFetchedAt": "2017-10-23T21:42:02.882Z",
+  "packageLastFetchedAt": "2017-05-05T01:24:11.271Z",
+  "archived": false
 }

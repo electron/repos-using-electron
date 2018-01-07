@@ -70,14 +70,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "count-them-up",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -216,7 +214,8 @@
       "@angular2-material/radio": "^2.0.0-alpha.2",
       "@angular2-material/sidenav": "^2.0.0-alpha.2",
       "@angular2-material/toolbar": "^2.0.0-alpha.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -243,6 +242,6 @@
   },
   "filename": "justdaft___count-them-up.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:56:07.848Z",
+  "lastFetchedAt": "2017-10-23T23:02:34.327Z",
   "packageLastFetchedAt": "2017-05-04T22:05:47.633Z"
 }

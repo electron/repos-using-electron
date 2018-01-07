@@ -5,7 +5,7 @@
   "owner": {
     "login": "sawyerlin",
     "id": 2016591,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2016591?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2016591?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sawyerlin",
     "htmlUrl": "https://github.com/sawyerlin",
@@ -85,19 +85,18 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "./electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sawyerlin/WebCrawler.git"
-    },
+    "repository": "https://github.com/sawyerlin/WebCrawler",
     "keywords": [
       "webcrawler"
     ],
     "author": "sawyerlin",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/sawyerlin/WebCrawler/issues"
-    },
-    "homepage": "https://github.com/sawyerlin/WebCrawler#readme"
+    "homepage": "https://github.com/sawyerlin/WebCrawler#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sawyerlin/WebCrawler/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +123,7 @@
   },
   "filename": "sawyerlin___WebCrawler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:28.450Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:53.978Z"
+  "lastFetchedAt": "2017-10-23T22:28:13.505Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:53.978Z",
+  "archived": false
 }

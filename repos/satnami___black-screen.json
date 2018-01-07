@@ -164,7 +164,7 @@
   },
   "networkCount": 454,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "black-screen",
     "productName": "Black Screen",
@@ -172,13 +172,7 @@
     "version": "0.0.42",
     "main": "compiled/src/main/Main.js",
     "author": "Volodymyr Shatskyi <shockone89@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/shockone/black-screen.git"
-    },
-    "bugs": {
-      "url": "https://github.com/shockone/black-screen/issues"
-    },
+    "repository": "https://github.com/shockone/black-screen",
     "engineStrict": true,
     "engines": {
       "node": ">= 6.0.0"
@@ -235,12 +229,17 @@
       "tsc": "tsc"
     },
     "license": "MIT",
-    "directories": {
-      "app": "."
-    },
     "build": {
       "app-bundle-id": "com.github.shockone.black-screen",
       "app-category-type": "public.app-category.developer-tools"
+    },
+    "other": {
+      "directories": {
+        "app": "."
+      },
+      "bugs": {
+        "url": "https://github.com/shockone/black-screen/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -289,6 +288,6 @@
   "svnUrl": "https://github.com/satnami/black-screen",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:56:53.505Z",
+  "lastFetchedAt": "2017-10-24T00:10:29.668Z",
   "packageLastFetchedAt": "2017-05-04T22:50:31.079Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "adafruit",
     "id": 181069,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/181069?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/181069?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/adafruit",
     "htmlUrl": "https://github.com/adafruit",
@@ -20,21 +20,21 @@
   "description": "Desktop application to interact with Bluefruit LE and other Bluetooth low energy devices on Mac OSX, Windows, and Linux.",
   "fork": false,
   "createdAt": "2015-09-02T08:51:49.000Z",
-  "updatedAt": "2017-03-23T19:53:53.000Z",
+  "updatedAt": "2017-10-21T07:20:47.000Z",
   "pushedAt": "2016-01-15T06:33:42.000Z",
   "homepage": null,
   "size": 2827,
-  "stargazersCount": 54,
-  "watchersCount": 54,
+  "stargazersCount": 64,
+  "watchersCount": 64,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 54,
+  "forksCount": 17,
+  "openIssuesCount": 12,
+  "openIssues": 12,
+  "watchers": 64,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "adafruit",
     "id": 181069,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/181069?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/181069?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/adafruit",
     "htmlUrl": "https://github.com/adafruit",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/adafruit/received_events",
     "type": "Organization"
   },
-  "networkCount": 11,
-  "subscribersCount": 24,
+  "networkCount": 17,
+  "subscribersCount": 27,
   "status": 200,
   "packageJSON": {
     "name": "adafruit-ble-desktop-build",
@@ -71,10 +71,7 @@
     "description": "Scripts to build the Adafruit BLE desktop application.",
     "author": "Tony DiCola <tdicola@adafruit.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/adafruit/adafruit-bluefruit-le-desktop.git"
-    },
+    "repository": "https://github.com/adafruit/adafruit-bluefruit-le-desktop",
     "devDependencies": {
       "asar": "^0.8.0",
       "babel": "^5.8.21",
@@ -88,7 +85,8 @@
       "gulp-run": "^1.6.10",
       "gulp-sourcemaps": "^1.5.2",
       "gulp-zip": "^3.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/adafruit/adafruit-bluefruit-le-desktop",
@@ -135,6 +133,7 @@
   },
   "filename": "adafruit___adafruit-bluefruit-le-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:55.665Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:09.293Z"
+  "lastFetchedAt": "2017-10-23T22:56:12.878Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:09.293Z",
+  "archived": false
 }

@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular-electron",
     "version": "1.0.0",
@@ -75,7 +75,8 @@
     },
     "dependencies": {
       "babel": "^5.8.23"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +123,6 @@
   "svnUrl": "https://github.com/flyingkrai/electron-angularjs",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:46:08.485Z",
+  "lastFetchedAt": "2017-10-23T23:02:01.848Z",
   "packageLastFetchedAt": "2017-05-05T01:26:47.751Z"
 }

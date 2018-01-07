@@ -5,7 +5,7 @@
   "owner": {
     "login": "Prahli",
     "id": 18014390,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/18014390?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/18014390?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Prahli",
     "htmlUrl": "https://github.com/Prahli",
@@ -76,10 +76,7 @@
       "microphone-debug": "electron scripts/microphone-debug/main.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
@@ -88,9 +85,6 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "install": "^0.6.1",
@@ -104,6 +98,11 @@
       "express": "^4.13.4",
       "fitbit-oauth2": "0.0.1",
       "fs": "0.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   "filename": "Prahli___smartmirror.json",
   "sourceRepo": "evancohen/smart-mirror",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:34.011Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:29.250Z"
+  "lastFetchedAt": "2017-10-24T02:04:40.404Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:29.250Z",
+  "archived": false
 }

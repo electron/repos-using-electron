@@ -5,7 +5,7 @@
   "owner": {
     "login": "stevekinney",
     "id": 251000,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/251000?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/251000?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stevekinney",
     "htmlUrl": "https://github.com/stevekinney",
@@ -20,21 +20,21 @@
   "description": "A tutorial on building a Markdown renderer in Electron.",
   "fork": false,
   "createdAt": "2016-02-04T16:19:41.000Z",
-  "updatedAt": "2017-04-09T17:46:17.000Z",
+  "updatedAt": "2017-10-11T23:16:42.000Z",
   "pushedAt": "2016-11-23T18:17:36.000Z",
   "homepage": null,
   "size": 1443,
-  "stargazersCount": 17,
-  "watchersCount": 17,
+  "stargazersCount": 18,
+  "watchersCount": 18,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 14,
+  "forksCount": 16,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 17,
+  "watchers": 18,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 14,
+  "networkCount": 16,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -60,19 +60,13 @@
       "start": "electron .",
       "build": "electron-packager . 'Fire Sale' --platform=all --arch=all --version=0.36.8"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stevekinney/firesale-tutorial.git"
-    },
+    "repository": "https://github.com/stevekinney/firesale-tutorial",
     "keywords": [
       "electron",
       "markdown"
     ],
     "author": "Steve Kinney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stevekinney/firesale-tutorial/issues"
-    },
     "homepage": "https://github.com/stevekinney/firesale-tutorial#readme",
     "devDependencies": {
       "devtron": "^1.3.0",
@@ -83,6 +77,11 @@
     "dependencies": {
       "jquery": "^3.1.1",
       "marked": "^0.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stevekinney/firesale-tutorial/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "stevekinney___firesale-tutorial.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:59.915Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:49.189Z"
+  "lastFetchedAt": "2017-10-24T00:13:27.444Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:49.189Z",
+  "archived": false
 }

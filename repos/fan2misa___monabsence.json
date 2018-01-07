@@ -5,7 +5,7 @@
   "owner": {
     "login": "fan2misa",
     "id": 4457236,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4457236?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4457236?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fan2misa",
     "htmlUrl": "https://github.com/fan2misa",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/fan2misa/monabsence",
-  "description": null,
+  "description": "Developpement d'une application desktop pour generer des demandes d'abscence (Congés / RTT) en javascript avec electron",
   "fork": false,
   "url": "https://api.github.com/repos/fan2misa/monabsence",
   "forksUrl": "https://api.github.com/repos/fan2misa/monabsence/forks",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/fan2misa/monabsence/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fan2misa/monabsence/deployments",
   "createdAt": "2016-10-27T10:03:12.000Z",
-  "updatedAt": "2016-11-03T09:28:53.000Z",
-  "pushedAt": "2016-11-03T13:31:18.000Z",
+  "updatedAt": "2017-08-03T14:59:51.000Z",
+  "pushedAt": "2017-10-23T09:07:57.000Z",
   "gitUrl": "git://github.com/fan2misa/monabsence.git",
   "sshUrl": "git@github.com:fan2misa/monabsence.git",
   "cloneUrl": "https://github.com/fan2misa/monabsence.git",
   "svnUrl": "https://github.com/fan2misa/monabsence",
-  "homepage": null,
-  "size": 1442,
+  "homepage": "",
+  "size": 1399,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -73,15 +73,9 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fan2misa/monabsence.git"
-    },
+    "repository": "https://github.com/fan2misa/monabsence",
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/fan2misa/monabsence/issues"
-    },
     "homepage": "https://github.com/fan2misa/monabsence#readme",
     "dependencies": {
       "docxtemplater": "^2.1.5",
@@ -94,6 +88,11 @@
     },
     "devDependencies": {
       "electron-packager": "^8.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fan2misa/monabsence/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "fan2misa___monabsence.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:32:01.777Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:55.851Z"
+  "lastFetchedAt": "2017-10-23T22:29:39.279Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:55.851Z",
+  "archived": false
 }

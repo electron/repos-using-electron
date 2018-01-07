@@ -5,7 +5,7 @@
   "owner": {
     "login": "qrohlf",
     "id": 347189,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/347189?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/347189?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qrohlf",
     "htmlUrl": "https://github.com/qrohlf",
@@ -73,19 +73,13 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "sh -c 'node scripts/server.js & electron src/electron_app.js'"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/qrohlf/Nigel.git"
-    },
+    "repository": "https://github.com/qrohlf/Nigel",
     "keywords": [
       "nigel",
       "thornberry"
     ],
     "author": "Quinn Rohlf <qr@qrohlf.com>",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/qrohlf/Nigel/issues"
-    },
     "homepage": "https://github.com/qrohlf/Nigel#readme",
     "dependencies": {
       "electron-prebuilt": "^1.1.1",
@@ -105,6 +99,11 @@
       "babel-preset-react": "^6.5.0",
       "css-loader": "^0.23.1",
       "style-loader": "^0.13.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/qrohlf/Nigel/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "qrohlf___Nigel.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:36.603Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:47.022Z"
+  "lastFetchedAt": "2017-10-23T23:37:30.514Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:47.022Z",
+  "archived": false
 }

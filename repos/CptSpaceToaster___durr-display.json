@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "durr-display",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/CptSpaceToaster/durr-display.git"
-    },
+    "repository": "https://github.com/CptSpaceToaster/durr-display",
     "keywords": [
       "d3",
       "disk",
@@ -91,15 +88,17 @@
     ],
     "author": "CptSpaceToaster",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/CptSpaceToaster/durr-display/issues"
-    },
     "homepage": "https://github.com/CptSpaceToaster/durr-display#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
     },
     "dependencies": {
       "d3": "^3.5.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/CptSpaceToaster/durr-display/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,6 @@
   },
   "filename": "CptSpaceToaster___durr-display.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:15.519Z",
+  "lastFetchedAt": "2017-10-23T23:02:40.598Z",
   "packageLastFetchedAt": "2017-05-04T22:26:12.329Z"
 }

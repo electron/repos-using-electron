@@ -5,7 +5,7 @@
   "owner": {
     "login": "rschroll",
     "id": 367903,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/367903?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/367903?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rschroll",
     "htmlUrl": "https://github.com/rschroll",
@@ -20,21 +20,21 @@
   "description": "Jupyter in its own window",
   "fork": false,
   "createdAt": "2016-02-16T13:55:30.000Z",
-  "updatedAt": "2016-02-16T13:56:15.000Z",
-  "pushedAt": "2017-05-01T03:37:53.000Z",
+  "updatedAt": "2017-10-10T04:50:00.000Z",
+  "pushedAt": "2017-05-12T01:47:08.000Z",
   "homepage": null,
-  "size": 815,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 824,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "forksCount": 2,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/bsd-3-clause",
     "featured": false
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rschroll/juno.git"
-    },
+    "repository": "https://github.com/rschroll/juno",
     "keywords": [
       "Jupyter",
       "IPython",
@@ -70,15 +67,17 @@
     ],
     "author": "Robert Schroll",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/rschroll/juno/issues"
-    },
     "homepage": "https://github.com/rschroll/juno#readme",
     "devDependencies": {
       "electron": "1.6.5"
     },
     "dependencies": {
       "parse-spawn-args": "^1.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rschroll/juno/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/rschroll/juno",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:41:37.202Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:21.630Z"
+  "lastFetchedAt": "2017-10-23T23:46:15.675Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:21.630Z",
+  "archived": false
 }

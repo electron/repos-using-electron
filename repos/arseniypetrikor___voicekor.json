@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "voicekor",
     "productName": "VoiceKor",
@@ -86,13 +86,7 @@
       "voicecontrol",
       "speech"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/arseniypetrikor/voicekor.git"
-    },
-    "bugs": {
-      "url": "https://github.com/arseniypetrikor/voicekor/issues"
-    },
+    "repository": "https://github.com/arseniypetrikor/voicekor",
     "author": "arseniypetrikor",
     "license": "Apache 2.0",
     "homepage": "https://arseniypetrikor.github.io/voicekor/",
@@ -104,7 +98,12 @@
       "gulp-eslint": "^3.0.1",
       "gulp-uglify": "^2.0.0"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/arseniypetrikor/voicekor/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,6 @@
   },
   "filename": "arseniypetrikor___voicekor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:17:20.970Z",
+  "lastFetchedAt": "2017-10-23T23:10:07.839Z",
   "packageLastFetchedAt": "2017-05-05T01:21:46.831Z"
 }

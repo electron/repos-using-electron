@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "jspm": {
       "name": "redux-virtual-dom",
@@ -152,10 +152,7 @@
       "build-example": "jspm build example/app.js docs/bundled.js --format umd --skip-source-maps --minify",
       "prepublish": "npm run build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/subuta/redux-virtual-dom.git"
-    },
+    "repository": "https://github.com/subuta/redux-virtual-dom",
     "keywords": [
       "redux",
       "virtual-dom",
@@ -164,10 +161,12 @@
     "author": "subuta <shunta.3110@gmail.com> (https://github.com/subuta)",
     "license": "MIT",
     "registry": "npm",
-    "bugs": {
-      "url": "https://github.com/subuta/redux-virtual-dom/issues"
-    },
-    "homepage": "https://github.com/subuta/redux-virtual-dom#readme"
+    "homepage": "https://github.com/subuta/redux-virtual-dom#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/subuta/redux-virtual-dom/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/subuta/redux-virtual-dom",
@@ -214,6 +213,6 @@
   },
   "filename": "subuta___redux-virtual-dom.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:04.011Z",
+  "lastFetchedAt": "2017-10-23T23:04:15.835Z",
   "packageLastFetchedAt": "2017-05-05T15:22:16.207Z"
 }

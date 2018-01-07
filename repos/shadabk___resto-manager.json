@@ -1,19 +1,19 @@
 {
   "id": 67297915,
   "name": "resto-manager",
-  "fullName": "shadabk/resto-manager",
+  "fullName": "shadabk96/resto-manager",
   "owner": {
-    "login": "shadabk",
+    "login": "shadabk96",
     "id": 14857394,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14857394?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14857394?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/shadabk",
-    "htmlUrl": "https://github.com/shadabk",
-    "followersUrl": "https://api.github.com/users/shadabk/followers",
-    "subscriptionsUrl": "https://api.github.com/users/shadabk/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/shadabk/orgs",
-    "reposUrl": "https://api.github.com/users/shadabk/repos",
-    "receivedEventsUrl": "https://api.github.com/users/shadabk/received_events",
+    "url": "https://api.github.com/users/shadabk96",
+    "htmlUrl": "https://github.com/shadabk96",
+    "followersUrl": "https://api.github.com/users/shadabk96/followers",
+    "subscriptionsUrl": "https://api.github.com/users/shadabk96/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/shadabk96/orgs",
+    "reposUrl": "https://api.github.com/users/shadabk96/repos",
+    "receivedEventsUrl": "https://api.github.com/users/shadabk96/received_events",
     "type": "User"
   },
   "private": false,
@@ -60,10 +60,7 @@
       "start": "electron .",
       "build": "electron-packager . --platform=win32 --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "resto-manager",
@@ -71,9 +68,6 @@
     ],
     "author": "SK",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4"
@@ -81,28 +75,33 @@
     "dependencies": {
       "mysql": "^2.11.1",
       "sequelize": "^3.24.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/shadabk/resto-manager",
-  "url": "https://api.github.com/repos/shadabk/resto-manager",
-  "forksUrl": "https://api.github.com/repos/shadabk/resto-manager/forks",
-  "teamsUrl": "https://api.github.com/repos/shadabk/resto-manager/teams",
-  "hooksUrl": "https://api.github.com/repos/shadabk/resto-manager/hooks",
-  "eventsUrl": "https://api.github.com/repos/shadabk/resto-manager/events",
-  "tagsUrl": "https://api.github.com/repos/shadabk/resto-manager/tags",
-  "languagesUrl": "https://api.github.com/repos/shadabk/resto-manager/languages",
-  "stargazersUrl": "https://api.github.com/repos/shadabk/resto-manager/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/shadabk/resto-manager/contributors",
-  "subscribersUrl": "https://api.github.com/repos/shadabk/resto-manager/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/shadabk/resto-manager/subscription",
-  "mergesUrl": "https://api.github.com/repos/shadabk/resto-manager/merges",
-  "downloadsUrl": "https://api.github.com/repos/shadabk/resto-manager/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/shadabk/resto-manager/deployments",
-  "gitUrl": "git://github.com/shadabk/resto-manager.git",
-  "sshUrl": "git@github.com:shadabk/resto-manager.git",
-  "cloneUrl": "https://github.com/shadabk/resto-manager.git",
-  "svnUrl": "https://github.com/shadabk/resto-manager",
+  "htmlUrl": "https://github.com/shadabk96/resto-manager",
+  "url": "https://api.github.com/repos/shadabk96/resto-manager",
+  "forksUrl": "https://api.github.com/repos/shadabk96/resto-manager/forks",
+  "teamsUrl": "https://api.github.com/repos/shadabk96/resto-manager/teams",
+  "hooksUrl": "https://api.github.com/repos/shadabk96/resto-manager/hooks",
+  "eventsUrl": "https://api.github.com/repos/shadabk96/resto-manager/events",
+  "tagsUrl": "https://api.github.com/repos/shadabk96/resto-manager/tags",
+  "languagesUrl": "https://api.github.com/repos/shadabk96/resto-manager/languages",
+  "stargazersUrl": "https://api.github.com/repos/shadabk96/resto-manager/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/shadabk96/resto-manager/contributors",
+  "subscribersUrl": "https://api.github.com/repos/shadabk96/resto-manager/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/shadabk96/resto-manager/subscription",
+  "mergesUrl": "https://api.github.com/repos/shadabk96/resto-manager/merges",
+  "downloadsUrl": "https://api.github.com/repos/shadabk96/resto-manager/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/shadabk96/resto-manager/deployments",
+  "gitUrl": "git://github.com/shadabk96/resto-manager.git",
+  "sshUrl": "git@github.com:shadabk96/resto-manager.git",
+  "cloneUrl": "https://github.com/shadabk96/resto-manager.git",
+  "svnUrl": "https://github.com/shadabk96/resto-manager",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "625364b83d502209a9a9bb4e07224d3368860ef4",
@@ -128,6 +127,7 @@
   },
   "filename": "shadabk___resto-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:26.424Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:54.487Z"
+  "lastFetchedAt": "2017-10-23T22:52:34.274Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:54.487Z",
+  "archived": false
 }

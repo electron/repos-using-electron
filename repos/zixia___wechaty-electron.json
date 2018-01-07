@@ -5,7 +5,7 @@
   "owner": {
     "login": "Chatie",
     "id": 25162437,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/25162437?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/25162437?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Chatie",
     "htmlUrl": "https://github.com/Chatie",
@@ -20,12 +20,12 @@
   "description": "Wechaty for Desktop",
   "fork": false,
   "createdAt": "2016-08-10T05:41:46.000Z",
-  "updatedAt": "2017-04-05T15:26:56.000Z",
+  "updatedAt": "2017-10-12T06:58:15.000Z",
   "pushedAt": "2016-12-20T21:44:00.000Z",
   "homepage": "https://www.chatie.io",
   "size": 27,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 6,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Chatie",
     "id": 25162437,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/25162437?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/25162437?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Chatie",
     "htmlUrl": "https://github.com/Chatie",
@@ -76,10 +76,7 @@
       "release": "echo release",
       "dist": "echo dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wechaty/wechaty-electron.git"
-    },
+    "repository": "https://github.com/wechaty/wechaty-electron",
     "keywords": [
       "wechaty",
       "wechat",
@@ -90,12 +87,14 @@
     ],
     "author": "Zhuohuan LI <zixia@zixia.net>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/wechaty/wechaty-electron/issues"
-    },
     "homepage": "https://github.com/wechaty/wechaty-electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/wechaty/wechaty-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "zixia___wechaty-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:47.550Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:02.113Z"
+  "lastFetchedAt": "2017-10-24T00:20:09.257Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:02.113Z",
+  "archived": false
 }

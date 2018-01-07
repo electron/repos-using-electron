@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "XiaoMeng",
     "version": "1.0.1",
@@ -80,10 +80,7 @@
       "start": "electron .",
       "test": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Tinysymphony/Qunhe-Helper.git"
-    },
+    "repository": "https://github.com/Tinysymphony/Qunhe-Helper",
     "keywords": [
       "Electron",
       "Qunhe",
@@ -105,7 +102,8 @@
       "react": "^0.14.6",
       "react-dom": "^0.14.6",
       "request": "^2.67.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,6 @@
   "filename": "Tinysymphony___Qunhe-Helper.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:11.198Z",
+  "lastFetchedAt": "2017-10-23T22:56:38.151Z",
   "packageLastFetchedAt": "2017-05-05T01:28:04.984Z"
 }

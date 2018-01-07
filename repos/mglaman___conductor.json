@@ -5,7 +5,7 @@
   "owner": {
     "login": "mglaman",
     "id": 3698644,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3698644?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3698644?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mglaman",
     "htmlUrl": "https://github.com/mglaman",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/mglaman/conductor/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mglaman/conductor/deployments",
   "createdAt": "2016-10-22T01:48:33.000Z",
-  "updatedAt": "2017-05-04T13:26:23.000Z",
-  "pushedAt": "2017-05-04T19:00:16.000Z",
+  "updatedAt": "2017-10-09T15:26:21.000Z",
+  "pushedAt": "2017-07-29T18:24:51.000Z",
   "gitUrl": "git://github.com/mglaman/conductor.git",
   "sshUrl": "git@github.com:mglaman/conductor.git",
   "cloneUrl": "https://github.com/mglaman/conductor.git",
   "svnUrl": "https://github.com/mglaman/conductor",
   "homepage": null,
-  "size": 3429,
-  "stargazersCount": 113,
-  "watchersCount": 113,
+  "size": 3589,
+  "stargazersCount": 126,
+  "watchersCount": 126,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 12,
   "openIssues": 12,
-  "watchers": 113,
+  "watchers": 126,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -83,19 +83,13 @@
       "dist-all": "build -mwl",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mglaman/conductor.git"
-    },
+    "repository": "https://github.com/mglaman/conductor",
     "keywords": [
       "composer",
       "php"
     ],
     "author": "Matt Glaman <nmd.matt@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mglaman/conductor/issues"
-    },
     "homepage": "https://github.com/mglaman/conductor",
     "build": {
       "appId": "com.mglaman.conductor",
@@ -158,6 +152,11 @@
       "electron-is-dev": "^0.1.2",
       "electron-updater": "^1.4.2",
       "font-awesome": "^4.6.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mglaman/conductor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   },
   "filename": "mglaman___conductor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:57:14.851Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:45.111Z"
+  "lastFetchedAt": "2017-10-24T00:04:23.689Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:45.111Z",
+  "archived": false
 }

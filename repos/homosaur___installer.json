@@ -164,7 +164,7 @@
   },
   "networkCount": 22,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "installer",
     "version": "0.1.0",
@@ -192,7 +192,8 @@
     "license": "Apache-2.0",
     "build": {
       "appId": "org.nodejs.installer"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -240,6 +241,6 @@
   "svnUrl": "https://github.com/homosaur/installer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:24:17.276Z",
+  "lastFetchedAt": "2017-10-24T00:11:18.416Z",
   "packageLastFetchedAt": "2017-05-05T17:19:49.954Z"
 }

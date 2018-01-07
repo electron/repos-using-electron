@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ils",
     "version": "1.1.0",
@@ -85,10 +85,7 @@
       "old-pre-commit": "jest --json --outputFile=\"config/temp/testResults.json\""
     },
     "author": "selfrefactor",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/selfrefactor/ils.git"
-    },
+    "repository": "https://github.com/selfrefactor/ils",
     "license": "ISC",
     "dependencies": {
       "babel-eslint": "*",
@@ -200,18 +197,7 @@
       "video2mp3": "*",
       "youtube-dl": "*"
     },
-    "other": {
-      "sitemap": "*",
-      "inquirer": "*",
-      "benchmark": "*",
-      "express-status-monitor": "*",
-      "opener": "*",
-      "psi": "*",
-      "ramjet": "*",
-      "react-flip-move": "*",
-      "walker": "~1.0.5",
-      "suppose": "*"
-    },
+    "other": {},
     "globalDependencies": {
       "protractor": "*",
       "elementor": "*",
@@ -250,6 +236,6 @@
   },
   "filename": "selfrefactor___ils.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:20.534Z",
+  "lastFetchedAt": "2017-10-23T23:09:19.311Z",
   "packageLastFetchedAt": "2017-05-05T14:57:53.976Z"
 }

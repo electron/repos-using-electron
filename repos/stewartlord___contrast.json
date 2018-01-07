@@ -5,7 +5,7 @@
   "owner": {
     "login": "stewartlord",
     "id": 218503,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/218503?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/218503?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stewartlord",
     "htmlUrl": "https://github.com/stewartlord",
@@ -20,21 +20,21 @@
   "description": "A diff tool written in Electron",
   "fork": false,
   "createdAt": "2016-02-26T04:55:11.000Z",
-  "updatedAt": "2017-04-20T12:17:14.000Z",
-  "pushedAt": "2016-05-22T04:58:26.000Z",
+  "updatedAt": "2017-10-19T06:25:34.000Z",
+  "pushedAt": "2017-09-15T05:59:42.000Z",
   "homepage": null,
-  "size": 2027,
-  "stargazersCount": 38,
-  "watchersCount": 38,
+  "size": 3648,
+  "stargazersCount": 70,
+  "watchersCount": 70,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 9,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 38,
+  "watchers": 70,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 8,
-  "subscribersCount": 8,
+  "networkCount": 9,
+  "subscribersCount": 12,
   "status": 200,
   "packageJSON": {
     "name": "contrast",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js --dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stewartlord/contrast.git"
-    },
+    "repository": "https://github.com/stewartlord/contrast",
     "keywords": [
       "Contrast",
       "diff",
@@ -70,9 +67,6 @@
     ],
     "author": "Stewart Lord",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stewartlord/contrast/issues"
-    },
     "homepage": "https://github.com/stewartlord/contrast#readme",
     "dependencies": {
       "jquery": "^2.2.0",
@@ -82,6 +76,11 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stewartlord/contrast/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "svnUrl": "https://github.com/stewartlord/contrast",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:26:37.975Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:32.484Z"
+  "lastFetchedAt": "2017-10-24T00:07:46.186Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:32.484Z",
+  "archived": false
 }

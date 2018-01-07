@@ -5,7 +5,7 @@
   "owner": {
     "login": "celskeggs",
     "id": 5056099,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5056099?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5056099?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/celskeggs",
     "htmlUrl": "https://github.com/celskeggs",
@@ -79,15 +79,9 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/celskeggs/journey.git"
-    },
+    "repository": "https://github.com/celskeggs/journey",
     "author": "@celskeggs",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/celskeggs/journey/issues"
-    },
     "homepage": "https://github.com/celskeggs/journey/#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -96,6 +90,11 @@
       "bootstrap": "^3.3.6",
       "jquery": "^2.2.4",
       "mustache": "^2.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/celskeggs/journey/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "celskeggs___journey.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:49.910Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:07.760Z"
+  "lastFetchedAt": "2017-10-24T00:16:21.220Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:07.760Z",
+  "archived": false
 }

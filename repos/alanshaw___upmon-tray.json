@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "upmon-tray",
     "version": "1.0.0",
@@ -79,19 +79,18 @@
     },
     "author": "Alan Shaw",
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tableflip/upmon-tray.git"
-    },
+    "repository": "https://github.com/tableflip/upmon-tray",
     "keywords": [
       "upmon",
       "service",
       "monitoring"
     ],
-    "bugs": {
-      "url": "https://github.com/tableflip/upmon-tray/issues"
-    },
-    "homepage": "https://github.com/tableflip/upmon-tray#readme"
+    "homepage": "https://github.com/tableflip/upmon-tray#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tableflip/upmon-tray/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +137,6 @@
   "svnUrl": "https://github.com/alanshaw/upmon-tray",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:33:51.907Z",
+  "lastFetchedAt": "2017-10-23T23:05:16.827Z",
   "packageLastFetchedAt": "2017-05-04T23:05:43.509Z"
 }

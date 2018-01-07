@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "rekodi",
     "version": "0.3.2",
@@ -114,13 +114,7 @@
       "xbmc-event-client": "^0.0.2"
     },
     "license": "GPL-2.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sudo-systems/rekodi.git"
-    },
-    "bugs": {
-      "url": "https://github.com/sudo-systems/rekodi/issues"
-    },
+    "repository": "https://github.com/sudo-systems/rekodi",
     "keywords": [
       "kodi",
       "xbmc",
@@ -152,6 +146,11 @@
       },
       "ecmaFeatures": {
         "modules": false
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sudo-systems/rekodi/issues"
       }
     }
   },
@@ -200,6 +199,6 @@
   },
   "filename": "sudo-systems___rekodi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:26.731Z",
+  "lastFetchedAt": "2017-10-23T23:02:38.587Z",
   "packageLastFetchedAt": "2017-05-05T17:15:50.301Z"
 }

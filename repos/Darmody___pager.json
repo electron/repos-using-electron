@@ -5,7 +5,7 @@
   "owner": {
     "login": "Darmody",
     "id": 6788752,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6788752?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6788752?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Darmody",
     "htmlUrl": "https://github.com/Darmody",
@@ -76,15 +76,9 @@
       "start:server": "node ./devServer.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Darmody/pager.git"
-    },
+    "repository": "https://github.com/Darmody/pager",
     "author": "Darmody",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Darmody/pager/issues"
-    },
     "homepage": "https://github.com/Darmody/pager#readme",
     "dependencies": {
       "dotenv": "^2.0.0",
@@ -138,6 +132,11 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.13.2",
       "webpack-dev-server": "^1.16.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Darmody/pager/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   },
   "filename": "Darmody___pager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:26:02.147Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:16.221Z"
+  "lastFetchedAt": "2017-10-24T00:07:57.961Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:16.221Z",
+  "archived": false
 }

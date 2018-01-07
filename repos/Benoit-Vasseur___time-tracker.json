@@ -5,7 +5,7 @@
   "owner": {
     "login": "Benoit-Vasseur",
     "id": 1382663,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1382663?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1382663?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Benoit-Vasseur",
     "htmlUrl": "https://github.com/Benoit-Vasseur",
@@ -59,15 +59,9 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Benoit-Vasseur/time-tracker.git"
-    },
+    "repository": "https://github.com/Benoit-Vasseur/time-tracker",
     "author": "Benoit Vasseur",
     "license": "Apache v2",
-    "bugs": {
-      "url": "https://github.com/Benoit-Vasseur/time-tracker/issues"
-    },
     "homepage": "https://github.com/Benoit-Vasseur/time-tracker",
     "devDependencies": {
       "electron-prebuilt": "^0.30.2",
@@ -76,6 +70,11 @@
     "dependencies": {
       "freshbooks": "file:my_modules/freshbooks.js",
       "jsonfile": "^2.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Benoit-Vasseur/time-tracker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   "svnUrl": "https://github.com/Benoit-Vasseur/time-tracker",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:01:14.017Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:54.010Z"
+  "lastFetchedAt": "2017-10-23T22:23:27.030Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:54.010Z",
+  "archived": false
 }

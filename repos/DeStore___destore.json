@@ -5,7 +5,7 @@
   "owner": {
     "login": "DeStore",
     "id": 21067357,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21067357?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21067357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DeStore",
     "htmlUrl": "https://github.com/DeStore",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/DeStore/destore/downloads",
   "deploymentsUrl": "https://api.github.com/repos/DeStore/destore/deployments",
   "createdAt": "2016-08-16T20:11:17.000Z",
-  "updatedAt": "2017-04-23T12:08:27.000Z",
+  "updatedAt": "2017-10-23T11:31:13.000Z",
   "pushedAt": "2016-10-19T10:14:12.000Z",
   "gitUrl": "git://github.com/DeStore/destore.git",
   "sshUrl": "git@github.com:DeStore/destore.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/DeStore/destore",
   "homepage": "http://destore.io/",
   "size": 10860,
-  "stargazersCount": 31,
-  "watchersCount": 31,
+  "stargazersCount": 32,
+  "watchersCount": 32,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 31,
+  "watchers": 32,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "DeStore",
     "id": 21067357,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/21067357?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/21067357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DeStore",
     "htmlUrl": "https://github.com/DeStore",
@@ -100,15 +100,9 @@
       "package": "asar pack DeStore.app/Contents/app DeStore.app/Contents/Resources/app.asar",
       "build": "electron-packager ./ DeStore --prune --overwrite && cp electron.icns DeStore-darwin-x64/DeStore.app/Contents/Resources/electron.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DeStore/destore.git"
-    },
+    "repository": "https://github.com/DeStore/destore",
     "author": "DeStore",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DeStore/destore/issues"
-    },
     "homepage": "https://github.com/DeStore/destore#readme",
     "dependencies": {
       "blue-tape": "^0.2.0",
@@ -141,6 +135,11 @@
       "tap-spec": "^4.1.1",
       "tape": "^4.6.0",
       "tapes": "^4.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/DeStore/destore/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   },
   "filename": "DeStore___destore.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:42:01.411Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:30.019Z"
+  "lastFetchedAt": "2017-10-23T22:54:09.115Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:30.019Z",
+  "archived": false
 }

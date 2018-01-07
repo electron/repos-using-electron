@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "webaudiomoduler",
     "version": "1.0.0",
@@ -73,15 +73,9 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:sfpgmr/webaudiomoduler.git"
-    },
+    "repository": "https://github.com/sfpgmr/webaudiomoduler",
     "author": "S.F.",
     "license": "MIT",
-    "bugs": {
-      "url": "https://gist.github.com/3a854cb6ab7951c7de5b"
-    },
     "homepage": "https://gist.github.com/3a854cb6ab7951c7de5b",
     "dependencies": {},
     "devDependencies": {
@@ -114,6 +108,11 @@
       "smash": "0.0.15",
       "uglifyify": "^3.0.1",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://gist.github.com/3a854cb6ab7951c7de5b"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,6 @@
   },
   "filename": "sfpgmr___webaudiomoduler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:54.856Z",
+  "lastFetchedAt": "2017-10-23T23:08:57.328Z",
   "packageLastFetchedAt": "2017-05-04T22:21:06.494Z"
 }

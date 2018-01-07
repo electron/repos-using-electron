@@ -5,7 +5,7 @@
   "owner": {
     "login": "jpcercal",
     "id": 366345,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/366345?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/366345?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jpcercal",
     "htmlUrl": "https://github.com/jpcercal",
@@ -105,7 +105,8 @@
     "scripts": {
       "start": "electron .",
       "package": "node ./node_modules/electron-packager/cli.js ./ duplicated-files --plataform=win32 --arch=all --out ./target-app/ --version 1.0.0 --overwrite --icon=./public/favicon.ico"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +133,7 @@
   },
   "filename": "jpcercal___duplicated-files.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:45.695Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:54.371Z"
+  "lastFetchedAt": "2017-10-23T21:45:08.152Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:54.371Z",
+  "archived": false
 }

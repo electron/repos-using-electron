@@ -5,7 +5,7 @@
   "owner": {
     "login": "lawrencejones",
     "id": 3518874,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3518874?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3518874?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lawrencejones",
     "htmlUrl": "https://github.com/lawrencejones",
@@ -70,10 +70,7 @@
     "version": "1.0.0",
     "description": "Mining git repositories for hidden treasure",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:LawrenceJones/diggit"
-    },
+    "repository": "https://github.com/LawrenceJones/diggit",
     "scripts": {
       "start": "electron main.js",
       "test": "mocha --harmony --harmony_destructuring --harmony_spread_arrays specHelper.js --recursive lib components/**/*.spec.js",
@@ -109,7 +106,8 @@
       "sass.js": "^0.9.4",
       "sinon": "^1.17.2",
       "sinon-chai": "^2.8.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +134,7 @@
   },
   "filename": "lawrencejones___diggit-experiments.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:16:01.618Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:24.424Z"
+  "lastFetchedAt": "2017-10-23T22:27:03.268Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:24.424Z",
+  "archived": false
 }

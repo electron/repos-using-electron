@@ -5,7 +5,7 @@
   "owner": {
     "login": "tsotnet",
     "id": 5042959,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5042959?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5042959?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tsotnet",
     "htmlUrl": "https://github.com/tsotnet",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tsotnet/unitnote.git"
-    },
+    "repository": "https://github.com/tsotnet/unitnote",
     "keywords": [
       "unitnote",
       "note",
@@ -70,9 +67,6 @@
     ],
     "author": "tsotnet",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tsotnet/unitnote/issues"
-    },
     "homepage": "https://github.com/tsotnet/unitnote#readme",
     "devDependencies": {
       "babel-core": "^6.7.4",
@@ -84,7 +78,12 @@
       "eslint-plugin-react": "^4.2.3",
       "webpack": "^1.12.14"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tsotnet/unitnote/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/tsotnet/unitnote",
@@ -131,6 +130,7 @@
   },
   "filename": "tsotnet___unitnote.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:13:48.560Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:59.817Z"
+  "lastFetchedAt": "2017-10-23T22:13:01.528Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:59.817Z",
+  "archived": false
 }

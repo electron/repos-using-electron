@@ -5,7 +5,7 @@
   "owner": {
     "login": "jderus",
     "id": 8976951,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8976951?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8976951?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jderus",
     "htmlUrl": "https://github.com/jderus",
@@ -75,10 +75,7 @@
       "prestart": "npm install",
       "start": "concurrent --kill-others \"gulp sass\" \"electron ./src/main.js\" \"gulp sasswatch\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jderus/tinkertron"
-    },
+    "repository": "https://github.com/jderus/tinkertron",
     "keywords": [
       "Electron",
       "quick",
@@ -118,7 +115,8 @@
       "requirejs": "^2.1.22",
       "sassdoc": "^2.1.20",
       "concurrently": "^2.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +143,7 @@
   },
   "filename": "jderus___tinkertron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:00.052Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:08.985Z"
+  "lastFetchedAt": "2017-10-24T00:19:15.975Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:08.985Z",
+  "archived": false
 }

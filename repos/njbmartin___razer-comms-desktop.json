@@ -5,7 +5,7 @@
   "owner": {
     "login": "njbmartin",
     "id": 5699471,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5699471?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5699471?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/njbmartin",
     "htmlUrl": "https://github.com/njbmartin",
@@ -20,21 +20,21 @@
   "description": "Unofficial desktop version of Razer Comms",
   "fork": false,
   "createdAt": "2016-08-04T16:33:58.000Z",
-  "updatedAt": "2016-12-27T18:59:17.000Z",
+  "updatedAt": "2017-05-09T03:33:17.000Z",
   "pushedAt": "2017-01-02T18:44:36.000Z",
   "homepage": "https://web.comms.razerzone.com",
   "size": 372,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": true,
-  "forksCount": 1,
+  "forksCount": 0,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 2,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 0,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -69,10 +69,7 @@
       "start": "electron main.js",
       "test": "standard"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/njbmartin/razer-comms-desktop.git"
-    },
+    "repository": "https://github.com/njbmartin/razer-comms-desktop",
     "keywords": [
       "Electron",
       "quick",
@@ -81,9 +78,6 @@
     ],
     "author": "Razer",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/njbmartin/razer-comms-desktop/issues"
-    },
     "homepage": "https://github.com/njbmartin/razer-comms-desktop",
     "devDependencies": {
       "electron-packager": "8.4.0",
@@ -97,6 +91,11 @@
       "electron-settings": "2.2.2",
       "es6-promise": "4.0.5",
       "open": "0.0.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/njbmartin/razer-comms-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "filename": "njbmartin___razer-comms-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:58.323Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:14.751Z"
+  "lastFetchedAt": "2017-10-23T22:28:28.757Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:14.751Z",
+  "archived": false
 }

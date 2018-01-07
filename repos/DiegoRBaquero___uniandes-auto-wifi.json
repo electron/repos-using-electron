@@ -6,7 +6,7 @@
   "owner": {
     "login": "DiegoRBaquero",
     "id": 2006839,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2006839?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2006839?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DiegoRBaquero",
     "htmlUrl": "https://github.com/DiegoRBaquero",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T18:11:45.371Z",
+  "lastFetchedAt": "2017-10-24T00:12:26.954Z",
   "packageJSON": {
     "name": "uniandes-auto-wifi",
     "description": "Conéctacte a Séneca automáticamente",
@@ -108,8 +108,10 @@
       "build": "electron-packager --out=dist --asar --overwrite .",
       "build-dist": "electron-packager --out=dist --asar --overwrite --all .",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:47:23.922Z"
+  "packageLastFetchedAt": "2017-05-05T14:47:23.922Z",
+  "archived": false
 }

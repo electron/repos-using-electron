@@ -5,7 +5,7 @@
   "owner": {
     "login": "mjaniszew",
     "id": 701365,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/701365?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/701365?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mjaniszew",
     "htmlUrl": "https://github.com/mjaniszew",
@@ -20,12 +20,12 @@
   "description": "Simple code editor example build with Ace and Electron",
   "fork": false,
   "createdAt": "2015-11-22T17:43:40.000Z",
-  "updatedAt": "2016-11-28T03:03:05.000Z",
+  "updatedAt": "2017-06-27T19:59:25.000Z",
   "pushedAt": "2015-12-09T23:14:05.000Z",
   "homepage": null,
   "size": 153,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,19 +61,18 @@
       "start": "electron .",
       "build": "electron-packager . MyEditor --out=./build --platform=darwin --arch=x64 --version=0.35.1 --asar --overwrite --ignore=\"node_modules|build\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mjaniszew/electron-editor-example.git"
-    },
+    "repository": "https://github.com/mjaniszew/electron-editor-example",
     "author": "Michal Janiszewski",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mjaniszew/electron-editor-example/issues"
-    },
     "homepage": "https://github.com/mjaniszew/electron-editor-example#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1",
       "electron-prebuilt": "^0.35.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mjaniszew/electron-editor-example/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   "svnUrl": "https://github.com/mjaniszew/electron-editor-example",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:36:14.344Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:13.990Z"
+  "lastFetchedAt": "2017-10-24T00:13:51.120Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:13.990Z",
+  "archived": false
 }

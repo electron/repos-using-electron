@@ -5,7 +5,7 @@
   "owner": {
     "login": "TimelordUK",
     "id": 7300251,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7300251?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7300251?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TimelordUK",
     "htmlUrl": "https://github.com/TimelordUK",
@@ -20,21 +20,21 @@
   "description": "branched from node-sqlserver, SQL server driver compatible with all versions of Node",
   "fork": false,
   "createdAt": "2015-09-17T20:14:22.000Z",
-  "updatedAt": "2017-04-25T03:31:10.000Z",
-  "pushedAt": "2017-03-11T18:26:02.000Z",
+  "updatedAt": "2017-10-02T14:06:28.000Z",
+  "pushedAt": "2017-10-13T21:15:30.000Z",
   "homepage": "",
-  "size": 32156,
-  "stargazersCount": 33,
-  "watchersCount": 33,
-  "language": "JavaScript",
+  "size": 46640,
+  "stargazersCount": 44,
+  "watchersCount": 44,
+  "language": "C++",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
-  "openIssuesCount": 12,
-  "openIssues": 12,
-  "watchers": 33,
+  "forksCount": 9,
+  "openIssuesCount": 16,
+  "openIssues": 16,
+  "watchers": 44,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 5,
-  "subscribersCount": 9,
+  "networkCount": 9,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "msnodesqlv8",
@@ -82,9 +82,6 @@
       "node-sqlserver"
     ],
     "homepage": "https://github.com/TimelordUK/node-sqlserver-v8",
-    "bugs": {
-      "url": "https://github.com/TimelordUK/node-sqlserver-v8/issues"
-    },
     "licenses": [
       {
         "type": "Apache 2.0",
@@ -92,19 +89,10 @@
       }
     ],
     "main": "./lib/sql.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TimelordUK/node-sqlserver-v8.git"
-    },
+    "repository": "https://github.com/TimelordUK/node-sqlserver-v8",
     "engines": {
       "node": ">=0.12"
     },
-    "maintainers": [
-      {
-        "name": "timelorduk",
-        "email": "sjames8888@gmail.com"
-      }
-    ],
     "devDependencies": {
       "@types/node": "^7.0.0",
       "asynquence": "^0.10.0",
@@ -117,25 +105,46 @@
       "win32"
     ],
     "gitHead": "e025462083dd1140eed2519c449bc257482bc61b",
-    "_id": "msnodesqlv8@0.1.35",
     "scripts": {},
-    "_shasum": "7ef7b229b0abf09aeeb847df6eb249626b626669",
-    "_from": "msnodesqlv8@*",
     "_resolved": "https://registry.npmjs.org/msnodesqlv8/-/msnodesqlv8-0.1.35.tgz",
-    "_npmVersion": "2.14.7",
-    "_nodeVersion": "4.2.3",
-    "_npmUser": {
-      "name": "timelorduk",
-      "email": "sjames8888@gmail.com"
-    },
     "dist": {
       "shasum": "7ef7b229b0abf09aeeb847df6eb249626b626669",
       "tarball": "http://registry.npmjs.org/msnodesqlv8/-/msnodesqlv8-0.1.35.tgz"
     },
-    "directories": {},
     "dependencies": {
       "@types/electron": "^1.4.31",
       "@types/node": "^7.0.5"
+    },
+    "lastPublisher": {
+      "name": "timelorduk",
+      "email": "sjames8888@gmail.com"
+    },
+    "owners": [
+      {
+        "name": "timelorduk",
+        "email": "sjames8888@gmail.com"
+      }
+    ],
+    "other": {
+      "directories": {},
+      "bugs": {
+        "url": "https://github.com/TimelordUK/node-sqlserver-v8/issues"
+      },
+      "_id": "msnodesqlv8@0.1.35",
+      "_shasum": "7ef7b229b0abf09aeeb847df6eb249626b626669",
+      "_from": "msnodesqlv8@*",
+      "_npmVersion": "2.14.7",
+      "_nodeVersion": "4.2.3",
+      "maintainers": [
+        {
+          "name": "timelorduk",
+          "email": "sjames8888@gmail.com"
+        }
+      ],
+      "_npmUser": {
+        "name": "timelorduk",
+        "email": "sjames8888@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +192,7 @@
   "svnUrl": "https://github.com/TimelordUK/node-sqlserver-v8",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:01:51.505Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:35.523Z"
+  "lastFetchedAt": "2017-10-24T00:21:04.442Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:35.523Z",
+  "archived": false
 }

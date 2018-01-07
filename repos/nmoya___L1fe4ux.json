@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "L1fe4ux",
     "version": "1.0.0",
@@ -83,10 +83,7 @@
     "keywords": [
       "L1fe4ux"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nmoya/L1fe4ux"
-    },
+    "repository": "https://github.com/nmoya/L1fe4ux",
     "author": "Nikolas Moya <nikolasmoya@gmail.com>",
     "license": "GPL-3.0",
     "dependencies": {
@@ -101,7 +98,8 @@
       "tinyurl": "^1.0.8",
       "world-clock": "^1.2.0",
       "yahoo-weather": "^2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,6 @@
   },
   "filename": "nmoya___L1fe4ux.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:31.579Z",
+  "lastFetchedAt": "2017-10-23T23:10:25.090Z",
   "packageLastFetchedAt": "2017-05-05T14:32:01.671Z"
 }

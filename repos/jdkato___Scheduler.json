@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Scheduler",
     "version": "1.0.0",
@@ -84,13 +84,7 @@
     "engines": {
       "node": ">=0.10.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jdkato/scheduler.git"
-    },
-    "bugs": {
-      "url": "https://github.com/jdkato/scheduler/issues"
-    },
+    "repository": "https://github.com/jdkato/scheduler",
     "author": "Joseph Kato",
     "license": "MIT",
     "devDependencies": {
@@ -100,6 +94,11 @@
     },
     "dependencies": {
       "nconf": "^0.7.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jdkato/scheduler/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,6 @@
   },
   "filename": "jdkato___Scheduler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:56.550Z",
+  "lastFetchedAt": "2017-10-24T00:09:59.196Z",
   "packageLastFetchedAt": "2017-05-04T22:01:39.009Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "RandScullard",
     "id": 4718759,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4718759?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4718759?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RandScullard",
     "htmlUrl": "https://github.com/RandScullard",
@@ -20,12 +20,12 @@
   "description": "Windows screen saver that displays a photo slideshow, based on the Electron framework.",
   "fork": false,
   "createdAt": "2016-05-03T20:09:35.000Z",
-  "updatedAt": "2017-05-03T02:52:18.000Z",
-  "pushedAt": "2017-03-14T12:38:33.000Z",
+  "updatedAt": "2017-10-18T12:14:07.000Z",
+  "pushedAt": "2017-08-10T20:40:15.000Z",
   "homepage": null,
-  "size": 270,
-  "stargazersCount": 30,
-  "watchersCount": 30,
+  "size": 277,
+  "stargazersCount": 35,
+  "watchersCount": 35,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 8,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 30,
+  "watchers": 35,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -60,13 +60,7 @@
       "name": "Rand Scullard",
       "email": "rand@randscullard.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/RandScullard/photo-screen-saver.git"
-    },
-    "bugs": {
-      "url": "http://github.com/RandScullard/photo-screen-saver/issues"
-    },
+    "repository": "https://github.com/RandScullard/photo-screen-saver",
     "scripts": {
       "start": "electron bin"
     },
@@ -83,6 +77,11 @@
       "grunt-npm-command": "^0.1.2",
       "grunt-ts": "^5.5.1",
       "typescript": "^2.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "http://github.com/RandScullard/photo-screen-saver/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "svnUrl": "https://github.com/RandScullard/photo-screen-saver",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:29:30.722Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:38.645Z"
+  "lastFetchedAt": "2017-10-23T22:15:13.056Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:38.645Z",
+  "archived": false
 }

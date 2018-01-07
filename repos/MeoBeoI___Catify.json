@@ -5,7 +5,7 @@
   "owner": {
     "login": "MeoBeoI",
     "id": 15938958,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15938958?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15938958?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MeoBeoI",
     "htmlUrl": "https://github.com/MeoBeoI",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/MeoBeoI/Catify/downloads",
   "deploymentsUrl": "https://api.github.com/repos/MeoBeoI/Catify/deployments",
   "createdAt": "2016-03-11T08:30:09.000Z",
-  "updatedAt": "2017-03-18T10:46:05.000Z",
+  "updatedAt": "2017-09-14T12:00:41.000Z",
   "pushedAt": "2016-12-19T04:05:35.000Z",
   "gitUrl": "git://github.com/MeoBeoI/Catify.git",
   "sshUrl": "git@github.com:MeoBeoI/Catify.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/MeoBeoI/Catify",
   "homepage": "",
   "size": 827,
-  "stargazersCount": 36,
-  "watchersCount": 36,
+  "stargazersCount": 42,
+  "watchersCount": 42,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 36,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 42,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -91,19 +91,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/meobeoi/Catify.git"
-    },
+    "repository": "https://github.com/meobeoi/Catify",
     "author": {
       "name": "MeoBeoI",
       "email": "trungnm0512@gmail.com",
       "url": "https://github.com/meobeoi"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/meobeoi/Catify/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -177,6 +171,11 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/meobeoi/Catify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -204,6 +203,7 @@
   },
   "filename": "MeoBeoI___Catify.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:44.558Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:46.613Z"
+  "lastFetchedAt": "2017-10-23T22:27:54.750Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:46.613Z",
+  "archived": false
 }

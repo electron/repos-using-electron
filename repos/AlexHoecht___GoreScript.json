@@ -70,16 +70,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gorescript",
     "description": "Retro first-person shooter, written in JavaScript using three.js",
     "version": "1.1.0",
     "homepage": "http://gorescript.com",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gorescript/gorescript.git"
-    },
+    "repository": "https://github.com/gorescript/gorescript",
     "author": {
       "name": "Sergiu Bucur",
       "email": "sergiu.bucur@outlook.com"
@@ -104,7 +101,8 @@
       "require-dir": "^0.3.0",
       "run-sequence": "^1.1.5"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +130,6 @@
   "filename": "AlexHoecht___GoreScript.json",
   "sourceRepo": "gorescript/gorescript",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:51.023Z",
+  "lastFetchedAt": "2017-10-23T23:02:45.347Z",
   "packageLastFetchedAt": "2017-05-04T22:18:58.730Z"
 }

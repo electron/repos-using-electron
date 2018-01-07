@@ -5,7 +5,7 @@
   "owner": {
     "login": "bamboo",
     "id": 51689,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/51689?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/51689?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bamboo",
     "htmlUrl": "https://github.com/bamboo",
@@ -20,12 +20,12 @@
   "description": "Quick start for a purely PureScript based Electron project ",
   "fork": false,
   "createdAt": "2016-01-11T00:11:50.000Z",
-  "updatedAt": "2016-11-08T16:34:54.000Z",
+  "updatedAt": "2017-08-24T17:33:47.000Z",
   "pushedAt": "2016-04-16T18:32:05.000Z",
   "homepage": null,
   "size": 8,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "PureScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 8,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,29 +56,28 @@
     "version": "1.0.0",
     "description": "Quick start for a purely PureScript based Electron project",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "start": "pulp build --to index.js && electron index.js",
       "test": "pulp test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bamboo/purescript-electron-quickstart.git"
-    },
+    "repository": "https://github.com/bamboo/purescript-electron-quickstart",
     "keywords": [
       "purescript",
       "electron"
     ],
     "author": "Rodrigo B. de Oliveira <rbo@acm.org>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/bamboo/purescript-electron-quickstart/issues"
-    },
     "homepage": "https://github.com/bamboo/purescript-electron-quickstart#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.6"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/bamboo/purescript-electron-quickstart/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "svnUrl": "https://github.com/bamboo/purescript-electron-quickstart",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:31:46.243Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:37.970Z"
+  "lastFetchedAt": "2017-10-23T21:45:34.896Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:37.970Z",
+  "archived": false
 }

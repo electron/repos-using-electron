@@ -70,16 +70,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "weightings",
     "version": "0.0.0",
     "description": "Small description for weightings goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -165,6 +161,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -192,6 +194,6 @@
   },
   "filename": "rrott___weightings.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:39:58.656Z",
+  "lastFetchedAt": "2017-10-23T23:43:16.143Z",
   "packageLastFetchedAt": "2017-05-05T14:55:02.048Z"
 }

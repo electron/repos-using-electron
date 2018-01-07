@@ -5,7 +5,7 @@
   "owner": {
     "login": "walle",
     "id": 191136,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/191136?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/191136?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/walle",
     "htmlUrl": "https://github.com/walle",
@@ -60,10 +60,7 @@
     "scripts": {
       "start": "electron src/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/walle/lights-out.git"
-    },
+    "repository": "https://github.com/walle/lights-out",
     "keywords": [
       "Electron",
       "game",
@@ -72,12 +69,14 @@
     ],
     "author": "Fredrik Wallgren",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/walle/lights-out/issues"
-    },
     "homepage": "https://github.com/walle/lights-out#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/walle/lights-out/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "svnUrl": "https://github.com/walle/lights-out",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:31:48.054Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:03.095Z"
+  "lastFetchedAt": "2017-10-24T00:05:18.957Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:03.095Z",
+  "archived": false
 }

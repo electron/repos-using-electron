@@ -164,7 +164,7 @@
   },
   "networkCount": 149,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "caprine",
     "productName": "Caprine",
@@ -177,18 +177,6 @@
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com"
     },
-    "maintainers": [
-      {
-        "name": "Oskar Krawczyk",
-        "email": "oskar.krawczyk@gmail.com",
-        "url": "krawczyk.io"
-      },
-      {
-        "name": "Daniel Pham",
-        "email": "pham.dany@gmail.com",
-        "url": "danhp.github.io"
-      }
-    ],
     "scripts": {
       "postinstall": "install-app-deps",
       "test": "xo",
@@ -259,6 +247,32 @@
           "nsis"
         ]
       }
+    },
+    "owners": [
+      {
+        "name": "Oskar Krawczyk",
+        "email": "oskar.krawczyk@gmail.com",
+        "url": "krawczyk.io"
+      },
+      {
+        "name": "Daniel Pham",
+        "email": "pham.dany@gmail.com",
+        "url": "danhp.github.io"
+      }
+    ],
+    "other": {
+      "maintainers": [
+        {
+          "name": "Oskar Krawczyk",
+          "email": "oskar.krawczyk@gmail.com",
+          "url": "krawczyk.io"
+        },
+        {
+          "name": "Daniel Pham",
+          "email": "pham.dany@gmail.com",
+          "url": "danhp.github.io"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -307,6 +321,6 @@
   "svnUrl": "https://github.com/kusamakura/caprine",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:24:15.099Z",
+  "lastFetchedAt": "2017-10-24T00:11:14.129Z",
   "packageLastFetchedAt": "2017-05-04T22:54:07.415Z"
 }

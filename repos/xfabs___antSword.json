@@ -164,7 +164,7 @@
   },
   "networkCount": 317,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "antsword",
     "version": "1.0.0",
@@ -189,14 +189,13 @@
     },
     "author": "antoor <u@uyu.us>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/antoor/antSword"
-    },
-    "bugs": {
-      "url": "https://github.com/antoor/antSword/issues"
-    },
-    "homepage": "https://github.com/antoor/antSword"
+    "repository": "https://github.com/antoor/antSword",
+    "homepage": "https://github.com/antoor/antSword",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/antoor/antSword/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -244,6 +243,6 @@
   "svnUrl": "https://github.com/xfabs/antSword",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:14:52.697Z",
+  "lastFetchedAt": "2017-10-24T00:10:18.438Z",
   "packageLastFetchedAt": "2017-05-05T17:41:23.006Z"
 }

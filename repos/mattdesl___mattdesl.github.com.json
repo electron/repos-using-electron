@@ -5,7 +5,7 @@
   "owner": {
     "login": "mattdesl",
     "id": 1383811,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1383811?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1383811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mattdesl",
     "htmlUrl": "https://github.com/mattdesl",
@@ -20,12 +20,12 @@
   "description": "a site for my work",
   "fork": false,
   "createdAt": "2015-12-07T16:29:52.000Z",
-  "updatedAt": "2017-03-08T23:58:27.000Z",
-  "pushedAt": "2017-02-28T15:10:36.000Z",
+  "updatedAt": "2017-09-24T13:43:23.000Z",
+  "pushedAt": "2017-09-19T16:38:15.000Z",
   "homepage": "http://mattdesl.com",
-  "size": 1044,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 1043,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 6,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -134,13 +134,12 @@
       "deploy": "npm run build && surge -p app"
     },
     "keywords": [],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mattdesl/mattdesl.github.com.git"
-    },
+    "repository": "https://github.com/mattdesl/mattdesl.github.com",
     "homepage": "https://github.com/mattdesl/mattdesl.github.com",
-    "bugs": {
-      "url": "https://github.com/mattdesl/mattdesl.github.com/issues"
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mattdesl/mattdesl.github.com/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -188,6 +187,7 @@
   "svnUrl": "https://github.com/mattdesl/mattdesl.github.com",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:18:06.053Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:40.433Z"
+  "lastFetchedAt": "2017-10-23T23:44:27.418Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:40.433Z",
+  "archived": false
 }

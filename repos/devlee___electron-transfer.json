@@ -5,7 +5,7 @@
   "owner": {
     "login": "devlee",
     "id": 5643481,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5643481?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5643481?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/devlee",
     "htmlUrl": "https://github.com/devlee",
@@ -73,10 +73,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/devlee/electron-transfer.git"
-    },
+    "repository": "https://github.com/devlee/electron-transfer",
     "keywords": [
       "electron",
       "transfer",
@@ -87,9 +84,6 @@
     ],
     "author": "devlee",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/devlee/electron-transfer/issues"
-    },
     "homepage": "https://github.com/devlee/electron-transfer#readme",
     "dependencies": {
       "electron": "^1.3.4",
@@ -107,6 +101,11 @@
       "sax": "^1.2.1",
       "sprintf-js": "^1.0.3",
       "xmlbuilder": "^8.2.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/devlee/electron-transfer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "devlee___electron-transfer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:34.644Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:14.648Z"
+  "lastFetchedAt": "2017-10-23T21:46:37.021Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:14.648Z",
+  "archived": false
 }

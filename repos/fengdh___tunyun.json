@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tunyun",
     "version": "0.1.0",
@@ -75,10 +75,7 @@
     "scripts": {
       "mining": "electron main-mining.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fengdh/vdisk-exploiter"
-    },
+    "repository": "https://github.com/fengdh/vdisk-exploiter",
     "keywords": [
       "Electron",
       "vdisk",
@@ -92,7 +89,8 @@
       "mt-downloader": "^1.4.1",
       "jquery": "^2.1.4",
       "d3": "^4.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,6 @@
   },
   "filename": "fengdh___tunyun.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:02.016Z",
+  "lastFetchedAt": "2017-10-23T22:56:52.086Z",
   "packageLastFetchedAt": "2017-05-04T23:04:22.070Z"
 }

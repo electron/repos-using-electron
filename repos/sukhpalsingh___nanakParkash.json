@@ -5,7 +5,7 @@
   "owner": {
     "login": "sukhpalsingh",
     "id": 5441960,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5441960?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5441960?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sukhpalsingh",
     "htmlUrl": "https://github.com/sukhpalsingh",
@@ -96,7 +96,8 @@
     "scripts": {
       "postinstall": "npm run rebuild-sqlite3",
       "rebuild-sqlite3": "cd node_modules/sqlite3 && npm run prepublish &amp;&amp; node-gyp configure --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-darwin-x64 &amp;&amp; node-gyp rebuild --target=0.36.1 --arch=x64 --target_platform=darwin --dist-url=https://atom.io/download/atom-shell --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-darwin-x64"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 404,
   "firstCommit": {
@@ -123,6 +124,7 @@
   },
   "filename": "sukhpalsingh___nanakParkash.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:26.121Z",
-  "packageLastFetchedAt": "2017-05-05T14:23:22.055Z"
+  "lastFetchedAt": "2017-10-23T21:51:49.627Z",
+  "packageLastFetchedAt": "2017-05-05T14:23:22.055Z",
+  "archived": false
 }

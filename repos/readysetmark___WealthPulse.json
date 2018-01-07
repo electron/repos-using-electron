@@ -5,7 +5,7 @@
   "owner": {
     "login": "readysetmark",
     "id": 1524876,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1524876?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1524876?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/readysetmark",
     "htmlUrl": "https://github.com/readysetmark",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/readysetmark/WealthPulse/downloads",
   "deploymentsUrl": "https://api.github.com/repos/readysetmark/WealthPulse/deployments",
   "createdAt": "2013-10-20T13:21:10.000Z",
-  "updatedAt": "2017-03-07T21:38:17.000Z",
-  "pushedAt": "2017-02-09T04:11:27.000Z",
+  "updatedAt": "2017-07-11T03:37:15.000Z",
+  "pushedAt": "2017-10-04T02:36:31.000Z",
   "gitUrl": "git://github.com/readysetmark/WealthPulse.git",
   "sshUrl": "git@github.com:readysetmark/WealthPulse.git",
   "cloneUrl": "https://github.com/readysetmark/WealthPulse.git",
   "svnUrl": "https://github.com/readysetmark/WealthPulse",
   "homepage": null,
-  "size": 8767,
+  "size": 8770,
   "stargazersCount": 9,
   "watchersCount": 9,
   "language": "JavaScript",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron WealthPulseApp/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/readysetmark/WealthPulse.git"
-    },
+    "repository": "https://github.com/readysetmark/WealthPulse",
     "keywords": [
       "ledger",
       "electron",
@@ -91,12 +88,14 @@
     ],
     "author": "Mark Williams",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/readysetmark/WealthPulse/issues"
-    },
     "homepage": "https://github.com/readysetmark/WealthPulse#readme",
     "dependencies": {
       "electron-prebuilt": "^0.34.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/readysetmark/WealthPulse/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "readysetmark___WealthPulse.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:27.934Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:41.299Z"
+  "lastFetchedAt": "2017-10-23T21:45:18.403Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:41.299Z",
+  "archived": false
 }

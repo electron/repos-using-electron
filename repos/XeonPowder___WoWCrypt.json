@@ -5,7 +5,7 @@
   "owner": {
     "login": "XeonPowder",
     "id": 2179775,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2179775?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2179775?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/XeonPowder",
     "htmlUrl": "https://github.com/XeonPowder",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/XeonPowder/WoWCrypt/downloads",
   "deploymentsUrl": "https://api.github.com/repos/XeonPowder/WoWCrypt/deployments",
   "createdAt": "2016-11-08T02:59:57.000Z",
-  "updatedAt": "2017-04-14T21:14:18.000Z",
-  "pushedAt": "2016-11-18T21:16:32.000Z",
+  "updatedAt": "2017-09-19T16:31:42.000Z",
+  "pushedAt": "2017-05-19T21:02:01.000Z",
   "gitUrl": "git://github.com/XeonPowder/WoWCrypt.git",
   "sshUrl": "git@github.com:XeonPowder/WoWCrypt.git",
   "cloneUrl": "https://github.com/XeonPowder/WoWCrypt.git",
   "svnUrl": "https://github.com/XeonPowder/WoWCrypt",
   "homepage": null,
-  "size": 122938,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 122728,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "Vue",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -78,13 +78,7 @@
     "author": "Lars van der Zande <lmvdzd@gmail.com>",
     "homepage": "https://github.com/XeonPowder/WoWCrypt",
     "license": "MIT",
-    "directories": {
-      "buildResources": "./app/assets"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/XeonPowder/WoWCrypt.git"
-    },
+    "repository": "https://github.com/XeonPowder/WoWCrypt",
     "build": {
       "appId": "com.xeonpowder.wowcrypt",
       "mac": {
@@ -149,7 +143,12 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "directories": {
+        "buildResources": "./app/assets"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -176,6 +175,7 @@
   },
   "filename": "XeonPowder___WoWCrypt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:22.864Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:48.058Z"
+  "lastFetchedAt": "2017-10-23T21:45:19.388Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:48.058Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "zce",
     "id": 6166576,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6166576?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6166576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zce",
     "htmlUrl": "https://github.com/zce",
@@ -73,10 +73,7 @@
     "scripts": {
       "test": "./node_modules/.bin/electron ./app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Micua/painter.git"
-    },
+    "repository": "https://github.com/Micua/painter",
     "keywords": [
       "painter",
       "electron",
@@ -84,9 +81,6 @@
     ],
     "author": "iceStone <ice@wedn.net> (http://www.wedn.net/)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Micua/painter/issues"
-    },
     "homepage": "https://github.com/Micua/painter#readme",
     "devDependencies": {
       "asar": "^0.10.0",
@@ -94,6 +88,11 @@
       "gulp": "^3.9.1",
       "gulp-clean": "^0.3.2",
       "gulp-electron": "0.0.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Micua/painter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "zce___painter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:10.358Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:06.740Z"
+  "lastFetchedAt": "2017-10-23T21:43:38.019Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:06.740Z",
+  "archived": false
 }

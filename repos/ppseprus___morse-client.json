@@ -5,7 +5,7 @@
   "owner": {
     "login": "ppseprus",
     "id": 1323285,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1323285?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1323285?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ppseprus",
     "htmlUrl": "https://github.com/ppseprus",
@@ -75,15 +75,9 @@
       "prestart": "npm run build",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ppseprus/morse.git"
-    },
+    "repository": "https://github.com/ppseprus/morse",
     "author": "ppseprus",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ppseprus/morse/issues"
-    },
     "homepage": "https://github.com/ppseprus/morse#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.4",
@@ -99,6 +93,11 @@
       "bootstrap": "^3.3.6",
       "jquery": "^2.2.0",
       "socket.io-client": "^1.4.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ppseprus/morse/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "ppseprus___morse-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:14.253Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:42.816Z"
+  "lastFetchedAt": "2017-10-23T23:41:11.925Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:42.816Z",
+  "archived": false
 }

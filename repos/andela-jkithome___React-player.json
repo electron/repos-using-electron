@@ -5,7 +5,7 @@
   "owner": {
     "login": "andela-jkithome",
     "id": 13940216,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13940216?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13940216?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andela-jkithome",
     "htmlUrl": "https://github.com/andela-jkithome",
@@ -74,15 +74,9 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/andela-jkithome/React-player.git"
-    },
+    "repository": "https://github.com/andela-jkithome/React-player",
     "author": "Jeremy Kithome",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/andela-jkithome/React-player/issues"
-    },
     "homepage": "https://github.com/andela-jkithome/React-player#readme",
     "dependencies": {
       "axios": "^0.9.1",
@@ -99,6 +93,11 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/andela-jkithome/React-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "andela-jkithome___React-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:02.831Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:31.572Z"
+  "lastFetchedAt": "2017-10-24T00:04:17.178Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:31.572Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "editdata",
     "id": 14816301,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14816301?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14816301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/editdata",
     "htmlUrl": "https://github.com/editdata",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "editdata",
     "id": 14816301,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14816301?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14816301?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/editdata",
     "htmlUrl": "https://github.com/editdata",
@@ -64,9 +64,6 @@
     "version": "1.0.2",
     "description": "an api client for github that performs actions needed by editdata applications",
     "main": "index.js",
-    "directories": {
-      "test": "tests"
-    },
     "scripts": {
       "lint": "standard",
       "test:node": "tape tests/*.js | tap-spec",
@@ -76,15 +73,9 @@
     "browser": {
       "request": "xhr"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/editdata/editdata-github.git"
-    },
+    "repository": "https://github.com/editdata/editdata-github",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/editdata/editdata-github/issues"
-    },
     "homepage": "https://github.com/editdata/editdata-github#readme",
     "devDependencies": {
       "documentation-readme": "^2.1.1",
@@ -105,6 +96,14 @@
       "through2": "^2.0.1",
       "utf8": "^2.1.1",
       "xhr": "^2.2.0"
+    },
+    "other": {
+      "directories": {
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/editdata/editdata-github/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   "svnUrl": "https://github.com/editdata/editdata-github",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:27:34.455Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:19.135Z"
+  "lastFetchedAt": "2017-10-23T23:39:09.785Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:19.135Z",
+  "archived": false
 }

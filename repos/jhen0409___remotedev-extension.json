@@ -5,7 +5,7 @@
   "owner": {
     "login": "jhen0409",
     "id": 3001525,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3001525?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3001525?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jhen0409",
     "htmlUrl": "https://github.com/jhen0409",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jhen0409/remotedev-extension/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jhen0409/remotedev-extension/deployments",
   "createdAt": "2016-02-04T11:35:54.000Z",
-  "updatedAt": "2016-08-22T04:25:41.000Z",
+  "updatedAt": "2017-07-07T20:08:05.000Z",
   "pushedAt": "2016-04-21T00:28:06.000Z",
   "gitUrl": "git://github.com/jhen0409/remotedev-extension.git",
   "sshUrl": "git@github.com:jhen0409/remotedev-extension.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/jhen0409/remotedev-extension",
   "homepage": "",
   "size": 2365,
-  "stargazersCount": 15,
-  "watchersCount": 15,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 15,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -75,10 +75,7 @@
     "name": "remotedev-extension",
     "version": "0.0.10",
     "description": "Use Redux DevTools in the Browser/Electron DevTools",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jhen0409/remotedev-extension.git"
-    },
+    "repository": "https://github.com/jhen0409/remotedev-extension",
     "keywords": [
       "remote",
       "redux",
@@ -115,7 +112,8 @@
     "dependencies": {
       "minimist": "^1.2.0",
       "remotedev-server": "0.0.7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +140,7 @@
   },
   "filename": "jhen0409___remotedev-extension.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:40.310Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:43.879Z"
+  "lastFetchedAt": "2017-10-23T22:13:28.792Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:43.879Z",
+  "archived": false
 }

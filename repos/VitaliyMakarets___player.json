@@ -1,46 +1,46 @@
 {
   "id": 58262931,
   "name": "player",
-  "fullName": "VitaliyMakarets/player",
+  "fullName": "mandelbroo/player",
   "owner": {
-    "login": "VitaliyMakarets",
+    "login": "mandelbroo",
     "id": 6920562,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6920562?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6920562?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/VitaliyMakarets",
-    "htmlUrl": "https://github.com/VitaliyMakarets",
-    "followersUrl": "https://api.github.com/users/VitaliyMakarets/followers",
-    "subscriptionsUrl": "https://api.github.com/users/VitaliyMakarets/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/VitaliyMakarets/orgs",
-    "reposUrl": "https://api.github.com/users/VitaliyMakarets/repos",
-    "receivedEventsUrl": "https://api.github.com/users/VitaliyMakarets/received_events",
+    "url": "https://api.github.com/users/mandelbroo",
+    "htmlUrl": "https://github.com/mandelbroo",
+    "followersUrl": "https://api.github.com/users/mandelbroo/followers",
+    "subscriptionsUrl": "https://api.github.com/users/mandelbroo/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/mandelbroo/orgs",
+    "reposUrl": "https://api.github.com/users/mandelbroo/repos",
+    "receivedEventsUrl": "https://api.github.com/users/mandelbroo/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/VitaliyMakarets/player",
+  "htmlUrl": "https://github.com/mandelbroo/player",
   "description": "Simple player app based on electron",
   "fork": false,
-  "url": "https://api.github.com/repos/VitaliyMakarets/player",
-  "forksUrl": "https://api.github.com/repos/VitaliyMakarets/player/forks",
-  "teamsUrl": "https://api.github.com/repos/VitaliyMakarets/player/teams",
-  "hooksUrl": "https://api.github.com/repos/VitaliyMakarets/player/hooks",
-  "eventsUrl": "https://api.github.com/repos/VitaliyMakarets/player/events",
-  "tagsUrl": "https://api.github.com/repos/VitaliyMakarets/player/tags",
-  "languagesUrl": "https://api.github.com/repos/VitaliyMakarets/player/languages",
-  "stargazersUrl": "https://api.github.com/repos/VitaliyMakarets/player/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/VitaliyMakarets/player/contributors",
-  "subscribersUrl": "https://api.github.com/repos/VitaliyMakarets/player/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/VitaliyMakarets/player/subscription",
-  "mergesUrl": "https://api.github.com/repos/VitaliyMakarets/player/merges",
-  "downloadsUrl": "https://api.github.com/repos/VitaliyMakarets/player/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/VitaliyMakarets/player/deployments",
+  "url": "https://api.github.com/repos/mandelbroo/player",
+  "forksUrl": "https://api.github.com/repos/mandelbroo/player/forks",
+  "teamsUrl": "https://api.github.com/repos/mandelbroo/player/teams",
+  "hooksUrl": "https://api.github.com/repos/mandelbroo/player/hooks",
+  "eventsUrl": "https://api.github.com/repos/mandelbroo/player/events",
+  "tagsUrl": "https://api.github.com/repos/mandelbroo/player/tags",
+  "languagesUrl": "https://api.github.com/repos/mandelbroo/player/languages",
+  "stargazersUrl": "https://api.github.com/repos/mandelbroo/player/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/mandelbroo/player/contributors",
+  "subscribersUrl": "https://api.github.com/repos/mandelbroo/player/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/mandelbroo/player/subscription",
+  "mergesUrl": "https://api.github.com/repos/mandelbroo/player/merges",
+  "downloadsUrl": "https://api.github.com/repos/mandelbroo/player/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/mandelbroo/player/deployments",
   "createdAt": "2016-05-07T11:24:55.000Z",
   "updatedAt": "2016-05-09T10:25:29.000Z",
   "pushedAt": "2016-06-03T04:59:37.000Z",
-  "gitUrl": "git://github.com/VitaliyMakarets/player.git",
-  "sshUrl": "git@github.com:VitaliyMakarets/player.git",
-  "cloneUrl": "https://github.com/VitaliyMakarets/player.git",
-  "svnUrl": "https://github.com/VitaliyMakarets/player",
+  "gitUrl": "git://github.com/mandelbroo/player.git",
+  "sshUrl": "git@github.com:mandelbroo/player.git",
+  "cloneUrl": "https://github.com/mandelbroo/player.git",
+  "svnUrl": "https://github.com/mandelbroo/player",
   "homepage": "https://github.com/VitaliyMakarets/player",
   "size": 13,
   "stargazersCount": 0,
@@ -78,10 +78,7 @@
       "build:watch": "npm run build:assets | npm run build:js-watch",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/VitaliyMakarets/player.git"
-    },
+    "repository": "https://github.com/VitaliyMakarets/player",
     "keywords": [
       "mp3",
       "audio",
@@ -92,9 +89,6 @@
     ],
     "author": "vitaliy <o.u.screamaimfire14@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/VitaliyMakarets/player/issues"
-    },
     "dependencies": {
       "async": "^0.9.0",
       "follow-redirects": "0.0.7",
@@ -113,6 +107,11 @@
       "debug": "^2.1.0",
       "musicmetadata": "1.0.1",
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/VitaliyMakarets/player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "VitaliyMakarets___player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:08.702Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:09.562Z"
+  "lastFetchedAt": "2017-10-24T02:02:27.374Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:09.562Z",
+  "archived": false
 }

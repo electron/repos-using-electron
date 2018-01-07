@@ -186,8 +186,8 @@
   },
   "networkCount": 44,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T19:31:24.742Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:06:40.332Z",
   "packageJSON": {
     "name": "ndm",
     "version": "1.1.1",
@@ -208,14 +208,8 @@
       "Filippo Oretti",
       "Dario Andrei"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/720kb/ndm.git"
-    },
+    "repository": "https://github.com/720kb/ndm",
     "copyright": "©720kb, Filippo Oretti, Dario Andrei",
-    "bugs": {
-      "url": "https://github.com/720kb/ndm/issues"
-    },
     "license": {
       "type": "GPL-3.0",
       "url": "https://github.com/720kb/ndm/blob/master/LICENSE.md"
@@ -342,6 +336,11 @@
       "rollup-plugin-json": "^2.0.0",
       "run-sequence": "^1.1.5",
       "yargs": "^6.5.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/720kb/ndm/issues"
+      }
     }
   },
   "packageStatus": 200,

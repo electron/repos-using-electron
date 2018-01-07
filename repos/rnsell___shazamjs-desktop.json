@@ -5,7 +5,7 @@
   "owner": {
     "login": "rnsell",
     "id": 3444545,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3444545?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3444545?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rnsell",
     "htmlUrl": "https://github.com/rnsell",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "shazamjs-desktop",
@@ -80,18 +80,17 @@
       "test": "mocha ./lib/**/*.test.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rnsell/shazamjs-desktop.git"
-    },
+    "repository": "https://github.com/rnsell/shazamjs-desktop",
     "author": "rnsell",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rnsell/shazamjs-desktop/issues"
-    },
     "homepage": "https://github.com/rnsell/shazamjs-desktop#readme",
     "dependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rnsell/shazamjs-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "rnsell___shazamjs-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:28.041Z",
-  "packageLastFetchedAt": "2017-05-05T14:49:35.257Z"
+  "lastFetchedAt": "2017-10-23T21:50:34.345Z",
+  "packageLastFetchedAt": "2017-05-05T14:49:35.257Z",
+  "archived": false
 }

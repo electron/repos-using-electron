@@ -5,7 +5,7 @@
   "owner": {
     "login": "poooi",
     "id": 11751187,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11751187?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11751187?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/poooi",
     "htmlUrl": "https://github.com/poooi",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/poooi/poi/downloads",
   "deploymentsUrl": "https://api.github.com/repos/poooi/poi/deployments",
   "createdAt": "2015-05-04T05:19:54.000Z",
-  "updatedAt": "2017-05-03T19:28:01.000Z",
-  "pushedAt": "2017-05-04T11:59:57.000Z",
+  "updatedAt": "2017-10-22T15:12:24.000Z",
+  "pushedAt": "2017-10-21T04:08:30.000Z",
   "gitUrl": "git://github.com/poooi/poi.git",
   "sshUrl": "git@github.com:poooi/poi.git",
   "cloneUrl": "https://github.com/poooi/poi.git",
   "svnUrl": "https://github.com/poooi/poi",
   "homepage": "https://poi.io",
-  "size": 34422,
-  "stargazersCount": 725,
-  "watchersCount": 725,
+  "size": 35410,
+  "stargazersCount": 857,
+  "watchersCount": 857,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 227,
+  "forksCount": 256,
   "mirrorUrl": null,
-  "openIssuesCount": 63,
-  "openIssues": 63,
-  "watchers": 725,
+  "openIssuesCount": 85,
+  "openIssues": 85,
+  "watchers": 857,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "poooi",
     "id": 11751187,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11751187?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11751187?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/poooi",
     "htmlUrl": "https://github.com/poooi",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/poooi/received_events",
     "type": "Organization"
   },
-  "networkCount": 227,
-  "subscribersCount": 100,
+  "networkCount": 256,
+  "subscribersCount": 104,
   "status": 200,
   "packageJSON": {
     "name": "poi",
@@ -100,10 +100,7 @@
       "clean": "gulp clean",
       "lint": "eslint . --ext .es --ext .js --ignore-path .gitignore"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/poooi/poi.git"
-    },
+    "repository": "https://github.com/poooi/poi",
     "keywords": [
       "KanColle",
       "Browser",
@@ -114,9 +111,6 @@
       "email": "readme.md@gmail.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/poooi/poi/issues"
-    },
     "homepage": "https://github.com/poooi/poi",
     "dependencies": {
       "babel-core": "^6.23.1",
@@ -241,6 +235,11 @@
       "directories": {
         "app": "app_compiled"
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/poooi/poi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -268,6 +267,7 @@
   },
   "filename": "poooi___poi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:37.267Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:11.379Z"
+  "lastFetchedAt": "2017-10-23T21:52:30.627Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:11.379Z",
+  "archived": false
 }

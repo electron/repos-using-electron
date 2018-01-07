@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "scotch-player",
     "productName": "ScotchPlayer",
@@ -81,10 +81,7 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:szekelyadam/ScotchPlayer.git"
-    },
+    "repository": "https://github.com/szekelyadam/ScotchPlayer",
     "author": "adam",
     "license": "MIT",
     "dependencies": {
@@ -108,7 +105,8 @@
       "eslint-plugin-import": "^1.13.0",
       "eslint-plugin-jsx-a11y": "^2.1.0",
       "eslint-plugin-react": "^6.1.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,6 @@
   },
   "filename": "szekelyadam___ScotchPlayer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:44.964Z",
+  "lastFetchedAt": "2017-10-23T23:03:15.084Z",
   "packageLastFetchedAt": "2017-05-05T17:38:11.345Z"
 }

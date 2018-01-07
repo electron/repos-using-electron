@@ -6,7 +6,7 @@
   "owner": {
     "login": "joshski",
     "id": 22017,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/22017?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/22017?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joshski",
     "htmlUrl": "https://github.com/joshski",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/joshski/double-hexagon-example/downloads",
   "deploymentsUrl": "https://api.github.com/repos/joshski/double-hexagon-example/deployments",
   "createdAt": "2017-03-06T00:59:52.000Z",
-  "updatedAt": "2017-03-06T22:07:04.000Z",
-  "pushedAt": "2017-03-17T09:32:27.000Z",
+  "updatedAt": "2017-08-16T21:48:30.000Z",
+  "pushedAt": "2017-05-31T05:45:57.000Z",
   "gitUrl": "git://github.com/joshski/double-hexagon-example.git",
   "sshUrl": "git@github.com:joshski/double-hexagon-example.git",
   "cloneUrl": "https://github.com/joshski/double-hexagon-example.git",
   "svnUrl": "https://github.com/joshski/double-hexagon-example",
   "homepage": null,
-  "size": 18,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 14,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -54,9 +54,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -67,14 +67,11 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:28:51.655Z",
+  "lastFetchedAt": "2017-10-23T22:06:07.108Z",
   "packageJSON": {
     "name": "double-hexagon-example",
     "version": "1.0.0",
     "description": "An example of the double hexagon architecture",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "mocha --harmony && electron-mocha --renderer"
     },
@@ -87,8 +84,14 @@
     "dependencies": {
       "body-parser": "^1.17.0",
       "express": "^4.15.0"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:54:06.285Z"
+  "packageLastFetchedAt": "2017-05-05T14:54:06.285Z",
+  "archived": false
 }

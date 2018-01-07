@@ -5,7 +5,7 @@
   "owner": {
     "login": "iamropo",
     "id": 12847937,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12847937?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12847937?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iamropo",
     "htmlUrl": "https://github.com/iamropo",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "iamropo___ropo-paint.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:22.406Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:40.555Z"
+  "lastFetchedAt": "2017-10-23T22:07:55.273Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:40.555Z",
+  "archived": false
 }

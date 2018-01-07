@@ -5,7 +5,7 @@
   "owner": {
     "login": "mrkovec",
     "id": 6224603,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6224603?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6224603?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mrkovec",
     "htmlUrl": "https://github.com/mrkovec",
@@ -51,10 +51,7 @@
     "version": "0.1.0",
     "description": "Open source comic/ebook reader",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mrkovec/mReader.git"
-    },
+    "repository": "https://github.com/mrkovec/mReader",
     "main": "./src/app/init.js",
     "scripts": {
       "start": "electron ."
@@ -73,7 +70,8 @@
     },
     "devDependencies": {
       "electron": "^1.6.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mrkovec/mReader",
@@ -120,6 +118,7 @@
   },
   "filename": "mrkovec___mReader.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:15.236Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:40.687Z"
+  "lastFetchedAt": "2017-10-23T22:24:58.248Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:40.687Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "DisruptiveMind",
     "id": 95763,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/95763?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/95763?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DisruptiveMind",
     "htmlUrl": "https://github.com/DisruptiveMind",
@@ -79,16 +79,18 @@
         "icon": "./assets/icons/icon.icns"
       }
     },
-    "directories": {
-      "output": "release",
-      "app": "build"
-    },
     "devDependencies": {
       "del": "^2.2.0",
       "electron-prebuilt": "^1.2.2",
       "gulp": "^3.9.1",
       "gulp-rename": "^1.2.2",
       "run-sequence": "^1.2.1"
+    },
+    "other": {
+      "directories": {
+        "output": "release",
+        "app": "build"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +138,7 @@
   "svnUrl": "https://github.com/DisruptiveMind/electron-cordova-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:28:19.541Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:18.510Z"
+  "lastFetchedAt": "2017-10-23T22:53:40.639Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:18.510Z",
+  "archived": false
 }

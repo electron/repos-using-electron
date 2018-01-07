@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "kamori",
     "productName": "Kamori",
@@ -104,7 +104,8 @@
       "ignores": [
         "dist/**"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +152,6 @@
   "svnUrl": "https://github.com/Joezo/kamori",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:06:18.347Z",
+  "lastFetchedAt": "2017-10-24T00:10:13.749Z",
   "packageLastFetchedAt": "2017-05-05T17:27:29.629Z"
 }

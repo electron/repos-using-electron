@@ -64,7 +64,7 @@
   },
   "networkCount": 6,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Autographa",
     "version": "0.1.0",
@@ -82,10 +82,7 @@
       "postinstall_windows": "cd node_modules/pouchdb/node_modules/leveldown; node-gyp rebuild --target=1.4.12 --dist-url=https://atom.io/download/atom-shell",
       "installer": "node ./script/installer.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Bridgeconn/autographa-lite.git"
-    },
+    "repository": "https://github.com/Bridgeconn/autographa-lite",
     "keywords": [
       "Desktop",
       "Bible Editor",
@@ -94,9 +91,6 @@
     ],
     "author": "Bridgeconn",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Bridgeconn/autographa-lite/issues"
-    },
     "homepage": "http://http://www.autographa.com",
     "dependencies": {
       "diff-match-patch": "^1.0.0",
@@ -127,6 +121,11 @@
     "build": {
       "appId": "oa.autographa.lite",
       "ProductName": "Autographa Lite"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Bridgeconn/autographa-lite/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -174,6 +173,6 @@
   "svnUrl": "https://github.com/Bridgeconn/autographa-lite",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:01:20.322Z",
+  "lastFetchedAt": "2017-10-23T23:02:50.848Z",
   "packageLastFetchedAt": "2017-05-04T22:28:33.141Z"
 }

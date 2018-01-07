@@ -5,7 +5,7 @@
   "owner": {
     "login": "ciphjs",
     "id": 20623536,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20623536?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20623536?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ciphjs",
     "htmlUrl": "https://github.com/ciphjs",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "ciphjs",
     "id": 20623536,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20623536?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20623536?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ciphjs",
     "htmlUrl": "https://github.com/ciphjs",
@@ -94,10 +94,7 @@
       "start": "npm run build && electron .",
       "build": "grunt build:app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ciphjs/ciph.git"
-    },
+    "repository": "https://github.com/ciphjs/ciph",
     "keywords": [
       "ciper",
       "crypto",
@@ -107,9 +104,6 @@
     ],
     "author": "Nick Iv",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ciphjs/ciph/issues"
-    },
     "homepage": "https://github.com/ciphjs/ciph#readme",
     "dependencies": {
       "backbone": "^1.3.3",
@@ -133,6 +127,11 @@
       "jade": "^1.11.0",
       "jadeify": "^4.6.0",
       "node-srv": "^1.2.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ciphjs/ciph/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -160,6 +159,7 @@
   },
   "filename": "ciphjs___ciph.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:51.760Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:30.333Z"
+  "lastFetchedAt": "2017-10-24T00:09:22.229Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:30.333Z",
+  "archived": false
 }

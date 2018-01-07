@@ -5,7 +5,7 @@
   "owner": {
     "login": "Zanion",
     "id": 3114590,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3114590?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3114590?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Zanion",
     "htmlUrl": "https://github.com/Zanion",
@@ -74,10 +74,7 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Zanion/soundcloud-player"
-    },
+    "repository": "https://github.com/Zanion/soundcloud-player",
     "keywords": [
       "Electron",
       "quick",
@@ -100,7 +97,8 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,7 @@
   "filename": "Zanion___soundcloud-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:29:11.002Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:00.666Z"
+  "lastFetchedAt": "2017-10-23T21:51:45.637Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:00.666Z",
+  "archived": false
 }

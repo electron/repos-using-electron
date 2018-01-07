@@ -5,7 +5,7 @@
   "owner": {
     "login": "Calvein",
     "id": 243189,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/243189?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/243189?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Calvein",
     "htmlUrl": "https://github.com/Calvein",
@@ -57,13 +57,7 @@
       "start-app": "gulp build-app && electron main.js",
       "build-app": "gulp build-app --prod"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Calvein/soundcloud-playlist.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Calvein/soundcloud-playlist/issues"
-    },
+    "repository": "https://github.com/Calvein/soundcloud-playlist",
     "keywords": [
       "soundcloud",
       "playlist"
@@ -97,6 +91,11 @@
       "bamjs": "^1.0.2",
       "sortablejs": "^1.1.1",
       "store": "^1.3.17"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Calvein/soundcloud-playlist/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/Calvein/soundcloud-playlist",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:37:14.895Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:56.274Z"
+  "lastFetchedAt": "2017-10-23T23:11:36.374Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:56.274Z",
+  "archived": false
 }

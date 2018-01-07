@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "elec",
     "version": "1.0.0",
@@ -80,10 +80,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AyoGitNg/electronPlay.git"
-    },
+    "repository": "https://github.com/AyoGitNg/electronPlay",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^1.2.6",
@@ -110,10 +107,12 @@
     },
     "author": "Akingbule Ayodele",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/AyoGitNg/electronPlay/issues"
-    },
-    "homepage": "https://github.com/AyoGitNg/electronPlay#readme"
+    "homepage": "https://github.com/AyoGitNg/electronPlay#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AyoGitNg/electronPlay/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +139,6 @@
   },
   "filename": "AyoGitNg___electronPlay.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:58.282Z",
+  "lastFetchedAt": "2017-10-24T00:09:49.675Z",
   "packageLastFetchedAt": "2017-05-05T01:24:28.322Z"
 }

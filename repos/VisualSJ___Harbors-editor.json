@@ -64,27 +64,18 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "heditor",
     "version": "0.0.1",
     "description": "editor",
     "main": "index.js",
-    "directories": {
-      "doc": "docs"
-    },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/VisualSJ/Harbors-editor.git"
-    },
+    "repository": "https://github.com/VisualSJ/Harbors-editor",
     "author": "VisualSJ",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/VisualSJ/Harbors-editor/issues"
-    },
     "homepage": "https://github.com/VisualSJ/Harbors-editor#readme",
     "dependencies": {
       "async": "^1.5.0",
@@ -94,6 +85,14 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.35.4"
+    },
+    "other": {
+      "directories": {
+        "doc": "docs"
+      },
+      "bugs": {
+        "url": "https://github.com/VisualSJ/Harbors-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,6 @@
   },
   "filename": "VisualSJ___Harbors-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:32.598Z",
+  "lastFetchedAt": "2017-10-23T23:07:20.848Z",
   "packageLastFetchedAt": "2017-05-05T17:18:15.565Z"
 }

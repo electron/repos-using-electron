@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "bills-extractor",
     "version": "1.0.0",
@@ -81,7 +81,8 @@
       "node-xlsx": "*",
       "cheerio": "*",
       "request": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -107,6 +108,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:52.460Z",
+  "lastFetchedAt": "2017-10-23T22:07:09.151Z",
   "packageLastFetchedAt": "2017-05-04T23:03:17.836Z"
 }

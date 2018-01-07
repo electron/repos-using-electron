@@ -5,7 +5,7 @@
   "owner": {
     "login": "radiovisual",
     "id": 5614571,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5614571?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5614571?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/radiovisual",
     "htmlUrl": "https://github.com/radiovisual",
@@ -81,10 +81,7 @@
       "start": "electron main.js --subs=/Users/michael/gitprojects/srt-to-obj/test/fixtures/subtitles_long.srt",
       "debug": "electron main.js --debug --subs=/Users/michael/gitprojects/srt-to-obj/test/fixtures/subtitles_long.srt"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/radiovisual/media-walker"
-    },
+    "repository": "https://github.com/radiovisual/media-walker",
     "keywords": [
       "learning",
       "language",
@@ -101,9 +98,6 @@
       "url": "http://numetriclabs.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://https://github.com/radiovisual/media-walker/issues"
-    },
     "homepage": "https://github.com/radiovisual/media-walker#readme",
     "devDependencies": {
       "electron": "^1.3.4"
@@ -117,6 +111,11 @@
       "timestamp-to-milliseconds": "0.0.1",
       "timestamp-to-seconds": "0.0.1",
       "user-home": "^2.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://https://github.com/radiovisual/media-walker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   },
   "filename": "radiovisual___media-walker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:23:10.001Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:44.767Z"
+  "lastFetchedAt": "2017-10-23T22:16:06.360Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:44.767Z",
+  "archived": false
 }

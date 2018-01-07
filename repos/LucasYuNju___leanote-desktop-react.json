@@ -5,7 +5,7 @@
   "owner": {
     "login": "LucasYuNju",
     "id": 6972169,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6972169?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6972169?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/LucasYuNju",
     "htmlUrl": "https://github.com/LucasYuNju",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/LucasYuNju/leanote-desktop-lite/downloads",
   "deploymentsUrl": "https://api.github.com/repos/LucasYuNju/leanote-desktop-lite/deployments",
   "createdAt": "2016-09-22T05:12:50.000Z",
-  "updatedAt": "2017-03-31T01:08:57.000Z",
-  "pushedAt": "2017-04-10T08:41:37.000Z",
+  "updatedAt": "2017-10-20T06:32:13.000Z",
+  "pushedAt": "2017-10-14T08:53:56.000Z",
   "gitUrl": "git://github.com/LucasYuNju/leanote-desktop-lite.git",
   "sshUrl": "git@github.com:LucasYuNju/leanote-desktop-lite.git",
   "cloneUrl": "https://github.com/LucasYuNju/leanote-desktop-lite.git",
   "svnUrl": "https://github.com/LucasYuNju/leanote-desktop-lite",
   "homepage": "",
-  "size": 32826,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 32827,
+  "stargazersCount": 27,
+  "watchersCount": 27,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 18,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 27,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
+  "networkCount": 5,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -84,10 +84,7 @@
       "start": "electron . --dev & node ./devServer.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/LucasYuNju/leanote-desktop-react.git"
-    },
+    "repository": "https://github.com/LucasYuNju/leanote-desktop-react",
     "keywords": [
       "electron",
       "react",
@@ -97,9 +94,6 @@
     ],
     "author": "Lucas Yu <LucasYuNju@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/LucasYuNju/leanote-desktop-react/issues"
-    },
     "homepage": "https://github.com/LucasYuNju/leanote-desktop-react#readme",
     "dependencies": {
       "classnames": "^2.2.5",
@@ -162,6 +156,11 @@
       "webpack": "^1.13.3",
       "webpack-dev-middleware": "^1.8.1",
       "webpack-dev-server": "^1.16.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/LucasYuNju/leanote-desktop-react/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +189,7 @@
   "filename": "LucasYuNju___leanote-desktop-react.json",
   "sourceRepo": "LucasYuNju/leanote-desktop-ng",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:12:17.033Z",
-  "packageLastFetchedAt": "2017-05-04T22:45:38.385Z"
+  "lastFetchedAt": "2017-10-23T21:51:39.199Z",
+  "packageLastFetchedAt": "2017-05-04T22:45:38.385Z",
+  "archived": false
 }

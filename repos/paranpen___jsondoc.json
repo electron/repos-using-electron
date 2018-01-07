@@ -5,7 +5,7 @@
   "owner": {
     "login": "paranpen",
     "id": 16740061,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16740061?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16740061?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paranpen",
     "htmlUrl": "https://github.com/paranpen",
@@ -83,10 +83,7 @@
       "test": "mocha --require test/setup.js --compilers js:babel-core/register",
       "test-w": "mocha test/components/*.js --require test/setup.js --compilers js:babel-core/register --watch --reporter min"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paranpen/jsondoc"
-    },
+    "repository": "https://github.com/paranpen/jsondoc",
     "keywords": [
       "react",
       "editor",
@@ -126,7 +123,8 @@
       "electron-compile": "^3.3.5",
       "react": "^15.3.1",
       "react-dom": "^15.3.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +151,7 @@
   },
   "filename": "paranpen___jsondoc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:36.484Z",
-  "packageLastFetchedAt": "2017-05-05T01:24:31.343Z"
+  "lastFetchedAt": "2017-10-24T02:02:34.142Z",
+  "packageLastFetchedAt": "2017-05-05T01:24:31.343Z",
+  "archived": false
 }

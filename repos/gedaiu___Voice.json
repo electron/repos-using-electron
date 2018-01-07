@@ -5,7 +5,7 @@
   "owner": {
     "login": "gedaiu",
     "id": 4217037,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4217037?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4217037?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gedaiu",
     "htmlUrl": "https://github.com/gedaiu",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -105,6 +99,11 @@
       "lodash": "^4.6.1",
       "musicmetadata": "^2.0.2",
       "request": "^2.69.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "gedaiu___Voice.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:22.302Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:07.405Z"
+  "lastFetchedAt": "2017-10-23T22:08:13.796Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:07.405Z",
+  "archived": false
 }

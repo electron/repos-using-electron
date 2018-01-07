@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "WinMusicDB",
     "version": "1.0.0",
@@ -73,15 +73,9 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lucienimmink/WinMusicDB2.git"
-    },
+    "repository": "https://github.com/lucienimmink/WinMusicDB2",
     "author": "AddaSoft",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lucienimmink/WinMusicDB2/issues"
-    },
     "homepage": "http://www.jsmusicdb.com",
     "dependencies": {
       "jsmusicdbnext-prebuilt": "^1.1.2",
@@ -95,6 +89,11 @@
       "gulp-rename": "1.2.2",
       "innosetup-compiler": "^5.5.9",
       "run-sequence": "^1.2.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lucienimmink/WinMusicDB2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,6 @@
   },
   "filename": "lucienimmink___WinMusicDB2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:09.617Z",
+  "lastFetchedAt": "2017-10-23T23:05:31.084Z",
   "packageLastFetchedAt": "2017-05-04T22:31:22.171Z"
 }

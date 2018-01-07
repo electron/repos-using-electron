@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -118,26 +118,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -226,6 +216,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -253,6 +252,6 @@
   },
   "filename": "cgenin___blitzr-app-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:26:35.212Z",
+  "lastFetchedAt": "2017-10-23T22:56:34.097Z",
   "packageLastFetchedAt": "2017-05-05T17:26:44.488Z"
 }

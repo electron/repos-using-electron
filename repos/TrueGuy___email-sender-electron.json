@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "email-sender-electron",
     "version": "1.0.0",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron bootstrapper.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TrueGuy/email-sender-electron.git"
-    },
+    "repository": "https://github.com/TrueGuy/email-sender-electron",
     "keywords": [],
     "author": "George Fedoseev",
     "devDependencies": {
@@ -80,7 +77,8 @@
       "nedb": "^1.8.0",
       "node-fetch": "^1.5.3",
       "querystring": "^0.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/GeorgeFedoseev/email-sender-electron",
@@ -128,6 +126,6 @@
   "filename": "TrueGuy___email-sender-electron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:57:54.978Z",
+  "lastFetchedAt": "2017-10-23T23:08:48.822Z",
   "packageLastFetchedAt": "2017-05-04T22:42:00.122Z"
 }

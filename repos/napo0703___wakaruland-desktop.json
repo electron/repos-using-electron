@@ -6,7 +6,7 @@
   "owner": {
     "login": "napo0703",
     "id": 2818461,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2818461?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2818461?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/napo0703",
     "htmlUrl": "https://github.com/napo0703",
@@ -89,7 +89,8 @@
       "build-mac": "electron-packager . WakaruLand --platform=darwin --arch=x64 --version=1.4.5 --icon=Icon.icns",
       "build-windows": "electron-packager . WakaruLand --platform=win32 --arch=x64 --version=1.4.5 --icon=Icon.ico",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +116,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:45.346Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:15.720Z"
+  "lastFetchedAt": "2017-10-24T00:09:17.441Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:15.720Z",
+  "archived": false
 }

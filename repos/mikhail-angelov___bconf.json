@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "bconf",
     "productName": "Bconf",
@@ -140,7 +140,8 @@
       "release": "bash ./release.sh",
       "riot": "riot ui/components ui/dist/bundle.js",
       "test-ui": "time mocha --compilers js:test/compiler.js ui/**/*.spec.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -167,6 +168,6 @@
   },
   "filename": "mikhail-angelov___bconf.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:04.335Z",
+  "lastFetchedAt": "2017-10-23T23:11:15.825Z",
   "packageLastFetchedAt": "2017-05-04T22:43:38.674Z"
 }

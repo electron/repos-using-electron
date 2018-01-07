@@ -5,7 +5,7 @@
   "owner": {
     "login": "styfle",
     "id": 229881,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/229881?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/229881?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/styfle",
     "htmlUrl": "https://github.com/styfle",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/styfle/magnemite",
-  "description": "A screen recorder for websites, powered by Electron",
+  "description": "A screen recorder for websites, powered by Electron - capture repro steps!",
   "fork": false,
   "url": "https://api.github.com/repos/styfle/magnemite",
   "forksUrl": "https://api.github.com/repos/styfle/magnemite/forks",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/styfle/magnemite/downloads",
   "deploymentsUrl": "https://api.github.com/repos/styfle/magnemite/deployments",
   "createdAt": "2016-10-30T20:02:31.000Z",
-  "updatedAt": "2017-04-20T12:51:46.000Z",
-  "pushedAt": "2017-01-02T03:04:21.000Z",
+  "updatedAt": "2017-10-23T17:30:31.000Z",
+  "pushedAt": "2017-10-08T02:18:13.000Z",
   "gitUrl": "git://github.com/styfle/magnemite.git",
   "sshUrl": "git@github.com:styfle/magnemite.git",
   "cloneUrl": "https://github.com/styfle/magnemite.git",
   "svnUrl": "https://github.com/styfle/magnemite",
   "homepage": "",
-  "size": 180,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 1396,
+  "stargazersCount": 18,
+  "watchersCount": 18,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 4,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 18,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "magnemite",
@@ -75,22 +75,21 @@
       "start": "electron .",
       "build": "tsc"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/styfle/magnemite.git"
-    },
+    "repository": "https://github.com/styfle/magnemite",
     "author": "styfle",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/styfle/magnemite/issues"
-    },
     "homepage": "https://github.com/styfle/magnemite#readme",
     "devDependencies": {
       "electron": "^1.4.4",
       "typescript": "^2.0.3",
       "typings": "^1.4.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/styfle/magnemite/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,7 +116,8 @@
   },
   "filename": "styfle___magnemite.json",
   "sourceRepo": "gedaiu/Voice",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:48.844Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:33.780Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T22:07:17.380Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:33.780Z",
+  "archived": false
 }

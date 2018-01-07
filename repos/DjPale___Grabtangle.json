@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "grabtangle-build",
     "version": "0.0.1",
@@ -85,19 +85,18 @@
       "release:mac": "electron-packager ./app --asar",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DjPale/Grabtangle.git"
-    },
+    "repository": "https://github.com/DjPale/Grabtangle",
     "author": "dj_pale",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/DjPale/Grabtangle/issues"
-    },
     "homepage": "https://github.com/DjPale/Grabtangle#readme",
     "build": {
       "appId": "hr.creaticon.eatodo",
       "app-category-type": "public.app-category.productivity"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/DjPale/Grabtangle/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   },
   "filename": "DjPale___Grabtangle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:07.643Z",
+  "lastFetchedAt": "2017-10-23T23:06:35.819Z",
   "packageLastFetchedAt": "2017-05-05T01:19:09.494Z"
 }

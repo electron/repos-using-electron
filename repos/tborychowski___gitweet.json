@@ -5,7 +5,7 @@
   "owner": {
     "login": "tborychowski",
     "id": 392513,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/392513?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/392513?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tborychowski",
     "htmlUrl": "https://github.com/tborychowski",
@@ -70,10 +70,7 @@
     "version": "1.0.0",
     "description": "Github notification monitor",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tborychowski/gitweet.git"
-    },
+    "repository": "https://github.com/tborychowski/gitweet",
     "scripts": {
       "babel": "rm -rf dist/ && mkdir dist && babel src -d dist --watch",
       "app": "electron --enable-transparent-visuals --disable-gpu index.js",
@@ -98,7 +95,8 @@
       "babel-cli": "^6.5.1",
       "electron-prebuilt": "^0.36.1",
       "eslint-plugin-react": "^3.16.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +123,7 @@
   },
   "filename": "tborychowski___gitweet.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:46.946Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:12.971Z"
+  "lastFetchedAt": "2017-10-23T22:11:37.553Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:12.971Z",
+  "archived": false
 }

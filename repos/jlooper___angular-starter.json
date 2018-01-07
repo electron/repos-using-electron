@@ -5,7 +5,7 @@
   "owner": {
     "login": "jlooper",
     "id": 1450004,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1450004?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1450004?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jlooper",
     "htmlUrl": "https://github.com/jlooper",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/jlooper/angular-starter/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jlooper/angular-starter/deployments",
   "createdAt": "2016-10-17T19:35:43.000Z",
-  "updatedAt": "2017-04-25T16:21:02.000Z",
-  "pushedAt": "2017-04-13T18:04:55.000Z",
+  "updatedAt": "2017-10-18T16:15:45.000Z",
+  "pushedAt": "2017-05-29T00:23:00.000Z",
   "gitUrl": "git://github.com/jlooper/angular-starter.git",
   "sshUrl": "git@github.com:jlooper/angular-starter.git",
   "cloneUrl": "https://github.com/jlooper/angular-starter.git",
   "svnUrl": "https://github.com/jlooper/angular-starter",
   "homepage": "https://github.com/jlooper/angular-starter",
-  "size": 3208,
-  "stargazersCount": 61,
-  "watchersCount": 61,
+  "size": 3209,
+  "stargazersCount": 77,
+  "watchersCount": 77,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 16,
+  "forksCount": 21,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 61,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 77,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,16 +68,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 16,
+  "networkCount": 21,
   "subscribersCount": 16,
   "status": 200,
   "packageJSON": {
     "name": "angular-starter",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -261,7 +259,8 @@
       "rxjs": "~5.0.3",
       "systemjs": "0.19.41",
       "zone.js": "^0.8.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -288,6 +287,7 @@
   },
   "filename": "jlooper___angular-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:55:33.455Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:54.635Z"
+  "lastFetchedAt": "2017-10-24T02:03:54.673Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:54.635Z",
+  "archived": false
 }

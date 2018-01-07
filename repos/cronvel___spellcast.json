@@ -5,7 +5,7 @@
   "owner": {
     "login": "cronvel",
     "id": 6891714,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6891714?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6891714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cronvel",
     "htmlUrl": "https://github.com/cronvel",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/cronvel/spellcast",
-  "description": "Make: your own adventure!",
+  "description": "Make your own adventure!",
   "fork": false,
   "url": "https://api.github.com/repos/cronvel/spellcast",
   "forksUrl": "https://api.github.com/repos/cronvel/spellcast/forks",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/cronvel/spellcast/downloads",
   "deploymentsUrl": "https://api.github.com/repos/cronvel/spellcast/deployments",
   "createdAt": "2014-07-23T15:30:53.000Z",
-  "updatedAt": "2016-12-05T05:19:14.000Z",
-  "pushedAt": "2017-04-28T17:19:37.000Z",
+  "updatedAt": "2017-10-16T00:04:27.000Z",
+  "pushedAt": "2017-09-30T16:52:17.000Z",
   "gitUrl": "git://github.com/cronvel/spellcast.git",
   "sshUrl": "git@github.com:cronvel/spellcast.git",
   "cloneUrl": "https://github.com/cronvel/spellcast.git",
   "svnUrl": "https://github.com/cronvel/spellcast",
   "homepage": "",
-  "size": 2515,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 3638,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -78,9 +78,6 @@
     "main": "lib/Book.js",
     "engines": {
       "node": ">=6.0.0"
-    },
-    "directories": {
-      "test": "test"
     },
     "bin": {
       "spellcast": "./bin/spellcast",
@@ -122,10 +119,7 @@
     "scripts": {
       "test": "tea-time -R dot -O"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cronvel/spellcast.git"
-    },
+    "repository": "https://github.com/cronvel/spellcast",
     "keywords": [
       "gamebook",
       "roleplay",
@@ -143,9 +137,6 @@
     ],
     "author": "Cédric Ronvel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cronvel/spellcast/issues"
-    },
     "config": {
       "tea-time": {
         "coverDir": [
@@ -160,6 +151,14 @@
         2017
       ],
       "owner": "Cédric Ronvel"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/cronvel/spellcast/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -187,6 +186,7 @@
   },
   "filename": "cronvel___spellcast.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:04:25.945Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:51.395Z"
+  "lastFetchedAt": "2017-10-23T21:46:35.363Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:51.395Z",
+  "archived": false
 }

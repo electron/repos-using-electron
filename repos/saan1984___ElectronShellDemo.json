@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ElectronShellDemo",
     "main": "main.js",
@@ -73,15 +73,13 @@
     },
     "version": "0.0.1",
     "description": "ElectronShellDemo",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/saan1984/ElectronShellDemo.git"
-    },
+    "repository": "https://github.com/saan1984/ElectronShellDemo",
     "author": "Sandeep Kumar Patel",
     "license": "ISC",
     "devDependencies": {
       "electron-prebuilt": "^0.28.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -108,6 +106,6 @@
   },
   "filename": "saan1984___ElectronShellDemo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:20.400Z",
+  "lastFetchedAt": "2017-10-23T23:10:45.090Z",
   "packageLastFetchedAt": "2017-05-04T22:54:30.380Z"
 }

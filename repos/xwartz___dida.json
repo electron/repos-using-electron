@@ -5,7 +5,7 @@
   "owner": {
     "login": "xwartz",
     "id": 4149827,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4149827?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4149827?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xwartz",
     "htmlUrl": "https://github.com/xwartz",
@@ -20,12 +20,12 @@
   "description": "Easily add task to 滴答清单(TickTick) by shortcut",
   "fork": false,
   "createdAt": "2015-12-27T08:14:01.000Z",
-  "updatedAt": "2016-12-27T10:50:22.000Z",
+  "updatedAt": "2017-09-24T17:18:39.000Z",
   "pushedAt": "2016-02-27T09:59:40.000Z",
   "homepage": "https://github.com/xwartz/dida",
   "size": 1292,
-  "stargazersCount": 17,
-  "watchersCount": 17,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 17,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,10 +56,7 @@
       "build:dida": "gulp pkg:dida",
       "build:tick": "gulp pkg:tick"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/xwartz/dida.git"
-    },
+    "repository": "https://github.com/xwartz/dida",
     "keywords": [
       "dida",
       "ticktick",
@@ -70,9 +67,6 @@
     ],
     "author": "xwartz <stddup@gmail.com> (https://github.com/xwartz/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/xwartz/dida/issues"
-    },
     "homepage": "https://github.com/xwartz/dida#readme",
     "devDependencies": {
       "del": "^2.2.0",
@@ -86,7 +80,12 @@
       "gulp-shell": "^0.5.2",
       "yargs": "^4.2.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/xwartz/dida/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +132,7 @@
   "svnUrl": "https://github.com/xwartz/dida",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:34:07.594Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:15.133Z"
+  "lastFetchedAt": "2017-10-23T22:30:47.531Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:15.133Z",
+  "archived": false
 }

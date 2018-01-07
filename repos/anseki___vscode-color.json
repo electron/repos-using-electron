@@ -5,7 +5,7 @@
   "owner": {
     "login": "anseki",
     "id": 4763469,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4763469?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4763469?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/anseki",
     "htmlUrl": "https://github.com/anseki",
@@ -20,21 +20,21 @@
   "description": "Helper with GUI to generate color codes such as CSS color notations.",
   "fork": false,
   "createdAt": "2016-02-22T10:26:39.000Z",
-  "updatedAt": "2017-04-06T12:07:16.000Z",
-  "pushedAt": "2017-04-20T19:13:53.000Z",
+  "updatedAt": "2017-10-20T19:33:35.000Z",
+  "pushedAt": "2017-08-04T09:36:45.000Z",
   "homepage": null,
-  "size": 1790,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "size": 1785,
+  "stargazersCount": 31,
+  "watchersCount": 31,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 7,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 21,
+  "watchers": 31,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 7,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -170,15 +170,14 @@
       "onCommand:extension.colorHelper.convert"
     ],
     "homepage": "https://github.com/anseki/vscode-color",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/anseki/vscode-color.git"
-    },
-    "bugs": {
-      "url": "https://github.com/anseki/vscode-color/issues"
-    },
+    "repository": "https://github.com/anseki/vscode-color",
     "license": "MIT",
-    "publisher": "anseki"
+    "publisher": "anseki",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/anseki/vscode-color/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -225,6 +224,7 @@
   "svnUrl": "https://github.com/anseki/vscode-color",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:02:17.595Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:28.220Z"
+  "lastFetchedAt": "2017-10-23T23:40:59.662Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:28.220Z",
+  "archived": false
 }

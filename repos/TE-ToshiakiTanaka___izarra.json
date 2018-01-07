@@ -5,7 +5,7 @@
   "owner": {
     "login": "TE-ToshiakiTanaka",
     "id": 12931340,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12931340?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12931340?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TE-ToshiakiTanaka",
     "htmlUrl": "https://github.com/TE-ToshiakiTanaka",
@@ -80,15 +80,9 @@
       "run": "electron build/main.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TE-ToshiakiTanaka/izarra.git"
-    },
+    "repository": "https://github.com/TE-ToshiakiTanaka/izarra",
     "author": "Toshiaki.Tanaka",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/TE-ToshiakiTanaka/izarra/issues"
-    },
     "homepage": "https://github.com/TE-ToshiakiTanaka/izarra#readme",
     "devDependencies": {
       "del": "^2.2.0",
@@ -100,6 +94,11 @@
     },
     "dependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/TE-ToshiakiTanaka/izarra/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "TE-ToshiakiTanaka___izarra.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:12.261Z",
-  "packageLastFetchedAt": "2017-05-05T11:36:33.485Z"
+  "lastFetchedAt": "2017-10-23T22:11:25.316Z",
+  "packageLastFetchedAt": "2017-05-05T11:36:33.485Z",
+  "archived": false
 }

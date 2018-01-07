@@ -5,7 +5,7 @@
   "owner": {
     "login": "tinytacoteam",
     "id": 12994756,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12994756?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12994756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tinytacoteam",
     "htmlUrl": "https://github.com/tinytacoteam",
@@ -20,21 +20,21 @@
   "description": "A clipboard manager for Zazu.",
   "fork": false,
   "createdAt": "2016-06-01T06:36:28.000Z",
-  "updatedAt": "2017-03-30T12:23:11.000Z",
+  "updatedAt": "2017-09-02T12:19:10.000Z",
   "pushedAt": "2017-02-21T16:50:52.000Z",
   "homepage": null,
   "size": 235,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "tinytacoteam",
     "id": 12994756,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12994756?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12994756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tinytacoteam",
     "htmlUrl": "https://github.com/tinytacoteam",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/tinytacoteam/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
@@ -82,10 +82,7 @@
       "prepush": "npm run lint && npm test",
       "test": "mocha ./test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/tinytacoteam/zazu-clipboard.git"
-    },
+    "repository": "https://github.com/tinytacoteam/zazu-clipboard",
     "keywords": [
       "clipboard",
       "clip",
@@ -95,9 +92,6 @@
     ],
     "author": "Blaine Schmeisser",
     "license": "Unlicense",
-    "bugs": {
-      "url": "https://github.com/tinytacoteam/zazu-clipboard/issues"
-    },
     "homepage": "https://github.com/tinytacoteam/zazu-clipboard#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -107,6 +101,11 @@
       "eslint-plugin-standard": "^2.0.1",
       "mocha": "^2.5.3",
       "rimraf": "^2.5.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tinytacoteam/zazu-clipboard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   "svnUrl": "https://github.com/tinytacoteam/zazu-clipboard",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:08:17.176Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:20.226Z"
+  "lastFetchedAt": "2017-10-23T21:51:33.382Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:20.226Z",
+  "archived": false
 }

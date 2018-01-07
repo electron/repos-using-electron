@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "brave",
     "version": "0.7.7",
@@ -119,9 +119,6 @@
       }
     ],
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/bbondy/electron-sample/issues"
-    },
     "homepage": "https://github.com/bbondy/electron-sample#readme",
     "dependencies": {
       "abp-filter-parser-cpp": "^1.0.22",
@@ -198,6 +195,11 @@
     "engineStrict": true,
     "engines": {
       "node": ">= 5.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bbondy/electron-sample/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -226,6 +228,6 @@
   "filename": "DarkKaname___Brave-Browser.json",
   "sourceRepo": "brave/browser-laptop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:32.404Z",
+  "lastFetchedAt": "2017-10-24T00:10:05.693Z",
   "packageLastFetchedAt": "2017-05-05T17:10:55.502Z"
 }

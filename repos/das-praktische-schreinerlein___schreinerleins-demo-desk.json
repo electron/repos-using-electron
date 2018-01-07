@@ -5,7 +5,7 @@
   "owner": {
     "login": "das-praktische-schreinerlein",
     "id": 7677581,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7677581?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7677581?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/das-praktische-schreinerlein",
     "htmlUrl": "https://github.com/das-praktische-schreinerlein",
@@ -113,7 +113,8 @@
       "yaiostart": "electron ./app",
       "yaiobuild": "electron-packager ./app yaiodesktopapps --all --out out/ --overwrite",
       "yaiosetup": "electron-installer-windows --src out/schreinerleinsdemodesk-win32-x64/ --dest out/installers/ --overwrite"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +141,7 @@
   },
   "filename": "das-praktische-schreinerlein___schreinerleins-demo-desk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:51.985Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:34.233Z"
+  "lastFetchedAt": "2017-10-23T22:14:58.296Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:34.233Z",
+  "archived": false
 }

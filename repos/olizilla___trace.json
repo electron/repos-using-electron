@@ -5,7 +5,7 @@
   "owner": {
     "login": "olizilla",
     "id": 58871,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/58871?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/58871?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/olizilla",
     "htmlUrl": "https://github.com/olizilla",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/olizilla/trace/deployments",
   "createdAt": "2016-08-04T21:46:06.000Z",
   "updatedAt": "2016-08-04T22:01:50.000Z",
-  "pushedAt": "2016-08-05T09:26:22.000Z",
+  "pushedAt": "2017-06-17T18:34:16.000Z",
   "gitUrl": "git://github.com/olizilla/trace.git",
   "sshUrl": "git@github.com:olizilla/trace.git",
   "cloneUrl": "https://github.com/olizilla/trace.git",
   "svnUrl": "https://github.com/olizilla/trace",
   "homepage": null,
-  "size": 18,
+  "size": 16,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -83,16 +83,10 @@
       "build:css": "postcss -c postcss.config.js",
       "watch:css": "nodemon -i dist -e css -x npm run build:css"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/olizilla/trace.git"
-    },
+    "repository": "https://github.com/olizilla/trace",
     "keywords": [],
     "author": "olizilla",
     "license": "AGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/olizilla/trace/issues"
-    },
     "homepage": "https://github.com/olizilla/trace#readme",
     "devDependencies": {
       "autoprefixer": "^6.3.1",
@@ -113,6 +107,11 @@
     },
     "dependencies": {
       "potrace": "tooolbox/node-potrace"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/olizilla/trace/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "olizilla___trace.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:09.538Z",
-  "packageLastFetchedAt": "2017-05-04T22:23:39.404Z"
+  "lastFetchedAt": "2017-10-24T00:11:46.981Z",
+  "packageLastFetchedAt": "2017-05-04T22:23:39.404Z",
+  "archived": false
 }

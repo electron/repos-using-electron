@@ -164,7 +164,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fmaru",
     "version": "0.1.1",
@@ -179,15 +179,9 @@
       "relase_electron:win": "npm run build_electron:win && .\\node_modules\\.bin\\build --win --ia32",
       "relase_electron:win64": "npm run build_electron:win && .\\node_modules\\.bin\\build --win --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fmaru/fmaru.git"
-    },
+    "repository": "https://github.com/fmaru/fmaru",
     "author": "fmaru",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fmaru/fmaru/issues"
-    },
     "homepage": "https://github.com/fmaru/fmaru",
     "dependencies": {
       "apicache": "0.0.14",
@@ -229,6 +223,11 @@
     "build": {
       "app-bundle-id": "org.fmaru.fmaru",
       "app-category-type": "public.app-category.entertainment"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fmaru/fmaru/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -277,6 +276,6 @@
   "filename": "qkrcjfgus33___fmaru.json",
   "sourceRepo": "fmaru/fmaru",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:08.121Z",
+  "lastFetchedAt": "2017-10-23T23:10:42.576Z",
   "packageLastFetchedAt": "2017-05-04T22:52:40.990Z"
 }

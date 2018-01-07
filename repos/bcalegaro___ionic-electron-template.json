@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "projectx",
     "version": "0.0.1",
@@ -91,10 +91,7 @@
       "sinon"
     ],
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bcalegaro/projectX"
-    },
+    "repository": "https://github.com/bcalegaro/projectX",
     "author": {
       "name": "Bruno Crestani Calegaro",
       "email": "bcalegaro@gmail.com"
@@ -236,8 +233,10 @@
       "app-category-type": "public.app-category.productivity",
       "iconUrl": "http://eatodo.s3.amazonaws.com/icon.ico"
     },
-    "directories": {
-      "app": "www"
+    "other": {
+      "directories": {
+        "app": "www"
+      }
     }
   },
   "packageStatus": 200,
@@ -265,6 +264,6 @@
   },
   "filename": "bcalegaro___ionic-electron-template.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:07.083Z",
+  "lastFetchedAt": "2017-10-24T00:11:53.671Z",
   "packageLastFetchedAt": "2017-05-04T22:09:39.222Z"
 }

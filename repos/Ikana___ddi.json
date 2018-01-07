@@ -5,7 +5,7 @@
   "owner": {
     "login": "Ikana",
     "id": 634704,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/634704?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/634704?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Ikana",
     "htmlUrl": "https://github.com/Ikana",
@@ -74,10 +74,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "gulp dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ikana/ddi.git"
-    },
+    "repository": "https://github.com/Ikana/ddi",
     "keywords": [
       "dance",
       "dance",
@@ -85,9 +82,6 @@
     ],
     "author": "roderik",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Ikana/ddi/issues"
-    },
     "homepage": "https://github.com/Ikana/ddi#readme",
     "dependencies": {
       "babel-loader": "^6.2.3",
@@ -118,6 +112,11 @@
       "run-sequence": "^1.1.5",
       "stream-combiner2": "^1.1.1",
       "webpack-stream": "^3.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Ikana/ddi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "Ikana___ddi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:15:55.909Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:28.469Z"
+  "lastFetchedAt": "2017-10-23T22:26:04.759Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:28.469Z",
+  "archived": false
 }

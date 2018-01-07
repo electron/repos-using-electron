@@ -5,7 +5,7 @@
   "owner": {
     "login": "romashka50",
     "id": 4192529,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4192529?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4192529?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/romashka50",
     "htmlUrl": "https://github.com/romashka50",
@@ -86,21 +86,9 @@
         "/Volumes/Data/Projects/NodeJS/EasyErp-Desktop/node_modules/electron-html-to"
       ]
     ],
-    "_from": "electron-workers@1.7.0",
-    "_id": "electron-workers@1.7.0",
     "_inCache": true,
     "_installable": true,
     "_location": "/electron-workers",
-    "_nodeVersion": "0.10.45",
-    "_npmOperationalInternal": {
-      "host": "packages-12-west.internal.npmjs.com",
-      "tmp": "tmp/electron-workers-1.7.0.tgz_1465097120544_0.21101286145858467"
-    },
-    "_npmUser": {
-      "name": "bjrmatos",
-      "email": "bjrmatos@gmail.com"
-    },
-    "_npmVersion": "2.15.6",
     "_phantomChildren": {
       "isexe": "1.1.2"
     },
@@ -117,16 +105,12 @@
       "/electron-html-to"
     ],
     "_resolved": "https://registry.npmjs.org/electron-workers/-/electron-workers-1.7.0.tgz",
-    "_shasum": "1f7866531828d2cc4d267cb77b391ebfbe829008",
     "_shrinkwrap": null,
     "_spec": "electron-workers@1.7.0",
     "_where": "/Volumes/Data/Projects/NodeJS/EasyErp-Desktop/node_modules/electron-html-to",
     "author": {
       "name": "BJR Matos",
       "email": "bjrmatos@gmail.com"
-    },
-    "bugs": {
-      "url": "https://github.com/bjrmatos/electron-workers/issues"
     },
     "dependencies": {
       "debug": "2.2.0",
@@ -149,7 +133,6 @@
       "rimraf": "2.5.2",
       "should": "9.0.0"
     },
-    "directories": {},
     "dist": {
       "shasum": "1f7866531828d2cc4d267cb77b391ebfbe829008",
       "tarball": "https://registry.npmjs.org/electron-workers/-/electron-workers-1.7.0.tgz"
@@ -164,19 +147,10 @@
     ],
     "license": "MIT",
     "main": "lib/index.js",
-    "maintainers": [
-      {
-        "name": "bjrmatos",
-        "email": "bjrmatos@gmail.com"
-      }
-    ],
     "name": "electron-workers",
     "optionalDependencies": {},
     "readme": "ERROR: No README data found!",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/bjrmatos/electron-workers.git"
-    },
+    "repository": "https://github.com/bjrmatos/electron-workers",
     "scripts": {
       "build": "babel src --out-dir lib",
       "clean": "rimraf lib",
@@ -184,7 +158,42 @@
       "prepublish": "in-publish && npm-run-all lint clean build || not-in-publish",
       "test": "mocha --timeout 7000"
     },
-    "version": "1.7.0"
+    "version": "1.7.0",
+    "lastPublisher": {
+      "name": "bjrmatos",
+      "email": "bjrmatos@gmail.com"
+    },
+    "owners": [
+      {
+        "name": "bjrmatos",
+        "email": "bjrmatos@gmail.com"
+      }
+    ],
+    "other": {
+      "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/electron-workers-1.7.0.tgz_1465097120544_0.21101286145858467"
+      },
+      "directories": {},
+      "bugs": {
+        "url": "https://github.com/bjrmatos/electron-workers/issues"
+      },
+      "_id": "electron-workers@1.7.0",
+      "_shasum": "1f7866531828d2cc4d267cb77b391ebfbe829008",
+      "_from": "electron-workers@1.7.0",
+      "_npmVersion": "2.15.6",
+      "_nodeVersion": "0.10.45",
+      "maintainers": [
+        {
+          "name": "bjrmatos",
+          "email": "bjrmatos@gmail.com"
+        }
+      ],
+      "_npmUser": {
+        "name": "bjrmatos",
+        "email": "bjrmatos@gmail.com"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -211,6 +220,7 @@
   },
   "filename": "romashka50___electron-workers.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:05.260Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:47.128Z"
+  "lastFetchedAt": "2017-10-23T23:42:04.664Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:47.128Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "samuelili",
     "id": 9442368,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9442368?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9442368?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/samuelili",
     "htmlUrl": "https://github.com/samuelili",
@@ -75,15 +75,9 @@
       "dev": "NODE_ENV='development' npm run start",
       "dist": "build --x64 --ia32"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mashedpotats/electron-muick.git"
-    },
+    "repository": "https://github.com/mashedpotats/electron-muick",
     "author": "Samuel Li",
     "license": "UNLICENSED",
-    "bugs": {
-      "url": "https://github.com/mashedpotats/electron-muick/issues"
-    },
     "homepage": "https://github.com/mashedpotats/electron-muick#readme",
     "devDependencies": {
       "electron": "^1.4.3",
@@ -100,6 +94,11 @@
         "target": "nsis"
       },
       "postinstall": "install-app-deps"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mashedpotats/electron-muick/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "mashedpotats___electron-muick.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:54.449Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:06.951Z"
+  "lastFetchedAt": "2017-10-23T22:10:50.515Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:06.951Z",
+  "archived": false
 }

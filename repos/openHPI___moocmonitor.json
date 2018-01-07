@@ -5,7 +5,7 @@
   "owner": {
     "login": "openHPI",
     "id": 8125421,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8125421?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8125421?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openHPI",
     "htmlUrl": "https://github.com/openHPI",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "openHPI",
     "id": 8125421,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8125421?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8125421?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/openHPI",
     "htmlUrl": "https://github.com/openHPI",
@@ -84,9 +84,6 @@
     "version": "0.1.3",
     "description": "Mooc Monitor alpha",
     "private": true,
-    "directories": {
-      "test": "tests"
-    },
     "scripts": {
       "start": "ember electron",
       "test": "grunt test && node ./node_modules/ember-cli/bin/ember electron:test"
@@ -146,6 +143,11 @@
       "menubar": "^2.3.0",
       "node-notifier": "^4.3.1",
       "grunt-electron-installer": "^1.1.0"
+    },
+    "other": {
+      "directories": {
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -173,6 +175,7 @@
   },
   "filename": "openHPI___moocmonitor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:19:26.765Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:24.125Z"
+  "lastFetchedAt": "2017-10-23T22:28:09.241Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:24.125Z",
+  "archived": false
 }

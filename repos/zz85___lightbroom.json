@@ -44,22 +44,16 @@
   "license": null,
   "networkCount": 4,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "lightbroom",
     "version": "0.3.0",
     "description": "photo workflow software",
     "main": "index.js",
-    "directories": {
-      "test": "tests"
-    },
     "scripts": {
       "bumpcssgram": "rm cssgram.min.css && wget https://github.com/una/CSSgram/raw/master/site/css/cssgram.min.css"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zz85/lightbroom.git"
-    },
+    "repository": "https://github.com/zz85/lightbroom",
     "keywords": [
       "photo",
       "filters",
@@ -69,9 +63,6 @@
     ],
     "author": "Joshua Koo",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/zz85/lightbroom/issues"
-    },
     "homepage": "https://github.com/zz85/lightbroom#readme",
     "electronVersion": "0.36.2",
     "devDependencies": {
@@ -81,6 +72,14 @@
     },
     "dependencies": {
       "exif-js": "^2.1.1"
+    },
+    "other": {
+      "directories": {
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/zz85/lightbroom/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,6 @@
   },
   "filename": "zz85___lightbroom.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:30.690Z",
+  "lastFetchedAt": "2017-10-23T23:05:54.570Z",
   "packageLastFetchedAt": "2017-05-04T22:55:48.944Z"
 }

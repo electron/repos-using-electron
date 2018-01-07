@@ -70,16 +70,13 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-babel",
     "version": "0.1.0",
     "description": "A electron app template",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/umema4/electron-babel6.git"
-    },
+    "repository": "https://github.com/umema4/electron-babel6",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -126,7 +123,8 @@
       "bootstrap": "^4.0.0-alpha.2",
       "jquery": "^2.2.1",
       "tether": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +151,6 @@
   },
   "filename": "umema4___electron-babel6.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:15.140Z",
+  "lastFetchedAt": "2017-10-23T23:05:14.585Z",
   "packageLastFetchedAt": "2017-05-05T14:38:27.560Z"
 }

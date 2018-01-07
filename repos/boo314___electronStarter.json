@@ -5,7 +5,7 @@
   "owner": {
     "login": "boo314",
     "id": 2477434,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2477434?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2477434?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/boo314",
     "htmlUrl": "https://github.com/boo314",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/boo314/electronStarter.git"
-    },
+    "repository": "https://github.com/boo314/electronStarter",
     "keywords": [
       "Electron",
       "quick",
@@ -96,12 +93,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electronStarter/issues"
-    },
     "homepage": "https://github.com/boo314/electronStarter#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electronStarter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "filename": "boo314___electronStarter.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:31:20.400Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:28.519Z"
+  "lastFetchedAt": "2017-10-24T00:17:08.946Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:28.519Z",
+  "archived": false
 }

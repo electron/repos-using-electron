@@ -5,7 +5,7 @@
   "owner": {
     "login": "jimgong92",
     "id": 7923322,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7923322?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7923322?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jimgong92",
     "htmlUrl": "https://github.com/jimgong92",
@@ -74,21 +74,20 @@
       "start": "./node_modules/.bin/electron .",
       "test": "mocha test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jimgong92/electron-game.git"
-    },
+    "repository": "https://github.com/jimgong92/electron-game",
     "keywords": [
       "electron"
     ],
     "author": "Jimmy Gong <gong.jim@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jimgong92/electron-game/issues"
-    },
     "homepage": "https://github.com/jimgong92/electron-game#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jimgong92/electron-game/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   },
   "filename": "jimgong92___electron-game.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:52:06.909Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:21.346Z"
+  "lastFetchedAt": "2017-10-23T22:32:00.853Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:21.346Z",
+  "archived": false
 }

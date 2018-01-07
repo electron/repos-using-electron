@@ -5,7 +5,7 @@
   "owner": {
     "login": "pengux",
     "id": 2286687,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2286687?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2286687?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pengux",
     "htmlUrl": "https://github.com/pengux",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pengux/pequel.git"
-    },
+    "repository": "https://github.com/pengux/pequel",
     "keywords": [
       "postgres",
       "electron",
@@ -70,9 +67,6 @@
     ],
     "author": "Peter Nguyen",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/pengux/pequel/issues"
-    },
     "homepage": "https://github.com/pengux/pequel#readme",
     "devDependencies": {
       "babelify": "^6.4.0",
@@ -103,6 +97,11 @@
       "vinyl-source-stream": "^1.1.0",
       "watchify": "^3.5.0",
       "when": "^3.7.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pengux/pequel/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   "svnUrl": "https://github.com/pengux/electron-react-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:06:30.346Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:03.227Z"
+  "lastFetchedAt": "2017-10-23T22:13:19.561Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:03.227Z",
+  "archived": false
 }

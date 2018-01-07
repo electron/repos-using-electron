@@ -5,7 +5,7 @@
   "owner": {
     "login": "tundrax",
     "id": 381501,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/381501?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/381501?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tundrax",
     "htmlUrl": "https://github.com/tundrax",
@@ -81,10 +81,7 @@
       "test:renderer": "electron-tap --renderer='test/**/renderer/*test.js?(x)'",
       "test:browser": "electron-tap --browser 'test/**/browser/*test.js'"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tundrax/electron-tap-sample.git"
-    },
+    "repository": "https://github.com/tundrax/electron-tap-sample",
     "keywords": [
       "electron",
       "tape",
@@ -108,7 +105,8 @@
       "gulp-plumber": "^1.0.1",
       "gulp-sourcemaps": "^1.6.0",
       "tape": "^4.4.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,7 @@
   },
   "filename": "tundrax___electron-tap-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:42.787Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:20.379Z"
+  "lastFetchedAt": "2017-10-23T21:45:56.446Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:20.379Z",
+  "archived": false
 }

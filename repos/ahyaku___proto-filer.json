@@ -5,7 +5,7 @@
   "owner": {
     "login": "ahyaku",
     "id": 2816111,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2816111?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2816111?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ahyaku",
     "htmlUrl": "https://github.com/ahyaku",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/ahyaku/proto-filer/deployments",
   "createdAt": "2016-09-03T14:46:42.000Z",
   "updatedAt": "2016-09-03T14:56:34.000Z",
-  "pushedAt": "2017-02-19T13:54:51.000Z",
+  "pushedAt": "2017-10-23T10:48:54.000Z",
   "gitUrl": "git://github.com/ahyaku/proto-filer.git",
   "sshUrl": "git@github.com:ahyaku/proto-filer.git",
   "cloneUrl": "https://github.com/ahyaku/proto-filer.git",
   "svnUrl": "https://github.com/ahyaku/proto-filer",
   "homepage": null,
-  "size": 168,
+  "size": 303,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -73,19 +73,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ahyaku/proto-filer.git"
-    },
+    "repository": "https://github.com/ahyaku/proto-filer",
     "keywords": [
       "Electron",
       "proto-filer"
     ],
     "author": "ahyaku",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/ahyaku/proto-filer/issues"
-    },
     "homepage": "https://github.com/ahyaku/proto-filer#readme",
     "dependencies": {
       "electron": "^1.4.1",
@@ -114,6 +108,11 @@
       "plugins": [
         "transform-object-rest-spread"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ahyaku/proto-filer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "ahyaku___proto-filer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:23.026Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:32.014Z"
+  "lastFetchedAt": "2017-10-23T22:31:19.769Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:32.014Z",
+  "archived": false
 }

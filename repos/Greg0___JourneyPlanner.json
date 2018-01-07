@@ -5,7 +5,7 @@
   "owner": {
     "login": "Greg0",
     "id": 1397756,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1397756?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1397756?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Greg0",
     "htmlUrl": "https://github.com/Greg0",
@@ -87,10 +87,7 @@
       "iosEmulator": "npm run dumpdev -- --config webpack.config.ios.js  && cordova run ios",
       "ios": "npm run dumpdev -- --config webpack.config.ios.js  && cordova run ios --device"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Greg0/JourneyPlanner.git"
-    },
+    "repository": "https://github.com/Greg0/JourneyPlanner",
     "author": [
       {
         "name": "Grzegorz Kuźnik",
@@ -99,9 +96,6 @@
       "shprink <contact@julienrenaux.fr> (http://julienrenaux.fr/)"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Greg0/JourneyPlanner/issues"
-    },
     "homepage": "https://github.com/Greg0/JourneyPlanner#readme",
     "devDependencies": {
       "autoprefixer-loader": "^3.1.0",
@@ -138,7 +132,12 @@
     "cordovaPlatforms": [
       "android",
       "browser"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Greg0/JourneyPlanner/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -165,6 +164,7 @@
   },
   "filename": "Greg0___JourneyPlanner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:34.024Z",
-  "packageLastFetchedAt": "2017-05-05T15:00:18.840Z"
+  "lastFetchedAt": "2017-10-23T22:28:06.006Z",
+  "packageLastFetchedAt": "2017-05-05T15:00:18.840Z",
+  "archived": false
 }

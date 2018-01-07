@@ -5,7 +5,7 @@
   "owner": {
     "login": "dirvine",
     "id": 123627,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/123627?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/123627?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dirvine",
     "htmlUrl": "https://github.com/dirvine",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for ember-note goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -148,6 +144,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -195,6 +197,7 @@
   "svnUrl": "https://github.com/dirvine/ember-note",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:54:42.788Z",
-  "packageLastFetchedAt": "2017-05-04T22:49:52.905Z"
+  "lastFetchedAt": "2017-10-23T22:24:15.536Z",
+  "packageLastFetchedAt": "2017-05-04T22:49:52.905Z",
+  "archived": false
 }

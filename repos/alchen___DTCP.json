@@ -50,7 +50,7 @@
   },
   "networkCount": 4,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "DTCP",
     "version": "0.4.20",
@@ -61,15 +61,9 @@
       "start": "./node_modules/.bin/electron .",
       "test": "./node_modules/.bin/istanbul instrument src --output instrumented && ./node_modules/.bin/electron spec --ci"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alchen/DTCP.git"
-    },
+    "repository": "https://github.com/alchen/DTCP",
     "author": "uinoka",
     "license": "AGPL-3.0",
-    "bugs": {
-      "url": "https://github.com/alchen/DTCP/issues"
-    },
     "homepage": "https://github.com/alchen/DTCP",
     "devDependencies": {
       "asar": "^0.12.1",
@@ -134,6 +128,11 @@
       "twitter-text": "^1.14.0",
       "vue": "^1.0.26",
       "which": "^1.2.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alchen/DTCP/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,6 @@
   },
   "filename": "alchen___DTCP.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:18.617Z",
+  "lastFetchedAt": "2017-10-23T23:05:40.573Z",
   "packageLastFetchedAt": "2017-05-05T14:37:24.406Z"
 }

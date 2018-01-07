@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "FRCDashboard",
     "version": "v2.0.0beta",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FRCDashboard/FRCDashboard"
-    },
+    "repository": "https://github.com/FRCDashboard/FRCDashboard",
     "keywords": [
       "frc",
       "dashboard",
@@ -105,9 +102,6 @@
     ],
     "author": "FRCDashboard",
     "license": "Apache 2.0",
-    "bugs": {
-      "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
-    },
     "homepage": "http://frcdashboard.github.io",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -118,6 +112,11 @@
       "coffee-script-brunch": "^2.0.0",
       "jeet": "6.1.2",
       "stylus-brunch": "^2.7.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/FRCDashboard/FRCDashboard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,6 @@
   },
   "filename": "team1432___test-dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:34.356Z",
+  "lastFetchedAt": "2017-10-23T23:01:41.323Z",
   "packageLastFetchedAt": "2017-05-05T15:04:31.502Z"
 }

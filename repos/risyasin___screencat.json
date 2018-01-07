@@ -164,7 +164,7 @@
   },
   "networkCount": 191,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "screencat",
     "version": "4.2.0",
@@ -199,14 +199,13 @@
       "tachyons": "^1.2.0",
       "wzrd": "^1.2.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/maxogden/screencat.git"
-    },
-    "bugs": {
-      "url": "https://github.com/maxogden/screencat/issues"
-    },
-    "homepage": "https://github.com/maxogden/screencat"
+    "repository": "https://github.com/maxogden/screencat",
+    "homepage": "https://github.com/maxogden/screencat",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/maxogden/screencat/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -254,6 +253,6 @@
   "svnUrl": "https://github.com/risyasin/screencat",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:05:35.322Z",
+  "lastFetchedAt": "2017-10-24T00:11:14.419Z",
   "packageLastFetchedAt": "2017-05-05T17:25:22.195Z"
 }

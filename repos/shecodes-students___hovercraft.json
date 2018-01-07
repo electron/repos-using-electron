@@ -5,7 +5,7 @@
   "owner": {
     "login": "shecodes-students",
     "id": 7531834,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7531834?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7531834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shecodes-students",
     "htmlUrl": "https://github.com/shecodes-students",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "shecodes-students",
     "id": 7531834,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7531834?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7531834?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shecodes-students",
     "htmlUrl": "https://github.com/shecodes-students",
@@ -75,10 +75,7 @@
       "deploy": "scp -P 30000 hovercraft.tar.gz kitchen-sessions.org:/var/www/hovercraft",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shecodes-students/hovercraft.git"
-    },
+    "repository": "https://github.com/shecodes-students/hovercraft",
     "keywords": [
       "dwellclick",
       "hoverclick",
@@ -94,9 +91,6 @@
       "Leonor Oliveira <leonorfmartins@gmail.com>"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shecodes-students/hovercraft/issues"
-    },
     "homepage": "https://github.com/shecodes-students/hovercraft#readme",
     "devDependencies": {
       "electron-prebuilt": "0.36.1",
@@ -110,6 +104,11 @@
       "pull-stream": "^3.3.2",
       "rc": "~1.1.6",
       "xtend": "~4.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shecodes-students/hovercraft/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   "filename": "shecodes-students___hovercraft.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:50.983Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:16.714Z"
+  "lastFetchedAt": "2017-10-23T21:51:53.115Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:16.714Z",
+  "archived": false
 }

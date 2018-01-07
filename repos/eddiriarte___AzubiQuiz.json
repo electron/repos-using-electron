@@ -5,7 +5,7 @@
   "owner": {
     "login": "eddiriarte",
     "id": 6428870,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6428870?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6428870?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eddiriarte",
     "htmlUrl": "https://github.com/eddiriarte",
@@ -76,10 +76,7 @@
     "version": "0.1.0",
     "description": "AzubiQuiz is a simple app to help students to learn in an interactive maner.",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/develephant/amy.git"
-    },
+    "repository": "https://github.com/develephant/amy",
     "keywords": [
       "Electron",
       "Material",
@@ -92,9 +89,6 @@
     ],
     "author": "Eduardo Iriarte",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/develephant/amy/issues"
-    },
     "homepage": "https://github.com/develephant/amy#readme",
     "dependencies": {
       "diskdb": "^0.1.14"
@@ -110,6 +104,11 @@
       "gulp-usemin": "^0.3.16",
       "q": "^1.4.1",
       "rcedit": "^0.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/develephant/amy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "eddiriarte___AzubiQuiz.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:16.479Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:42.190Z"
+  "lastFetchedAt": "2017-10-23T22:28:59.247Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:42.190Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ptrollins",
     "id": 8711641,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8711641?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8711641?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ptrollins",
     "htmlUrl": "https://github.com/ptrollins",
@@ -78,10 +78,7 @@
       "install": "^0.7.3",
       "npm": "^3.8.9"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ptrollins/bodhi.git"
-    },
+    "repository": "https://github.com/ptrollins/bodhi",
     "keywords": [
       "Electron",
       "Ionic",
@@ -91,13 +88,15 @@
     ],
     "author": "NRGIA",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/ptrollins/bodhi/issues"
-    },
     "dependencies": {
       "angular-chart.js": "^0.10.2",
       "chart.js": "^2.1.2",
       "highcharts": "^4.2.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ptrollins/bodhi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "ptrollins___bodhi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:45.493Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:20.314Z"
+  "lastFetchedAt": "2017-10-23T23:37:53.028Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:20.314Z",
+  "archived": false
 }

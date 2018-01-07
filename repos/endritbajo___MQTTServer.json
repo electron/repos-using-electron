@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "MQTTServer",
     "description": "A simple MQTT server.",
@@ -92,7 +92,8 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +120,6 @@
   },
   "filename": "endritbajo___MQTTServer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:51.058Z",
+  "lastFetchedAt": "2017-10-23T23:08:01.580Z",
   "packageLastFetchedAt": "2017-05-05T14:53:32.739Z"
 }

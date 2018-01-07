@@ -5,7 +5,7 @@
   "owner": {
     "login": "outsideris",
     "id": 390146,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/390146?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/390146?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/outsideris",
     "htmlUrl": "https://github.com/outsideris",
@@ -57,13 +57,7 @@
     "version": "0.0.2",
     "description": "App to encourage to contribute to open source project on github",
     "main": "src/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/outsideris/involved.git"
-    },
-    "bugs": {
-      "url": "https://github.com/outsideris/involved/issues"
-    },
+    "repository": "https://github.com/outsideris/involved",
     "licenses": [
       {
         "type": "MIT",
@@ -105,6 +99,11 @@
       "react": "^0.14.6",
       "react-dom": "^0.14.6",
       "request": "^2.54.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/outsideris/involved/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   "svnUrl": "https://github.com/outsideris/involved",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:30.679Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:47.686Z"
+  "lastFetchedAt": "2017-10-23T22:53:42.138Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:47.686Z",
+  "archived": false
 }

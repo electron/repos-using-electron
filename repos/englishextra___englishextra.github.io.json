@@ -5,7 +5,7 @@
   "owner": {
     "login": "englishextra",
     "id": 537127,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/537127?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/537127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/englishextra",
     "htmlUrl": "https://github.com/englishextra",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/englishextra/englishextra.github.io",
-  "description": "English Grammar for Russian-Speakers",
+  "description": "English Grammar for Russian-Speakers, a website + webapp",
   "fork": false,
   "url": "https://api.github.com/repos/englishextra/englishextra.github.io",
   "forksUrl": "https://api.github.com/repos/englishextra/englishextra.github.io/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/englishextra/englishextra.github.io/downloads",
   "deploymentsUrl": "https://api.github.com/repos/englishextra/englishextra.github.io/deployments",
   "createdAt": "2016-12-01T01:00:48.000Z",
-  "updatedAt": "2017-05-02T14:08:34.000Z",
-  "pushedAt": "2017-05-04T14:11:53.000Z",
+  "updatedAt": "2017-09-28T16:40:34.000Z",
+  "pushedAt": "2017-10-23T21:29:32.000Z",
   "gitUrl": "git://github.com/englishextra/englishextra.github.io.git",
   "sshUrl": "git@github.com:englishextra/englishextra.github.io.git",
   "cloneUrl": "https://github.com/englishextra/englishextra.github.io.git",
   "svnUrl": "https://github.com/englishextra/englishextra.github.io",
   "homepage": "https://englishextra.github.io/",
-  "size": 86872,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "size": 137510,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 1,
+  "forksCount": 4,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,13 +62,13 @@
     "pull": true
   },
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdxId": null,
-    "url": null,
-    "featured": false
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 4,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -78,10 +78,7 @@
     "version": "0.1.0",
     "identifier": "com.englishextra.app",
     "description": "English Grammar for Russian-Speakers",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/englishextra/englishextra.github.io.git"
-    },
+    "repository": "https://github.com/englishextra/englishextra.github.io",
     "email": "englishextra@mail.ru",
     "url": "https://github.com/englishextra/englishextra.github.io/issues",
     "main_file": "index.js",
@@ -156,17 +153,19 @@
         }
       ]
     },
-    "maintainers": {
-      "name": "Serguei Shimansky",
-      "email": "englishextra@mail.ru",
-      "url": "https://github.com/englishextra"
-    },
     "author": {
       "name": "Serguei Shimansky",
       "email": "englishextra@mail.ru",
       "url": "https://github.com/englishextra"
     },
-    "license": "(MIT)"
+    "license": "(MIT)",
+    "other": {
+      "maintainers": {
+        "name": "Serguei Shimansky",
+        "email": "englishextra@mail.ru",
+        "url": "https://github.com/englishextra"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -193,6 +192,7 @@
   },
   "filename": "englishextra___englishextra.github.io.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:16:46.190Z",
-  "packageLastFetchedAt": "2017-05-05T14:23:42.469Z"
+  "lastFetchedAt": "2017-10-23T21:47:29.371Z",
+  "packageLastFetchedAt": "2017-05-05T14:23:42.469Z",
+  "archived": false
 }

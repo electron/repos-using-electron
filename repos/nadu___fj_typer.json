@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fj-typer",
     "version": "0.2.0",
@@ -81,10 +81,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nadu/duronto_typer.git"
-    },
+    "repository": "https://github.com/nadu/duronto_typer",
     "keywords": [
       "Electron",
       "touchtype",
@@ -93,9 +90,6 @@
     ],
     "author": "Nadu",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/nadu/fj_typer/issues"
-    },
     "homepage": "https://github.com/nadu/fj_typer#readme",
     "devDependencies": {
       "chokidar": "^1.6.0",
@@ -115,6 +109,11 @@
       "category": "assistivetech.touchtyping",
       "win": {
         "iconUrl": "app/images/fj_typer_logo.png"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nadu/fj_typer/issues"
       }
     }
   },
@@ -143,6 +142,6 @@
   },
   "filename": "nadu___fj_typer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:16:16.174Z",
+  "lastFetchedAt": "2017-10-23T22:59:10.824Z",
   "packageLastFetchedAt": "2017-05-04T22:31:34.270Z"
 }

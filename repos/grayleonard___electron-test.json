@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-test",
     "version": "1.0.0",
@@ -87,7 +87,8 @@
     },
     "dependencies": {
       "electron-prebuilt": "^1.2.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +115,6 @@
   },
   "filename": "grayleonard___electron-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:05:46.333Z",
+  "lastFetchedAt": "2017-10-23T23:07:55.834Z",
   "packageLastFetchedAt": "2017-05-05T14:54:44.946Z"
 }

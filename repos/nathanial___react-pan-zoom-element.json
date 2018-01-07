@@ -5,7 +5,7 @@
   "owner": {
     "login": "nathanial",
     "id": 18703,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/18703?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/18703?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nathanial",
     "htmlUrl": "https://github.com/nathanial",
@@ -20,12 +20,12 @@
   "description": "React Element that allows it's content to be panned and zoomed.",
   "fork": false,
   "createdAt": "2016-05-01T04:06:50.000Z",
-  "updatedAt": "2017-02-17T20:11:35.000Z",
+  "updatedAt": "2017-06-05T06:48:51.000Z",
   "pushedAt": "2016-05-04T09:32:40.000Z",
   "homepage": null,
   "size": 32,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,15 +61,9 @@
       "prepublish": "gulp dist",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/nathanial/react-pan-zoom-element.git"
-    },
+    "repository": "https://github.com/nathanial/react-pan-zoom-element",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nathanial/react-pan-zoom-element/issues"
-    },
     "homepage": "http://nathanial.github.io/react-pan-zoom-element/",
     "devDependencies": {
       "electron-connect": "^0.3.3",
@@ -94,6 +88,11 @@
     "dependencies": {
       "react-es6-component": "*",
       "centered-pan-zoom": "2.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nathanial/react-pan-zoom-element/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "nathanial___react-pan-zoom-element.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:14.227Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:15.781Z"
+  "lastFetchedAt": "2017-10-24T00:13:41.935Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:15.781Z",
+  "archived": false
 }

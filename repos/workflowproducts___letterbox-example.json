@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "letterbox-example",
     "version": "1.0.1",
@@ -140,7 +140,8 @@
     "dependencies": {
       "letterbox": "^2.0.14",
       "postcard": "^1.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -167,6 +168,6 @@
   },
   "filename": "workflowproducts___letterbox-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:12.650Z",
+  "lastFetchedAt": "2017-10-23T23:10:59.589Z",
   "packageLastFetchedAt": "2017-05-05T01:21:45.839Z"
 }

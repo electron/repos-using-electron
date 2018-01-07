@@ -5,7 +5,7 @@
   "owner": {
     "login": "BaristaLabs",
     "id": 7948125,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7948125?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7948125?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BaristaLabs",
     "htmlUrl": "https://github.com/BaristaLabs",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "BaristaLabs",
     "id": 7948125,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7948125?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7948125?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BaristaLabs",
     "htmlUrl": "https://github.com/BaristaLabs",
@@ -64,10 +64,7 @@
     "version": "0.0.2",
     "description": "Provides a locally-hosted instance of Barista and Barista Fiddle using Electron",
     "homepage": "https://github.com/baristalabs/barista-coldbrew",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/baristalabs/barista-coldbrew.git"
-    },
+    "repository": "https://github.com/baristalabs/barista-coldbrew",
     "main": "main.js",
     "scripts": {
       "start": "electron main.js"
@@ -88,7 +85,8 @@
       "require-uncached": "latest",
       "tern": "latest"
     },
-    "license": "ISC"
+    "license": "ISC",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,7 @@
   "svnUrl": "https://github.com/BaristaLabs/barista-coldbrew",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:09:44.051Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:57.688Z"
+  "lastFetchedAt": "2017-10-24T02:04:34.888Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:57.688Z",
+  "archived": false
 }

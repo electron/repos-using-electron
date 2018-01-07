@@ -5,7 +5,7 @@
   "owner": {
     "login": "leahhalaseh",
     "id": 10531527,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10531527?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10531527?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/leahhalaseh",
     "htmlUrl": "https://github.com/leahhalaseh",
@@ -80,10 +80,7 @@
       "start": "electron main.js",
       "build": "electron-packager --platform=darwin --arch=x64 --version=0.36.3 . electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/leahhalaseh/electron-quick-start.git"
-    },
+    "repository": "https://github.com/leahhalaseh/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^5.2.0",
@@ -102,6 +96,11 @@
     },
     "dependencies": {
       "sqlite3": "^3.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "leahhalaseh___electron-quick-start.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:03.391Z",
-  "packageLastFetchedAt": "2017-05-05T15:19:20.964Z"
+  "lastFetchedAt": "2017-10-23T22:31:02.271Z",
+  "packageLastFetchedAt": "2017-05-05T15:19:20.964Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 6,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "polyonic",
     "productName": "A Polyonic App",
@@ -79,10 +79,7 @@
     "author": "Author",
     "copyright": "© 2016, Author",
     "main": "src/app.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paulsutherland/Polyonic"
-    },
+    "repository": "https://github.com/paulsutherland/Polyonic",
     "license": "MIT",
     "devDependencies": {
       "asar": "0.13.0",
@@ -127,7 +124,8 @@
       "start": "gulp start",
       "test": "electron-mocha build",
       "ionic:build": "ionic-app-scripts build"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -154,6 +152,6 @@
   },
   "filename": "paulsutherland___Polyonic.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:01.658Z",
+  "lastFetchedAt": "2017-10-23T23:10:38.832Z",
   "packageLastFetchedAt": "2017-05-05T01:31:38.152Z"
 }

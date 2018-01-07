@@ -5,7 +5,7 @@
   "owner": {
     "login": "dera-",
     "id": 6016817,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6016817?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6016817?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dera-",
     "htmlUrl": "https://github.com/dera-",
@@ -76,15 +76,9 @@
       "compile_diff": "webpack --progress --colors --watch",
       "compile_simulation": "babel sim --out-dir sim_dist --source-maps"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dera-/PokerElectron.git"
-    },
+    "repository": "https://github.com/dera-/PokerElectron",
     "author": "dera-",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/dera-/PokerElectron/issues"
-    },
     "homepage": "https://github.com/dera-/PokerElectron",
     "private": true,
     "dependencies": {
@@ -104,6 +98,11 @@
       "babel-preset-stage-3": "^6.17.0",
       "json-loader": "^0.5.4",
       "webpack": "^1.13.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dera-/PokerElectron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "dera-___PokerElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:21.626Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:15.832Z"
+  "lastFetchedAt": "2017-10-23T21:43:18.503Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:15.832Z",
+  "archived": false
 }

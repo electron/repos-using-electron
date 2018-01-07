@@ -5,7 +5,7 @@
   "owner": {
     "login": "awinogradov",
     "id": 982072,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/982072?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/982072?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/awinogradov",
     "htmlUrl": "https://github.com/awinogradov",
@@ -71,10 +71,7 @@
     "version": "1.0.0",
     "description": "A minimal Electron application",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/awinogradov/electron-stub.git"
-    },
+    "repository": "https://github.com/awinogradov/electron-stub",
     "keywords": [
       "Electron",
       "start",
@@ -82,9 +79,6 @@
     ],
     "author": "winogradovaa@gmail.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/awinogradov/electron-stub/issues"
-    },
     "homepage": "https://github.com/awinogradov/electron-stub#readme",
     "devDependencies": {
       "bem-core": "^3.0.1",
@@ -128,6 +122,11 @@
       "dev": "npm run build && npm start",
       "debug": "electron index --debug",
       "test": "mocha tests"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/awinogradov/electron-stub/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   },
   "filename": "awinogradov___electron-stub.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:03.365Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:51.592Z"
+  "lastFetchedAt": "2017-10-23T22:10:32.500Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:51.592Z",
+  "archived": false
 }

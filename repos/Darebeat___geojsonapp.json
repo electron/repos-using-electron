@@ -178,7 +178,7 @@
   },
   "networkCount": 21,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "geojsonapp",
     "appname": "geojsonapp",
@@ -199,14 +199,13 @@
     "bin": {
       "geojsonapp": "./bin/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mick/geojsonapp.git"
-    },
+    "repository": "https://github.com/mick/geojsonapp",
     "author": "Mick Thompson",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mick/geojsonapp/issues"
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mick/geojsonapp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -255,6 +254,6 @@
   "svnUrl": "https://github.com/Darebeat/geojsonapp",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:57:21.707Z",
+  "lastFetchedAt": "2017-10-23T22:59:17.859Z",
   "packageLastFetchedAt": "2017-05-05T15:18:51.729Z"
 }

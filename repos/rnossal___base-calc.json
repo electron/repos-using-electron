@@ -5,7 +5,7 @@
   "owner": {
     "login": "rnossal",
     "id": 772721,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/772721?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/772721?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rnossal",
     "htmlUrl": "https://github.com/rnossal",
@@ -82,10 +82,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rnossal/base-calc.git"
-    },
+    "repository": "https://github.com/rnossal/base-calc",
     "keywords": [
       "Calculadora",
       "Conversão",
@@ -96,9 +93,6 @@
     ],
     "author": "Rafael Nossal",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rnossal/base-calc/issues"
-    },
     "homepage": "https://github.com/rnossal/base-calc#readme",
     "dependencies": {
       "electron-squirrel-startup": "^1.0.0"
@@ -114,6 +108,11 @@
       "win": {
         "iconUrl": "https://raw.githubusercontent.com/rnossal/base-calc/master/assets/app-icon/win/icon.ico",
         "icon": "assets/app-icon/win/icon.ico"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rnossal/base-calc/issues"
       }
     }
   },
@@ -142,6 +141,7 @@
   },
   "filename": "rnossal___base-calc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:05.295Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:21.527Z"
+  "lastFetchedAt": "2017-10-23T22:32:21.006Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:21.527Z",
+  "archived": false
 }

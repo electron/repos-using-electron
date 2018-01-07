@@ -5,7 +5,7 @@
   "owner": {
     "login": "n2o1988",
     "id": 10573340,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10573340?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10573340?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/n2o1988",
     "htmlUrl": "https://github.com/n2o1988",
@@ -78,10 +78,7 @@
     "version": "0.2.0",
     "author": "Lamberto Fichera <fichera.lamberto@gmail.com>",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/n2o1988/ryr-pills-manager.git"
-    },
+    "repository": "https://github.com/n2o1988/ryr-pills-manager",
     "keywords": [
       "pills",
       "electron",
@@ -96,9 +93,6 @@
       "png": "assets/boilerplate.png"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/n2o1988/ryr-pills-manager/issues"
-    },
     "homepage": "https://github.com/n2o1988/ryr-pills-manager#readme",
     "scripts": {
       "postinstall": "npm run app-install && npm run electron-version && npm run rebuild",
@@ -150,6 +144,11 @@
       "electron-installer-debian": "^0.3.0",
       "electron-installer-redhat": "^0.2.0",
       "electron-installer-windows": "^0.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/n2o1988/ryr-pills-manager/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,7 @@
   "filename": "n2o1988___ryr-pills-manager.json",
   "sourceRepo": "appelgriebsch/pouchdb-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:53.868Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:35.636Z"
+  "lastFetchedAt": "2017-10-23T22:15:58.525Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:35.636Z",
+  "archived": false
 }

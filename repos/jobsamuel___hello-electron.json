@@ -5,7 +5,7 @@
   "owner": {
     "login": "jobsamuel",
     "id": 7675645,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7675645?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7675645?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jobsamuel",
     "htmlUrl": "https://github.com/jobsamuel",
@@ -82,10 +82,7 @@
       "build": "./node_modules/.bin/electron-packager . helloElectron --out=build --platform=linux,win32 --arch=x64 --version=0.33.7 --ignore=node_modules/electron-*",
       "package": "./node_modules/.bin/asar pack ./build/helloElectron-win32-x64/resources/app ./build/helloElectron-win32-x64/resources/app.asar && ./node_modules/.bin/asar pack ./build/helloElectron-linux-x64/resources/app ./build/helloElectron-linux-x64/resources/app.asar"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jobsamuel/hello-electron.git"
-    },
+    "repository": "https://github.com/jobsamuel/hello-electron",
     "keywords": [
       "demo",
       "electron",
@@ -93,9 +90,6 @@
     ],
     "author": "Jobsamuel Núñez <jobsamuel.nunez@outlook.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jobsamuel/hello-electron/issues"
-    },
     "homepage": "https://github.com/jobsamuel/hello-electron#readme",
     "dependencies": {
       "jquery": "^2.1.4"
@@ -104,6 +98,11 @@
       "asar": "^0.8.0",
       "electron-packager": "^5.1.0",
       "electron-prebuilt": "^0.33.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jobsamuel/hello-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "jobsamuel___hello-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:34:51.220Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:46.648Z"
+  "lastFetchedAt": "2017-10-23T22:08:20.290Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:46.648Z",
+  "archived": false
 }

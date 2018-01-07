@@ -5,7 +5,7 @@
   "owner": {
     "login": "kenxu95",
     "id": 6466121,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6466121?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6466121?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kenxu95",
     "htmlUrl": "https://github.com/kenxu95",
@@ -217,16 +217,15 @@
       "postversion": "git push && git push --tags",
       "electron": "electron ./src/electron/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -255,6 +254,7 @@
   "filename": "kenxu95___admin-ankommen.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:07:17.101Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:03.531Z"
+  "lastFetchedAt": "2017-10-23T23:38:52.012Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:03.531Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "CedarLogic",
     "id": 2249049,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2249049?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2249049?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CedarLogic",
     "htmlUrl": "https://github.com/CedarLogic",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "CedarLogic",
     "id": 2249049,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2249049?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2249049?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CedarLogic",
     "htmlUrl": "https://github.com/CedarLogic",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "jimschubert",
       "id": 109659,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/109659?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/109659?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jimschubert",
       "htmlUrl": "https://github.com/jimschubert",
@@ -93,7 +93,7 @@
     "downloadsUrl": "https://api.github.com/repos/jimschubert/electron-aurelia-example/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jimschubert/electron-aurelia-example/deployments",
     "createdAt": "2015-06-05T18:34:35.000Z",
-    "updatedAt": "2017-03-25T10:35:38.000Z",
+    "updatedAt": "2017-09-23T15:46:02.000Z",
     "pushedAt": "2016-08-26T20:20:33.000Z",
     "gitUrl": "git://github.com/jimschubert/electron-aurelia-example.git",
     "sshUrl": "git@github.com:jimschubert/electron-aurelia-example.git",
@@ -101,19 +101,20 @@
     "svnUrl": "https://github.com/jimschubert/electron-aurelia-example",
     "homepage": "",
     "size": 163,
-    "stargazersCount": 31,
-    "watchersCount": 31,
+    "stargazersCount": 33,
+    "watchersCount": 33,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 12,
+    "forksCount": 14,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 31,
+    "watchers": 33,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "jimschubert",
       "id": 109659,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/109659?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/109659?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jimschubert",
       "htmlUrl": "https://github.com/jimschubert",
@@ -153,7 +154,7 @@
     "downloadsUrl": "https://api.github.com/repos/jimschubert/electron-aurelia-example/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jimschubert/electron-aurelia-example/deployments",
     "createdAt": "2015-06-05T18:34:35.000Z",
-    "updatedAt": "2017-03-25T10:35:38.000Z",
+    "updatedAt": "2017-09-23T15:46:02.000Z",
     "pushedAt": "2016-08-26T20:20:33.000Z",
     "gitUrl": "git://github.com/jimschubert/electron-aurelia-example.git",
     "sshUrl": "git@github.com:jimschubert/electron-aurelia-example.git",
@@ -161,22 +162,23 @@
     "svnUrl": "https://github.com/jimschubert/electron-aurelia-example",
     "homepage": "",
     "size": 163,
-    "stargazersCount": 31,
-    "watchersCount": 31,
+    "stargazersCount": 33,
+    "watchersCount": 33,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 12,
+    "forksCount": 14,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 31,
+    "watchers": 33,
     "defaultBranch": "master"
   },
-  "networkCount": 12,
+  "networkCount": 14,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -186,9 +188,7 @@
     "description": "An example electron app using Aurelia",
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "url": "https://github.com/jimschubert/electron-aurelia-example"
-    },
+    "repository": "https://github.com/jimschubert/electron-aurelia-example",
     "author": {
       "name": "Jim Schubert",
       "email": "james.schubert@gmail.com",
@@ -265,7 +265,8 @@
       "jasmine": "^2.3.1",
       "walkdir": "0.0.9",
       "yargs": "^3.10.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/CedarLogic/electron-aurelia-example",
@@ -313,6 +314,7 @@
   "filename": "CedarLogic___electron-aurelia-example.json",
   "sourceRepo": "jimschubert/electron-aurelia-example",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:22.813Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:56.090Z"
+  "lastFetchedAt": "2017-10-23T23:40:38.280Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:56.090Z",
+  "archived": false
 }

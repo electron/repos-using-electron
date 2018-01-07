@@ -5,7 +5,7 @@
   "owner": {
     "login": "maxogden",
     "id": 39759,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maxogden",
     "htmlUrl": "https://github.com/maxogden",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/maxogden/menubar/downloads",
   "deploymentsUrl": "https://api.github.com/repos/maxogden/menubar/deployments",
   "createdAt": "2015-03-23T19:34:16.000Z",
-  "updatedAt": "2017-05-04T11:58:00.000Z",
-  "pushedAt": "2017-04-11T06:39:56.000Z",
+  "updatedAt": "2017-10-23T08:18:49.000Z",
+  "pushedAt": "2017-10-03T17:18:08.000Z",
   "gitUrl": "git://github.com/maxogden/menubar.git",
   "sshUrl": "git@github.com:maxogden/menubar.git",
   "cloneUrl": "https://github.com/maxogden/menubar.git",
   "svnUrl": "https://github.com/maxogden/menubar",
   "homepage": "",
-  "size": 214,
-  "stargazersCount": 3809,
-  "watchersCount": 3809,
+  "size": 210,
+  "stargazersCount": 4191,
+  "watchersCount": 4191,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 217,
+  "forksCount": 241,
   "mirrorUrl": null,
-  "openIssuesCount": 37,
-  "openIssues": 37,
-  "watchers": 3809,
+  "openIssuesCount": 43,
+  "openIssues": 43,
+  "watchers": 4191,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,18 +62,15 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 217,
-  "subscribersCount": 63,
+  "networkCount": 241,
+  "subscribersCount": 70,
   "status": 200,
   "packageJSON": {
     "name": "menubar",
     "version": "5.2.3",
     "description": "high level way to create menubar desktop applications with electron",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/maxogden/menubar.git"
-    },
+    "repository": "https://github.com/maxogden/menubar",
     "scripts": {
       "test": "standard"
     },
@@ -88,9 +85,6 @@
     ],
     "author": "max ogden",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/maxogden/menubar/issues"
-    },
     "homepage": "https://github.com/maxogden/menubar",
     "dependencies": {
       "electron-positioner": "^3.0.0",
@@ -98,6 +92,11 @@
     },
     "devDependencies": {
       "standard": "^5.4.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/maxogden/menubar/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "maxogden___menubar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:28:11.321Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:09.587Z"
+  "lastFetchedAt": "2017-10-23T23:40:04.921Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:09.587Z",
+  "archived": false
 }

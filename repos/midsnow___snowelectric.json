@@ -5,7 +5,7 @@
   "owner": {
     "login": "midsnow",
     "id": 16411755,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16411755?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16411755?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/midsnow",
     "htmlUrl": "https://github.com/midsnow",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "midsnow",
     "id": 16411755,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16411755?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16411755?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/midsnow",
     "htmlUrl": "https://github.com/midsnow",
@@ -90,10 +90,7 @@
     "version": "0.0.1",
     "description": "tv streaming",
     "main": "electron/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/snowstreams/snowelectric"
-    },
+    "repository": "https://github.com/snowstreams/snowelectric",
     "scripts": {
       "test": "test",
       "start": "electron --enable-transparent-visuals --disable-gpu electron/index.js",
@@ -148,7 +145,8 @@
       "debug": "^2.2.0",
       "electron-prebuilt": "^0.36.1",
       "lodash": "^3.10.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -175,6 +173,7 @@
   },
   "filename": "midsnow___snowelectric.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:29:57.197Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:36.120Z"
+  "lastFetchedAt": "2017-10-24T00:20:44.945Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:36.120Z",
+  "archived": false
 }

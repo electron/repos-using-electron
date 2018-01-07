@@ -5,7 +5,7 @@
   "owner": {
     "login": "maxogden",
     "id": 39759,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/39759?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/39759?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maxogden",
     "htmlUrl": "https://github.com/maxogden",
@@ -20,12 +20,12 @@
   "description": "use electron-microscope to inspect websites and extract data",
   "fork": false,
   "createdAt": "2015-07-05T23:12:57.000Z",
-  "updatedAt": "2017-05-04T02:55:55.000Z",
+  "updatedAt": "2017-10-10T03:10:13.000Z",
   "pushedAt": "2017-02-25T20:16:40.000Z",
   "homepage": "",
   "size": 49,
-  "stargazersCount": 132,
-  "watchersCount": 132,
+  "stargazersCount": 142,
+  "watchersCount": 142,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 16,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 132,
+  "watchers": 142,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 16,
-  "subscribersCount": 5,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "electron-microscope",
@@ -53,15 +53,9 @@
     "scripts": {
       "test": "standard && electron test/test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maxogden/electron-microscope.git"
-    },
+    "repository": "https://github.com/maxogden/electron-microscope",
     "author": "",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/maxogden/electron-microscope/issues"
-    },
     "homepage": "https://github.com/maxogden/electron-microscope#readme",
     "dependencies": {
       "debug": "^2.2.0",
@@ -80,6 +74,11 @@
       "pump": "^1.0.1",
       "standard": "^6.0.4",
       "tape": "^4.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/maxogden/electron-microscope/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/maxogden/electron-microscope",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:15:54.785Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:58.104Z"
+  "lastFetchedAt": "2017-10-23T22:54:47.136Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:58.104Z",
+  "archived": false
 }

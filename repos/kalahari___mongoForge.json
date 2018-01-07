@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mongo-forge-dev",
     "version": "0.5.0",
@@ -69,10 +69,7 @@
       "test": "npm run lint",
       "install-native": "node ./tasks/install_native_module"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kalahari/mongoForge.git"
-    },
+    "repository": "https://github.com/kalahari/mongoForge",
     "keywords": [
       "mongodb",
       "electron",
@@ -81,9 +78,6 @@
     ],
     "author": "Blake Mitchell <blake@barkingspoon.com>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/kalahari/mongoForge/issues"
-    },
     "homepage": "https://github.com/kalahari/mongoForge#readme",
     "devDependencies": {
       "asar": "^0.11.0",
@@ -107,6 +101,11 @@
     "optionalDependencies": {
       "appdmg": "^0.3.2",
       "rcedit": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kalahari/mongoForge/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,6 @@
   "svnUrl": "https://github.com/kalahari/mongoForge",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:48:54.155Z",
+  "lastFetchedAt": "2017-10-23T23:04:49.076Z",
   "packageLastFetchedAt": "2017-05-04T22:12:32.647Z"
 }

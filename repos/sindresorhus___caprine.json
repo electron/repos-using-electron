@@ -5,7 +5,7 @@
   "owner": {
     "login": "sindresorhus",
     "id": 170270,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/170270?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/170270?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sindresorhus",
     "htmlUrl": "https://github.com/sindresorhus",
@@ -17,24 +17,24 @@
     "type": "User"
   },
   "private": false,
-  "description": "Unofficial Facebook Messenger app",
+  "description": "Elegant Facebook Messenger desktop app",
   "fork": false,
   "createdAt": "2015-09-16T08:20:12.000Z",
-  "updatedAt": "2017-05-04T17:21:07.000Z",
-  "pushedAt": "2017-05-01T21:11:12.000Z",
-  "homepage": null,
-  "size": 2975,
-  "stargazersCount": 1650,
-  "watchersCount": 1650,
+  "updatedAt": "2017-10-23T17:29:57.000Z",
+  "pushedAt": "2017-10-17T15:06:40.000Z",
+  "homepage": "https://sindresorhus.com/caprine",
+  "size": 9006,
+  "stargazersCount": 2595,
+  "watchersCount": 2595,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
-  "hasPages": false,
-  "forksCount": 149,
-  "openIssuesCount": 20,
-  "openIssues": 20,
-  "watchers": 1650,
+  "hasPages": true,
+  "forksCount": 226,
+  "openIssuesCount": 49,
+  "openIssues": 49,
+  "watchers": 2595,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,14 +42,14 @@
     "pull": true
   },
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdxId": null,
-    "url": null,
-    "featured": false
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
   },
-  "networkCount": 149,
-  "subscribersCount": 54,
+  "networkCount": 226,
+  "subscribersCount": 89,
   "status": 200,
   "packageJSON": {
     "name": "caprine",
@@ -63,18 +63,6 @@
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com"
     },
-    "maintainers": [
-      {
-        "name": "Oskar Krawczyk",
-        "email": "oskar.krawczyk@gmail.com",
-        "url": "krawczyk.io"
-      },
-      {
-        "name": "Daniel Pham",
-        "email": "pham.dany@gmail.com",
-        "url": "danhp.github.io"
-      }
-    ],
     "scripts": {
       "postinstall": "install-app-deps",
       "test": "xo",
@@ -145,6 +133,32 @@
           "nsis"
         ]
       }
+    },
+    "owners": [
+      {
+        "name": "Oskar Krawczyk",
+        "email": "oskar.krawczyk@gmail.com",
+        "url": "krawczyk.io"
+      },
+      {
+        "name": "Daniel Pham",
+        "email": "pham.dany@gmail.com",
+        "url": "danhp.github.io"
+      }
+    ],
+    "other": {
+      "maintainers": [
+        {
+          "name": "Oskar Krawczyk",
+          "email": "oskar.krawczyk@gmail.com",
+          "url": "krawczyk.io"
+        },
+        {
+          "name": "Daniel Pham",
+          "email": "pham.dany@gmail.com",
+          "url": "danhp.github.io"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -192,6 +206,7 @@
   "svnUrl": "https://github.com/sindresorhus/caprine",
   "hasProjects": false,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:31:40.706Z",
-  "packageLastFetchedAt": "2017-05-05T01:25:35.526Z"
+  "lastFetchedAt": "2017-10-23T22:15:57.048Z",
+  "packageLastFetchedAt": "2017-05-05T01:25:35.526Z",
+  "archived": false
 }

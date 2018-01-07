@@ -178,21 +178,14 @@
   },
   "networkCount": 11,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ember-hearth",
     "version": "0.0.0",
     "description": "Small description for ember-hearth goes here",
     "license": "MIT",
     "author": "",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ember-learn/ember-hearth.git"
-    },
+    "repository": "https://github.com/ember-learn/ember-hearth",
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -256,6 +249,12 @@
       "tar": "^2.2.1",
       "temp": "^0.8.3",
       "uuid": "^3.0.1"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -303,6 +302,6 @@
   },
   "filename": "ember-learn___ember-hearth.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:39:00.984Z",
+  "lastFetchedAt": "2017-10-23T23:02:55.339Z",
   "packageLastFetchedAt": "2017-05-05T01:31:16.880Z"
 }

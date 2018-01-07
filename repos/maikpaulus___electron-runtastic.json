@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-runtastic",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maikpaulus/electron-runtastic.git"
-    },
+    "repository": "https://github.com/maikpaulus/electron-runtastic",
     "keywords": [
       "Electron",
       "quick",
@@ -93,7 +90,8 @@
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,6 @@
   },
   "filename": "maikpaulus___electron-runtastic.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T13:05:43.692Z",
+  "lastFetchedAt": "2017-10-23T22:56:26.590Z",
   "packageLastFetchedAt": "2017-05-05T01:29:44.366Z"
 }

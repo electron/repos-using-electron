@@ -5,7 +5,7 @@
   "owner": {
     "login": "dzt",
     "id": 6421443,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6421443?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6421443?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dzt",
     "htmlUrl": "https://github.com/dzt",
@@ -78,19 +78,13 @@
       "installer": "node scripts/installer.js",
       "dist": "npm run dist:win && npm run installer"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/dzt/jetta.git"
-    },
+    "repository": "https://github.com/dzt/jetta",
     "keywords": [
       "soundcloud",
       "bandcamp"
     ],
     "author": "Peter Soboyejo <thepcmrtim@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dzt/jetta/issues"
-    },
     "homepage": "https://github.com/dzt/jetta#readme",
     "dependencies": {
       "application-config": "^0.2.2",
@@ -127,6 +121,11 @@
         "target": "squirrel",
         "authors": "Peter Soboyejo"
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dzt/jetta/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "dzt___jetta.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:35:17.562Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:01.245Z"
+  "lastFetchedAt": "2017-10-23T22:12:39.039Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:01.245Z",
+  "archived": false
 }

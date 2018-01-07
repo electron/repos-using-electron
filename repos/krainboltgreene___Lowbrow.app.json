@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "lowbrow",
     "productName": "Lowbrow",
@@ -55,10 +55,7 @@
       "email": "me@kurtisrainboltgreene.name",
       "url": "http://www.kurtisrainboltgreene.name"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/krainboltgreene/Lowbrow.app.git"
-    },
+    "repository": "https://github.com/krainboltgreene/Lowbrow.app",
     "license": "MIT",
     "keywords": [
       "browser"
@@ -115,7 +112,8 @@
       "electron-builder": "git://github.com/loopline-systems/electron-builder.git",
       "electron-packager": "git://github.com/maxogden/electron-packager.git",
       "electron-prebuilt": "git://github.com/mafintosh/electron-prebuilt.git"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -162,6 +160,6 @@
   "svnUrl": "https://github.com/krainboltgreene/Lowbrow.app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:42:58.175Z",
+  "lastFetchedAt": "2017-10-23T23:01:16.078Z",
   "packageLastFetchedAt": "2017-05-04T22:26:36.472Z"
 }

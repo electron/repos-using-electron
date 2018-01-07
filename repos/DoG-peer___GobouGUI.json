@@ -5,7 +5,7 @@
   "owner": {
     "login": "DoG-peer",
     "id": 5571744,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5571744?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5571744?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DoG-peer",
     "htmlUrl": "https://github.com/DoG-peer",
@@ -56,10 +56,7 @@
     "version": "0.0.1",
     "description": "GUI for gobou",
     "main": "app/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/DoG-peer/GobouGUI.git"
-    },
+    "repository": "https://github.com/DoG-peer/GobouGUI",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "lint": "eslint -c google src | cat",
@@ -91,7 +88,8 @@
       "react-tap-event-plugin": "^0.2.0",
       "redux": "^3.4.0",
       "redux-thunk": "^2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/DoG-peer/GobouGUI",
@@ -138,6 +136,7 @@
   },
   "filename": "DoG-peer___GobouGUI.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:22:17.252Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:05.902Z"
+  "lastFetchedAt": "2017-10-24T00:16:46.691Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:05.902Z",
+  "archived": false
 }

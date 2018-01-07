@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "lecture-tool",
     "version": "0.0.1",
@@ -91,7 +91,8 @@
     "scripts": {
       "start": "./bin/electron/linux/amd64/electron ./main.js &"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 404,
   "firstCommit": {
@@ -118,6 +119,6 @@
   },
   "filename": "Artificial-University___AU-lecture-tool.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:01.181Z",
+  "lastFetchedAt": "2017-10-23T23:04:01.383Z",
   "packageLastFetchedAt": "2017-05-05T17:12:42.535Z"
 }

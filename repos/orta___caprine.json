@@ -184,7 +184,7 @@
   },
   "networkCount": 149,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "caprine",
     "productName": "Caprine",
@@ -197,18 +197,6 @@
       "email": "sindresorhus@gmail.com",
       "url": "sindresorhus.com"
     },
-    "maintainers": [
-      {
-        "name": "Oskar Krawczyk",
-        "email": "oskar.krawczyk@gmail.com",
-        "url": "krawczyk.io"
-      },
-      {
-        "name": "Daniel Pham",
-        "email": "pham.dany@gmail.com",
-        "url": "danhp.github.io"
-      }
-    ],
     "scripts": {
       "test": "xo",
       "start": "electron .",
@@ -234,6 +222,32 @@
       "envs": [
         "node",
         "browser"
+      ]
+    },
+    "owners": [
+      {
+        "name": "Oskar Krawczyk",
+        "email": "oskar.krawczyk@gmail.com",
+        "url": "krawczyk.io"
+      },
+      {
+        "name": "Daniel Pham",
+        "email": "pham.dany@gmail.com",
+        "url": "danhp.github.io"
+      }
+    ],
+    "other": {
+      "maintainers": [
+        {
+          "name": "Oskar Krawczyk",
+          "email": "oskar.krawczyk@gmail.com",
+          "url": "krawczyk.io"
+        },
+        {
+          "name": "Daniel Pham",
+          "email": "pham.dany@gmail.com",
+          "url": "danhp.github.io"
+        }
       ]
     }
   },
@@ -263,6 +277,6 @@
   "filename": "orta___caprine.json",
   "sourceRepo": "sindresorhus/caprine",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:18.421Z",
+  "lastFetchedAt": "2017-10-23T23:03:40.838Z",
   "packageLastFetchedAt": "2017-05-04T22:25:41.157Z"
 }

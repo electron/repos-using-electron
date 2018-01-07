@@ -5,7 +5,7 @@
   "owner": {
     "login": "qualiancy",
     "id": 1142083,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1142083?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1142083?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qualiancy",
     "htmlUrl": "https://github.com/qualiancy",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "qualiancy",
     "id": 1142083,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1142083?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1142083?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qualiancy",
     "htmlUrl": "https://github.com/qualiancy",
@@ -64,10 +64,7 @@
     "name": "kinetik",
     "description": "A storage-agnostic, tag centric job queue for distributed applications.",
     "version": "0.3.1",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/qualiancy/kinetik.git"
-    },
+    "repository": "https://github.com/qualiancy/kinetik",
     "main": "./index",
     "scripts": {
       "test": "make test"
@@ -88,7 +85,8 @@
       "seed-redis": "*",
       "seed-mongodb": "*"
     },
-    "optionalDependencies": {}
+    "optionalDependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/qualiancy/kinetik",
@@ -135,6 +133,7 @@
   },
   "filename": "qualiancy___kinetik.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:46.209Z",
-  "packageLastFetchedAt": "2017-05-05T14:45:08.630Z"
+  "lastFetchedAt": "2017-10-23T23:44:12.681Z",
+  "packageLastFetchedAt": "2017-05-05T14:45:08.630Z",
+  "archived": false
 }

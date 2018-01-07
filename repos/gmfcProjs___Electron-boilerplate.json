@@ -5,7 +5,7 @@
   "owner": {
     "login": "gmfcProjs",
     "id": 13963022,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13963022?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13963022?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gmfcProjs",
     "htmlUrl": "https://github.com/gmfcProjs",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "gmfcProjs",
     "id": 13963022,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13963022?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13963022?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gmfcProjs",
     "htmlUrl": "https://github.com/gmfcProjs",
@@ -68,23 +68,22 @@
       "test": "mocha --reporter spec",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gmfcProjs/Electron-boilerplate.git"
-    },
+    "repository": "https://github.com/gmfcProjs/Electron-boilerplate",
     "keywords": [
       "boilerplate",
       "electron"
     ],
     "author": "gmfc",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/gmfcProjs/Electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/gmfcProjs/Electron-boilerplate#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.9",
       "mocha": "^2.4.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gmfcProjs/Electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "gmfcProjs___Electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:54.283Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:19.227Z"
+  "lastFetchedAt": "2017-10-23T21:52:27.109Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:19.227Z",
+  "archived": false
 }

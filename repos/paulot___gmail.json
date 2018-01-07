@@ -5,7 +5,7 @@
   "owner": {
     "login": "paulot",
     "id": 1701002,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1701002?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1701002?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paulot",
     "htmlUrl": "https://github.com/paulot",
@@ -20,21 +20,21 @@
   "description": "Unofficial Gmail native app",
   "fork": false,
   "createdAt": "2015-11-23T06:34:41.000Z",
-  "updatedAt": "2017-05-03T22:13:58.000Z",
+  "updatedAt": "2017-08-09T10:42:33.000Z",
   "pushedAt": "2017-04-06T14:21:48.000Z",
   "homepage": "",
   "size": 333,
-  "stargazersCount": 112,
-  "watchersCount": 112,
+  "stargazersCount": 111,
+  "watchersCount": 111,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 15,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 112,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 111,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 15,
-  "subscribersCount": 2,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "gmail-app",
@@ -65,10 +65,7 @@
       "build": "electron-packager . Gmail --platform=darwin --arch=x64 --version=0.35.1 --icon=lib/media/gmail.png",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/paulot/gmail.git"
-    },
+    "repository": "https://github.com/paulot/gmail",
     "keywords": [
       "gmail",
       "mail",
@@ -76,9 +73,6 @@
     ],
     "author": "Paulo Tanaka",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paulot/gmail/issues"
-    },
     "homepage": "https://github.com/paulot/gmail#readme",
     "dependencies": {
       "bluebird": "^3.0.5",
@@ -89,6 +83,11 @@
       "babel-preset-es2015": "^6.1.18",
       "babel-core": "^6.2.1",
       "electron-prebuilt": "^0.35.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/paulot/gmail/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "paulot___gmail.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:50.323Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:07.275Z"
+  "lastFetchedAt": "2017-10-23T23:37:04.776Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:07.275Z",
+  "archived": false
 }

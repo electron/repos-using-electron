@@ -5,7 +5,7 @@
   "owner": {
     "login": "damc-dev",
     "id": 3859789,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3859789?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3859789?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/damc-dev",
     "htmlUrl": "https://github.com/damc-dev",
@@ -93,7 +93,8 @@
       "package": "electron-packager . --all --out dist/ --version=0.36.0 --overwrite --icon=Icon.icns",
       "package-win": "electron-packager . --platform=win32 --arch=all --out dist/ --version=0.36.0 --overwrite --icon=Icon.icns",
       "test": "echo \"Error: no test specified\" && exit 1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +121,7 @@
   },
   "filename": "damc-dev___WorkTracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:40.601Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:19.733Z"
+  "lastFetchedAt": "2017-10-24T00:15:44.474Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:19.733Z",
+  "archived": false
 }

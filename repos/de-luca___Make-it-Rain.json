@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "make-it-rain",
     "productName": "Make-it-Rain",
@@ -83,10 +83,7 @@
       "email": "dev@de-luca.io",
       "url": "de-luca.io"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/de-luca/Make-it-Rain.git"
-    },
+    "repository": "https://github.com/de-luca/Make-it-Rain",
     "config": {
       "flags": "--prune --asar --overwrite",
       "version": "--version=0.36.9 --app-bundle-id=io.de-luca.make-it-rain"
@@ -127,7 +124,8 @@
     "devDependencies": {
       "electron-prebuilt": "^0.36.9",
       "electron-packager": "^5.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -154,6 +152,6 @@
   },
   "filename": "de-luca___Make-it-Rain.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:53.750Z",
+  "lastFetchedAt": "2017-10-23T23:08:39.349Z",
   "packageLastFetchedAt": "2017-05-04T22:46:26.675Z"
 }

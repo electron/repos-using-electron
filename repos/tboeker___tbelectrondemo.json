@@ -5,7 +5,7 @@
   "owner": {
     "login": "tboeker",
     "id": 8963341,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8963341?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8963341?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tboeker",
     "htmlUrl": "https://github.com/tboeker",
@@ -74,10 +74,7 @@
       "electron:dist:win32": "node scripts/electron-dist-win32.js",
       "electron:upload:win32": "node scripts/electron-upload-win32.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/tboeker/tbelectrondemo.git"
-    },
+    "repository": "https://github.com/tboeker/tbelectrondemo",
     "keywords": [
       "Electron",
       "quick",
@@ -86,9 +83,6 @@
       "tb"
     ],
     "author": "TB",
-    "bugs": {
-      "url": "https://github.com/tboeker/tbelectrondemo/issues"
-    },
     "homepage": "https://github.com/tboeker/tbelectrondemo",
     "devDependencies": {
       "electron": "*",
@@ -129,6 +123,11 @@
       "electron-squirrel-startup": "*",
       "pkginfo": "*",
       "winston": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tboeker/tbelectrondemo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +175,7 @@
   "svnUrl": "https://github.com/tboeker/tbelectrondemo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:15:40.983Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:48.613Z"
+  "lastFetchedAt": "2017-10-23T22:11:36.799Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:48.613Z",
+  "archived": false
 }

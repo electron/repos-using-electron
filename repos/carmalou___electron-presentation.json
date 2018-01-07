@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,14 +82,16 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +118,6 @@
   },
   "filename": "carmalou___electron-presentation.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:41.636Z",
+  "lastFetchedAt": "2017-10-23T23:09:24.587Z",
   "packageLastFetchedAt": "2017-05-04T23:05:41.533Z"
 }

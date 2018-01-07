@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hadron-application-menu",
     "description": "Atom's application-menu class as a standalone module.",
@@ -95,10 +95,7 @@
       "ci": "npm test"
     },
     "homepage": "http://github.com/mongodb-js/hadron-application-menu",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mongodb-js/hadron-application-menu.git"
-    },
+    "repository": "https://github.com/mongodb-js/hadron-application-menu",
     "dependencies": {
       "underscore-plus": "^1.6.6"
     },
@@ -108,7 +105,8 @@
       "eslint-config-mongodb-js": "^1.0.6",
       "mongodb-js-fmt": "^0.0.3"
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,6 @@
   },
   "filename": "mongodb-js___hadron-application-menu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:10.352Z",
+  "lastFetchedAt": "2017-10-23T23:00:06.889Z",
   "packageLastFetchedAt": "2017-05-05T15:38:56.814Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "alvinantonius",
     "id": 2825909,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2825909?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2825909?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alvinantonius",
     "htmlUrl": "https://github.com/alvinantonius",
@@ -72,7 +72,8 @@
       "rebuild-sqlite3-win": "cd node_modules/sqlite3 && npm run prepublish && node-gyp configure --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-win32-x64 && node-gyp node-gyp rebuild --target=0.36.0 --arch=x64 --target_platform=win32 --dist-url=https://atom.io/download/atom-shell --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-win32-x64"
     },
     "contributors": [],
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 404,
   "firstCommit": {
@@ -119,5 +120,6 @@
   "svnUrl": "https://github.com/alvinantonius/inventoped",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:55:20.997Z"
+  "lastFetchedAt": "2017-10-23T22:07:29.218Z",
+  "archived": false
 }

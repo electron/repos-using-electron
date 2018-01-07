@@ -5,7 +5,7 @@
   "owner": {
     "login": "dbackowski",
     "id": 567457,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/567457?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/567457?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dbackowski",
     "htmlUrl": "https://github.com/dbackowski",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/dbackowski/BackRSS/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dbackowski/BackRSS/deployments",
   "createdAt": "2015-04-29T11:52:16.000Z",
-  "updatedAt": "2017-03-21T01:43:18.000Z",
-  "pushedAt": "2017-04-26T06:15:57.000Z",
+  "updatedAt": "2017-08-11T17:18:13.000Z",
+  "pushedAt": "2017-10-09T06:08:03.000Z",
   "gitUrl": "git://github.com/dbackowski/BackRSS.git",
   "sshUrl": "git@github.com:dbackowski/BackRSS.git",
   "cloneUrl": "https://github.com/dbackowski/BackRSS.git",
   "svnUrl": "https://github.com/dbackowski/BackRSS",
   "homepage": "",
-  "size": 622,
-  "stargazersCount": 20,
-  "watchersCount": 20,
+  "size": 658,
+  "stargazersCount": 21,
+  "watchersCount": 21,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 20,
+  "watchers": 21,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -81,10 +81,7 @@
       "build": "truncate -s 0 feeds && truncate -s 0 sites && electron-packager ./ --platform=darwin,linux --overwrite --icon=./public/images/icon --arch=x64",
       "test": "NODE_ENV=test mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dbackowski/BackRSS.git"
-    },
+    "repository": "https://github.com/dbackowski/BackRSS",
     "author": "Damian Baćkowski",
     "license": "MIT",
     "dependencies": {
@@ -101,7 +98,8 @@
       "electron-packager": "8.6.0",
       "electron": "1.6.6",
       "supertest": "^3.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,7 @@
   },
   "filename": "dbackowski___BackRSS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:38.511Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:07.482Z"
+  "lastFetchedAt": "2017-10-24T00:08:19.475Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:07.482Z",
+  "archived": false
 }

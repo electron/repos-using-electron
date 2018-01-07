@@ -6,7 +6,7 @@
   "owner": {
     "login": "babsey",
     "id": 620984,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/620984?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/620984?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/babsey",
     "htmlUrl": "https://github.com/babsey",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/babsey/nest-desktop/deployments",
   "createdAt": "2017-01-04T19:22:23.000Z",
   "updatedAt": "2017-04-14T19:00:31.000Z",
-  "pushedAt": "2017-05-02T09:46:32.000Z",
+  "pushedAt": "2017-10-07T12:06:31.000Z",
   "gitUrl": "git://github.com/babsey/nest-desktop.git",
   "sshUrl": "git@github.com:babsey/nest-desktop.git",
   "cloneUrl": "https://github.com/babsey/nest-desktop.git",
   "svnUrl": "https://github.com/babsey/nest-desktop",
   "homepage": "https://www.npmjs.com/package/nest-desktop",
-  "size": 1893,
+  "size": 1974,
   "stargazersCount": 3,
   "watchersCount": 3,
   "language": "JavaScript",
@@ -71,9 +71,9 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:04:17.547Z",
+  "lastFetchedAt": "2017-10-23T22:08:27.791Z",
   "packageJSON": {
     "name": "nest-desktop",
     "version": "0.9.1",
@@ -83,10 +83,7 @@
       "start": "electron .",
       "package-linux": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=./src/assets/img/nest_logo.png --prune=true --out=release-builds"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/babsey/nest-desktop.git"
-    },
+    "repository": "https://github.com/babsey/nest-desktop",
     "keywords": [
       "interactive",
       "neuronal",
@@ -123,8 +120,10 @@
       "pouchdb-authentication": "^0.5.5",
       "pouchdb-upsert": "^2.0.2",
       "uuid": "^3.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:35:54.477Z"
+  "packageLastFetchedAt": "2017-05-05T15:35:54.477Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "example-menubar-app",
     "version": "1.0.0",
@@ -60,7 +60,8 @@
     "scripts": {
       "build": "electron-packager . Chirp --platform=win32 --arch=x64 --version=0.36.0",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/rakhra/flock",
@@ -107,6 +108,6 @@
   },
   "filename": "rakhra___flock.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:14.169Z",
+  "lastFetchedAt": "2017-10-23T23:07:04.355Z",
   "packageLastFetchedAt": "2017-05-05T15:36:01.674Z"
 }

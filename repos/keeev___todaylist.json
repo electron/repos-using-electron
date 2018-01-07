@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "url": "https://github.com/electron/electron-quick-start",
-      "type": "git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -99,7 +96,8 @@
     },
     "dependencies": {
       "gulp": "^3.9.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,6 @@
   "filename": "keeev___todaylist.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:48.452Z",
+  "lastFetchedAt": "2017-10-23T23:04:26.328Z",
   "packageLastFetchedAt": "2017-05-04T22:21:25.616Z"
 }

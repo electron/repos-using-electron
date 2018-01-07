@@ -5,7 +5,7 @@
   "owner": {
     "login": "d-evelopers",
     "id": 16676484,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16676484?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16676484?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/d-evelopers",
     "htmlUrl": "https://github.com/d-evelopers",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "d-evelopers",
     "id": 16676484,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16676484?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16676484?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/d-evelopers",
     "htmlUrl": "https://github.com/d-evelopers",
@@ -71,10 +71,7 @@
       "start": "electron .",
       "dev": "electron . -dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/d-evelopers/HellsAngel.git"
-    },
+    "repository": "https://github.com/d-evelopers/HellsAngel",
     "keywords": [
       "spanking",
       "sim",
@@ -83,9 +80,6 @@
     ],
     "author": "/d/evelopers",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/d-evelopers/HellsAngel/issues"
-    },
     "homepage": "https://github.com/d-evelopers/HellsAngel#readme",
     "dependencies": {
       "electron": "^1.4.15"
@@ -94,6 +88,11 @@
       "chai": "^3.5.0",
       "electron-mocha": "^3.3.0",
       "npm-run-all": "^2.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/d-evelopers/HellsAngel/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "svnUrl": "https://github.com/d-evelopers/HellsAngel",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:23:42.337Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:29.249Z"
+  "lastFetchedAt": "2017-10-24T00:18:11.472Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:29.249Z",
+  "archived": false
 }

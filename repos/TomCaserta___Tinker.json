@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -76,19 +76,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -188,6 +182,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -235,6 +234,6 @@
   "svnUrl": "https://github.com/TomCaserta/Tinker",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:08:02.706Z",
+  "lastFetchedAt": "2017-10-23T22:59:33.873Z",
   "packageLastFetchedAt": "2017-05-05T15:06:49.846Z"
 }

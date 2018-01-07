@@ -164,16 +164,13 @@
   },
   "networkCount": 3,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "author": "Jake Luer <jake@alogicalparadox.com>",
     "name": "kinetik",
     "description": "A storage-agnostic, tag centric job queue for distributed applications.",
     "version": "0.2.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/qualiancy/kinetik.git"
-    },
+    "repository": "https://github.com/qualiancy/kinetik",
     "main": "./index",
     "scripts": {
       "test": "make test"
@@ -194,7 +191,8 @@
       "seed-redis": "*",
       "seed-mongodb": "*"
     },
-    "optionalDependencies": {}
+    "optionalDependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -242,6 +240,6 @@
   "svnUrl": "https://github.com/pgherveou/kinetik",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:35:40.140Z",
+  "lastFetchedAt": "2017-10-23T23:01:24.332Z",
   "packageLastFetchedAt": "2017-05-04T22:47:09.921Z"
 }

@@ -184,7 +184,7 @@
   },
   "networkCount": 87,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Championify",
     "version": "0.2.2",
@@ -195,10 +195,7 @@
       "build": "./node_modules/.bin/gulp build",
       "postinstall": "./node_modules/.bin/gulp setup"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dustinblackman/Championify.git"
-    },
+    "repository": "https://github.com/dustinblackman/Championify",
     "engines": {
       "node": ">=0.12.2"
     },
@@ -254,7 +251,8 @@
       "selenium-webdriver": "^2.45.1",
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -302,6 +300,6 @@
   "svnUrl": "https://github.com/nettan20/Championify",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:52:39.288Z",
+  "lastFetchedAt": "2017-10-23T21:49:50.141Z",
   "packageLastFetchedAt": "2017-05-05T01:30:45.891Z"
 }

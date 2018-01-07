@@ -5,7 +5,7 @@
   "owner": {
     "login": "lepus-ctf",
     "id": 14056677,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14056677?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14056677?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lepus-ctf",
     "htmlUrl": "https://github.com/lepus-ctf",
@@ -20,12 +20,12 @@
   "description": "Lepus-CTF frontend application",
   "fork": false,
   "createdAt": "2015-08-30T09:42:57.000Z",
-  "updatedAt": "2016-05-23T03:08:16.000Z",
+  "updatedAt": "2017-05-16T02:41:50.000Z",
   "pushedAt": "2015-11-02T06:19:50.000Z",
   "homepage": "",
   "size": 2804,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 12,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "lepus-ctf",
     "id": 14056677,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14056677?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14056677?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lepus-ctf",
     "htmlUrl": "https://github.com/lepus-ctf",
@@ -83,10 +83,7 @@
       "package:all": "gulp package:all",
       "postinstall": "gulp download:font"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lepus-ctf/lepus-frontend.git"
-    },
+    "repository": "https://github.com/lepus-ctf/lepus-frontend",
     "keywords": [
       "lepus-ctf",
       "ctf",
@@ -94,9 +91,6 @@
     ],
     "author": "mzyy94",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lepus-ctf/lepus-frontend/issues"
-    },
     "homepage": "https://github.com/lepus-ctf/lepus-frontend",
     "devDependencies": {
       "electron-packager": "^5.0.2",
@@ -144,6 +138,11 @@
       "socket.io-client": "^1.3.6",
       "superagent": "^1.3.0",
       "yamljs": "^0.2.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lepus-ctf/lepus-frontend/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -191,6 +190,7 @@
   "svnUrl": "https://github.com/lepus-ctf/lepus-frontend",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:52:40.272Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:22.997Z"
+  "lastFetchedAt": "2017-10-23T22:52:37.619Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:22.997Z",
+  "archived": false
 }

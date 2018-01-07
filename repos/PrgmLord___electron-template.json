@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "projectname",
     "version": "1.0.0",
@@ -78,7 +78,8 @@
       "test": "electron ."
     },
     "author": "Foyez",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -105,6 +106,6 @@
   },
   "filename": "PrgmLord___electron-template.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:27:21.451Z",
+  "lastFetchedAt": "2017-10-23T22:56:24.097Z",
   "packageLastFetchedAt": "2017-05-04T22:14:37.951Z"
 }

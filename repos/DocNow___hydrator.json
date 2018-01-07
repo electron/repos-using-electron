@@ -5,7 +5,7 @@
   "owner": {
     "login": "DocNow",
     "id": 13439550,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13439550?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13439550?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DocNow",
     "htmlUrl": "https://github.com/DocNow",
@@ -20,21 +20,21 @@
   "description": "Turn Tweet IDs into Twitter JSON from your desktop! Edit",
   "fork": false,
   "createdAt": "2016-12-22T20:58:37.000Z",
-  "updatedAt": "2017-04-30T21:31:21.000Z",
-  "pushedAt": "2017-02-02T23:30:21.000Z",
+  "updatedAt": "2017-09-07T14:38:04.000Z",
+  "pushedAt": "2017-06-14T21:11:23.000Z",
   "homepage": null,
-  "size": 3947,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 3948,
+  "stargazersCount": 26,
+  "watchersCount": 26,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 18,
+  "watchers": 26,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "DocNow",
     "id": 13439550,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13439550?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13439550?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DocNow",
     "htmlUrl": "https://github.com/DocNow",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/DocNow/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 2,
+  "networkCount": 3,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "electron-react-boilerplate",
@@ -130,26 +130,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -243,6 +233,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -291,6 +290,7 @@
   "svnUrl": "https://github.com/DocNow/hydrator",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:02:18.234Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:35.407Z"
+  "lastFetchedAt": "2017-10-23T21:44:16.942Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:35.407Z",
+  "archived": false
 }

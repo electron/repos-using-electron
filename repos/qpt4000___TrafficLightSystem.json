@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Traffic_Light_System",
     "description": "UTEP Class Project",
@@ -81,10 +81,7 @@
       "url": "https://utep.edu"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/qpt4000/Electron-Veq"
-    },
+    "repository": "https://github.com/qpt4000/Electron-Veq",
     "main": "main.js",
     "scripts": {
       "depcheck": "dependency-check app --entry main.js --unused --no-dev",
@@ -171,7 +168,8 @@
       "pre-commit": "^1.1",
       "shelljs": "^0.7",
       "standard": "^7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -198,6 +196,6 @@
   },
   "filename": "qpt4000___TrafficLightSystem.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:29:54.024Z",
+  "lastFetchedAt": "2017-10-23T23:04:12.331Z",
   "packageLastFetchedAt": "2017-05-05T15:33:06.028Z"
 }

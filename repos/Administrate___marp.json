@@ -5,7 +5,7 @@
   "owner": {
     "login": "Administrate",
     "id": 1012646,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1012646?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1012646?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Administrate",
     "htmlUrl": "https://github.com/Administrate",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "Administrate",
     "id": 1012646,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1012646?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1012646?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Administrate",
     "htmlUrl": "https://github.com/Administrate",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "ajwillia-ms",
       "id": 294436,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/294436?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/294436?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ajwillia-ms",
       "htmlUrl": "https://github.com/ajwillia-ms",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "yhatt",
       "id": 3993388,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/3993388?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3993388?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/yhatt",
       "htmlUrl": "https://github.com/yhatt",
@@ -153,40 +154,38 @@
     "downloadsUrl": "https://api.github.com/repos/yhatt/marp/downloads",
     "deploymentsUrl": "https://api.github.com/repos/yhatt/marp/deployments",
     "createdAt": "2016-05-29T11:28:15.000Z",
-    "updatedAt": "2017-05-04T02:16:21.000Z",
-    "pushedAt": "2017-03-22T14:52:03.000Z",
+    "updatedAt": "2017-10-23T20:11:07.000Z",
+    "pushedAt": "2017-10-22T19:55:34.000Z",
     "gitUrl": "git://github.com/yhatt/marp.git",
     "sshUrl": "git@github.com:yhatt/marp.git",
     "cloneUrl": "https://github.com/yhatt/marp.git",
     "svnUrl": "https://github.com/yhatt/marp",
     "homepage": "https://yhatt.github.io/marp/",
-    "size": 4319,
-    "stargazersCount": 5739,
-    "watchersCount": 5739,
+    "size": 3832,
+    "stargazersCount": 6214,
+    "watchersCount": 6214,
     "language": "CoffeeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 281,
+    "forksCount": 333,
     "mirrorUrl": null,
-    "openIssuesCount": 104,
-    "openIssues": 104,
-    "watchers": 5739,
+    "archived": false,
+    "openIssuesCount": 120,
+    "openIssues": 120,
+    "watchers": 6214,
     "defaultBranch": "master"
   },
-  "networkCount": 281,
+  "networkCount": 333,
   "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "Marp",
     "version": "0.0.9pre",
     "description": "Markdown Presentation Writer (Powered by Electron)",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yhatt/marp"
-    },
+    "repository": "https://github.com/yhatt/marp",
     "main": "main.js",
     "scripts": {
       "start": "gulp run",
@@ -234,7 +233,8 @@
       "path": "^0.12.7",
       "photon": "git+https://github.com/connors/photon.git",
       "twemoji": "^2.0.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -282,6 +282,7 @@
   "svnUrl": "https://github.com/Administrate/marp",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:23:18.943Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:37.437Z"
+  "lastFetchedAt": "2017-10-23T22:55:08.754Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:37.437Z",
+  "archived": false
 }

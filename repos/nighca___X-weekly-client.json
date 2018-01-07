@@ -5,7 +5,7 @@
   "owner": {
     "login": "nighca",
     "id": 1492263,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1492263?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1492263?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nighca",
     "htmlUrl": "https://github.com/nighca",
@@ -75,10 +75,7 @@
       "release-linux": "electron-packager . weekly --platform=linux --arch=x64 --out=release --ignore=\"release|node_modules\" --asar",
       "release-windows": "electron-packager . weekly --platform=win32 --arch=ia32 --out=release --ignore=\"release|node_modules\" --asar"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nighca/X-weekly-client.git"
-    },
+    "repository": "https://github.com/nighca/X-weekly-client",
     "keywords": [
       "X",
       "X-client",
@@ -88,7 +85,8 @@
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,7 @@
   },
   "filename": "nighca___X-weekly-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:11.032Z",
-  "packageLastFetchedAt": "2017-05-05T17:17:12.395Z"
+  "lastFetchedAt": "2017-10-23T21:44:28.193Z",
+  "packageLastFetchedAt": "2017-05-05T17:17:12.395Z",
+  "archived": false
 }

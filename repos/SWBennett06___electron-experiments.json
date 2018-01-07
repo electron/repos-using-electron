@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SWBennett06/electron-experiments.git"
-    },
+    "repository": "https://github.com/SWBennett06/electron-experiments",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/SWBennett06/electron-experiments/issues"
-    },
     "homepage": "https://github.com/SWBennett06/electron-experiments#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/SWBennett06/electron-experiments/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   "filename": "SWBennett06___electron-experiments.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:28:20.535Z",
+  "lastFetchedAt": "2017-10-23T22:24:34.483Z",
   "packageLastFetchedAt": "2017-05-05T17:41:19.169Z"
 }

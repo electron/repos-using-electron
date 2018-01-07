@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "player",
     "productName": "player",
@@ -158,7 +158,8 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -185,6 +186,6 @@
   },
   "filename": "karlem___player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:24.381Z",
+  "lastFetchedAt": "2017-10-24T00:10:32.941Z",
   "packageLastFetchedAt": "2017-05-04T22:00:51.894Z"
 }

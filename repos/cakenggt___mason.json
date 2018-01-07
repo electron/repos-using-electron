@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "stonemason",
     "version": "2.4.0",
@@ -89,14 +89,13 @@
       "electron-reload": "^1.0.2",
       "mocha": "^3.0.2"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cakenggt/mason.git"
-    },
-    "bugs": {
-      "url": "https://github.com/cakenggt/mason/issues"
-    },
-    "homepage": "https://github.com/cakenggt/mason#readme"
+    "repository": "https://github.com/cakenggt/mason",
+    "homepage": "https://github.com/cakenggt/mason#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/cakenggt/mason/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +142,6 @@
   "svnUrl": "https://github.com/cakenggt/mason",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:33:29.949Z",
+  "lastFetchedAt": "2017-10-23T23:11:06.332Z",
   "packageLastFetchedAt": "2017-05-04T22:28:19.058Z"
 }

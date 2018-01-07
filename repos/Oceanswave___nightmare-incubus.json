@@ -5,7 +5,7 @@
   "owner": {
     "login": "Oceanswave",
     "id": 760674,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/760674?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/760674?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Oceanswave",
     "htmlUrl": "https://github.com/Oceanswave",
@@ -75,10 +75,7 @@
       "test": "make test",
       "coverage": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- "
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/oceanswave/nightmare-incubus.git"
-    },
+    "repository": "https://github.com/oceanswave/nightmare-incubus",
     "author": {
       "name": "Sean McLellan",
       "email": "sean.mclellan@baristalabs.com"
@@ -114,7 +111,8 @@
     },
     "engines": {
       "node": ">=5.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -141,6 +139,7 @@
   },
   "filename": "Oceanswave___nightmare-incubus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T09:03:45.738Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:40.443Z"
+  "lastFetchedAt": "2017-10-23T22:16:16.043Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:40.443Z",
+  "archived": false
 }

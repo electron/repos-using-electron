@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "unsplash-menubar-app",
     "version": "1.1.0",
@@ -65,7 +65,8 @@
     "scripts": {
       "build": "electron-packager . Unsplash-wallpaper --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/JakeChampion/unsplash-wallpaper",
@@ -112,6 +113,6 @@
   },
   "filename": "JakeChampion___unsplash-wallpaper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:05:27.155Z",
+  "lastFetchedAt": "2017-10-23T23:00:48.583Z",
   "packageLastFetchedAt": "2017-05-04T22:29:15.404Z"
 }

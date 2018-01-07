@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "NCICONS",
     "version": "0.1.0",
@@ -76,10 +76,7 @@
       "build": "npm run clean && electron-packager ./ NCICONS --out=dist --platform=darwin --version=0.36.0 --arch=x64 --icon=assets/osx/NCICONS.icns",
       "pack": "npm run build && electron-builder dist/NCICONS-darwin-x64/NCICONS.app --platform=osx --out=dist/NCICONS-darwin-x64 --config=builder.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hi-caicai/NCICONS.git"
-    },
+    "repository": "https://github.com/hi-caicai/NCICONS",
     "keywords": [
       "Electron",
       "quick",
@@ -88,9 +85,6 @@
     ],
     "author": "CaiCai",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/hi-caicai/NCICONS/issues"
-    },
     "homepage": "https://github.com/hi-caicai/NCICONS",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -104,6 +98,11 @@
       "nunjucks": "~2.2.0",
       "request": "~2.67.0",
       "scss": "~0.2.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hi-caicai/NCICONS/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,6 @@
   },
   "filename": "hi-caicai___NCICONS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:31.916Z",
+  "lastFetchedAt": "2017-10-24T00:10:25.655Z",
   "packageLastFetchedAt": "2017-05-04T22:28:58.315Z"
 }

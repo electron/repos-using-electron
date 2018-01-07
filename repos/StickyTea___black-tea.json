@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "my-app",
     "main": "main.js",
@@ -120,7 +120,8 @@
         "icon": "./win-icon.ico",
         "loadingGif": "./loading.gif"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +148,6 @@
   },
   "filename": "StickyTea___black-tea.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:10.312Z",
+  "lastFetchedAt": "2017-10-23T23:01:30.585Z",
   "packageLastFetchedAt": "2017-05-05T14:34:49.096Z"
 }

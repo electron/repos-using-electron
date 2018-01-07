@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "desktop-mp3-player",
     "version": "1.2.0",
@@ -84,7 +84,8 @@
     "dependencies": {
       "musicmetadata": "^2.0.2",
       "mva": "^2.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +132,6 @@
   "svnUrl": "https://github.com/ordinarygithubuser/deskop-mp3-player",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:04:27.960Z",
+  "lastFetchedAt": "2017-10-23T23:04:42.589Z",
   "packageLastFetchedAt": "2017-05-04T21:53:55.650Z"
 }

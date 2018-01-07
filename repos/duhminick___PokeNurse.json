@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 56,
   "subscribersCount": 32,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "PokeNurse",
     "version": "2.3.1",
@@ -103,26 +103,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vinnymac/PokeNurse.git"
-    },
+    "repository": "https://github.com/vinnymac/PokeNurse",
     "keywords": [
       "pokemon",
       "go"
     ],
     "author": "duhminick",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vinnymac/PokeNurse/issues"
-    },
     "homepage": "https://github.com/vinnymac/PokeNurse#readme",
     "devDependencies": {
       "asar": "0.13.0",
@@ -198,6 +188,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/vinnymac/PokeNurse/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -245,6 +244,6 @@
   "svnUrl": "https://github.com/vinnymac/PokeNurse",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:31:15.151Z",
+  "lastFetchedAt": "2017-10-23T23:03:35.074Z",
   "packageLastFetchedAt": "2017-05-04T22:09:10.220Z"
 }

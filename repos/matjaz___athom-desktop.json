@@ -5,7 +5,7 @@
   "owner": {
     "login": "matjaz",
     "id": 10425,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10425?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matjaz",
     "htmlUrl": "https://github.com/matjaz",
@@ -66,10 +66,7 @@
       "prepare-release": "npm run package && npm run installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/matjaz/athom-desktop.git"
-    },
+    "repository": "https://github.com/matjaz/athom-desktop",
     "keywords": [
       "Homey"
     ],
@@ -98,7 +95,8 @@
       "env": {
         "mocha": true
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/matjaz/athom-desktop",
@@ -145,6 +143,7 @@
   },
   "filename": "matjaz___athom-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:42.030Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:40.059Z"
+  "lastFetchedAt": "2017-10-23T22:23:51.731Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:40.059Z",
+  "archived": false
 }

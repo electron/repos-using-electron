@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "remmy",
     "version": "1.0.1",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tsuriga/remmy.git"
-    },
+    "repository": "https://github.com/tsuriga/remmy",
     "keywords": [
       "file",
       "pattern",
@@ -77,7 +74,8 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/tsuriga/remmy",
@@ -124,6 +122,6 @@
   },
   "filename": "tsuriga___remmy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:47:11.093Z",
+  "lastFetchedAt": "2017-10-23T23:05:55.832Z",
   "packageLastFetchedAt": "2017-05-05T14:43:10.238Z"
 }

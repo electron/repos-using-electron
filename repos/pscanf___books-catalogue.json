@@ -5,7 +5,7 @@
   "owner": {
     "login": "pscanf",
     "id": 3725458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3725458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3725458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pscanf",
     "htmlUrl": "https://github.com/pscanf",
@@ -83,14 +83,8 @@
       "package": "NODE_ENV=\"prod\" gulp package",
       "test": "gulp test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pscanf/catalogo-libri.git"
-    },
+    "repository": "https://github.com/pscanf/catalogo-libri",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/pscanf/catalogo-libri/issues"
-    },
     "homepage": "https://github.com/pscanf/catalogo-libri#readme",
     "devDependencies": {
       "asar": "^0.8.2",
@@ -162,6 +156,11 @@
       "redux-logger": "^2.0.4",
       "redux-router": "^1.0.0-beta3",
       "redux-thunk": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pscanf/catalogo-libri/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   },
   "filename": "pscanf___books-catalogue.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:22.715Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:10.297Z"
+  "lastFetchedAt": "2017-10-24T00:20:43.201Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:10.297Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "SlimDogs",
     "id": 4116827,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4116827?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4116827?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SlimDogs",
     "htmlUrl": "https://github.com/SlimDogs",
@@ -70,10 +70,7 @@
     "version": "1.0.0",
     "description": "Application dedicated to show Electron power (Part 1)",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SlimDogs/Electron-App-Sample.git"
-    },
+    "repository": "https://github.com/SlimDogs/Electron-App-Sample",
     "scripts": {
       "start": "electron main.js"
     },
@@ -86,7 +83,8 @@
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "youtube-dl": "^1.11.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +112,7 @@
   "filename": "SlimDogs___Electron-App-Sample.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:25.995Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:58.086Z"
+  "lastFetchedAt": "2017-10-24T00:15:39.461Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:58.086Z",
+  "archived": false
 }

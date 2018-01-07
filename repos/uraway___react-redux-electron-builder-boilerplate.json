@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "main": "main.js",
     "name": "react-redux-electron-builder-boilerplate",
@@ -82,13 +82,7 @@
       "email": "masato.u0107@gmail.com",
       "url": "https://github.com/uraway"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/uraway/react-redux-electron-builder-boilerplate.git"
-    },
-    "bugs": {
-      "url": "https://github.com/uraway/react-redux-electron-builder-boilerplate/issues"
-    },
+    "repository": "https://github.com/uraway/react-redux-electron-builder-boilerplate",
     "homepage": "https://github.com/uraway/react-redux-electron-builder-boilerplate#readme",
     "keywords": [
       "electron",
@@ -167,6 +161,11 @@
     },
     "build": {
       "appId": "com.yourname.electron"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/uraway/react-redux-electron-builder-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -194,6 +193,6 @@
   },
   "filename": "uraway___react-redux-electron-builder-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:54:48.790Z",
+  "lastFetchedAt": "2017-10-23T23:07:51.369Z",
   "packageLastFetchedAt": "2017-05-05T01:30:02.603Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "isaniomoraes",
     "id": 3224086,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3224086?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3224086?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/isaniomoraes",
     "htmlUrl": "https://github.com/isaniomoraes",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/isaniomoraes/bofur.git"
-    },
+    "repository": "https://github.com/isaniomoraes/bofur",
     "keywords": [
       "timer",
       "simple",
@@ -84,15 +81,17 @@
     ],
     "author": "@isaniomoraes",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/isaniomoraes/bofur/issues"
-    },
     "homepage": "https://github.com/isaniomoraes/bofur#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
     },
     "dependencies": {
       "node-notifier": "^4.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/isaniomoraes/bofur/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   },
   "filename": "isaniomoraes___bofur.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:22.468Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:37.878Z"
+  "lastFetchedAt": "2017-10-23T23:40:44.651Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:37.878Z",
+  "archived": false
 }

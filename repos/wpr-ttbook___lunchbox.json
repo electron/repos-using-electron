@@ -6,7 +6,7 @@
   "owner": {
     "login": "wpr-ttbook",
     "id": 24575744,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/24575744?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/24575744?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wpr-ttbook",
     "htmlUrl": "https://github.com/wpr-ttbook",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "wpr-ttbook",
     "id": 24575744,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/24575744?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/24575744?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wpr-ttbook",
     "htmlUrl": "https://github.com/wpr-ttbook",
@@ -85,7 +85,7 @@
     "owner": {
       "login": "nprapps",
       "id": 1858904,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1858904?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1858904?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/nprapps",
       "htmlUrl": "https://github.com/nprapps",
@@ -115,27 +115,28 @@
     "downloadsUrl": "https://api.github.com/repos/nprapps/lunchbox/downloads",
     "deploymentsUrl": "https://api.github.com/repos/nprapps/lunchbox/deployments",
     "createdAt": "2015-07-23T18:11:47.000Z",
-    "updatedAt": "2017-03-22T00:36:59.000Z",
-    "pushedAt": "2017-01-17T23:18:11.000Z",
+    "updatedAt": "2017-10-06T18:09:20.000Z",
+    "pushedAt": "2017-08-30T23:07:26.000Z",
     "gitUrl": "git://github.com/nprapps/lunchbox.git",
     "sshUrl": "git@github.com:nprapps/lunchbox.git",
     "cloneUrl": "https://github.com/nprapps/lunchbox.git",
     "svnUrl": "https://github.com/nprapps/lunchbox",
     "homepage": "http://blog.apps.npr.org/lunchbox/",
-    "size": 5200,
-    "stargazersCount": 113,
-    "watchersCount": 113,
+    "size": 5103,
+    "stargazersCount": 123,
+    "watchersCount": 123,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 110,
+    "forksCount": 125,
     "mirrorUrl": null,
-    "openIssuesCount": 15,
-    "openIssues": 15,
-    "watchers": 113,
+    "archived": false,
+    "openIssuesCount": 21,
+    "openIssues": 21,
+    "watchers": 123,
     "defaultBranch": "master"
   },
   "source": {
@@ -145,7 +146,7 @@
     "owner": {
       "login": "nprapps",
       "id": 1858904,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1858904?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1858904?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/nprapps",
       "htmlUrl": "https://github.com/nprapps",
@@ -175,41 +176,39 @@
     "downloadsUrl": "https://api.github.com/repos/nprapps/lunchbox/downloads",
     "deploymentsUrl": "https://api.github.com/repos/nprapps/lunchbox/deployments",
     "createdAt": "2015-07-23T18:11:47.000Z",
-    "updatedAt": "2017-03-22T00:36:59.000Z",
-    "pushedAt": "2017-01-17T23:18:11.000Z",
+    "updatedAt": "2017-10-06T18:09:20.000Z",
+    "pushedAt": "2017-08-30T23:07:26.000Z",
     "gitUrl": "git://github.com/nprapps/lunchbox.git",
     "sshUrl": "git@github.com:nprapps/lunchbox.git",
     "cloneUrl": "https://github.com/nprapps/lunchbox.git",
     "svnUrl": "https://github.com/nprapps/lunchbox",
     "homepage": "http://blog.apps.npr.org/lunchbox/",
-    "size": 5200,
-    "stargazersCount": 113,
-    "watchersCount": 113,
+    "size": 5103,
+    "stargazersCount": 123,
+    "watchersCount": 123,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 110,
+    "forksCount": 125,
     "mirrorUrl": null,
-    "openIssuesCount": 15,
-    "openIssues": 15,
-    "watchers": 113,
+    "archived": false,
+    "openIssuesCount": 21,
+    "openIssues": 21,
+    "watchers": 123,
     "defaultBranch": "master"
   },
-  "networkCount": 110,
+  "networkCount": 125,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:03:23.230Z",
+  "lastFetchedAt": "2017-10-23T21:44:14.637Z",
   "packageJSON": {
     "name": "lunchbox",
     "version": "1.0.0",
     "description": "A branch of the NPR Digital Team's Lunchbox suite of graphic generator tools.",
     "main": "index.js",
-    "directories": {
-      "test": "tests"
-    },
     "dependencies": {},
     "devDependencies": {
       "electron": "^1.4.13"
@@ -217,10 +216,7 @@
     "scripts": {
       "test": "fab app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wpr-ttbook/lunchbox.git"
-    },
+    "repository": "https://github.com/wpr-ttbook/lunchbox",
     "keywords": [
       "dataviz",
       "social",
@@ -229,11 +225,17 @@
     ],
     "author": "WPR TTBOOK",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/wpr-ttbook/lunchbox/issues"
-    },
-    "homepage": "https://github.com/wpr-ttbook/lunchbox#readme"
+    "homepage": "https://github.com/wpr-ttbook/lunchbox#readme",
+    "other": {
+      "directories": {
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/wpr-ttbook/lunchbox/issues"
+      }
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:18:44.785Z"
+  "packageLastFetchedAt": "2017-05-05T15:18:44.785Z",
+  "archived": false
 }

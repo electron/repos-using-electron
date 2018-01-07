@@ -6,7 +6,7 @@
   "owner": {
     "login": "stevegood",
     "id": 220860,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/220860?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/220860?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stevegood",
     "htmlUrl": "https://github.com/stevegood",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 0,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:25:37.091Z",
+  "lastFetchedAt": "2017-10-24T00:18:00.464Z",
   "packageJSON": {
     "name": "coil",
     "version": "1.0.0",
@@ -78,10 +78,7 @@
       "build": "electron-packager . Coil --all",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/stevegood/coil.git"
-    },
+    "repository": "https://github.com/stevegood/coil",
     "keywords": [
       "last.fm",
       "music",
@@ -90,9 +87,6 @@
     ],
     "author": "Steve Good <sgood@lanctr.com>",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/stevegood/coil/issues"
-    },
     "homepage": "https://github.com/stevegood/coil#readme",
     "dependencies": {
       "electron": "^1.4.15",
@@ -100,8 +94,14 @@
     },
     "devDependencies": {
       "electron-packager": "^8.5.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stevegood/coil/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:25:47.625Z"
+  "packageLastFetchedAt": "2017-05-05T01:25:47.625Z",
+  "archived": false
 }

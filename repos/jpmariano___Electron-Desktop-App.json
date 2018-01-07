@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "desktopapp",
     "version": "1.0.0",
@@ -83,7 +83,8 @@
     "devDependencies": {
       "electron-packager": "^8.1.0",
       "electron-prebuilt": "^1.4.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -110,6 +111,6 @@
   },
   "filename": "jpmariano___Electron-Desktop-App.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:12:06.577Z",
+  "lastFetchedAt": "2017-10-24T00:10:48.682Z",
   "packageLastFetchedAt": "2017-05-05T01:30:15.604Z"
 }

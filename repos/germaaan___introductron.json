@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "introductron",
     "productName": "Introductron",
@@ -113,7 +113,8 @@
       "libs": "bower install",
       "sass": "node-sass public/style/scss/*.scss -o public/style/css",
       "postinstall": "npm run libs && npm run sass"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +141,6 @@
   },
   "filename": "germaaan___introductron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:23.524Z",
+  "lastFetchedAt": "2017-10-23T23:08:51.359Z",
   "packageLastFetchedAt": "2017-05-05T17:40:41.735Z"
 }

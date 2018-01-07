@@ -184,15 +184,12 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "varuna",
     "version": "0.0.0",
     "description": "ogma in your browser",
     "main": "main-electron.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "build": "make build",
       "test": "npm run build",
@@ -214,7 +211,12 @@
       "virtual-dom": "^2.1.1",
       "xhr2": "^0.1.3"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "directories": {
+        "test": "test"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -242,6 +244,6 @@
   "filename": "lethom___varuna.json",
   "sourceRepo": "ogma-project/varuna",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:14.635Z",
+  "lastFetchedAt": "2017-10-23T21:43:47.024Z",
   "packageLastFetchedAt": "2017-05-04T21:58:03.483Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "rensouhou",
     "id": 12384725,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12384725?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12384725?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rensouhou",
     "htmlUrl": "https://github.com/rensouhou",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "rensouhou",
     "id": 12384725,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12384725?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12384725?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rensouhou",
     "htmlUrl": "https://github.com/rensouhou",
@@ -84,9 +84,6 @@
     "version": "0.4.0",
     "description": "Dockyard-as-an-App",
     "main": "main.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "coverage": "babel-node ./node_modules/istanbul/lib/cli cover node_modules/mocha/bin/_mocha -- --recursive",
       "test-watch": "mocha --recursive --compilers js:babel-register --watch",
@@ -103,15 +100,9 @@
       "package": "cross-env NODE_ENV=production node -r babel-register package.js --name Dockyard",
       "package-all": "npm run package -- --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rensouhou/electron-yard.git"
-    },
+    "repository": "https://github.com/rensouhou/electron-yard",
     "author": "Stefan Rimaila <stefan@rimaila.fi>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rensouhou/electron-yard/issues"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
@@ -222,6 +213,14 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/rensouhou/electron-yard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -249,6 +248,7 @@
   },
   "filename": "rensouhou___electron-yard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:52.495Z",
-  "packageLastFetchedAt": "2017-05-05T11:37:28.760Z"
+  "lastFetchedAt": "2017-10-24T00:09:01.457Z",
+  "packageLastFetchedAt": "2017-05-05T11:37:28.760Z",
+  "archived": false
 }

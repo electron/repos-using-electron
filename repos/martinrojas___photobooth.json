@@ -5,7 +5,7 @@
   "owner": {
     "login": "martinrojas",
     "id": 317579,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/317579?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/317579?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/martinrojas",
     "htmlUrl": "https://github.com/martinrojas",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/martinrojas/photobooth.git"
-    },
+    "repository": "https://github.com/martinrojas/photobooth",
     "keywords": [
       "Electron",
       "photobooth"
@@ -95,7 +92,8 @@
     },
     "dependencies": {
       "electron-canvas-to-buffer": "^2.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +120,7 @@
   },
   "filename": "martinrojas___photobooth.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:02:28.762Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:41.845Z"
+  "lastFetchedAt": "2017-10-23T23:43:20.656Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:41.845Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "mncharity",
     "id": 104805,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/104805?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/104805?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mncharity",
     "htmlUrl": "https://github.com/mncharity",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/mncharity/node-webvr-alt-stack/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mncharity/node-webvr-alt-stack/deployments",
   "createdAt": "2016-10-23T13:45:53.000Z",
-  "updatedAt": "2017-03-07T02:43:47.000Z",
+  "updatedAt": "2017-07-11T01:13:42.000Z",
   "pushedAt": "2016-11-15T03:58:43.000Z",
   "gitUrl": "git://github.com/mncharity/node-webvr-alt-stack.git",
   "sshUrl": "git@github.com:mncharity/node-webvr-alt-stack.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/mncharity/node-webvr-alt-stack",
   "homepage": "",
   "size": 119,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "C++",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 11,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
+  "networkCount": 3,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -72,10 +72,7 @@
     "description": "An insecure alternatve WebVR stack for the HTC Vive on Linux",
     "author": "Mitchell N Charity <mncharity@vendian.org>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mncharity/node-webvr-alt-stack.git"
-    },
+    "repository": "https://github.com/mncharity/node-webvr-alt-stack",
     "scripts": {
       "bootstrap": "lerna bootstrap",
       "clean": "lerna run clean; rm -rf packages/*/node_modules packages/*/build",
@@ -93,7 +90,8 @@
     },
     "devDependencies": {
       "lerna": "2.0.0-beta.30"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,7 @@
   },
   "filename": "mncharity___node-webvr-alt-stack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:34:50.214Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:38.566Z"
+  "lastFetchedAt": "2017-10-23T21:49:25.374Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:38.566Z",
+  "archived": false
 }

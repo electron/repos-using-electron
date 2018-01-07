@@ -5,7 +5,7 @@
   "owner": {
     "login": "freebroccolo",
     "id": 151197,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/151197?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/151197?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/freebroccolo",
     "htmlUrl": "https://github.com/freebroccolo",
@@ -20,12 +20,12 @@
   "description": "Electron API for BuckleScript",
   "fork": false,
   "createdAt": "2016-08-01T22:55:51.000Z",
-  "updatedAt": "2017-04-21T15:02:34.000Z",
+  "updatedAt": "2017-10-21T14:05:52.000Z",
   "pushedAt": "2016-08-06T02:18:04.000Z",
   "homepage": "",
   "size": 67,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "OCaml",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 9,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,13 +61,7 @@
     },
     "license": "ISC",
     "homepage": "https://github.com/freebroccolo/bucklescript-electron#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/freebroccolo/bucklescript-electron.git"
-    },
-    "bugs": {
-      "url": "https://github.com/freebroccolo/bucklescript-electron/issues"
-    },
+    "repository": "https://github.com/freebroccolo/bucklescript-electron",
     "scripts": {
       "build": "npm run internal:build",
       "build:opt": "NODE_ENV=production npm run internal:build",
@@ -87,9 +81,6 @@
       "test": "npm run internal:build"
     },
     "main": "index.js",
-    "directories": {
-      "example": "./example"
-    },
     "babel": {
       "plugins": [
         "transform-bucklescript"
@@ -111,6 +102,14 @@
     },
     "gitDependencies": {
       "babel-plugin-transform-bucklescript": "https://github.com/freebroccolo/babel-plugin-transform-bucklescript"
+    },
+    "other": {
+      "directories": {
+        "example": "./example"
+      },
+      "bugs": {
+        "url": "https://github.com/freebroccolo/bucklescript-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   "svnUrl": "https://github.com/freebroccolo/bucklescript-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:47:48.594Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:49.792Z"
+  "lastFetchedAt": "2017-10-24T00:16:22.474Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:49.792Z",
+  "archived": false
 }

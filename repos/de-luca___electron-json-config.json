@@ -5,7 +5,7 @@
   "owner": {
     "login": "de-luca",
     "id": 5390487,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5390487?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5390487?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/de-luca",
     "htmlUrl": "https://github.com/de-luca",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-03-18T13:21:11.000Z",
   "updatedAt": "2017-04-13T21:43:41.000Z",
-  "pushedAt": "2017-03-29T10:08:28.000Z",
+  "pushedAt": "2017-05-30T06:34:36.000Z",
   "homepage": null,
-  "size": 22,
+  "size": 25,
   "stargazersCount": 9,
   "watchersCount": 9,
   "language": "JavaScript",
@@ -73,10 +73,7 @@
       "email": "dev@de-luca.io",
       "url": "de-luca.io"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/de-luca/electron-json-config.git"
-    },
+    "repository": "https://github.com/de-luca/electron-json-config",
     "scripts": {
       "test": "eslint . && electron-mocha --recursive test -R progress && electron-mocha --renderer --recursive test -R progress"
     },
@@ -89,7 +86,8 @@
     },
     "files": [
       "src/"
-    ]
+    ],
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +134,7 @@
   "svnUrl": "https://github.com/de-luca/electron-json-config",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:57:51.685Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:45.043Z"
+  "lastFetchedAt": "2017-10-23T21:47:46.893Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:45.043Z",
+  "archived": false
 }

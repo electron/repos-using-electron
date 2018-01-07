@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "keyboard01",
     "productName": "Keyboard Game",
@@ -75,10 +75,7 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "keyboard",
@@ -99,7 +96,8 @@
       "react": "^0.14.8",
       "react-autocomplete": "^1.0.0-rc2",
       "react-dom": "^0.14.7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,6 @@
   },
   "filename": "adriano28___keyboard02.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:18.303Z",
+  "lastFetchedAt": "2017-10-24T00:06:12.680Z",
   "packageLastFetchedAt": "2017-05-05T01:26:07.617Z"
 }

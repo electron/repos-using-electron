@@ -5,7 +5,7 @@
   "owner": {
     "login": "BugBusterSWE",
     "id": 16231103,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16231103?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16231103?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BugBusterSWE",
     "htmlUrl": "https://github.com/BugBusterSWE",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "BugBusterSWE",
     "id": 16231103,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16231103?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16231103?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BugBusterSWE",
     "htmlUrl": "https://github.com/BugBusterSWE",
@@ -76,10 +76,7 @@
       "dashboard",
       "plugin"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/BugBusterSWE/Chronos.git"
-    },
+    "repository": "https://github.com/BugBusterSWE/Chronos",
     "scripts": {
       "build": "tsc -p src/ && tsc -p src/gui/loader",
       "postinstall": "npm run build",
@@ -95,7 +92,8 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/BugBusterSWE/Chronos",
@@ -142,6 +140,7 @@
   },
   "filename": "BugBusterSWE___Chronos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:10.734Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:08.881Z"
+  "lastFetchedAt": "2017-10-23T22:09:18.105Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:08.881Z",
+  "archived": false
 }

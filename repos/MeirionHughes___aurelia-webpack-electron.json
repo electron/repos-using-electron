@@ -66,8 +66,8 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T18:33:43.016Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:11:13.087Z",
   "packageJSON": {
     "name": "your-app-name",
     "private": true,
@@ -122,7 +122,8 @@
     },
     "dependencies": {
       "electron": "^1.4.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "packageLastFetchedAt": "2017-05-05T01:30:42.765Z"

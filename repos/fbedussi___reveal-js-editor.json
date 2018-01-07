@@ -5,7 +5,7 @@
   "owner": {
     "login": "fbedussi",
     "id": 9413715,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9413715?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9413715?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fbedussi",
     "htmlUrl": "https://github.com/fbedussi",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/fbedussi/reveal-js-editor/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fbedussi/reveal-js-editor/deployments",
   "createdAt": "2016-11-18T17:11:41.000Z",
-  "updatedAt": "2017-04-02T17:10:20.000Z",
-  "pushedAt": "2017-04-25T19:57:56.000Z",
+  "updatedAt": "2017-10-19T12:42:19.000Z",
+  "pushedAt": "2017-07-06T08:14:09.000Z",
   "gitUrl": "git://github.com/fbedussi/reveal-js-editor.git",
   "sshUrl": "git@github.com:fbedussi/reveal-js-editor.git",
   "cloneUrl": "https://github.com/fbedussi/reveal-js-editor.git",
   "svnUrl": "https://github.com/fbedussi/reveal-js-editor",
   "homepage": "",
-  "size": 2767,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 3063,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 3,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 2,
+  "networkCount": 5,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -79,9 +79,6 @@
       "name": "Francesco Bedussi",
       "email": "francesco@francescobedussi.it",
       "url": "http://www.francescobedussi.it"
-    },
-    "bugs": {
-      "url": "https://github.com/fbedussi/reveal-js-editor/issues"
     },
     "dependencies": {
       "electron-spellchecker": "^0.6.1",
@@ -125,10 +122,7 @@
     "license": "MIT",
     "main": "lib/main.js",
     "private": false,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/fbedussi/reveal-js-editor.git"
-    },
+    "repository": "https://github.com/fbedussi/reveal-js-editor",
     "scripts": {
       "package": "electron-packager . 'remedi'",
       "package-overwrite": "electron-packager . 'remedi' --overwrite",
@@ -136,6 +130,11 @@
       "package-all": "electron-packager . 'Reveal Editor' --platform=all --arch=all",
       "start": "electron .",
       "dev": "webpack --watch"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fbedussi/reveal-js-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   "filename": "fbedussi___reveal-js-editor.json",
   "sourceRepo": "feross/electron-workshop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:45.469Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:43.493Z"
+  "lastFetchedAt": "2017-10-23T21:50:45.949Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:43.493Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "cybernetics",
     "id": 79887,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/79887?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/79887?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cybernetics",
     "htmlUrl": "https://github.com/cybernetics",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "AnalyticalGraphicsInc",
       "id": 1490220,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1490220?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1490220?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/AnalyticalGraphicsInc",
       "htmlUrl": "https://github.com/AnalyticalGraphicsInc",
@@ -99,27 +99,28 @@
     "downloadsUrl": "https://api.github.com/repos/AnalyticalGraphicsInc/cesium/downloads",
     "deploymentsUrl": "https://api.github.com/repos/AnalyticalGraphicsInc/cesium/deployments",
     "createdAt": "2012-03-02T22:27:14.000Z",
-    "updatedAt": "2017-05-04T02:43:36.000Z",
-    "pushedAt": "2017-05-04T05:14:33.000Z",
+    "updatedAt": "2017-10-23T15:40:50.000Z",
+    "pushedAt": "2017-10-23T21:33:14.000Z",
     "gitUrl": "git://github.com/AnalyticalGraphicsInc/cesium.git",
     "sshUrl": "git@github.com:AnalyticalGraphicsInc/cesium.git",
     "cloneUrl": "https://github.com/AnalyticalGraphicsInc/cesium.git",
     "svnUrl": "https://github.com/AnalyticalGraphicsInc/cesium",
     "homepage": "http://cesiumjs.org/",
-    "size": 266595,
-    "stargazersCount": 2170,
-    "watchersCount": 2170,
+    "size": 283725,
+    "stargazersCount": 2539,
+    "watchersCount": 2539,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1038,
+    "forksCount": 1198,
     "mirrorUrl": null,
-    "openIssuesCount": 537,
-    "openIssues": 537,
-    "watchers": 2170,
+    "archived": false,
+    "openIssuesCount": 612,
+    "openIssues": 612,
+    "watchers": 2539,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "AnalyticalGraphicsInc",
       "id": 1490220,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1490220?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1490220?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/AnalyticalGraphicsInc",
       "htmlUrl": "https://github.com/AnalyticalGraphicsInc",
@@ -159,30 +160,31 @@
     "downloadsUrl": "https://api.github.com/repos/AnalyticalGraphicsInc/cesium/downloads",
     "deploymentsUrl": "https://api.github.com/repos/AnalyticalGraphicsInc/cesium/deployments",
     "createdAt": "2012-03-02T22:27:14.000Z",
-    "updatedAt": "2017-05-04T02:43:36.000Z",
-    "pushedAt": "2017-05-04T05:14:33.000Z",
+    "updatedAt": "2017-10-23T15:40:50.000Z",
+    "pushedAt": "2017-10-23T21:33:14.000Z",
     "gitUrl": "git://github.com/AnalyticalGraphicsInc/cesium.git",
     "sshUrl": "git@github.com:AnalyticalGraphicsInc/cesium.git",
     "cloneUrl": "https://github.com/AnalyticalGraphicsInc/cesium.git",
     "svnUrl": "https://github.com/AnalyticalGraphicsInc/cesium",
     "homepage": "http://cesiumjs.org/",
-    "size": 266595,
-    "stargazersCount": 2170,
-    "watchersCount": 2170,
+    "size": 283725,
+    "stargazersCount": 2539,
+    "watchersCount": 2539,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1038,
+    "forksCount": 1198,
     "mirrorUrl": null,
-    "openIssuesCount": 537,
-    "openIssues": 537,
-    "watchers": 2170,
+    "archived": false,
+    "openIssuesCount": 612,
+    "openIssues": 612,
+    "watchers": 2539,
     "defaultBranch": "master"
   },
-  "networkCount": 1038,
+  "networkCount": 1198,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -208,14 +210,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.3.2"
     },
@@ -285,6 +280,12 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -313,6 +314,7 @@
   "filename": "cybernetics___cesium.json",
   "sourceRepo": "AnalyticalGraphicsInc/cesium",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:41.771Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:40.973Z"
+  "lastFetchedAt": "2017-10-23T21:45:47.980Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:40.973Z",
+  "archived": false
 }

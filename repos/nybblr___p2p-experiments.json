@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -60,10 +60,7 @@
       "start": "electron main.js",
       "build": "electron-packager . --platform=darwin --arch=x64 --tmpdir=false"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -72,9 +69,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "devtron": "^1.2.1",
@@ -95,6 +89,11 @@
       "ottypes": "~1.0.3",
       "string-hash": "1.1.x",
       "ws": "^1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,6 @@
   "svnUrl": "https://github.com/nybblr/p2p-experiments",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:41:40.667Z",
+  "lastFetchedAt": "2017-10-23T22:57:22.344Z",
   "packageLastFetchedAt": "2017-05-04T22:08:44.094Z"
 }

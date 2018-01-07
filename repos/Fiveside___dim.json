@@ -50,16 +50,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dim",
     "version": "0.0.2",
     "description": "An image viewer",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Fiveside/dim.git"
-    },
+    "repository": "https://github.com/Fiveside/dim",
     "scripts": {
       "start": "gulp",
       "dev": "gulp dev",
@@ -100,7 +97,8 @@
       "rxjs": "^5.0.0-rc.3",
       "xstream": "^7.0.0",
       "yauzl": "^2.7.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +145,6 @@
   "svnUrl": "https://github.com/Fiveside/dim",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:17:11.239Z",
+  "lastFetchedAt": "2017-10-24T00:11:22.164Z",
   "packageLastFetchedAt": "2017-05-04T22:50:59.240Z"
 }

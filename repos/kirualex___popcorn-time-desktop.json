@@ -164,7 +164,7 @@
   },
   "networkCount": 22,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "popcorn-time-desktop",
     "productName": "Popcorn Time",
@@ -191,19 +191,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amilajack/popcorn-time-desktop.git"
-    },
+    "repository": "https://github.com/amilajack/popcorn-time-desktop",
     "author": {
       "name": "Amila Welihinda",
       "email": "amilajack@gmail.com",
       "url": "https://github.com/amilajack"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/amilajack/popcorn-time-desktop/issues"
-    },
     "keywords": [
       "popcorn-time",
       "popcorn",
@@ -221,10 +215,6 @@
       "win": {
         "iconUrl": "https://cdn.rawgit.com/amilajack/popcorn-time-desktop/master/app/icons/app.ico"
       }
-    },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
     },
     "wcjs-prebuilt": {
       "runtime": "electron",
@@ -339,6 +329,15 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/amilajack/popcorn-time-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -387,6 +386,6 @@
   "svnUrl": "https://github.com/kirualex/popcorn-time-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:33:54.208Z",
+  "lastFetchedAt": "2017-10-23T22:57:57.341Z",
   "packageLastFetchedAt": "2017-05-05T14:54:58.908Z"
 }

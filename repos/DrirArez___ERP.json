@@ -5,7 +5,7 @@
   "owner": {
     "login": "DrirArez",
     "id": 15781290,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15781290?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15781290?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DrirArez",
     "htmlUrl": "https://github.com/DrirArez",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,15 +88,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "mysql": "^2.10.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "DrirArez___ERP.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:32.885Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:21.936Z"
+  "lastFetchedAt": "2017-10-23T21:52:15.383Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:21.936Z",
+  "archived": false
 }

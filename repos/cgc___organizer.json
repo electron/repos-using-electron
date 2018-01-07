@@ -6,7 +6,7 @@
   "owner": {
     "login": "WilliamsPANLab",
     "id": 25407318,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25407318?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25407318?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/WilliamsPANLab",
     "htmlUrl": "https://github.com/WilliamsPANLab",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/WilliamsPANLab/organizer/deployments",
   "createdAt": "2016-10-04T02:15:57.000Z",
   "updatedAt": "2017-05-02T19:18:32.000Z",
-  "pushedAt": "2017-04-11T22:22:34.000Z",
+  "pushedAt": "2017-09-12T17:08:13.000Z",
   "gitUrl": "git://github.com/WilliamsPANLab/organizer.git",
   "sshUrl": "git@github.com:WilliamsPANLab/organizer.git",
   "cloneUrl": "https://github.com/WilliamsPANLab/organizer.git",
   "svnUrl": "https://github.com/WilliamsPANLab/organizer",
   "homepage": "https://scitran.github.io",
-  "size": 695,
+  "size": 697,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "scitran",
       "id": 7379762,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/7379762?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7379762?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/scitran",
       "htmlUrl": "https://github.com/scitran",
@@ -100,7 +100,7 @@
     "downloadsUrl": "https://api.github.com/repos/scitran/organizer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/scitran/organizer/deployments",
     "createdAt": "2016-05-03T22:56:47.000Z",
-    "updatedAt": "2016-12-02T23:23:54.000Z",
+    "updatedAt": "2017-09-27T00:44:39.000Z",
     "pushedAt": "2017-04-12T02:45:05.000Z",
     "gitUrl": "git://github.com/scitran/organizer.git",
     "sshUrl": "git@github.com:scitran/organizer.git",
@@ -108,19 +108,20 @@
     "svnUrl": "https://github.com/scitran/organizer",
     "homepage": "https://scitran.github.io",
     "size": 663,
-    "stargazersCount": 0,
-    "watchersCount": 0,
+    "stargazersCount": 1,
+    "watchersCount": 1,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 4,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 20,
     "openIssues": 20,
-    "watchers": 0,
+    "watchers": 1,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "scitran",
       "id": 7379762,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/7379762?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7379762?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/scitran",
       "htmlUrl": "https://github.com/scitran",
@@ -160,7 +161,7 @@
     "downloadsUrl": "https://api.github.com/repos/scitran/organizer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/scitran/organizer/deployments",
     "createdAt": "2016-05-03T22:56:47.000Z",
-    "updatedAt": "2016-12-02T23:23:54.000Z",
+    "updatedAt": "2017-09-27T00:44:39.000Z",
     "pushedAt": "2017-04-12T02:45:05.000Z",
     "gitUrl": "git://github.com/scitran/organizer.git",
     "sshUrl": "git@github.com:scitran/organizer.git",
@@ -168,22 +169,23 @@
     "svnUrl": "https://github.com/scitran/organizer",
     "homepage": "https://scitran.github.io",
     "size": 663,
-    "stargazersCount": 0,
-    "watchersCount": 0,
+    "stargazersCount": 1,
+    "watchersCount": 1,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 4,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 20,
     "openIssues": 20,
-    "watchers": 0,
+    "watchers": 1,
     "defaultBranch": "master"
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -209,10 +211,6 @@
       "watch": "webpack-dev-server --hot --inline --port 8181",
       "node": "node"
     },
-    "directories": {
-      "app": ".",
-      "buildResources": "build-resources-named-to-avoid-collisions-with-webpack-output"
-    },
     "build": {
       "appId": "organizer.flywheel.io",
       "linux": {
@@ -227,10 +225,7 @@
         "icon": "assets/win/logo.ico"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/scitran/organizer.git"
-    },
+    "repository": "https://github.com/scitran/organizer",
     "keywords": [
       "SciTran",
       "Data",
@@ -242,9 +237,6 @@
     ],
     "author": "SciTran Team <rfrigato@stanford.edu>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/scitran/organizer/issues"
-    },
     "homepage": "https://github.com/scitran/organizer#readme",
     "devDependencies": {
       "concurrently": "^2.2.0",
@@ -273,6 +265,15 @@
       "node-fetch": "^1.6.3",
       "rx": "^4.1.0",
       "xvfb-maybe": "^0.1.3"
+    },
+    "other": {
+      "directories": {
+        "app": ".",
+        "buildResources": "build-resources-named-to-avoid-collisions-with-webpack-output"
+      },
+      "bugs": {
+        "url": "https://github.com/scitran/organizer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -303,7 +304,7 @@
   "organization": {
     "login": "WilliamsPANLab",
     "id": 25407318,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25407318?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25407318?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/WilliamsPANLab",
     "htmlUrl": "https://github.com/WilliamsPANLab",
@@ -314,6 +315,7 @@
     "receivedEventsUrl": "https://api.github.com/users/WilliamsPANLab/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T05:15:25.150Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:25.449Z"
+  "lastFetchedAt": "2017-10-24T02:04:13.130Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:25.449Z",
+  "archived": false
 }

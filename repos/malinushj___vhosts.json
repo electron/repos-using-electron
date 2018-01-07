@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "vhosts",
     "version": "1.0.0",
@@ -76,15 +76,9 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/malinushj/vhosts.git"
-    },
+    "repository": "https://github.com/malinushj/vhosts",
     "author": "Mălin Brândușe",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/malinushj/vhosts/issues"
-    },
     "homepage": "https://github.com/malinushj/vhosts#readme",
     "devDependencies": {
       "electron": "^1.6.2",
@@ -102,6 +96,11 @@
       "mac": {
         "category": "web.dev",
         "icon": "build/icon.icns"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/malinushj/vhosts/issues"
       }
     }
   },
@@ -130,6 +129,6 @@
   },
   "filename": "malinushj___vhosts.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:12.444Z",
+  "lastFetchedAt": "2017-10-23T23:08:07.077Z",
   "packageLastFetchedAt": "2017-05-05T17:05:10.498Z"
 }

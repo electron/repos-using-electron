@@ -5,7 +5,7 @@
   "owner": {
     "login": "kdzwinel",
     "id": 985504,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/985504?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/985504?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kdzwinel",
     "htmlUrl": "https://github.com/kdzwinel",
@@ -20,21 +20,21 @@
   "description": ":zap: Web Debugging Proxy based on Chrome DevTools Network panel.",
   "fork": false,
   "createdAt": "2015-11-13T15:57:32.000Z",
-  "updatedAt": "2017-05-02T14:04:49.000Z",
-  "pushedAt": "2017-03-27T23:12:52.000Z",
+  "updatedAt": "2017-10-23T14:41:56.000Z",
+  "pushedAt": "2017-09-07T15:35:18.000Z",
   "homepage": "",
   "size": 2209,
-  "stargazersCount": 3442,
-  "watchersCount": 3442,
+  "stargazersCount": 3599,
+  "watchersCount": 3599,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 80,
+  "forksCount": 97,
   "openIssuesCount": 19,
   "openIssues": 19,
-  "watchers": 3442,
+  "watchers": 3599,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 80,
-  "subscribersCount": 77,
+  "networkCount": 97,
+  "subscribersCount": 79,
   "status": 200,
   "packageJSON": {
     "name": "betwixt",
@@ -60,10 +60,7 @@
       "start": "electron src/main.js",
       "test": "jshint src/lib/ src/*.js && jscs src/lib/ src/*.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kdzwinel/betwixt.git"
-    },
+    "repository": "https://github.com/kdzwinel/betwixt",
     "keywords": [
       "traffic",
       "proxy",
@@ -72,9 +69,6 @@
     ],
     "author": "Konrad Dzwinel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kdzwinel/betwixt/issues"
-    },
     "homepage": "https://github.com/kdzwinel/betwixt",
     "dependencies": {
       "chalk": "^1.1.1",
@@ -87,6 +81,11 @@
       "electron-prebuilt": "^0.36.12",
       "jscs": "^2.6.0",
       "jshint": "^2.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kdzwinel/betwixt/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "kdzwinel___betwixt.json",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T18:12:49.528Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:53.736Z"
+  "lastFetchedAt": "2017-10-23T23:36:57.770Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:53.736Z",
+  "archived": false
 }

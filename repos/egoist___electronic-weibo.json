@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electronic-weibo",
     "productName": "电子微博",
@@ -66,7 +66,8 @@
     "dependencies": {
       "electron-debug": "^0.7.0",
       "electron-dl": "^0.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/egoist/electronic-weibo",
@@ -113,6 +114,6 @@
   },
   "filename": "egoist___electronic-weibo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:58.446Z",
+  "lastFetchedAt": "2017-10-23T23:02:42.329Z",
   "packageLastFetchedAt": "2017-05-05T17:41:35.102Z"
 }

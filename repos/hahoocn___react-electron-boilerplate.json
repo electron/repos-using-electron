@@ -5,7 +5,7 @@
   "owner": {
     "login": "hahoocn",
     "id": 19698806,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19698806?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19698806?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hahoocn",
     "htmlUrl": "https://github.com/hahoocn",
@@ -20,21 +20,21 @@
   "description": "Boilerplate app for Electron with React ( Node.js, React.js, Redux, Webpack, CSS Modules, PostCSS, Babel, ES2015, ESLint ... )",
   "fork": false,
   "createdAt": "2016-07-12T00:31:12.000Z",
-  "updatedAt": "2017-02-28T11:14:59.000Z",
+  "updatedAt": "2017-06-06T05:44:06.000Z",
   "pushedAt": "2016-10-30T10:00:01.000Z",
   "homepage": "",
   "size": 21,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "hahoocn",
     "id": 19698806,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19698806?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19698806?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hahoocn",
     "htmlUrl": "https://github.com/hahoocn",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/hahoocn/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -84,10 +84,7 @@
       "clean": "rimraf build",
       "clean:release": "rimraf release"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hahoocn/react-electron-boilerplate.git"
-    },
+    "repository": "https://github.com/hahoocn/react-electron-boilerplate",
     "keywords": [
       "electron",
       "react",
@@ -96,9 +93,6 @@
     ],
     "author": "Ray Guo",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hahoocn/react-electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/hahoocn/react-electron-boilerplate#readme",
     "devDependencies": {
       "autoprefixer": "^6.5.1",
@@ -153,6 +147,11 @@
       "redux": "^3.6.0",
       "redux-act-reducer": "^1.5.2",
       "redux-thunk": "^2.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hahoocn/react-electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   "svnUrl": "https://github.com/hahoocn/react-electron-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:16:16.436Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:59.622Z"
+  "lastFetchedAt": "2017-10-23T23:45:34.482Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:59.622Z",
+  "archived": false
 }

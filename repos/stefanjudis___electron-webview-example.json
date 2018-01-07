@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-webview-example",
     "productName": "Loopline Systems",
@@ -80,19 +80,18 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stefanjudis/electron-webview-example.git"
-    },
+    "repository": "https://github.com/stefanjudis/electron-webview-example",
     "author": "Stefan Judis <stefanjudis@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stefanjudis/electron-webview-example/issues"
-    },
     "homepage": "https://github.com/stefanjudis/electron-webview-example#readme",
     "devDependencies": {
       "electron-debug": "^0.2.1",
       "electron-prebuilt": "^0.33.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stefanjudis/electron-webview-example/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,6 @@
   },
   "filename": "stefanjudis___electron-webview-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:28:54.606Z",
+  "lastFetchedAt": "2017-10-23T22:57:38.073Z",
   "packageLastFetchedAt": "2017-05-04T22:41:39.015Z"
 }

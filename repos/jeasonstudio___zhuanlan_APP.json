@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "zhuanlan",
     "version": "1.0.0",
@@ -87,16 +87,15 @@
     "dependencies": {
       "nconf": "^0.7.2"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jeasonstudio/zhuanlan_APP.git"
-    },
+    "repository": "https://github.com/jeasonstudio/zhuanlan_APP",
     "author": "Jeason",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jeasonstudio/zhuanlan_APP/issues"
-    },
-    "homepage": "https://github.com/jeasonstudio/zhuanlan_APP#readme"
+    "homepage": "https://github.com/jeasonstudio/zhuanlan_APP#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jeasonstudio/zhuanlan_APP/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +122,6 @@
   },
   "filename": "jeasonstudio___zhuanlan_APP.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:25.274Z",
+  "lastFetchedAt": "2017-10-23T23:11:14.076Z",
   "packageLastFetchedAt": "2017-05-05T15:12:10.722Z"
 }

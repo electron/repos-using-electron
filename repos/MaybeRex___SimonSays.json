@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 4,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "simon_says",
     "version": "0.0.0",
@@ -83,21 +83,20 @@
       "postinstall": "install-app-deps",
       "cordova": "rm -rf cordova/www/app && cp -R app/ cordova/www/ && cd cordova/ && cordova run android"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MaybeRex/SimonSays.git"
-    },
+    "repository": "https://github.com/MaybeRex/SimonSays",
     "author": "Mario Solorzano",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/MaybeRex/SimonSays/issues"
-    },
     "homepage": "https://github.com/MaybeRex/SimonSays#readme",
     "build": {
       "appId": "simon.says"
     },
     "dependencies": {
       "node-http-server": "^6.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/MaybeRex/SimonSays/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   },
   "filename": "MaybeRex___SimonSays.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:00.036Z",
+  "lastFetchedAt": "2017-10-23T22:55:35.122Z",
   "packageLastFetchedAt": "2017-05-05T17:06:03.664Z"
 }

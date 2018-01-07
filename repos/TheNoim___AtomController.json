@@ -5,7 +5,7 @@
   "owner": {
     "login": "TheNoim",
     "id": 5133056,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5133056?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5133056?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TheNoim",
     "htmlUrl": "https://github.com/TheNoim",
@@ -80,10 +80,7 @@
       "test": "electron ./www",
       "electron": "electron ./www"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TheNoim/AtomController.git"
-    },
+    "repository": "https://github.com/TheNoim/AtomController",
     "keywords": [
       "smart",
       "home",
@@ -92,9 +89,6 @@
     ],
     "author": "Noim <nilsbergmann@noim.io>",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/TheNoim/AtomController/issues"
-    },
     "homepage": "https://github.com/TheNoim/AtomController#readme",
     "devDependencies": {
       "auto-install": "^1.7.2",
@@ -121,6 +115,11 @@
     "build": {
       "appId": "io.noim.${name}",
       "productName": "Atom Controller"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/TheNoim/AtomController/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   },
   "filename": "TheNoim___AtomController.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:10.203Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:51.952Z"
+  "lastFetchedAt": "2017-10-23T23:42:57.656Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:51.952Z",
+  "archived": false
 }

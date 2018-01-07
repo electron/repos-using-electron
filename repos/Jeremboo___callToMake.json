@@ -5,7 +5,7 @@
   "owner": {
     "login": "Jeremboo",
     "id": 6682092,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6682092?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6682092?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Jeremboo",
     "htmlUrl": "https://github.com/Jeremboo",
@@ -71,16 +71,15 @@
     "scripts": {
       "build": "browserify -t [ babelify --presets [ es2015 react ] ] app/js/index.js -o app/js/bundle.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Jeremboo/callToMake.git"
-    },
+    "repository": "https://github.com/Jeremboo/callToMake",
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Jeremboo/callToMake/issues"
-    },
-    "homepage": "https://github.com/Jeremboo/callToMake"
+    "homepage": "https://github.com/Jeremboo/callToMake",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Jeremboo/callToMake/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/Jeremboo/callToMake",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:54:34.776Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:35.596Z"
+  "lastFetchedAt": "2017-10-23T22:55:48.639Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:35.596Z",
+  "archived": false
 }

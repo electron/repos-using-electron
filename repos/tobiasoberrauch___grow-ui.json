@@ -5,7 +5,7 @@
   "owner": {
     "login": "tobiasoberrauch",
     "id": 202791,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/202791?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/202791?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tobiasoberrauch",
     "htmlUrl": "https://github.com/tobiasoberrauch",
@@ -54,7 +54,6 @@
     "description": "An app made with Electron that scaffolds projects using Yeoman",
     "author": "The Grow Team",
     "main": "module/Browser/src/main.js",
-    "bugs": "https://github.com/tobiasoberrauch/grow-ui/issues",
     "dependencies": {
       "async": "^1.2.1",
       "auto-launch": "^3.0.0",
@@ -130,9 +129,9 @@
       "pack-linux": "npm run build-cache && electron-packager . --asar --overwrite --platform=linux --arch=x64 --icon=resources/png.png --prune=true --out=out"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tobiasoberrauch/grow-ui"
+    "repository": "https://github.com/tobiasoberrauch/grow-ui",
+    "other": {
+      "bugs": "https://github.com/tobiasoberrauch/grow-ui/issues"
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   "svnUrl": "https://github.com/tobiasoberrauch/grow-ui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:37:21.498Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:38.226Z"
+  "lastFetchedAt": "2017-10-24T00:18:12.441Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:38.226Z",
+  "archived": false
 }

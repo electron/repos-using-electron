@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -87,10 +87,7 @@
       "tsc": "tsc -p src -w",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -99,10 +96,12 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
-    "homepage": "https://github.com/atom/electron-quick-start#readme"
+    "homepage": "https://github.com/atom/electron-quick-start#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +129,6 @@
   "filename": "jiyeonseo___angular2-electron-quick-start.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:41.604Z",
+  "lastFetchedAt": "2017-10-23T23:04:03.335Z",
   "packageLastFetchedAt": "2017-05-05T17:26:21.798Z"
 }

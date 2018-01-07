@@ -5,7 +5,7 @@
   "owner": {
     "login": "bnogaret",
     "id": 6379166,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6379166?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6379166?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bnogaret",
     "htmlUrl": "https://github.com/bnogaret",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/bnogaret/graph-partitioning/downloads",
   "deploymentsUrl": "https://api.github.com/repos/bnogaret/graph-partitioning/deployments",
   "createdAt": "2015-12-17T12:04:24.000Z",
-  "updatedAt": "2016-08-13T11:41:42.000Z",
+  "updatedAt": "2017-05-18T19:24:31.000Z",
   "pushedAt": "2016-03-25T17:51:58.000Z",
   "gitUrl": "git://github.com/bnogaret/graph-partitioning.git",
   "sshUrl": "git@github.com:bnogaret/graph-partitioning.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/bnogaret/graph-partitioning",
   "homepage": "",
   "size": 2030,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,10 +70,7 @@
     "version": "0.0.1",
     "description": "Graph partitioning project",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/bnogaret/graph-partitioning.git"
-    },
+    "repository": "https://github.com/bnogaret/graph-partitioning",
     "main": "src/main.js",
     "scripts": {
       "lint": "eslint ./",
@@ -87,7 +84,8 @@
       "material-design-lite": "^1.1.3",
       "progressbar.js": "^1.0.0",
       "ssh2": "^0.5.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +112,7 @@
   },
   "filename": "bnogaret___graph-partitioning.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:42.259Z",
-  "packageLastFetchedAt": "2017-05-04T22:10:50.394Z"
+  "lastFetchedAt": "2017-10-23T23:44:59.650Z",
+  "packageLastFetchedAt": "2017-05-04T22:10:50.394Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "gorzechowski",
     "id": 4973929,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4973929?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4973929?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gorzechowski",
     "htmlUrl": "https://github.com/gorzechowski",
@@ -61,10 +61,7 @@
       "gwatchd",
       "synchronize"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gorzechowski/gwatch.git"
-    },
+    "repository": "https://github.com/gorzechowski/gwatch",
     "main": "dist/main.js",
     "scripts": {
       "build:dev": "npm run build:app:dev && npm run build:main:dev",
@@ -124,7 +121,8 @@
     },
     "optionalDependencies": {
       "appdmg": "^0.4.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/gorzechowski/gwatch",
@@ -171,6 +169,7 @@
   },
   "filename": "gorzechowski___gwatch.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:15:16.584Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:57.758Z"
+  "lastFetchedAt": "2017-10-23T22:13:34.788Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:57.758Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dasrick",
     "id": 377702,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/377702?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/377702?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dasrick",
     "htmlUrl": "https://github.com/dasrick",
@@ -81,13 +81,7 @@
     "keywords": [
       "electron"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dasrick/tox-electron-basic.git"
-    },
-    "bugs": {
-      "url": "https://github.com/dasrick/tox-electron-basic/issues"
-    },
+    "repository": "https://github.com/dasrick/tox-electron-basic",
     "homepage": "https://github.com/dasrick/tox-electron-basic#readme",
     "devDependencies": {
       "electron-builder": "^10.17.3",
@@ -114,6 +108,11 @@
       "start": "electron ./app --enable-logging",
       "dev": "NODE_ENV='development' npm run start",
       "build": "grunt"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dasrick/tox-electron-basic/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "dasrick___tox-electron-basic.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:56.576Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:09.266Z"
+  "lastFetchedAt": "2017-10-23T22:55:40.892Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:09.266Z",
+  "archived": false
 }

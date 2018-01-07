@@ -5,7 +5,7 @@
   "owner": {
     "login": "rocio",
     "id": 645841,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/645841?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/645841?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rocio",
     "htmlUrl": "https://github.com/rocio",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "jlord",
       "id": 1305617,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1305617?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1305617?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jlord",
       "htmlUrl": "https://github.com/jlord",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/jlord/git-it-electron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jlord/git-it-electron/deployments",
     "createdAt": "2015-05-08T03:27:37.000Z",
-    "updatedAt": "2017-05-04T10:37:01.000Z",
-    "pushedAt": "2017-04-26T14:35:31.000Z",
+    "updatedAt": "2017-10-23T22:15:10.000Z",
+    "pushedAt": "2017-10-16T14:40:49.000Z",
     "gitUrl": "git://github.com/jlord/git-it-electron.git",
     "sshUrl": "git@github.com:jlord/git-it-electron.git",
     "cloneUrl": "https://github.com/jlord/git-it-electron.git",
     "svnUrl": "https://github.com/jlord/git-it-electron",
     "homepage": "",
-    "size": 79809,
-    "stargazersCount": 1176,
-    "watchersCount": 1176,
+    "size": 79907,
+    "stargazersCount": 1593,
+    "watchersCount": 1593,
     "language": "HTML",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 245,
+    "forksCount": 304,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 1176,
+    "archived": false,
+    "openIssuesCount": 32,
+    "openIssues": 32,
+    "watchers": 1593,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "jlord",
       "id": 1305617,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1305617?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1305617?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jlord",
       "htmlUrl": "https://github.com/jlord",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/jlord/git-it-electron/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jlord/git-it-electron/deployments",
     "createdAt": "2015-05-08T03:27:37.000Z",
-    "updatedAt": "2017-05-04T10:37:01.000Z",
-    "pushedAt": "2017-04-26T14:35:31.000Z",
+    "updatedAt": "2017-10-23T22:15:10.000Z",
+    "pushedAt": "2017-10-16T14:40:49.000Z",
     "gitUrl": "git://github.com/jlord/git-it-electron.git",
     "sshUrl": "git@github.com:jlord/git-it-electron.git",
     "cloneUrl": "https://github.com/jlord/git-it-electron.git",
     "svnUrl": "https://github.com/jlord/git-it-electron",
     "homepage": "",
-    "size": 79809,
-    "stargazersCount": 1176,
-    "watchersCount": 1176,
+    "size": 79907,
+    "stargazersCount": 1593,
+    "watchersCount": 1593,
     "language": "HTML",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 245,
+    "forksCount": 304,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 1176,
+    "archived": false,
+    "openIssuesCount": 32,
+    "openIssues": 32,
+    "watchers": 1593,
     "defaultBranch": "master"
   },
-  "networkCount": 245,
+  "networkCount": 304,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -192,15 +194,9 @@
       "pack-lin": "electron-packager . Git-it --platform=linux --arch=x64   --icon=assets/git-it.png  --ignore='assets/PortableGit' --prune=true --out='../Git-it-Packaged-Apps'",
       "pack-win": "electron-packager . Git-it --platform=win32 --arch=ia32  --icon=assets/git-it.ico  --prune=true --out='../Git-it-Packaged-Apps'"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jlord/git-it-electron.git"
-    },
+    "repository": "https://github.com/jlord/git-it-electron",
     "author": "Jessica Lord",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/jlord/git-it-electron/issues"
-    },
     "homepage": "https://github.com/jlord/git-it-electron",
     "devDependencies": {
       "electron-packager": "^5.2.0",
@@ -212,6 +208,11 @@
       "glob": "^5.0.5",
       "handlebars": "^3.0.3",
       "request": "^2.57.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jlord/git-it-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -260,6 +261,7 @@
   "filename": "rocio___git-it-electron.json",
   "sourceRepo": "jlord/git-it-electron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:00.414Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:24.894Z"
+  "lastFetchedAt": "2017-10-23T22:25:05.600Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:24.894Z",
+  "archived": false
 }

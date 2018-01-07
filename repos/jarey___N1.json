@@ -185,7 +185,7 @@
   },
   "networkCount": 1111,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nylas",
     "productName": "Nylas N1",
@@ -193,13 +193,7 @@
     "description": "The best email app for people and teams at work",
     "license": "GPL-3.0",
     "main": "./src/browser/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nylas/N1.git"
-    },
-    "bugs": {
-      "url": "https://github.com/nylas/N1/issues"
-    },
+    "repository": "https://github.com/nylas/N1",
     "electronVersion": "1.4.5",
     "dependencies": {
       "analytics-node": "2.x.x",
@@ -298,6 +292,11 @@
       "lint": "script/grunt lint",
       "build": "script/grunt build",
       "flow": "flow; test $? -eq 0 -o $? -eq 2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nylas/N1/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -325,6 +324,6 @@
   },
   "sourceRepo": "sixeyed/N1",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:59:58.139Z",
+  "lastFetchedAt": "2017-10-23T23:07:32.844Z",
   "packageLastFetchedAt": "2017-05-04T22:53:16.062Z"
 }

@@ -78,7 +78,7 @@
   },
   "networkCount": 19,
   "subscribersCount": 14,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "robopaint",
     "version": "2.0.0-beta.3",
@@ -128,13 +128,11 @@
       "robopaint-mode-spiral": "*",
       "underscore": "^1.8.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/evil-mad/robopaint.git"
-    },
+    "repository": "https://github.com/evil-mad/robopaint",
     "devDependencies": {
       "electron-prebuilt": "1.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -161,6 +159,6 @@
   },
   "filename": "evil-mad___robopaint.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:40.338Z",
+  "lastFetchedAt": "2017-10-23T23:08:25.829Z",
   "packageLastFetchedAt": "2017-05-05T15:38:02.709Z"
 }

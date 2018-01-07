@@ -5,7 +5,7 @@
   "owner": {
     "login": "dfahlander",
     "id": 6791329,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6791329?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6791329?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dfahlander",
     "htmlUrl": "https://github.com/dfahlander",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/dfahlander/Dexie.js/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dfahlander/Dexie.js/deployments",
   "createdAt": "2014-02-26T08:16:16.000Z",
-  "updatedAt": "2017-05-04T06:58:23.000Z",
-  "pushedAt": "2017-05-02T11:47:05.000Z",
+  "updatedAt": "2017-10-23T17:40:08.000Z",
+  "pushedAt": "2017-10-16T22:14:57.000Z",
   "gitUrl": "git://github.com/dfahlander/Dexie.js.git",
   "sshUrl": "git@github.com:dfahlander/Dexie.js.git",
   "cloneUrl": "https://github.com/dfahlander/Dexie.js.git",
   "svnUrl": "https://github.com/dfahlander/Dexie.js",
   "homepage": "http://dexie.org",
-  "size": 8886,
-  "stargazersCount": 1866,
-  "watchersCount": 1866,
+  "size": 9142,
+  "stargazersCount": 2345,
+  "watchersCount": 2345,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 149,
+  "forksCount": 179,
   "mirrorUrl": null,
-  "openIssuesCount": 89,
-  "openIssues": 89,
-  "watchers": 1866,
+  "openIssuesCount": 126,
+  "openIssues": 126,
+  "watchers": 2345,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "featured": true
   },
-  "networkCount": 149,
-  "subscribersCount": 77,
+  "networkCount": 179,
+  "subscribersCount": 93,
   "status": 200,
   "packageJSON": {
     "name": "dexie",
@@ -85,10 +85,7 @@
         "src/"
       ]
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dfahlander/Dexie.js.git"
-    },
+    "repository": "https://github.com/dfahlander/Dexie.js",
     "keywords": [
       "indexeddb",
       "browser",
@@ -103,9 +100,6 @@
       "Martin Diphoorn <https://github.com/martindiphoorn>"
     ],
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/dfahlander/Dexie.js/issues"
-    },
     "scripts": {
       "build": "just-build",
       "watch": "just-build --watch",
@@ -176,7 +170,12 @@
       "typescript": "^2.1.4",
       "uglify-js": "^2.7.5"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dfahlander/Dexie.js/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -203,6 +202,7 @@
   },
   "filename": "dfahlander___Dexie.js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:05.587Z",
-  "packageLastFetchedAt": "2017-05-04T22:49:56.884Z"
+  "lastFetchedAt": "2017-10-23T22:11:18.276Z",
+  "packageLastFetchedAt": "2017-05-04T22:49:56.884Z",
+  "archived": false
 }

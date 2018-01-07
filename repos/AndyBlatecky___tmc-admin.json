@@ -1,11 +1,11 @@
 {
-  "id": 71918056,
+  "id": 95619143,
   "name": "tmc-admin",
   "fullName": "AndyBlatecky/tmc-admin",
   "owner": {
     "login": "AndyBlatecky",
     "id": 19845940,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19845940?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19845940?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AndyBlatecky",
     "htmlUrl": "https://github.com/AndyBlatecky",
@@ -34,18 +34,18 @@
   "mergesUrl": "https://api.github.com/repos/AndyBlatecky/tmc-admin/merges",
   "downloadsUrl": "https://api.github.com/repos/AndyBlatecky/tmc-admin/downloads",
   "deploymentsUrl": "https://api.github.com/repos/AndyBlatecky/tmc-admin/deployments",
-  "createdAt": "2016-10-25T16:42:51.000Z",
-  "updatedAt": "2016-10-25T17:06:35.000Z",
-  "pushedAt": "2016-11-01T17:43:57.000Z",
+  "createdAt": "2017-06-28T02:11:13.000Z",
+  "updatedAt": "2017-06-28T02:13:05.000Z",
+  "pushedAt": "2017-07-14T16:01:31.000Z",
   "gitUrl": "git://github.com/AndyBlatecky/tmc-admin.git",
   "sshUrl": "git@github.com:AndyBlatecky/tmc-admin.git",
   "cloneUrl": "https://github.com/AndyBlatecky/tmc-admin.git",
   "svnUrl": "https://github.com/AndyBlatecky/tmc-admin",
   "homepage": null,
-  "size": 12380,
+  "size": 28028,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "TypeScript",
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -225,16 +225,15 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -263,6 +262,7 @@
   "filename": "AndyBlatecky___tmc-admin.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:25.383Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:44.017Z"
+  "lastFetchedAt": "2017-10-24T00:16:38.206Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:44.017Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "BryanHunt",
     "id": 504299,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/504299?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/504299?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BryanHunt",
     "htmlUrl": "https://github.com/BryanHunt",
@@ -76,10 +76,6 @@
     "version": "0.0.0",
     "description": "Small description for ham-radio goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -151,6 +147,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +180,7 @@
   },
   "filename": "BryanHunt___ember-ham-radio.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:04.550Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:37.448Z"
+  "lastFetchedAt": "2017-10-23T22:31:30.285Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:37.448Z",
+  "archived": false
 }

@@ -178,7 +178,7 @@
   },
   "networkCount": 6,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pipboy",
     "version": "0.0.8",
@@ -192,19 +192,13 @@
       "build:win32": "electron-packager ./ PipBoy --platform=win32 --arch=x64 --version=0.35.1",
       "build:linux": "electron-packager ./ PipBoy --platform=linux --arch=x64 --version=0.35.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/RobCoIndustries/pipboy.git"
-    },
+    "repository": "https://github.com/RobCoIndustries/pipboy",
     "keywords": [
       "Fallout4",
       "pipboy"
     ],
     "author": "Kyle Kelley <rgbkrk@gmail.com>",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/RobCoIndustries/pipboy/issues"
-    },
     "homepage": "https://github.com/RobCoIndustries/pipboy#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.1.18",
@@ -223,6 +217,11 @@
       "react-dom": "^0.14.3",
       "react-router": "^1.0.2",
       "rx": "^4.0.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/RobCoIndustries/pipboy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -271,6 +270,6 @@
   "svnUrl": "https://github.com/luckydonald-forks/pipboy-1",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T06:01:46.645Z",
+  "lastFetchedAt": "2017-10-23T22:59:03.835Z",
   "packageLastFetchedAt": "2017-05-05T15:22:05.335Z"
 }

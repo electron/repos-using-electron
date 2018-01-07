@@ -64,16 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ember-skeleton",
     "version": "0.0.0",
     "description": "Small description for ember-skeleton goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -169,6 +165,12 @@
       "browser": true,
       "node": true,
       "jasmine": true
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -196,6 +198,6 @@
   },
   "filename": "dirvine___ember-skeleton.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:41.515Z",
+  "lastFetchedAt": "2017-10-23T23:02:17.585Z",
   "packageLastFetchedAt": "2017-05-04T23:03:06.585Z"
 }

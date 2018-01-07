@@ -164,7 +164,7 @@
   },
   "networkCount": 443,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "google-play-music-desktop-player",
     "productName": "Google Play Music Desktop Player",
@@ -188,10 +188,7 @@
       "start": "electron .",
       "watch": "gulp watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-"
-    },
+    "repository": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
     "author": {
       "name": "Samuel Attard",
       "email": "samuel.r.attard@gmail.com",
@@ -246,7 +243,8 @@
     "optionalDependencies": {
       "electron-installer-debian": "^0.2.0",
       "electron-installer-redhat": "^0.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -294,6 +292,6 @@
   "svnUrl": "https://github.com/EdZava/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:55:30.703Z",
+  "lastFetchedAt": "2017-10-23T23:03:41.843Z",
   "packageLastFetchedAt": "2017-05-05T14:38:30.596Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "bttf",
     "id": 2374625,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2374625?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2374625?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bttf",
     "htmlUrl": "https://github.com/bttf",
@@ -50,10 +50,6 @@
     "version": "0.0.1",
     "description": "Small description for lyric-comber goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -136,6 +132,12 @@
       "path": "^0.12.7",
       "request": "^2.69.0",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +185,7 @@
   "svnUrl": "https://github.com/bttf/lyric-comber",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T19:58:40.369Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:34.176Z"
+  "lastFetchedAt": "2017-10-24T00:15:56.452Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:34.176Z",
+  "archived": false
 }

@@ -44,31 +44,21 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "twitch-desktop",
     "version": "0.0.1",
     "description": "A desktop app for twitch.tv",
     "main": "build/browser/twitchdesktop.js",
     "chromium-args": "--disable-web-security",
-    "directories": {
-      "doc": "docs",
-      "test": "tests"
-    },
     "scripts": {
       "test": "gulp test",
       "build": "gulp build",
       "run": "gulp build && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ell/twitch-desktop.git"
-    },
+    "repository": "https://github.com/ell/twitch-desktop",
     "author": "Alan Love <alan@cattes.us>",
     "license": "WTFPL",
-    "bugs": {
-      "url": "https://github.com/ell/twitch-desktop/issues"
-    },
     "homepage": "https://github.com/ell/twitch-desktop#readme",
     "devDependencies": {
       "babelify": "^6.1.3",
@@ -96,6 +86,15 @@
       "superagent": "^1.2.0",
       "superagent-bluebird-promise": "^2.0.2",
       "uri": "^0.1.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "docs",
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/ell/twitch-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,6 @@
   },
   "filename": "olslash___twitch-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:26.565Z",
+  "lastFetchedAt": "2017-10-23T23:09:51.333Z",
   "packageLastFetchedAt": "2017-05-05T14:58:31.545Z"
 }

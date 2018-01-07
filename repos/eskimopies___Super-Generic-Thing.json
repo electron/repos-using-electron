@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "supergenericthing",
     "version": "0.1.0",
@@ -77,10 +77,7 @@
     "scripts": {
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/eskimopies/Super-Generic-Thing.git"
-    },
+    "repository": "https://github.com/eskimopies/Super-Generic-Thing",
     "keywords": [
       "text",
       "lol",
@@ -90,10 +87,12 @@
     ],
     "author": "Rainbow Ninja Studios",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/eskimopies/Super-Generic-Thing/issues"
-    },
-    "homepage": "https://github.com/eskimopies/Super-Generic-Thing#readme"
+    "homepage": "https://github.com/eskimopies/Super-Generic-Thing#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/eskimopies/Super-Generic-Thing/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +119,6 @@
   },
   "filename": "eskimopies___Super-Generic-Thing.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:28.950Z",
+  "lastFetchedAt": "2017-10-23T23:07:27.569Z",
   "packageLastFetchedAt": "2017-05-04T23:09:17.839Z"
 }

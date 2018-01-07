@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "almo",
     "version": "0.0.0",
@@ -91,10 +91,7 @@
       "start": "electron .",
       "postinstall": "ntsc -p ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alm-tools/almo.git"
-    },
+    "repository": "https://github.com/alm-tools/almo",
     "keywords": [
       "alm",
       "typescript",
@@ -102,15 +99,17 @@
     ],
     "author": "basaratali@gmail.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/alm-tools/almo/issues"
-    },
     "homepage": "https://github.com/alm-tools/almo#readme",
     "dependencies": {
       "alm": "latest",
       "electron-prebuilt": "^1.0.1"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alm-tools/almo/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +136,6 @@
   },
   "filename": "alm-tools___almo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:57:38.748Z",
+  "lastFetchedAt": "2017-10-23T22:58:42.080Z",
   "packageLastFetchedAt": "2017-05-05T14:40:05.923Z"
 }

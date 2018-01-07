@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Vue-GnaviAPI",
     "version": "0.0.1",
@@ -78,10 +78,7 @@
       "start-electron": "NODE_ENV=development electron .",
       "pack-mac": "node electron/pack-mac"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/renowan/Vue2-GnaviAPI.git"
-    },
+    "repository": "https://github.com/renowan/Vue2-GnaviAPI",
     "keywords": "",
     "author": "GeekPlux",
     "license": "MIT",
@@ -166,7 +163,8 @@
     "engines": {
       "node": ">= 4.0.0",
       "npm": ">= 3.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -193,6 +191,6 @@
   },
   "filename": "renowan___Vue2-GnaviAPI.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:21:04.888Z",
+  "lastFetchedAt": "2017-10-23T22:59:00.838Z",
   "packageLastFetchedAt": "2017-05-04T22:49:04.907Z"
 }

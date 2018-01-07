@@ -5,7 +5,7 @@
   "owner": {
     "login": "dermike",
     "id": 4582134,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4582134?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4582134?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dermike",
     "htmlUrl": "https://github.com/dermike",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/dermike/physical-web-scan-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dermike/physical-web-scan-app/deployments",
   "createdAt": "2015-10-09T17:25:00.000Z",
-  "updatedAt": "2017-05-04T08:57:15.000Z",
-  "pushedAt": "2017-03-30T19:39:44.000Z",
+  "updatedAt": "2017-09-08T19:28:19.000Z",
+  "pushedAt": "2017-06-19T07:44:46.000Z",
   "gitUrl": "git://github.com/dermike/physical-web-scan-app.git",
   "sshUrl": "git@github.com:dermike/physical-web-scan-app.git",
   "cloneUrl": "https://github.com/dermike/physical-web-scan-app.git",
   "svnUrl": "https://github.com/dermike/physical-web-scan-app",
   "homepage": "",
   "size": 216,
-  "stargazersCount": 29,
-  "watchersCount": 29,
+  "stargazersCount": 33,
+  "watchersCount": 33,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 29,
+  "watchers": 33,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 3,
-  "subscribersCount": 4,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "electron-physical-web-scan",
@@ -81,10 +81,7 @@
       "rebuild": "node ./node_modules/.bin/electron-rebuild",
       "electron": "node ./node_modules/electron-prebuilt/cli.js ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/dermike/electron-physical-web-scan.git"
-    },
+    "repository": "https://github.com/dermike/electron-physical-web-scan",
     "keywords": [
       "electron",
       "physical web"
@@ -98,7 +95,8 @@
     },
     "dependencies": {
       "noble": "1.8.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +123,7 @@
   },
   "filename": "dermike___physical-web-scan-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:41.048Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:03.142Z"
+  "lastFetchedAt": "2017-10-23T21:42:47.898Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:03.142Z",
+  "archived": false
 }

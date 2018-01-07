@@ -5,7 +5,7 @@
   "owner": {
     "login": "SimulatedGREG",
     "id": 8327811,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8327811?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8327811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SimulatedGREG",
     "htmlUrl": "https://github.com/SimulatedGREG",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "muan",
       "id": 1153134,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1153134?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1153134?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/muan",
       "htmlUrl": "https://github.com/muan",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/muan/mojibar/downloads",
     "deploymentsUrl": "https://api.github.com/repos/muan/mojibar/deployments",
     "createdAt": "2015-07-11T00:28:26.000Z",
-    "updatedAt": "2017-05-02T12:53:17.000Z",
-    "pushedAt": "2017-05-02T04:59:09.000Z",
+    "updatedAt": "2017-10-22T22:48:37.000Z",
+    "pushedAt": "2017-10-20T08:21:50.000Z",
     "gitUrl": "git://github.com/muan/mojibar.git",
     "sshUrl": "git@github.com:muan/mojibar.git",
     "cloneUrl": "https://github.com/muan/mojibar.git",
     "svnUrl": "https://github.com/muan/mojibar",
     "homepage": "",
-    "size": 318,
-    "stargazersCount": 1663,
-    "watchersCount": 1663,
+    "size": 358,
+    "stargazersCount": 1750,
+    "watchersCount": 1750,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 125,
+    "forksCount": 130,
     "mirrorUrl": null,
-    "openIssuesCount": 25,
-    "openIssues": 25,
-    "watchers": 1663,
+    "archived": false,
+    "openIssuesCount": 21,
+    "openIssues": 21,
+    "watchers": 1750,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "muan",
       "id": 1153134,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1153134?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1153134?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/muan",
       "htmlUrl": "https://github.com/muan",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/muan/mojibar/downloads",
     "deploymentsUrl": "https://api.github.com/repos/muan/mojibar/deployments",
     "createdAt": "2015-07-11T00:28:26.000Z",
-    "updatedAt": "2017-05-02T12:53:17.000Z",
-    "pushedAt": "2017-05-02T04:59:09.000Z",
+    "updatedAt": "2017-10-22T22:48:37.000Z",
+    "pushedAt": "2017-10-20T08:21:50.000Z",
     "gitUrl": "git://github.com/muan/mojibar.git",
     "sshUrl": "git@github.com:muan/mojibar.git",
     "cloneUrl": "https://github.com/muan/mojibar.git",
     "svnUrl": "https://github.com/muan/mojibar",
     "homepage": "",
-    "size": 318,
-    "stargazersCount": 1663,
-    "watchersCount": 1663,
+    "size": 358,
+    "stargazersCount": 1750,
+    "watchersCount": 1750,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 125,
+    "forksCount": 130,
     "mirrorUrl": null,
-    "openIssuesCount": 25,
-    "openIssues": 25,
-    "watchers": 1663,
+    "archived": false,
+    "openIssuesCount": 21,
+    "openIssues": 21,
+    "watchers": 1750,
     "defaultBranch": "master"
   },
-  "networkCount": 125,
+  "networkCount": 130,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -184,16 +186,15 @@
       "build": "electron-packager . Mojibar --platform=darwin --arch=x64 --version=0.36.5 --overwrite --icon=mojibar",
       "test": "standard index.js app/search.js app/settings.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/muan/mojibar.git"
-    },
+    "repository": "https://github.com/muan/mojibar",
     "author": "Mu-An Chiou <me@muanchiou.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/muan/mojibar/issues"
-    },
-    "homepage": "https://github.com/muan/mojibar#readme"
+    "homepage": "https://github.com/muan/mojibar#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/muan/mojibar/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/SimulatedGREG/mojibar",
@@ -241,6 +242,7 @@
   "filename": "SimulatedGREG___mojibar.json",
   "sourceRepo": "muan/mojibar",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:52.496Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:46.527Z"
+  "lastFetchedAt": "2017-10-24T00:05:00.990Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:46.527Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "daedlock",
     "id": 842346,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/842346?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/842346?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/daedlock",
     "htmlUrl": "https://github.com/daedlock",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/daedlock/MovieMate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/daedlock/MovieMate/deployments",
   "createdAt": "2016-12-12T21:56:55.000Z",
-  "updatedAt": "2016-12-16T07:14:13.000Z",
+  "updatedAt": "2017-09-26T03:36:56.000Z",
   "pushedAt": "2016-12-14T20:43:55.000Z",
   "gitUrl": "git://github.com/daedlock/MovieMate.git",
   "sshUrl": "git@github.com:daedlock/MovieMate.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/daedlock/MovieMate",
   "homepage": "",
   "size": 1344,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -55,7 +55,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 3,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,7 +70,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "electron-react-boilerplate",
@@ -133,26 +133,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -240,6 +230,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -266,6 +265,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:04.521Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:11.623Z"
+  "lastFetchedAt": "2017-10-23T23:38:35.800Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:11.623Z",
+  "archived": false
 }

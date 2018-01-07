@@ -5,7 +5,7 @@
   "owner": {
     "login": "robbiewain",
     "id": 1436283,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1436283?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1436283?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robbiewain",
     "htmlUrl": "https://github.com/robbiewain",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,15 +82,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "dependencies": {
       "d3": "3.5.16"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "robbiewain___second-source.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:45:34.968Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:42.820Z"
+  "lastFetchedAt": "2017-10-23T23:43:29.665Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:42.820Z",
+  "archived": false
 }

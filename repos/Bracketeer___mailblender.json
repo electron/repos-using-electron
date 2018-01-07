@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mailblender",
     "productName": "Mailblender",
@@ -101,7 +101,8 @@
       "rules": {
         "prefer-arrow-callback": 0
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -148,6 +149,6 @@
   "svnUrl": "https://github.com/Bracketeer/mailblender",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:25:36.845Z",
+  "lastFetchedAt": "2017-10-23T23:00:44.867Z",
   "packageLastFetchedAt": "2017-05-05T14:30:41.548Z"
 }

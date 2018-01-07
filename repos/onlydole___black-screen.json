@@ -164,20 +164,14 @@
   },
   "networkCount": 454,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "black-screen",
     "version": "0.0.1",
     "description": "A terminal emulator for the 21st century.",
     "main": "src/main/main.js",
     "author": "Volodymyr Shatsky <shockone89@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/shockone/black-screen.git"
-    },
-    "bugs": {
-      "url": "https://github.com/shockone/black-screen/issues"
-    },
+    "repository": "https://github.com/shockone/black-screen",
     "keywords": [
       "terminal",
       "emulator",
@@ -229,7 +223,12 @@
       "package": "PATH=node_modules/.bin:$PATH rm -rf '/Applications/Black Screen.app'; electron-packager . 'Black Screen' --platform=darwin --arch=x64 --version='0.30.0' --out='/Applications' --icon='./icon.icns'",
       "test": "PATH=node_modules/.bin:$PATH gulp typescript; gulp compile-tests; electron run-tests.js"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shockone/black-screen/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -277,6 +276,6 @@
   "svnUrl": "https://github.com/onlydole/black-screen",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:53:21.298Z",
+  "lastFetchedAt": "2017-10-24T00:10:03.435Z",
   "packageLastFetchedAt": "2017-05-04T22:54:44.569Z"
 }

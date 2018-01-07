@@ -6,7 +6,7 @@
   "owner": {
     "login": "mudio",
     "id": 2698510,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2698510?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2698510?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mudio",
     "htmlUrl": "https://github.com/mudio",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/mudio/bce-client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mudio/bce-client/deployments",
   "createdAt": "2016-07-10T09:19:34.000Z",
-  "updatedAt": "2017-04-21T18:18:05.000Z",
-  "pushedAt": "2017-04-15T13:15:04.000Z",
+  "updatedAt": "2017-09-14T06:35:05.000Z",
+  "pushedAt": "2017-10-20T11:24:39.000Z",
   "gitUrl": "git://github.com/mudio/bce-client.git",
   "sshUrl": "git@github.com:mudio/bce-client.git",
   "cloneUrl": "https://github.com/mudio/bce-client.git",
   "svnUrl": "https://github.com/mudio/bce-client",
   "homepage": "https://cloud.baidu.com/",
-  "size": 2230,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 2840,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -53,9 +53,9 @@
   "hasPages": true,
   "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 16,
-  "openIssues": 16,
-  "watchers": 6,
+  "openIssuesCount": 11,
+  "openIssues": 11,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -127,19 +127,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mudio/bce-client"
-    },
+    "repository": "https://github.com/mudio/bce-client",
     "author": {
       "name": "木休大人",
       "email": "job.zhanghao@gmail.com",
       "url": "https://github.com/mudio"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mudio/bce-client/issues"
-    },
     "keywords": [
       "bce",
       "bos"
@@ -224,6 +218,11 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mudio/bce-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -251,6 +250,7 @@
   },
   "sourceRepo": "mudio/bos",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:06:12.299Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:24.069Z"
+  "lastFetchedAt": "2017-10-23T23:41:26.161Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:24.069Z",
+  "archived": false
 }

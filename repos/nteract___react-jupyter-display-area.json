@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -20,21 +20,21 @@
   "description": ":bar_chart: Jupyter Display Area as a React Component",
   "fork": false,
   "createdAt": "2016-01-10T02:53:27.000Z",
-  "updatedAt": "2017-04-20T22:36:28.000Z",
-  "pushedAt": "2017-04-24T13:25:42.000Z",
+  "updatedAt": "2017-08-28T15:31:27.000Z",
+  "pushedAt": "2017-05-09T20:48:44.000Z",
   "homepage": "",
-  "size": 51,
-  "stargazersCount": 7,
-  "watchersCount": 7,
-  "language": "JavaScript",
+  "size": 53,
+  "stargazersCount": 6,
+  "watchersCount": 6,
+  "language": null,
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 5,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 7,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 5,
-  "subscribersCount": 26,
+  "subscribersCount": 36,
   "status": 200,
   "packageJSON": {
     "name": "react-jupyter-display-area",
@@ -81,10 +81,7 @@
       "test:watch": "npm run test -- --watch",
       "clean": "rimraf lib/*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nteract/react-jupyter-display-area.git"
-    },
+    "repository": "https://github.com/nteract/react-jupyter-display-area",
     "keywords": [
       "jupyter",
       "electron",
@@ -93,9 +90,6 @@
     ],
     "author": "Kyle Kelley <rgbkrk@gmail.com>",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/nteract/react-jupyter-display-area/issues"
-    },
     "homepage": "https://github.com/nteract/react-jupyter-display-area#readme",
     "babel": {
       "presets": [
@@ -140,6 +134,11 @@
     "dependencies": {
       "ansi-to-react": "1.2.0",
       "transformime-react": "^1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nteract/react-jupyter-display-area/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -187,6 +186,7 @@
   "svnUrl": "https://github.com/nteract/react-jupyter-display-area",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:46:55.178Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:01.818Z"
+  "lastFetchedAt": "2017-10-23T21:52:56.788Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:01.818Z",
+  "archived": true
 }

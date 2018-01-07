@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Markdown-Volcy",
     "description": "A basic markdown editor. [Still in development]",
@@ -76,7 +76,8 @@
     "devDependencies": {
       "electron-packager": "^5.1.0",
       "electron-prebuilt": "^0.33.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +124,6 @@
   "svnUrl": "https://github.com/clervens/Markdown-Volcy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:27:25.462Z",
+  "lastFetchedAt": "2017-10-24T00:09:52.419Z",
   "packageLastFetchedAt": "2017-05-04T22:29:35.539Z"
 }

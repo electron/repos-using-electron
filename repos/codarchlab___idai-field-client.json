@@ -64,7 +64,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "idai-field-client",
     "description": "iDAI.field 2 Client",
@@ -104,10 +104,7 @@
         "imagestore"
       ]
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/codarchlab/idai-field-client.git"
-    },
+    "repository": "https://github.com/codarchlab/idai-field-client",
     "dependencies": {
       "@angular/common": "2.2.1",
       "@angular/compiler": "2.2.1",
@@ -182,7 +179,8 @@
       "spectron": "^3.6.1",
       "typescript": "2.2.2",
       "yargs": "5.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/dainst/idai-field-client",
@@ -229,6 +227,6 @@
   },
   "filename": "codarchlab___idai-field-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:23:07.200Z",
+  "lastFetchedAt": "2017-10-23T23:09:18.332Z",
   "packageLastFetchedAt": "2017-05-04T22:45:25.288Z"
 }

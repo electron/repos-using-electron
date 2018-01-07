@@ -5,7 +5,7 @@
   "owner": {
     "login": "paracs",
     "id": 6088422,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6088422?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6088422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paracs",
     "htmlUrl": "https://github.com/paracs",
@@ -225,16 +225,15 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -263,6 +262,7 @@
   "filename": "ciclone___ng2-admin.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:50.294Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:54.443Z"
+  "lastFetchedAt": "2017-10-23T22:08:05.095Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:54.443Z",
+  "archived": false
 }

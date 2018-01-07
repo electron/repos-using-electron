@@ -5,7 +5,7 @@
   "owner": {
     "login": "cryptocurrent",
     "id": 14205241,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14205241?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14205241?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cryptocurrent",
     "htmlUrl": "https://github.com/cryptocurrent",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "cryptocurrent",
     "id": 14205241,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14205241?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14205241?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cryptocurrent",
     "htmlUrl": "https://github.com/cryptocurrent",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "bankonmeOS",
       "id": 9333491,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/9333491?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/9333491?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bankonmeOS",
       "htmlUrl": "https://github.com/bankonmeOS",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "OpenBazaar",
       "id": 7438770,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/7438770?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7438770?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/OpenBazaar",
       "htmlUrl": "https://github.com/OpenBazaar",
@@ -136,7 +137,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/OpenBazaar/OpenBazaar-Installer",
-    "description": "Process for building the OpenBazaar executables on OSX, Linux and Windows",
+    "description": "Process for building the OpenBazaar 1.0 executables on OSX, Linux and Windows",
     "fork": false,
     "url": "https://api.github.com/repos/OpenBazaar/OpenBazaar-Installer",
     "forksUrl": "https://api.github.com/repos/OpenBazaar/OpenBazaar-Installer/forks",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/OpenBazaar/OpenBazaar-Installer/downloads",
     "deploymentsUrl": "https://api.github.com/repos/OpenBazaar/OpenBazaar-Installer/deployments",
     "createdAt": "2015-08-15T20:03:41.000Z",
-    "updatedAt": "2017-04-29T15:42:40.000Z",
-    "pushedAt": "2017-02-09T02:16:02.000Z",
+    "updatedAt": "2017-10-15T14:24:35.000Z",
+    "pushedAt": "2017-08-01T19:26:14.000Z",
     "gitUrl": "git://github.com/OpenBazaar/OpenBazaar-Installer.git",
     "sshUrl": "git@github.com:OpenBazaar/OpenBazaar-Installer.git",
     "cloneUrl": "https://github.com/OpenBazaar/OpenBazaar-Installer.git",
     "svnUrl": "https://github.com/OpenBazaar/OpenBazaar-Installer",
-    "homepage": null,
-    "size": 7275,
-    "stargazersCount": 121,
-    "watchersCount": 121,
+    "homepage": "",
+    "size": 7276,
+    "stargazersCount": 129,
+    "watchersCount": 129,
     "language": "Python",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 49,
+    "forksCount": 54,
     "mirrorUrl": null,
-    "openIssuesCount": 21,
-    "openIssues": 21,
-    "watchers": 121,
+    "archived": false,
+    "openIssuesCount": 24,
+    "openIssues": 24,
+    "watchers": 129,
     "defaultBranch": "master"
   },
-  "networkCount": 49,
+  "networkCount": 54,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -188,10 +190,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OpenBazaar/OpenBazaar-Installer.git"
-    },
+    "repository": "https://github.com/OpenBazaar/OpenBazaar-Installer",
     "keywords": [
       "p2p",
       "bitcoin",
@@ -200,9 +199,6 @@
     ],
     "author": "OpenBazaar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/OpenBazaar/OpenBazaar-Installer/issues"
-    },
     "homepage": "https://github.com/OpenBazaar/OpenBazaar-Installer#readme",
     "devDependencies": {
       "electron-installer-dmg": "^0.1.0",
@@ -220,6 +216,11 @@
       "electron-installer-debian": "*",
       "electron-packager": "*",
       "electron-prebuilt": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/OpenBazaar/OpenBazaar-Installer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -268,6 +269,7 @@
   "svnUrl": "https://github.com/cryptocurrent/OpenBazaar-Installer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:28:26.452Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:39.570Z"
+  "lastFetchedAt": "2017-10-23T22:31:56.376Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:39.570Z",
+  "archived": false
 }

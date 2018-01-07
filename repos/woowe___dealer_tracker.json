@@ -5,7 +5,7 @@
   "owner": {
     "login": "woowe",
     "id": 14899481,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/14899481?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14899481?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/woowe",
     "htmlUrl": "https://github.com/woowe",
@@ -61,10 +61,7 @@
       "tsc:w": "tsc --target es6 --module es6 -w ./src/main.ts",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/woowe/dealer_tracker.git"
-    },
+    "repository": "https://github.com/woowe/dealer_tracker",
     "keywords": [
       "Dealer",
       "Tracker"
@@ -87,7 +84,8 @@
       "concurrently": "^1.0.0",
       "electron-livereload": "0.0.2",
       "typescript": "^1.7.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/woowe/dealer_tracker",
@@ -134,6 +132,7 @@
   },
   "filename": "woowe___dealer_tracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:56:59.551Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:56.976Z"
+  "lastFetchedAt": "2017-10-23T21:46:07.643Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:56.976Z",
+  "archived": false
 }

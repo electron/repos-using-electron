@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/azu/electron-zip-packager/deployments",
   "createdAt": "2015-07-23T15:53:08.000Z",
   "updatedAt": "2017-02-09T12:16:41.000Z",
-  "pushedAt": "2017-05-02T05:15:18.000Z",
+  "pushedAt": "2017-09-19T22:50:27.000Z",
   "gitUrl": "git://github.com/azu/electron-zip-packager.git",
   "sshUrl": "git@github.com:azu/electron-zip-packager.git",
   "cloneUrl": "https://github.com/azu/electron-zip-packager.git",
   "svnUrl": "https://github.com/azu/electron-zip-packager",
   "homepage": null,
-  "size": 36,
+  "size": 38,
   "stargazersCount": 12,
   "watchersCount": 12,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 4,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 2,
+  "openIssues": 2,
   "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
@@ -73,17 +73,11 @@
   "status": 200,
   "packageJSON": {
     "name": "electron-zip-packager",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/azu/electron-zip-packager.git"
-    },
+    "repository": "https://github.com/azu/electron-zip-packager",
     "author": "azu",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/electron-zip-packager",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/electron-zip-packager/issues"
-    },
     "version": "4.0.2",
     "description": "A wrapper of electron-packager. Package your electron app and zipped!",
     "keywords": [
@@ -99,9 +93,6 @@
     "bin": {
       "electron-zip-packager": "bin/cmd.js"
     },
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "travis-test": "(cd example && yarn install && npm run dist)"
     },
@@ -110,6 +101,14 @@
       "electron-packager": "^8.6.0",
       "minimist": "^1.2.0",
       "electron": "^1.6.2"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/azu/electron-zip-packager/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "azu___electron-zip-packager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:22.141Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:17.891Z"
+  "lastFetchedAt": "2017-10-24T02:02:09.210Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:17.891Z",
+  "archived": false
 }

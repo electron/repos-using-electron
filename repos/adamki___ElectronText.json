@@ -5,7 +5,7 @@
   "owner": {
     "login": "adamki",
     "id": 10334352,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10334352?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10334352?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/adamki",
     "htmlUrl": "https://github.com/adamki",
@@ -79,19 +79,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stevekinney/firesale-tutorial.git"
-    },
+    "repository": "https://github.com/stevekinney/firesale-tutorial",
     "keywords": [
       "electron",
       "markdown"
     ],
     "author": "Steve Kinney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stevekinney/firesale-tutorial/issues"
-    },
     "homepage": "https://github.com/stevekinney/firesale-tutorial#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7"
@@ -99,6 +93,11 @@
     "dependencies": {
       "jquery": "^2.2.0",
       "marked": "^0.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stevekinney/firesale-tutorial/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "adamki___ElectronText.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:16:43.805Z",
-  "packageLastFetchedAt": "2017-05-04T22:41:40.006Z"
+  "lastFetchedAt": "2017-10-23T22:29:03.802Z",
+  "packageLastFetchedAt": "2017-05-04T22:41:40.006Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "CurtisLusmore",
     "id": 7506136,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7506136?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7506136?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CurtisLusmore",
     "htmlUrl": "https://github.com/CurtisLusmore",
@@ -76,7 +76,6 @@
     "version": "0.1.0",
     "description": "An IRC client.",
     "homepage": "https://github.com/CurtisLusmore/irc",
-    "bugs": "https://github.com/CurtisLusmore/irc/issues",
     "contributors": [
       {
         "name": "Curtis Lusmore",
@@ -84,10 +83,7 @@
         "url": "https://github.com/CurtisLusmore"
       }
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/CurtisLusmore/irc.git"
-    },
+    "repository": "https://github.com/CurtisLusmore/irc",
     "main": "main.js",
     "dependencies": {
       "electron-prebuilt": "^0.36.9",
@@ -107,6 +103,9 @@
     "devDependencies": {},
     "scripts": {
       "run": "./node_modules/.bin/electron ."
+    },
+    "other": {
+      "bugs": "https://github.com/CurtisLusmore/irc/issues"
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "CurtisLusmore___irc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:45.826Z",
-  "packageLastFetchedAt": "2017-05-04T21:57:56.433Z"
+  "lastFetchedAt": "2017-10-23T21:49:09.957Z",
+  "packageLastFetchedAt": "2017-05-04T21:57:56.433Z",
+  "archived": false
 }

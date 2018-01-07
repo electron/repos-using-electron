@@ -5,7 +5,7 @@
   "owner": {
     "login": "mfalade",
     "id": 9654321,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9654321?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9654321?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mfalade",
     "htmlUrl": "https://github.com/mfalade",
@@ -60,10 +60,7 @@
       "start": "electron main.js",
       "dev": "npm start"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -72,9 +69,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
@@ -88,6 +82,11 @@
       "pg": "^4.5.5",
       "showdown": "^1.4.1",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "svnUrl": "https://github.com/mfalade/checkoff",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:22:30.499Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:55.944Z"
+  "lastFetchedAt": "2017-10-23T23:39:57.663Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:55.944Z",
+  "archived": false
 }

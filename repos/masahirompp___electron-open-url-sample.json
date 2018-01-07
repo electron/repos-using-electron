@@ -5,7 +5,7 @@
   "owner": {
     "login": "masahirompp",
     "id": 2134668,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2134668?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2134668?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/masahirompp",
     "htmlUrl": "https://github.com/masahirompp",
@@ -80,10 +80,7 @@
       "archive:win32": "zip -j \"dist/win32/MyApp-win-ia32.zip\" \"dist/win32/MyAppSetup.exe\"",
       "archive:win64": "zip -j \"dist/win64/MyApp-win-x64.zip\" \"dist/win64/MyAppSetup.exe\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/masahirompp/electron-open-url-sample.git"
-    },
+    "repository": "https://github.com/masahirompp/electron-open-url-sample",
     "author": "masahirompp",
     "license": "MIT",
     "devDependencies": {
@@ -99,7 +96,8 @@
       "typescript": "^1.8.0",
       "webpack": "^1.12.13"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +144,7 @@
   "svnUrl": "https://github.com/masahirompp/electron-open-url-sample",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T11:04:34.591Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:09.748Z"
+  "lastFetchedAt": "2017-10-23T21:45:51.952Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:09.748Z",
+  "archived": false
 }

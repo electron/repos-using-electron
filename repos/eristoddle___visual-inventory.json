@@ -5,7 +5,7 @@
   "owner": {
     "login": "eristoddle",
     "id": 1260650,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1260650?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1260650?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eristoddle",
     "htmlUrl": "https://github.com/eristoddle",
@@ -105,7 +105,8 @@
       "pack:win": "npm run clear:win && electron-packager ./www/ --platform=win32 --arch=ia32,x64 --asar --out=platforms ",
       "pack:nix": "npm run clear:nix && electron-packager ./www/ --platform=linux --arch=ia32,x64 --asar --out=platforms "
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +153,7 @@
   "svnUrl": "https://github.com/eristoddle/visual-inventory",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:57:37.853Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:21.840Z"
+  "lastFetchedAt": "2017-10-23T22:07:48.027Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:21.840Z",
+  "archived": false
 }

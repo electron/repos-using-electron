@@ -6,7 +6,7 @@
   "owner": {
     "login": "bwencke",
     "id": 2365868,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2365868?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2365868?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bwencke",
     "htmlUrl": "https://github.com/bwencke",
@@ -80,19 +80,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bwencke/anyqueue.git"
-    },
+    "repository": "https://github.com/bwencke/anyqueue",
     "keywords": [
       "queue",
       "music"
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/bwencke/anyqueue/issues"
-    },
     "homepage": "https://github.com/atom/anyqueue#readme",
     "devDependencies": {
       "electron-prebuilt-compile": "^0.36.0",
@@ -101,6 +95,11 @@
       "spotify": "^0.3.0",
       "youtube-node": "^1.3.0",
       "youtube-player": "^3.0.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bwencke/anyqueue/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:02:39.770Z",
-  "packageLastFetchedAt": "2017-05-05T01:21:25.816Z"
+  "lastFetchedAt": "2017-10-23T23:41:35.412Z",
+  "packageLastFetchedAt": "2017-05-05T01:21:25.816Z",
+  "archived": false
 }

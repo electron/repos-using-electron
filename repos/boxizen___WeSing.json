@@ -5,7 +5,7 @@
   "owner": {
     "login": "boxizen",
     "id": 6027456,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6027456?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6027456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/boxizen",
     "htmlUrl": "https://github.com/boxizen",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "wesing",
@@ -74,10 +74,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/boxizen/WeSing.git"
-    },
+    "repository": "https://github.com/boxizen/WeSing",
     "keywords": [
       "wesing",
       "electron",
@@ -86,9 +83,6 @@
     ],
     "author": "boxizen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/boxizen/WeSing/issues"
-    },
     "homepage": "https://github.com/boxizen/WeSing#readme",
     "devDependencies": {
       "babel-core": "^6.10.4",
@@ -113,6 +107,11 @@
     },
     "dependencies": {
       "ipc": "0.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/boxizen/WeSing/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "boxizen___WeSing.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:39.655Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:17.014Z"
+  "lastFetchedAt": "2017-10-23T21:42:53.627Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:17.014Z",
+  "archived": false
 }

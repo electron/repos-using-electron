@@ -58,15 +58,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "kinda-web-sql",
     "version": "0.2.5",
     "description": "...",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/kinda/kinda-web-sql"
-    },
+    "repository": "https://github.com/kinda/kinda-web-sql",
     "main": "lib/index.js",
     "scripts": {
       "compile": "babel src --out-dir lib",
@@ -93,7 +90,8 @@
       "electron-prebuilt": "^0.32.2",
       "eslint": "^1.0.0",
       "eslint-config-kinda": "^0.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +138,6 @@
   "svnUrl": "https://github.com/kinda/kinda-web-sql",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:35:59.135Z",
+  "lastFetchedAt": "2017-10-23T23:10:34.582Z",
   "packageLastFetchedAt": "2017-05-05T15:09:25.289Z"
 }

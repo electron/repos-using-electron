@@ -185,7 +185,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-text-substitutions",
     "version": "1.4.6",
@@ -196,10 +196,7 @@
       "prepublish": "npm run compile",
       "test": "electron-mocha --renderer ./test"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/CharlieHess/electron-text-substitutions"
-    },
+    "repository": "https://github.com/CharlieHess/electron-text-substitutions",
     "os": [
       "darwin"
     ],
@@ -229,7 +226,8 @@
       "lodash.values": "^4.3.0",
       "rxjs": "^5.0.0-beta.12",
       "rxjs-serial-subscription": "^0.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -255,6 +253,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:07.697Z",
+  "lastFetchedAt": "2017-10-23T23:04:28.149Z",
   "packageLastFetchedAt": "2017-05-04T22:13:24.767Z"
 }

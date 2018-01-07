@@ -58,16 +58,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ms-combat",
     "version": "0.0.0",
     "description": "Small description for ms-combat goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -162,6 +158,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -209,6 +211,6 @@
   "svnUrl": "https://github.com/magic-stash/combat",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:46:28.522Z",
+  "lastFetchedAt": "2017-10-23T23:01:33.595Z",
   "packageLastFetchedAt": "2017-05-05T14:53:59.124Z"
 }

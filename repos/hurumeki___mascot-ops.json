@@ -5,7 +5,7 @@
   "owner": {
     "login": "hurumeki",
     "id": 6499793,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6499793?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6499793?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hurumeki",
     "htmlUrl": "https://github.com/hurumeki",
@@ -76,15 +76,9 @@
       "build": "gulp webpack",
       "watch": "gulp watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hurumeki/mascot-ops.git"
-    },
+    "repository": "https://github.com/hurumeki/mascot-ops",
     "author": "hurumeki",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hurumeki/mascot-ops/issues"
-    },
     "homepage": "https://github.com/hurumeki/mascot-ops#readme",
     "devDependencies": {
       "babel-core": "^6.3.17",
@@ -113,6 +107,11 @@
       "mascot-ops-assets-pronama-chan": "hurumeki/mascot-ops-assets-pronama-chan",
       "mascot-ops-assets-pronama-chan-mmd": "hurumeki/mascot-ops-assets-pronama-chan-mmd",
       "three.js": "mrdoob/three.js#e9006145578950e6c1222a621ee11f1ea6e4853c"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hurumeki/mascot-ops/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "hurumeki___mascot-ops.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:44:01.410Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:10.267Z"
+  "lastFetchedAt": "2017-10-23T22:08:36.283Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:10.267Z",
+  "archived": false
 }

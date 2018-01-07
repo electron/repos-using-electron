@@ -6,7 +6,7 @@
   "owner": {
     "login": "plotify",
     "id": 27783468,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/27783468?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/27783468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotify",
     "htmlUrl": "https://github.com/plotify",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/plotify/plotify/downloads",
   "deploymentsUrl": "https://api.github.com/repos/plotify/plotify/deployments",
   "createdAt": "2017-03-12T08:10:04.000Z",
-  "updatedAt": "2017-05-03T10:43:55.000Z",
-  "pushedAt": "2017-05-03T18:53:12.000Z",
+  "updatedAt": "2017-07-28T18:31:35.000Z",
+  "pushedAt": "2017-08-03T05:07:55.000Z",
   "gitUrl": "git://github.com/plotify/plotify.git",
   "sshUrl": "git@github.com:plotify/plotify.git",
   "cloneUrl": "https://github.com/plotify/plotify.git",
   "svnUrl": "https://github.com/plotify/plotify",
   "homepage": "",
-  "size": 2647,
+  "size": 3061,
   "stargazersCount": 5,
   "watchersCount": 5,
-  "language": "JavaScript",
+  "language": "CSS",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 78,
-  "openIssues": 78,
+  "openIssuesCount": 79,
+  "openIssues": 79,
   "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
@@ -73,7 +73,7 @@
   "organization": {
     "login": "plotify",
     "id": 27783468,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/27783468?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/27783468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotify",
     "htmlUrl": "https://github.com/plotify",
@@ -84,10 +84,10 @@
     "receivedEventsUrl": "https://api.github.com/users/plotify/received_events",
     "type": "Organization"
   },
-  "networkCount": 0,
-  "subscribersCount": 3,
+  "networkCount": 1,
+  "subscribersCount": 4,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:22:50.767Z",
+  "lastFetchedAt": "2017-10-23T22:27:58.015Z",
   "packageJSON": {
     "name": "plotify",
     "version": "0.2.0-SNAPSHOT",
@@ -105,10 +105,7 @@
       "distribution:macos": "gulp distribution:macos"
     },
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:plotify/plotify.git"
-    },
+    "repository": "https://github.com/plotify/plotify",
     "author": "Sebastian Schmidt <email@sebastian-schmidt.info>",
     "contributors": [
       {
@@ -165,8 +162,10 @@
     },
     "optionalDependencies": {
       "electron-installer-debian": "0.5.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:42:32.284Z"
+  "packageLastFetchedAt": "2017-05-04T22:42:32.284Z",
+  "archived": false
 }

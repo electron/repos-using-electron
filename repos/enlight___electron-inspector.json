@@ -5,7 +5,7 @@
   "owner": {
     "login": "enlight",
     "id": 233003,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/233003?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/233003?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/enlight",
     "htmlUrl": "https://github.com/enlight",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/enlight/electron-inspector/downloads",
   "deploymentsUrl": "https://api.github.com/repos/enlight/electron-inspector/deployments",
   "createdAt": "2016-09-12T10:35:40.000Z",
-  "updatedAt": "2017-04-25T04:44:21.000Z",
+  "updatedAt": "2017-09-20T02:49:57.000Z",
   "pushedAt": "2016-12-07T04:47:19.000Z",
   "gitUrl": "git://github.com/enlight/electron-inspector.git",
   "sshUrl": "git@github.com:enlight/electron-inspector.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/enlight/electron-inspector",
   "homepage": "",
   "size": 140,
-  "stargazersCount": 16,
-  "watchersCount": 16,
+  "stargazersCount": 18,
+  "watchersCount": 18,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 1,
   "mirrorUrl": null,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 16,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 18,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electron-inspector",
@@ -86,10 +86,7 @@
       "prepublish": "npm run build",
       "build": "tsc -p src/tsconfig.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/enlight/electron-inspector.git"
-    },
+    "repository": "https://github.com/enlight/electron-inspector",
     "keywords": [
       "electron",
       "node-inspector",
@@ -99,9 +96,6 @@
     ],
     "author": "Vadim Macagon <vadim.macagon@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/enlight/electron-inspector/issues"
-    },
     "homepage": "https://github.com/enlight/electron-inspector#readme",
     "dependencies": {
       "node-inspector": "git+https://github.com/enlight/node-inspector",
@@ -116,6 +110,11 @@
       "electron-rebuild": "^1.2.1",
       "tslint": "^3.15.0-dev.0",
       "typescript": "^2.1.0-dev.20160912"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/enlight/electron-inspector/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "enlight___electron-inspector.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:52.991Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:38.307Z"
+  "lastFetchedAt": "2017-10-24T00:11:39.714Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:38.307Z",
+  "archived": false
 }

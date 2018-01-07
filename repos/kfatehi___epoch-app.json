@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "epoch-app",
     "version": "1.0.0",
@@ -92,7 +92,8 @@
     "scripts": {
       "build": "electron-packager . Epoch --platform=darwin --arch=x64 --version=0.26.0 --ignore=node_modules/electron --icon=Icon.icns --overwrite",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +121,6 @@
   "sourceRepo": "kfatehi/epoch-app",
   "filename": "kfatehi___epoch-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:21.261Z",
+  "lastFetchedAt": "2017-10-23T23:04:33.576Z",
   "packageLastFetchedAt": "2017-05-04T22:28:59.314Z"
 }

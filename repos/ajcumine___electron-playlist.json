@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-playlist",
     "productName": "ElectronPlaylist",
@@ -131,25 +131,15 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ajcumine/electron-playlist.git"
-    },
+    "repository": "https://github.com/ajcumine/electron-playlist",
     "author": {
       "email": "ajcumine@gmail.com",
       "url": "https://github.com/ajcumine"
     },
     "license": "",
-    "bugs": {
-      "url": "https://github.com/ajcumine/electron-playlist/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -242,6 +232,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/ajcumine/electron-playlist/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -269,6 +268,6 @@
   },
   "filename": "ajcumine___electron-playlist.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:59:42.050Z",
+  "lastFetchedAt": "2017-10-23T22:56:46.688Z",
   "packageLastFetchedAt": "2017-05-04T22:36:35.130Z"
 }

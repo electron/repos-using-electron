@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "avocado-electro",
     "version": "0.0.1",
@@ -80,10 +80,7 @@
       "start": "electron app/app.js --config=app/db",
       "test": "mocha tests"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Teloah/avocado-electro.git"
-    },
+    "repository": "https://github.com/Teloah/avocado-electro",
     "keywords": [
       "Avocado Lex",
       "Reports",
@@ -116,7 +113,8 @@
       "electron-reload": "1.0.2",
       "jquery": "~2.2.4",
       "yargs": "4.7.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,6 @@
   },
   "filename": "Teloah___avocado-electro.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:09:26.958Z",
+  "lastFetchedAt": "2017-10-23T23:05:23.819Z",
   "packageLastFetchedAt": "2017-05-04T22:33:31.947Z"
 }

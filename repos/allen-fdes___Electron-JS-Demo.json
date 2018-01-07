@@ -5,7 +5,7 @@
   "owner": {
     "login": "allen-fdes",
     "id": 1974892,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1974892?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1974892?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/allen-fdes",
     "htmlUrl": "https://github.com/allen-fdes",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "allen-fdes___Electron-JS-Demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:40.002Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:02.228Z"
+  "lastFetchedAt": "2017-10-23T23:43:45.666Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:02.228Z",
+  "archived": false
 }

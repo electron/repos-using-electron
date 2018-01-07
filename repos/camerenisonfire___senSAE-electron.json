@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "senSAE",
     "version": "0.0.1",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/camerenisonfire/senSAE-electron.git"
-    },
+    "repository": "https://github.com/camerenisonfire/senSAE-electron",
     "keywords": [
       "Electron",
       "generative",
@@ -69,7 +66,8 @@
     "homepage": "http://www.sensae.us",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -116,6 +114,6 @@
   "svnUrl": "https://github.com/camerenisonfire/senSAE-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:50:18.133Z",
+  "lastFetchedAt": "2017-10-23T23:05:03.231Z",
   "packageLastFetchedAt": "2017-05-04T22:16:09.138Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "educommit",
     "id": 13208382,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13208382?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13208382?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/educommit",
     "htmlUrl": "https://github.com/educommit",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "educommit",
     "id": 13208382,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13208382?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13208382?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/educommit",
     "htmlUrl": "https://github.com/educommit",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -105,15 +102,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "jQuery": "^1.7.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "educommit___educommit.github.io.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:51.885Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:00.792Z"
+  "lastFetchedAt": "2017-10-23T22:26:13.754Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:00.792Z",
+  "archived": false
 }

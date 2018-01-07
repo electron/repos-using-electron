@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mongodb-workbench",
     "productName": "MongoDB Workbench",
@@ -59,11 +59,7 @@
     "description": "A client to make working with MongoDB even better",
     "license": "MIT",
     "homepage": "https://KylePDavis.github.io/mongodb-workbench",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/KylePDavis/mongodb-workbench.git"
-    },
-    "bugs": "https://github.com/KylePDavis/mongodb-workbench/issues",
+    "repository": "https://github.com/KylePDavis/mongodb-workbench",
     "keywords": [
       "mongodb",
       "workbench",
@@ -90,7 +86,10 @@
       "electron-prebuilt": "~0.30.1",
       "electron-rebuild": "~0.2.5"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": "https://github.com/KylePDavis/mongodb-workbench/issues"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/KylePDavis/mongodb-workbench",
@@ -137,6 +136,6 @@
   },
   "filename": "KylePDavis___mongodb-workbench.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:40:45.011Z",
+  "lastFetchedAt": "2017-10-23T23:10:38.579Z",
   "packageLastFetchedAt": "2017-05-04T21:55:17.851Z"
 }

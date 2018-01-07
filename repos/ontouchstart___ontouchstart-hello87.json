@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ontouchstart-hello87",
     "version": "2.0.1",
@@ -83,15 +83,13 @@
         "hello87-*"
       ]
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ontouchstart/ontouchstart-hello87.git"
-    },
+    "repository": "https://github.com/ontouchstart/ontouchstart-hello87",
     "author": "Sam Liu <ontouchstart@gmail.com>",
     "license": "BSD-2-Clause",
     "dependencies": {
       "electron-packager": "^5.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +116,6 @@
   },
   "filename": "ontouchstart___ontouchstart-hello87.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:13:53.665Z",
+  "lastFetchedAt": "2017-10-23T23:06:22.832Z",
   "packageLastFetchedAt": "2017-05-05T17:26:50.543Z"
 }

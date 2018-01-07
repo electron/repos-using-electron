@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "snake-game",
     "version": "1.0.0",
@@ -85,13 +85,15 @@
     ],
     "author": "Ratan Kulshreshtha",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "",
     "devDependencies": {
       "electron-builder": "^5.34.1",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +121,6 @@
   },
   "filename": "RatanShreshtha___Snake-Game.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:18:51.143Z",
+  "lastFetchedAt": "2017-10-23T23:03:47.581Z",
   "packageLastFetchedAt": "2017-05-05T17:45:37.589Z"
 }

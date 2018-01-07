@@ -5,7 +5,7 @@
   "owner": {
     "login": "requesto",
     "id": 20373928,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20373928?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20373928?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/requesto",
     "htmlUrl": "https://github.com/requesto",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/requesto/requesto/downloads",
   "deploymentsUrl": "https://api.github.com/repos/requesto/requesto/deployments",
   "createdAt": "2016-06-30T14:39:50.000Z",
-  "updatedAt": "2017-04-06T09:22:27.000Z",
+  "updatedAt": "2017-05-12T13:37:11.000Z",
   "pushedAt": "2017-01-03T04:55:05.000Z",
   "gitUrl": "git://github.com/requesto/requesto.git",
   "sshUrl": "git@github.com:requesto/requesto.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/requesto/requesto",
   "homepage": "http://requesto.github.io",
   "size": 134211,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "requesto",
     "id": 20373928,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20373928?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20373928?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/requesto",
     "htmlUrl": "https://github.com/requesto",
@@ -95,14 +95,8 @@
       "email": "daniel.beff@gmail.com",
       "url": "http://www.danielbeff.com.br"
     },
-    "bugs": {
-      "url": "https://github.com/requesto/requesto/issues"
-    },
     "homepage": "https://github.com/requesto/requesto#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/requesto/requesto.git"
-    },
+    "repository": "https://github.com/requesto/requesto",
     "main": "electron.js",
     "scripts": {
       "start": "electron .",
@@ -160,16 +154,21 @@
       ]
     },
     "productName": "Requesto",
-    "directories": {
-      "app": ".",
-      "output": "./build"
-    },
     "build": {
       "appId": "com.github.requesto.requesto",
       "category": "public.app-category.developer-tools",
       "files": "**/*",
       "mac": {
         "icon": "./resources/icon.icns"
+      }
+    },
+    "other": {
+      "directories": {
+        "app": ".",
+        "output": "./build"
+      },
+      "bugs": {
+        "url": "https://github.com/requesto/requesto/issues"
       }
     }
   },
@@ -198,6 +197,7 @@
   },
   "filename": "requesto___requesto.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:11.372Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:24.175Z"
+  "lastFetchedAt": "2017-10-23T22:14:17.781Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:24.175Z",
+  "archived": false
 }

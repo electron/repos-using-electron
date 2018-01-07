@@ -78,16 +78,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-pokus",
     "version": "0.0.0",
     "description": "Small description for electron-pokus goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -171,6 +167,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -198,6 +200,6 @@
   },
   "filename": "AnnotationSro___ember-electron-poc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:38.218Z",
+  "lastFetchedAt": "2017-10-23T22:59:36.074Z",
   "packageLastFetchedAt": "2017-05-04T23:06:26.791Z"
 }

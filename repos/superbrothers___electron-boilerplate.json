@@ -50,7 +50,7 @@
   },
   "networkCount": 8,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-boilerplate",
     "version": "1.0.0",
@@ -65,15 +65,9 @@
       "test": "echo \"noop\" && exit 0",
       "precommit": "npm run lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/superbrothers/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/superbrothers/electron-boilerplate",
     "author": "Kazuki Suda <kazuki.suda@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/superbrothers/electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/superbrothers/electron-boilerplate#readme",
     "dependencies": {
       "react": "^0.14.0-rc1",
@@ -102,6 +96,11 @@
       "merge-stream": "^1.0.0",
       "require-dir": "^0.3.0",
       "run-sequence": "^1.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/superbrothers/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,6 @@
   },
   "filename": "superbrothers___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:04:29.769Z",
+  "lastFetchedAt": "2017-10-23T23:01:22.828Z",
   "packageLastFetchedAt": "2017-05-05T17:10:09.327Z"
 }

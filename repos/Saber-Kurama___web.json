@@ -5,7 +5,7 @@
   "owner": {
     "login": "Saber-Kurama",
     "id": 4177028,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4177028?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4177028?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Saber-Kurama",
     "htmlUrl": "https://github.com/Saber-Kurama",
@@ -171,10 +171,6 @@
       "name": "Vasiliy Yorkin",
       "email": "vasiliy.yorkin@gmail.com",
       "url": "https://github.com/vyorkin"
-    },
-    "bugs": {
-      "url": "https://github.com/partyrooms/web/issues",
-      "email": "vasiliy.yorkin@gmail.com"
     },
     "config": {
       "https": false,
@@ -427,10 +423,7 @@
     "license": "MIT",
     "main": "src/server/index.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "partyrooms/web"
-    },
+    "repository": "https://github.com/partyrooms/web",
     "scripts": {
       "build": "gulp build",
       "build:full": "gulp build:full",
@@ -450,6 +443,12 @@
       "test:mocha": "mocha ./test/app/modules/**/*.test.js",
       "test:mocha:watch": "npm run test:mocha -- --watch",
       "test:watch": "karma start --watch -- --test"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/partyrooms/web/issues",
+        "email": "vasiliy.yorkin@gmail.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -498,6 +497,7 @@
   "svnUrl": "https://github.com/Saber-Kurama/web",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:12:12.377Z",
-  "packageLastFetchedAt": "2017-05-05T17:23:05.723Z"
+  "lastFetchedAt": "2017-10-23T23:44:22.486Z",
+  "packageLastFetchedAt": "2017-05-05T17:23:05.723Z",
+  "archived": false
 }

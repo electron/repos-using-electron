@@ -5,7 +5,7 @@
   "owner": {
     "login": "andrewchaa",
     "id": 840427,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/840427?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/840427?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andrewchaa",
     "htmlUrl": "https://github.com/andrewchaa",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,15 +68,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "jquery": "^3.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "andrewchaa___marketinvoice-dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:26.407Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:58.904Z"
+  "lastFetchedAt": "2017-10-23T22:32:51.002Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:58.904Z",
+  "archived": false
 }

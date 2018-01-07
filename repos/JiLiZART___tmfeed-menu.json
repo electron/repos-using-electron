@@ -70,23 +70,17 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tmfeed-menu",
     "productName": "TM Feed Menu",
     "version": "1.0.0",
     "description": "A menu to read TM Feed",
     "main": "./dist/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/JiLiZART/tmfeed-menu.git"
-    },
+    "repository": "https://github.com/JiLiZART/tmfeed-menu",
     "engines": {
       "node": "0.12.7",
       "npm": "2.11.3"
-    },
-    "bugs": {
-      "url": "https://github.com/JiLiZART/tmfeed-menu/issues"
     },
     "license": "MIT",
     "scripts": {
@@ -129,6 +123,11 @@
       "react": "^0.13.3",
       "request": "^2.62.0",
       "winston": "^1.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/JiLiZART/tmfeed-menu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,6 @@
   "filename": "JiLiZART___tmfeed-menu.json",
   "sourceRepo": "jingweno/hacker-menu",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:57.005Z",
+  "lastFetchedAt": "2017-10-23T23:01:02.575Z",
   "packageLastFetchedAt": "2017-05-05T17:14:58.030Z"
 }

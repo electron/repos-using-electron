@@ -5,7 +5,7 @@
   "owner": {
     "login": "explodingunicorn",
     "id": 8671563,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8671563?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8671563?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/explodingunicorn",
     "htmlUrl": "https://github.com/explodingunicorn",
@@ -73,10 +73,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/explodingunicorn/OverStat.git"
-    },
+    "repository": "https://github.com/explodingunicorn/OverStat",
     "keywords": [
       "Overwatch",
       "Stats",
@@ -84,12 +81,14 @@
     ],
     "author": "Corey Robinson",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/explodingunicorn/OverStat/issues"
-    },
     "homepage": "https://github.com/explodingunicorn/OverStat#readme",
     "devDependencies": {
       "electron": "^1.4.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/explodingunicorn/OverStat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "explodingunicorn___OverStat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:49.003Z",
-  "packageLastFetchedAt": "2017-05-05T17:29:38.219Z"
+  "lastFetchedAt": "2017-10-23T23:43:18.412Z",
+  "packageLastFetchedAt": "2017-05-05T17:29:38.219Z",
+  "archived": false
 }

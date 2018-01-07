@@ -5,7 +5,7 @@
   "owner": {
     "login": "SteveEdson",
     "id": 1201960,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1201960?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1201960?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SteveEdson",
     "htmlUrl": "https://github.com/SteveEdson",
@@ -80,10 +80,7 @@
       "start": "electron main.js",
       "build": "browserify -t vueify -e lib/browser.js -o dist/app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "babel-core": "^6.5.2",
@@ -108,6 +102,11 @@
       "vue-router": "^0.7.11",
       "vueify": "^8.3.5",
       "vueify-insert-css": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "filename": "SteveEdson___Vaporeon.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:46.059Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:16.997Z"
+  "lastFetchedAt": "2017-10-23T21:44:37.442Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:16.997Z",
+  "archived": false
 }

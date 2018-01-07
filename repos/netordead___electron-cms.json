@@ -5,7 +5,7 @@
   "owner": {
     "login": "netordead",
     "id": 7016271,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7016271?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7016271?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/netordead",
     "htmlUrl": "https://github.com/netordead",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,14 +68,16 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
       "mssql": "^2.3.2",
       "jquery": "^2.1.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/netordead/electron-cms",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:13:31.002Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:36.241Z"
+  "lastFetchedAt": "2017-10-23T21:43:23.521Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:36.241Z",
+  "archived": false
 }

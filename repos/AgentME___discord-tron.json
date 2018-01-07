@@ -6,7 +6,7 @@
   "owner": {
     "login": "AgentME",
     "id": 577345,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/577345?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/577345?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AgentME",
     "htmlUrl": "https://github.com/AgentME",
@@ -51,7 +51,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -69,7 +69,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -84,10 +84,7 @@
       "lint-fix": "eslint . --fix"
     },
     "bin": "./bin/cli.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AgentME/discord-tron/"
-    },
+    "repository": "https://github.com/AgentME/discord-tron",
     "keywords": [
       "discord",
       "electron",
@@ -103,7 +100,8 @@
     },
     "devDependencies": {
       "eslint": "^3.12.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +127,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:39.929Z",
-  "packageLastFetchedAt": "2017-05-05T17:19:51.263Z"
+  "lastFetchedAt": "2017-10-23T21:42:33.383Z",
+  "packageLastFetchedAt": "2017-05-05T17:19:51.263Z",
+  "archived": false
 }

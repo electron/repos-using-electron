@@ -5,7 +5,7 @@
   "owner": {
     "login": "Automattic",
     "id": 887802,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/887802?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/887802?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Automattic",
     "htmlUrl": "https://github.com/Automattic",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Automattic/simplenote-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Automattic/simplenote-electron/deployments",
   "createdAt": "2015-08-22T09:06:44.000Z",
-  "updatedAt": "2017-05-04T16:26:02.000Z",
-  "pushedAt": "2017-04-27T18:59:46.000Z",
+  "updatedAt": "2017-10-22T22:34:42.000Z",
+  "pushedAt": "2017-10-18T22:43:02.000Z",
   "gitUrl": "git://github.com/Automattic/simplenote-electron.git",
   "sshUrl": "git@github.com:Automattic/simplenote-electron.git",
   "cloneUrl": "https://github.com/Automattic/simplenote-electron.git",
   "svnUrl": "https://github.com/Automattic/simplenote-electron",
   "homepage": "",
-  "size": 10441,
-  "stargazersCount": 1193,
-  "watchersCount": 1193,
+  "size": 10565,
+  "stargazersCount": 1381,
+  "watchersCount": 1381,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 162,
+  "forksCount": 189,
   "mirrorUrl": null,
-  "openIssuesCount": 126,
-  "openIssues": 126,
-  "watchers": 1193,
+  "openIssuesCount": 127,
+  "openIssues": 127,
+  "watchers": 1381,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Automattic",
     "id": 887802,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/887802?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/887802?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Automattic",
     "htmlUrl": "https://github.com/Automattic",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/Automattic/received_events",
     "type": "Organization"
   },
-  "networkCount": 162,
-  "subscribersCount": 129,
+  "networkCount": 189,
+  "subscribersCount": 137,
   "status": 200,
   "packageJSON": {
     "name": "simplenote",
@@ -91,10 +91,7 @@
     "version": "1.0.8",
     "description": "The Simplenote app running as an electron app.",
     "main": "desktop/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Automattic/simplenote-electron.git"
-    },
+    "repository": "https://github.com/Automattic/simplenote-electron",
     "scripts": {
       "test": "jest",
       "build": "NODE_ENV=development npm run build:dll && npm run build:app",
@@ -169,7 +166,8 @@
       "sanitize-filename": "1.6.1",
       "serve-favicon": "2.3.2",
       "simperium": "0.2.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -196,6 +194,7 @@
   },
   "filename": "Automattic___simplenote-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:14:43.851Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:19.452Z"
+  "lastFetchedAt": "2017-10-23T23:38:50.528Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:19.452Z",
+  "archived": false
 }

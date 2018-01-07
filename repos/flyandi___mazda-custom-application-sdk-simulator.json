@@ -5,7 +5,7 @@
   "owner": {
     "login": "flyandi",
     "id": 329973,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/329973?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/329973?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/flyandi",
     "htmlUrl": "https://github.com/flyandi",
@@ -51,10 +51,7 @@
     "version": "0.0.2",
     "homepage": "http://flyandi.github.io/mazda-custom-application-sdk/",
     "author": "Andy (flyandi) <flyandi@yahoo.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/flyandi/mazda-custom-application-sdk-simulator"
-    },
+    "repository": "https://github.com/flyandi/mazda-custom-application-sdk-simulator",
     "devDependencies": {
       "del": "~2.2.0",
       "electron": "^0.4.1",
@@ -76,7 +73,8 @@
       "build:osx": "npm run pack:osx && electron-builder \"build/simulator/osx/Mazda Infotainment Simulator.app\" --platform=osx --out=\"dist/simulator/osx\" --config=builder.json",
       "build:win": "npm run pack:win && electron-builder \"build/simulator/win/Mazda Infotainment Simulator\" --platform=win --out=\"dist/simulator/win\" --config=builder.json"
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +121,7 @@
   "svnUrl": "https://github.com/flyandi/mazda-custom-application-sdk-simulator",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:19:28.240Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:15.505Z"
+  "lastFetchedAt": "2017-10-24T00:07:00.707Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:15.505Z",
+  "archived": false
 }

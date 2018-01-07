@@ -64,15 +64,11 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ui",
     "version": "0.0.1",
     "description": "You know, a UI.",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -155,6 +151,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +184,6 @@
   },
   "filename": "cprussin___untitled-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:33.379Z",
+  "lastFetchedAt": "2017-10-23T22:56:34.889Z",
   "packageLastFetchedAt": "2017-05-05T14:40:42.924Z"
 }

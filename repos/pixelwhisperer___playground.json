@@ -5,7 +5,7 @@
   "owner": {
     "login": "pixelwhisperer",
     "id": 3914679,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3914679?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3914679?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pixelwhisperer",
     "htmlUrl": "https://github.com/pixelwhisperer",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,9 +68,6 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "dependencies": {
       "browser-sync": "^2.9.11",
@@ -101,7 +95,12 @@
       "cordova-plugin-statusbar",
       "ionic-plugin-keyboard"
     ],
-    "cordovaPlatforms": []
+    "cordovaPlatforms": [],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/pixelwhisperer/playground",
@@ -148,6 +147,7 @@
   },
   "filename": "pixelwhisperer___playground.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:47:51.952Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:54.253Z"
+  "lastFetchedAt": "2017-10-23T22:14:12.803Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:54.253Z",
+  "archived": false
 }

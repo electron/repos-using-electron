@@ -5,7 +5,7 @@
   "owner": {
     "login": "endpointapi",
     "id": 16694357,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16694357?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16694357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/endpointapi",
     "htmlUrl": "https://github.com/endpointapi",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "endpointapi",
     "id": 16694357,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16694357?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16694357?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/endpointapi",
     "htmlUrl": "https://github.com/endpointapi",
@@ -94,15 +94,9 @@
       "stats": "webpack --profile --json > stats.json",
       "watch": "webpack-dev-server"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lackeyjb/endpoint-client.git"
-    },
+    "repository": "https://github.com/lackeyjb/endpoint-client",
     "author": "Ric Cabrera & Bryan Lackey",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/lackeyjb/endpoint-client/issues"
-    },
     "homepage": "https://github.com/lackeyjb/endpoint-client#readme",
     "devDependencies": {
       "babel-core": "^6.4.5",
@@ -136,6 +130,11 @@
     "dependencies": {
       "react": "^0.14.7",
       "react-dom": "^0.14.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lackeyjb/endpoint-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "endpointapi___endpoint-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:20.683Z",
-  "packageLastFetchedAt": "2017-05-05T14:45:47.728Z"
+  "lastFetchedAt": "2017-10-23T22:13:56.289Z",
+  "packageLastFetchedAt": "2017-05-05T14:45:47.728Z",
+  "archived": false
 }

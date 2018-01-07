@@ -185,7 +185,7 @@
   },
   "networkCount": 141,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "bloodhound",
     "version": "1.0.0",
@@ -195,11 +195,7 @@
       "Active Directory"
     ],
     "homepage": "https://github.com/adaptivethreat/Bloodhound",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/adaptivethreat/Bloodhound.git"
-    },
-    "bugs": "https://github.com/adaptivethreat/Bloodhound/issues",
+    "repository": "https://github.com/adaptivethreat/Bloodhound",
     "license": "GPL-3.0",
     "author": "Rohan Vazarkar <rvazarkr@gmail.com> (https://www.twitter.com/cptjesus)",
     "contributors": [
@@ -251,6 +247,9 @@
       "react-bootstrap": "^0.30.0",
       "react-dom": "^15.2.1",
       "react-if": "^2.1.0"
+    },
+    "other": {
+      "bugs": "https://github.com/adaptivethreat/Bloodhound/issues"
     }
   },
   "packageStatus": 200,
@@ -278,6 +277,6 @@
   },
   "sourceRepo": "adaptivethreat/BloodHound",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:56.606Z",
+  "lastFetchedAt": "2017-10-23T22:57:26.593Z",
   "packageLastFetchedAt": "2017-05-05T17:06:52.756Z"
 }

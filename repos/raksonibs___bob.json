@@ -64,16 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "telloworld",
     "version": "0.0.0",
     "description": "Small description for telloworld goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -171,6 +167,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -198,6 +200,6 @@
   },
   "filename": "raksonibs___bob.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:47:06.359Z",
+  "lastFetchedAt": "2017-10-23T23:09:44.083Z",
   "packageLastFetchedAt": "2017-05-05T15:31:11.687Z"
 }

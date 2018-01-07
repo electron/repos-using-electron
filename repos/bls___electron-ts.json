@@ -5,7 +5,7 @@
   "owner": {
     "login": "bls",
     "id": 203738,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/203738?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/203738?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bls",
     "htmlUrl": "https://github.com/bls",
@@ -61,19 +61,13 @@
       "test": "mocha dist/test",
       "start": "electron dist/init.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bls/electron-ts.git"
-    },
+    "repository": "https://github.com/bls/electron-ts",
     "keywords": [
       "electron",
       "typescript"
     ],
     "author": "Blair Strang <Blair.Strang@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bls/electron-ts/issues"
-    },
     "homepage": "https://github.com/bls/electron-ts#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
@@ -86,7 +80,12 @@
       "tslint": "^3.3.0-dev.2",
       "typescript": "^1.8.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bls/electron-ts/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/bls/electron-ts",
@@ -133,6 +132,7 @@
   },
   "filename": "bls___electron-ts.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:47.190Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:35.016Z"
+  "lastFetchedAt": "2017-10-24T02:03:46.386Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:35.016Z",
+  "archived": false
 }

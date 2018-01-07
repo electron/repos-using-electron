@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ptt-tweet-crawler",
     "version": "0.0.1",
@@ -76,15 +76,9 @@
       "client": "electron ./",
       "resources": "gulp resources"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chhsiao90/ptt-tweet-crawler.git"
-    },
+    "repository": "https://github.com/chhsiao90/ptt-tweet-crawler",
     "author": "chhsiao90",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/chhsiao90/bptt-tweet-crawler/issues"
-    },
     "homepage": "https://github.com/chhsiao90/ptt-tweet-crawler#readme",
     "keywords": [
       "react",
@@ -110,6 +104,11 @@
       "electron-prebuilt": "^0.33.6",
       "gulp": "^3.9.0",
       "gulp-babel": "^5.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chhsiao90/bptt-tweet-crawler/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,6 @@
   },
   "filename": "chhsiao90___ptt-tweet-crawler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:18.152Z",
+  "lastFetchedAt": "2017-10-23T23:04:10.829Z",
   "packageLastFetchedAt": "2017-05-05T17:05:37.831Z"
 }

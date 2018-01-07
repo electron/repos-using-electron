@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "youtube-electron-wrapper",
     "version": "1.0.0",
@@ -87,16 +87,15 @@
       "start": "electron .",
       "build": "electron-packager . Electron-Youtube --out=dist --ignore=dist --prune --asar --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AndreVarandas/YT-wrapper.git"
-    },
+    "repository": "https://github.com/AndreVarandas/YT-wrapper",
     "author": "Andre Varandas",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/AndreVarandas/YT-wrapper/issues"
-    },
-    "homepage": "https://github.com/AndreVarandas/YT-wrapper#readme"
+    "homepage": "https://github.com/AndreVarandas/YT-wrapper#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AndreVarandas/YT-wrapper/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +122,6 @@
   },
   "filename": "AndreVarandas___YT-wrapper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:36.292Z",
+  "lastFetchedAt": "2017-10-23T22:30:15.976Z",
   "packageLastFetchedAt": "2017-05-05T17:32:32.456Z"
 }

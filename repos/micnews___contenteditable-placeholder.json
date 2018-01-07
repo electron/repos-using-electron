@@ -5,7 +5,7 @@
   "owner": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 23,
+  "subscribersCount": 26,
   "status": 200,
   "packageJSON": {
     "name": "contenteditable-placeholder",
@@ -74,15 +74,9 @@
       "lint": "semistandard",
       "test": "browserify test.js | testron && npm run lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/micnews/contenteditable-placeholder"
-    },
+    "repository": "https://github.com/micnews/contenteditable-placeholder",
     "author": "David Björklund <david.bjorklund@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/micnews/contenteditable-placeholder/issues"
-    },
     "homepage": "https://github.com/micnews/contenteditable-placeholder",
     "dependencies": {
       "brfs": "^1.2.0",
@@ -102,6 +96,11 @@
       "transform": [
         "brfs"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/micnews/contenteditable-placeholder/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   },
   "filename": "micnews___contenteditable-placeholder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:06.440Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:51.365Z"
+  "lastFetchedAt": "2017-10-24T00:08:04.696Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:51.365Z",
+  "archived": false
 }

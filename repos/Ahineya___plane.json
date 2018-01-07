@@ -5,7 +5,7 @@
   "owner": {
     "login": "Ahineya",
     "id": 2745520,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2745520?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2745520?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Ahineya",
     "htmlUrl": "https://github.com/Ahineya",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "ansi-regex": "^2.0.0",
@@ -249,6 +243,11 @@
       "wrappy": "^1.0.1",
       "xtend": "^4.0.1",
       "yauzl": "^2.4.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -276,6 +275,7 @@
   },
   "filename": "Ahineya___plane.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:23:35.909Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:14.247Z"
+  "lastFetchedAt": "2017-10-23T22:26:13.002Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:14.247Z",
+  "archived": false
 }

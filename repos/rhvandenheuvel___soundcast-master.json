@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhvandenheuvel",
     "id": 22012062,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22012062?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22012062?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhvandenheuvel",
     "htmlUrl": "https://github.com/rhvandenheuvel",
@@ -56,10 +56,7 @@
     "version": "1.7.0",
     "description": "Cast OSX audio to Chromecast menubar app",
     "author": "Andres Gottlieb",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/andresgottlieb/soundcast"
-    },
+    "repository": "https://github.com/andresgottlieb/soundcast",
     "dependencies": {
       "chromecast-osx-audio": "^0.3.0",
       "menubar": "2.3.0",
@@ -73,7 +70,8 @@
     "scripts": {
       "start": "electron ."
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,7 @@
   "svnUrl": "https://github.com/rhvandenheuvel/soundcast-master",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:45:21.679Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:58.848Z"
+  "lastFetchedAt": "2017-10-23T22:25:27.512Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:58.848Z",
+  "archived": false
 }

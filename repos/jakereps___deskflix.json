@@ -5,7 +5,7 @@
   "owner": {
     "login": "jakereps",
     "id": 2638727,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2638727?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2638727?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jakereps",
     "htmlUrl": "https://github.com/jakereps",
@@ -55,19 +55,13 @@
       "build:mac": "electron-packager . --platform=darwin --arch=x64",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jakereps/deskflix.git"
-    },
+    "repository": "https://github.com/jakereps/deskflix",
     "keywords": [
       "Netflix",
       "Desktop"
     ],
     "author": "Jorden Kreps",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jakereps/deskflix/issues"
-    },
     "homepage": "https://github.com/jakereps/deskflix#readme",
     "devDependencies": {
       "electron-packager": "^7.4.0",
@@ -85,6 +79,11 @@
         "import/core-modules": [
           "electron"
         ]
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jakereps/deskflix/issues"
       }
     }
   },
@@ -133,6 +132,7 @@
   },
   "filename": "jakereps___deskflix.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:29:53.520Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:47.465Z"
+  "lastFetchedAt": "2017-10-23T22:24:41.003Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:47.465Z",
+  "archived": false
 }

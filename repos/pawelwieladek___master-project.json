@@ -5,7 +5,7 @@
   "owner": {
     "login": "pawelwieladek",
     "id": 5672258,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5672258?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5672258?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pawelwieladek",
     "htmlUrl": "https://github.com/pawelwieladek",
@@ -137,21 +137,20 @@
       "react-slider": "^0.5.1",
       "reflux": "^0.2.12"
     },
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "mocha",
       "start": "./node_modules/.bin/babel-node ./cli/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pawelwieladek/master-project.git"
-    },
-    "bugs": {
-      "url": "https://github.com/pawelwieladek/master-project/issues"
-    },
-    "homepage": "https://github.com/pawelwieladek/master-project#readme"
+    "repository": "https://github.com/pawelwieladek/master-project",
+    "homepage": "https://github.com/pawelwieladek/master-project#readme",
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/pawelwieladek/master-project/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -178,6 +177,7 @@
   },
   "filename": "pawelwieladek___master-project.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:46.008Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:46.640Z"
+  "lastFetchedAt": "2017-10-24T00:19:50.719Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:46.640Z",
+  "archived": false
 }

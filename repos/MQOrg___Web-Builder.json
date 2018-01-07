@@ -5,7 +5,7 @@
   "owner": {
     "login": "MQOrg",
     "id": 10585784,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10585784?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10585784?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MQOrg",
     "htmlUrl": "https://github.com/MQOrg",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "MQOrg",
     "id": 10585784,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10585784?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10585784?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MQOrg",
     "htmlUrl": "https://github.com/MQOrg",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -105,12 +102,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "MQOrg___Web-Builder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:13.249Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:21.899Z"
+  "lastFetchedAt": "2017-10-23T22:25:41.029Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:21.899Z",
+  "archived": false
 }

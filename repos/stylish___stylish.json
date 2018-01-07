@@ -78,7 +78,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "skypager",
     "version": "2.26.2",
@@ -115,10 +115,7 @@
       "babel-preset-react-hmre": "^1.1.0",
       "lerna": "^1.1.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/skypager/skypager.git"
-    },
+    "repository": "https://github.com/skypager/skypager",
     "author": "Jonathan Soeder <jon@chicago.com",
     "license": "SEE LICENSE IN License.md",
     "scripts": {
@@ -134,7 +131,8 @@
       "release:minor": "exit-on-dirty-git && lerna publish",
       "postrelease:minor": "npm publish && npm install",
       "release": "npm run release:patch"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -161,6 +159,6 @@
   },
   "filename": "stylish___stylish.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:45:55.991Z",
+  "lastFetchedAt": "2017-10-23T23:11:01.081Z",
   "packageLastFetchedAt": "2017-05-05T01:26:45.746Z"
 }

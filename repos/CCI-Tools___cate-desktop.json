@@ -84,7 +84,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 7,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cate-desktop",
     "productName": "Cate",
@@ -105,10 +105,7 @@
       "clean:dist": "rimraf dist",
       "clean:all": "npm run clean && rimraf dist app/node_modules && npm prune"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/CCI-Tools/cate-desktop.git"
-    },
+    "repository": "https://github.com/CCI-Tools/cate-desktop",
     "keywords": [
       "esa",
       "cci",
@@ -118,9 +115,6 @@
     ],
     "author": "Norman Fomferra, Marco Zühlke (Brockmann Consult GmbH)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/CCI-Tools/cate-desktop/issues"
-    },
     "homepage": "https://github.com/CCI-Tools/cate-desktop",
     "devDependencies": {
       "@blueprintjs/core": "~1.13.x",
@@ -207,6 +201,11 @@
           "zip"
         ]
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/CCI-Tools/cate-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -234,6 +233,6 @@
   },
   "filename": "CCI-Tools___cate-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:30.223Z",
+  "lastFetchedAt": "2017-10-23T23:09:40.572Z",
   "packageLastFetchedAt": "2017-05-04T22:58:24.873Z"
 }

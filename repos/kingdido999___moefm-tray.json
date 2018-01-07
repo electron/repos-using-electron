@@ -5,7 +5,7 @@
   "owner": {
     "login": "kingdido999",
     "id": 3196372,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3196372?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3196372?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kingdido999",
     "htmlUrl": "https://github.com/kingdido999",
@@ -65,10 +65,7 @@
       "build-osx": "electron-packager . MoefmTray --platform=darwin --arch=x64 --version=0.36.0",
       "build-windows": "electron-packager . MoefmTray --platform=win32 --arch=x64 --version=0.36.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kingdido999/moefm-tray.git"
-    },
+    "repository": "https://github.com/kingdido999/moefm-tray",
     "keywords": [
       "moefm",
       "萌否电台",
@@ -78,10 +75,12 @@
     ],
     "author": "Pengcheng Ding",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kingdido999/moefm-tray/issues"
-    },
-    "homepage": "https://github.com/kingdido999/moefm-tray#readme"
+    "homepage": "https://github.com/kingdido999/moefm-tray#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kingdido999/moefm-tray/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/kingdido999/moefm-tray",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:21:06.563Z",
-  "packageLastFetchedAt": "2017-05-04T22:43:57.947Z"
+  "lastFetchedAt": "2017-10-23T22:15:03.110Z",
+  "packageLastFetchedAt": "2017-05-04T22:43:57.947Z",
+  "archived": false
 }

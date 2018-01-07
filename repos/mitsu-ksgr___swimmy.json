@@ -71,7 +71,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "swimmy",
     "productName": "Swimmy",
@@ -111,9 +111,7 @@
       "release": "npm run build && npm run zip",
       "release-with-docker": "docker run --rm -v ${PWD}:/project -v ~/.electron:/root/.electron electronuserland/electron-builder:wine /usr/local/bin/npm run release"
     },
-    "other": {
-      "author": "mitsu-ksgr <mitsu.naka.dev@gmail.com>"
-    }
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,7 +137,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:31.412Z",
+  "lastFetchedAt": "2017-10-23T23:08:21.829Z",
   "packageLastFetchedAt": "2017-05-05T14:58:07.569Z",
   "contributors": [
     "mitsu-ksgr"

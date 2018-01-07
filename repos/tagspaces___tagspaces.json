@@ -5,7 +5,7 @@
   "owner": {
     "login": "tagspaces",
     "id": 4077280,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4077280?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4077280?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tagspaces",
     "htmlUrl": "https://github.com/tagspaces",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/tagspaces/tagspaces/downloads",
   "deploymentsUrl": "https://api.github.com/repos/tagspaces/tagspaces/deployments",
   "createdAt": "2012-11-23T17:25:20.000Z",
-  "updatedAt": "2017-05-03T17:13:39.000Z",
-  "pushedAt": "2017-04-27T21:04:53.000Z",
+  "updatedAt": "2017-10-22T04:39:31.000Z",
+  "pushedAt": "2017-07-17T11:24:18.000Z",
   "gitUrl": "git://github.com/tagspaces/tagspaces.git",
   "sshUrl": "git@github.com:tagspaces/tagspaces.git",
   "cloneUrl": "https://github.com/tagspaces/tagspaces.git",
   "svnUrl": "https://github.com/tagspaces/tagspaces",
   "homepage": "https://www.tagspaces.org",
-  "size": 45820,
-  "stargazersCount": 1232,
-  "watchersCount": 1232,
+  "size": 45974,
+  "stargazersCount": 1329,
+  "watchersCount": 1329,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 174,
+  "forksCount": 192,
   "mirrorUrl": null,
-  "openIssuesCount": 63,
-  "openIssues": 63,
-  "watchers": 1232,
+  "openIssuesCount": 77,
+  "openIssues": 77,
+  "watchers": 1329,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "tagspaces",
     "id": 4077280,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4077280?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4077280?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tagspaces",
     "htmlUrl": "https://github.com/tagspaces",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/tagspaces/received_events",
     "type": "Organization"
   },
-  "networkCount": 174,
-  "subscribersCount": 88,
+  "networkCount": 192,
+  "subscribersCount": 90,
   "status": 200,
   "packageJSON": {
     "name": "tagspaces",
@@ -104,10 +104,7 @@
       "private-browsing": false
     },
     "unpack": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tagspaces/tagspaces.git"
-    },
+    "repository": "https://github.com/tagspaces/tagspaces",
     "keywords": [
       "file manager",
       "file organizer"
@@ -145,7 +142,8 @@
       "webdav": "cd data && cd web && node webdavserver.js",
       "firefoxdev": "cfx run -b ~/Apps/firefoxdev/firefox -p ../mozprofile",
       "firefox": "cfx run -p ../mozprofile --static-args='{ \"disableStrict\": true }'"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -172,6 +170,7 @@
   },
   "filename": "tagspaces___tagspaces.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:05:08.830Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:36.759Z"
+  "lastFetchedAt": "2017-10-23T22:08:08.290Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:36.759Z",
+  "archived": false
 }

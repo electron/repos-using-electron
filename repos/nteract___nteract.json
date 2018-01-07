@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -17,24 +17,24 @@
     "type": "Organization"
   },
   "private": false,
-  "description": ":notebook: Desktop notebook app + packages",
+  "description": ":blue_book: Desktop notebook app + packages",
   "fork": false,
   "createdAt": "2015-06-15T23:21:49.000Z",
-  "updatedAt": "2017-05-04T15:45:46.000Z",
-  "pushedAt": "2017-05-04T10:51:01.000Z",
+  "updatedAt": "2017-10-23T10:58:43.000Z",
+  "pushedAt": "2017-10-23T21:46:31.000Z",
   "homepage": "",
-  "size": 8988,
-  "stargazersCount": 1338,
-  "watchersCount": 1338,
+  "size": 10888,
+  "stargazersCount": 1932,
+  "watchersCount": 1932,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 155,
-  "openIssuesCount": 147,
-  "openIssues": 147,
-  "watchers": 1338,
+  "forksCount": 202,
+  "openIssuesCount": 202,
+  "openIssues": 202,
+  "watchers": 1932,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -62,18 +62,15 @@
     "receivedEventsUrl": "https://api.github.com/users/nteract/received_events",
     "type": "Organization"
   },
-  "networkCount": 155,
-  "subscribersCount": 90,
+  "networkCount": 202,
+  "subscribersCount": 122,
   "status": 200,
   "packageJSON": {
     "name": "nteract",
     "version": "0.1.0",
     "description": "Interactive literate coding notebook!",
     "main": "./lib/main/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nteract/nteract.git"
-    },
+    "repository": "https://github.com/nteract/nteract",
     "keywords": [
       "jupyter",
       "electron",
@@ -83,9 +80,6 @@
     ],
     "author": "nteract contributors",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/nteract/nteract/issues"
-    },
     "homepage": "https://github.com/nteract/nteract",
     "scripts": {
       "postinstall": "install-app-deps",
@@ -292,6 +286,11 @@
       "sinon-chai": "^2.8.0",
       "watch": "^1.0.0",
       "webpack": "^2.3.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nteract/nteract/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -339,6 +338,7 @@
   "svnUrl": "https://github.com/nteract/nteract",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:00:30.358Z",
-  "packageLastFetchedAt": "2017-05-05T17:13:54.038Z"
+  "lastFetchedAt": "2017-10-23T21:52:56.498Z",
+  "packageLastFetchedAt": "2017-05-05T17:13:54.038Z",
+  "archived": false
 }

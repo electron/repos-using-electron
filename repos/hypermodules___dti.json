@@ -5,7 +5,7 @@
   "owner": {
     "login": "hypermodules",
     "id": 16354492,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16354492?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16354492?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hypermodules",
     "htmlUrl": "https://github.com/hypermodules",
@@ -35,14 +35,14 @@
   "downloadsUrl": "https://api.github.com/repos/hypermodules/dti/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hypermodules/dti/deployments",
   "createdAt": "2016-10-25T22:25:21.000Z",
-  "updatedAt": "2017-04-30T23:18:35.000Z",
-  "pushedAt": "2017-05-01T00:27:45.000Z",
+  "updatedAt": "2017-09-25T14:23:41.000Z",
+  "pushedAt": "2017-10-20T03:29:07.000Z",
   "gitUrl": "git://github.com/hypermodules/dti.git",
   "sshUrl": "git@github.com:hypermodules/dti.git",
   "cloneUrl": "https://github.com/hypermodules/dti.git",
   "svnUrl": "https://github.com/hypermodules/dti",
   "homepage": "https://www.npmjs.com/package/dti",
-  "size": 24,
+  "size": 22,
   "stargazersCount": 28,
   "watchersCount": 28,
   "language": "JavaScript",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "hypermodules",
     "id": 16354492,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16354492?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16354492?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hypermodules",
     "htmlUrl": "https://github.com/hypermodules",
@@ -96,10 +96,7 @@
     "scripts": {
       "test": "dependency-check . && standard | snazzy"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hypermodules/dti.git"
-    },
+    "repository": "https://github.com/hypermodules/dti",
     "keywords": [
       "cli",
       "electron",
@@ -110,9 +107,6 @@
     ],
     "author": "Bret Comnes",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hypermodules/dti/issues"
-    },
     "homepage": "https://github.com/hypermodules/dti#readme",
     "dependencies": {
       "devtron": "^1.4.0",
@@ -126,6 +120,11 @@
       "dependency-check": "^2.7.0",
       "snazzy": "^7.0.0",
       "standard": "^10.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hypermodules/dti/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   "allowSquashMerge": true,
   "allowMergeCommit": true,
   "allowRebaseMerge": true,
-  "lastFetchedAt": "2017-05-04T18:23:02.646Z",
-  "packageLastFetchedAt": "2017-05-04T22:00:32.814Z"
+  "lastFetchedAt": "2017-10-24T00:07:27.709Z",
+  "packageLastFetchedAt": "2017-05-04T22:00:32.814Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sidewinder-viewer",
     "version": "0.4.0",
@@ -79,10 +79,7 @@
     "bin": {
       "sidewinder": "./bin/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/markbirbeck/sidewinder-viewer.git"
-    },
+    "repository": "https://github.com/markbirbeck/sidewinder-viewer",
     "keywords": [
       "Electron",
       "quick",
@@ -91,13 +88,15 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/markbirbeck/sidewinder-viewer/issues"
-    },
     "homepage": "https://github.com/markbirbeck/sidewinder-viewer#readme",
     "dependencies": {
       "electron": "^1.4.14",
       "minimist": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/markbirbeck/sidewinder-viewer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   },
   "filename": "markbirbeck___sidewinder-viewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:48.006Z",
+  "lastFetchedAt": "2017-10-23T23:05:09.569Z",
   "packageLastFetchedAt": "2017-05-04T22:20:47.395Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "waxmarty",
     "id": 19824700,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19824700?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19824700?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/waxmarty",
     "htmlUrl": "https://github.com/waxmarty",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/waxmarty/pingpong.git"
-    },
+    "repository": "https://github.com/waxmarty/pingpong",
     "keywords": [
       "Deadsimple",
       "Ping",
@@ -91,9 +88,6 @@
     ],
     "author": "waxmarty",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/waxmarty/pingpong/issues"
-    },
     "homepage": "https://github.com/waxmarty/pingpong#readme",
     "dependencies": {
       "alertify.js": "^1.0.11"
@@ -101,6 +95,11 @@
     "devDependencies": {
       "electron-packager": "^7.1.0",
       "electron-prebuilt": "^1.2.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/waxmarty/pingpong/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "waxmarty___pingpong.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:21:02.334Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:04.244Z"
+  "lastFetchedAt": "2017-10-23T23:12:20.433Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:04.244Z",
+  "archived": false
 }

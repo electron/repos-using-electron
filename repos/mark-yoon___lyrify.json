@@ -6,7 +6,7 @@
   "owner": {
     "login": "mark-yoon",
     "id": 4986888,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4986888?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4986888?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mark-yoon",
     "htmlUrl": "https://github.com/mark-yoon",
@@ -76,10 +76,7 @@
     "name": "lyrify",
     "version": "1.1.0",
     "description": "Display a window to display lyrics playing on Spotify",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yhyoon12/lyrify.git"
-    },
+    "repository": "https://github.com/yhyoon12/lyrify",
     "main": "main.js",
     "dependencies": {
       "node-osascript": "^1.0.4",
@@ -92,7 +89,8 @@
       "start": "electron main.js"
     },
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,7 @@
   },
   "sourceRepo": "yhyoon12/lyrify",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:01.556Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:08.992Z"
+  "lastFetchedAt": "2017-10-23T21:50:57.384Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:08.992Z",
+  "archived": false
 }

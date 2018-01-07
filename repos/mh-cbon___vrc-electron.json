@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "@mh-cbon/vrc-electron",
     "version": "1.0.0",
@@ -87,7 +87,8 @@
     "dependencies": {
       "@mh-cbon/vrc-ui": "git+https://github.com/mh-cbon/vrc-ui.git",
       "electron-prebuilt": "^0.36.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +115,6 @@
   },
   "filename": "mh-cbon___vrc-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:48.844Z",
+  "lastFetchedAt": "2017-10-23T23:08:40.828Z",
   "packageLastFetchedAt": "2017-05-05T14:31:33.627Z"
 }

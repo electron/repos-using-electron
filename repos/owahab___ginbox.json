@@ -5,7 +5,7 @@
   "owner": {
     "login": "owahab",
     "id": 125080,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/125080?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/125080?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/owahab",
     "htmlUrl": "https://github.com/owahab",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron electron.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/owahab/ginbox"
-    },
+    "repository": "https://github.com/owahab/ginbox",
     "keywords": [
       "Google",
       "Inbox",
@@ -90,12 +87,14 @@
     ],
     "author": "Omar Abdel-Wahab",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/owahab/ginbox/issues"
-    },
     "homepage": "https://github.com/owahab/ginbox#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/owahab/ginbox/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "filename": "owahab___ginbox.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:56:25.446Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:23.278Z"
+  "lastFetchedAt": "2017-10-24T00:19:40.701Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:23.278Z",
+  "archived": false
 }

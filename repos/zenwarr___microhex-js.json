@@ -5,7 +5,7 @@
   "owner": {
     "login": "zenwarr",
     "id": 1969391,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1969391?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1969391?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zenwarr",
     "htmlUrl": "https://github.com/zenwarr",
@@ -69,10 +69,7 @@
     "name": "microhex-js",
     "version": "0.0.1",
     "main": "./build/app.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zenwarr/microhex-js"
-    },
+    "repository": "https://github.com/zenwarr/microhex-js",
     "license": "MIT",
     "description": "Crossplatform hex editor intended mainly for reverse-engineering and data analysis",
     "keywords": [
@@ -130,7 +127,8 @@
       "test": "mocha ./build/test/ --recursive",
       "build-and-test": "npm run build-tests && npm test",
       "build-dev-styles": "node-sass src/styles/style.scss build/styles/style.css"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -157,6 +155,7 @@
   },
   "filename": "zenwarr___microhex-js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:00.827Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:28.895Z"
+  "lastFetchedAt": "2017-10-24T00:09:44.446Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:28.895Z",
+  "archived": false
 }

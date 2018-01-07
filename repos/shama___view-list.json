@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 3,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "view-list",
     "version": "2.1.0",
@@ -57,10 +57,7 @@
     },
     "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:shama/view-list.git"
-    },
+    "repository": "https://github.com/shama/view-list",
     "files": [
       "index.js"
     ],
@@ -80,7 +77,8 @@
       "testron": "^1.2.0",
       "through2": "^0.6.5",
       "virtual-dom": "^2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,6 @@
   "svnUrl": "https://github.com/shama/view-list",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:00:51.976Z",
+  "lastFetchedAt": "2017-10-23T22:59:11.088Z",
   "packageLastFetchedAt": "2017-05-04T22:44:08.835Z"
 }

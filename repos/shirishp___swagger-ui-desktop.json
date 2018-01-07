@@ -5,7 +5,7 @@
   "owner": {
     "login": "shirishp",
     "id": 328026,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/328026?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/328026?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shirishp",
     "htmlUrl": "https://github.com/shirishp",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 4,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shirishp/swagger-ui-desktop.git"
-    },
+    "repository": "https://github.com/shirishp/swagger-ui-desktop",
     "keywords": [
       "swagger",
       "swagger-ui",
@@ -71,12 +68,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/shirishp/swagger-ui-desktop/issues"
-    },
     "homepage": "https://github.com/shirishp/swagger-ui-desktop",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shirishp/swagger-ui-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/shirishp/swagger-ui-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:02:38.626Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:27.033Z"
+  "lastFetchedAt": "2017-10-23T22:55:36.882Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:27.033Z",
+  "archived": false
 }

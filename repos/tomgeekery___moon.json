@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "moon",
     "version": "1.0.0",
@@ -79,16 +79,14 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tomgeekery/moon.git"
-    },
+    "repository": "https://github.com/tomgeekery/moon",
     "author": "tomgeekery",
     "devDependencies": {
       "electron": "^1.4.1",
       "electron-settings": "^2.2.2",
       "request": "^2.75.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,6 @@
   },
   "filename": "tomgeekery___moon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:05.243Z",
+  "lastFetchedAt": "2017-10-23T23:07:53.836Z",
   "packageLastFetchedAt": "2017-05-04T21:56:39.255Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "archives-of-k4zzk",
     "id": 17554458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17554458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17554458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/archives-of-k4zzk",
     "htmlUrl": "https://github.com/archives-of-k4zzk",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "archives-of-k4zzk",
     "id": 17554458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17554458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17554458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/archives-of-k4zzk",
     "htmlUrl": "https://github.com/archives-of-k4zzk",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "hirokidaichi",
       "id": 95184,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/95184?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/95184?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/hirokidaichi",
       "htmlUrl": "https://github.com/hirokidaichi",
@@ -93,7 +93,7 @@
     "downloadsUrl": "https://api.github.com/repos/hirokidaichi/guiflow/downloads",
     "deploymentsUrl": "https://api.github.com/repos/hirokidaichi/guiflow/deployments",
     "createdAt": "2016-03-03T12:30:21.000Z",
-    "updatedAt": "2017-05-02T15:20:38.000Z",
+    "updatedAt": "2017-10-23T11:31:58.000Z",
     "pushedAt": "2017-04-03T06:03:06.000Z",
     "gitUrl": "git://github.com/hirokidaichi/guiflow.git",
     "sshUrl": "git@github.com:hirokidaichi/guiflow.git",
@@ -101,19 +101,20 @@
     "svnUrl": "https://github.com/hirokidaichi/guiflow",
     "homepage": null,
     "size": 134888,
-    "stargazersCount": 413,
-    "watchersCount": 413,
+    "stargazersCount": 474,
+    "watchersCount": 474,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 46,
+    "forksCount": 49,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 8,
     "openIssues": 8,
-    "watchers": 413,
+    "watchers": 474,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "hirokidaichi",
       "id": 95184,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/95184?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/95184?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/hirokidaichi",
       "htmlUrl": "https://github.com/hirokidaichi",
@@ -153,7 +154,7 @@
     "downloadsUrl": "https://api.github.com/repos/hirokidaichi/guiflow/downloads",
     "deploymentsUrl": "https://api.github.com/repos/hirokidaichi/guiflow/deployments",
     "createdAt": "2016-03-03T12:30:21.000Z",
-    "updatedAt": "2017-05-02T15:20:38.000Z",
+    "updatedAt": "2017-10-23T11:31:58.000Z",
     "pushedAt": "2017-04-03T06:03:06.000Z",
     "gitUrl": "git://github.com/hirokidaichi/guiflow.git",
     "sshUrl": "git@github.com:hirokidaichi/guiflow.git",
@@ -161,22 +162,23 @@
     "svnUrl": "https://github.com/hirokidaichi/guiflow",
     "homepage": null,
     "size": 134888,
-    "stargazersCount": 413,
-    "watchersCount": 413,
+    "stargazersCount": 474,
+    "watchersCount": 474,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 46,
+    "forksCount": 49,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 8,
     "openIssues": 8,
-    "watchers": 413,
+    "watchers": 474,
     "defaultBranch": "master"
   },
-  "networkCount": 46,
+  "networkCount": 49,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -189,15 +191,9 @@
       "clean": "$(npm bin)/gulp clean",
       "package": "$(npm bin)/gulp package"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hirokidaichi/guiflow.git"
-    },
+    "repository": "https://github.com/hirokidaichi/guiflow",
     "author": "hirokidaichi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hirokidaichi/guiflow/issues"
-    },
     "homepage": "https://github.com/hirokidaichi/guiflow",
     "dependencies": {
       "dialogs": "^1.1.12",
@@ -213,6 +209,11 @@
       "electron-prebuilt": "^0.36.9",
       "gulp": "^3.9.1",
       "gulp-zip": "^3.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hirokidaichi/guiflow/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -261,6 +262,7 @@
   "filename": "archives-of-k4zzk___guiflow.json",
   "sourceRepo": "hirokidaichi/guiflow",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:30:56.788Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:19.913Z"
+  "lastFetchedAt": "2017-10-23T22:14:22.161Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:19.913Z",
+  "archived": false
 }

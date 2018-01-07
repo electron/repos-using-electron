@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mjs-authoring",
     "version": "0.0.1",
@@ -101,10 +101,7 @@
       "node": "6.2.1",
       "npm": "3.9.3"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/MappedJS/mjs-authoring.git"
-    },
+    "repository": "https://github.com/MappedJS/mjs-authoring",
     "keywords": [
       "map",
       "authoring",
@@ -158,7 +155,8 @@
       "win": {
         "iconUrl": "https://raw.githubusercontent.com/MappedJS/mjs-material/master/icon.ico"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -185,6 +183,6 @@
   },
   "filename": "MappedJS___mjs-authoring.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:44.068Z",
+  "lastFetchedAt": "2017-10-23T23:07:07.584Z",
   "packageLastFetchedAt": "2017-05-04T22:29:36.563Z"
 }

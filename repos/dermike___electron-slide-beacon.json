@@ -5,7 +5,7 @@
   "owner": {
     "login": "dermike",
     "id": 4582134,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4582134?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4582134?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dermike",
     "htmlUrl": "https://github.com/dermike",
@@ -20,21 +20,21 @@
   "description": "Share links from your Mac using this app to broadcast them as a Physical Web Eddystone URL bluetooth beacon or mDNS.",
   "fork": false,
   "createdAt": "2015-09-24T10:25:30.000Z",
-  "updatedAt": "2017-04-26T17:38:27.000Z",
-  "pushedAt": "2017-02-02T19:41:12.000Z",
+  "updatedAt": "2017-10-01T04:44:46.000Z",
+  "pushedAt": "2017-10-03T16:28:37.000Z",
   "homepage": "",
   "size": 1244,
-  "stargazersCount": 97,
-  "watchersCount": 97,
+  "stargazersCount": 109,
+  "watchersCount": 109,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 97,
+  "forksCount": 6,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 109,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 4,
+  "networkCount": 6,
   "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
@@ -61,10 +61,7 @@
       "electron": "node ./node_modules/electron/cli.js .",
       "rebuild": "node ./node_modules/.bin/electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/dermike/slide-beacon-app.git"
-    },
+    "repository": "https://github.com/dermike/slide-beacon-app",
     "keywords": [
       "electron"
     ],
@@ -79,7 +76,8 @@
       "mdns": "2.3.3",
       "eddystone-beacon": "1.0.7",
       "ws": "2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/dermike/slide-beacon-app",
@@ -126,6 +124,7 @@
   },
   "filename": "dermike___electron-slide-beacon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:07:25.843Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:14.655Z"
+  "lastFetchedAt": "2017-10-23T21:42:47.968Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:14.655Z",
+  "archived": false
 }

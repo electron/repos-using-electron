@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "jstop",
     "version": "1.0.0",
@@ -80,16 +80,15 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "dev": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zhangzju/jstop.git"
-    },
+    "repository": "https://github.com/zhangzju/jstop",
     "author": "zhangzju",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/zhangzju/jstop/issues"
-    },
-    "homepage": "https://github.com/zhangzju/jstop#readme"
+    "homepage": "https://github.com/zhangzju/jstop#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zhangzju/jstop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -116,6 +115,6 @@
   },
   "filename": "zhangzju___jstop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:50.994Z",
+  "lastFetchedAt": "2017-10-23T22:59:51.596Z",
   "packageLastFetchedAt": "2017-05-05T17:05:54.608Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "RyanOC",
     "id": 270398,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/270398?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/270398?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RyanOC",
     "htmlUrl": "https://github.com/RyanOC",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,15 +88,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
     },
     "dependencies": {
       "serialport": "^3.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "filename": "RyanOC___electron-espruino.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:30:08.516Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:11.538Z"
+  "lastFetchedAt": "2017-10-23T22:16:23.536Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:11.538Z",
+  "archived": false
 }

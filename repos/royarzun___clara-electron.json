@@ -5,7 +5,7 @@
   "owner": {
     "login": "royarzun",
     "id": 213289,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/213289?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/213289?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/royarzun",
     "htmlUrl": "https://github.com/royarzun",
@@ -75,10 +75,7 @@
       "test": "mocha tests && npm run lint",
       "postinstall": "electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/royarzun/clara-electron.git"
-    },
+    "repository": "https://github.com/royarzun/clara-electron",
     "keywords": [
       "clara",
       "electron",
@@ -90,9 +87,6 @@
     ],
     "author": "Ricardo Oyarzun",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/royarzun/clara-electron/issues"
-    },
     "homepage": "https://github.com/royarzun/clara-electron#readme",
     "devDependencies": {
       "bootstrap": "^3.3.7",
@@ -112,6 +106,11 @@
     "standard": {
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/royarzun/clara-electron/issues"
       }
     }
   },
@@ -140,6 +139,7 @@
   },
   "filename": "royarzun___clara-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:18:41.637Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:11.013Z"
+  "lastFetchedAt": "2017-10-23T23:44:34.181Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:11.013Z",
+  "archived": false
 }

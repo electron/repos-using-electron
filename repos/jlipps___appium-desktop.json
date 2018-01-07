@@ -5,7 +5,7 @@
   "owner": {
     "login": "jlipps",
     "id": 605053,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/605053?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/605053?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jlipps",
     "htmlUrl": "https://github.com/jlipps",
@@ -21,9 +21,9 @@
   "fork": true,
   "createdAt": "2016-07-18T00:08:07.000Z",
   "updatedAt": "2016-07-18T01:05:17.000Z",
-  "pushedAt": "2017-04-12T17:02:43.000Z",
+  "pushedAt": "2017-08-25T00:50:02.000Z",
   "homepage": null,
-  "size": 2955,
+  "size": 3693,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "appium",
       "id": 3221291,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3221291?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3221291?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/appium",
       "htmlUrl": "https://github.com/appium",
@@ -85,27 +85,28 @@
     "downloadsUrl": "https://api.github.com/repos/appium/appium-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/appium/appium-desktop/deployments",
     "createdAt": "2016-07-18T00:08:00.000Z",
-    "updatedAt": "2017-05-04T13:14:09.000Z",
-    "pushedAt": "2017-05-02T18:11:47.000Z",
+    "updatedAt": "2017-10-24T01:51:30.000Z",
+    "pushedAt": "2017-10-23T21:56:11.000Z",
     "gitUrl": "git://github.com/appium/appium-desktop.git",
     "sshUrl": "git@github.com:appium/appium-desktop.git",
     "cloneUrl": "https://github.com/appium/appium-desktop.git",
     "svnUrl": "https://github.com/appium/appium-desktop",
     "homepage": null,
-    "size": 2955,
-    "stargazersCount": 182,
-    "watchersCount": 182,
+    "size": 3735,
+    "stargazersCount": 430,
+    "watchersCount": 430,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 43,
+    "forksCount": 122,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 27,
     "openIssues": 27,
-    "watchers": 182,
+    "watchers": 430,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "appium",
       "id": 3221291,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/3221291?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/3221291?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/appium",
       "htmlUrl": "https://github.com/appium",
@@ -145,49 +146,44 @@
     "downloadsUrl": "https://api.github.com/repos/appium/appium-desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/appium/appium-desktop/deployments",
     "createdAt": "2016-07-18T00:08:00.000Z",
-    "updatedAt": "2017-05-04T13:14:09.000Z",
-    "pushedAt": "2017-05-02T18:11:47.000Z",
+    "updatedAt": "2017-10-24T01:51:30.000Z",
+    "pushedAt": "2017-10-23T21:56:11.000Z",
     "gitUrl": "git://github.com/appium/appium-desktop.git",
     "sshUrl": "git@github.com:appium/appium-desktop.git",
     "cloneUrl": "https://github.com/appium/appium-desktop.git",
     "svnUrl": "https://github.com/appium/appium-desktop",
     "homepage": null,
-    "size": 2955,
-    "stargazersCount": 182,
-    "watchersCount": 182,
+    "size": 3735,
+    "stargazersCount": 430,
+    "watchersCount": 430,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 43,
+    "forksCount": 122,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 27,
     "openIssues": 27,
-    "watchers": 182,
+    "watchers": 430,
     "defaultBranch": "master"
   },
-  "networkCount": 43,
+  "networkCount": 122,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "appium-desktop",
     "version": "1.0.0",
     "description": "Graphical interface for the Appium server, and an app inspector",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/appium/appium-desktop.git"
-    },
+    "repository": "https://github.com/appium/appium-desktop",
     "author": {
       "name": "Appium Developers",
       "email": "",
       "url": "https://github.com/appium"
     },
     "license": "APACHE2",
-    "bugs": {
-      "url": "https://github.com/appium/appium-desktop/issues"
-    },
     "keywords": [
       "appium"
     ],
@@ -351,6 +347,11 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/appium/appium-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -399,6 +400,7 @@
   "svnUrl": "https://github.com/jlipps/appium-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:38:05.451Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:08.900Z"
+  "lastFetchedAt": "2017-10-24T02:04:37.001Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:08.900Z",
+  "archived": false
 }

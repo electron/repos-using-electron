@@ -5,7 +5,7 @@
   "owner": {
     "login": "dcrousso",
     "id": 4356609,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4356609?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4356609?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dcrousso",
     "htmlUrl": "https://github.com/dcrousso",
@@ -20,21 +20,21 @@
   "description": "Unofficial GroupMe App",
   "fork": false,
   "createdAt": "2016-08-15T17:38:45.000Z",
-  "updatedAt": "2017-05-02T01:06:54.000Z",
+  "updatedAt": "2017-10-18T01:43:03.000Z",
   "pushedAt": "2017-03-24T02:58:57.000Z",
   "homepage": null,
   "size": 387,
-  "stargazersCount": 24,
-  "watchersCount": 24,
+  "stargazersCount": 36,
+  "watchersCount": 36,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 4,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 24,
+  "watchers": 36,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
-  "subscribersCount": 1,
+  "networkCount": 4,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "GroupMe",
@@ -63,10 +63,7 @@
       "build-win32": "electron-packager --platform=win32  --arch=ia32 --icon=assets/Icon.ico  --app-bundle-id=com.dcrousso.GroupMe                  --app-version=$npm_package_version --overwrite --asar --out=dist --ignore=\"^/dist$\" --ignore=\"^/media$\" --prune .",
       "build-linux": "electron-packager --platform=linux  --arch=x64  --icon=assets/Icon.icns --version-string.ProductName=$npm_package_productName --app-version=$npm_package_version --overwrite --asar --out=dist --ignore=\"^/dist$\" --ignore=\"^/media$\" --prune ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dcrousso/GroupMe.git"
-    },
+    "repository": "https://github.com/dcrousso/GroupMe",
     "keywords": [
       "GroupMe",
       "chat",
@@ -79,9 +76,6 @@
       "url": "http://devinrousso.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dcrousso/GroupMe/issues"
-    },
     "homepage": "https://github.com/dcrousso/GroupMe#readme",
     "devDependencies": {
       "electron": "^1.4.14",
@@ -90,6 +84,11 @@
     "dependencies": {
       "electron-debug": "^1.1.0",
       "electron-dl": "^1.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dcrousso/GroupMe/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "dcrousso___GroupMe.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:19.691Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:26.418Z"
+  "lastFetchedAt": "2017-10-24T02:03:53.395Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:26.418Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jackyjieliu",
     "id": 3122587,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3122587?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3122587?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jackyjieliu",
     "htmlUrl": "https://github.com/jackyjieliu",
@@ -74,19 +74,13 @@
       "start": "electron .",
       "buildmac": "electron-packager . PokeNurse --platform=darwin --arch=x64 --icon=imgs/emojioneicon.icns --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/duhminick/PokeNurse.git"
-    },
+    "repository": "https://github.com/duhminick/PokeNurse",
     "keywords": [
       "pokemon",
       "go"
     ],
     "author": "duhminick",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/duhminick/PokeNurse/issues"
-    },
     "homepage": "https://github.com/duhminick/PokeNurse#readme",
     "devDependencies": {
       "electron-packager": "^7.3.0",
@@ -98,6 +92,11 @@
       "long": "^3.2.0",
       "node-pogo-protos": "^1.1.1",
       "pogobuf": "^1.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/duhminick/PokeNurse/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "filename": "jackyjieliu___PokeNurseClassicUI.json",
   "sourceRepo": "vinnymac/PokeNurse",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:17.728Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:52.208Z"
+  "lastFetchedAt": "2017-10-23T22:11:50.541Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:52.208Z",
+  "archived": false
 }

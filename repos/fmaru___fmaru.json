@@ -5,7 +5,7 @@
   "owner": {
     "login": "fmaru",
     "id": 19281865,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19281865?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19281865?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fmaru",
     "htmlUrl": "https://github.com/fmaru",
@@ -20,21 +20,21 @@
   "description": "free marumaru 혹은 fuck marumaru",
   "fork": false,
   "createdAt": "2016-05-10T08:12:23.000Z",
-  "updatedAt": "2017-01-06T00:36:39.000Z",
+  "updatedAt": "2017-08-06T03:23:44.000Z",
   "pushedAt": "2016-06-05T04:35:20.000Z",
   "homepage": null,
   "size": 776,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 1,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 9,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 2,
+  "networkCount": 1,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -56,15 +56,9 @@
       "build_electron": "gulp build_electron; cd app; npm install; cd ..; ./node_modules/.bin/build -d",
       "build_electron:win": "gulp build_electron && cd app && npm install && cd .. && .\\node_modules\\.bin\\build --arch ia32"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fmaru/fmaru.git"
-    },
+    "repository": "https://github.com/fmaru/fmaru",
     "author": "fmaru",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fmaru/fmaru/issues"
-    },
     "homepage": "https://github.com/fmaru/fmaru",
     "dependencies": {
       "apicache": "0.0.14",
@@ -108,6 +102,11 @@
     "build": {
       "app-bundle-id": "org.fmaru.fmaru",
       "app-category-type": "public.app-category.entertainment"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fmaru/fmaru/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   "svnUrl": "https://github.com/fmaru/fmaru",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T04:58:29.704Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:32.725Z"
+  "lastFetchedAt": "2017-10-24T00:05:32.444Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:32.725Z",
+  "archived": false
 }

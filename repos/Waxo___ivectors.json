@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ivectors",
     "version": "2.0.0",
@@ -109,7 +109,8 @@
       "test": "mocha",
       "clear-project": "rm -rf layers .nyc_output coverage *.csv",
       "start": "node ivectors.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -156,6 +157,6 @@
   "svnUrl": "https://github.com/Waxo/ivectors",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:42:53.296Z",
+  "lastFetchedAt": "2017-10-23T22:58:12.338Z",
   "packageLastFetchedAt": "2017-05-05T15:28:28.102Z"
 }

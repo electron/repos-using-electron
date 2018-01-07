@@ -5,7 +5,7 @@
   "owner": {
     "login": "phreakradio",
     "id": 6295226,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6295226?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6295226?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/phreakradio",
     "htmlUrl": "https://github.com/phreakradio",
@@ -74,10 +74,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/phreakradio/Fire-Saga.git"
-    },
+    "repository": "https://github.com/phreakradio/Fire-Saga",
     "keywords": [
       "fire",
       "emblem",
@@ -86,13 +83,15 @@
     ],
     "author": "phreakradio",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/phreakradio/Fire-Saga/issues"
-    },
     "devDependencies": {
       "electron": "^1.4.4"
     },
-    "homepage": "https://github.com/phreakradio/Fire-Saga#readme"
+    "homepage": "https://github.com/phreakradio/Fire-Saga#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/phreakradio/Fire-Saga/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +118,7 @@
   },
   "filename": "phreakradio___Fire-Saga.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:47.814Z",
-  "packageLastFetchedAt": "2017-05-05T15:00:23.812Z"
+  "lastFetchedAt": "2017-10-23T22:13:53.052Z",
+  "packageLastFetchedAt": "2017-05-05T15:00:23.812Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "cnandreu",
     "id": 532119,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/532119?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/532119?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cnandreu",
     "htmlUrl": "https://github.com/cnandreu",
@@ -81,18 +81,12 @@
       "build": "npm run lint && electron-packager . AnimeOpenings --app-version=1.0.0 --platform=darwin --arch=x64 --out=build --overwrite=true --icon=./assets/icon.icns",
       "lint": "standard --verbose | snazzy"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cnandreu/animeopenings.git"
-    },
+    "repository": "https://github.com/cnandreu/animeopenings",
     "keywords": [
       "Anime"
     ],
     "author": "Carlos Andreu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cnandreu/animeopenings/issues"
-    },
     "homepage": "https://github.com/cnandreu/animeopenings#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -100,6 +94,11 @@
       "electron-window-state": "^2.0.0",
       "snazzy": "^2.0.1",
       "standard": "^5.4.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/cnandreu/animeopenings/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "cnandreu___animeopenings.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:51:09.875Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:13.183Z"
+  "lastFetchedAt": "2017-10-24T00:15:33.238Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:13.183Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "JCRamires",
     "id": 223436,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/223436?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/223436?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JCRamires",
     "htmlUrl": "https://github.com/JCRamires",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,9 +68,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -82,6 +76,11 @@
       "bootstrap": "^3.3.6",
       "jquery": "^2.2.1",
       "nedb": "^1.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "svnUrl": "https://github.com/JCRamires/electron-test",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:23:20.802Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:15.517Z"
+  "lastFetchedAt": "2017-10-24T00:13:21.190Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:15.517Z",
+  "archived": false
 }

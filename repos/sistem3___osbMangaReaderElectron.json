@@ -5,7 +5,7 @@
   "owner": {
     "login": "sistem3",
     "id": 3606099,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3606099?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3606099?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sistem3",
     "htmlUrl": "https://github.com/sistem3",
@@ -81,10 +81,7 @@
       "watch": "rm -rf build && mkdir build && tsc -p src -w",
       "build": "rm -rf build && mkdir build && tsc -p src || true"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "Angular",
@@ -113,7 +110,8 @@
       "ts-loader": "^0.8.2",
       "swiper": "3.3.1",
       "osb-manga-reader": "https://github.com/sistem3/osbMangaReaderNg2.git"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +138,7 @@
   },
   "filename": "sistem3___osbMangaReaderElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:12.168Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:48.568Z"
+  "lastFetchedAt": "2017-10-23T23:34:52.264Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:48.568Z",
+  "archived": false
 }

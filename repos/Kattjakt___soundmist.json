@@ -5,7 +5,7 @@
   "owner": {
     "login": "Kattjakt",
     "id": 1348930,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1348930?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1348930?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Kattjakt",
     "htmlUrl": "https://github.com/Kattjakt",
@@ -63,10 +63,7 @@
       "watch-windows": "gulp start && START /MIN npm run electron && gulp watch",
       "build": "gulp start && electron-packager .tmp Soundmist --out=dist --prune --asar --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kattjakt/soundmist.git"
-    },
+    "repository": "https://github.com/kattjakt/soundmist",
     "author": "GitHub",
     "license": "CC0-1.0",
     "devDependencies": {
@@ -91,7 +88,8 @@
       "gulp-sym": "0.0.14",
       "gulp-util": "^3.0.7",
       "request": "^2.72.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +137,7 @@
   "svnUrl": "https://github.com/Kattjakt/soundmist",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:16:34.468Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:36.041Z"
+  "lastFetchedAt": "2017-10-23T21:52:29.880Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:36.041Z",
+  "archived": false
 }

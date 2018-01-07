@@ -1,46 +1,46 @@
 {
   "id": 66430206,
   "name": "ATWC",
-  "fullName": "veronicachen0912/ATWC",
+  "fullName": "hcch0912/ATWC",
   "owner": {
-    "login": "veronicachen0912",
+    "login": "hcch0912",
     "id": 18129301,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18129301?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18129301?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/veronicachen0912",
-    "htmlUrl": "https://github.com/veronicachen0912",
-    "followersUrl": "https://api.github.com/users/veronicachen0912/followers",
-    "subscriptionsUrl": "https://api.github.com/users/veronicachen0912/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/veronicachen0912/orgs",
-    "reposUrl": "https://api.github.com/users/veronicachen0912/repos",
-    "receivedEventsUrl": "https://api.github.com/users/veronicachen0912/received_events",
+    "url": "https://api.github.com/users/hcch0912",
+    "htmlUrl": "https://github.com/hcch0912",
+    "followersUrl": "https://api.github.com/users/hcch0912/followers",
+    "subscriptionsUrl": "https://api.github.com/users/hcch0912/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/hcch0912/orgs",
+    "reposUrl": "https://api.github.com/users/hcch0912/repos",
+    "receivedEventsUrl": "https://api.github.com/users/hcch0912/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/veronicachen0912/ATWC",
+  "htmlUrl": "https://github.com/hcch0912/ATWC",
   "description": null,
   "fork": false,
-  "url": "https://api.github.com/repos/veronicachen0912/ATWC",
-  "forksUrl": "https://api.github.com/repos/veronicachen0912/ATWC/forks",
-  "teamsUrl": "https://api.github.com/repos/veronicachen0912/ATWC/teams",
-  "hooksUrl": "https://api.github.com/repos/veronicachen0912/ATWC/hooks",
-  "eventsUrl": "https://api.github.com/repos/veronicachen0912/ATWC/events",
-  "tagsUrl": "https://api.github.com/repos/veronicachen0912/ATWC/tags",
-  "languagesUrl": "https://api.github.com/repos/veronicachen0912/ATWC/languages",
-  "stargazersUrl": "https://api.github.com/repos/veronicachen0912/ATWC/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/veronicachen0912/ATWC/contributors",
-  "subscribersUrl": "https://api.github.com/repos/veronicachen0912/ATWC/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/veronicachen0912/ATWC/subscription",
-  "mergesUrl": "https://api.github.com/repos/veronicachen0912/ATWC/merges",
-  "downloadsUrl": "https://api.github.com/repos/veronicachen0912/ATWC/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/veronicachen0912/ATWC/deployments",
+  "url": "https://api.github.com/repos/hcch0912/ATWC",
+  "forksUrl": "https://api.github.com/repos/hcch0912/ATWC/forks",
+  "teamsUrl": "https://api.github.com/repos/hcch0912/ATWC/teams",
+  "hooksUrl": "https://api.github.com/repos/hcch0912/ATWC/hooks",
+  "eventsUrl": "https://api.github.com/repos/hcch0912/ATWC/events",
+  "tagsUrl": "https://api.github.com/repos/hcch0912/ATWC/tags",
+  "languagesUrl": "https://api.github.com/repos/hcch0912/ATWC/languages",
+  "stargazersUrl": "https://api.github.com/repos/hcch0912/ATWC/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/hcch0912/ATWC/contributors",
+  "subscribersUrl": "https://api.github.com/repos/hcch0912/ATWC/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/hcch0912/ATWC/subscription",
+  "mergesUrl": "https://api.github.com/repos/hcch0912/ATWC/merges",
+  "downloadsUrl": "https://api.github.com/repos/hcch0912/ATWC/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/hcch0912/ATWC/deployments",
   "createdAt": "2016-08-24T04:37:23.000Z",
   "updatedAt": "2016-08-24T04:42:31.000Z",
   "pushedAt": "2016-08-24T04:43:04.000Z",
-  "gitUrl": "git://github.com/veronicachen0912/ATWC.git",
-  "sshUrl": "git@github.com:veronicachen0912/ATWC.git",
-  "cloneUrl": "https://github.com/veronicachen0912/ATWC.git",
-  "svnUrl": "https://github.com/veronicachen0912/ATWC",
+  "gitUrl": "git://github.com/hcch0912/ATWC.git",
+  "sshUrl": "git@github.com:hcch0912/ATWC.git",
+  "cloneUrl": "https://github.com/hcch0912/ATWC.git",
+  "svnUrl": "https://github.com/hcch0912/ATWC",
   "homepage": null,
   "size": 7793,
   "stargazersCount": 0,
@@ -76,19 +76,13 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/christiannwamba/scotch-player.git"
-    },
+    "repository": "https://github.com/christiannwamba/scotch-player",
     "keywords": [
       "react",
       "music"
     ],
     "author": "Christian Nwamba",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/christiannwamba/scotch-player/issues"
-    },
     "homepage": "https://github.com/christiannwamba/scotch-player#readme",
     "dependencies": {
       "axios": "^0.9.1",
@@ -106,6 +100,11 @@
       "react": "^0.14.8",
       "react-dom": "^0.14.7",
       "selenium-standalone": "^5.5.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/christiannwamba/scotch-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "veronicachen0912___ATWC.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:09.967Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:42.322Z"
+  "lastFetchedAt": "2017-10-23T23:37:21.853Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:42.322Z",
+  "archived": false
 }

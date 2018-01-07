@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "halp",
     "version": "0.0.1",
@@ -80,12 +80,10 @@
     "scripts": {
       "app": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/notwaldorf/is-mu-an-asleep.git"
-    },
+    "repository": "https://github.com/notwaldorf/is-mu-an-asleep",
     "author": "Monica Dinculescu <noms@google.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +110,6 @@
   },
   "filename": "jinankjain___is-mom-asleep.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:42.236Z",
+  "lastFetchedAt": "2017-10-24T00:11:16.929Z",
   "packageLastFetchedAt": "2017-05-05T14:46:31.772Z"
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dragon-go-electron",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron dist/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/blamarche/dragon-go-electron.git"
-    },
+    "repository": "https://github.com/blamarche/dragon-go-electron",
     "keywords": [
       "Electron",
       "react",
@@ -108,7 +105,8 @@
       "systemjs": "^0.19.27",
       "electron-config": "^0.2.1",
       "electron-toaster": "^2.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,6 @@
   },
   "filename": "blamarche___dragon-go-desktop-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:41.230Z",
+  "lastFetchedAt": "2017-10-24T00:10:46.642Z",
   "packageLastFetchedAt": "2017-05-04T22:48:53.468Z"
 }

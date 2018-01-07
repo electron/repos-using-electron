@@ -5,7 +5,7 @@
   "owner": {
     "login": "mzapi",
     "id": 18709904,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18709904?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18709904?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mzapi",
     "htmlUrl": "https://github.com/mzapi",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "mzapi",
     "id": 18709904,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18709904?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18709904?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mzapi",
     "htmlUrl": "https://github.com/mzapi",
@@ -84,10 +84,6 @@
     "version": "0.0.1",
     "description": "GM Buddy is an application that easily facilitates customer support on Mangos Zero private servers.",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -169,7 +165,13 @@
         "InternalName": null
       }
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -197,6 +199,7 @@
   "filename": "mzapi___switchboard.json",
   "sourceRepo": "JoshuaTyree/gm-buddy",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:40.094Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:59.190Z"
+  "lastFetchedAt": "2017-10-23T21:50:23.627Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:59.190Z",
+  "archived": false
 }

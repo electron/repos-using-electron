@@ -84,7 +84,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dabblewriter",
     "description": "A tool for crafting story",
@@ -100,10 +100,7 @@
       "tdd": "karma start"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dabblewriter/dabblewriter.git"
-    },
+    "repository": "https://github.com/dabblewriter/dabblewriter",
     "build": {
       "appId": "com.dabblewriter.dabble",
       "productName": "Dabble",
@@ -171,7 +168,8 @@
       "less-brunch": "^2.10.0",
       "mocha": "^3.3.0",
       "phantomjs-prebuilt": "^2.1.14"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -198,6 +196,6 @@
   },
   "filename": "dabblewriter___dabble.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:58:34.371Z",
+  "lastFetchedAt": "2017-10-23T21:42:52.207Z",
   "packageLastFetchedAt": "2017-05-05T17:02:43.271Z"
 }

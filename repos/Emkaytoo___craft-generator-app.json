@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "craft-generator-app",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "None"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Emkaytoo/craft-generator-app"
-    },
+    "repository": "https://github.com/Emkaytoo/craft-generator-app",
     "keywords": [
       "CraftCMS"
     ],
@@ -90,7 +87,8 @@
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^1.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +115,6 @@
   },
   "filename": "Emkaytoo___craft-generator-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:16.869Z",
+  "lastFetchedAt": "2017-10-23T23:03:39.582Z",
   "packageLastFetchedAt": "2017-05-05T14:29:46.537Z"
 }

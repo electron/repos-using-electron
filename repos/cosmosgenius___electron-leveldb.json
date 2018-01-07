@@ -5,7 +5,7 @@
   "owner": {
     "login": "cosmosgenius",
     "id": 1056039,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1056039?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1056039?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cosmosgenius",
     "htmlUrl": "https://github.com/cosmosgenius",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/cosmosgenius/electron-leveldb/downloads",
   "deploymentsUrl": "https://api.github.com/repos/cosmosgenius/electron-leveldb/deployments",
   "createdAt": "2016-08-17T00:07:20.000Z",
-  "updatedAt": "2016-08-17T00:34:33.000Z",
+  "updatedAt": "2017-07-04T10:26:58.000Z",
   "pushedAt": "2017-02-07T10:46:02.000Z",
   "gitUrl": "git://github.com/cosmosgenius/electron-leveldb.git",
   "sshUrl": "git@github.com:cosmosgenius/electron-leveldb.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/cosmosgenius/electron-leveldb",
   "homepage": null,
   "size": 4,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -81,15 +81,9 @@
       "start": "electron app",
       "postinstall": "install-app-deps"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cosmosgenius/electron-leveldb.git"
-    },
+    "repository": "https://github.com/cosmosgenius/electron-leveldb",
     "author": "Sharat M R",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cosmosgenius/electron-leveldb/issues"
-    },
     "homepage": "https://github.com/cosmosgenius/electron-leveldb#readme",
     "devDependencies": {
       "electron-builder": "^5.26.0",
@@ -99,6 +93,11 @@
       "appId": "com.cosmosgenius.sampleelectronleveldb",
       "app-category-type": "public.app-category.developer-tools",
       "asar": false
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/cosmosgenius/electron-leveldb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "cosmosgenius___electron-leveldb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:01.245Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:54.469Z"
+  "lastFetchedAt": "2017-10-23T22:53:15.371Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:54.469Z",
+  "archived": false
 }

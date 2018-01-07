@@ -5,7 +5,7 @@
   "owner": {
     "login": "linkFly6",
     "id": 6982402,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6982402?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6982402?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/linkFly6",
     "htmlUrl": "https://github.com/linkFly6",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/linkFly6/moles/downloads",
   "deploymentsUrl": "https://api.github.com/repos/linkFly6/moles/deployments",
   "createdAt": "2016-04-13T03:19:50.000Z",
-  "updatedAt": "2017-04-23T02:16:59.000Z",
+  "updatedAt": "2017-09-21T13:02:51.000Z",
   "pushedAt": "2017-01-11T12:11:30.000Z",
   "gitUrl": "git://github.com/linkFly6/moles.git",
   "sshUrl": "git@github.com:linkFly6/moles.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/linkFly6/moles",
   "homepage": null,
   "size": 1856,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "Vue",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -81,10 +81,7 @@
       "start": "electron .",
       "dev": "node build/build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:linkFly6/moles.git"
-    },
+    "repository": "https://github.com/linkFly6/moles",
     "keywords": [
       "web",
       "tool",
@@ -160,7 +157,8 @@
       "vue-template-compiler": "^2.1.6",
       "webpack-node-externals": "^1.5.4",
       "webpack-stream": "^3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -187,6 +185,7 @@
   },
   "filename": "linkFly6___moles.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:19.724Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:35.021Z"
+  "lastFetchedAt": "2017-10-23T21:48:11.173Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:35.021Z",
+  "archived": false
 }

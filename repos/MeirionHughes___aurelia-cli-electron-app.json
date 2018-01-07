@@ -5,7 +5,7 @@
   "owner": {
     "login": "MeirionHughes",
     "id": 3584509,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3584509?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3584509?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MeirionHughes",
     "htmlUrl": "https://github.com/MeirionHughes",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/MeirionHughes/aurelia-cli-electron-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/MeirionHughes/aurelia-cli-electron-app/deployments",
   "createdAt": "2016-10-12T15:25:13.000Z",
-  "updatedAt": "2017-04-08T19:04:49.000Z",
-  "pushedAt": "2017-04-06T08:38:58.000Z",
+  "updatedAt": "2017-09-25T19:44:26.000Z",
+  "pushedAt": "2017-09-25T07:38:11.000Z",
   "gitUrl": "git://github.com/MeirionHughes/aurelia-cli-electron-app.git",
   "sshUrl": "git@github.com:MeirionHughes/aurelia-cli-electron-app.git",
   "cloneUrl": "https://github.com/MeirionHughes/aurelia-cli-electron-app.git",
   "svnUrl": "https://github.com/MeirionHughes/aurelia-cli-electron-app",
   "homepage": "",
-  "size": 368,
-  "stargazersCount": 24,
-  "watchersCount": 24,
+  "size": 369,
+  "stargazersCount": 29,
+  "watchersCount": 29,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 24,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 29,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
+  "networkCount": 3,
   "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
@@ -74,10 +74,7 @@
       "url": "https://example.com/"
     },
     "version": "0.1.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MeirionHughes/aurelia-cli-electron-app.git"
-    },
+    "repository": "https://github.com/MeirionHughes/aurelia-cli-electron-app",
     "license": "MIT",
     "build": {
       "appId": "com.example.aureliaapp",
@@ -155,7 +152,8 @@
       "start": "electron .",
       "build": "au build",
       "dist": "au build --env prod && build"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -182,6 +180,7 @@
   },
   "filename": "MeirionHughes___aurelia-cli-electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:55.711Z",
-  "packageLastFetchedAt": "2017-05-05T15:01:38.061Z"
+  "lastFetchedAt": "2017-10-24T00:19:28.963Z",
+  "packageLastFetchedAt": "2017-05-05T15:01:38.061Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Baransu",
     "id": 9558691,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9558691?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9558691?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Baransu",
     "htmlUrl": "https://github.com/Baransu",
@@ -59,15 +59,9 @@
     "scripts": {
       "start": "electron ./amble-builds/app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Baransu/amble-engine.git"
-    },
+    "repository": "https://github.com/Baransu/amble-engine",
     "author": "Tomasz Cichocinski",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Baransu/amble-engine/issues"
-    },
     "homepage": "https://github.com/Baransu/amble-engine#readme",
     "dependencies": {
       "asar": "^0.10.0",
@@ -108,6 +102,11 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.35.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Baransu/amble-engine/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,7 @@
   "svnUrl": "https://github.com/Baransu/amble-engine",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:44:40.339Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:17.004Z"
+  "lastFetchedAt": "2017-10-23T22:23:20.788Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:17.004Z",
+  "archived": false
 }

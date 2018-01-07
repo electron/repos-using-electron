@@ -5,7 +5,7 @@
   "owner": {
     "login": "ryman1981",
     "id": 1080172,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1080172?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1080172?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ryman1981",
     "htmlUrl": "https://github.com/ryman1981",
@@ -85,10 +85,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ryman1981/meeting-control.git"
-    },
+    "repository": "https://github.com/ryman1981/meeting-control",
     "keywords": [
       "meeting",
       "control",
@@ -96,9 +93,6 @@
     ],
     "author": "David Liu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ryman1981/meeting-control/issues"
-    },
     "homepage": "https://github.com/ryman1981/meeting-control#readme",
     "devDependencies": {
       "babel-cli": "^6.18.0",
@@ -125,7 +119,12 @@
       }
     },
     "build": {},
-    "postinstall": "install-app-deps"
+    "postinstall": "install-app-deps",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ryman1981/meeting-control/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +151,7 @@
   },
   "filename": "ryman1981___meeting-control.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:14.907Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:48.083Z"
+  "lastFetchedAt": "2017-10-24T00:16:36.989Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:48.083Z",
+  "archived": false
 }

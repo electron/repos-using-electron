@@ -5,7 +5,7 @@
   "owner": {
     "login": "pearpages",
     "id": 3802915,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3802915?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3802915?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pearpages",
     "htmlUrl": "https://github.com/pearpages",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,9 +82,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -98,6 +92,11 @@
       "handlebars": "^4.0.5",
       "jquery": "^3.0.0",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "pearpages___electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:18.657Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:58.188Z"
+  "lastFetchedAt": "2017-10-23T22:09:49.541Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:58.188Z",
+  "archived": false
 }

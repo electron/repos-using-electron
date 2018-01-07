@@ -164,7 +164,7 @@
   },
   "networkCount": 657,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nightmare",
     "version": "2.2.0",
@@ -173,10 +173,7 @@
     "scripts": {
       "test": "make test"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/segmentio/nightmare.git"
-    },
+    "repository": "https://github.com/segmentio/nightmare",
     "author": "Segment",
     "keywords": [
       "nightmare",
@@ -207,7 +204,8 @@
       "mocha": "^2.3.0",
       "multer": "1.1.0",
       "serve-static": "^1.10.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -255,6 +253,6 @@
   "svnUrl": "https://github.com/funkyboy/nightmare",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:14:29.882Z",
+  "lastFetchedAt": "2017-10-24T00:12:51.931Z",
   "packageLastFetchedAt": "2017-05-05T17:25:47.835Z"
 }

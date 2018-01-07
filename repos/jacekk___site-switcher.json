@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "site-switcher",
     "version": "0.2.0",
@@ -86,10 +86,7 @@
     },
     "author": "https://github.com/jacekk",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jacekk/site-switcher"
-    },
+    "repository": "https://github.com/jacekk/site-switcher",
     "jest": {
       "setupTestFrameworkScriptFile": "./tests/init.js",
       "collectCoverage": true,
@@ -152,7 +149,8 @@
       "redux-localstorage": "^0.4.1",
       "uuid": "^2.0.3",
       "validator": "^6.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -179,6 +177,6 @@
   },
   "filename": "jacekk___site-switcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:25.333Z",
+  "lastFetchedAt": "2017-10-23T23:05:20.073Z",
   "packageLastFetchedAt": "2017-05-05T15:31:10.725Z"
 }

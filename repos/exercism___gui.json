@@ -5,7 +5,7 @@
   "owner": {
     "login": "exercism",
     "id": 5624255,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5624255?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5624255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/exercism",
     "htmlUrl": "https://github.com/exercism",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/exercism/gui/downloads",
   "deploymentsUrl": "https://api.github.com/repos/exercism/gui/deployments",
   "createdAt": "2016-06-03T15:26:41.000Z",
-  "updatedAt": "2017-03-11T08:38:31.000Z",
-  "pushedAt": "2017-04-26T07:21:01.000Z",
+  "updatedAt": "2017-10-15T15:48:22.000Z",
+  "pushedAt": "2017-09-15T04:57:48.000Z",
   "gitUrl": "git://github.com/exercism/gui.git",
   "sshUrl": "git@github.com:exercism/gui.git",
   "cloneUrl": "https://github.com/exercism/gui.git",
   "svnUrl": "https://github.com/exercism/gui",
   "homepage": null,
-  "size": 667,
-  "stargazersCount": 14,
-  "watchersCount": 14,
+  "size": 627,
+  "stargazersCount": 21,
+  "watchersCount": 21,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 6,
+  "forksCount": 11,
   "mirrorUrl": null,
-  "openIssuesCount": 8,
-  "openIssues": 8,
-  "watchers": 14,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 21,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "exercism",
     "id": 5624255,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5624255?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5624255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/exercism",
     "htmlUrl": "https://github.com/exercism",
@@ -82,18 +82,14 @@
     "receivedEventsUrl": "https://api.github.com/users/exercism/received_events",
     "type": "Organization"
   },
-  "networkCount": 6,
-  "subscribersCount": 4,
+  "networkCount": 11,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "exercism-gui",
     "version": "0.4.0",
     "description": "A desktop app to fetch and submit exercism.io problems",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -169,6 +165,12 @@
       "request-promise": "^4.1.1",
       "semver": "^5.3.0",
       "url-join": "^1.1.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -196,6 +198,7 @@
   },
   "filename": "exercism___gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:31:31.916Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:20.012Z"
+  "lastFetchedAt": "2017-10-23T22:27:24.276Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:20.012Z",
+  "archived": false
 }

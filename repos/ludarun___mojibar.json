@@ -178,7 +178,7 @@
   },
   "networkCount": 125,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mojibar",
     "version": "2.2.2",
@@ -198,16 +198,15 @@
       "build": "electron-packager . Mojibar --platform=darwin --arch=x64 --version=0.36.5 --overwrite --icon=mojibar",
       "test": "standard index.js app/search.js app/settings.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/muan/mojibar.git"
-    },
+    "repository": "https://github.com/muan/mojibar",
     "author": "Mu-An Chiou <me@muanchiou.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/muan/mojibar/issues"
-    },
-    "homepage": "https://github.com/muan/mojibar#readme"
+    "homepage": "https://github.com/muan/mojibar#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/muan/mojibar/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -255,6 +254,6 @@
   "svnUrl": "https://github.com/ludarun/mojibar",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:16:40.226Z",
+  "lastFetchedAt": "2017-10-24T00:10:35.164Z",
   "packageLastFetchedAt": "2017-05-05T14:37:03.587Z"
 }

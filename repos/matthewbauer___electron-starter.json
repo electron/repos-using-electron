@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-starter",
     "productName": "Electron Starter",
@@ -82,7 +82,8 @@
       "grunt-shell": "^1.1.2",
       "load-grunt-tasks": "^3.1.0",
       "npm": "^2.10.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 404,
   "firstCommit": {
@@ -129,6 +130,6 @@
   "svnUrl": "https://github.com/matthewbauer/electron-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:15:38.644Z",
+  "lastFetchedAt": "2017-10-23T23:09:02.828Z",
   "packageLastFetchedAt": "2017-05-05T14:23:24.067Z"
 }

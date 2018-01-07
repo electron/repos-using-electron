@@ -5,7 +5,7 @@
   "owner": {
     "login": "axomic",
     "id": 1798402,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1798402?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1798402?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/axomic",
     "htmlUrl": "https://github.com/axomic",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "axomic",
     "id": 1798402,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1798402?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1798402?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/axomic",
     "htmlUrl": "https://github.com/axomic",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "CreativeDo",
       "id": 12860713,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12860713?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12860713?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/CreativeDo",
       "htmlUrl": "https://github.com/CreativeDo",
@@ -99,16 +99,16 @@
     "downloadsUrl": "https://api.github.com/repos/CreativeDo/ZXPInstaller/downloads",
     "deploymentsUrl": "https://api.github.com/repos/CreativeDo/ZXPInstaller/deployments",
     "createdAt": "2015-06-18T13:23:48.000Z",
-    "updatedAt": "2017-04-17T12:42:10.000Z",
-    "pushedAt": "2016-06-22T20:17:10.000Z",
+    "updatedAt": "2017-09-24T23:53:41.000Z",
+    "pushedAt": "2017-10-23T15:59:09.000Z",
     "gitUrl": "git://github.com/CreativeDo/ZXPInstaller.git",
     "sshUrl": "git@github.com:CreativeDo/ZXPInstaller.git",
     "cloneUrl": "https://github.com/CreativeDo/ZXPInstaller.git",
     "svnUrl": "https://github.com/CreativeDo/ZXPInstaller",
     "homepage": "http://zxpinstaller.com/",
-    "size": 201997,
-    "stargazersCount": 94,
-    "watchersCount": 94,
+    "size": 201996,
+    "stargazersCount": 103,
+    "watchersCount": 103,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -117,9 +117,10 @@
     "hasPages": true,
     "forksCount": 18,
     "mirrorUrl": null,
-    "openIssuesCount": 9,
-    "openIssues": 9,
-    "watchers": 94,
+    "archived": false,
+    "openIssuesCount": 10,
+    "openIssues": 10,
+    "watchers": 103,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "CreativeDo",
       "id": 12860713,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12860713?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12860713?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/CreativeDo",
       "htmlUrl": "https://github.com/CreativeDo",
@@ -159,16 +160,16 @@
     "downloadsUrl": "https://api.github.com/repos/CreativeDo/ZXPInstaller/downloads",
     "deploymentsUrl": "https://api.github.com/repos/CreativeDo/ZXPInstaller/deployments",
     "createdAt": "2015-06-18T13:23:48.000Z",
-    "updatedAt": "2017-04-17T12:42:10.000Z",
-    "pushedAt": "2016-06-22T20:17:10.000Z",
+    "updatedAt": "2017-09-24T23:53:41.000Z",
+    "pushedAt": "2017-10-23T15:59:09.000Z",
     "gitUrl": "git://github.com/CreativeDo/ZXPInstaller.git",
     "sshUrl": "git@github.com:CreativeDo/ZXPInstaller.git",
     "cloneUrl": "https://github.com/CreativeDo/ZXPInstaller.git",
     "svnUrl": "https://github.com/CreativeDo/ZXPInstaller",
     "homepage": "http://zxpinstaller.com/",
-    "size": 201997,
-    "stargazersCount": 94,
-    "watchersCount": 94,
+    "size": 201996,
+    "stargazersCount": 103,
+    "watchersCount": 103,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -177,13 +178,14 @@
     "hasPages": true,
     "forksCount": 18,
     "mirrorUrl": null,
-    "openIssuesCount": 9,
-    "openIssues": 9,
-    "watchers": 94,
+    "archived": false,
+    "openIssuesCount": 10,
+    "openIssues": 10,
+    "watchers": 103,
     "defaultBranch": "master"
   },
   "networkCount": 18,
-  "subscribersCount": 15,
+  "subscribersCount": 16,
   "status": 200,
   "packageJSON": {
     "name": "zxpinstaller",
@@ -211,16 +213,15 @@
       "pack:osx": "npm run build:osx && electron-builder \"release/osx/OpenAsset For InDesign Installer.app\" --platform=osx --out=\"release/osx\" --config=packager.json",
       "pack:win": "npm run build:win && electron-builder \"release/win/OpenAsset For InDesign Installer-win32\" --platform=win --out=\"release/win\" --config=packager.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/CreativeDo/ZXPInstaller.git"
-    },
+    "repository": "https://github.com/CreativeDo/ZXPInstaller",
     "author": "Axomic Ltd",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/axomic/ZXPInstaller/issues"
-    },
-    "homepage": "https://github.com/axomic/ZXPInstaller#readme"
+    "homepage": "https://github.com/axomic/ZXPInstaller#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/axomic/ZXPInstaller/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -268,6 +269,7 @@
   "svnUrl": "https://github.com/axomic/ZXPInstaller",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:34:17.159Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:59.186Z"
+  "lastFetchedAt": "2017-10-23T23:37:18.899Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:59.186Z",
+  "archived": false
 }

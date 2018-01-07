@@ -5,7 +5,7 @@
   "owner": {
     "login": "1j01",
     "id": 3630663,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3630663?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3630663?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/1j01",
     "htmlUrl": "https://github.com/1j01",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/1j01/journal",
-  "description": "A programmer's journal",
+  "description": "💻 A programmer's journal ✒📔",
   "fork": false,
   "url": "https://api.github.com/repos/1j01/journal",
   "forksUrl": "https://api.github.com/repos/1j01/journal/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/1j01/journal/downloads",
   "deploymentsUrl": "https://api.github.com/repos/1j01/journal/deployments",
   "createdAt": "2016-03-30T16:57:24.000Z",
-  "updatedAt": "2016-07-13T21:16:23.000Z",
+  "updatedAt": "2017-10-21T02:57:45.000Z",
   "pushedAt": "2016-07-16T03:18:00.000Z",
   "gitUrl": "git://github.com/1j01/journal.git",
   "sshUrl": "git@github.com:1j01/journal.git",
   "cloneUrl": "https://github.com/1j01/journal.git",
   "svnUrl": "https://github.com/1j01/journal",
-  "homepage": null,
+  "homepage": "",
   "size": 346,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -82,13 +82,7 @@
       "diary",
       "writing"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/1j01/journal.git"
-    },
-    "bugs": {
-      "url": "https://github.com/1j01/journal/issues"
-    },
+    "repository": "https://github.com/1j01/journal",
     "scripts": {
       "postinstall": "electron-rebuild",
       "start": "electron main.js",
@@ -109,6 +103,11 @@
       "react": "^15.2.1",
       "react-dom": "^15.2.1",
       "react-script": "^2.0.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/1j01/journal/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "1j01___journal.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:04.986Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:58.535Z"
+  "lastFetchedAt": "2017-10-23T23:35:54.248Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:58.535Z",
+  "archived": false
 }

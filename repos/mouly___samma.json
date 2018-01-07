@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "samma",
     "version": "0.0.1",
@@ -70,16 +70,15 @@
       "build": "electron-packager . samma --platform=darwin --arch=x64 --version=0.30.3 --ignore=node_modules/electron --icon=Icon.icns",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mouly/samma.git"
-    },
+    "repository": "https://github.com/mouly/samma",
     "author": "mouly kumar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mouly/samma/issues"
-    },
-    "homepage": "https://github.com/mouly/samma"
+    "homepage": "https://github.com/mouly/samma",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mouly/samma/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mouly/samma",
@@ -126,6 +125,6 @@
   },
   "filename": "mouly___samma.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:33.963Z",
+  "lastFetchedAt": "2017-10-23T23:04:42.073Z",
   "packageLastFetchedAt": "2017-05-04T22:54:16.435Z"
 }

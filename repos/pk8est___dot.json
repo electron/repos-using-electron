@@ -5,7 +5,7 @@
   "owner": {
     "login": "pk8est",
     "id": 5977586,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5977586?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5977586?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pk8est",
     "htmlUrl": "https://github.com/pk8est",
@@ -85,10 +85,7 @@
       "installer": "node ./script/installer.js",
       "package": "npm run pack-mac && npm run pack-win"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:ppoffice/Hozz.git"
-    },
+    "repository": "https://github.com/ppoffice/Hozz",
     "keywords": [
       "Electron",
       "hosts",
@@ -96,9 +93,6 @@
     ],
     "author": "PPOffice",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/ppoffice/Hozz/issues"
-    },
     "homepage": "https://github.com/ppoffice/Hozz#readme",
     "devDependencies": {
       "babel-core": "^6.3.26",
@@ -151,6 +145,11 @@
       "socket.io": "^1.4.6",
       "socket.io-client": "1.4.5",
       "typedarray-to-buffer": "^3.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ppoffice/Hozz/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,7 @@
   },
   "filename": "pk8est___dot.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:28.072Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:00.960Z"
+  "lastFetchedAt": "2017-10-24T00:14:32.459Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:00.960Z",
+  "archived": false
 }

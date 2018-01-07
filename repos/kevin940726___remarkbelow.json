@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "remarkbelow",
     "productName": "Remarkbelow",
@@ -89,9 +89,6 @@
       "url": "https://github.com/kevin940726"
     },
     "license": "MIT",
-    "bugs": {
-      "url": ""
-    },
     "keywords": [
       "electron",
       "react",
@@ -178,6 +175,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -225,6 +227,6 @@
   },
   "filename": "kevin940726___remarkbelow.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:06.564Z",
+  "lastFetchedAt": "2017-10-23T22:57:11.563Z",
   "packageLastFetchedAt": "2017-05-05T15:07:37.969Z"
 }

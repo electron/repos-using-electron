@@ -164,7 +164,7 @@
   },
   "networkCount": 13,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-gh-releases",
     "version": "2.0.3",
@@ -191,10 +191,8 @@
     },
     "author": "Jens Lind <jens@jensl.se> (jenslind.com)",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jenslind/electron-gh-releases.git"
-    }
+    "repository": "https://github.com/jenslind/electron-gh-releases",
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/blainesch/electron-gh-releases",
@@ -242,6 +240,6 @@
   "filename": "blainesch___electron-gh-releases.json",
   "sourceRepo": "jenslind/electron-gh-releases",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:34.783Z",
+  "lastFetchedAt": "2017-10-23T23:04:00.351Z",
   "packageLastFetchedAt": "2017-05-05T15:37:57.703Z"
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-local-crash-reporter",
     "version": "1.0.1",
@@ -55,10 +55,7 @@
       "clear": "rm -rf mini-breakpad-server/pool"
     },
     "author": "Cameron Nokes",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ccnokes/electron-local-crash-reporter"
-    },
+    "repository": "https://github.com/ccnokes/electron-local-crash-reporter",
     "keywords": [
       "electron",
       "crash",
@@ -76,7 +73,8 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.4.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/ccnokes/electron-local-crash-reporter",
@@ -123,6 +121,6 @@
   },
   "filename": "ccnokes___electron-local-crash-reporter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:37:04.392Z",
+  "lastFetchedAt": "2017-10-23T23:03:55.577Z",
   "packageLastFetchedAt": "2017-05-04T23:11:29.629Z"
 }

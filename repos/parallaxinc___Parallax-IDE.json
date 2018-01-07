@@ -5,7 +5,7 @@
   "owner": {
     "login": "parallaxinc",
     "id": 1985825,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1985825?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1985825?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/parallaxinc",
     "htmlUrl": "https://github.com/parallaxinc",
@@ -20,21 +20,21 @@
   "description": "Parallax microcontroller development environment based on Chrome applications.",
   "fork": false,
   "createdAt": "2015-02-17T06:05:36.000Z",
-  "updatedAt": "2017-01-05T14:51:25.000Z",
-  "pushedAt": "2016-04-10T15:50:34.000Z",
+  "updatedAt": "2017-07-22T13:41:46.000Z",
+  "pushedAt": "2017-10-20T02:18:23.000Z",
   "homepage": null,
-  "size": 2588,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "size": 4839,
+  "stargazersCount": 20,
+  "watchersCount": 20,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
-  "openIssuesCount": 61,
-  "openIssues": 61,
-  "watchers": 21,
+  "forksCount": 5,
+  "openIssuesCount": 64,
+  "openIssues": 64,
+  "watchers": 20,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "parallaxinc",
     "id": 1985825,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1985825?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1985825?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/parallaxinc",
     "htmlUrl": "https://github.com/parallaxinc",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/parallaxinc/received_events",
     "type": "Organization"
   },
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 11,
   "status": 200,
   "packageJSON": {
@@ -70,9 +70,6 @@
     "version": "0.12.0",
     "description": "Write, compile, and download code to your Parallax Boe-Bot Robot or custom BASIC Stamp microcontroller-based electronic creations.",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "dependencies": {
       "@phated/redux-create-store": "^0.3.0",
       "bs2-serial": "^0.15.0",
@@ -129,15 +126,17 @@
       "postinstall": "gulp postinstall",
       "serve": "webpack-dev-server"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/parallaxinc/Parallax-IDE"
-    },
+    "repository": "https://github.com/parallaxinc/Parallax-IDE",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/parallaxinc/Parallax-IDE/issues"
-    },
-    "homepage": "https://github.com/parallaxinc/Parallax-IDE"
+    "homepage": "https://github.com/parallaxinc/Parallax-IDE",
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/parallaxinc/Parallax-IDE/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/parallaxinc/Parallax-IDE",
@@ -184,6 +183,7 @@
   },
   "filename": "parallaxinc___Parallax-IDE.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:06.700Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:29.050Z"
+  "lastFetchedAt": "2017-10-23T22:07:59.276Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:29.050Z",
+  "archived": false
 }

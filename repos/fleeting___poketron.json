@@ -5,7 +5,7 @@
   "owner": {
     "login": "fleeting",
     "id": 23062,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/23062?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/23062?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fleeting",
     "htmlUrl": "https://github.com/fleeting",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fleeting/poketron.git"
-    },
+    "repository": "https://github.com/fleeting/poketron",
     "keywords": [
       "Electron",
       "pokemon",
@@ -90,13 +87,15 @@
     ],
     "author": "James Fleeting",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fleeting/poketron/issues"
-    },
     "homepage": "https://github.com/fleeting/poketron#readme",
     "devDependencies": {
       "devtron": "^1.3.0",
       "electron": "^1.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fleeting/poketron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "fleeting___poketron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:32.252Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:54.893Z"
+  "lastFetchedAt": "2017-10-23T23:45:02.648Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:54.893Z",
+  "archived": false
 }

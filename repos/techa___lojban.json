@@ -5,7 +5,7 @@
   "owner": {
     "login": "techa",
     "id": 8414673,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8414673?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8414673?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/techa",
     "htmlUrl": "https://github.com/techa",
@@ -50,25 +50,16 @@
     "version": "1.0.0",
     "description": "Lojban Words Analysis\r ======================\r ロジバンの語根は話者数の多い言語から作られているが、ここでは意味や機能による規則で語の生成を行う。",
     "main": "main.js",
-    "directories": {
-      "doc": "docs"
-    },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/techa/lojban.git"
-    },
+    "repository": "https://github.com/techa/lojban",
     "keywords": [
       "lojban",
       "language"
     ],
     "author": "techa",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/techa/lojban/issues"
-    },
     "homepage": "https://github.com/techa/lojban#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.4",
@@ -81,6 +72,14 @@
     "dependencies": {
       "lodash": "^3.10.1",
       "yamljs": "^0.2.4"
+    },
+    "other": {
+      "directories": {
+        "doc": "docs"
+      },
+      "bugs": {
+        "url": "https://github.com/techa/lojban/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "techa___lojban.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:48.337Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:04.985Z"
+  "lastFetchedAt": "2017-10-23T23:41:54.414Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:04.985Z",
+  "archived": false
 }

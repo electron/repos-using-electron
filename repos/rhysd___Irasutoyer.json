@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -60,10 +60,7 @@
     "bin": {
       "irasutoyer": "./bin/cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rhysd/Irasutoyer.git"
-    },
+    "repository": "https://github.com/rhysd/Irasutoyer",
     "scripts": {
       "run": "node bin/cli.js",
       "dep": "tsd install && npm install",
@@ -93,7 +90,8 @@
       "react-tap-event-plugin": "^0.2.1",
       "redux": "^3.0.4",
       "shuffle-array": "^0.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/rhysd/Irasutoyer",
@@ -140,6 +138,7 @@
   },
   "filename": "rhysd___Irasutoyer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:29:38.726Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:53.948Z"
+  "lastFetchedAt": "2017-10-23T21:43:04.982Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:53.948Z",
+  "archived": false
 }

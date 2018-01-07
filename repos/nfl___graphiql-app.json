@@ -5,7 +5,7 @@
   "owner": {
     "login": "nfl",
     "id": 1261928,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1261928?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1261928?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nfl",
     "htmlUrl": "https://github.com/nfl",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "nfl",
     "id": 1261928,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1261928?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1261928?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nfl",
     "htmlUrl": "https://github.com/nfl",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "skevy",
       "id": 131916,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/131916?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/131916?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/skevy",
       "htmlUrl": "https://github.com/skevy",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/skevy/graphiql-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/skevy/graphiql-app/deployments",
     "createdAt": "2015-08-25T19:36:41.000Z",
-    "updatedAt": "2017-05-03T22:18:34.000Z",
-    "pushedAt": "2017-04-10T18:50:03.000Z",
+    "updatedAt": "2017-10-23T06:59:04.000Z",
+    "pushedAt": "2017-10-23T22:51:11.000Z",
     "gitUrl": "git://github.com/skevy/graphiql-app.git",
     "sshUrl": "git@github.com:skevy/graphiql-app.git",
     "cloneUrl": "https://github.com/skevy/graphiql-app.git",
     "svnUrl": "https://github.com/skevy/graphiql-app",
     "homepage": null,
-    "size": 1891,
-    "stargazersCount": 557,
-    "watchersCount": 557,
+    "size": 2037,
+    "stargazersCount": 927,
+    "watchersCount": 927,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 44,
+    "forksCount": 90,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 19,
     "openIssues": 19,
-    "watchers": 557,
+    "watchers": 927,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "skevy",
       "id": 131916,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/131916?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/131916?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/skevy",
       "htmlUrl": "https://github.com/skevy",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/skevy/graphiql-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/skevy/graphiql-app/deployments",
     "createdAt": "2015-08-25T19:36:41.000Z",
-    "updatedAt": "2017-05-03T22:18:34.000Z",
-    "pushedAt": "2017-04-10T18:50:03.000Z",
+    "updatedAt": "2017-10-23T06:59:04.000Z",
+    "pushedAt": "2017-10-23T22:51:11.000Z",
     "gitUrl": "git://github.com/skevy/graphiql-app.git",
     "sshUrl": "git@github.com:skevy/graphiql-app.git",
     "cloneUrl": "https://github.com/skevy/graphiql-app.git",
     "svnUrl": "https://github.com/skevy/graphiql-app",
     "homepage": null,
-    "size": 1891,
-    "stargazersCount": 557,
-    "watchersCount": 557,
+    "size": 2037,
+    "stargazersCount": 927,
+    "watchersCount": 927,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 44,
+    "forksCount": 90,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 19,
     "openIssues": 19,
-    "watchers": 557,
+    "watchers": 927,
     "defaultBranch": "master"
   },
-  "networkCount": 44,
+  "networkCount": 90,
   "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
@@ -197,9 +199,6 @@
     "author": "Adam Miskiewicz <adam.skevy@mac.com> (http://github.com/skevy)",
     "license": "MIT",
     "homepage": "https://github.com/skevy/graphiql-app",
-    "bugs": {
-      "url": "https://github.com/skevy/graphiql-app/issues"
-    },
     "dependencies": {
       "graphiql": "0.2.3",
       "graphql": "^0.4.2",
@@ -236,6 +235,11 @@
       "webpack": "^1.12.0",
       "webpack-dev-server": "^1.10.1",
       "webpack-target-electron-renderer": "^0.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/skevy/graphiql-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -284,6 +288,7 @@
   "svnUrl": "https://github.com/nfl/graphiql-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:21:27.647Z",
-  "packageLastFetchedAt": "2017-05-04T22:35:03.492Z"
+  "lastFetchedAt": "2017-10-23T22:52:45.754Z",
+  "packageLastFetchedAt": "2017-05-04T22:35:03.492Z",
+  "archived": false
 }

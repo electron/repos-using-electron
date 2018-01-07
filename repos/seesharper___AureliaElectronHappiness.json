@@ -5,7 +5,7 @@
   "owner": {
     "login": "seesharper",
     "id": 1034073,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1034073?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1034073?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/seesharper",
     "htmlUrl": "https://github.com/seesharper",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/seesharper/AureliaElectronHappiness/downloads",
   "deploymentsUrl": "https://api.github.com/repos/seesharper/AureliaElectronHappiness/deployments",
   "createdAt": "2016-06-21T13:01:18.000Z",
-  "updatedAt": "2016-11-12T18:51:36.000Z",
+  "updatedAt": "2017-10-09T04:29:35.000Z",
   "pushedAt": "2016-06-23T20:14:13.000Z",
   "gitUrl": "git://github.com/seesharper/AureliaElectronHappiness.git",
   "sshUrl": "git@github.com:seesharper/AureliaElectronHappiness.git",
@@ -77,16 +77,10 @@
       "vscode"
     ],
     "homepage": "http://aurelia.io",
-    "bugs": {
-      "url": "https://github.com/aurelia/skeleton-navigation-typescript/issues"
-    },
     "license": "CC0-1.0",
     "author": "Mike Graham <mgraham@technicalmedia.com> (http://cmichaelgraham.io/)",
     "main": "dist/main.js",
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/aurelia/skeleton-navigation-typescript"
-    },
+    "repository": "https://github.com/aurelia/skeleton-navigation-typescript",
     "scripts": {
       "postinstall": "./node_modules/.bin/typings install",
       "test": "gulp test",
@@ -149,6 +143,11 @@
         "text": "github:systemjs/plugin-text@^0.0.3"
       },
       "devDependencies": {}
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/aurelia/skeleton-navigation-typescript/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +175,7 @@
   },
   "filename": "seesharper___AureliaElectronHappiness.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:01.174Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:02.116Z"
+  "lastFetchedAt": "2017-10-24T00:05:20.472Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:02.116Z",
+  "archived": false
 }

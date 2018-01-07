@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ascent-app",
     "homepage": "https://github.com/miniArray/ascent#readme",
@@ -111,22 +111,21 @@
       "report-coverage": "codecov",
       "semantic-release": "semantic-release pre && npm publish && semantic-release post"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/miniArray/ascent.git"
-    },
+    "repository": "https://github.com/miniArray/ascent",
     "keywords": [],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/miniArray/ascent/issues"
-    },
     "config": {
       "commitizen": {
         "path": "node_modules/cz-conventional-changelog"
       },
       "ghooks": {
         "pre-commit": "exit 0 # npm prune && npm run test && npm run check-coverage"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/miniArray/ascent/issues"
       }
     }
   },
@@ -155,6 +154,6 @@
   },
   "filename": "miniArray___elevate-vg-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:21:21.081Z",
+  "lastFetchedAt": "2017-10-23T23:10:51.336Z",
   "packageLastFetchedAt": "2017-05-05T14:33:10.851Z"
 }

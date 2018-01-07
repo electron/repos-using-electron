@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "peerfm",
     "productName": "PeerFM",
@@ -135,26 +135,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alfg/peerfm.git"
-    },
+    "repository": "https://github.com/alfg/peerfm",
     "author": {
       "name": "Alfred Gutierrez",
       "email": "alf.g.jr@gmail.com",
       "url": "https://github.com/alfg"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/alfg/peerfm/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -248,6 +238,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/alfg/peerfm/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -275,6 +274,6 @@
   },
   "filename": "alfg___radicalfm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:42.579Z",
+  "lastFetchedAt": "2017-10-23T23:05:26.083Z",
   "packageLastFetchedAt": "2017-05-04T22:53:14.038Z"
 }

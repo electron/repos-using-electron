@@ -5,7 +5,7 @@
   "owner": {
     "login": "ipfs",
     "id": 10536621,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10536621?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10536621?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ipfs",
     "htmlUrl": "https://github.com/ipfs",
@@ -20,21 +20,21 @@
   "description": "Electron Shell based IPFS app",
   "fork": false,
   "createdAt": "2015-05-30T23:42:36.000Z",
-  "updatedAt": "2017-04-27T06:52:45.000Z",
-  "pushedAt": "2017-04-04T20:36:38.000Z",
+  "updatedAt": "2017-09-28T16:49:36.000Z",
+  "pushedAt": "2017-06-04T11:49:15.000Z",
   "homepage": "",
   "size": 2737,
-  "stargazersCount": 150,
-  "watchersCount": 150,
+  "stargazersCount": 162,
+  "watchersCount": 162,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 32,
-  "openIssuesCount": 49,
-  "openIssues": 49,
-  "watchers": 150,
+  "forksCount": 36,
+  "openIssuesCount": 52,
+  "openIssues": 52,
+  "watchers": 162,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "ipfs",
     "id": 10536621,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10536621?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10536621?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ipfs",
     "htmlUrl": "https://github.com/ipfs",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/ipfs/received_events",
     "type": "Organization"
   },
-  "networkCount": 32,
-  "subscribersCount": 33,
+  "networkCount": 36,
+  "subscribersCount": 41,
   "status": 200,
   "packageJSON": {
     "name": "ipfs-station",
@@ -141,10 +141,7 @@
       "electron",
       "station"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ipfs/station"
-    },
+    "repository": "https://github.com/ipfs/station",
     "authors": [
       "Kristoffer Ström <kristoffer@rymdkoloni.se>",
       "David Dias <daviddias@ipfs.io>",
@@ -152,10 +149,12 @@
       "Friedel Ziegelmayer <dignifiedquire@gmail.com>"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ipfs/station/issues"
-    },
-    "homepage": "https://github.com/ipfs/station"
+    "homepage": "https://github.com/ipfs/station",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ipfs/station/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -200,8 +199,9 @@
   "sshUrl": "git@github.com:ipfs/station.git",
   "cloneUrl": "https://github.com/ipfs/station.git",
   "svnUrl": "https://github.com/ipfs/station",
-  "hasProjects": true,
+  "hasProjects": false,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:03:15.277Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:11.324Z"
+  "lastFetchedAt": "2017-10-24T02:04:15.417Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:11.324Z",
+  "archived": false
 }

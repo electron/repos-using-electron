@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "wells",
     "version": "0.1.1",
@@ -74,10 +74,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kanatzidis/Wells.git"
-    },
+    "repository": "https://github.com/kanatzidis/Wells",
     "keywords": [
       "fuse",
       "apple",
@@ -89,9 +86,6 @@
       "email": "gregori@alabastertech.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kanatzidis/Wells/issues"
-    },
     "homepage": "https://github.com/kanatzidis/Wells#readme",
     "dependencies": {
       "fuse-bindings": "^2.9.0",
@@ -109,6 +103,11 @@
     "geiger": {
       "packages": {
         "libfuse-dev": []
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kanatzidis/Wells/issues"
       }
     }
   },
@@ -137,6 +136,6 @@
   },
   "filename": "kanatzidis___Wells.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:10.603Z",
+  "lastFetchedAt": "2017-10-23T23:01:14.594Z",
   "packageLastFetchedAt": "2017-05-05T14:38:44.620Z"
 }

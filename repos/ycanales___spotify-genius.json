@@ -5,7 +5,7 @@
   "owner": {
     "login": "ycanales",
     "id": 2023360,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2023360?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2023360?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ycanales",
     "htmlUrl": "https://github.com/ycanales",
@@ -81,10 +81,7 @@
       "start": "electron .",
       "dist": "build --mac --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ycanales/spotify-genius.git"
-    },
+    "repository": "https://github.com/ycanales/spotify-genius",
     "keywords": [
       "letra",
       "mac",
@@ -93,9 +90,6 @@
     ],
     "author": "Cristian Yáñez",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/ycanales/letra/issues"
-    },
     "homepage": "https://github.com/ycanales/letra",
     "devDependencies": {
       "electron-builder": "^10.17.3",
@@ -124,6 +118,11 @@
         "node_modules/**/*",
         "package.json"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ycanales/letra/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "ycanales___spotify-genius.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:17.425Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:56.011Z"
+  "lastFetchedAt": "2017-10-23T22:30:04.514Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:56.011Z",
+  "archived": false
 }

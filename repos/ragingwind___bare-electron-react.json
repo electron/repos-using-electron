@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "bare-electron-react",
     "productName": "Electron with React",
@@ -93,7 +93,8 @@
       "babel": "^5.8.5",
       "electron-debug": "^0.1.1",
       "react": "^0.13.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +141,6 @@
   "svnUrl": "https://github.com/ragingwind/electron-react-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:32:00.159Z",
+  "lastFetchedAt": "2017-10-23T23:10:22.834Z",
   "packageLastFetchedAt": "2017-05-04T22:26:13.317Z"
 }

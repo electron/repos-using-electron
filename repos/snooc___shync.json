@@ -50,18 +50,14 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "shync",
     "version": "0.0.1",
     "description": "Shopify theme / store utility",
     "author": "Cody Coons <cody@codycoons.com>",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:snooc/shync.git"
-    },
-    "bugs": "https://github.com/snooc/shync/issues",
+    "repository": "https://github.com/snooc/shync",
     "license": "MIT",
     "scripts": {},
     "devDependencies": {
@@ -71,6 +67,9 @@
       "gulp": "github:gulpjs/gulp#4.0",
       "gulp-babel": "^6.1.0",
       "gulp-livereload": "^3.8.1"
+    },
+    "other": {
+      "bugs": "https://github.com/snooc/shync/issues"
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,6 @@
   "svnUrl": "https://github.com/snooc/shync",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:32:35.542Z",
+  "lastFetchedAt": "2017-10-23T23:09:31.333Z",
   "packageLastFetchedAt": "2017-05-05T17:52:24.630Z"
 }

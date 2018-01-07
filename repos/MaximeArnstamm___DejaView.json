@@ -6,7 +6,7 @@
   "owner": {
     "login": "MaximeArnstamm",
     "id": 7966136,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7966136?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7966136?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MaximeArnstamm",
     "htmlUrl": "https://github.com/MaximeArnstamm",
@@ -71,10 +71,6 @@
     "version": "0.0.0",
     "description": "Small description for dejaview goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -161,6 +157,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -187,6 +189,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:06:49.701Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:19.399Z"
+  "lastFetchedAt": "2017-10-23T21:44:30.626Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:19.399Z",
+  "archived": false
 }

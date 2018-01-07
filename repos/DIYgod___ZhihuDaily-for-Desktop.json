@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 3,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "zhihudaily",
     "productName": "ZhihuDaily for Desktop",
@@ -55,10 +55,7 @@
       "start": "electron main.js",
       "dev": "electron --debug=5858 main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DIYgod/ZhihuDaily-for-Desktop"
-    },
+    "repository": "https://github.com/DIYgod/ZhihuDaily-for-Desktop",
     "keywords": [
       "ZhihuDaily",
       "zhihu",
@@ -67,14 +64,16 @@
     ],
     "author": "DIYgod",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DIYgod/ZhihuDaily-for-Desktop/issues"
-    },
     "homepage": "https://github.com/DIYgod/ZhihuDaily-for-Desktop#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.2"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/DIYgod/ZhihuDaily-for-Desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -121,6 +120,6 @@
   "svnUrl": "https://github.com/DIYgod/ZhihuDaily-for-Desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:25:55.289Z",
+  "lastFetchedAt": "2017-10-23T22:58:27.336Z",
   "packageLastFetchedAt": "2017-05-05T14:40:54.053Z"
 }

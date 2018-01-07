@@ -5,7 +5,7 @@
   "owner": {
     "login": "lukekarrys",
     "id": 542108,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/542108?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/542108?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lukekarrys",
     "htmlUrl": "https://github.com/lukekarrys",
@@ -21,7 +21,7 @@
   "fork": false,
   "createdAt": "2014-08-07T02:30:39.000Z",
   "updatedAt": "2016-11-30T03:18:00.000Z",
-  "pushedAt": "2017-05-01T05:13:11.000Z",
+  "pushedAt": "2017-10-20T09:54:56.000Z",
   "homepage": null,
   "size": 47,
   "stargazersCount": 1,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 1,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -57,7 +57,6 @@
     "version": "1.0.3",
     "author": "Luke Karrys <luke@lukekarrys.com>",
     "browser": "ampersand-main-view.js",
-    "bugs": "https://github.com/lukekarrys/ampersand-main-view/issues",
     "dependencies": {
       "ampersand-dom": "^1.5.0",
       "ampersand-router": "^4.0.0",
@@ -92,16 +91,16 @@
       "test",
       "validate"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/lukekarrys/ampersand-main-view"
-    },
+    "repository": "https://github.com/lukekarrys/ampersand-main-view",
     "scripts": {
       "demo": "node sample/server",
       "lint": "standard",
       "start": "run-browser test/*",
       "test": "browserify test/*.js | tape-run | tap-spec",
       "validate": "npm ls"
+    },
+    "other": {
+      "bugs": "https://github.com/lukekarrys/ampersand-main-view/issues"
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "svnUrl": "https://github.com/lukekarrys/ampersand-main-view",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:49:49.602Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:14.523Z"
+  "lastFetchedAt": "2017-10-23T21:45:25.903Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:14.523Z",
+  "archived": false
 }

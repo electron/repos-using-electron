@@ -184,7 +184,7 @@
   },
   "networkCount": 202,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "playback",
     "version": "1.3.1",
@@ -222,16 +222,15 @@
       "dev": "electron app.js test.mp4",
       "bundle": "electron-packager . Playback --ignore=test.mp4 --ignore=node_modules/electron-prebuilt && cp info.plist Playback.app/Contents/Info.plist && cp icon.icns Playback.app/Contents/Resources/atom.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mafintosh/playback.git"
-    },
+    "repository": "https://github.com/mafintosh/playback",
     "author": "Mathias Buus (@mafintosh)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mafintosh/playback/issues"
-    },
-    "homepage": "https://github.com/mafintosh/playback"
+    "homepage": "https://github.com/mafintosh/playback",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mafintosh/playback/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -279,6 +278,6 @@
   "svnUrl": "https://github.com/cool-aleuser01/playback",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:30:50.847Z",
+  "lastFetchedAt": "2017-10-23T23:03:31.344Z",
   "packageLastFetchedAt": "2017-05-05T01:23:38.185Z"
 }

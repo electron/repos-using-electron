@@ -164,7 +164,7 @@
   },
   "networkCount": 99,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "yeoman-app",
     "productName": "Yeoman",
@@ -174,7 +174,6 @@
     "description": "An app made with Electron that scaffolds projects using Yeoman",
     "author": "The Yeoman Team",
     "main": "src/browser/main.js",
-    "bugs": "https://github.com/yeoman/yeoman-app/issues",
     "dependencies": {
       "array.prototype.findindex": "^1.0.0",
       "async": "^1.2.1",
@@ -224,9 +223,9 @@
       "build": "electron-compile --target ./cache src/ static/ && node scripts/build.js"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yeoman/yeoman-app"
+    "repository": "https://github.com/yeoman/yeoman-app",
+    "other": {
+      "bugs": "https://github.com/yeoman/yeoman-app/issues"
     }
   },
   "packageStatus": 200,
@@ -275,6 +274,6 @@
   "svnUrl": "https://github.com/harleywang/yeoman-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:45:47.651Z",
+  "lastFetchedAt": "2017-10-23T23:02:25.085Z",
   "packageLastFetchedAt": "2017-05-05T17:27:59.189Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nathanbuchar",
     "id": 1815367,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1815367?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1815367?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nathanbuchar",
     "htmlUrl": "https://github.com/nathanbuchar",
@@ -20,21 +20,21 @@
   "description": "📝 A simple persistent user settings framework for Electron.",
   "fork": false,
   "createdAt": "2015-11-01T22:48:04.000Z",
-  "updatedAt": "2017-05-03T18:17:36.000Z",
-  "pushedAt": "2017-04-04T18:28:26.000Z",
+  "updatedAt": "2017-10-19T06:12:04.000Z",
+  "pushedAt": "2017-10-17T17:40:03.000Z",
   "homepage": "https://npmjs.org/package/electron-settings",
-  "size": 288,
-  "stargazersCount": 181,
-  "watchersCount": 181,
+  "size": 343,
+  "stargazersCount": 273,
+  "watchersCount": 273,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 23,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 181,
+  "forksCount": 28,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 273,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/isc",
     "featured": false
   },
-  "networkCount": 23,
-  "subscribersCount": 11,
+  "networkCount": 28,
+  "subscribersCount": 12,
   "status": 200,
   "packageJSON": {
     "name": "electron-settings",
@@ -61,10 +61,7 @@
       "test:main": "electron-mocha tests",
       "test:renderer": "electron-mocha tests --renderer"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nathanbuchar/electron-settings"
-    },
+    "repository": "https://github.com/nathanbuchar/electron-settings",
     "author": "Nathan Buchar <hello@nathanbuchar.com>",
     "license": "ISC",
     "keywords": [
@@ -97,7 +94,8 @@
       "eslint-config-airbnb-base": "^11.1.2",
       "eslint-plugin-import": "^2.2.0",
       "mocha": "^3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +142,7 @@
   "svnUrl": "https://github.com/nathanbuchar/electron-settings",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:28:09.518Z",
-  "packageLastFetchedAt": "2017-05-05T17:25:59.785Z"
+  "lastFetchedAt": "2017-10-23T22:52:29.111Z",
+  "packageLastFetchedAt": "2017-05-05T17:25:59.785Z",
+  "archived": false
 }

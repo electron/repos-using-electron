@@ -6,7 +6,7 @@
   "owner": {
     "login": "featurist",
     "id": 1021475,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1021475?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1021475?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/featurist",
     "htmlUrl": "https://github.com/featurist",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/featurist/sworm/downloads",
   "deploymentsUrl": "https://api.github.com/repos/featurist/sworm/deployments",
   "createdAt": "2014-08-08T10:07:41.000Z",
-  "updatedAt": "2017-05-02T09:21:41.000Z",
-  "pushedAt": "2017-04-24T08:02:18.000Z",
+  "updatedAt": "2017-10-18T09:02:50.000Z",
+  "pushedAt": "2017-06-24T17:47:55.000Z",
   "gitUrl": "git://github.com/featurist/sworm.git",
   "sshUrl": "git@github.com:featurist/sworm.git",
   "cloneUrl": "https://github.com/featurist/sworm.git",
   "svnUrl": "https://github.com/featurist/sworm",
   "homepage": "",
-  "size": 259,
-  "stargazersCount": 59,
-  "watchersCount": 59,
+  "size": 330,
+  "stargazersCount": 79,
+  "watchersCount": 79,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 15,
+  "forksCount": 16,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 59,
+  "watchers": 79,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -67,7 +67,7 @@
   "organization": {
     "login": "featurist",
     "id": 1021475,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1021475?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1021475?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/featurist",
     "htmlUrl": "https://github.com/featurist",
@@ -78,18 +78,15 @@
     "receivedEventsUrl": "https://api.github.com/users/featurist/received_events",
     "type": "Organization"
   },
-  "networkCount": 15,
-  "subscribersCount": 7,
+  "networkCount": 16,
+  "subscribersCount": 10,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T04:56:34.481Z",
+  "lastFetchedAt": "2017-10-23T22:13:38.295Z",
   "packageJSON": {
     "name": "sworm",
     "version": "3.6.0",
     "description": "a lightweight write-only ORM for MSSQL, MySQL, PostgreSQL, Oracle, Sqlite 3",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "dependencies": {
       "cooperative": "1.1.0",
       "debug": "2.2.0",
@@ -112,10 +109,7 @@
     "scripts": {
       "test": "mocha && electron-mocha --renderer test/browser"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/featurist/sworm.git"
-    },
+    "repository": "https://github.com/featurist/sworm",
     "keywords": [
       "activerecord",
       "database",
@@ -130,11 +124,17 @@
     ],
     "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/featurist/sworm/issues"
-    },
-    "homepage": "https://github.com/featurist/sworm"
+    "homepage": "https://github.com/featurist/sworm",
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/featurist/sworm/issues"
+      }
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:52:16.531Z"
+  "packageLastFetchedAt": "2017-05-05T14:52:16.531Z",
+  "archived": false
 }

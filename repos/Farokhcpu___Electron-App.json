@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-app",
     "version": "1.0.0",
@@ -96,17 +96,19 @@
         "target": "dmg"
       }
     },
-    "directories": {
-      "buildResources": "./build",
-      "output": "./dist",
-      "app": "./app"
-    },
     "scripts": {
       "postinstall": "install-app-deps",
       "pack": "build --target dir",
       "dist": "build"
     },
-    "author": "fafar"
+    "author": "fafar",
+    "other": {
+      "directories": {
+        "buildResources": "./build",
+        "output": "./dist",
+        "app": "./app"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +135,6 @@
   },
   "filename": "Farokhcpu___Electron-App.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:26.744Z",
+  "lastFetchedAt": "2017-10-23T23:01:56.612Z",
   "packageLastFetchedAt": "2017-05-05T17:03:37.228Z"
 }

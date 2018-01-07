@@ -5,7 +5,7 @@
   "owner": {
     "login": "andrewhart098",
     "id": 2603162,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2603162?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2603162?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andrewhart098",
     "htmlUrl": "https://github.com/andrewhart098",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "networkCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "electronQC",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "QuantConnect"
@@ -88,7 +85,8 @@
       "electron-rebuild": "^1.2.1",
       "moment": "^2.14.1",
       "zmq": "^2.15.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,7 @@
   },
   "filename": "andrewhart098___electronQC.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T13:05:01.231Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:11.502Z"
+  "lastFetchedAt": "2017-10-24T00:05:32.213Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:11.502Z",
+  "archived": false
 }

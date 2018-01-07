@@ -5,7 +5,7 @@
   "owner": {
     "login": "mikaa123",
     "id": 428280,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/428280?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/428280?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mikaa123",
     "htmlUrl": "https://github.com/mikaa123",
@@ -20,21 +20,21 @@
   "description": "Ruler app with web-development in mind",
   "fork": false,
   "createdAt": "2015-12-16T16:03:38.000Z",
-  "updatedAt": "2017-04-27T17:10:20.000Z",
+  "updatedAt": "2017-09-06T20:52:53.000Z",
   "pushedAt": "2016-09-02T07:47:52.000Z",
   "homepage": "http://mikaa123.github.io/linear-website/",
   "size": 816,
-  "stargazersCount": 225,
-  "watchersCount": 225,
+  "stargazersCount": 232,
+  "watchersCount": 232,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 14,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 225,
+  "forksCount": 15,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 232,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 14,
-  "subscribersCount": 10,
+  "networkCount": 15,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "linear",
@@ -62,10 +62,7 @@
       "debug": "electron main.js --debug",
       "package": "electron-packager . linear --platform=darwin --arch=all --version=1.2.2 --icon=src/assets/images/lrMacIcon.icns --out=dist --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mikaa123/linear.git"
-    },
+    "repository": "https://github.com/mikaa123/linear",
     "keywords": [
       "ruler",
       "measure",
@@ -92,7 +89,8 @@
         "node",
         "browser"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mikaa123/linear",
@@ -139,6 +137,7 @@
   },
   "filename": "mikaa123___linear.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:01.318Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:03.884Z"
+  "lastFetchedAt": "2017-10-23T22:08:10.865Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:03.884Z",
+  "archived": false
 }

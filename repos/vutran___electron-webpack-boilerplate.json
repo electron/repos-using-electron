@@ -5,7 +5,7 @@
   "owner": {
     "login": "vutran",
     "id": 1088312,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1088312?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1088312?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vutran",
     "htmlUrl": "https://github.com/vutran",
@@ -20,21 +20,21 @@
   "description": null,
   "fork": false,
   "createdAt": "2015-12-16T11:25:04.000Z",
-  "updatedAt": "2017-04-17T05:52:28.000Z",
+  "updatedAt": "2017-09-14T10:44:53.000Z",
   "pushedAt": "2015-12-18T03:15:14.000Z",
   "homepage": null,
   "size": 12,
-  "stargazersCount": 16,
-  "watchersCount": 16,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": null,
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 16,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:vutran/electron-webpack-boilerplate.git"
-    },
+    "repository": "https://github.com/vutran/electron-webpack-boilerplate",
     "keywords": [
       "electron",
       "webpack",
@@ -72,9 +69,6 @@
     ],
     "author": "Vu Tran",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vutran/electron-react-boilerplate/issues"
-    },
     "homepage": "https://github.com/vutran/electron-react-boilerplate#readme",
     "devDependencies": {
       "autoprefixer": "^6.1.2",
@@ -117,6 +111,11 @@
       "redux-devtools": "^3.0.0",
       "redux-devtools-dock-monitor": "^1.0.1",
       "redux-devtools-log-monitor": "^1.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/vutran/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   },
   "filename": "vutran___electron-webpack-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:54:04.130Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:30.468Z"
+  "lastFetchedAt": "2017-10-23T22:26:24.013Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:30.468Z",
+  "archived": false
 }

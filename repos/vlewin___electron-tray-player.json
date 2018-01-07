@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-tray-player",
     "productName": "electron-tray-player",
@@ -84,10 +84,7 @@
       "build": "electron-packager . TrayPlayer --platform=darwin --arch=x64 --app-version=1.0.0 --overwrite --icon='./images/App.icns' --out=build --ignore='node_modules/electron-(packager|prebuild)'",
       "build:all": "electron-packager . TrayPlayer --platform=all --arch=x64 --app-version=1.0.0 --overwrite --icon='./images/App.icns' --out=build --ignore='node_modules/electron-(packager|prebuild)'"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/vlewin/electron-tray-player"
-    },
+    "repository": "https://github.com/vlewin/electron-tray-player",
     "keywords": [
       "electron",
       "vue",
@@ -121,7 +118,8 @@
         "TrayPlayer.app/**",
         "TrayPlayer-darwin-x64.app/**"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -148,6 +146,6 @@
   },
   "filename": "vlewin___electron-tray-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:36:18.812Z",
+  "lastFetchedAt": "2017-10-24T00:11:17.161Z",
   "packageLastFetchedAt": "2017-05-04T22:29:54.085Z"
 }

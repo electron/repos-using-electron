@@ -184,7 +184,7 @@
   },
   "networkCount": 294,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "friends",
     "description": "p2p chat",
@@ -202,9 +202,6 @@
       "ghsign": false,
       "github-current-user": false,
       "leveldown": "level-js"
-    },
-    "bugs": {
-      "url": "https://github.com/moose-team/friends/issues"
     },
     "dependencies": {
       "cat-names": "^1.0.2",
@@ -264,10 +261,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/moose-team/friends.git"
-    },
+    "repository": "https://github.com/moose-team/friends",
     "browserify": {
       "transforms": [
         "brfs"
@@ -283,6 +277,11 @@
       "watch-css": "mkdirp dist && stylus -u nib css/app.styl -o dist/ -w",
       "web": "beefy web.js:bundle.js",
       "rebuild-leveldb": "cd node_modules/leveldown && set HOME=~/.electron-gyp && node-gyp rebuild --target=0.31.1 --arch=x64 --dist-url=https://atom.io/download/atom-shell"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/moose-team/friends/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -331,6 +330,6 @@
   "svnUrl": "https://github.com/webcoding/friends",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:58:52.068Z",
+  "lastFetchedAt": "2017-10-23T23:07:02.834Z",
   "packageLastFetchedAt": "2017-05-05T17:53:58.043Z"
 }

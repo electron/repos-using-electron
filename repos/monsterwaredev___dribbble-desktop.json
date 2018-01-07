@@ -64,7 +64,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dribbble-desktop",
     "version": "1.0.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "utility/compile-less.bash && electron src/loader.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:monsterwaredev/dribbble-desktop.git"
-    },
+    "repository": "https://github.com/monsterwaredev/dribbble-desktop",
     "keywords": [
       "Dribbble",
       "Desktop",
@@ -91,15 +88,17 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/monsterwaredev/dribbble-desktop/issues<Paste>"
-    },
     "homepage": "https://github.com/monsterwaredev/dribbble-desktop#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
     },
     "dependencies": {
       "dribbble-node-api": "monsterwaredev/dribbble-node-api"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/monsterwaredev/dribbble-desktop/issues<Paste>"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,6 @@
   "svnUrl": "https://github.com/monsterwaredev/dribbble-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:21:47.653Z",
+  "lastFetchedAt": "2017-10-23T23:10:40.329Z",
   "packageLastFetchedAt": "2017-05-05T01:19:35.558Z"
 }

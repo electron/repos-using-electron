@@ -5,7 +5,7 @@
   "owner": {
     "login": "magic-stash",
     "id": 20483718,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20483718?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20483718?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/magic-stash",
     "htmlUrl": "https://github.com/magic-stash",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/magic-stash/atmospheres/deployments",
   "createdAt": "2016-10-04T05:07:46.000Z",
   "updatedAt": "2016-10-04T05:08:11.000Z",
-  "pushedAt": "2016-11-01T16:36:27.000Z",
+  "pushedAt": "2017-06-05T01:58:04.000Z",
   "gitUrl": "git://github.com/magic-stash/atmospheres.git",
   "sshUrl": "git@github.com:magic-stash/atmospheres.git",
   "cloneUrl": "https://github.com/magic-stash/atmospheres.git",
   "svnUrl": "https://github.com/magic-stash/atmospheres",
   "homepage": null,
-  "size": 95,
+  "size": 864,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -65,7 +65,7 @@
   "organization": {
     "login": "magic-stash",
     "id": 20483718,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20483718?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20483718?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/magic-stash",
     "htmlUrl": "https://github.com/magic-stash",
@@ -77,17 +77,13 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "ms-environments",
     "version": "0.0.0",
     "description": "Small description for ms-environments goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server --host 0.0.0.0 --port 1337",
@@ -183,6 +179,12 @@
     },
     "dependencies": {
       "recursive-readdir": "^2.0.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -209,7 +211,8 @@
     }
   },
   "filename": "magic-stash___atmospheres.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:21.605Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:45.096Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T22:23:48.749Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:45.096Z",
+  "archived": false
 }

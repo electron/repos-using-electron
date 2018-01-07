@@ -78,16 +78,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Stemn",
     "productName": "Stemn",
     "version": "0.0.19",
     "description": "Stemn Desktop: Versioning and project management",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Stemn/Stemn-Desktop"
-    },
+    "repository": "https://github.com/Stemn/Stemn-Desktop",
     "main": "dist/main/index.js",
     "scripts": {
       "test": "cross-env NODE_ENV=test mocha --compilers js:babel-register --recursive --require ./test/setup.js test/**/*.spec.js",
@@ -203,10 +200,6 @@
       "science"
     ],
     "homepage": "https://stemn.com",
-    "bugs": {
-      "url": "https://github.com/Stemn/Stemn-Desktop/issues",
-      "email": "bugs@stemn.com"
-    },
     "dependencies": {
       "asar": "^0.11.0",
       "babel-core": "^6.11.4",
@@ -308,6 +301,12 @@
         "app": "./dist/",
         "output": "./release/"
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Stemn/Stemn-Desktop/issues",
+        "email": "bugs@stemn.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -335,6 +334,6 @@
   },
   "filename": "Stemn___Stemn-Desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:52.023Z",
+  "lastFetchedAt": "2017-10-23T23:02:53.840Z",
   "packageLastFetchedAt": "2017-05-05T15:23:46.390Z"
 }

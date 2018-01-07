@@ -5,7 +5,7 @@
   "owner": {
     "login": "alexphi",
     "id": 7116453,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7116453?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7116453?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alexphi",
     "htmlUrl": "https://github.com/alexphi",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron app/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alexphi/consula-electron.git"
-    },
+    "repository": "https://github.com/alexphi/consula-electron",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "alexphi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/alexphi/consula-electron/issues"
-    },
     "homepage": "https://github.com/alexphi/consula-electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8",
@@ -108,6 +102,11 @@
       "lowdb": "^0.12.5",
       "moment": "^2.13.0",
       "uuid": "^2.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alexphi/consula-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   "filename": "alexphi___consula-electron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:34.931Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:52.113Z"
+  "lastFetchedAt": "2017-10-23T21:43:52.021Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:52.113Z",
+  "archived": false
 }

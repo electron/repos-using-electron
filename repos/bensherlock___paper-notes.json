@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Paper-Notes",
     "description": "Paper. Notes.",
@@ -81,10 +81,7 @@
       "url": "http://bensherlock.co.uk/"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bensherlock/paper-notes.git"
-    },
+    "repository": "https://github.com/bensherlock/paper-notes",
     "main": "main.js",
     "scripts": {
       "test": "standard && mocha --recursive",
@@ -186,7 +183,8 @@
       "diskdb": "^0.1.15",
       "jquery": "^3.1.0",
       "underscore": "^1.8.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -213,6 +211,6 @@
   },
   "filename": "bensherlock___paper-notes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:27:33.459Z",
+  "lastFetchedAt": "2017-10-23T23:07:13.834Z",
   "packageLastFetchedAt": "2017-05-04T22:39:12.061Z"
 }

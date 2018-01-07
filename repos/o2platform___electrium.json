@@ -5,7 +5,7 @@
   "owner": {
     "login": "o2platform",
     "id": 680354,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/680354?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/680354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/o2platform",
     "htmlUrl": "https://github.com/o2platform",
@@ -20,12 +20,12 @@
   "description": "Browser automation based on Electron (similar to Selenium)",
   "fork": false,
   "createdAt": "2016-05-24T08:46:47.000Z",
-  "updatedAt": "2016-05-24T13:59:31.000Z",
+  "updatedAt": "2017-06-10T14:48:47.000Z",
   "pushedAt": "2016-06-03T15:14:07.000Z",
   "homepage": null,
   "size": 26,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "CoffeeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "o2platform",
     "id": 680354,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/680354?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/680354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/o2platform",
     "htmlUrl": "https://github.com/o2platform",
@@ -73,15 +73,9 @@
     "scripts": {
       "test": "mocha --compilers coffee:coffee-script/register -- recursive test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/o2platform/electrium.git"
-    },
+    "repository": "https://github.com/o2platform/electrium",
     "author": "Dinis Cruz",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/o2platform/electrium/issues"
-    },
     "homepage": "https://github.com/o2platform/electrium#readme",
     "dependencies": {
       "coffee-script": "^1.10.0",
@@ -91,6 +85,11 @@
       "mocha": "^2.5.1",
       "nesh": "^1.6.0",
       "spectron": "^3.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/o2platform/electrium/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "o2platform___electrium.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:23:39.790Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:45.168Z"
+  "lastFetchedAt": "2017-10-23T22:09:38.018Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:45.168Z",
+  "archived": false
 }

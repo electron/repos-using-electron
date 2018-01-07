@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cloudmusic-radio",
     "version": "0.0.0",
@@ -78,10 +78,7 @@
     "main": "src/app.js",
     "author": "Qiu Xiang <xiang.qiu@qq.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/qiuxiang/personal-radio.git"
-    },
+    "repository": "https://github.com/qiuxiang/personal-radio",
     "scripts": {
       "start": "electron ."
     },
@@ -93,7 +90,8 @@
       "request": "^2.57.0",
       "tough-cookie-filestore": "0.0.1",
       "node-notifier": "~4.2.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,6 @@
   },
   "filename": "qiuxiang___personal-radio.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:44.912Z",
+  "lastFetchedAt": "2017-10-23T23:10:42.319Z",
   "packageLastFetchedAt": "2017-05-05T17:54:38.057Z"
 }

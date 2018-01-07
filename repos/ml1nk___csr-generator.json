@@ -5,7 +5,7 @@
   "owner": {
     "login": "ml1nk",
     "id": 4943440,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4943440?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4943440?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ml1nk",
     "htmlUrl": "https://github.com/ml1nk",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/ml1nk/csr-generator/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ml1nk/csr-generator/deployments",
   "createdAt": "2016-11-17T00:24:17.000Z",
-  "updatedAt": "2016-11-28T15:55:15.000Z",
-  "pushedAt": "2017-02-09T13:41:16.000Z",
+  "updatedAt": "2017-07-20T19:53:10.000Z",
+  "pushedAt": "2017-10-18T06:58:23.000Z",
   "gitUrl": "git://github.com/ml1nk/csr-generator.git",
   "sshUrl": "git@github.com:ml1nk/csr-generator.git",
   "cloneUrl": "https://github.com/ml1nk/csr-generator.git",
   "svnUrl": "https://github.com/ml1nk/csr-generator",
   "homepage": "",
-  "size": 2691,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 13523,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -98,18 +98,12 @@
       "pack": "npm run build && build -wl --x64 --ia32",
       "publish": "npm run build && build -wl --x64 --ia32 --publish always"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ml1nk/csr-generator.git"
-    },
+    "repository": "https://github.com/ml1nk/csr-generator",
     "author": {
       "name": "Marcel Link",
       "email": "marcel.link@t-online.de"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ml1nk/csr-generator/issues"
-    },
     "homepage": "https://github.com/ml1nk/csr-generator#readme",
     "devDependencies": {
       "bootstrap": "^3.3.7",
@@ -136,6 +130,11 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.13.3",
       "windows-1252": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ml1nk/csr-generator/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "ml1nk___csr-generator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:02.770Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:39.694Z"
+  "lastFetchedAt": "2017-10-24T00:05:00.073Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:39.694Z",
+  "archived": false
 }

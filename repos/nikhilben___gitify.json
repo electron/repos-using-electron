@@ -5,7 +5,7 @@
   "owner": {
     "login": "nikhilben",
     "id": 355844,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/355844?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/355844?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nikhilben",
     "htmlUrl": "https://github.com/nikhilben",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "manosim",
       "id": 6333409,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6333409?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6333409?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/manosim",
       "htmlUrl": "https://github.com/manosim",
@@ -62,7 +62,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/manosim/gitify",
-    "description": "GitHub Notifications on your menu bar.",
+    "description": "GitHub Notifications on your desktop.",
     "fork": false,
     "url": "https://api.github.com/repos/manosim/gitify",
     "forksUrl": "https://api.github.com/repos/manosim/gitify/forks",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/manosim/gitify/downloads",
     "deploymentsUrl": "https://api.github.com/repos/manosim/gitify/deployments",
     "createdAt": "2015-05-21T18:15:28.000Z",
-    "updatedAt": "2017-05-04T14:24:49.000Z",
-    "pushedAt": "2017-05-01T19:13:37.000Z",
+    "updatedAt": "2017-10-23T15:42:36.000Z",
+    "pushedAt": "2017-06-24T12:50:33.000Z",
     "gitUrl": "git://github.com/manosim/gitify.git",
     "sshUrl": "git@github.com:manosim/gitify.git",
     "cloneUrl": "https://github.com/manosim/gitify.git",
     "svnUrl": "https://github.com/manosim/gitify",
     "homepage": "http://www.gitify.io/",
-    "size": 5491,
-    "stargazersCount": 1737,
-    "watchersCount": 1737,
+    "size": 7114,
+    "stargazersCount": 2106,
+    "watchersCount": 2106,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 110,
+    "forksCount": 131,
     "mirrorUrl": null,
-    "openIssuesCount": 43,
-    "openIssues": 43,
-    "watchers": 1737,
+    "archived": false,
+    "openIssuesCount": 56,
+    "openIssues": 56,
+    "watchers": 2106,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "manosim",
       "id": 6333409,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6333409?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6333409?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/manosim",
       "htmlUrl": "https://github.com/manosim",
@@ -122,7 +123,7 @@
     },
     "private": false,
     "htmlUrl": "https://github.com/manosim/gitify",
-    "description": "GitHub Notifications on your menu bar.",
+    "description": "GitHub Notifications on your desktop.",
     "fork": false,
     "url": "https://api.github.com/repos/manosim/gitify",
     "forksUrl": "https://api.github.com/repos/manosim/gitify/forks",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/manosim/gitify/downloads",
     "deploymentsUrl": "https://api.github.com/repos/manosim/gitify/deployments",
     "createdAt": "2015-05-21T18:15:28.000Z",
-    "updatedAt": "2017-05-04T14:24:49.000Z",
-    "pushedAt": "2017-05-01T19:13:37.000Z",
+    "updatedAt": "2017-10-23T15:42:36.000Z",
+    "pushedAt": "2017-06-24T12:50:33.000Z",
     "gitUrl": "git://github.com/manosim/gitify.git",
     "sshUrl": "git@github.com:manosim/gitify.git",
     "cloneUrl": "https://github.com/manosim/gitify.git",
     "svnUrl": "https://github.com/manosim/gitify",
     "homepage": "http://www.gitify.io/",
-    "size": 5491,
-    "stargazersCount": 1737,
-    "watchersCount": 1737,
+    "size": 7114,
+    "stargazersCount": 2106,
+    "watchersCount": 2106,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 110,
+    "forksCount": 131,
     "mirrorUrl": null,
-    "openIssuesCount": 43,
-    "openIssues": 43,
-    "watchers": 1737,
+    "archived": false,
+    "openIssuesCount": 56,
+    "openIssues": 56,
+    "watchers": 2106,
     "defaultBranch": "master"
   },
-  "networkCount": 110,
+  "networkCount": 131,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -183,10 +185,7 @@
       "test": "npm run lint-js && npm run lint-sass && npm run coverage",
       "start": "electron . –enable-logging"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ekonstantinidis/gitify.git"
-    },
+    "repository": "https://github.com/ekonstantinidis/gitify",
     "keywords": [
       "gitify",
       "github",
@@ -210,9 +209,6 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ekonstantinidis/gitify/issues"
-    },
     "homepage": "https://github.com/ekonstantinidis/gitify",
     "dependencies": {
       "auto-launch": "=2.0.1",
@@ -271,6 +267,11 @@
       "vinyl-buffer": "=1.0.0",
       "vinyl-source-stream": "=1.1.0",
       "watchify": "=3.7.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ekonstantinidis/gitify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -319,6 +320,7 @@
   "filename": "nikhilben___gitify.json",
   "sourceRepo": "ekonstantinidis/gitify",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:33:55.752Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:56.920Z"
+  "lastFetchedAt": "2017-10-23T22:23:33.343Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:56.920Z",
+  "archived": false
 }

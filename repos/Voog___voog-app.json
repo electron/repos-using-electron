@@ -5,7 +5,7 @@
   "owner": {
     "login": "Voog",
     "id": 9587285,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9587285?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9587285?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Voog",
     "htmlUrl": "https://github.com/Voog",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Voog",
     "id": 9587285,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9587285?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9587285?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Voog",
     "htmlUrl": "https://github.com/Voog",
@@ -104,13 +104,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Voog/voog-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Voog/voog-app/issues"
-    },
+    "repository": "https://github.com/Voog/voog-app",
     "devDependencies": {
       "asar": "^0.9.0",
       "babel-core": "^6.3.26",
@@ -164,6 +158,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Voog/voog-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -191,6 +190,7 @@
   },
   "filename": "Voog___voog-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:29.215Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:31.480Z"
+  "lastFetchedAt": "2017-10-23T23:41:45.172Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:31.480Z",
+  "archived": false
 }

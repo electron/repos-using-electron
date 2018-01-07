@@ -44,16 +44,13 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tweet-rec",
     "version": "1.0.0",
     "description": "Tweet recording player by electron",
     "main": "dist/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/midnightSuyama/tweet-rec.git"
-    },
+    "repository": "https://github.com/midnightSuyama/tweet-rec",
     "scripts": {
       "browserify": "npm run browserify:main && npm run browserify:renderer && npm run vendor",
       "browserify:main": "browserify --im --no-detect-globals --node dist/main.js | uglifyjs -o dist/main.js --comments",
@@ -108,7 +105,8 @@
       "shortid": "^2.2.4",
       "twitter": "^1.2.5",
       "twitter-text": "^1.13.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/midnightSuyama/tweet-rec",
@@ -155,6 +153,6 @@
   },
   "filename": "midnightSuyama___tweet-rec.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:05:21.838Z",
+  "lastFetchedAt": "2017-10-23T23:03:59.585Z",
   "packageLastFetchedAt": "2017-05-05T15:16:24.434Z"
 }

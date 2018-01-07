@@ -5,7 +5,7 @@
   "owner": {
     "login": "natp0ng",
     "id": 1019494,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1019494?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1019494?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/natp0ng",
     "htmlUrl": "https://github.com/natp0ng",
@@ -78,10 +78,7 @@
       "start": "electron .",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -90,9 +87,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "1.2.5",
@@ -100,6 +94,11 @@
     },
     "dependencies": {
       "electron-log": "^1.0.14"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "natp0ng___electron-autoupdate-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:52:00.524Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:16.535Z"
+  "lastFetchedAt": "2017-10-24T00:19:12.704Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:16.535Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "maniacs-satm",
     "id": 16589946,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16589946?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16589946?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maniacs-satm",
     "htmlUrl": "https://github.com/maniacs-satm",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "maniacs-satm",
     "id": 16589946,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16589946?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16589946?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/maniacs-satm",
     "htmlUrl": "https://github.com/maniacs-satm",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "MarshallOfSound",
       "id": 6634592,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6634592?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6634592?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/MarshallOfSound",
       "htmlUrl": "https://github.com/MarshallOfSound",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/downloads",
     "deploymentsUrl": "https://api.github.com/repos/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/deployments",
     "createdAt": "2015-07-31T14:05:23.000Z",
-    "updatedAt": "2017-05-04T14:47:39.000Z",
-    "pushedAt": "2017-05-02T08:02:36.000Z",
+    "updatedAt": "2017-10-23T12:38:40.000Z",
+    "pushedAt": "2017-10-17T01:38:55.000Z",
     "gitUrl": "git://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.git",
     "sshUrl": "git@github.com:MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.git",
     "cloneUrl": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.git",
     "svnUrl": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
     "homepage": "https://www.googleplaymusicdesktopplayer.com",
-    "size": 170106,
-    "stargazersCount": 4695,
-    "watchersCount": 4695,
+    "size": 170304,
+    "stargazersCount": 5476,
+    "watchersCount": 5476,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 443,
+    "forksCount": 531,
     "mirrorUrl": null,
-    "openIssuesCount": 35,
-    "openIssues": 35,
-    "watchers": 4695,
+    "archived": false,
+    "openIssuesCount": 51,
+    "openIssues": 51,
+    "watchers": 5476,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "MarshallOfSound",
       "id": 6634592,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6634592?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6634592?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/MarshallOfSound",
       "htmlUrl": "https://github.com/MarshallOfSound",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/downloads",
     "deploymentsUrl": "https://api.github.com/repos/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/deployments",
     "createdAt": "2015-07-31T14:05:23.000Z",
-    "updatedAt": "2017-05-04T14:47:39.000Z",
-    "pushedAt": "2017-05-02T08:02:36.000Z",
+    "updatedAt": "2017-10-23T12:38:40.000Z",
+    "pushedAt": "2017-10-17T01:38:55.000Z",
     "gitUrl": "git://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.git",
     "sshUrl": "git@github.com:MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.git",
     "cloneUrl": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-.git",
     "svnUrl": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
     "homepage": "https://www.googleplaymusicdesktopplayer.com",
-    "size": 170106,
-    "stargazersCount": 4695,
-    "watchersCount": 4695,
+    "size": 170304,
+    "stargazersCount": 5476,
+    "watchersCount": 5476,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 443,
+    "forksCount": 531,
     "mirrorUrl": null,
-    "openIssuesCount": 35,
-    "openIssues": 35,
-    "watchers": 4695,
+    "archived": false,
+    "openIssuesCount": 51,
+    "openIssues": 51,
+    "watchers": 5476,
     "defaultBranch": "master"
   },
-  "networkCount": 443,
+  "networkCount": 531,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -225,10 +227,7 @@
       "_coveralls": "node test/istanbul-patch-lcov.js | node node_modules/coveralls/bin/coveralls.js",
       "_coverage_publish": "rm -f coverage/*.json coverage/*.remap && cd coverage && zip -r ../coverage.zip * && cd .. && node sig/publish-coverage.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-"
-    },
+    "repository": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
     "author": {
       "name": "Samuel Attard",
       "email": "samuel.r.attard@gmail.com",
@@ -350,7 +349,8 @@
           "sourceMaps": "inline"
         }
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -398,6 +398,7 @@
   "svnUrl": "https://github.com/maniacs-satm/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:16:08.951Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:35.101Z"
+  "lastFetchedAt": "2017-10-23T22:14:18.748Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:35.101Z",
+  "archived": false
 }

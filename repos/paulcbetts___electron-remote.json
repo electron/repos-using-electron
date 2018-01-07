@@ -6,7 +6,7 @@
   "owner": {
     "login": "electron-userland",
     "id": 17519142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17519142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17519142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-userland",
     "htmlUrl": "https://github.com/electron-userland",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/electron-userland/electron-remote/downloads",
   "deploymentsUrl": "https://api.github.com/repos/electron-userland/electron-remote/deployments",
   "createdAt": "2016-04-27T01:53:44.000Z",
-  "updatedAt": "2017-05-03T13:36:25.000Z",
-  "pushedAt": "2017-04-05T17:50:23.000Z",
+  "updatedAt": "2017-10-23T09:59:39.000Z",
+  "pushedAt": "2017-08-20T18:39:48.000Z",
   "gitUrl": "git://github.com/electron-userland/electron-remote.git",
   "sshUrl": "git@github.com:electron-userland/electron-remote.git",
   "cloneUrl": "https://github.com/electron-userland/electron-remote.git",
   "svnUrl": "https://github.com/electron-userland/electron-remote",
   "homepage": null,
-  "size": 301,
-  "stargazersCount": 178,
-  "watchersCount": 178,
+  "size": 336,
+  "stargazersCount": 241,
+  "watchersCount": 241,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 10,
+  "forksCount": 15,
   "mirrorUrl": null,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 178,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 241,
   "defaultBranch": "master",
   "permissions": {
     "admin": true,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "electron-userland",
     "id": 17519142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17519142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17519142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-userland",
     "htmlUrl": "https://github.com/electron-userland",
@@ -83,8 +83,8 @@
     "receivedEventsUrl": "https://api.github.com/users/electron-userland/received_events",
     "type": "Organization"
   },
-  "networkCount": 10,
-  "subscribersCount": 7,
+  "networkCount": 15,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "electron-remote",
@@ -99,10 +99,7 @@
       "test": "npm run test-renderer && npm run test-browser",
       "node": "cross-env ELECTRON_RUN_AS_NODE=1 ./node_modules/electron-prebuilt-compile/node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/paulcbetts/electron-remote"
-    },
+    "repository": "https://github.com/paulcbetts/electron-remote",
     "keywords": [
       "remote",
       "electron",
@@ -110,9 +107,6 @@
     ],
     "author": "Paul Betts <paul@paulbetts.org>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paulcbetts/electron-remote/issues"
-    },
     "main": "lib/index.js",
     "homepage": "https://github.com/paulcbetts/electron-remote",
     "dependencies": {
@@ -138,6 +132,11 @@
       "esdoc-es7-plugin": "0.0.3",
       "esdoc-plugin-async-to-sync": "^0.5.0",
       "eslint": "^3.7.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/paulcbetts/electron-remote/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   "allowSquashMerge": true,
   "allowMergeCommit": true,
   "allowRebaseMerge": true,
-  "lastFetchedAt": "2017-05-04T19:31:04.118Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:03.476Z"
+  "lastFetchedAt": "2017-10-24T02:02:34.965Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:03.476Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "MiKolka7",
     "id": 4210802,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4210802?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4210802?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MiKolka7",
     "htmlUrl": "https://github.com/MiKolka7",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1",
@@ -101,6 +95,11 @@
     },
     "dependencies": {
       "electron-builder": "^2.3.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "MiKolka7___test-electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:36:27.110Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:45.466Z"
+  "lastFetchedAt": "2017-10-23T22:53:34.374Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:45.466Z",
+  "archived": false
 }

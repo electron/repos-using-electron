@@ -5,7 +5,7 @@
   "owner": {
     "login": "cycomachead",
     "id": 1505907,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1505907?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1505907?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cycomachead",
     "htmlUrl": "https://github.com/cycomachead",
@@ -56,10 +56,7 @@
     "version": "0.0.6",
     "description": "Snap! | Build Your Own Blocks",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cycomachead/snap-app.git"
-    },
+    "repository": "https://github.com/cycomachead/snap-app",
     "keywords": [
       "Snap",
       "programming",
@@ -70,9 +67,6 @@
     ],
     "author": "Michael Ball, Jens Mönig, Brian Harvey",
     "license": "AGPL",
-    "bugs": {
-      "url": "https://github.com/cycomachead/snap-app/issues"
-    },
     "homepage": "https://github.com/cycomachead/snap-app#readme",
     "devDependencies": {
       "electron-builder": "^8.x.x",
@@ -104,7 +98,12 @@
       "dist": "build",
       "release": "build"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/cycomachead/snap-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/cycomachead/snap-app",
@@ -152,6 +151,7 @@
   "filename": "cycomachead___snap-app.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:57.691Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:57.570Z"
+  "lastFetchedAt": "2017-10-23T21:49:43.403Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:57.570Z",
+  "archived": false
 }

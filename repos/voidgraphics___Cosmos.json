@@ -5,7 +5,7 @@
   "owner": {
     "login": "voidgraphics",
     "id": 9298484,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9298484?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9298484?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/voidgraphics",
     "htmlUrl": "https://github.com/voidgraphics",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -73,10 +73,7 @@
     "scripts": {
       "dev": "electron ./app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/voidgraphics/Cosmos.git"
-    },
+    "repository": "https://github.com/voidgraphics/Cosmos",
     "keywords": [
       "Cosmos",
       "Project",
@@ -86,9 +83,6 @@
     ],
     "author": "Void Graphics",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/voidgraphics/Cosmos/issues"
-    },
     "homepage": "https://github.com/voidgraphics/Cosmos#readme",
     "devDependencies": {
       "autosize": "^3.0.20",
@@ -139,7 +133,12 @@
       "zouti": "^0.3.1",
       "lodash.orderby": "^4.6.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/voidgraphics/Cosmos/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -166,6 +165,7 @@
   },
   "filename": "voidgraphics___Cosmos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:44.409Z",
-  "packageLastFetchedAt": "2017-05-05T15:10:10.389Z"
+  "lastFetchedAt": "2017-10-23T21:51:56.089Z",
+  "packageLastFetchedAt": "2017-05-05T15:10:10.389Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "teich",
     "id": 47476,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/47476?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/47476?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/teich",
     "htmlUrl": "https://github.com/teich",
@@ -69,10 +69,7 @@
     "name": "pinglog-menubar",
     "version": "1.0.0",
     "description": "Menubar app for ping logging",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/teich/pinglog-menubar.git"
-    },
+    "repository": "https://github.com/teich/pinglog-menubar",
     "license": "BSD-3-Clause",
     "author": "Oren Teich",
     "dependencies": {
@@ -92,7 +89,8 @@
       "build": "electron-packager . PingLogger --platform=darwin --arch=x64 --version=0.30.5 --ignore='node_modules/electron-(packager|prebuild)'",
       "start": "electron .",
       "publish": "publish-release --template notes.md --assets PingLogger.zip"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,7 @@
   },
   "filename": "teich___pinglog-menubar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:04.950Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:36.277Z"
+  "lastFetchedAt": "2017-10-23T23:41:55.915Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:36.277Z",
+  "archived": false
 }

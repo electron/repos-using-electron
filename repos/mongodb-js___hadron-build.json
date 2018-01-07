@@ -64,7 +64,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hadron-build",
     "description": "Tooling for Hadron apps.",
@@ -79,10 +79,7 @@
       "hadron-build": "./cli.js"
     },
     "homepage": "http://github.com/mongodb-js/hadron-build",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mongodb-js/hadron-build.git"
-    },
+    "repository": "https://github.com/mongodb-js/hadron-build",
     "dependencies": {
       "asar": "^0.13.0",
       "async": "^2.1.4",
@@ -142,7 +139,8 @@
       "electron-osx-sign": "^0.4.1",
       "electron-winstaller": "2.5.1"
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -189,6 +187,6 @@
   "svnUrl": "https://github.com/mongodb-js/hadron-build",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:04:52.833Z",
+  "lastFetchedAt": "2017-10-23T23:05:15.331Z",
   "packageLastFetchedAt": "2017-05-05T17:52:44.681Z"
 }

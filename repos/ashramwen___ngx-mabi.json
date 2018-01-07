@@ -6,7 +6,7 @@
   "owner": {
     "login": "ashramwen",
     "id": 3334950,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3334950?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3334950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ashramwen",
     "htmlUrl": "https://github.com/ashramwen",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/ashramwen/ngx-mabi/deployments",
   "createdAt": "2017-04-18T08:49:56.000Z",
   "updatedAt": "2017-04-18T08:50:54.000Z",
-  "pushedAt": "2017-04-26T02:58:38.000Z",
+  "pushedAt": "2017-05-24T06:52:01.000Z",
   "gitUrl": "git://github.com/ashramwen/ngx-mabi.git",
   "sshUrl": "git@github.com:ashramwen/ngx-mabi.git",
   "cloneUrl": "https://github.com/ashramwen/ngx-mabi.git",
   "svnUrl": "https://github.com/ashramwen/ngx-mabi",
   "homepage": null,
-  "size": 13656,
+  "size": 13756,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "CSS",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T17:41:26.882Z",
+  "lastFetchedAt": "2017-10-23T22:54:48.615Z",
   "packageJSON": {
     "name": "ng2-admin",
     "version": "0.9.0",
@@ -258,17 +258,17 @@
       "clean:aot": "npm run rimraf -- compiled",
       "build:ci": "npm run build:prod && npm run build:aot"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 5.4.1 < 7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:08:32.100Z"
+  "packageLastFetchedAt": "2017-05-05T17:08:32.100Z",
+  "archived": false
 }

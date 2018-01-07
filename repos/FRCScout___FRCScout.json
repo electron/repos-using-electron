@@ -64,7 +64,7 @@
   },
   "networkCount": 9,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "VictiScout",
     "version": "v2.0.0",
@@ -77,20 +77,19 @@
       "package-win": "electron-packager . --platform=win32 --arch=all --out ~/Desktop/Scout --overwrite --ignore=\\.gitignore",
       "package-linux": "electron-packager . --platform=linux --arch=all --out ~/Desktop/Scout --overwrite --ignore=\\.gitignore"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/frc1418/VictiScout"
-    },
+    "repository": "https://github.com/frc1418/VictiScout",
     "author": "frc1418",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/frc1418/VictiScout/issues"
-    },
     "homepage": "https://github.com/frc1418/VictiScout#readme",
     "devDependencies": {
       "electron-packager": "^7.3.0",
       "electron": "^1.2.0",
       "os": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/frc1418/VictiScout/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   },
   "filename": "FRCScout___FRCScout.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:30.055Z",
+  "lastFetchedAt": "2017-10-23T23:00:25.836Z",
   "packageLastFetchedAt": "2017-05-05T17:36:05.168Z"
 }

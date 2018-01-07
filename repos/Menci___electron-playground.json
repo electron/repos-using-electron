@@ -5,7 +5,7 @@
   "owner": {
     "login": "Menci",
     "id": 11341955,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11341955?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11341955?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Menci",
     "htmlUrl": "https://github.com/Menci",
@@ -60,19 +60,18 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Menci/electron-playground.git"
-    },
+    "repository": "https://github.com/Menci/electron-playground",
     "author": "Menci",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Menci/electron-playground/issues"
-    },
     "homepage": "https://github.com/Menci/electron-playground#readme",
     "dependencies": {
       "electron": "^1.3.4",
       "electron-titlebar": "0.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Menci/electron-playground/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   "svnUrl": "https://github.com/Menci/electron-playground",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:24:30.728Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:06.131Z"
+  "lastFetchedAt": "2017-10-23T21:45:59.386Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:06.131Z",
+  "archived": false
 }

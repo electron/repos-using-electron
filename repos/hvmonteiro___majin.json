@@ -5,7 +5,7 @@
   "owner": {
     "login": "hvmonteiro",
     "id": 7238281,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7238281?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7238281?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hvmonteiro",
     "htmlUrl": "https://github.com/hvmonteiro",
@@ -20,10 +20,10 @@
   "description": "Majin - Mobile Browser for the Desktop",
   "fork": false,
   "createdAt": "2016-04-01T19:04:58.000Z",
-  "updatedAt": "2017-02-12T23:01:47.000Z",
-  "pushedAt": "2017-04-27T13:35:33.000Z",
-  "homepage": "http://majin.info",
-  "size": 911,
+  "updatedAt": "2017-07-18T09:14:11.000Z",
+  "pushedAt": "2017-07-18T11:12:53.000Z",
+  "homepage": "",
+  "size": 1050,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": true,
   "forksCount": 0,
-  "openIssuesCount": 17,
-  "openIssues": 17,
+  "openIssuesCount": 21,
+  "openIssues": 21,
   "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
@@ -64,10 +64,7 @@
       "exec-test": "electron src/majin.js --test",
       "build": "./bin/build.sh all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hvmonteiro/majin.git"
-    },
+    "repository": "https://github.com/hvmonteiro/majin",
     "keywords": [
       "majin",
       "browser",
@@ -78,9 +75,6 @@
     "author": "Hugo V. Monteiro",
     "license": "GPL-2.0",
     "url": "https://github.com/hvmonteiro/majin",
-    "bugs": {
-      "url": "https://github.com/hvmonteiro/majin/issues"
-    },
     "homepage": "http://majin.info/",
     "devDependencies": {
       "rcedit": "0.5.0",
@@ -117,7 +111,12 @@
       "x64",
       "ia32"
     ],
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hvmonteiro/majin/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -164,6 +163,7 @@
   "svnUrl": "https://github.com/hvmonteiro/majin",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:57:27.556Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:35.965Z"
+  "lastFetchedAt": "2017-10-23T23:41:10.420Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:35.965Z",
+  "archived": false
 }

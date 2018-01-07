@@ -5,7 +5,7 @@
   "owner": {
     "login": "yasumichi",
     "id": 802334,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/802334?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/802334?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yasumichi",
     "htmlUrl": "https://github.com/yasumichi",
@@ -83,19 +83,13 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yasumichi/remark-editor.git"
-    },
+    "repository": "https://github.com/yasumichi/remark-editor",
     "keywords": [
       "Markdown",
       "Presentation"
     ],
     "author": "Yasumichi Akahoshi",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/yasumichi/remark-editor/issues"
-    },
     "homepage": "https://github.com/yasumichi/remark-editor#readme",
     "devDependencies": {
       "electron-packager": "^7.6.0",
@@ -103,6 +97,11 @@
     },
     "dependencies": {
       "ace-min-noconflict": "^1.1.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/yasumichi/remark-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "yasumichi___remark-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:26.279Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:00.417Z"
+  "lastFetchedAt": "2017-10-23T23:38:58.519Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:00.417Z",
+  "archived": false
 }

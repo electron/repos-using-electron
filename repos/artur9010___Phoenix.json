@@ -5,7 +5,7 @@
   "owner": {
     "login": "artur9010",
     "id": 4835677,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4835677?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4835677?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/artur9010",
     "htmlUrl": "https://github.com/artur9010",
@@ -61,18 +61,12 @@
       "build": "./package.sh",
       "prod": "./package.sh all all && cd dist && for i in */; do zip -r \"${i%/}.zip\" \"$i\"; done"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/artur9010/Phoenix.git"
-    },
+    "repository": "https://github.com/artur9010/Phoenix",
     "author": "artur9010 <admin@artur9010.pl>",
     "contributors": [
       "wvffle <casper@wvffle.net>"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/artur9010/Phoenix/issues"
-    },
     "homepage": "https://github.com/artur9010/Phoenix#readme",
     "dependencies": {
       "coffee-script": "^1.11.1",
@@ -88,6 +82,11 @@
     "devDependencies": {
       "electron": "^1.4.15",
       "electron-packager": "^8.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/artur9010/Phoenix/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   "svnUrl": "https://github.com/artur9010/Phoenix",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:52:38.740Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:57.156Z"
+  "lastFetchedAt": "2017-10-24T00:07:42.698Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:57.156Z",
+  "archived": false
 }

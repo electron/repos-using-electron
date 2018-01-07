@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "movie_tracker",
     "version": "1.0.0",
@@ -79,21 +79,20 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dhamaniasad/movie_tracker.git"
-    },
+    "repository": "https://github.com/dhamaniasad/movie_tracker",
     "author": "Asad Dhamani",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dhamaniasad/movie_tracker/issues"
-    },
     "homepage": "https://github.com/dhamaniasad/movie_tracker",
     "devDependencies": {
       "electron-prebuilt": "^0.32.0"
     },
     "dependencies": {
       "got": "^4.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dhamaniasad/movie_tracker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,6 @@
   },
   "filename": "dhamaniasad___movie_tracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:21.530Z",
+  "lastFetchedAt": "2017-10-23T23:07:03.821Z",
   "packageLastFetchedAt": "2017-05-05T01:31:52.246Z"
 }

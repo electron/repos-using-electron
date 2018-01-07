@@ -5,7 +5,7 @@
   "owner": {
     "login": "zsxsoft",
     "id": 2398785,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2398785?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2398785?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zsxsoft",
     "htmlUrl": "https://github.com/zsxsoft",
@@ -20,21 +20,21 @@
   "description": "A cross-platforms danmaku client that supports transparency which based on canvas + WebSocket. 多用跨平台透明弹幕客户端，支持图文弹幕，基于canvas + WebSocket。",
   "fork": false,
   "createdAt": "2015-03-07T15:16:18.000Z",
-  "updatedAt": "2017-04-28T14:13:37.000Z",
-  "pushedAt": "2017-05-01T02:54:50.000Z",
+  "updatedAt": "2017-10-19T10:33:23.000Z",
+  "pushedAt": "2017-08-20T06:31:09.000Z",
   "homepage": "",
-  "size": 284,
-  "stargazersCount": 73,
-  "watchersCount": 73,
+  "size": 439,
+  "stargazersCount": 95,
+  "watchersCount": 95,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 19,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 73,
+  "forksCount": 24,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 95,
   "defaultBranch": "electron",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 19,
-  "subscribersCount": 7,
+  "networkCount": 24,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "danmu-client",
@@ -55,19 +55,13 @@
       "go": "electron .",
       "go-lin": "electron . --enable-transparent-visuals --disable-gpu"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zsxsoft/danmu-client.git"
-    },
+    "repository": "https://github.com/zsxsoft/danmu-client",
     "keywords": [
       "danmu",
       "danmaku"
     ],
     "author": "zsx <zsx@zsxsoft.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zsxsoft/danmu-client/issues"
-    },
     "homepage": "https://github.com/zsxsoft/danmu-client",
     "dependencies": {
       "electron-penetrate": "0.0.3",
@@ -78,6 +72,11 @@
       "electron-prebuilt": "^1.3.2",
       "electron-rebuild": "^1.1.5",
       "node-gyp": "^3.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zsxsoft/danmu-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "zsxsoft___danmu-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:05.236Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:46.282Z"
+  "lastFetchedAt": "2017-10-24T00:11:38.479Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:46.282Z",
+  "archived": false
 }

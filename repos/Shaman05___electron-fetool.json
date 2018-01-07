@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fetool-electron",
     "version": "1.0.0",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Shaman05/electron-fetool.git"
-    },
+    "repository": "https://github.com/Shaman05/electron-fetool",
     "keywords": [
       "Fetool",
       "Electron"
@@ -71,7 +68,8 @@
     "devDependencies": {
       "electron-prebuilt": "^0.35.0",
       "electron-rebuild": "^1.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +116,6 @@
   "svnUrl": "https://github.com/Shaman05/electron-fetool",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:15:21.260Z",
+  "lastFetchedAt": "2017-10-23T23:05:12.840Z",
   "packageLastFetchedAt": "2017-05-05T14:43:39.321Z"
 }

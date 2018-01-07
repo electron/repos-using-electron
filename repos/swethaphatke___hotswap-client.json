@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Hotswap-Client",
     "description": "A hotswap client application",
@@ -72,17 +72,15 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/swethaphatke/hotswap-client.git"
-    },
+    "repository": "https://github.com/swethaphatke/hotswap-client",
     "author": "pswetha10",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0",
       "request": "latest",
       "zip-local": "latest",
       "fs-extra": "latest"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,6 +107,6 @@
   },
   "filename": "swethaphatke___hotswap-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:55:42.554Z",
+  "lastFetchedAt": "2017-10-23T23:08:31.337Z",
   "packageLastFetchedAt": "2017-05-05T17:02:18.057Z"
 }

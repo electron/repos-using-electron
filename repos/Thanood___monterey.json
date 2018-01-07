@@ -164,7 +164,7 @@
   },
   "networkCount": 7,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "monterey",
     "version": "0.4.7",
@@ -175,19 +175,13 @@
       "gui"
     ],
     "homepage": "http://aurelia.io",
-    "bugs": {
-      "url": "https://github.com/monterey-framework/monterey/issues"
-    },
     "main": "app/index.js",
     "license": "CC0-1.0",
     "author": {
       "name": "Monterey",
       "email": "info@aureliatools.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/monterey-framework/monterey"
-    },
+    "repository": "https://github.com/monterey-framework/monterey",
     "scripts": {
       "postinstall": "install-app-deps",
       "pack": "build --dir",
@@ -195,9 +189,6 @@
       "setup": "node utils -setup && node utils -rebuild-native",
       "rebuild-native": "node utils -rebuild-native",
       "test-build": "gulp rename-index && build && gulp rename-index-back"
-    },
-    "directories": {
-      "app": "app"
     },
     "build": {
       "appId": "monterey",
@@ -268,6 +259,14 @@
       "typescript": "^2.0.0",
       "vinyl-paths": "^2.1.0",
       "yargs": "^4.7.1"
+    },
+    "other": {
+      "directories": {
+        "app": "app"
+      },
+      "bugs": {
+        "url": "https://github.com/monterey-framework/monterey/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -316,6 +315,6 @@
   "svnUrl": "https://github.com/Thanood/monterey",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:15:32.863Z",
+  "lastFetchedAt": "2017-10-23T23:04:35.588Z",
   "packageLastFetchedAt": "2017-05-04T22:34:16.199Z"
 }

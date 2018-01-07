@@ -6,7 +6,7 @@
   "owner": {
     "login": "nextinq",
     "id": 19695913,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19695913?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19695913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nextinq",
     "htmlUrl": "https://github.com/nextinq",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/nextinq/booth/deployments",
   "createdAt": "2016-09-27T08:42:06.000Z",
   "updatedAt": "2016-12-04T13:33:40.000Z",
-  "pushedAt": "2017-04-04T14:29:51.000Z",
+  "pushedAt": "2017-08-22T21:09:55.000Z",
   "gitUrl": "git://github.com/nextinq/booth.git",
   "sshUrl": "git@github.com:nextinq/booth.git",
   "cloneUrl": "https://github.com/nextinq/booth.git",
   "svnUrl": "https://github.com/nextinq/booth",
   "homepage": null,
-  "size": 17790,
+  "size": 17885,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -66,7 +66,7 @@
   "organization": {
     "login": "nextinq",
     "id": 19695913,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19695913?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19695913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nextinq",
     "htmlUrl": "https://github.com/nextinq",
@@ -86,10 +86,7 @@
     "version": "0.38.0",
     "description": "Electron app used to control nextinq CBX",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nextinq/booth"
-    },
+    "repository": "https://github.com/nextinq/booth",
     "scripts": {
       "start": "APP_ENV=development ./node_modules/.bin/electron .",
       "startw": "SET APP_ENV=development&& electron .",
@@ -175,7 +172,8 @@
       "redux-logger": "^2.6.1",
       "redux-saga": "^0.11.1",
       "ws": "^1.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -201,6 +199,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:46.806Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:04.141Z"
+  "lastFetchedAt": "2017-10-23T22:10:02.773Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:04.141Z",
+  "archived": false
 }

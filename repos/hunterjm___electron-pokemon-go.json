@@ -5,7 +5,7 @@
   "owner": {
     "login": "hunterjm",
     "id": 747670,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/747670?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/747670?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hunterjm",
     "htmlUrl": "https://github.com/hunterjm",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/hunterjm/electron-pokemon-go/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hunterjm/electron-pokemon-go/deployments",
   "createdAt": "2016-07-20T23:58:03.000Z",
-  "updatedAt": "2016-08-01T15:52:23.000Z",
+  "updatedAt": "2017-07-24T23:16:18.000Z",
   "pushedAt": "2016-09-02T04:32:39.000Z",
   "gitUrl": "git://github.com/hunterjm/electron-pokemon-go.git",
   "sshUrl": "git@github.com:hunterjm/electron-pokemon-go.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/hunterjm/electron-pokemon-go",
   "homepage": null,
   "size": 808,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 6,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,11 +72,7 @@
     "description": "Pokemon Go toolset.",
     "homepage": "https://github.com/hunterjm/electron-pokemon-go",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:hunterjm/electron-pokemon-go.git"
-    },
-    "bugs": "https://github.com/hunterjm/electron-pokemon-go/issues",
+    "repository": "https://github.com/hunterjm/electron-pokemon-go",
     "scripts": {
       "start": "grunt",
       "start-dev": "NODE_ENV=development grunt",
@@ -144,6 +140,9 @@
       "redux-devtools-log-monitor": "^1.0.5",
       "redux-immutable-state-invariant": "^1.2.3",
       "redux-logger": "^2.6.1"
+    },
+    "other": {
+      "bugs": "https://github.com/hunterjm/electron-pokemon-go/issues"
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "hunterjm___electron-pokemon-go.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:16.050Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:06.186Z"
+  "lastFetchedAt": "2017-10-23T22:24:50.507Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:06.186Z",
+  "archived": false
 }

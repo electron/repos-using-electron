@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-typescript-example",
     "version": "1.0.0",
@@ -82,15 +82,9 @@
       "test": "karma start",
       "lint": "tslint -c tslint.json "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sue71/react-typescript-example.git"
-    },
+    "repository": "https://github.com/sue71/react-typescript-example",
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/sue71/react-typescript-example/issues"
-    },
     "homepage": "https://github.com/sue71/react-typescript-example#readme",
     "dependencies": {
       "electron-debug": "^0.5.2",
@@ -129,6 +123,11 @@
       "webpack-dev-server": "^1.14.1",
       "webpack-hot-middleware": "^2.7.1",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sue71/react-typescript-example/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,6 @@
   },
   "filename": "sue71___electron-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:52:33.132Z",
+  "lastFetchedAt": "2017-10-23T23:03:03.072Z",
   "packageLastFetchedAt": "2017-05-05T14:47:25.010Z"
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "rajogit",
     "id": 11206259,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11206259?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11206259?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rajogit",
     "htmlUrl": "https://github.com/rajogit",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "stanfieldr",
       "id": 7494573,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/7494573?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7494573?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/stanfieldr",
       "htmlUrl": "https://github.com/stanfieldr",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/stanfieldr/ghetto-skype/downloads",
     "deploymentsUrl": "https://api.github.com/repos/stanfieldr/ghetto-skype/deployments",
     "createdAt": "2016-05-01T06:14:23.000Z",
-    "updatedAt": "2017-05-02T15:34:05.000Z",
-    "pushedAt": "2017-02-01T10:06:58.000Z",
+    "updatedAt": "2017-10-23T20:32:59.000Z",
+    "pushedAt": "2017-10-06T03:11:56.000Z",
     "gitUrl": "git://github.com/stanfieldr/ghetto-skype.git",
     "sshUrl": "git@github.com:stanfieldr/ghetto-skype.git",
     "cloneUrl": "https://github.com/stanfieldr/ghetto-skype.git",
     "svnUrl": "https://github.com/stanfieldr/ghetto-skype",
     "homepage": "",
-    "size": 2895,
-    "stargazersCount": 675,
-    "watchersCount": 675,
+    "size": 2924,
+    "stargazersCount": 709,
+    "watchersCount": 709,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 36,
+    "forksCount": 40,
     "mirrorUrl": null,
-    "openIssuesCount": 33,
-    "openIssues": 33,
-    "watchers": 675,
+    "archived": false,
+    "openIssuesCount": 41,
+    "openIssues": 41,
+    "watchers": 709,
     "defaultBranch": "develop"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "stanfieldr",
       "id": 7494573,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/7494573?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/7494573?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/stanfieldr",
       "htmlUrl": "https://github.com/stanfieldr",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/stanfieldr/ghetto-skype/downloads",
     "deploymentsUrl": "https://api.github.com/repos/stanfieldr/ghetto-skype/deployments",
     "createdAt": "2016-05-01T06:14:23.000Z",
-    "updatedAt": "2017-05-02T15:34:05.000Z",
-    "pushedAt": "2017-02-01T10:06:58.000Z",
+    "updatedAt": "2017-10-23T20:32:59.000Z",
+    "pushedAt": "2017-10-06T03:11:56.000Z",
     "gitUrl": "git://github.com/stanfieldr/ghetto-skype.git",
     "sshUrl": "git@github.com:stanfieldr/ghetto-skype.git",
     "cloneUrl": "https://github.com/stanfieldr/ghetto-skype.git",
     "svnUrl": "https://github.com/stanfieldr/ghetto-skype",
     "homepage": "",
-    "size": 2895,
-    "stargazersCount": 675,
-    "watchersCount": 675,
+    "size": 2924,
+    "stargazersCount": 709,
+    "watchersCount": 709,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 36,
+    "forksCount": 40,
     "mirrorUrl": null,
-    "openIssuesCount": 33,
-    "openIssues": 33,
-    "watchers": 675,
+    "archived": false,
+    "openIssuesCount": 41,
+    "openIssues": 41,
+    "watchers": 709,
     "defaultBranch": "develop"
   },
-  "networkCount": 36,
+  "networkCount": 40,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -197,10 +199,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stanfieldr/ghetto-skype.git"
-    },
+    "repository": "https://github.com/stanfieldr/ghetto-skype",
     "keywords": [
       "web",
       "skype",
@@ -208,9 +207,6 @@
     ],
     "author": "Robert Stanfield <robert@stanfield.it>",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/stanfieldr/ghetto-skype/issues"
-    },
     "homepage": "https://github.com/stanfieldr/ghetto-skype#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
@@ -226,6 +222,11 @@
       "mime": "^1.3.4",
       "stylus": "^0.54.5",
       "tmp": "0.0.28"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stanfieldr/ghetto-skype/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -253,6 +254,7 @@
   },
   "sourceRepo": "stanfieldr/ghetto-skype",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:57:13.811Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:07.369Z"
+  "lastFetchedAt": "2017-10-23T22:06:36.949Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:07.369Z",
+  "archived": false
 }

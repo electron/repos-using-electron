@@ -5,7 +5,7 @@
   "owner": {
     "login": "alexandrev",
     "id": 947041,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/947041?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/947041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alexandrev",
     "htmlUrl": "https://github.com/alexandrev",
@@ -52,11 +52,7 @@
     "description": "Simple XPath Tool.",
     "homepage": "https://github.com/alexandrev/xpath.tool/",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:alexandrev/xpath.tool.git"
-    },
-    "bugs": "https://github.com/alexandrev/xpath.tool/issues",
+    "repository": "https://github.com/alexandrev/xpath.tool",
     "scripts": {
       "start": "grunt",
       "start-dev": "NODE_ENV=development grunt",
@@ -138,6 +134,9 @@
       "run-sequence": "^1.0.2",
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.3.2"
+    },
+    "other": {
+      "bugs": "https://github.com/alexandrev/xpath.tool/issues"
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   },
   "filename": "alexandrev___xpath-tool.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:55.889Z",
-  "packageLastFetchedAt": "2017-05-04T22:44:55.171Z"
+  "lastFetchedAt": "2017-10-24T00:15:52.228Z",
+  "packageLastFetchedAt": "2017-05-04T22:44:55.171Z",
+  "archived": false
 }

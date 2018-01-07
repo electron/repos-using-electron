@@ -5,7 +5,7 @@
   "owner": {
     "login": "englishextra",
     "id": 537127,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/537127?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/537127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/englishextra",
     "htmlUrl": "https://github.com/englishextra",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/englishextra/shimansky.biz/deployments",
   "createdAt": "2017-04-11T19:55:33.000Z",
   "updatedAt": "2017-04-11T20:00:40.000Z",
-  "pushedAt": "2017-05-02T18:34:57.000Z",
+  "pushedAt": "2017-10-23T21:51:17.000Z",
   "gitUrl": "git://github.com/englishextra/shimansky.biz.git",
   "sshUrl": "git@github.com:englishextra/shimansky.biz.git",
   "cloneUrl": "https://github.com/englishextra/shimansky.biz.git",
   "svnUrl": "https://github.com/englishextra/shimansky.biz",
   "homepage": null,
-  "size": 73335,
+  "size": 124094,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "HTML",
@@ -62,11 +62,11 @@
     "pull": true
   },
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdxId": null,
-    "url": null,
-    "featured": false
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
   },
   "networkCount": 0,
   "subscribersCount": 1,
@@ -78,10 +78,7 @@
     "version": "0.1.0",
     "identifier": "com.englishextra.app",
     "description": "English Grammar for Russian-Speakers",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/englishextra/englishextra.github.io.git"
-    },
+    "repository": "https://github.com/englishextra/englishextra.github.io",
     "email": "englishextra@mail.ru",
     "url": "https://github.com/englishextra/englishextra.github.io/issues",
     "main_file": "index.js",
@@ -156,17 +153,19 @@
         }
       ]
     },
-    "maintainers": {
-      "name": "Serguei Shimansky",
-      "email": "englishextra@mail.ru",
-      "url": "https://github.com/englishextra"
-    },
     "author": {
       "name": "Serguei Shimansky",
       "email": "englishextra@mail.ru",
       "url": "https://github.com/englishextra"
     },
-    "license": "(MIT)"
+    "license": "(MIT)",
+    "other": {
+      "maintainers": {
+        "name": "Serguei Shimansky",
+        "email": "englishextra@mail.ru",
+        "url": "https://github.com/englishextra"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -193,6 +192,7 @@
   },
   "filename": "englishextra___shimansky.biz.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:32:30.107Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:56.539Z"
+  "lastFetchedAt": "2017-10-23T22:09:27.041Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:56.539Z",
+  "archived": false
 }

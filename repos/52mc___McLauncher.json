@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "McLauncher",
     "version": "0.0.1",
@@ -97,10 +97,7 @@
       "mc",
       "electron"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/52mc/McLauncher.git"
-    },
+    "repository": "https://github.com/52mc/McLauncher",
     "author": "eeve",
     "devDependencies": {
       "adm-zip": "^0.4.7",
@@ -141,7 +138,8 @@
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -168,6 +166,6 @@
   },
   "filename": "52mc___McLauncher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:19.198Z",
+  "lastFetchedAt": "2017-10-23T22:56:22.352Z",
   "packageLastFetchedAt": "2017-05-04T22:35:17.653Z"
 }

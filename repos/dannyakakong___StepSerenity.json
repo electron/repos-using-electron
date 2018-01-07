@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "StepSerenity",
     "version": "0.1.0",
@@ -83,10 +83,7 @@
       "debug": "electron --enable-logging main.js -w -d",
       "development": "npm run debug"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dannyakakong/stepserenity.git"
-    },
+    "repository": "https://github.com/dannyakakong/stepserenity",
     "keywords": [
       "StepMania"
     ],
@@ -96,9 +93,6 @@
       "url": "http://dannya.com/"
     },
     "homepage": "https://github.com/dannyakakong/stepserenity",
-    "bugs": {
-      "url": "https://github.com/dannyakakong/stepserenity/issues"
-    },
     "dependencies": {
       "class.extend": "^0.9.2",
       "electron-prebuilt": "^0.36.0",
@@ -127,6 +121,11 @@
       "gulp-uglify": "~1.1.0",
       "gulp-newer": "~1.1.0",
       "gulp-imagemin": "~2.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dannyakakong/stepserenity/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,6 @@
   },
   "filename": "dannyakakong___StepSerenity.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:51.257Z",
+  "lastFetchedAt": "2017-10-24T00:11:28.413Z",
   "packageLastFetchedAt": "2017-05-05T17:12:59.882Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jdev6",
     "id": 13408114,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13408114?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13408114?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jdev6",
     "htmlUrl": "https://github.com/jdev6",
@@ -76,19 +76,18 @@
     "version": "0.0.2",
     "description": "Text editor based on ace",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jdev6/spades.git"
-    },
-    "bugs": {
-      "url": "https://github.com/jdev6/spades/issues"
-    },
+    "repository": "https://github.com/jdev6/spades",
     "main": "main.js",
     "devDependencies": {
       "electron-prebuilt": "^1.2.7"
     },
     "scripts": {
       "start": "electron ."
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jdev6/spades/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   },
   "filename": "jdev6___spades.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:39:17.934Z",
-  "packageLastFetchedAt": "2017-05-05T14:42:40.213Z"
+  "lastFetchedAt": "2017-10-23T23:37:25.555Z",
+  "packageLastFetchedAt": "2017-05-05T14:42:40.213Z",
+  "archived": false
 }

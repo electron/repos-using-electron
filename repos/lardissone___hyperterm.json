@@ -164,7 +164,7 @@
   },
   "networkCount": 1146,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "productName": "HyperTerm",
@@ -214,7 +214,8 @@
     "scripts": {
       "start": "electron index",
       "lint": "eslint *.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -262,6 +263,6 @@
   "svnUrl": "https://github.com/lardissone/hyperterm",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:15:47.338Z",
+  "lastFetchedAt": "2017-10-23T23:01:41.584Z",
   "packageLastFetchedAt": "2017-05-05T15:11:20.664Z"
 }

@@ -71,7 +71,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "file-explorer",
     "productName": "FileExplorer",
@@ -134,25 +134,15 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/desduvauchelle/file-explorer.git"
-    },
+    "repository": "https://github.com/desduvauchelle/file-explorer",
     "author": {
       "name": "Denis Duvauchelle",
       "url": "http://www.hashup.io"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/desduvauchelle/file-explorer/issues"
-    },
     "keywords": [
       "electron",
       "finder",
@@ -255,6 +245,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/desduvauchelle/file-explorer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -281,6 +280,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:34:22.811Z",
+  "lastFetchedAt": "2017-10-23T22:57:03.334Z",
   "packageLastFetchedAt": "2017-05-05T11:37:25.700Z"
 }

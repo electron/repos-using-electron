@@ -5,7 +5,7 @@
   "owner": {
     "login": "mysticflute",
     "id": 327116,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/327116?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/327116?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mysticflute",
     "htmlUrl": "https://github.com/mysticflute",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/mysticflute/blue/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mysticflute/blue/deployments",
   "createdAt": "2016-09-19T05:45:59.000Z",
-  "updatedAt": "2017-04-09T08:16:02.000Z",
+  "updatedAt": "2017-07-12T02:25:29.000Z",
   "pushedAt": "2016-10-21T03:10:15.000Z",
   "gitUrl": "git://github.com/mysticflute/blue.git",
   "sshUrl": "git@github.com:mysticflute/blue.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/mysticflute/blue",
   "homepage": null,
   "size": 2529,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 7,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,18 +68,15 @@
     "url": "https://api.github.com/licenses/bsd-3-clause",
     "featured": false
   },
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "networkCount": 2,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "blue",
     "version": "0.4.0",
     "description": "share peripherals and screens between macs",
     "author": "Nathan McWilliams",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mysticflute/blue"
-    },
+    "repository": "https://github.com/mysticflute/blue",
     "license": "BSD-3-Clause",
     "main": "src/main.js",
     "scripts": {
@@ -110,7 +107,8 @@
       "eslint": "^2.13.1",
       "eslint-plugin-html": "^1.5.1",
       "publish-release": "^1.3.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,7 @@
   },
   "filename": "mysticflute___blue.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:15.256Z",
-  "packageLastFetchedAt": "2017-05-05T17:29:26.932Z"
+  "lastFetchedAt": "2017-10-23T23:37:09.560Z",
+  "packageLastFetchedAt": "2017-05-05T17:29:26.932Z",
+  "archived": false
 }

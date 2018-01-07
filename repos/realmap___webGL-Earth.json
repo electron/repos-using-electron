@@ -5,7 +5,7 @@
   "owner": {
     "login": "realmap",
     "id": 17488560,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17488560?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17488560?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/realmap",
     "htmlUrl": "https://github.com/realmap",
@@ -92,14 +92,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -169,6 +162,12 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,7 @@
   "filename": "realmap___webGL-Earth.json",
   "sourceRepo": "AnalyticalGraphicsInc/cesium",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:16:08.675Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:10.712Z"
+  "lastFetchedAt": "2017-10-24T00:05:15.448Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:10.712Z",
+  "archived": false
 }

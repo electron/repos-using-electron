@@ -5,7 +5,7 @@
   "owner": {
     "login": "dtex",
     "id": 854911,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/854911?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/854911?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dtex",
     "htmlUrl": "https://github.com/dtex",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "brave",
       "id": 12301619,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12301619?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12301619?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/brave",
       "htmlUrl": "https://github.com/brave",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/brave/browser-laptop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/brave/browser-laptop/deployments",
     "createdAt": "2015-11-25T22:55:10.000Z",
-    "updatedAt": "2017-05-04T14:25:33.000Z",
-    "pushedAt": "2017-05-04T18:09:53.000Z",
+    "updatedAt": "2017-10-23T18:47:22.000Z",
+    "pushedAt": "2017-10-23T21:54:53.000Z",
     "gitUrl": "git://github.com/brave/browser-laptop.git",
     "sshUrl": "git@github.com:brave/browser-laptop.git",
     "cloneUrl": "https://github.com/brave/browser-laptop.git",
     "svnUrl": "https://github.com/brave/browser-laptop",
     "homepage": "https://www.brave.com",
-    "size": 46794,
-    "stargazersCount": 4772,
-    "watchersCount": 4772,
+    "size": 56371,
+    "stargazersCount": 5996,
+    "watchersCount": 5996,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 576,
+    "forksCount": 728,
     "mirrorUrl": null,
-    "openIssuesCount": 2124,
-    "openIssues": 2124,
-    "watchers": 4772,
+    "archived": false,
+    "openIssuesCount": 2621,
+    "openIssues": 2621,
+    "watchers": 5996,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "brave",
       "id": 12301619,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/12301619?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12301619?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/brave",
       "htmlUrl": "https://github.com/brave",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/brave/browser-laptop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/brave/browser-laptop/deployments",
     "createdAt": "2015-11-25T22:55:10.000Z",
-    "updatedAt": "2017-05-04T14:25:33.000Z",
-    "pushedAt": "2017-05-04T18:09:53.000Z",
+    "updatedAt": "2017-10-23T18:47:22.000Z",
+    "pushedAt": "2017-10-23T21:54:53.000Z",
     "gitUrl": "git://github.com/brave/browser-laptop.git",
     "sshUrl": "git@github.com:brave/browser-laptop.git",
     "cloneUrl": "https://github.com/brave/browser-laptop.git",
     "svnUrl": "https://github.com/brave/browser-laptop",
     "homepage": "https://www.brave.com",
-    "size": 46794,
-    "stargazersCount": 4772,
-    "watchersCount": 4772,
+    "size": 56371,
+    "stargazersCount": 5996,
+    "watchersCount": 5996,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 576,
+    "forksCount": 728,
     "mirrorUrl": null,
-    "openIssuesCount": 2124,
-    "openIssues": 2124,
-    "watchers": 4772,
+    "archived": false,
+    "openIssuesCount": 2621,
+    "openIssues": 2621,
+    "watchers": 5996,
     "defaultBranch": "master"
   },
-  "networkCount": 576,
+  "networkCount": 728,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -191,10 +193,7 @@
       "postinstall": "node ./tools/rebuildNativeModules.js&&webpack",
       "test": "NODE_ENV=test mocha --compilers js:babel-register --recursive $(find test -name '*Test.js')"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bbondy/electron-sample.git"
-    },
+    "repository": "https://github.com/bbondy/electron-sample",
     "author": {
       "name": "Brave Developers <support@brave.com>"
     },
@@ -213,9 +212,6 @@
       }
     ],
     "license": "MPL-2.0",
-    "bugs": {
-      "url": "https://github.com/bbondy/electron-sample/issues"
-    },
     "homepage": "https://github.com/bbondy/electron-sample#readme",
     "dependencies": {
       "abp-filter-parser-cpp": "^1.0.22",
@@ -287,7 +283,12 @@
     },
     "pre-commit": [
       "lint"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bbondy/electron-sample/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/dtex/browser-laptop",
@@ -335,6 +336,7 @@
   "filename": "dtex___browser-laptop.json",
   "sourceRepo": "brave/browser-laptop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:27:06.808Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:29.555Z"
+  "lastFetchedAt": "2017-10-23T22:25:32.304Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:29.555Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   },
   "networkCount": 14,
   "subscribersCount": 15,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "trailbot-client",
     "version": "0.3.0",
@@ -109,7 +109,8 @@
     },
     "bin": {
       "trailbot-client": "./run.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -156,6 +157,6 @@
   "svnUrl": "https://github.com/trailbot/client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:36:44.393Z",
+  "lastFetchedAt": "2017-10-23T23:10:27.336Z",
   "packageLastFetchedAt": "2017-05-04T22:06:14.719Z"
 }

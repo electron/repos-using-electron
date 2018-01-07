@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fig",
     "version": "0.1.0",
@@ -73,17 +73,15 @@
       "prebuild:typescript": "rimraf src/app/**/*.js src/app/**/*.js.map",
       "build:typescript": "tsc"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/StaticSphere/fig.git"
-    },
+    "repository": "https://github.com/StaticSphere/fig",
     "author": "Jamie Nordmeyer",
     "license": "MIT",
     "devDependencies": {
       "rimraf": "^2.5.2",
       "typescript": "^1.8.9"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -110,6 +108,6 @@
   },
   "filename": "StaticSphere___fig.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:28:19.470Z",
+  "lastFetchedAt": "2017-10-23T23:01:56.330Z",
   "packageLastFetchedAt": "2017-05-04T23:03:51.095Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "robertrossmann",
     "id": 3058150,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3058150?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3058150?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robertrossmann",
     "htmlUrl": "https://github.com/robertrossmann",
@@ -79,9 +79,6 @@
       "name": "Robert Rossmann",
       "email": "rr.rossmann@me.com"
     },
-    "bugs": {
-      "url": "https://github.com/Alaneor/electron-playground/issues"
-    },
     "contributors": [],
     "dependencies": {
       "babel-runtime": "^6.11.6",
@@ -123,12 +120,14 @@
     "license": "BSD-3-Clause",
     "main": "src/main",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Alaneor/electron-playground.git"
-    },
+    "repository": "https://github.com/Alaneor/electron-playground",
     "scripts": {
       "test": "make test"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Alaneor/electron-playground/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "Alaneor___electron-playground.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:52:19.293Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:10.217Z"
+  "lastFetchedAt": "2017-10-23T22:06:06.701Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:10.217Z",
+  "archived": false
 }

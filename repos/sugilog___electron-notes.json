@@ -5,7 +5,7 @@
   "owner": {
     "login": "sugilog",
     "id": 157927,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/157927?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/157927?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sugilog",
     "htmlUrl": "https://github.com/sugilog",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/sugilog/electron-notes/deployments",
   "createdAt": "2016-05-21T04:28:45.000Z",
   "updatedAt": "2016-05-21T04:31:43.000Z",
-  "pushedAt": "2016-10-14T07:51:43.000Z",
+  "pushedAt": "2017-09-05T01:24:06.000Z",
   "gitUrl": "git://github.com/sugilog/electron-notes.git",
   "sshUrl": "git@github.com:sugilog/electron-notes.git",
   "cloneUrl": "https://github.com/sugilog/electron-notes.git",
   "svnUrl": "https://github.com/sugilog/electron-notes",
   "homepage": null,
-  "size": 72,
+  "size": 100,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -80,10 +80,7 @@
       "start": "electron .",
       "setup": "gulp copy; cd pdfjs && npm install;"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sugilog/electron-notes.git"
-    },
+    "repository": "https://github.com/sugilog/electron-notes",
     "keywords": [
       "Electron"
     ],
@@ -116,7 +113,8 @@
         "es2015",
         "react"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +142,7 @@
   "filename": "sugilog___electron-notes.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:59:10.371Z",
-  "packageLastFetchedAt": "2017-05-04T22:28:26.094Z"
+  "lastFetchedAt": "2017-10-23T21:43:40.267Z",
+  "packageLastFetchedAt": "2017-05-04T22:28:26.094Z",
+  "archived": false
 }

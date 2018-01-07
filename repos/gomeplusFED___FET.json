@@ -5,7 +5,7 @@
   "owner": {
     "login": "gomeplusFED",
     "id": 16586199,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16586199?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16586199?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gomeplusFED",
     "htmlUrl": "https://github.com/gomeplusFED",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "gomeplusFED",
     "id": 16586199,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16586199?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16586199?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gomeplusFED",
     "htmlUrl": "https://github.com/gomeplusFED",
@@ -94,12 +94,8 @@
       "asar": "node script/asar.build.babel.js --env=production",
       "changelog": "node script/changelog.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gomeplusFED/FET.git"
-    },
+    "repository": "https://github.com/gomeplusFED/FET",
     "homepage": "https://github.com/gomeplusFED/FET",
-    "bugs": "https://github.com/gomeplusFED/FET/issues",
     "dependencies": {
       "adm-zip-electron": "^0.4.7",
       "babel-runtime": "^6.11.6",
@@ -186,11 +182,14 @@
         "runAfterFinish": false
       }
     },
-    "directories": {
-      "output": "./app/",
-      "app": "./dist/"
-    },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "directories": {
+        "output": "./app/",
+        "app": "./dist/"
+      },
+      "bugs": "https://github.com/gomeplusFED/FET/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -237,6 +236,7 @@
   "svnUrl": "https://github.com/gomeplusFED/FET",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:27:46.374Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:48.157Z"
+  "lastFetchedAt": "2017-10-24T02:02:06.973Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:48.157Z",
+  "archived": false
 }

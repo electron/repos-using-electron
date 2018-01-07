@@ -5,7 +5,7 @@
   "owner": {
     "login": "luciansr",
     "id": 1542722,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1542722?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1542722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/luciansr",
     "htmlUrl": "https://github.com/luciansr",
@@ -77,10 +77,7 @@
       "gulp": "gulp typescript",
       "develop": "npm run full-install && gulp develop"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/luciansr/electron-test.git"
-    },
+    "repository": "https://github.com/luciansr/electron-test",
     "keywords": [
       "electron",
       "angular",
@@ -89,9 +86,6 @@
     ],
     "author": "Lucian Sturião",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/luciansr/electron-test/issues"
-    },
     "homepage": "https://github.com/luciansr/electron-test#readme",
     "devDependencies": {
       "bower": "^1.7.9",
@@ -106,6 +100,11 @@
     "dependencies": {
       "mysql": "^2.10.2",
       "sequelize": "^3.23.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/luciansr/electron-test/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "luciansr___electron-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:31:27.199Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:32.916Z"
+  "lastFetchedAt": "2017-10-23T23:39:28.787Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:32.916Z",
+  "archived": false
 }

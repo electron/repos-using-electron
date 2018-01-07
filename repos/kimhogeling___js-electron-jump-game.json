@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "breakout",
     "version": "1.0.0",
@@ -79,21 +79,20 @@
     "scripts": {
       "start": "./node_modules/.bin/gulp && ./node_modules/.bin/electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kimhogeling/breakout.git"
-    },
+    "repository": "https://github.com/kimhogeling/breakout",
     "author": "kimhogeling@gmail.com",
-    "bugs": {
-      "url": "https://github.com/kimhogeling/breakout/issues"
-    },
     "homepage": "https://github.com/kimhogeling/breakout#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.6",
       "gulp": "*",
       "gulp-haml": "*"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kimhogeling/breakout/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +119,6 @@
   },
   "filename": "kimhogeling___js-electron-jump-game.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:35:49.991Z",
+  "lastFetchedAt": "2017-10-23T23:09:09.087Z",
   "packageLastFetchedAt": "2017-05-04T22:03:47.321Z"
 }

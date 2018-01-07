@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gator-desktop",
     "private": true,
@@ -97,7 +97,8 @@
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +125,6 @@
   },
   "filename": "DelegateIt___GatorDesktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:31.007Z",
+  "lastFetchedAt": "2017-10-23T23:06:23.330Z",
   "packageLastFetchedAt": "2017-05-04T22:57:00.360Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "niebert",
     "id": 10059228,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10059228?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10059228?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/niebert",
     "htmlUrl": "https://github.com/niebert",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "niebert___DisApp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:57.821Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:57.525Z"
+  "lastFetchedAt": "2017-10-24T00:12:29.708Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:57.525Z",
+  "archived": false
 }

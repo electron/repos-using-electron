@@ -5,7 +5,7 @@
   "owner": {
     "login": "harounb",
     "id": 7194672,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7194672?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7194672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/harounb",
     "htmlUrl": "https://github.com/harounb",
@@ -54,10 +54,7 @@
       "start": "electron .",
       "install": "node buildHelper.js && electron-rebuild.cmd"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -72,7 +69,8 @@
     },
     "dependencies": {
       "printer": "^0.2.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,7 @@
   "svnUrl": "https://github.com/harounb/messing-around-with-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:16:34.992Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:24.056Z"
+  "lastFetchedAt": "2017-10-23T21:49:18.132Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:24.056Z",
+  "archived": false
 }

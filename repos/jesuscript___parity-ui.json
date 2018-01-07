@@ -5,7 +5,7 @@
   "owner": {
     "login": "jesuscript",
     "id": 1161241,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1161241?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1161241?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jesuscript",
     "htmlUrl": "https://github.com/jesuscript",
@@ -56,10 +56,7 @@
       "build": "webpack",
       "watch": "webpack-dev-server --inline --hot --colors --content-base=./build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jesuscript/parity-ui.git"
-    },
+    "repository": "https://github.com/jesuscript/parity-ui",
     "author": "Konstantin Kudryavtsev",
     "license": "GPL-3.0",
     "devDependencies": {
@@ -107,7 +104,8 @@
       "web3": "^0.15.3",
       "web3-raw-provider": "^0.0.5",
       "bignumber.js": "git+https://github.com/debris/bignumber.js.git#master"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -154,6 +152,7 @@
   "svnUrl": "https://github.com/jesuscript/parity-ui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:34:14.041Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:02.565Z"
+  "lastFetchedAt": "2017-10-23T23:12:20.514Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:02.565Z",
+  "archived": false
 }

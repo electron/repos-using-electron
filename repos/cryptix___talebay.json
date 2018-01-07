@@ -71,7 +71,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "talebay",
     "description": "a patchbay clone that should evolve into a idea collaboration network thingy",
@@ -145,7 +145,8 @@
       "test": "set -e; for t in test/*.js; do node $t; done"
     },
     "author": "Henry <cryptix@riseup.net>",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -172,6 +173,6 @@
   },
   "sourceRepo": "ssbc/patchbay",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:45:57.610Z",
+  "lastFetchedAt": "2017-10-23T23:09:04.101Z",
   "packageLastFetchedAt": "2017-05-04T22:31:39.285Z"
 }

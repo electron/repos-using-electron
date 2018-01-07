@@ -6,7 +6,7 @@
   "owner": {
     "login": "samjaninf",
     "id": 6589200,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6589200?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6589200?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/samjaninf",
     "htmlUrl": "https://github.com/samjaninf",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:27:15.347Z",
+  "lastFetchedAt": "2017-10-23T22:14:54.037Z",
   "packageJSON": {
     "name": "sheath-ranviermud",
     "productName": "SheathRanvierMUD",
@@ -131,10 +131,6 @@
           "AppImage"
         ]
       }
-    },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
     },
     "bin": {
       "electron": "./node_modules/.bin/electron"
@@ -237,8 +233,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:38:40.804Z"
+  "packageLastFetchedAt": "2017-05-05T15:38:40.804Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ford153focus",
     "id": 16035807,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/16035807?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/16035807?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ford153focus",
     "htmlUrl": "https://github.com/ford153focus",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "huston007",
       "id": 4318513,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4318513?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4318513?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/huston007",
       "htmlUrl": "https://github.com/huston007",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/huston007/vk-scrobbler/downloads",
     "deploymentsUrl": "https://api.github.com/repos/huston007/vk-scrobbler/deployments",
     "createdAt": "2015-05-23T22:04:19.000Z",
-    "updatedAt": "2017-05-02T00:20:55.000Z",
+    "updatedAt": "2017-09-26T16:27:56.000Z",
     "pushedAt": "2016-09-19T15:54:48.000Z",
     "gitUrl": "git://github.com/huston007/vk-scrobbler.git",
     "sshUrl": "git@github.com:huston007/vk-scrobbler.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/huston007/vk-scrobbler",
     "homepage": "https://chrome.google.com/webstore/detail/vk-scrobbler/fddcgfefplodcggebdfbddbmfgmaeeeo",
     "size": 389,
-    "stargazersCount": 34,
-    "watchersCount": 34,
+    "stargazersCount": 36,
+    "watchersCount": 36,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 6,
+    "forksCount": 7,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 9,
     "openIssues": 9,
-    "watchers": 34,
+    "watchers": 36,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "huston007",
       "id": 4318513,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4318513?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4318513?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/huston007",
       "htmlUrl": "https://github.com/huston007",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/huston007/vk-scrobbler/downloads",
     "deploymentsUrl": "https://api.github.com/repos/huston007/vk-scrobbler/deployments",
     "createdAt": "2015-05-23T22:04:19.000Z",
-    "updatedAt": "2017-05-02T00:20:55.000Z",
+    "updatedAt": "2017-09-26T16:27:56.000Z",
     "pushedAt": "2016-09-19T15:54:48.000Z",
     "gitUrl": "git://github.com/huston007/vk-scrobbler.git",
     "sshUrl": "git@github.com:huston007/vk-scrobbler.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/huston007/vk-scrobbler",
     "homepage": "https://chrome.google.com/webstore/detail/vk-scrobbler/fddcgfefplodcggebdfbddbmfgmaeeeo",
     "size": 389,
-    "stargazersCount": 34,
-    "watchersCount": 34,
+    "stargazersCount": 36,
+    "watchersCount": 36,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 6,
+    "forksCount": 7,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 9,
     "openIssues": 9,
-    "watchers": 34,
+    "watchers": 36,
     "defaultBranch": "master"
   },
-  "networkCount": 6,
+  "networkCount": 7,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,10 +183,7 @@
       "test": "node ./node_modules/karma/bin/karma start",
       "lint": "gulp lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/huston007/vk-scrobbler.git"
-    },
+    "repository": "https://github.com/huston007/vk-scrobbler",
     "keywords": [
       "vk.com",
       "last.fm",
@@ -220,7 +219,8 @@
       "sinon": "^1.15.4",
       "sinon-chai": "2.8.0",
       "sinon-chrome": "0.1.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -268,6 +268,7 @@
   "svnUrl": "https://github.com/ford153focus/vk-scrobbler",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:47:04.405Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:32.620Z"
+  "lastFetchedAt": "2017-10-24T00:16:13.556Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:32.620Z",
+  "archived": false
 }

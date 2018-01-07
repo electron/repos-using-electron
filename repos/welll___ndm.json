@@ -6,7 +6,7 @@
   "owner": {
     "login": "welll",
     "id": 1483436,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1483436?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1483436?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/welll",
     "htmlUrl": "https://github.com/welll",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "720kb",
       "id": 7762645,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/7762645?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7762645?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/720kb",
       "htmlUrl": "https://github.com/720kb",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/720kb/ndm/downloads",
     "deploymentsUrl": "https://api.github.com/repos/720kb/ndm/deployments",
     "createdAt": "2016-11-16T09:42:09.000Z",
-    "updatedAt": "2017-05-03T01:39:20.000Z",
-    "pushedAt": "2017-05-03T07:12:12.000Z",
+    "updatedAt": "2017-10-23T17:29:11.000Z",
+    "pushedAt": "2017-10-17T12:59:44.000Z",
     "gitUrl": "git://github.com/720kb/ndm.git",
     "sshUrl": "git@github.com:720kb/ndm.git",
     "cloneUrl": "https://github.com/720kb/ndm.git",
     "svnUrl": "https://github.com/720kb/ndm",
     "homepage": "",
-    "size": 9478,
-    "stargazersCount": 1069,
-    "watchersCount": 1069,
+    "size": 9710,
+    "stargazersCount": 1216,
+    "watchersCount": 1216,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 44,
+    "forksCount": 53,
     "mirrorUrl": null,
-    "openIssuesCount": 20,
-    "openIssues": 20,
-    "watchers": 1069,
+    "archived": false,
+    "openIssuesCount": 23,
+    "openIssues": 23,
+    "watchers": 1216,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "720kb",
       "id": 7762645,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/7762645?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7762645?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/720kb",
       "htmlUrl": "https://github.com/720kb",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/720kb/ndm/downloads",
     "deploymentsUrl": "https://api.github.com/repos/720kb/ndm/deployments",
     "createdAt": "2016-11-16T09:42:09.000Z",
-    "updatedAt": "2017-05-03T01:39:20.000Z",
-    "pushedAt": "2017-05-03T07:12:12.000Z",
+    "updatedAt": "2017-10-23T17:29:11.000Z",
+    "pushedAt": "2017-10-17T12:59:44.000Z",
     "gitUrl": "git://github.com/720kb/ndm.git",
     "sshUrl": "git@github.com:720kb/ndm.git",
     "cloneUrl": "https://github.com/720kb/ndm.git",
     "svnUrl": "https://github.com/720kb/ndm",
     "homepage": "",
-    "size": 9478,
-    "stargazersCount": 1069,
-    "watchersCount": 1069,
+    "size": 9710,
+    "stargazersCount": 1216,
+    "watchersCount": 1216,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 44,
+    "forksCount": 53,
     "mirrorUrl": null,
-    "openIssuesCount": 20,
-    "openIssues": 20,
-    "watchers": 1069,
+    "archived": false,
+    "openIssuesCount": 23,
+    "openIssues": 23,
+    "watchers": 1216,
     "defaultBranch": "master"
   },
-  "networkCount": 44,
+  "networkCount": 53,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -199,18 +201,12 @@
       "Filippo Oretti",
       "Dario Andrei"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/720kb/ndm.git"
-    },
+    "repository": "https://github.com/720kb/ndm",
     "copyright": "© 720kb - Filippo Oretti - Dario Andrei",
     "scripts": {
       "prestart": "gulp distify",
       "start": "electron .",
       "build": "npm install && npm prune && gulp dist && build"
-    },
-    "bugs": {
-      "url": "https://github.com/720kb/ndm/issues"
     },
     "license": {
       "type": "GPL-3.0",
@@ -252,9 +248,6 @@
       "titleBarStyle": "hidden",
       "offscreen": true
     },
-    "directories": {
-      "output": "./releases"
-    },
     "dependencies": {
       "ace-builds": "^1.2.5",
       "angular": "^1.5.0",
@@ -295,6 +288,14 @@
       "rollup-plugin-babel": "^2.4.0",
       "rollup-plugin-json": "^2.0.0",
       "run-sequence": "^1.1.5"
+    },
+    "other": {
+      "directories": {
+        "output": "./releases"
+      },
+      "bugs": {
+        "url": "https://github.com/720kb/ndm/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -321,6 +322,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:54:38.362Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:00.981Z"
+  "lastFetchedAt": "2017-10-23T22:14:26.048Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:00.981Z",
+  "archived": false
 }

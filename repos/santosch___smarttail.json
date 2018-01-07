@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "smarttail",
     "productName": "Smarttail",
@@ -72,10 +72,7 @@
     "version": "1.0.0",
     "author": "Sebastian Antosch <s.antosch@i-san.de>",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/santosch/smarttail.git"
-    },
+    "repository": "https://github.com/santosch/smarttail",
     "keywords": [
       "tail",
       "logs"
@@ -87,9 +84,6 @@
       "png": "app/assets/boilerplate.png"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/santosch/smarttail/issues"
-    },
     "homepage": "http://i-san.de",
     "scripts": {
       "postinstall": "npm run app-install",
@@ -128,6 +122,11 @@
       "electron-installer-debian": "^0.3.0",
       "electron-installer-redhat": "^0.2.0",
       "electron-installer-windows": "^0.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/santosch/smarttail/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,6 @@
   },
   "filename": "santosch___smarttail.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:18.135Z",
+  "lastFetchedAt": "2017-10-23T23:07:19.320Z",
   "packageLastFetchedAt": "2017-05-05T15:14:17.020Z"
 }

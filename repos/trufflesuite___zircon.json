@@ -6,7 +6,7 @@
   "owner": {
     "login": "trufflesuite",
     "id": 22205159,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22205159?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22205159?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/trufflesuite",
     "htmlUrl": "https://github.com/trufflesuite",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/trufflesuite/ganache/downloads",
   "deploymentsUrl": "https://api.github.com/repos/trufflesuite/ganache/deployments",
   "createdAt": "2017-01-17T20:39:11.000Z",
-  "updatedAt": "2017-04-30T17:14:02.000Z",
-  "pushedAt": "2017-05-04T03:41:15.000Z",
+  "updatedAt": "2017-10-23T12:05:26.000Z",
+  "pushedAt": "2017-10-21T18:21:09.000Z",
   "gitUrl": "git://github.com/trufflesuite/ganache.git",
   "sshUrl": "git@github.com:trufflesuite/ganache.git",
   "cloneUrl": "https://github.com/trufflesuite/ganache.git",
   "svnUrl": "https://github.com/trufflesuite/ganache",
   "homepage": null,
-  "size": 7340,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "size": 14245,
+  "stargazersCount": 77,
+  "watchersCount": 77,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 18,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 12,
+  "openIssuesCount": 13,
+  "openIssues": 13,
+  "watchers": 77,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "organization": {
     "login": "trufflesuite",
     "id": 22205159,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22205159?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22205159?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/trufflesuite",
     "htmlUrl": "https://github.com/trufflesuite",
@@ -84,10 +84,10 @@
     "receivedEventsUrl": "https://api.github.com/users/trufflesuite/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 2,
+  "networkCount": 18,
+  "subscribersCount": 7,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:35:23.540Z",
+  "lastFetchedAt": "2017-10-23T22:52:53.192Z",
   "packageJSON": {
     "name": "ganache",
     "productName": "Ganache",
@@ -158,26 +158,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/trufflesuite/ganache.git"
-    },
+    "repository": "https://github.com/trufflesuite/ganache",
     "author": {
       "name": "John McDowall",
       "email": "john@kantan.io",
       "url": "https://github.com/johnmcdowall"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/trufflesuite/ganache/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -287,8 +277,18 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/trufflesuite/ganache/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:47:13.010Z"
+  "packageLastFetchedAt": "2017-05-05T14:47:13.010Z",
+  "archived": false
 }

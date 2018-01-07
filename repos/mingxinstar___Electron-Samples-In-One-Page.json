@@ -5,7 +5,7 @@
   "owner": {
     "login": "mingxinstar",
     "id": 1532164,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1532164?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1532164?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mingxinstar",
     "htmlUrl": "https://github.com/mingxinstar",
@@ -101,10 +101,7 @@
       "start-app": "electron src/scripts/main.js",
       "start-webpack": "webpack --progress --profile --colors --display-error-details --display-cached"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mingxinstar/Electron-Samples-In-One-Page.git"
-    },
+    "repository": "https://github.com/mingxinstar/Electron-Samples-In-One-Page",
     "keywords": [
       "electron",
       "react",
@@ -113,10 +110,12 @@
     ],
     "author": "mingxin.huang",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/mingxinstar/Electron-Samples-In-One-Page/issues"
-    },
-    "homepage": "https://github.com/mingxinstar/Electron-Samples-In-One-Page#readme"
+    "homepage": "https://github.com/mingxinstar/Electron-Samples-In-One-Page#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mingxinstar/Electron-Samples-In-One-Page/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +142,7 @@
   },
   "filename": "mingxinstar___Electron-Samples-In-One-Page.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:32.291Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:11.983Z"
+  "lastFetchedAt": "2017-10-23T23:43:23.907Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:11.983Z",
+  "archived": false
 }

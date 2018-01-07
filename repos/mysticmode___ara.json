@@ -5,7 +5,7 @@
   "owner": {
     "login": "mysticmode",
     "id": 1125199,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1125199?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1125199?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mysticmode",
     "htmlUrl": "https://github.com/mysticmode",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "ara",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nirmalalmara/ara.git"
-    },
+    "repository": "https://github.com/nirmalalmara/ara",
     "keywords": [
       "Electron",
       "quick",
@@ -85,12 +82,14 @@
     ],
     "author": "Nirmal Almara",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/nirmalalmara/ara/issues"
-    },
     "homepage": "https://github.com/nirmalalmara/ara/#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nirmalalmara/ara/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "mysticmode___ara.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:42.659Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:59.056Z"
+  "lastFetchedAt": "2017-10-24T00:15:18.189Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:59.056Z",
+  "archived": false
 }

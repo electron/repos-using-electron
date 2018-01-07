@@ -5,7 +5,7 @@
   "owner": {
     "login": "dirvine",
     "id": 123627,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/123627?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/123627?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dirvine",
     "htmlUrl": "https://github.com/dirvine",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for my-app goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -156,6 +152,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +185,7 @@
   },
   "filename": "dirvine___ember-electron-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:33.954Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:57.474Z"
+  "lastFetchedAt": "2017-10-23T22:33:20.067Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:57.474Z",
+  "archived": false
 }

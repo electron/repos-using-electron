@@ -5,7 +5,7 @@
   "owner": {
     "login": "renatonolo",
     "id": 19406404,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19406404?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19406404?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/renatonolo",
     "htmlUrl": "https://github.com/renatonolo",
@@ -84,10 +84,7 @@
       "tsc:w": "tsc -w",
       "typings": "typings"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/renatonolo/OpenPDV-Client.git"
-    },
+    "repository": "https://github.com/renatonolo/OpenPDV-Client",
     "keywords": [
       "pdv",
       "pos",
@@ -100,9 +97,6 @@
     ],
     "author": "Renato N. Lourenço",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/renatonolo/OpenPDV-Client/issues"
-    },
     "homepage": "https://github.com/renatonolo/OpenPDV-Client#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -129,6 +123,11 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/renatonolo/OpenPDV-Client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,7 @@
   },
   "filename": "renatonolo___OpenPDV-Client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:39.555Z",
-  "packageLastFetchedAt": "2017-05-05T11:36:34.438Z"
+  "lastFetchedAt": "2017-10-23T23:38:32.537Z",
+  "packageLastFetchedAt": "2017-05-05T11:36:34.438Z",
+  "archived": false
 }

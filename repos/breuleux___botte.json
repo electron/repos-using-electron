@@ -5,7 +5,7 @@
   "owner": {
     "login": "breuleux",
     "id": 599820,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/599820?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/599820?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/breuleux",
     "htmlUrl": "https://github.com/breuleux",
@@ -70,10 +70,7 @@
     "description": "IRC chat client",
     "version": "0.0.0",
     "format": "cjs",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/breuleux/botte"
-    },
+    "repository": "https://github.com/breuleux/botte",
     "keywords": [
       "IRC",
       "chat",
@@ -118,7 +115,8 @@
       "compile": "earl compile -5rvso lib/ src/",
       "prepublish": "npm run compile",
       "test": "mocha"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +143,7 @@
   },
   "filename": "breuleux___botte.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:52.026Z",
-  "packageLastFetchedAt": "2017-05-05T01:29:11.164Z"
+  "lastFetchedAt": "2017-10-23T21:50:43.903Z",
+  "packageLastFetchedAt": "2017-05-05T01:29:11.164Z",
+  "archived": false
 }

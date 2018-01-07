@@ -164,7 +164,7 @@
   },
   "networkCount": 40,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "devtron",
     "version": "1.1.2",
@@ -175,15 +175,9 @@
       "start": "watchify lib/*.js -o out/index.js --ignore-missing --entry lib/index.js --verbose",
       "test": "mocha test/unit/*-test.js test/integration/*-test.js && standard"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/devtron.git"
-    },
+    "repository": "https://github.com/electron/devtron",
     "author": "Kevin Sawicki",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/devtron/issues"
-    },
     "keywords": [
       "Electron",
       "Chrome",
@@ -213,6 +207,11 @@
       "ignore": [
         "/out/index.js"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/devtron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -261,6 +260,6 @@
   "filename": "shitfSign___devtron.json",
   "sourceRepo": "electron/devtron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:31.630Z",
+  "lastFetchedAt": "2017-10-23T22:29:34.225Z",
   "packageLastFetchedAt": "2017-05-04T21:55:39.920Z"
 }

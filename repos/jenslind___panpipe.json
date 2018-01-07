@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "panpipe",
     "version": "1.0.1",
@@ -74,15 +74,9 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "build": "build --win --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jenslind/panpipe.git"
-    },
+    "repository": "https://github.com/jenslind/panpipe",
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jenslind/panpipe/issues"
-    },
     "homepage": "https://github.com/jenslind/panpipe#readme",
     "devDependencies": {
       "electron-builder": "^5.14.2",
@@ -94,6 +88,11 @@
     "build": {
       "appId": "pan.pipe",
       "app-category-type": "pipes"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jenslind/panpipe/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,6 @@
   },
   "filename": "jenslind___panpipe.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:02.431Z",
+  "lastFetchedAt": "2017-10-23T22:58:48.827Z",
   "packageLastFetchedAt": "2017-05-04T22:54:00.306Z"
 }

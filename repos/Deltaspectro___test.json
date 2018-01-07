@@ -5,7 +5,7 @@
   "owner": {
     "login": "Deltaspectro",
     "id": 13651212,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13651212?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13651212?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Deltaspectro",
     "htmlUrl": "https://github.com/Deltaspectro",
@@ -102,10 +102,7 @@
         "import/no-extraneous-dependencies": 0
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -114,10 +111,12 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
-    "homepage": "https://github.com/electron/electron-quick-start#readme"
+    "homepage": "https://github.com/electron/electron-quick-start#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +143,7 @@
   },
   "filename": "Deltaspectro___test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:29.543Z",
-  "packageLastFetchedAt": "2017-05-05T17:18:54.747Z"
+  "lastFetchedAt": "2017-10-24T00:20:27.450Z",
+  "packageLastFetchedAt": "2017-05-05T17:18:54.747Z",
+  "archived": false
 }

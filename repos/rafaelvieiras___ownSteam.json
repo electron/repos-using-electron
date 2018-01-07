@@ -5,7 +5,7 @@
   "owner": {
     "login": "rafaelvieiras",
     "id": 4449232,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4449232?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4449232?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rafaelvieiras",
     "htmlUrl": "https://github.com/rafaelvieiras",
@@ -80,10 +80,7 @@
       "start": "electron main.js",
       "prestart": "npm install && bower install"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -103,6 +97,11 @@
       "diskdb": "^0.1.14",
       "igdb-api-node": "^1.0.0",
       "nedb": "^1.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "rafaelvieiras___ownSteam.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:05.043Z",
-  "packageLastFetchedAt": "2017-05-04T22:23:09.210Z"
+  "lastFetchedAt": "2017-10-24T00:07:32.195Z",
+  "packageLastFetchedAt": "2017-05-04T22:23:09.210Z",
+  "archived": false
 }

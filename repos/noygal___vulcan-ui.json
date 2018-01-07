@@ -5,7 +5,7 @@
   "owner": {
     "login": "noygal",
     "id": 7756819,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7756819?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7756819?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/noygal",
     "htmlUrl": "https://github.com/noygal",
@@ -67,10 +67,7 @@
     "cpu": [
       "x64"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/noygal/vulcan-ui.git"
-    },
+    "repository": "https://github.com/noygal/vulcan-ui",
     "keywords": [
       "npm",
       "build",
@@ -82,9 +79,6 @@
     ],
     "author": "Gal Noy <gal@galnoy.com>",
     "license": "LGPL-3.0+",
-    "bugs": {
-      "url": "https://github.com/noygal/vulcan-ui/issues"
-    },
     "homepage": "https://github.com/noygal/vulcan-ui/",
     "dependencies": {
       "babelify": "^6.1.2",
@@ -107,6 +101,11 @@
       "reflux": "^0.2.10",
       "shelljs": "^0.5.1",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/noygal/vulcan-ui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   "svnUrl": "https://github.com/noygal/vulcan-ui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:35:32.238Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:25.360Z"
+  "lastFetchedAt": "2017-10-23T22:55:15.873Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:25.360Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kocoafab",
     "id": 8772979,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8772979?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8772979?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kocoafab",
     "htmlUrl": "https://github.com/kocoafab",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "electron-prebuilt": "^0.36.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "kocoafab___smart-mirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:33.873Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:12.964Z"
+  "lastFetchedAt": "2017-10-24T00:15:20.232Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:12.964Z",
+  "archived": false
 }

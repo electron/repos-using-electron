@@ -64,18 +64,14 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hadron-test-utils",
     "description": "Hadron Test Utils",
     "author": "Durran Jordan <durran@gmail.com>",
-    "bugs": "https://github.com/mongodb-js/hadron-test-utils/issues",
     "homepage": "https://github.com/mongodb-js/hadron-test-utils",
     "version": "0.0.8",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mongodb-js/hadron-test-utils.git"
-    },
+    "repository": "https://github.com/mongodb-js/hadron-test-utils",
     "license": "Apache-2.0",
     "keywords": [
       "mongodb-js"
@@ -105,6 +101,9 @@
       "mongodb-ns": "^1.0.3",
       "react-addons-test-utils": "^15.3.2",
       "spectron": "^3.4.0"
+    },
+    "other": {
+      "bugs": "https://github.com/mongodb-js/hadron-test-utils/issues"
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,6 @@
   },
   "filename": "mongodb-js___hadron-test-utils.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:03.679Z",
+  "lastFetchedAt": "2017-10-23T23:07:11.573Z",
   "packageLastFetchedAt": "2017-05-05T14:39:26.713Z"
 }

@@ -84,7 +84,7 @@
   },
   "networkCount": 9,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "wallapatta",
     "version": "0.11.2",
@@ -105,10 +105,7 @@
         "signWithParams": "/t http://timestamp.digicert.com /n \"Forestpin (Pvt) Ltd\""
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/vpj/wallapatta.git"
-    },
+    "repository": "https://github.com/vpj/wallapatta",
     "keywords": [
       "markdown",
       "edward",
@@ -133,13 +130,15 @@
       "electron-builder": "next",
       "electron-prebuilt": "1.2.7"
     },
-    "bugs": {
-      "url": "https://github.com/vpj/wallapatta/issues"
-    },
     "bin": {
       "wallapatta": "./cli.js"
     },
-    "homepage": "http://wallapatta.github.io"
+    "homepage": "http://wallapatta.github.io",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/vpj/wallapatta/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -166,6 +165,6 @@
   },
   "filename": "wallapatta___wallapatta.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:05.260Z",
+  "lastFetchedAt": "2017-10-23T23:04:08.576Z",
   "packageLastFetchedAt": "2017-05-05T15:33:42.100Z"
 }

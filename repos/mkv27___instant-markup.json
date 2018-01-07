@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "instant-markup",
     "version": "0.1.1-beta",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mkv27/instant-markup.git"
-    },
+    "repository": "https://github.com/mkv27/instant-markup",
     "author": "mkv27",
     "license": "MIT",
     "devDependencies": {
@@ -93,7 +90,8 @@
       "moment": "^2.13.0",
       "node-notifier": "^4.5.0",
       "request": "^2.72.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,6 @@
   },
   "filename": "mkv27___instant-markup.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:04:33.946Z",
+  "lastFetchedAt": "2017-10-23T22:58:46.342Z",
   "packageLastFetchedAt": "2017-05-04T22:40:17.768Z"
 }

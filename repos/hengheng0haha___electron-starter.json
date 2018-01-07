@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-starter",
     "productName": "ElectronReact",
@@ -96,10 +96,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hengheng0haha/electron-starter.git"
-    },
+    "repository": "https://github.com/hengheng0haha/electron-starter",
     "author": {
       "name": "Baxter",
       "email": "332395368@qq.com",
@@ -182,7 +179,8 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -209,6 +207,6 @@
   },
   "filename": "hengheng0haha___electron-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:20.665Z",
+  "lastFetchedAt": "2017-10-23T23:04:17.335Z",
   "packageLastFetchedAt": "2017-05-05T14:38:51.613Z"
 }

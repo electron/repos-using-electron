@@ -78,16 +78,12 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "client",
     "version": "0.0.0",
     "description": "Small description for client goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -164,6 +160,12 @@
     "dependencies": {
       "cheerio": "^0.20.0",
       "superagent": "^1.8.3"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -191,6 +193,6 @@
   },
   "filename": "appropont___commonality.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:19.019Z",
+  "lastFetchedAt": "2017-10-23T23:03:30.365Z",
   "packageLastFetchedAt": "2017-05-04T22:03:59.345Z"
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-browser",
     "version": "0.0.1",
@@ -58,7 +58,8 @@
     "dependencies": {
       "electron-prebuilt": "^0.36.0",
       "jquery": "^2.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -105,6 +106,6 @@
   "svnUrl": "https://github.com/ReyPena/Practice-electron-browser",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:50:32.202Z",
+  "lastFetchedAt": "2017-10-23T23:02:33.091Z",
   "packageLastFetchedAt": "2017-05-05T14:51:00.374Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "EcrituresNumeriques",
     "id": 16691667,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16691667?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16691667?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EcrituresNumeriques",
     "htmlUrl": "https://github.com/EcrituresNumeriques",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "EcrituresNumeriques",
     "id": 16691667,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16691667?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16691667?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EcrituresNumeriques",
     "htmlUrl": "https://github.com/EcrituresNumeriques",
@@ -93,7 +93,8 @@
       "bundle": "gulp && electron desktop.js",
       "build": "gulp && electron-packager ./ Stylo --platform=darwin --arch=x64 --out=./build --overwrite",
       "start": "node server.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +141,7 @@
   "svnUrl": "https://github.com/EcrituresNumeriques/StyloClient",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:17:47.054Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:18.675Z"
+  "lastFetchedAt": "2017-10-24T00:13:27.191Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:18.675Z",
+  "archived": false
 }

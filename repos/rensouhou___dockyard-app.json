@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dockyard-app",
     "productName": "Dockyard",
@@ -112,19 +112,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rensouhou/dockyard-app.git"
-    },
+    "repository": "https://github.com/rensouhou/dockyard-app",
     "author": {
       "name": "Stefan Rimaila",
       "email": "stefan@rimaila.fi",
       "url": "https://github.com/stuf"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rensouhou/dockyard-app/issues"
-    },
     "keywords": [],
     "homepage": "https://github.com/rensouhou/dockyard-app#readme",
     "devDependencies": {
@@ -236,6 +230,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rensouhou/dockyard-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -263,6 +262,6 @@
   },
   "filename": "rensouhou___dockyard-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:23.895Z",
+  "lastFetchedAt": "2017-10-23T23:01:13.579Z",
   "packageLastFetchedAt": "2017-05-05T17:14:07.108Z"
 }

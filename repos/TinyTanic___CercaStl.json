@@ -5,7 +5,7 @@
   "owner": {
     "login": "TinyTanic",
     "id": 1487907,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1487907?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1487907?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TinyTanic",
     "htmlUrl": "https://github.com/TinyTanic",
@@ -81,10 +81,7 @@
       "build": "node packager",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/TinyTanic/4print-firmware.git"
-    },
+    "repository": "https://github.com/TinyTanic/4print-firmware",
     "author": "Luca Aguzzoli",
     "license": "GPLv3",
     "dependencies": {
@@ -114,7 +111,8 @@
       "gulp-plumber": "^1.1.0",
       "gulp-sourcemaps": "^1.6.0",
       "zip-archiver": "0.0.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -141,6 +139,7 @@
   },
   "filename": "TinyTanic___CercaStl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:56:21.394Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:09.736Z"
+  "lastFetchedAt": "2017-10-23T23:41:44.951Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:09.736Z",
+  "archived": false
 }

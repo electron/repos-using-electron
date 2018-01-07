@@ -5,7 +5,7 @@
   "owner": {
     "login": "IlyaPomaskin",
     "id": 6693097,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6693097?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6693097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IlyaPomaskin",
     "htmlUrl": "https://github.com/IlyaPomaskin",
@@ -67,19 +67,13 @@
       "package": "node package.js",
       "package-all": "node package.js --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/IlyaPomaskin/KeePass-electron.git"
-    },
+    "repository": "https://github.com/IlyaPomaskin/KeePass-electron",
     "author": {
       "name": "Ilya Pomaskin",
       "email": "ilya.pomaskin@gmail.com",
       "url": "https://github.com/IlyaPomaskin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/IlyaPomaskin/KeePass-electron/issues"
-    },
     "keywords": [
       "electron",
       "keepass",
@@ -146,6 +140,11 @@
       "redux-thunk": "^0.1.0",
       "reselect": "0.0.2",
       "uuid": "^2.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/IlyaPomaskin/KeePass-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -193,6 +192,7 @@
   "svnUrl": "https://github.com/IlyaPomaskin/KeePass-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:40:15.001Z",
-  "packageLastFetchedAt": "2017-05-05T01:20:20.636Z"
+  "lastFetchedAt": "2017-10-23T22:29:15.021Z",
+  "packageLastFetchedAt": "2017-05-05T01:20:20.636Z",
+  "archived": false
 }

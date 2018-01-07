@@ -5,7 +5,7 @@
   "owner": {
     "login": "hardchor",
     "id": 307162,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/307162?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/307162?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hardchor",
     "htmlUrl": "https://github.com/hardchor",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/hardchor/timesheets/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hardchor/timesheets/deployments",
   "createdAt": "2016-05-11T22:33:52.000Z",
-  "updatedAt": "2017-04-30T08:41:32.000Z",
-  "pushedAt": "2016-12-06T14:21:17.000Z",
+  "updatedAt": "2017-10-13T22:32:24.000Z",
+  "pushedAt": "2017-08-30T07:54:59.000Z",
   "gitUrl": "git://github.com/hardchor/timesheets.git",
   "sshUrl": "git@github.com:hardchor/timesheets.git",
   "cloneUrl": "https://github.com/hardchor/timesheets.git",
   "svnUrl": "https://github.com/hardchor/timesheets",
   "homepage": "http://burgiblog.com/timesheets/",
-  "size": 2612,
-  "stargazersCount": 20,
-  "watchersCount": 20,
+  "size": 2588,
+  "stargazersCount": 28,
+  "watchersCount": 28,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 2,
+  "forksCount": 4,
   "mirrorUrl": null,
-  "openIssuesCount": 197,
-  "openIssues": 197,
-  "watchers": 20,
+  "openIssuesCount": 198,
+  "openIssues": 198,
+  "watchers": 28,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
-  "subscribersCount": 3,
+  "networkCount": 4,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "Timesheets",
@@ -99,15 +99,9 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/hardchor/timesheets.git"
-    },
+    "repository": "https://github.com/hardchor/timesheets",
     "author": "Burkhard Reffeling",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hardchor/timesheets/issues"
-    },
     "keywords": [
       "timesheet",
       "time",
@@ -193,9 +187,14 @@
         ]
       }
     },
-    "directories": {
-      "app": "./dist/",
-      "output": "./release/"
+    "other": {
+      "directories": {
+        "app": "./dist/",
+        "output": "./release/"
+      },
+      "bugs": {
+        "url": "https://github.com/hardchor/timesheets/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -224,6 +223,7 @@
   "filename": "hardchor___timesheets.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:15:20.641Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:01.270Z"
+  "lastFetchedAt": "2017-10-24T00:08:49.949Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:01.270Z",
+  "archived": false
 }

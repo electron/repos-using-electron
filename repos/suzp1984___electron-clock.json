@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-clock",
     "version": "1.0.0",
@@ -65,12 +65,14 @@
     ],
     "author": "suzp1984",
     "license": "None",
-    "bugs": {
-      "url": "https://github.com:suzp1984/electron-clock/issues"
-    },
     "homepage": "https://github.com:suzp1984/electron-clock#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com:suzp1984/electron-clock/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +120,6 @@
   "svnUrl": "https://github.com/suzp1984/electron-clock",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:52:44.101Z",
+  "lastFetchedAt": "2017-10-23T23:00:45.333Z",
   "packageLastFetchedAt": "2017-05-05T15:34:48.221Z"
 }

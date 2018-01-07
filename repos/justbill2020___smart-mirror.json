@@ -164,7 +164,7 @@
   },
   "networkCount": 606,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "smart-mirror",
     "version": "0.0.7",
@@ -179,10 +179,7 @@
       "motion": "sudo node motion.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Smart Mirror",
       "IoT",
@@ -191,9 +188,6 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "angular-i18n": "^1.5.5",
@@ -212,6 +206,11 @@
       "sonus": "^0.1.2",
       "johnny-five": "0.10.6",
       "raspi-io": "7.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -260,6 +259,6 @@
   "svnUrl": "https://github.com/justbill2020/smart-mirror",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T13:05:41.947Z",
+  "lastFetchedAt": "2017-10-23T23:02:44.836Z",
   "packageLastFetchedAt": "2017-05-05T15:05:27.638Z"
 }

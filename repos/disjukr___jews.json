@@ -50,7 +50,7 @@
   },
   "networkCount": 19,
   "subscribersCount": 12,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "jews",
     "description": "just news",
@@ -69,13 +69,7 @@
       "build": "node ./dev/fuse",
       "test": "node ./src/test"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/disjukr/jews.git"
-    },
-    "bugs": {
-      "url": "https://github.com/disjukr/jews/issues"
-    },
+    "repository": "https://github.com/disjukr/jews",
     "license": "MIT",
     "main": "jews.user.js",
     "keywords": [
@@ -93,7 +87,12 @@
       "babel-preset-env": "^1.1.11",
       "fuse-box": "^1.3.123"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/disjukr/jews/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +139,6 @@
   "svnUrl": "https://github.com/disjukr/just-news",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:10:19.499Z",
+  "lastFetchedAt": "2017-10-23T23:09:06.078Z",
   "packageLastFetchedAt": "2017-05-05T17:14:45.982Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "rspython",
     "id": 8505127,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8505127?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8505127?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rspython",
     "htmlUrl": "https://github.com/rspython",
@@ -134,7 +134,8 @@
       "preprotractor": "npm run update-webdriver",
       "protractor": "protractor test/protractor-conf.js",
       "update-index-async": "node -e \"require('shelljs/global'); sed('-i', /\\/\\/@@NG_LOADER_START@@[\\s\\S]*\\/\\/@@NG_LOADER_END@@/, '//@@NG_LOADER_START@@\\n' + cat('bower_components/angular-loader/angular-loader.min.js') + '\\n//@@NG_LOADER_END@@', 'app/index-async.html');\""
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -161,6 +162,7 @@
   },
   "filename": "rspython___mivvi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:08.978Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:14.178Z"
+  "lastFetchedAt": "2017-10-23T23:42:29.810Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:14.178Z",
+  "archived": false
 }

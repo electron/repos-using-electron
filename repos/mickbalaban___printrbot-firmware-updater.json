@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cnc-updater",
     "version": "0.0.1",
@@ -84,7 +84,8 @@
     "dependencies": {
       "jquery": "^2.2.1",
       "serialport": "^2.0.6"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -111,6 +112,6 @@
   },
   "filename": "mickbalaban___printrbot-firmware-updater.json",
   "hasProjects": false,
-  "lastFetchedAt": "2017-05-04T05:35:49.801Z",
+  "lastFetchedAt": "2017-10-23T22:59:21.132Z",
   "packageLastFetchedAt": "2017-05-05T15:05:57.683Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kensodemann",
     "id": 1526846,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1526846?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1526846?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kensodemann",
     "htmlUrl": "https://github.com/kensodemann",
@@ -70,10 +70,7 @@
     "version": "1.1.1",
     "description": "HomeTrax: Time Tracking, Simplified",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kensodemann/HomeTraxMobile.git"
-    },
+    "repository": "https://github.com/kensodemann/HomeTraxMobile",
     "dependencies": {},
     "devDependencies": {
       "bower": "^1.3.3",
@@ -124,7 +121,8 @@
       "start": "node server.js",
       "packageOSX": "./node_modules/.bin/electron-packager www/ HomeTrax --platform=darwin --arch=x64 --version=0.36.7 --icon=resources/icon.icns --overwrite",
       "packageWin": "./node_modules/.bin/electron-packager www/ HomeTrax --platform=win32 --arch=x64 --version=0.36.7 --icon=resources/icon.ico --overwrite"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +149,7 @@
   },
   "filename": "kensodemann___HomeTraxMobile.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:42.037Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:17.491Z"
+  "lastFetchedAt": "2017-10-23T22:06:34.057Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:17.491Z",
+  "archived": false
 }

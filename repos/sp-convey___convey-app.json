@@ -6,7 +6,7 @@
   "owner": {
     "login": "sp-convey",
     "id": 26649114,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/26649114?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/26649114?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sp-convey",
     "htmlUrl": "https://github.com/sp-convey",
@@ -67,7 +67,7 @@
   "organization": {
     "login": "sp-convey",
     "id": 26649114,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/26649114?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/26649114?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sp-convey",
     "htmlUrl": "https://github.com/sp-convey",
@@ -81,7 +81,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:27:01.412Z",
+  "lastFetchedAt": "2017-10-23T22:07:16.653Z",
   "packageJSON": {
     "name": "convey-app",
     "version": "0.0.1",
@@ -90,10 +90,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/schrodit/Convey.git"
-    },
+    "repository": "https://github.com/schrodit/Convey",
     "keywords": [
       "communication",
       "electron",
@@ -103,9 +100,6 @@
     ],
     "author": "Tim Schrodi",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/schrodit/Convey/issues"
-    },
     "homepage": "https://github.com/schrodit/Convey#readme",
     "dependencies": {
       "electron": "1.6.2"
@@ -120,8 +114,14 @@
       "gulp-util": "3.0.8",
       "less": "2.7.2",
       "polymer-cli": "0.18.0-pre.13"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/schrodit/Convey/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:44:58.553Z"
+  "packageLastFetchedAt": "2017-05-05T17:44:58.553Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "opensprints",
     "id": 509541,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/509541?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/509541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/opensprints",
     "htmlUrl": "https://github.com/opensprints",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-01-26T16:47:58.000Z",
   "updatedAt": "2016-10-23T08:33:32.000Z",
-  "pushedAt": "2017-03-15T00:14:22.000Z",
+  "pushedAt": "2017-10-14T09:12:16.000Z",
   "homepage": null,
-  "size": 3102,
+  "size": 3104,
   "stargazersCount": 3,
   "watchersCount": 3,
   "language": "JavaScript",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "opensprints",
     "id": 509541,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/509541?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/509541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/opensprints",
     "htmlUrl": "https://github.com/opensprints",
@@ -93,10 +93,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/opensprints/opensprints-electron.git"
-    },
+    "repository": "https://github.com/opensprints/opensprints-electron",
     "keywords": [
       "electron",
       "OpenSprints",
@@ -111,9 +108,6 @@
       "url": "https://github.com/nickstew"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/opensprints/opensprints-electron/issues"
-    },
     "homepage": "https://github.com/opensprints/opensprints-electron#readme",
     "devDependencies": {
       "asar": "0.13.0",
@@ -192,6 +186,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x || 4.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/opensprints/opensprints-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -240,6 +239,7 @@
   "svnUrl": "https://github.com/opensprints/opensprints-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:15:57.069Z",
-  "packageLastFetchedAt": "2017-05-05T17:25:31.676Z"
+  "lastFetchedAt": "2017-10-23T23:44:52.655Z",
+  "packageLastFetchedAt": "2017-05-05T17:25:31.676Z",
+  "archived": false
 }

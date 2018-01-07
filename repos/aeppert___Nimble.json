@@ -5,7 +5,7 @@
   "owner": {
     "login": "aeppert",
     "id": 80466,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/80466?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/80466?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aeppert",
     "htmlUrl": "https://github.com/aeppert",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "Maybulb",
       "id": 11701934,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/11701934?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/11701934?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Maybulb",
       "htmlUrl": "https://github.com/Maybulb",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/Maybulb/Nimble/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Maybulb/Nimble/deployments",
     "createdAt": "2015-12-08T01:20:00.000Z",
-    "updatedAt": "2017-04-19T03:49:31.000Z",
+    "updatedAt": "2017-09-16T16:27:09.000Z",
     "pushedAt": "2017-03-01T08:59:31.000Z",
     "gitUrl": "git://github.com/Maybulb/Nimble.git",
     "sshUrl": "git@github.com:Maybulb/Nimble.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/Maybulb/Nimble",
     "homepage": "http://maybulb.com/nimble/",
     "size": 2979,
-    "stargazersCount": 221,
-    "watchersCount": 221,
+    "stargazersCount": 226,
+    "watchersCount": 226,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 15,
+    "forksCount": 14,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 221,
+    "watchers": 226,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "Maybulb",
       "id": 11701934,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/11701934?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/11701934?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Maybulb",
       "htmlUrl": "https://github.com/Maybulb",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/Maybulb/Nimble/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Maybulb/Nimble/deployments",
     "createdAt": "2015-12-08T01:20:00.000Z",
-    "updatedAt": "2017-04-19T03:49:31.000Z",
+    "updatedAt": "2017-09-16T16:27:09.000Z",
     "pushedAt": "2017-03-01T08:59:31.000Z",
     "gitUrl": "git://github.com/Maybulb/Nimble.git",
     "sshUrl": "git@github.com:Maybulb/Nimble.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/Maybulb/Nimble",
     "homepage": "http://maybulb.com/nimble/",
     "size": 2979,
-    "stargazersCount": 221,
-    "watchersCount": 221,
+    "stargazersCount": 226,
+    "watchersCount": 226,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 15,
+    "forksCount": 14,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
-    "watchers": 221,
+    "watchers": 226,
     "defaultBranch": "master"
   },
-  "networkCount": 15,
+  "networkCount": 14,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -193,10 +195,7 @@
     "scripts": {
       "start": "gulp && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/madebybright/nimble.git"
-    },
+    "repository": "https://github.com/madebybright/nimble",
     "keywords": [
       "wolfram",
       "nimble",
@@ -205,10 +204,12 @@
     ],
     "author": "Bright, Co.",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/madebybright/nimble/issues"
-    },
-    "homepage": "https://github.com/madebybright/nimble#readme"
+    "homepage": "https://github.com/madebybright/nimble#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/madebybright/nimble/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -256,6 +257,7 @@
   "svnUrl": "https://github.com/aeppert/Nimble",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:28:04.681Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:44.349Z"
+  "lastFetchedAt": "2017-10-23T22:28:39.794Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:44.349Z",
+  "archived": false
 }

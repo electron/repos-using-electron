@@ -5,7 +5,7 @@
   "owner": {
     "login": "ValYouW",
     "id": 4539636,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4539636?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4539636?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ValYouW",
     "htmlUrl": "https://github.com/ValYouW",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/ValYouW/PhotoImp/deployments",
   "createdAt": "2015-10-07T19:31:18.000Z",
   "updatedAt": "2016-01-23T21:06:57.000Z",
-  "pushedAt": "2016-02-26T15:30:23.000Z",
+  "pushedAt": "2017-07-02T22:10:35.000Z",
   "gitUrl": "git://github.com/ValYouW/PhotoImp.git",
   "sshUrl": "git@github.com:ValYouW/PhotoImp.git",
   "cloneUrl": "https://github.com/ValYouW/PhotoImp.git",
   "svnUrl": "https://github.com/ValYouW/PhotoImp",
   "homepage": null,
-  "size": 345,
+  "size": 366,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -80,18 +80,12 @@
       "start": "bash startdev.sh",
       "buildwin": "electron-packager . PhotoImp --platform=win32 --arch=all --icon=assets/logo_32.ico --ignore=\"node_modules/(electron-packager|electron-prebuilt)\" --out=build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ValYouW/PhotoImp.git"
-    },
+    "repository": "https://github.com/ValYouW/PhotoImp",
     "author": {
       "name": "ValYouW",
       "email": "ValYouW@gmail.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ValYouW/PhotoImp/issues"
-    },
     "homepage": "https://github.com/ValYouW/PhotoImp",
     "dependencies": {
       "angular": "^1.4.7",
@@ -103,6 +97,11 @@
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ValYouW/PhotoImp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "ValYouW___PhotoImp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:13.821Z",
-  "packageLastFetchedAt": "2017-05-05T15:06:47.864Z"
+  "lastFetchedAt": "2017-10-23T23:43:56.406Z",
+  "packageLastFetchedAt": "2017-05-05T15:06:47.864Z",
+  "archived": false
 }

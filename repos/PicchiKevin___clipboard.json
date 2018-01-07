@@ -5,7 +5,7 @@
   "owner": {
     "login": "PicchiKevin",
     "id": 4269168,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4269168?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4269168?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/PicchiKevin",
     "htmlUrl": "https://github.com/PicchiKevin",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/PicchiKevin/clipboard/deployments",
   "createdAt": "2016-11-06T19:21:29.000Z",
   "updatedAt": "2016-11-07T20:19:20.000Z",
-  "pushedAt": "2016-11-08T22:21:49.000Z",
+  "pushedAt": "2017-08-20T12:20:42.000Z",
   "gitUrl": "git://github.com/PicchiKevin/clipboard.git",
   "sshUrl": "git@github.com:PicchiKevin/clipboard.git",
   "cloneUrl": "https://github.com/PicchiKevin/clipboard.git",
   "svnUrl": "https://github.com/PicchiKevin/clipboard",
   "homepage": null,
-  "size": 231,
+  "size": 230,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -75,10 +75,7 @@
       "package": "electron-packager ./ --all --out=output/ --icon=icon.icns --overwrite"
     },
     "author": "Picchi Kevin",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/PicchiKevin/clipboard.git"
-    },
+    "repository": "https://github.com/PicchiKevin/clipboard",
     "devDependencies": {
       "electron": "^1.4.1",
       "electron-packager": "^8.2.0"
@@ -87,7 +84,8 @@
       "electron-compile": "^3.3.6",
       "electron-pug": "^1.5.1",
       "jquery": "^1.7.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +112,7 @@
   },
   "filename": "PicchiKevin___clipboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:01:57.635Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:34.655Z"
+  "lastFetchedAt": "2017-10-23T21:52:25.152Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:34.655Z",
+  "archived": false
 }

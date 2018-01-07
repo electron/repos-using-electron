@@ -5,7 +5,7 @@
   "owner": {
     "login": "JingeTu",
     "id": 15942649,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15942649?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15942649?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JingeTu",
     "htmlUrl": "https://github.com/JingeTu",
@@ -53,19 +53,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/JingeTu/MdViewer.git"
-    },
+    "repository": "https://github.com/JingeTu/MdViewer",
     "keywords": [
       "electron",
       "markdown"
     ],
     "author": "JingeTu",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/JingeTu/MdViewer/issues"
-    },
     "homepage": "https://github.com/JingeTu/MdViewer#readme",
     "devDependencies": {
       "bootstrap": "^3.3.6",
@@ -73,6 +67,11 @@
       "electron-prebuilt": "^1.2.1",
       "jquery": "^1.9.1",
       "markdown-to-html": "^0.0.11"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/JingeTu/MdViewer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   "svnUrl": "https://github.com/JingeTu/MdViewer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:22:15.625Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:10.560Z"
+  "lastFetchedAt": "2017-10-24T00:08:56.716Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:10.560Z",
+  "archived": false
 }

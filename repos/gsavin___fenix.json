@@ -5,7 +5,7 @@
   "owner": {
     "login": "gsavin",
     "id": 259501,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/259501?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/259501?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gsavin",
     "htmlUrl": "https://github.com/gsavin",
@@ -82,10 +82,7 @@
       "build": "./node_modules/.bin/webpack --progress --colors && grunt",
       "build-production": "./node_modules/.bin/webpack --progress --colors -p --define process.env.NODE_ENV='\"production\"' && grunt"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gsavin/fenix.git"
-    },
+    "repository": "https://github.com/gsavin/fenix",
     "keywords": [
       "mqtt",
       "sensor",
@@ -93,9 +90,6 @@
     ],
     "author": "Guilhelm Savin",
     "license": "CeCILL-B",
-    "bugs": {
-      "url": "https://github.com/gsavin/fenix/issues"
-    },
     "homepage": "https://github.com/gsavin/fenix",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -122,6 +116,11 @@
       "router5": "^3.0.3",
       "router5-listeners": "^3.0.0",
       "winston": "^2.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gsavin/fenix/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   },
   "filename": "gsavin___fenix.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:13:47.136Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:24.289Z"
+  "lastFetchedAt": "2017-10-24T00:09:41.201Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:24.289Z",
+  "archived": false
 }

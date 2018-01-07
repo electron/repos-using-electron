@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "jaco",
     "version": "1.0.0",
@@ -57,14 +57,8 @@
       "test": "mocha --compilers js:babel-core/register --recursive"
     },
     "author": "S.C. Barrus",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/goopscoop/jaco.git"
-    },
+    "repository": "https://github.com/goopscoop/jaco",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/goopscoop/jaco/issues"
-    },
     "homepage": "https://github.com/goopscoop/jaco#readme",
     "devDependencies": {
       "babel-core": "^6.1.21",
@@ -99,6 +93,11 @@
       "react-redux": "^4.0.0",
       "react-router": "^1.0.0",
       "redux": "^3.0.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/goopscoop/jaco/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,6 @@
   },
   "filename": "goopscoop___jaco.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:36:40.277Z",
+  "lastFetchedAt": "2017-10-23T23:10:28.087Z",
   "packageLastFetchedAt": "2017-05-04T22:11:46.401Z"
 }

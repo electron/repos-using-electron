@@ -5,7 +5,7 @@
   "owner": {
     "login": "OpenMOBA",
     "id": 16292278,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16292278?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16292278?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OpenMOBA",
     "htmlUrl": "https://github.com/OpenMOBA",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "OpenMOBA",
     "id": 16292278,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16292278?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16292278?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/OpenMOBA",
     "htmlUrl": "https://github.com/OpenMOBA",
@@ -87,13 +87,7 @@
     "scripts": {
       "start": "electron app/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OpenMOBA/desktop-launcher.git"
-    },
-    "bugs": {
-      "url": "https://github.com/OpenMOBA/desktop-launcher/issues"
-    },
+    "repository": "https://github.com/OpenMOBA/desktop-launcher",
     "homepage": "https://openmoba.github.io",
     "devDependencies": {
       "asar": "^0.9.0",
@@ -101,6 +95,11 @@
     },
     "dependencies": {
       "foundation-sites": "^6.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/OpenMOBA/desktop-launcher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "OpenMOBA___desktop-launcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:51.936Z",
-  "packageLastFetchedAt": "2017-05-05T17:09:16.214Z"
+  "lastFetchedAt": "2017-10-23T21:45:46.481Z",
+  "packageLastFetchedAt": "2017-05-05T17:09:16.214Z",
+  "archived": false
 }

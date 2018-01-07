@@ -5,7 +5,7 @@
   "owner": {
     "login": "NuevoGaming",
     "id": 15658288,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15658288?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15658288?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NuevoGaming",
     "htmlUrl": "https://github.com/NuevoGaming",
@@ -78,13 +78,7 @@
     "description": "Completely free and open source texture packer.",
     "main": "./built/back-end/back-end-bundle.js",
     "scripts": {},
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nuevogaming/texture-helper.git"
-    },
-    "bugs": {
-      "url": "https://github.com/nuevogaming/texture-helper/issues"
-    },
+    "repository": "https://github.com/nuevogaming/texture-helper",
     "license": "MIT",
     "dependencies": {
       "angular2": "^2.0.0-beta.1",
@@ -113,6 +107,11 @@
       "gulp-util": "^3.0.7",
       "run-sequence": "^1.1.5",
       "webpack": "^1.12.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nuevogaming/texture-helper/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "NuevoGaming___texture-helper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:35:54.254Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:33.779Z"
+  "lastFetchedAt": "2017-10-23T23:40:56.948Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:33.779Z",
+  "archived": false
 }

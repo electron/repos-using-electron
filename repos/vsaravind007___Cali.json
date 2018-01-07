@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Cali",
     "version": "1.0.0",
@@ -80,7 +80,8 @@
     "scripts": {
       "build": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -107,6 +108,6 @@
   },
   "filename": "vsaravind007___Cali.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:26.009Z",
+  "lastFetchedAt": "2017-10-23T23:11:03.329Z",
   "packageLastFetchedAt": "2017-05-05T14:34:18.043Z"
 }

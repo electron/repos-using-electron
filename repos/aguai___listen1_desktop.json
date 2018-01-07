@@ -5,7 +5,7 @@
   "owner": {
     "login": "aguai",
     "id": 110466,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/110466?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/110466?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aguai",
     "htmlUrl": "https://github.com/aguai",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "listen1",
       "id": 18599108,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/18599108?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18599108?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/listen1",
       "htmlUrl": "https://github.com/listen1",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/listen1/listen1_desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/listen1/listen1_desktop/deployments",
     "createdAt": "2016-05-19T08:19:22.000Z",
-    "updatedAt": "2017-05-03T02:55:56.000Z",
-    "pushedAt": "2017-02-11T05:52:48.000Z",
+    "updatedAt": "2017-10-17T05:36:59.000Z",
+    "pushedAt": "2017-09-14T08:41:37.000Z",
     "gitUrl": "git://github.com/listen1/listen1_desktop.git",
     "sshUrl": "git@github.com:listen1/listen1_desktop.git",
     "cloneUrl": "https://github.com/listen1/listen1_desktop.git",
     "svnUrl": "https://github.com/listen1/listen1_desktop",
     "homepage": "http://listen1.github.io/listen1",
-    "size": 93,
-    "stargazersCount": 140,
-    "watchersCount": 140,
+    "size": 95,
+    "stargazersCount": 254,
+    "watchersCount": 254,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 34,
+    "forksCount": 63,
     "mirrorUrl": null,
-    "openIssuesCount": 7,
-    "openIssues": 7,
-    "watchers": 140,
+    "archived": false,
+    "openIssuesCount": 10,
+    "openIssues": 10,
+    "watchers": 254,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "listen1",
       "id": 18599108,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/18599108?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/18599108?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/listen1",
       "htmlUrl": "https://github.com/listen1",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/listen1/listen1_desktop/downloads",
     "deploymentsUrl": "https://api.github.com/repos/listen1/listen1_desktop/deployments",
     "createdAt": "2016-05-19T08:19:22.000Z",
-    "updatedAt": "2017-05-03T02:55:56.000Z",
-    "pushedAt": "2017-02-11T05:52:48.000Z",
+    "updatedAt": "2017-10-17T05:36:59.000Z",
+    "pushedAt": "2017-09-14T08:41:37.000Z",
     "gitUrl": "git://github.com/listen1/listen1_desktop.git",
     "sshUrl": "git@github.com:listen1/listen1_desktop.git",
     "cloneUrl": "https://github.com/listen1/listen1_desktop.git",
     "svnUrl": "https://github.com/listen1/listen1_desktop",
     "homepage": "http://listen1.github.io/listen1",
-    "size": 93,
-    "stargazersCount": 140,
-    "watchersCount": 140,
+    "size": 95,
+    "stargazersCount": 254,
+    "watchersCount": 254,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 34,
+    "forksCount": 63,
     "mirrorUrl": null,
-    "openIssuesCount": 7,
-    "openIssues": 7,
-    "watchers": 140,
+    "archived": false,
+    "openIssuesCount": 10,
+    "openIssues": 10,
+    "watchers": 254,
     "defaultBranch": "master"
   },
-  "networkCount": 34,
+  "networkCount": 63,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,19 +183,13 @@
       "dist:linux32": "build --platform linux --arch ia32",
       "dist:linux64": "build --platform linux --arch x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/listen1/listen1_desktop.git"
-    },
+    "repository": "https://github.com/listen1/listen1_desktop",
     "keywords": [
       "Electron",
       "Listen 1"
     ],
     "author": "Listen 1 <githublisten1@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/listen1/listen1_desktop/issues"
-    },
     "homepage": "https://github.com/listen1/listen1_desktop#readme",
     "devDependencies": {
       "electron-builder": "^3.24.0",
@@ -224,6 +220,11 @@
         ]
       },
       "win": {}
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/listen1/listen1_desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -272,6 +273,7 @@
   "svnUrl": "https://github.com/aguai/listen1_desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:39:54.026Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:47.852Z"
+  "lastFetchedAt": "2017-10-23T21:49:25.255Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:47.852Z",
+  "archived": false
 }

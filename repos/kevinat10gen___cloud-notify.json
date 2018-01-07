@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "example-menubar-app",
     "version": "1.0.0",
@@ -82,7 +82,8 @@
     "scripts": {
       "build": "electron-packager . 'MongoDB Cloud' --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,7 +110,7 @@
   },
   "filename": "kevinat10gen___cloud-notify.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:04:42.619Z",
+  "lastFetchedAt": "2017-10-23T23:09:40.835Z",
   "packageLastFetchedAt": "2017-05-04T22:01:12.907Z",
   "contributors": [
     "kevinat10gen"

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "natifier",
     "version": "1.0.3",
@@ -53,16 +53,10 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/anaibol/natifier.git"
-    },
+    "repository": "https://github.com/anaibol/natifier",
     "keywords": [],
     "author": "GitHub",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/anaibol/natifier/issues"
-    },
     "preferGlobal": true,
     "bin": {
       "natifier": "./bin/index.js"
@@ -77,6 +71,11 @@
       "electron": "0.4.1",
       "electron-prebuilt": "0.36.12",
       "yargs": "3.32.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/anaibol/natifier/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   "svnUrl": "https://github.com/anaibol/natifier",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:11:47.567Z",
+  "lastFetchedAt": "2017-10-24T00:10:54.921Z",
   "packageLastFetchedAt": "2017-05-04T22:25:08.233Z"
 }

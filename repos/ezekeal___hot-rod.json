@@ -5,7 +5,7 @@
   "owner": {
     "login": "ezekeal",
     "id": 6458318,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6458318?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6458318?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ezekeal",
     "htmlUrl": "https://github.com/ezekeal",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-02-12T02:45:10.000Z",
   "updatedAt": "2016-03-11T15:32:30.000Z",
-  "pushedAt": "2016-03-13T08:57:31.000Z",
+  "pushedAt": "2017-10-04T15:18:51.000Z",
   "homepage": null,
-  "size": 39203,
+  "size": 39108,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "HTML",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -62,10 +62,7 @@
       "start": "electron main.js",
       "watch": "npm run start & npm run elm:watch & wait"
     },
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/ezekeal/hot-rod"
-    },
+    "repository": "https://github.com/ezekeal/hot-rod",
     "author": {
       "name": "Zach Koch"
     },
@@ -96,7 +93,8 @@
       "chokidar-cli": "^1.2.0",
       "electron-prebuilt": "^0.36.7",
       "elm": "^0.16.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/ezekeal/hot-rod",
@@ -143,6 +141,7 @@
   },
   "filename": "ezekeal___hot-rod.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:52.167Z",
-  "packageLastFetchedAt": "2017-05-04T23:12:42.086Z"
+  "lastFetchedAt": "2017-10-23T23:41:55.161Z",
+  "packageLastFetchedAt": "2017-05-04T23:12:42.086Z",
+  "archived": false
 }

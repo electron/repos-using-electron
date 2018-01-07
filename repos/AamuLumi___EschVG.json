@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "EschVG",
     "version": "0.0.1",
@@ -83,10 +83,7 @@
       "dev": "NODE_ENV=DEV node ./webserver.js",
       "deploy": "NODE_ENV=production webpack -p --config webpack.config.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AamuLumi/EschVG.git"
-    },
+    "repository": "https://github.com/AamuLumi/EschVG",
     "keywords": [
       "Electron",
       "Escher",
@@ -128,10 +125,12 @@
     },
     "author": "Florian \"Aamu Lumi\" Kauder <florian@kauder.fr>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/AamuLumi/EschVG/issues"
-    },
-    "homepage": "https://github.com/AamuLumi/EschVG#readme"
+    "homepage": "https://github.com/AamuLumi/EschVG#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AamuLumi/EschVG/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -158,6 +157,6 @@
   },
   "filename": "AamuLumi___EschVG.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:05.832Z",
+  "lastFetchedAt": "2017-10-23T23:08:39.080Z",
   "packageLastFetchedAt": "2017-05-05T17:18:46.729Z"
 }

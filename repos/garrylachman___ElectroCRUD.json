@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 109,
   "subscribersCount": 42,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "main": "app/index.js",
     "version": "0.8.4",
@@ -53,13 +53,7 @@
     "description": "MySQL CRUD build on Electron",
     "license": "GPL-3.0",
     "author": "Garry Lachman <garry@lachman.co>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/garrylachman/ElectroCRUD.git"
-    },
-    "bugs": {
-      "url": "https://github.com/garrylachman/ElectroCRUD/issues"
-    },
+    "repository": "https://github.com/garrylachman/ElectroCRUD",
     "keywords": [
       "mysql",
       "CRUD",
@@ -122,6 +116,11 @@
       "promise": "^7.1.1",
       "setter-method": "^0.1.0",
       "tunnel-ssh": "^3.2.1-beta"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/garrylachman/ElectroCRUD/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -169,6 +168,6 @@
   "svnUrl": "https://github.com/garrylachman/ElectroCRUD",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:01:02.597Z",
+  "lastFetchedAt": "2017-10-23T23:00:53.842Z",
   "packageLastFetchedAt": "2017-05-05T17:16:19.396Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "lludol",
     "id": 5556262,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5556262?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5556262?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lludol",
     "htmlUrl": "https://github.com/lludol",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/lludol/socket-io-tester/deployments",
   "createdAt": "2016-03-30T17:06:18.000Z",
   "updatedAt": "2017-02-06T15:44:25.000Z",
-  "pushedAt": "2017-05-02T21:08:48.000Z",
+  "pushedAt": "2017-10-22T13:21:49.000Z",
   "gitUrl": "git://github.com/lludol/socket-io-tester.git",
   "sshUrl": "git@github.com:lludol/socket-io-tester.git",
   "cloneUrl": "https://github.com/lludol/socket-io-tester.git",
   "svnUrl": "https://github.com/lludol/socket-io-tester",
   "homepage": "",
-  "size": 1592,
+  "size": 1630,
   "stargazersCount": 3,
   "watchersCount": 3,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 2,
+  "openIssues": 2,
   "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
@@ -79,15 +79,9 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lludol/socket-io-tester.git"
-    },
+    "repository": "https://github.com/lludol/socket-io-tester",
     "author": "lludol",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lludol/socket-io-tester/issues"
-    },
     "devDependencies": {
       "cz-conventional-changelog": "^2.0.0",
       "electron-prebuilt": "^1.1.0"
@@ -103,6 +97,11 @@
     "config": {
       "commitizen": {
         "path": "./node_modules/cz-conventional-changelog"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lludol/socket-io-tester/issues"
       }
     }
   },
@@ -131,6 +130,7 @@
   },
   "filename": "lludol___socket-io-tester.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:40.396Z",
-  "packageLastFetchedAt": "2017-05-05T03:34:41.616Z"
+  "lastFetchedAt": "2017-10-23T22:10:23.036Z",
+  "packageLastFetchedAt": "2017-05-05T03:34:41.616Z",
+  "archived": false
 }

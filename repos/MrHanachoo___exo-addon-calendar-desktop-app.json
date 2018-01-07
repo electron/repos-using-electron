@@ -5,7 +5,7 @@
   "owner": {
     "login": "MrHanachoo",
     "id": 15018073,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15018073?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15018073?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MrHanachoo",
     "htmlUrl": "https://github.com/MrHanachoo",
@@ -80,17 +80,15 @@
       "start": "electron main.js",
       "build": "electron-packager . --out=dist --app-version=$npm_package_version --prune --asar --overwrite --platform=linux,darwin --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MrHanachoo/exo-calendar-desktop-app.git"
-    },
+    "repository": "https://github.com/MrHanachoo/exo-calendar-desktop-app",
     "author": "MrHanachoo",
     "license": "LGPL-3.0",
     "homepage": "https://github.com/MrHanachoo/exo-calendar-desktop-app",
     "devDependencies": {
       "electron-packager": "^7.0.0",
       "electron-prebuilt": "^1.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +115,7 @@
   },
   "filename": "MrHanachoo___exo-addon-calendar-desktop-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:35.908Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:26.180Z"
+  "lastFetchedAt": "2017-10-23T22:26:14.016Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:26.180Z",
+  "archived": false
 }

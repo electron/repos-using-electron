@@ -5,7 +5,7 @@
   "owner": {
     "login": "demansn",
     "id": 3617971,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3617971?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3617971?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/demansn",
     "htmlUrl": "https://github.com/demansn",
@@ -74,10 +74,7 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://demansn@github.com/demansn/vk.dialogs-downloads.git"
-    },
+    "repository": "https://github.com/demansn/vk.dialogs-downloads",
     "keywords": [
       "Electron",
       "NodeJS",
@@ -86,12 +83,14 @@
     ],
     "author": "demansn",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/demansn/vk.dialogs-downloads/issues"
-    },
     "homepage": "https://github.com/demansn/vk.dialogs-downloads#readme",
     "dependencies": {
       "electron-prebuilt": "^1.3.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/demansn/vk.dialogs-downloads/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "demansn___vk.dialogs-downloads.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:18:04.820Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:28.169Z"
+  "lastFetchedAt": "2017-10-23T22:13:18.041Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:28.169Z",
+  "archived": false
 }

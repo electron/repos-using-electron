@@ -64,15 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "biawak-desktop",
     "version": "0.1.0",
     "description": "Biawak Hardware Monitor",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:crstffr/biawak-desktop.git"
-    },
+    "repository": "https://github.com/crstffr/biawak-desktop",
     "main": "desktop/main.js",
     "author": "crstffr",
     "license": "ISC",
@@ -143,7 +140,8 @@
           "dependencies": {}
         }
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -170,6 +168,6 @@
   },
   "filename": "crstffr___biawak-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:30.935Z",
+  "lastFetchedAt": "2017-10-24T00:10:27.171Z",
   "packageLastFetchedAt": "2017-05-05T01:30:12.566Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Mechasparrow",
     "id": 8940320,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8940320?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8940320?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mechasparrow",
     "htmlUrl": "https://github.com/Mechasparrow",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -101,6 +95,11 @@
     "dependencies": {
       "angular": "^1.5.8",
       "moment-timezone": "^0.5.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "filename": "Mechasparrow___timezone-utility-electron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:50.563Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:53.717Z"
+  "lastFetchedAt": "2017-10-23T22:23:00.000Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:53.717Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-boilerplate",
     "version": "0.2.1",
@@ -55,10 +55,7 @@
     },
     "author": "Edward Chu <crazyzyt@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:chuyik/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/chuyik/electron-boilerplate",
     "devDependencies": {
       "electron-connect": "chuyik/electron-connect",
       "electron-packager": "^5.2.0",
@@ -73,7 +70,8 @@
       "menubar": "chuyik/menubar",
       "node-notifier": "^4.2.3",
       "request": "^2.58.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/chuyik/electron-boilerplate",
@@ -120,6 +118,6 @@
   },
   "filename": "chuyik___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:32:29.531Z",
+  "lastFetchedAt": "2017-10-23T23:10:39.586Z",
   "packageLastFetchedAt": "2017-05-04T22:40:35.612Z"
 }

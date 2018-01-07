@@ -5,7 +5,7 @@
   "owner": {
     "login": "EvolveLabs",
     "id": 11398428,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11398428?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11398428?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EvolveLabs",
     "htmlUrl": "https://github.com/EvolveLabs",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "EvolveLabs",
     "id": 11398428,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11398428?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11398428?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/EvolveLabs",
     "htmlUrl": "https://github.com/EvolveLabs",
@@ -70,10 +70,7 @@
     "version": "1.0.0",
     "description": "Sample application for the electron-updater project",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/evolvelabs/electron-updater-sample.git"
-    },
+    "repository": "https://github.com/evolvelabs/electron-updater-sample",
     "scripts": {
       "test": "mocha",
       "clean": "rm -rf ./release",
@@ -103,7 +100,8 @@
     },
     "plugins": {
       "electron-updater-sample-plugin": "^0.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/EvolveLabs/electron-updater-sample",
@@ -150,6 +148,7 @@
   },
   "filename": "EvolveLabs___electron-updater-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:38:29.662Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:12.782Z"
+  "lastFetchedAt": "2017-10-23T21:49:59.150Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:12.782Z",
+  "archived": false
 }

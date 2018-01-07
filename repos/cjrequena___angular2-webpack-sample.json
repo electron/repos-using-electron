@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "aurora-seo-frontend",
     "version": "0.1.0",
@@ -247,12 +247,14 @@
       "type": "git",
       "url": "https://gitlab.com/cjrequena/aurora-seo-frontend.git"
     },
-    "bugs": {
-      "url": "https://gitlab.com/cjrequena/aurora-seo-frontend/issues"
-    },
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://gitlab.com/cjrequena/aurora-seo-frontend/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -280,6 +282,6 @@
   },
   "filename": "cjrequena___angular2-webpack-sample.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:20.507Z",
+  "lastFetchedAt": "2017-10-23T22:58:28.203Z",
   "packageLastFetchedAt": "2017-05-05T15:24:02.728Z"
 }

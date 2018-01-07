@@ -164,7 +164,7 @@
   },
   "networkCount": 143,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "moeditor",
     "version": "0.0.1",
@@ -174,19 +174,13 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Menci/Moeditor.git"
-    },
+    "repository": "https://github.com/Menci/Moeditor",
     "keywords": [
       "markdown",
       "editor"
     ],
     "author": "Menci",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Menci/Moeditor/issues"
-    },
     "homepage": "https://github.com/Menci/Moeditor#readme",
     "devDependencies": {
       "codemirror": "^5.16.0",
@@ -200,6 +194,11 @@
       "mathjax-node": "^0.5.1",
       "lrucache": "^1.0.2",
       "highlight.js": "^9.5.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Menci/Moeditor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -248,6 +247,6 @@
   "filename": "victorgsouto___Moeditor.json",
   "sourceRepo": "Moeditor/Moeditor",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:28.266Z",
+  "lastFetchedAt": "2017-10-23T22:57:40.834Z",
   "packageLastFetchedAt": "2017-05-05T14:30:56.547Z"
 }

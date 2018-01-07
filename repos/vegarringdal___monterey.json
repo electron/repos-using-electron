@@ -5,7 +5,7 @@
   "owner": {
     "login": "vegarringdal",
     "id": 2901416,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2901416?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2901416?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vegarringdal",
     "htmlUrl": "https://github.com/vegarringdal",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "monterey-framework",
       "id": 20094769,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/20094769?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/20094769?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/monterey-framework",
       "htmlUrl": "https://github.com/monterey-framework",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/monterey-framework/monterey/downloads",
     "deploymentsUrl": "https://api.github.com/repos/monterey-framework/monterey/deployments",
     "createdAt": "2016-06-22T16:58:40.000Z",
-    "updatedAt": "2017-04-13T14:40:56.000Z",
-    "pushedAt": "2017-01-29T08:24:24.000Z",
+    "updatedAt": "2017-07-24T15:56:28.000Z",
+    "pushedAt": "2017-06-25T15:33:17.000Z",
     "gitUrl": "git://github.com/monterey-framework/monterey.git",
     "sshUrl": "git@github.com:monterey-framework/monterey.git",
     "cloneUrl": "https://github.com/monterey-framework/monterey.git",
     "svnUrl": "https://github.com/monterey-framework/monterey",
     "homepage": "",
-    "size": 2936,
-    "stargazersCount": 63,
-    "watchersCount": 63,
+    "size": 2917,
+    "stargazersCount": 64,
+    "watchersCount": 64,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 7,
+    "forksCount": 8,
     "mirrorUrl": null,
-    "openIssuesCount": 127,
-    "openIssues": 127,
-    "watchers": 63,
+    "archived": false,
+    "openIssuesCount": 130,
+    "openIssues": 130,
+    "watchers": 64,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "monterey-framework",
       "id": 20094769,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/20094769?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/20094769?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/monterey-framework",
       "htmlUrl": "https://github.com/monterey-framework",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/monterey-framework/monterey/downloads",
     "deploymentsUrl": "https://api.github.com/repos/monterey-framework/monterey/deployments",
     "createdAt": "2016-06-22T16:58:40.000Z",
-    "updatedAt": "2017-04-13T14:40:56.000Z",
-    "pushedAt": "2017-01-29T08:24:24.000Z",
+    "updatedAt": "2017-07-24T15:56:28.000Z",
+    "pushedAt": "2017-06-25T15:33:17.000Z",
     "gitUrl": "git://github.com/monterey-framework/monterey.git",
     "sshUrl": "git@github.com:monterey-framework/monterey.git",
     "cloneUrl": "https://github.com/monterey-framework/monterey.git",
     "svnUrl": "https://github.com/monterey-framework/monterey",
     "homepage": "",
-    "size": 2936,
-    "stargazersCount": 63,
-    "watchersCount": 63,
+    "size": 2917,
+    "stargazersCount": 64,
+    "watchersCount": 64,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 7,
+    "forksCount": 8,
     "mirrorUrl": null,
-    "openIssuesCount": 127,
-    "openIssues": 127,
-    "watchers": 63,
+    "archived": false,
+    "openIssuesCount": 130,
+    "openIssues": 130,
+    "watchers": 64,
     "defaultBranch": "master"
   },
-  "networkCount": 7,
+  "networkCount": 8,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -175,19 +177,13 @@
       "gui"
     ],
     "homepage": "http://aurelia.io",
-    "bugs": {
-      "url": "https://github.com/monterey-framework/monterey/issues"
-    },
     "main": "app/index.js",
     "license": "CC0-1.0",
     "author": {
       "name": "Monterey",
       "email": "info@aureliatools.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/monterey-framework/monterey"
-    },
+    "repository": "https://github.com/monterey-framework/monterey",
     "scripts": {
       "postinstall": "install-app-deps",
       "pack": "build --dir",
@@ -195,9 +191,6 @@
       "setup": "node utils -setup && node utils -rebuild-native",
       "rebuild-native": "node utils -rebuild-native",
       "test-build": "gulp rename-index && build && gulp rename-index-back"
-    },
-    "directories": {
-      "app": "app"
     },
     "build": {
       "appId": "monterey",
@@ -266,6 +259,14 @@
       "typescript": "^2.0.0",
       "vinyl-paths": "^2.1.0",
       "yargs": "^4.7.1"
+    },
+    "other": {
+      "directories": {
+        "app": "app"
+      },
+      "bugs": {
+        "url": "https://github.com/monterey-framework/monterey/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -314,6 +315,7 @@
   "svnUrl": "https://github.com/vegarringdal/monterey",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:34:34.586Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:32.964Z"
+  "lastFetchedAt": "2017-10-24T00:06:15.312Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:32.964Z",
+  "archived": false
 }

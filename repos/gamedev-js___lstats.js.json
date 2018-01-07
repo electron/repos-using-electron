@@ -86,8 +86,8 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T05:25:17.123Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:01:37.584Z",
   "packageJSON": {
     "name": "lstats.js",
     "version": "1.2.3",
@@ -102,18 +102,12 @@
       "dev": "rollup -w -c ./script/rollup.config.js",
       "test": "npm run build:dev && tap test/*.spec.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gamedev-js/lstats.git"
-    },
+    "repository": "https://github.com/gamedev-js/lstats",
     "keywords": [
       "stats"
     ],
     "author": "jwu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gamedev-js/lstats/issues"
-    },
     "homepage": "https://github.com/gamedev-js/lstats/issues",
     "dependencies": {},
     "devDependencies": {
@@ -124,6 +118,11 @@
       "rollup-plugin-buble": "^0.15.0",
       "rollup-watch": "^3.2.2",
       "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gamedev-js/lstats/issues"
+      }
     }
   },
   "packageStatus": 200,

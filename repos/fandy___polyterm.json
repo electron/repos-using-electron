@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "polyterm",
     "productName": "Polyterm",
@@ -94,19 +94,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/afang/polyterm.git"
-    },
+    "repository": "https://github.com/afang/polyterm",
     "author": {
       "name": "Andy Fang",
       "email": "andy@fang.af",
       "url": "https://github.com/afang"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/afang/polyterm/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -199,6 +193,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/afang/polyterm/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -226,6 +225,6 @@
   },
   "filename": "fandy___polyterm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:28.368Z",
+  "lastFetchedAt": "2017-10-23T23:06:18.826Z",
   "packageLastFetchedAt": "2017-05-05T17:37:21.346Z"
 }

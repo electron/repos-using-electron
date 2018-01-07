@@ -70,16 +70,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pacman-html5",
     "description": "Pacman written in TypeScript",
     "version": "3.0.0",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bobbylight/PacmanJS.git"
-    },
+    "repository": "https://github.com/bobbylight/PacmanJS",
     "scripts": {
       "clean": "rimraf build",
       "build": "NODE_ENV=production webpack --config webpack/webpack.config.js",
@@ -116,7 +113,8 @@
     },
     "dependencies": {
       "@types/jasmine": "2.5.47"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,6 @@
   },
   "filename": "bobbylight___PacmanJS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:56.987Z",
+  "lastFetchedAt": "2017-10-23T23:11:15.339Z",
   "packageLastFetchedAt": "2017-05-04T22:33:07.818Z"
 }

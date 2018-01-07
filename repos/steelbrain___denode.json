@@ -5,7 +5,7 @@
   "owner": {
     "login": "steelbrain",
     "id": 4278113,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4278113?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4278113?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/steelbrain",
     "htmlUrl": "https://github.com/steelbrain",
@@ -20,12 +20,12 @@
   "description": "Debug node apps like a pro",
   "fork": false,
   "createdAt": "2016-04-15T08:41:37.000Z",
-  "updatedAt": "2017-05-03T07:26:29.000Z",
-  "pushedAt": "2017-03-19T17:19:20.000Z",
+  "updatedAt": "2017-10-17T08:05:36.000Z",
+  "pushedAt": "2017-06-24T15:00:45.000Z",
   "homepage": null,
-  "size": 102,
-  "stargazersCount": 132,
-  "watchersCount": 132,
+  "size": 111,
+  "stargazersCount": 134,
+  "watchersCount": 134,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 8,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 132,
+  "watchers": 134,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 8,
-  "subscribersCount": 6,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "denode",
@@ -58,10 +58,7 @@
     "bin": {
       "denode": "./browser/index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/steelbrain/denode.git"
-    },
+    "repository": "https://github.com/steelbrain/denode",
     "keywords": [
       "electron",
       "node",
@@ -71,9 +68,6 @@
     "productName": "DeNode",
     "author": "steelbrain",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/steelbrain/denode/issues"
-    },
     "homepage": "https://github.com/steelbrain/denode#readme",
     "dependencies": {
       "devtron": "^1.4.0",
@@ -81,6 +75,11 @@
       "electron-context-menu": "^0.8.0",
       "electron-debug": "^1.1.0",
       "electron-devtools-installer": "^2.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/steelbrain/denode/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/steelbrain/denode",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:18:20.239Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:03.729Z"
+  "lastFetchedAt": "2017-10-24T00:06:54.231Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:03.729Z",
+  "archived": false
 }

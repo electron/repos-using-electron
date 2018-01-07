@@ -5,7 +5,7 @@
   "owner": {
     "login": "janne",
     "id": 2682,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2682?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2682?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/janne",
     "htmlUrl": "https://github.com/janne",
@@ -75,17 +75,15 @@
       "start": "electron main.js",
       "packager": "electron-packager . --platform=darwin --arch=x64 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/janne/elm-matte.git"
-    },
+    "repository": "https://github.com/janne/elm-matte",
     "author": "Jan Andersson <jan.andersson@gmail.com>",
     "license": "MIT",
     "homepage": "https://github.com/janne/elm-matte#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.37.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +110,7 @@
   },
   "filename": "janne___elm-matte.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:26.942Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:29.071Z"
+  "lastFetchedAt": "2017-10-23T22:52:38.875Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:29.071Z",
+  "archived": false
 }

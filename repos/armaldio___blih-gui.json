@@ -5,7 +5,7 @@
   "owner": {
     "login": "armaldio",
     "id": 3089715,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3089715?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3089715?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/armaldio",
     "htmlUrl": "https://github.com/armaldio",
@@ -171,10 +171,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/IniterWorker/blih-gui.git"
-    },
+    "repository": "https://github.com/IniterWorker/blih-gui",
     "keywords": [
       "blih",
       "gui",
@@ -182,9 +179,6 @@
     ],
     "author": "Walter Bonetti",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/IniterWorker/blih-gui/issues"
-    },
     "homepage": "https://github.com/IniterWorker/blih-gui#readme",
     "dependencies": {
       "gulp-minify-css": "^1.2.4",
@@ -196,6 +190,11 @@
       "fs-jetpack": "^0.9.1",
       "gulp": "^3.9.1",
       "rcedit": "^0.5.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/IniterWorker/blih-gui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +243,7 @@
   "svnUrl": "https://github.com/armaldio/blih-gui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:13:13.633Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:15.285Z"
+  "lastFetchedAt": "2017-10-24T00:18:04.940Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:15.285Z",
+  "archived": false
 }

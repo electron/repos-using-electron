@@ -5,7 +5,7 @@
   "owner": {
     "login": "atom-archive",
     "id": 13424069,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13424069?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13424069?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/atom-archive",
     "htmlUrl": "https://github.com/atom-archive",
@@ -20,12 +20,12 @@
   "description": null,
   "fork": false,
   "createdAt": "2015-09-15T18:50:40.000Z",
-  "updatedAt": "2016-12-28T22:44:28.000Z",
+  "updatedAt": "2017-08-26T01:37:20.000Z",
   "pushedAt": "2016-08-24T22:23:04.000Z",
   "homepage": null,
   "size": 116,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "C++",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 8,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "atom-archive",
     "id": 13424069,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13424069?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13424069?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/atom-archive",
     "htmlUrl": "https://github.com/atom-archive",
@@ -74,18 +74,12 @@
       "build": "node_modules/.bin/babel src --out-dir dist",
       "clean": "rm -rf dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/atom/marker-index.git"
-    },
+    "repository": "https://github.com/atom/marker-index",
     "keywords": [
       "patch data-structure"
     ],
     "author": "Nathan Sobo <nathan@github.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/marker-index/issues"
-    },
     "homepage": "https://github.com/atom/marker-index",
     "devDependencies": {
       "babel": "^5.0.0",
@@ -107,6 +101,11 @@
         "it",
         "assert"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/marker-index/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "atom___marker-index.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:16:41.871Z",
-  "packageLastFetchedAt": "2017-05-04T22:36:53.171Z"
+  "lastFetchedAt": "2017-10-23T22:32:48.079Z",
+  "packageLastFetchedAt": "2017-05-04T22:36:53.171Z",
+  "archived": false
 }

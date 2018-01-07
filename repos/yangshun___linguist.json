@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "linguist",
     "productName": "Linguist",
@@ -93,19 +93,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "Tay Yang Shun",
       "email": "me@yangshun.im",
       "url": "https://github.com/yangshun"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/yangshun/linguist/issues"
-    },
     "keywords": [
       "locale",
       "electron",
@@ -180,6 +174,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/yangshun/linguist/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -207,6 +206,6 @@
   },
   "filename": "yangshun___linguist.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:54.989Z",
+  "lastFetchedAt": "2017-10-23T22:56:14.845Z",
   "packageLastFetchedAt": "2017-05-04T22:12:11.600Z"
 }

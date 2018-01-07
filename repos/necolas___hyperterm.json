@@ -164,7 +164,7 @@
   },
   "networkCount": 1148,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "productName": "HyperTerm",
@@ -213,7 +213,8 @@
     "scripts": {
       "start": "electron index",
       "lint": "eslint *.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -261,6 +262,6 @@
   "svnUrl": "https://github.com/necolas/hyperterm",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:44:46.521Z",
+  "lastFetchedAt": "2017-10-23T22:57:38.791Z",
   "packageLastFetchedAt": "2017-05-05T17:20:49.119Z"
 }

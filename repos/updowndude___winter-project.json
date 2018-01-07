@@ -71,7 +71,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "winter-project",
     "version": "1.0.0",
@@ -84,10 +84,7 @@
     ],
     "author": "Correy Winke",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/updowndude/winter-project"
-    },
+    "repository": "https://github.com/updowndude/winter-project",
     "devDependencies": {
       "babel-core": "^6.14.0",
       "babel-loader": "^6.2.8",
@@ -120,7 +117,8 @@
       "redux": "^3.6.0",
       "redux-observable": "^0.14.1",
       "rxjs": "^5.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +144,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:04:20.609Z",
+  "lastFetchedAt": "2017-10-24T00:17:53.173Z",
   "packageLastFetchedAt": "2017-05-04T23:09:50.047Z"
 }

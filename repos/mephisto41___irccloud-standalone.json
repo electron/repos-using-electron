@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "IRCCloud",
     "version": "0.0.2",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mephisto41/irccloud-standalone.git"
-    },
+    "repository": "https://github.com/mephisto41/irccloud-standalone",
     "keywords": [
       "Electron",
       "irccloud"
@@ -64,7 +61,8 @@
     "author": "Morris Tseng",
     "dependencies": {
       "electron-prebuilt": "^0.37.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mephisto41/irccloud-standalone",
@@ -111,6 +109,6 @@
   },
   "filename": "mephisto41___irccloud-standalone.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:27.433Z",
+  "lastFetchedAt": "2017-10-24T00:11:07.922Z",
   "packageLastFetchedAt": "2017-05-05T01:32:09.363Z"
 }

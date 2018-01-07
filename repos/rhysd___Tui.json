@@ -6,7 +6,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -36,14 +36,14 @@
   "downloadsUrl": "https://api.github.com/repos/rhysd/Tui/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rhysd/Tui/deployments",
   "createdAt": "2017-01-09T11:49:19.000Z",
-  "updatedAt": "2017-05-02T04:47:21.000Z",
-  "pushedAt": "2017-04-27T09:17:10.000Z",
+  "updatedAt": "2017-10-22T13:14:38.000Z",
+  "pushedAt": "2017-07-21T17:30:52.000Z",
   "gitUrl": "git://github.com/rhysd/Tui.git",
   "sshUrl": "git@github.com:rhysd/Tui.git",
   "cloneUrl": "https://github.com/rhysd/Tui.git",
   "svnUrl": "https://github.com/rhysd/Tui",
   "homepage": "",
-  "size": 611,
+  "size": 630,
   "stargazersCount": 28,
   "watchersCount": 28,
   "language": "TypeScript",
@@ -51,7 +51,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -69,7 +69,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -92,10 +92,7 @@
       "start": "NODE_ENV=production electron .",
       "release": "npm run lint && ./scripts/make-release.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/Tui.git"
-    },
+    "repository": "https://github.com/rhysd/Tui",
     "keywords": [
       "Twitter",
       "client",
@@ -106,9 +103,6 @@
     ],
     "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rhysd/Tui/issues"
-    },
     "homepage": "https://github.com/rhysd/Tui#readme",
     "devDependencies": {
       "@types/electron": "^1.4.37",
@@ -132,6 +126,11 @@
       "loglevel": "^1.4.1",
       "menubar": "github:rhysd/menubar#rhysd-fixes",
       "mousetrap": "^1.6.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/Tui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:34:58.310Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:25.225Z"
+  "lastFetchedAt": "2017-10-23T22:29:58.524Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:25.225Z",
+  "archived": false
 }

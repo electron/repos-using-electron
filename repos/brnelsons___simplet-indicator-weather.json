@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "simplet-indicator-weather",
     "version": "1.0.0",
@@ -70,7 +70,8 @@
       "build-windows-32": "electron-packager . simplet-indicator-weather --platform=win32 --out=staging --arch=ia32 --version=0.36.0 --icon=Icon.icns --overwrite",
       "build-windows-64": "electron-packager . simplet-indicator-weather --platform=win32 --out=staging --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +118,6 @@
   "svnUrl": "https://github.com/brnelsons/simplet-indicator-weather",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:07:59.331Z",
+  "lastFetchedAt": "2017-10-23T23:03:06.517Z",
   "packageLastFetchedAt": "2017-05-05T01:25:50.579Z"
 }

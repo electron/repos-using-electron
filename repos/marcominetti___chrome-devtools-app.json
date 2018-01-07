@@ -164,7 +164,7 @@
   },
   "networkCount": 81,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "chrome-devtools",
     "version": "1.1.0",
@@ -198,14 +198,13 @@
       "start": "node ./tasks/start",
       "test": "node ./tasks/start --env=test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/auchenberg/chrome-devtools-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/auchenberg/chrome-devtools-app/issues"
-    },
-    "homepage": "https://github.com/auchenberg/chrome-devtools-app"
+    "repository": "https://github.com/auchenberg/chrome-devtools-app",
+    "homepage": "https://github.com/auchenberg/chrome-devtools-app",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/auchenberg/chrome-devtools-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/marcominetti/chrome-devtools-app",
@@ -253,6 +252,6 @@
   "filename": "marcominetti___chrome-devtools-app.json",
   "sourceRepo": "auchenberg/chrome-devtools-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:28.576Z",
+  "lastFetchedAt": "2017-10-23T23:06:30.095Z",
   "packageLastFetchedAt": "2017-05-04T23:00:23.624Z"
 }

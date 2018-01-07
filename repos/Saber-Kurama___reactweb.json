@@ -5,7 +5,7 @@
   "owner": {
     "login": "Saber-Kurama",
     "id": 4177028,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4177028?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4177028?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Saber-Kurama",
     "htmlUrl": "https://github.com/Saber-Kurama",
@@ -53,10 +53,6 @@
       "name": "guochao",
       "email": "463561248@qq.com",
       "url": "https://github.com/saber_kurama"
-    },
-    "bugs": {
-      "url": "",
-      "email": ""
     },
     "dependencies": {
       "babel": "^6.5.2",
@@ -280,6 +276,12 @@
       "test:mocha": "mocha ./test/app/modules/**/*.test.js",
       "test:mocha:watch": "npm run test:mocha -- --watch",
       "test:watch": "karma start --watch -- --test"
+    },
+    "other": {
+      "bugs": {
+        "url": "",
+        "email": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -327,6 +329,7 @@
   },
   "filename": "Saber-Kurama___reactweb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:23:55.874Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:42.334Z"
+  "lastFetchedAt": "2017-10-23T21:50:35.140Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:42.334Z",
+  "archived": false
 }

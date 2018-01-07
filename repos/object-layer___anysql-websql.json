@@ -5,7 +5,7 @@
   "owner": {
     "login": "object-layer",
     "id": 14799278,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14799278?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14799278?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/object-layer",
     "htmlUrl": "https://github.com/object-layer",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "object-layer",
     "id": 14799278,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14799278?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14799278?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/object-layer",
     "htmlUrl": "https://github.com/object-layer",
@@ -66,10 +66,7 @@
     "author": "Manuel Vila <mvila@3base.com>",
     "license": "MIT",
     "main": "lib/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/object-layer/anysql-websql"
-    },
+    "repository": "https://github.com/object-layer/anysql-websql",
     "scripts": {
       "compile": "babel src --out-dir lib",
       "prepublish": "npm run compile",
@@ -95,7 +92,8 @@
       "electron-prebuilt": "^0.37.3",
       "eslint": "^2.5.3",
       "eslint-config-next": "^0.1.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/object-layer/anysql-websql",
@@ -143,6 +141,7 @@
   "filename": "object-layer___anysql-websql.json",
   "sourceRepo": "kinda/kinda-web-sql",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:37.649Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:37.678Z"
+  "lastFetchedAt": "2017-10-23T21:47:22.875Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:37.678Z",
+  "archived": false
 }

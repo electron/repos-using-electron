@@ -58,7 +58,7 @@
   },
   "networkCount": 5,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "surfbird",
     "version": "0.0.1",
@@ -113,10 +113,7 @@
         ]
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/surfbirdapp/surfbird.git"
-    },
+    "repository": "https://github.com/surfbirdapp/surfbird",
     "keywords": [
       "electron",
       "vuejs",
@@ -126,9 +123,6 @@
     ],
     "author": "Andreas Nedbal <andy@pixelde.su>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/surfbirdapp/surfbird/issues"
-    },
     "homepage": "https://github.com/surfbirdapp/surfbird#readme",
     "devDependencies": {
       "babel-core": "^6.8.0",
@@ -187,7 +181,12 @@
       "webpack-dev-server": "^2.3.0",
       "webpack-merge": "^2.4.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/surfbirdapp/surfbird/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/surfbirdapp/surfbird",
@@ -234,6 +233,6 @@
   },
   "filename": "surfbirdapp___surfbird.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:20.693Z",
+  "lastFetchedAt": "2017-10-23T22:56:42.097Z",
   "packageLastFetchedAt": "2017-05-04T22:32:45.647Z"
 }

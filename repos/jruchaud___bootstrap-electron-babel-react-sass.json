@@ -5,7 +5,7 @@
   "owner": {
     "login": "jruchaud",
     "id": 11873412,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11873412?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11873412?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jruchaud",
     "htmlUrl": "https://github.com/jruchaud",
@@ -70,10 +70,7 @@
       "package-win": "npm run build && electron-packager ./ App --platform=win32 --arch=x64 --version=0.35.6 --out build",
       "package-mac": "npm run build && electron-packager ./ App --platform=darwin --arch=x64 --version=0.35.6 --out build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/jruchaud/bootstrap-electron-babel-react-sass.git"
-    },
+    "repository": "https://github.com/jruchaud/bootstrap-electron-babel-react-sass",
     "author": "jruchaud",
     "license": "MIT",
     "dependencies": {
@@ -91,7 +88,8 @@
       "node-sass": "^3.4.2",
       "nodemon": "^1.9.1",
       "rimraf": "^2.5.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/jruchaud/bootstrap-electron-babel-react-sass",
@@ -138,6 +136,7 @@
   },
   "filename": "jruchaud___bootstrap-electron-babel-react-sass.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:07.998Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:42.949Z"
+  "lastFetchedAt": "2017-10-23T23:12:42.109Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:42.949Z",
+  "archived": false
 }

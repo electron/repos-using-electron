@@ -5,7 +5,7 @@
   "owner": {
     "login": "nismodao",
     "id": 11726629,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11726629?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11726629?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nismodao",
     "htmlUrl": "https://github.com/nismodao",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": ""
-    },
     "dependencies": {
       "debug": "~2.2.0",
       "entities": "^1.1.1",
@@ -107,6 +101,11 @@
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "nismodao___wemo-hub.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:11:48.296Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:47.201Z"
+  "lastFetchedAt": "2017-10-24T02:04:40.886Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:47.201Z",
+  "archived": false
 }

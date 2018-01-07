@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "twitch-desktop",
     "version": "1.0.0",
@@ -103,7 +103,8 @@
       "bourbon": "^4.2.7",
       "proto-loader": "^0.2.0",
       "protobufjs": "^5.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -150,6 +151,6 @@
   "svnUrl": "https://github.com/hzeroo/twitch-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:59.002Z",
+  "lastFetchedAt": "2017-10-24T00:11:05.169Z",
   "packageLastFetchedAt": "2017-05-04T22:14:31.946Z"
 }

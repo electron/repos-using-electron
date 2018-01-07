@@ -170,7 +170,7 @@
   },
   "networkCount": 294,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "friends",
     "description": "p2p chat",
@@ -184,9 +184,6 @@
       "jlord",
       "chrisdickinson"
     ],
-    "bugs": {
-      "url": "https://github.com/moose-team/friends/issues"
-    },
     "dependencies": {
       "cat-names": "^1.0.2",
       "ctype": "^0.5.4",
@@ -244,10 +241,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/moose-team/friends.git"
-    },
+    "repository": "https://github.com/moose-team/friends",
     "browserify": {
       "transforms": [
         "brfs"
@@ -262,6 +256,11 @@
       "watch-css": "mkdirp dist && stylus -u nib css/app.styl -o dist/ -w",
       "web": "beefy web.js:bundle.js",
       "rebuild-leveldb": "cd node_modules/leveldown && set HOME=~/.electron-gyp && node-gyp rebuild --target=0.25.1 --arch=x64 --dist-url=https://atom.io/download/atom-shell"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/moose-team/friends/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -310,6 +309,6 @@
   "svnUrl": "https://github.com/kwameboame/friends",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:46:10.158Z",
+  "lastFetchedAt": "2017-10-23T23:01:10.083Z",
   "packageLastFetchedAt": "2017-05-04T22:29:37.652Z"
 }

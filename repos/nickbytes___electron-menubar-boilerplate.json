@@ -6,7 +6,7 @@
   "owner": {
     "login": "nickbytes",
     "id": 3009331,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3009331?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3009331?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nickbytes",
     "htmlUrl": "https://github.com/nickbytes",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "itsnauman",
       "id": 6206210,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/6206210?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6206210?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/itsnauman",
       "htmlUrl": "https://github.com/itsnauman",
@@ -118,6 +118,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
     "watchers": 6,
@@ -130,7 +131,7 @@
     "owner": {
       "login": "itsnauman",
       "id": 6206210,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/6206210?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/6206210?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/itsnauman",
       "htmlUrl": "https://github.com/itsnauman",
@@ -178,6 +179,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 1,
     "openIssues": 1,
     "watchers": 6,
@@ -191,15 +193,9 @@
     "version": "0.1.0",
     "description": "Github + Dropbox = GitBox 🚀",
     "main": "build/index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vulpino/berb.git"
-    },
+    "repository": "https://github.com/vulpino/berb",
     "author": "Nauman Ahmad",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vulpino/berb/issues"
-    },
     "homepage": "https://github.com/vulpino/berb#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -234,6 +230,11 @@
       "react": "^0.14.7",
       "react-dom": "^0.14.7",
       "request": "^2.69.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/vulpino/berb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -261,6 +262,7 @@
   },
   "sourceRepo": "itsnauman/electron-menubar-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:13.901Z",
-  "packageLastFetchedAt": "2017-05-05T01:32:00.341Z"
+  "lastFetchedAt": "2017-10-23T22:15:18.154Z",
+  "packageLastFetchedAt": "2017-05-05T01:32:00.341Z",
+  "archived": false
 }

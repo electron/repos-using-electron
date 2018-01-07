@@ -64,7 +64,7 @@
   },
   "networkCount": 8,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mapeo-desktop",
     "description": "An experimental offline mapping app based on iD Editor, for indigenous territory mapping in remote environments",
@@ -90,10 +90,7 @@
       "dev": "electron app.js --debug --disable-http-cache",
       "postinstall": "npmpd"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/digidem/mapeo-desktop.git"
-    },
+    "repository": "https://github.com/digidem/mapeo-desktop",
     "keywords": [
       "osm",
       "p2p",
@@ -109,9 +106,6 @@
       "noffle"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/digidem/mapeo-desktop/issues"
-    },
     "homepage": "https://github.com/digidem/mapeo-desktop#readme",
     "dependencies": {
       "JSONStream": "^1.0.3",
@@ -169,6 +163,11 @@
       "npm-platform-dependencies": "0.0.12",
       "rimraf": "^2.5.2",
       "watchify": "^3.7.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/digidem/mapeo-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -216,6 +215,6 @@
   },
   "filename": "digidem___mapeo-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:59:41.821Z",
+  "lastFetchedAt": "2017-10-23T23:09:06.826Z",
   "packageLastFetchedAt": "2017-05-05T14:58:04.488Z"
 }

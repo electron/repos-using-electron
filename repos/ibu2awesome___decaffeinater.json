@@ -70,17 +70,14 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "decaffeinater",
     "description": "An app which closes apps if you use them too much.",
     "version": "1.3.0-rc.1",
     "main": "app/main.js",
     "license": "Apache-2.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/ibujs/decaffeinater.git"
-    },
+    "repository": "https://github.com/ibujs/decaffeinater",
     "dependencies": {
       "babel-polyfill": "^6.23.0",
       "concurrently": "^3.4.0",
@@ -150,7 +147,8 @@
     "optionalDependencies": {
       "electron-installer-debian": "^0.5.1",
       "electron-installer-redhat": "^0.4.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -178,6 +176,6 @@
   "filename": "ibu2awesome___decaffeinater.json",
   "sourceRepo": "ibujs/decaffeinater",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:55.133Z",
+  "lastFetchedAt": "2017-10-23T22:57:49.821Z",
   "packageLastFetchedAt": "2017-05-05T17:18:49.756Z"
 }

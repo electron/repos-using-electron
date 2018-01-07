@@ -5,7 +5,7 @@
   "owner": {
     "login": "stalina",
     "id": 19432224,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19432224?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19432224?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stalina",
     "htmlUrl": "https://github.com/stalina",
@@ -56,14 +56,8 @@
     "version": "0.0.1",
     "description": "Application test tool made natural",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stalina/tasty.git"
-    },
+    "repository": "https://github.com/stalina/tasty",
     "license": "Apache 2.0",
-    "bugs": {
-      "url": "https://github.com/stalina/tasty/issues"
-    },
     "homepage": "https://github.com/stalina/tasty#readme",
     "devDependencies": {
       "chromedriver": "^2.21.2",
@@ -106,6 +100,11 @@
     "dest": {
       "app": "app.js",
       "dist": "dist"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stalina/tasty/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   "svnUrl": "https://github.com/stalina/tasty",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:49.808Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:17.168Z"
+  "lastFetchedAt": "2017-10-23T23:41:53.175Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:17.168Z",
+  "archived": false
 }

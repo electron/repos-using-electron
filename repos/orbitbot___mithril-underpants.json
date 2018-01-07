@@ -5,7 +5,7 @@
   "owner": {
     "login": "orbitbot",
     "id": 2631164,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2631164?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2631164?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/orbitbot",
     "htmlUrl": "https://github.com/orbitbot",
@@ -56,10 +56,7 @@
     "version": "0.0.1",
     "description": "Quick & dirty setup for your adventures with Mithril.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/orbitbot/mithril-underpants.git"
-    },
+    "repository": "https://github.com/orbitbot/mithril-underpants",
     "license": "ISC",
     "homepage": "https://github.com/orbitbot/mithril-underpants",
     "devDependencies": {
@@ -97,7 +94,8 @@
       "msx": "^0.4.1",
       "sinon": "^1.17.2"
     },
-    "eslintConfig": "./config/eslint.conf"
+    "eslintConfig": "./config/eslint.conf",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +142,7 @@
   "svnUrl": "https://github.com/orbitbot/mithril-underpants",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:29:34.093Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:10.473Z"
+  "lastFetchedAt": "2017-10-23T23:42:12.897Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:10.473Z",
+  "archived": false
 }

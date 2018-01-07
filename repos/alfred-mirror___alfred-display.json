@@ -5,7 +5,7 @@
   "owner": {
     "login": "alfred-mirror",
     "id": 17627041,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17627041?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17627041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alfred-mirror",
     "htmlUrl": "https://github.com/alfred-mirror",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "alfred-mirror",
     "id": 17627041,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17627041?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17627041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alfred-mirror",
     "htmlUrl": "https://github.com/alfred-mirror",
@@ -94,10 +94,7 @@
       "start": "electron main.js",
       "test": "gulp test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alfred-mirror/alfred-display.git"
-    },
+    "repository": "https://github.com/alfred-mirror/alfred-display",
     "keywords": [
       "node",
       "internet",
@@ -136,9 +133,6 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/alfred-mirror/alfred-display/issues"
-    },
     "homepage": "https://github.com/alfred-mirror/alfred-display#readme",
     "dependencies": {
       "express": "^4.13.4"
@@ -154,6 +148,11 @@
       "moment": "^2.12.0",
       "socket.io-client": "^1.4.5",
       "webpack-stream": "^3.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alfred-mirror/alfred-display/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   },
   "filename": "alfred-mirror___alfred-display.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:52:06.593Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:52.791Z"
+  "lastFetchedAt": "2017-10-24T00:15:47.194Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:52.791Z",
+  "archived": false
 }

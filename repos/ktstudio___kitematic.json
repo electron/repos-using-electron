@@ -178,7 +178,7 @@
   },
   "networkCount": 795,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Kitematic",
     "version": "0.9.6",
@@ -186,11 +186,7 @@
     "description": "Simple Docker Container management for Mac OS X.",
     "homepage": "https://kitematic.com/",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:kitematic/kitematic.git"
-    },
-    "bugs": "https://github.com/kitematic/kitematic/issues",
+    "repository": "https://github.com/kitematic/kitematic",
     "scripts": {
       "start": "grunt",
       "start-dev": "NODE_ENV=development grunt",
@@ -267,6 +263,9 @@
       "run-sequence": "^1.0.2",
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.3.2"
+    },
+    "other": {
+      "bugs": "https://github.com/kitematic/kitematic/issues"
     }
   },
   "packageStatus": 200,
@@ -315,6 +314,6 @@
   "filename": "ktstudio___kitematic.json",
   "sourceRepo": "docker/kitematic",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:35.201Z",
+  "lastFetchedAt": "2017-10-23T23:07:15.097Z",
   "packageLastFetchedAt": "2017-05-04T22:49:59.902Z"
 }

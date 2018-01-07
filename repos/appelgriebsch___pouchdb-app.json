@@ -70,26 +70,20 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pouchdb-app",
     "productName": "PouchDB-Desktop",
     "version": "0.2.0",
     "description": "Manage local PouchDB server instances from your tray.",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/appelgriebsch/pouchdb-app.git"
-    },
+    "repository": "https://github.com/appelgriebsch/pouchdb-app",
     "keywords": [
       "electron",
       "pouchdb-server"
     ],
     "author": "Andreas Gerlach <andi@appelgriebsch.org>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/appelgriebsch/pouchdb-app/issues"
-    },
     "homepage": "https://github.com/appelgriebsch/pouchdb-app#readme",
     "scripts": {
       "start": "electron app/",
@@ -111,6 +105,11 @@
       "grunt-electron-debian-installer": "^0.1.0",
       "grunt-electron-redhat-installer": "^0.2.0",
       "grunt-electron-installer": "^1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/appelgriebsch/pouchdb-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   },
   "filename": "appelgriebsch___pouchdb-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:58:43.414Z",
+  "lastFetchedAt": "2017-10-23T22:57:44.080Z",
   "packageLastFetchedAt": "2017-05-04T22:39:19.158Z"
 }

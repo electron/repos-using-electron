@@ -5,7 +5,7 @@
   "owner": {
     "login": "timborovkov",
     "id": 13135811,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/13135811?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/13135811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/timborovkov",
     "htmlUrl": "https://github.com/timborovkov",
@@ -54,15 +54,9 @@
       "start": "electron .",
       "up": "git add .; git commit -m 'update'; git push;"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/timborovkov/CountryRunner.git"
-    },
+    "repository": "https://github.com/timborovkov/CountryRunner",
     "author": "Tim Borovkov",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/timborovkov/CountryRunner/issues"
-    },
     "homepage": "https://github.com/timborovkov/CountryRunner#readme",
     "dependencies": {
       "node-localstorage": "^1.3.0",
@@ -70,6 +64,11 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/timborovkov/CountryRunner/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   "svnUrl": "https://github.com/timborovkov/MyStrategyGame",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:33:14.916Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:33.148Z"
+  "lastFetchedAt": "2017-10-23T21:42:38.640Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:33.148Z",
+  "archived": false
 }

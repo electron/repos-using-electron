@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-app-base",
     "version": "1.0.0",
@@ -80,16 +80,10 @@
       "start": "electron ./",
       "build": "electron-packager . App --platform=all --arch=all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/BenStraubinger/electron-app-base.git"
-    },
+    "repository": "https://github.com/BenStraubinger/electron-app-base",
     "keywords": [],
     "author": "Ben Straubinger",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/BenStraubinger/electron-app-base/issues"
-    },
     "homepage": "https://github.com/BenStraubinger/electron-app-base#readme",
     "devDependencies": {},
     "dependencies": {
@@ -100,6 +94,11 @@
       "node-horseman": "*",
       "valid-url": "*",
       "yargs": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/BenStraubinger/electron-app-base/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,6 @@
   },
   "filename": "BenStraubinger___electron-app-base.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:25.406Z",
+  "lastFetchedAt": "2017-10-23T23:02:17.088Z",
   "packageLastFetchedAt": "2017-05-04T21:54:41.804Z"
 }

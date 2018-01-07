@@ -1,19 +1,19 @@
 {
   "id": 43961285,
   "name": "moebius",
-  "fullName": "Normegil/moebius",
+  "fullName": "normegil/moebius",
   "owner": {
-    "login": "Normegil",
+    "login": "normegil",
     "id": 3015686,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3015686?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3015686?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/Normegil",
-    "htmlUrl": "https://github.com/Normegil",
-    "followersUrl": "https://api.github.com/users/Normegil/followers",
-    "subscriptionsUrl": "https://api.github.com/users/Normegil/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/Normegil/orgs",
-    "reposUrl": "https://api.github.com/users/Normegil/repos",
-    "receivedEventsUrl": "https://api.github.com/users/Normegil/received_events",
+    "url": "https://api.github.com/users/normegil",
+    "htmlUrl": "https://github.com/normegil",
+    "followersUrl": "https://api.github.com/users/normegil/followers",
+    "subscriptionsUrl": "https://api.github.com/users/normegil/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/normegil/orgs",
+    "reposUrl": "https://api.github.com/users/normegil/repos",
+    "receivedEventsUrl": "https://api.github.com/users/normegil/received_events",
     "type": "User"
   },
   "private": false,
@@ -61,10 +61,7 @@
       "push": "git push && git push --tags && npm publish",
       "preversion": "npm test"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Normegil/moebius.git"
-    },
+    "repository": "https://github.com/Normegil/moebius",
     "keywords": [
       "comics",
       "download",
@@ -72,9 +69,6 @@
     ],
     "author": "Olivier Ory",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Normegil/moebius/issues"
-    },
     "homepage": "https://github.com/Normegil/moebius#readme",
     "devDependencies": {
       "faucet": "0.0.1",
@@ -97,6 +91,11 @@
       "request": "^2.65.0",
       "string-template": "^0.2.1",
       "terminal-kit": "^0.21.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Normegil/moebius/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,27 +122,28 @@
     }
   },
   "filename": "Normegil___moebius.json",
-  "htmlUrl": "https://github.com/Normegil/moebius",
-  "url": "https://api.github.com/repos/Normegil/moebius",
-  "forksUrl": "https://api.github.com/repos/Normegil/moebius/forks",
-  "teamsUrl": "https://api.github.com/repos/Normegil/moebius/teams",
-  "hooksUrl": "https://api.github.com/repos/Normegil/moebius/hooks",
-  "eventsUrl": "https://api.github.com/repos/Normegil/moebius/events",
-  "tagsUrl": "https://api.github.com/repos/Normegil/moebius/tags",
-  "languagesUrl": "https://api.github.com/repos/Normegil/moebius/languages",
-  "stargazersUrl": "https://api.github.com/repos/Normegil/moebius/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/Normegil/moebius/contributors",
-  "subscribersUrl": "https://api.github.com/repos/Normegil/moebius/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/Normegil/moebius/subscription",
-  "mergesUrl": "https://api.github.com/repos/Normegil/moebius/merges",
-  "downloadsUrl": "https://api.github.com/repos/Normegil/moebius/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/Normegil/moebius/deployments",
-  "gitUrl": "git://github.com/Normegil/moebius.git",
-  "sshUrl": "git@github.com:Normegil/moebius.git",
-  "cloneUrl": "https://github.com/Normegil/moebius.git",
-  "svnUrl": "https://github.com/Normegil/moebius",
+  "htmlUrl": "https://github.com/normegil/moebius",
+  "url": "https://api.github.com/repos/normegil/moebius",
+  "forksUrl": "https://api.github.com/repos/normegil/moebius/forks",
+  "teamsUrl": "https://api.github.com/repos/normegil/moebius/teams",
+  "hooksUrl": "https://api.github.com/repos/normegil/moebius/hooks",
+  "eventsUrl": "https://api.github.com/repos/normegil/moebius/events",
+  "tagsUrl": "https://api.github.com/repos/normegil/moebius/tags",
+  "languagesUrl": "https://api.github.com/repos/normegil/moebius/languages",
+  "stargazersUrl": "https://api.github.com/repos/normegil/moebius/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/normegil/moebius/contributors",
+  "subscribersUrl": "https://api.github.com/repos/normegil/moebius/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/normegil/moebius/subscription",
+  "mergesUrl": "https://api.github.com/repos/normegil/moebius/merges",
+  "downloadsUrl": "https://api.github.com/repos/normegil/moebius/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/normegil/moebius/deployments",
+  "gitUrl": "git://github.com/normegil/moebius.git",
+  "sshUrl": "git@github.com:normegil/moebius.git",
+  "cloneUrl": "https://github.com/normegil/moebius.git",
+  "svnUrl": "https://github.com/normegil/moebius",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:22:59.872Z",
-  "packageLastFetchedAt": "2017-05-04T22:45:21.261Z"
+  "lastFetchedAt": "2017-10-23T21:45:02.389Z",
+  "packageLastFetchedAt": "2017-05-04T22:45:21.261Z",
+  "archived": false
 }

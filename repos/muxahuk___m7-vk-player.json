@@ -5,7 +5,7 @@
   "owner": {
     "login": "muxahuk",
     "id": 909028,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/909028?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/909028?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/muxahuk",
     "htmlUrl": "https://github.com/muxahuk",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/muxahuk/m7-vk-player.git"
-    },
+    "repository": "https://github.com/muxahuk/m7-vk-player",
     "keywords": [
       "vk player",
       "vkontakte player",
@@ -91,13 +88,15 @@
     ],
     "author": "[M7] Михаил Семёнов (Mihail Semjonov)",
     "license": "Apache 2.0",
-    "bugs": {
-      "url": "https://github.com/muxahuk/m7-vk-player/issues"
-    },
     "homepage": "https://github.com/muxahuk/m7-vk-player#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "electron-reload": "^1.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/muxahuk/m7-vk-player/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "muxahuk___m7-vk-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:47.285Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:18.057Z"
+  "lastFetchedAt": "2017-10-24T00:08:15.457Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:18.057Z",
+  "archived": false
 }

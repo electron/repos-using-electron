@@ -164,7 +164,7 @@
   },
   "networkCount": 23,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ionic-cross-platform-boilerplate",
     "title": "Cross platform apps with Ionic",
@@ -181,15 +181,9 @@
       "iosEmulator": "npm run dumpdev && cordova run ios",
       "ios": "npm run dumpdev && cordova run ios --device"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shprink/ionic-cross-platform-boilerplate.git"
-    },
+    "repository": "https://github.com/shprink/ionic-cross-platform-boilerplate",
     "author": "shprink <contact@julienrenaux.fr> (http://julienrenaux.fr/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shprink/ionic-cross-platform-boilerplate/issues"
-    },
     "homepage": "https://github.com/shprink/ionic-cross-platform-boilerplate#readme",
     "devDependencies": {
       "autoprefixer-loader": "^3.1.0",
@@ -222,7 +216,12 @@
       "ios",
       "android",
       "browser"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shprink/ionic-cross-platform-boilerplate/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -270,6 +269,6 @@
   "svnUrl": "https://github.com/aekkapun/ionic-cross-platform-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:34:20.881Z",
+  "lastFetchedAt": "2017-10-23T23:10:28.873Z",
   "packageLastFetchedAt": "2017-05-05T14:31:39.604Z"
 }

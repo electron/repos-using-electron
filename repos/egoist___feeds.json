@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "vuepack",
     "version": "0.0.5",
@@ -79,10 +79,7 @@
       "start": "HOT=1 NODE_ENV=development electron .",
       "start:win": "set HOT=1 && set NODE_ENV=development && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/egoist/vuepack.git"
-    },
+    "repository": "https://github.com/egoist/vuepack",
     "keywords": [
       "vue",
       "webpack",
@@ -94,9 +91,6 @@
     ],
     "author": "EGOIST",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/egoist/vuepack/issues"
-    },
     "homepage": "https://github.com/egoist/vuepack#readme",
     "devDependencies": {
       "babel-core": "^6.3.13",
@@ -132,6 +126,11 @@
     },
     "dependencies": {
       "menubar": "^3.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/egoist/vuepack/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,6 @@
   },
   "filename": "egoist___feeds.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:37:16.898Z",
+  "lastFetchedAt": "2017-10-23T23:01:45.329Z",
   "packageLastFetchedAt": "2017-05-05T15:39:29.912Z"
 }

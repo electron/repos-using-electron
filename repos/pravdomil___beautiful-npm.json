@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "beautiful-npm",
     "version": "0.0.0",
@@ -90,11 +90,7 @@
       }
     ],
     "homepage": "http://npm.pravdomil.cz",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pravdomil/beautiful-npm"
-    },
-    "bugs": "https://github.com/pravdomil/beautiful-npm/issues",
+    "repository": "https://github.com/pravdomil/beautiful-npm",
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCL2X3AFQBAP2&item_name=Beautiful%20npm%20beer",
     "main": "_main/index.js",
     "scripts": {
@@ -110,7 +106,10 @@
       "electron-packager": "^6.0.0",
       "electron-prebuilt": "0.36.12"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": "https://github.com/pravdomil/beautiful-npm/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +136,6 @@
   },
   "filename": "pravdomil___beautiful-npm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:03.961Z",
+  "lastFetchedAt": "2017-10-23T21:52:17.827Z",
   "packageLastFetchedAt": "2017-05-05T11:36:58.630Z"
 }

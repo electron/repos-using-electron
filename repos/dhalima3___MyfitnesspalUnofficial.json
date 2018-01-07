@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "MyfitnesspalUnofficial",
     "version": "1.0.0",
@@ -74,18 +74,17 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dhalima3/MyfitnesspalUnofficial.git"
-    },
+    "repository": "https://github.com/dhalima3/MyfitnesspalUnofficial",
     "author": "Daryl Halima",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dhalima3/MyfitnesspalUnofficial/issues"
-    },
     "homepage": "https://github.com/dhalima3/MyfitnesspalUnofficial",
     "devDependencies": {
       "electron-prebuilt": "^0.36.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dhalima3/MyfitnesspalUnofficial/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,6 @@
   },
   "filename": "dhalima3___MyfitnesspalUnofficial.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:27:55.386Z",
+  "lastFetchedAt": "2017-10-24T00:03:58.568Z",
   "packageLastFetchedAt": "2017-05-05T14:23:51.852Z"
 }

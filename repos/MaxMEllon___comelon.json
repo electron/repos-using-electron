@@ -5,7 +5,7 @@
   "owner": {
     "login": "MaxMEllon",
     "id": 9594376,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/9594376?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/9594376?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MaxMEllon",
     "htmlUrl": "https://github.com/MaxMEllon",
@@ -57,15 +57,9 @@
     "main": "main.js",
     "license": "MIT",
     "author": "MaxMEllon <maxmellon1994@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MaxMEllon/comelon.git"
-    },
+    "repository": "https://github.com/MaxMEllon/comelon",
     "description": "nicolive comment viewer on electron",
     "homepage": "https://github.com/MaxMEllon/comelon",
-    "bugs": {
-      "url": "https://github.com/MaxMEllon/comelon/issues"
-    },
     "bin": {
       "comelon": "./bin/cli.js"
     },
@@ -136,6 +130,11 @@
       "sinon-chai": "^2.8.0",
       "webpack": "^1.13.0",
       "webpack-strip": "^0.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/MaxMEllon/comelon/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   "svnUrl": "https://github.com/MaxMEllon/comelon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:20:13.759Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:38.024Z"
+  "lastFetchedAt": "2017-10-23T22:12:28.038Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:38.024Z",
+  "archived": false
 }

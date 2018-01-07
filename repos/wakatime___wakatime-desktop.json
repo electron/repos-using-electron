@@ -5,7 +5,7 @@
   "owner": {
     "login": "wakatime",
     "id": 4814844,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4814844?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4814844?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wakatime",
     "htmlUrl": "https://github.com/wakatime",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/wakatime/desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/wakatime/desktop/deployments",
   "createdAt": "2015-06-16T19:25:40.000Z",
-  "updatedAt": "2017-03-16T01:14:52.000Z",
+  "updatedAt": "2017-09-04T04:43:47.000Z",
   "pushedAt": "2017-02-28T05:56:24.000Z",
   "gitUrl": "git://github.com/wakatime/desktop.git",
   "sshUrl": "git@github.com:wakatime/desktop.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/wakatime/desktop",
   "homepage": "https://wakatime.com",
   "size": 52,
-  "stargazersCount": 20,
-  "watchersCount": 20,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 9,
+  "forksCount": 10,
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 20,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "wakatime",
     "id": 4814844,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4814844?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4814844?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wakatime",
     "htmlUrl": "https://github.com/wakatime",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/wakatime/received_events",
     "type": "Organization"
   },
-  "networkCount": 9,
+  "networkCount": 10,
   "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
@@ -97,13 +97,7 @@
       "start": "electron out/app.js",
       "build": "tsc"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wakatime/wakatime-desktop.git"
-    },
-    "bugs": {
-      "url": "https://github.com/wakatime/wakatime-desktop/issues"
-    },
+    "repository": "https://github.com/wakatime/wakatime-desktop",
     "keywords": [
       "quantified self",
       "time tracking"
@@ -117,6 +111,11 @@
       "@types/react": "^15.0.9",
       "async-file": "^2.0.2",
       "react": "^15.4.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/wakatime/wakatime-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   "sourceRepo": "gedaiu/Voice",
   "filename": "wakatime___wakatime-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:25.669Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:00.714Z"
+  "lastFetchedAt": "2017-10-23T21:48:10.095Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:00.714Z",
+  "archived": false
 }

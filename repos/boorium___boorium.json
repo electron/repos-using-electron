@@ -58,7 +58,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "boorium",
     "version": "0.0.0",
@@ -70,10 +70,7 @@
       "buildrun": "npm run build && npm run run",
       "run": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/boorium/boorium.git"
-    },
+    "repository": "https://github.com/boorium/boorium",
     "keywords": [
       "booru",
       "client",
@@ -82,9 +79,6 @@
     ],
     "author": "ivan k <ivan@sq10.net>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/boorium/boorium/issues"
-    },
     "homepage": "https://github.com/boorium/boorium#readme",
     "devDependencies": {
       "babel-cli": "^6.6.5",
@@ -109,6 +103,11 @@
           2,
           "always"
         ]
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/boorium/boorium/issues"
       }
     }
   },
@@ -157,6 +156,6 @@
   },
   "filename": "boorium___boorium.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:55.463Z",
+  "lastFetchedAt": "2017-10-23T23:04:26.084Z",
   "packageLastFetchedAt": "2017-05-05T14:42:32.163Z"
 }

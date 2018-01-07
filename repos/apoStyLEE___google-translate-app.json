@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "google-translate",
     "version": "1.0.0",
@@ -84,7 +84,8 @@
     "scripts": {
       "build": "electron-packager . 'Google Translate' --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -110,6 +111,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:56.954Z",
+  "lastFetchedAt": "2017-10-23T23:03:28.584Z",
   "packageLastFetchedAt": "2017-05-05T17:08:37.046Z"
 }

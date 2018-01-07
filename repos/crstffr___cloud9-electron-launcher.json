@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cloud9-electron-launcher",
     "version": "0.1.0",
@@ -79,19 +79,13 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/crstffr/cloud9-electron-launcher.git"
-    },
+    "repository": "https://github.com/crstffr/cloud9-electron-launcher",
     "keywords": [
       "Cloud9",
       "Desktop"
     ],
     "author": "crstffr",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/crstffr/cloud9-electron-launcher/issues"
-    },
     "homepage": "https://github.com/crstffr/cloud9-electron-launcher#readme",
     "app": {
       "baseURL": "public",
@@ -135,6 +129,11 @@
     },
     "dependencies": {
       "node-static": "0.7.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/crstffr/cloud9-electron-launcher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,6 @@
   },
   "filename": "crstffr___cloud9-electron-launcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:28.794Z",
+  "lastFetchedAt": "2017-10-23T23:11:08.078Z",
   "packageLastFetchedAt": "2017-05-05T14:44:28.428Z"
 }

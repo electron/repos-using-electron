@@ -5,7 +5,7 @@
   "owner": {
     "login": "bytheway",
     "id": 5135,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5135?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5135?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bytheway",
     "htmlUrl": "https://github.com/bytheway",
@@ -20,21 +20,21 @@
   "description": "Example electron app with sqlite3 integration",
   "fork": false,
   "createdAt": "2015-07-28T00:08:37.000Z",
-  "updatedAt": "2017-04-30T03:51:06.000Z",
+  "updatedAt": "2017-10-20T17:25:03.000Z",
   "pushedAt": "2016-06-16T12:09:34.000Z",
   "homepage": null,
   "size": 5,
-  "stargazersCount": 50,
-  "watchersCount": 50,
+  "stargazersCount": 61,
+  "watchersCount": 61,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 11,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 50,
+  "watchers": 61,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 8,
-  "subscribersCount": 4,
+  "networkCount": 11,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "electron-sqlite3",
@@ -70,9 +70,6 @@
       "atom",
       "sqlite3"
     ],
-    "bugs": {
-      "url": "https://github.com/bytheway/electron-sqlite3/issues"
-    },
     "scripts": {
       "start": "electron .",
       "build": "electron-packager . electron-sqlite3 --out=dist --ignore=dist --prune --asar --all --version=0.36.4",
@@ -82,7 +79,12 @@
     },
     "author": "Ben Bytheway",
     "contributors": [],
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bytheway/electron-sqlite3/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/bytheway/electron-sqlite3",
@@ -129,6 +131,7 @@
   },
   "filename": "bytheway___electron-sqlite3.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:31.306Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:31.805Z"
+  "lastFetchedAt": "2017-10-23T22:09:14.292Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:31.805Z",
+  "archived": false
 }

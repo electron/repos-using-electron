@@ -79,14 +79,11 @@
   },
   "networkCount": 0,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-template",
     "description": "AnyChart Electron template",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/anychart-integrations/electron-template.git"
-    },
+    "repository": "https://github.com/anychart-integrations/electron-template",
     "license": {
       "type": "Apache-2.0",
       "url": "https://github.com/anychart-integrations/electron-template/blob/master/LICENSE"
@@ -98,7 +95,8 @@
       "grunt-electron": "~5.0.0",
       "load-grunt-tasks": "~3.5.2",
       "electron": "~1.4.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +122,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:26:52.374Z",
+  "lastFetchedAt": "2017-10-23T23:02:36.825Z",
   "packageLastFetchedAt": "2017-05-05T17:27:17.557Z"
 }

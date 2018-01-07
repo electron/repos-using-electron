@@ -6,7 +6,7 @@
   "owner": {
     "login": "paulcbetts",
     "id": 1396,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1396?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1396?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paulcbetts",
     "htmlUrl": "https://github.com/paulcbetts",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/paulcbetts/trickline/downloads",
   "deploymentsUrl": "https://api.github.com/repos/paulcbetts/trickline/deployments",
   "createdAt": "2015-10-22T03:48:43.000Z",
-  "updatedAt": "2017-05-03T17:11:20.000Z",
+  "updatedAt": "2017-05-23T12:34:44.000Z",
   "pushedAt": "2017-04-16T20:41:24.000Z",
   "gitUrl": "git://github.com/paulcbetts/trickline.git",
   "sshUrl": "git@github.com:paulcbetts/trickline.git",
@@ -44,18 +44,18 @@
   "svnUrl": "https://github.com/paulcbetts/trickline",
   "homepage": "",
   "size": 2683,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 5,
   "mirrorUrl": null,
   "openIssuesCount": 9,
   "openIssues": 9,
-  "watchers": 9,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 4,
+  "networkCount": 5,
   "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
@@ -84,15 +84,9 @@
       "package": "electron-forge make",
       "package-web": "(webpack || true) && cp -R ./src/fonts ./out/web/ && cp -R ./src/images ./out/web/ && cp ./src/index.web.html ./out/web/index.html && cp ./src/*.css ./out/web"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/paulcbetts/trickline.git"
-    },
+    "repository": "https://github.com/paulcbetts/trickline",
     "author": "Paul Betts",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/paulcbetts/trickline/issues"
-    },
     "homepage": "https://github.com/paulcbetts/trickline#readme",
     "dependencies": {
       "@types/chai": "^3.5.0",
@@ -196,6 +190,11 @@
           "packageName": "trickline"
         }
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/paulcbetts/trickline/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -222,6 +221,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:30.420Z",
-  "packageLastFetchedAt": "2017-05-04T22:23:21.292Z"
+  "lastFetchedAt": "2017-10-24T00:18:40.003Z",
+  "packageLastFetchedAt": "2017-05-04T22:23:21.292Z",
+  "archived": false
 }

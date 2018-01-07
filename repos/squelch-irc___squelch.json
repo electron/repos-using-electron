@@ -5,7 +5,7 @@
   "owner": {
     "login": "squelch-irc",
     "id": 12993763,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12993763?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12993763?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/squelch-irc",
     "htmlUrl": "https://github.com/squelch-irc",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "squelch-irc",
     "id": 12993763,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12993763?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12993763?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/squelch-irc",
     "htmlUrl": "https://github.com/squelch-irc",
@@ -83,14 +83,8 @@
       "pretest": "npm run lint",
       "test": "ava"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/squelch-irc/squelch.git"
-    },
+    "repository": "https://github.com/squelch-irc/squelch",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/squelch-irc/squelch/issues"
-    },
     "homepage": "https://github.com/squelch-irc/squelch#readme",
     "devDependencies": {
       "ava": "^0.15.2",
@@ -133,6 +127,11 @@
       "require": [
         "babel-register"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/squelch-irc/squelch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -180,6 +179,7 @@
   },
   "filename": "squelch-irc___squelch.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:29:41.386Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:34.616Z"
+  "lastFetchedAt": "2017-10-23T22:54:15.136Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:34.616Z",
+  "archived": false
 }

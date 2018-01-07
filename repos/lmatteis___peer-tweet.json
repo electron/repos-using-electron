@@ -5,7 +5,7 @@
   "owner": {
     "login": "lmatteis",
     "id": 535442,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/535442?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/535442?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lmatteis",
     "htmlUrl": "https://github.com/lmatteis",
@@ -20,21 +20,21 @@
   "description": "Decentralized feeds using BitTorrent's DHT. Idea from Arvid and The_8472 \"DHT RSS feeds\" http://libtorrent.org/dht_rss.html",
   "fork": false,
   "createdAt": "2016-02-05T23:32:21.000Z",
-  "updatedAt": "2017-04-30T21:04:25.000Z",
+  "updatedAt": "2017-10-20T11:02:26.000Z",
   "pushedAt": "2016-03-10T22:56:11.000Z",
   "homepage": "",
   "size": 831,
-  "stargazersCount": 876,
-  "watchersCount": 876,
+  "stargazersCount": 878,
+  "watchersCount": 878,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 37,
+  "forksCount": 38,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 876,
+  "watchers": 878,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 37,
-  "subscribersCount": 37,
+  "networkCount": 38,
+  "subscribersCount": 38,
   "status": 200,
   "packageJSON": {
     "name": "PeerTweet",
@@ -74,19 +74,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lmatteis/peer-tweet.git"
-    },
+    "repository": "https://github.com/lmatteis/peer-tweet",
     "author": {
       "name": "Luca Matteis",
       "email": "lmatteis@gmail.com",
       "url": "https://github.com/lmatteis"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lmatteis/peer-tweet/issues"
-    },
     "keywords": [
       "bittorrent",
       "dht",
@@ -159,6 +153,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lmatteis/peer-tweet/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -206,6 +205,7 @@
   "svnUrl": "https://github.com/lmatteis/peer-tweet",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:16:04.838Z",
-  "packageLastFetchedAt": "2017-05-05T17:30:58.206Z"
+  "lastFetchedAt": "2017-10-24T00:16:03.953Z",
+  "packageLastFetchedAt": "2017-05-05T17:30:58.206Z",
+  "archived": false
 }

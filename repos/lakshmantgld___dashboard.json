@@ -6,7 +6,7 @@
   "owner": {
     "login": "lakshmantgld",
     "id": 6481030,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6481030?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6481030?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lakshmantgld",
     "htmlUrl": "https://github.com/lakshmantgld",
@@ -71,7 +71,7 @@
     "owner": {
       "login": "serverless",
       "id": 13742415,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/13742415?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13742415?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/serverless",
       "htmlUrl": "https://github.com/serverless",
@@ -101,27 +101,28 @@
     "downloadsUrl": "https://api.github.com/repos/serverless/dashboard/downloads",
     "deploymentsUrl": "https://api.github.com/repos/serverless/dashboard/deployments",
     "createdAt": "2015-10-16T18:45:11.000Z",
-    "updatedAt": "2017-05-03T00:18:35.000Z",
-    "pushedAt": "2017-04-06T18:47:09.000Z",
+    "updatedAt": "2017-10-16T12:39:46.000Z",
+    "pushedAt": "2017-10-23T19:11:56.000Z",
     "gitUrl": "git://github.com/serverless/dashboard.git",
     "sshUrl": "git@github.com:serverless/dashboard.git",
     "cloneUrl": "https://github.com/serverless/dashboard.git",
     "svnUrl": "https://github.com/serverless/dashboard",
     "homepage": "https://www.serverless.com",
     "size": 292,
-    "stargazersCount": 197,
-    "watchersCount": 197,
+    "stargazersCount": 224,
+    "watchersCount": 224,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 25,
+    "forksCount": 26,
     "mirrorUrl": null,
-    "openIssuesCount": 11,
-    "openIssues": 11,
-    "watchers": 197,
+    "archived": false,
+    "openIssuesCount": 12,
+    "openIssues": 12,
+    "watchers": 224,
     "defaultBranch": "master"
   },
   "source": {
@@ -131,7 +132,7 @@
     "owner": {
       "login": "serverless",
       "id": 13742415,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/13742415?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13742415?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/serverless",
       "htmlUrl": "https://github.com/serverless",
@@ -161,33 +162,34 @@
     "downloadsUrl": "https://api.github.com/repos/serverless/dashboard/downloads",
     "deploymentsUrl": "https://api.github.com/repos/serverless/dashboard/deployments",
     "createdAt": "2015-10-16T18:45:11.000Z",
-    "updatedAt": "2017-05-03T00:18:35.000Z",
-    "pushedAt": "2017-04-06T18:47:09.000Z",
+    "updatedAt": "2017-10-16T12:39:46.000Z",
+    "pushedAt": "2017-10-23T19:11:56.000Z",
     "gitUrl": "git://github.com/serverless/dashboard.git",
     "sshUrl": "git@github.com:serverless/dashboard.git",
     "cloneUrl": "https://github.com/serverless/dashboard.git",
     "svnUrl": "https://github.com/serverless/dashboard",
     "homepage": "https://www.serverless.com",
     "size": 292,
-    "stargazersCount": 197,
-    "watchersCount": 197,
+    "stargazersCount": 224,
+    "watchersCount": 224,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 25,
+    "forksCount": 26,
     "mirrorUrl": null,
-    "openIssuesCount": 11,
-    "openIssues": 11,
-    "watchers": 197,
+    "archived": false,
+    "openIssuesCount": 12,
+    "openIssues": 12,
+    "watchers": 224,
     "defaultBranch": "master"
   },
-  "networkCount": 25,
+  "networkCount": 26,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T21:09:00.972Z",
+  "lastFetchedAt": "2017-10-23T22:07:06.433Z",
   "packageJSON": {
     "name": "serverless-dashboard",
     "productName": "Serverless",
@@ -215,19 +217,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/serverless/dashboard.git"
-    },
+    "repository": "https://github.com/serverless/dashboard",
     "author": {
       "name": "David Wells",
       "email": "david@serverless.com",
       "url": "https://github.com/davidwells"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/serverless/dashboard/issues"
-    },
     "homepage": "https://github.com/serverless/dashboard#readme",
     "devDependencies": {
       "asar": "^0.12.2",
@@ -317,8 +313,14 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/serverless/dashboard/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:39:21.121Z"
+  "packageLastFetchedAt": "2017-05-04T22:39:21.121Z",
+  "archived": false
 }

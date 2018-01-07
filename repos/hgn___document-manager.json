@@ -5,7 +5,7 @@
   "owner": {
     "login": "hgn",
     "id": 46653,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/46653?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/46653?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hgn",
     "htmlUrl": "https://github.com/hgn",
@@ -73,15 +73,13 @@
     "scripts": {
       "start": "electron src/browser/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hgn/document-manager.git"
-    },
+    "repository": "https://github.com/hgn/document-manager",
     "author": "Hagen Paul Pfeifer",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
       "bootstrap": "4.0.0-alpha.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -108,6 +106,7 @@
   },
   "filename": "hgn___document-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:08:38.930Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:15.946Z"
+  "lastFetchedAt": "2017-10-23T23:37:26.264Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:15.946Z",
+  "archived": false
 }

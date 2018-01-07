@@ -5,7 +5,7 @@
   "owner": {
     "login": "roymj88",
     "id": 2633799,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2633799?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2633799?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/roymj88",
     "htmlUrl": "https://github.com/roymj88",
@@ -90,10 +90,6 @@
         "background": "resources/osx/dmg-background.png"
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "app": "build"
-    },
     "main": "main.js",
     "scripts": {
       "postinstall": "install-app-deps",
@@ -104,10 +100,7 @@
       "pretest": "gulp build --env=test",
       "test": "electron-mocha build --renderer"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -116,9 +109,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -140,6 +130,15 @@
       "bootstrap": "^3.3.7",
       "electron-json-storage": "^2.0.0",
       "jquery": "^3.1.0"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "app": "build"
+      },
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   "filename": "roymj88___electron-quickstart.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:23.611Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:54.895Z"
+  "lastFetchedAt": "2017-10-24T00:19:27.942Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:54.895Z",
+  "archived": false
 }

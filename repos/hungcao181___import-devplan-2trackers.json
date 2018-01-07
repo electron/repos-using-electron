@@ -5,7 +5,7 @@
   "owner": {
     "login": "hungcao181",
     "id": 15604864,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15604864?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15604864?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hungcao181",
     "htmlUrl": "https://github.com/hungcao181",
@@ -96,9 +96,6 @@
         "background": "resources/osx/dmg-background.png"
       }
     },
-    "directories": {
-      "buildResources": "resources"
-    },
     "scripts": {
       "postinstall": "install-app-deps",
       "build": "gulp build",
@@ -130,6 +127,11 @@
       "source-map-support": "^0.4.2",
       "spectron": "^3.3.0",
       "yargs": "^4.2.0"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +159,7 @@
   },
   "filename": "hungcao181___import-devplan-2trackers.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:04.412Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:40.185Z"
+  "lastFetchedAt": "2017-10-23T23:38:00.332Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:40.185Z",
+  "archived": false
 }

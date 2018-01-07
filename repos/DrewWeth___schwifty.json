@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -81,10 +81,7 @@
       "postinstall": "npm run rebuild-sqlite3",
       "rebuild-sqlite3": "cd node_modules/sqlite3 &amp;&amp; npm run prepublish &amp;&amp; node-gyp configure --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-darwin-x64 &amp;&amp; node-gyp rebuild --target=0.36.1 --arch=x64 --target_platform=darwin --dist-url=https://atom.io/download/atom-shell --module_name=node_sqlite3 --module_path=../lib/binding/node-v47-darwin-x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -93,9 +90,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -105,6 +99,11 @@
       "jquery": "^2.2.0",
       "react": "^0.13.3",
       "humanize-plus": "1.5.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,6 @@
   "filename": "DrewWeth___schwifty.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:13:26.620Z",
+  "lastFetchedAt": "2017-10-23T23:00:41.072Z",
   "packageLastFetchedAt": "2017-05-05T15:34:45.226Z"
 }

@@ -164,14 +164,12 @@
   },
   "networkCount": 373,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -360,7 +358,8 @@
       "rxjs": "~5.2.0",
       "systemjs": "0.19.41",
       "zone.js": "^0.8.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -408,6 +407,6 @@
   "svnUrl": "https://github.com/ezbizmobile/angular2-seed-advanced",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:18:33.011Z",
+  "lastFetchedAt": "2017-10-23T23:08:53.828Z",
   "packageLastFetchedAt": "2017-05-05T15:00:04.867Z"
 }

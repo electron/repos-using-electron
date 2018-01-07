@@ -5,7 +5,7 @@
   "owner": {
     "login": "TheSpaceArmy",
     "id": 12385986,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12385986?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12385986?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TheSpaceArmy",
     "htmlUrl": "https://github.com/TheSpaceArmy",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,12 +68,14 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "TheSpaceArmy___Electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:08:08.860Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:29.853Z"
+  "lastFetchedAt": "2017-10-23T22:55:59.892Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:29.853Z",
+  "archived": false
 }

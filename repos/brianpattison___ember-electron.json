@@ -5,7 +5,7 @@
   "owner": {
     "login": "brianpattison",
     "id": 124570,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/124570?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/124570?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/brianpattison",
     "htmlUrl": "https://github.com/brianpattison",
@@ -81,10 +81,6 @@
     },
     "main": "main.js",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "node electron-build.js && open ./build",
       "start": "mkdir -p ./tmp && rm -rf ./tmp && nf start",
@@ -121,6 +117,12 @@
       "ember-export-application-global": "^1.0.3",
       "ember-local-storage": "0.0.8",
       "foreman": "^1.4.1"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +150,7 @@
   },
   "filename": "brianpattison___ember-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:01.365Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:48.785Z"
+  "lastFetchedAt": "2017-10-24T00:13:15.969Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:48.785Z",
+  "archived": false
 }

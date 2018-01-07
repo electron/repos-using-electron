@@ -5,7 +5,7 @@
   "owner": {
     "login": "glyphr-studio",
     "id": 18220672,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18220672?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18220672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/glyphr-studio",
     "htmlUrl": "https://github.com/glyphr-studio",
@@ -20,21 +20,21 @@
   "description": "A desktop client for Glyphr Studio built in electron",
   "fork": false,
   "createdAt": "2016-06-16T20:19:16.000Z",
-  "updatedAt": "2017-05-01T11:08:33.000Z",
-  "pushedAt": "2017-02-10T22:07:30.000Z",
+  "updatedAt": "2017-10-20T16:35:59.000Z",
+  "pushedAt": "2017-09-06T18:56:17.000Z",
   "homepage": "",
-  "size": 562,
-  "stargazersCount": 87,
-  "watchersCount": 87,
+  "size": 151,
+  "stargazersCount": 121,
+  "watchersCount": 121,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 15,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 87,
+  "forksCount": 20,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 121,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "glyphr-studio",
     "id": 18220672,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18220672?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18220672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/glyphr-studio",
     "htmlUrl": "https://github.com/glyphr-studio",
@@ -62,18 +62,15 @@
     "receivedEventsUrl": "https://api.github.com/users/glyphr-studio/received_events",
     "type": "Organization"
   },
-  "networkCount": 15,
-  "subscribersCount": 13,
+  "networkCount": 20,
+  "subscribersCount": 17,
   "status": 200,
   "packageJSON": {
     "name": "glyphr-studio-desktop",
     "version": "0.2.2",
     "description": "A desktop client for Glyphr",
     "license": "GPL-3.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/glyphr-studio/Glyphr-Studio-Desktop.git"
-    },
+    "repository": "https://github.com/glyphr-studio/Glyphr-Studio-Desktop",
     "main": "main.js",
     "dependencies": {
       "open": "0.0.5"
@@ -92,7 +89,8 @@
       "build-win32": "node build.js && electron-packager ./ 'Glyphr Studio' --app-bundle-id=glyphr-studio-desktop --version-string.FileDescription='Glyphr Studio Desktop' --icon=images/appicon.ico --asar --prune --out=build --overwrite=true --platform=win32 --arch=ia32 --electronVersion=1.6.0 && cd 'build/Glyphr Studio-win32-ia32' && rm -rf LICENSE* version && zip -9 -ry ../Glyphr.Studio-win32-ia32.zip '../Glyphr Studio-win32-ia32' && cd ../../",
       "build-linux": "node build.js && electron-packager ./ 'Glyphr Studio' --app-bundle-id=glyphr-studio-desktop --asar --prune --out=build --overwrite=true --platform=linux --arch=x64 --electronVersion=1.6.0 && cd 'build/Glyphr Studio-linux-x64' && rm -rf LICENSE* version && zip -9 -ry ../Glyphr.Studio-linux-x64.zip '../Glyphr Studio-linux-x64' && cd ../../",
       "build-linux32": "node build.js && electron-packager ./ 'Glyphr Studio' --app-bundle-id=glyphr-studio-desktop --asar --prune --out=build --overwrite=true --platform=linux --arch=ia32 --electronVersion=1.6.0 && cd 'build/Glyphr Studio-linux-ia32' && rm -rf LICENSE* version && zip -9 -ry ../Glyphr.Studio-linux-ia32.zip '../Glyphr Studio-linux-ia32' && cd ../../"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/glyphr-studio/Glyphr-Studio-Desktop",
@@ -139,6 +137,7 @@
   },
   "filename": "glyphr-studio___Glyphr-Studio-Desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:02.969Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:50.429Z"
+  "lastFetchedAt": "2017-10-23T22:09:33.262Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:50.429Z",
+  "archived": false
 }

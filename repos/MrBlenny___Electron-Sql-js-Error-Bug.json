@@ -64,16 +64,13 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "STEMN",
     "productName": "STEMN",
     "version": "0.0.4",
     "description": "Painless Engineering Versioning",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Stemn/Stemn-Desktop"
-    },
+    "repository": "https://github.com/Stemn/Stemn-Desktop",
     "main": "dist/main/index.js",
     "scripts": {
       "test": "cross-env NODE_ENV=test mocha --compilers js:babel-register --recursive --require ./test/setup.js test/**/*.spec.js",
@@ -123,10 +120,6 @@
       "science"
     ],
     "homepage": "https://stemn.com",
-    "bugs": {
-      "url": "https://stemn.com",
-      "email": "bugs@stemn.com"
-    },
     "dependencies": {
       "asar": "^0.11.0",
       "babel-core": "^6.11.4",
@@ -216,14 +209,20 @@
         ]
       }
     },
-    "directories": {
-      "app": "./dist/",
-      "output": "./release/"
-    },
     "devDependencies": {
       "cross-env": "^1.0.8",
       "electron": "^1.4.4",
       "electron-builder": "^7.3.0"
+    },
+    "other": {
+      "directories": {
+        "app": "./dist/",
+        "output": "./release/"
+      },
+      "bugs": {
+        "url": "https://stemn.com",
+        "email": "bugs@stemn.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -251,6 +250,6 @@
   },
   "filename": "MrBlenny___Electron-Sql-js-Error-Bug.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:17.651Z",
+  "lastFetchedAt": "2017-10-23T22:56:58.947Z",
   "packageLastFetchedAt": "2017-05-04T22:59:15.230Z"
 }

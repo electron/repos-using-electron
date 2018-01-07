@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-gulp-runner",
     "version": "1.0.0",
@@ -82,10 +82,7 @@
     },
     "author": "AHN JAE-HA",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/eu81273/electron-gulp-runner.git"
-    },
+    "repository": "https://github.com/eu81273/electron-gulp-runner",
     "dependencies": {
       "babel-preset-es2015": "^6.5.0",
       "babel-preset-react": "^6.5.0",
@@ -106,7 +103,8 @@
       "darwin",
       "linux",
       "win32"
-    ]
+    ],
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,6 @@
   },
   "filename": "eu81273___electron-gulp-runner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:48.980Z",
+  "lastFetchedAt": "2017-10-23T23:03:18.077Z",
   "packageLastFetchedAt": "2017-05-05T14:34:37.050Z"
 }

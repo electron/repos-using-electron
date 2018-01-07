@@ -44,15 +44,12 @@
   "license": null,
   "networkCount": 5,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Yummy",
     "version": "2.1.0",
     "description": "A demo package",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "bin": {
       "yummy": "./bin/yummy.js"
     },
@@ -104,6 +101,11 @@
     },
     "dependencies": {
       "imagemin-pngquant": "^4.1.0"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +153,6 @@
   "svnUrl": "https://github.com/yumyfung/yummy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:40:04.830Z",
+  "lastFetchedAt": "2017-10-23T23:06:39.815Z",
   "packageLastFetchedAt": "2017-05-04T22:46:33.707Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "YuriBrunetto",
     "id": 5321477,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5321477?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5321477?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/YuriBrunetto",
     "htmlUrl": "https://github.com/YuriBrunetto",
@@ -80,15 +80,9 @@
       "start": "electron main.js",
       "build": "electron-packager . teste"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/YuriBrunetto/proportions.git"
-    },
+    "repository": "https://github.com/YuriBrunetto/proportions",
     "author": "Yuri Brunetto",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/YuriBrunetto/proportions/issues"
-    },
     "homepage": "https://github.com/YuriBrunetto/proportions#readme",
     "devDependencies": {
       "browser-sync": "^2.12.3",
@@ -101,6 +95,11 @@
     "dependencies": {
       "electron-packager": "^7.3.0",
       "electron-prebuilt": "^1.2.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/YuriBrunetto/proportions/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "YuriBrunetto___proportions.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:37.225Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:49.219Z"
+  "lastFetchedAt": "2017-10-23T22:30:03.530Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:49.219Z",
+  "archived": false
 }

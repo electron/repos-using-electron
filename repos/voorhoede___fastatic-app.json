@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fastatic-app",
     "version": "0.1.1",
@@ -100,13 +100,7 @@
       "postpackage": "gulp sign",
       "gulp": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/voorhoede-labs/fastatic-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/voorhoede-labs/fastatic-app/issues"
-    },
+    "repository": "https://github.com/voorhoede-labs/fastatic-app",
     "homepage": "https://github.com/voorhoede-labs/fastatic-app#readme",
     "keywords": [
       "fastatic",
@@ -144,6 +138,11 @@
       "gulp-sourcemaps": "2.2.0",
       "gulp-task-listing": "1.0.1",
       "icon-gen": "1.0.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/voorhoede-labs/fastatic-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,6 @@
   "filename": "voorhoede___fastatic-app.json",
   "sourceRepo": "voorhoede-labs/fastatic-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:54.695Z",
+  "lastFetchedAt": "2017-10-23T22:56:25.220Z",
   "packageLastFetchedAt": "2017-05-05T17:04:49.472Z"
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "forget-desktop",
     "version": "1.0.0",
@@ -73,20 +73,19 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/chrisberragan/forget-desktop.git"
-    },
+    "repository": "https://github.com/chrisberragan/forget-desktop",
     "author": "Chris Berragan",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
     },
     "dependencies": {
       "pouchdb": "^5.3.2"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -114,6 +113,6 @@
   },
   "filename": "chrisberragan___forget-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:38.336Z",
+  "lastFetchedAt": "2017-10-23T23:09:39.833Z",
   "packageLastFetchedAt": "2017-05-05T17:17:35.470Z"
 }

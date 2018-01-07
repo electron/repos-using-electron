@@ -5,7 +5,7 @@
   "owner": {
     "login": "plancheproject",
     "id": 12442508,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12442508?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12442508?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plancheproject",
     "htmlUrl": "https://github.com/plancheproject",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "plancheproject",
     "id": 12442508,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12442508?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12442508?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plancheproject",
     "htmlUrl": "https://github.com/plancheproject",
@@ -75,16 +75,10 @@
       "ExtJS"
     ],
     "homepage": "https://github.com/plancheproject/planche",
-    "bugs": {
-      "url": "https://github.com/plancheproject/planche/issues"
-    },
     "license": "GPLv3",
     "author": "Jeong JuWon <2jw0718@gmail.com>",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/plancheproject/planche.git"
-    },
+    "repository": "https://github.com/plancheproject/planche",
     "dependencies": {
       "deferred": "^0.7.5",
       "express": "^4.14.0",
@@ -104,6 +98,11 @@
       "php": "php tunneling/planche.php",
       "node": "npm update && node tunneling/planche.js",
       "packager": "npm update && electron-packager . --all  --out=package --overwrite"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/plancheproject/planche/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "plancheproject___planche-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:39.407Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:53.153Z"
+  "lastFetchedAt": "2017-10-23T22:15:46.779Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:53.153Z",
+  "archived": false
 }

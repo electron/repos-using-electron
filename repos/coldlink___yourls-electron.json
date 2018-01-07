@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "yourls-electron",
     "version": "0.1.0",
@@ -90,7 +90,8 @@
     "devDependencies": {
       "electron-packager": "^7.0.4",
       "electron-prebuilt": "^1.2.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +118,6 @@
   },
   "filename": "coldlink___yourls-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:33.365Z",
+  "lastFetchedAt": "2017-10-23T23:09:13.336Z",
   "packageLastFetchedAt": "2017-05-04T22:34:54.460Z"
 }

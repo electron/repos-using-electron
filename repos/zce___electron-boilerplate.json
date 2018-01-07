@@ -5,7 +5,7 @@
   "owner": {
     "login": "zce",
     "id": 6166576,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6166576?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6166576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zce",
     "htmlUrl": "https://github.com/zce",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/zce/electron-boilerplate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/zce/electron-boilerplate/deployments",
   "createdAt": "2016-07-08T04:48:25.000Z",
-  "updatedAt": "2017-03-16T02:24:41.000Z",
+  "updatedAt": "2017-09-07T11:43:51.000Z",
   "pushedAt": "2016-09-16T07:22:57.000Z",
   "gitUrl": "git://github.com/zce/electron-boilerplate.git",
   "sshUrl": "git@github.com:zce/electron-boilerplate.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/zce/electron-boilerplate",
   "homepage": null,
   "size": 14831,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 8,
+  "watchers": 12,
   "defaultBranch": "vue",
   "permissions": {
     "admin": false,
@@ -68,22 +68,16 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electron-boilerplate",
     "description": "A boilerplate application for Electron runtime",
     "version": "0.3.0",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zce/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/zce/electron-boilerplate",
     "author": "iceStone <ice@wedn.net> (http://wedn.net/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zce/electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/zce/electron-boilerplate#readme",
     "scripts": {
       "postinstall": "cd app && npm install && cd ..",
@@ -149,6 +143,11 @@
       "webpack-dashboard": "^0.1.8",
       "webpack-dev-server": "^1.15.2",
       "webpack-merge": "^0.14.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zce/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +175,7 @@
   },
   "filename": "zce___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:13.398Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:23.014Z"
+  "lastFetchedAt": "2017-10-24T00:12:04.206Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:23.014Z",
+  "archived": false
 }

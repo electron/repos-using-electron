@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "git-commit-analysis",
     "version": "0.0.1",
@@ -86,20 +86,19 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ChongTang/git-commit-analysis.git"
-    },
+    "repository": "https://github.com/ChongTang/git-commit-analysis",
     "keywords": [
       "Git",
       "Commit"
     ],
     "author": "Chong Tang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ChongTang/git-commit-analysis/issues"
-    },
-    "homepage": "https://github.com/ChongTang/git-commit-analysis#readme"
+    "homepage": "https://github.com/ChongTang/git-commit-analysis#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ChongTang/git-commit-analysis/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/ChongTang/git-commit-analysis",
@@ -146,6 +145,6 @@
   },
   "filename": "ChongTang___git-commit-analysis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:37.905Z",
+  "lastFetchedAt": "2017-10-23T23:01:17.077Z",
   "packageLastFetchedAt": "2017-05-04T22:48:32.370Z"
 }

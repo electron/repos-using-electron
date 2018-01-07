@@ -5,7 +5,7 @@
   "owner": {
     "login": "JakePartusch",
     "id": 6424140,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6424140?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6424140?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JakePartusch",
     "htmlUrl": "https://github.com/JakePartusch",
@@ -75,9 +75,7 @@
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -225,7 +223,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.26",
       "zone.js": "^0.6.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -253,6 +252,7 @@
   "filename": "JakePartusch___google-io-angular2-example.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:13:42.648Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:22.104Z"
+  "lastFetchedAt": "2017-10-23T22:30:53.779Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:22.104Z",
+  "archived": false
 }

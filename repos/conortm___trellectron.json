@@ -5,7 +5,7 @@
   "owner": {
     "login": "conortm",
     "id": 10085,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10085?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10085?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/conortm",
     "htmlUrl": "https://github.com/conortm",
@@ -20,10 +20,10 @@
   "description": "An Electron wrapper for Trello",
   "fork": false,
   "createdAt": "2016-05-26T17:24:01.000Z",
-  "updatedAt": "2016-05-26T18:47:34.000Z",
-  "pushedAt": "2017-01-03T17:27:41.000Z",
+  "updatedAt": "2017-05-22T17:12:12.000Z",
+  "pushedAt": "2017-06-23T15:21:06.000Z",
   "homepage": null,
-  "size": 128,
+  "size": 136,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -60,15 +60,13 @@
       "start": "electron main.js",
       "build": "electron-packager . Trello --platform=darwin --arch=x64 --icon=icon.icns --out=build --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/conortm/trellectron.git"
-    },
+    "repository": "https://github.com/conortm/trellectron",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^8.4.0",
       "electron-prebuilt": "^1.4.13"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/conortm/trellectron",
@@ -115,6 +113,7 @@
   },
   "filename": "conortm___trellectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:12.287Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:22.661Z"
+  "lastFetchedAt": "2017-10-24T02:04:36.169Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:22.661Z",
+  "archived": false
 }

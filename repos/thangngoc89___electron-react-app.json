@@ -5,7 +5,7 @@
   "owner": {
     "login": "thangngoc89",
     "id": 3049054,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3049054?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3049054?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thangngoc89",
     "htmlUrl": "https://github.com/thangngoc89",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/thangngoc89/electron-react-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/thangngoc89/electron-react-app/deployments",
   "createdAt": "2016-08-25T00:24:54.000Z",
-  "updatedAt": "2017-02-17T23:31:29.000Z",
+  "updatedAt": "2017-10-06T09:14:27.000Z",
   "pushedAt": "2016-08-27T19:53:56.000Z",
   "gitUrl": "git://github.com/thangngoc89/electron-react-app.git",
   "sshUrl": "git@github.com:thangngoc89/electron-react-app.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/thangngoc89/electron-react-app",
   "homepage": null,
   "size": 1065,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -194,7 +194,8 @@
       "test": "mocha --compilers js:babel-register",
       "test:watch": "mocha --compilers js:babel-register --reporter min --watch",
       "dev--setup": "node ./scripts/dev/setup"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -221,6 +222,7 @@
   },
   "filename": "thangngoc89___electron-react-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:01:31.437Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:29.290Z"
+  "lastFetchedAt": "2017-10-23T21:41:59.122Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:29.290Z",
+  "archived": false
 }

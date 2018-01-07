@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "productName": "Manga Scraper",
     "description": "Manga Scraper",
@@ -91,10 +91,7 @@
       "clean-build-mac": "npm-run-all clean build pack-mac",
       "clean-build-all": "npm-run-all clean build pack-all"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/FrantisekGazo/MangaScraperJS"
-    },
+    "repository": "https://github.com/FrantisekGazo/MangaScraperJS",
     "keywords": [
       "Electron",
       "quick",
@@ -148,7 +145,8 @@
       "redux-logic": "^0.11.6",
       "rxjs": "^5.1.1",
       "x-ray": "^2.3.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -175,6 +173,6 @@
   },
   "filename": "FrantisekGazo___MangaScraperJS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:11.648Z",
+  "lastFetchedAt": "2017-10-23T23:06:08.315Z",
   "packageLastFetchedAt": "2017-05-05T14:44:31.561Z"
 }

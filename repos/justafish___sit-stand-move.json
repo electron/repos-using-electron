@@ -6,7 +6,7 @@
   "owner": {
     "login": "justafish",
     "id": 345613,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/345613?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/345613?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/justafish",
     "htmlUrl": "https://github.com/justafish",
@@ -94,7 +94,8 @@
     "scripts": {
       "build": "yarn run babel -- src -d dist --presets react,es2015,stage-2 && yarn run browserify -- dist/app/app.js -o dist/bundle.js -d && yarn run electron-packager -- . sit-stand-move --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +121,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:29.198Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:29.743Z"
+  "lastFetchedAt": "2017-10-23T22:27:53.503Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:29.743Z",
+  "archived": false
 }

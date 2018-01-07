@@ -5,7 +5,7 @@
   "owner": {
     "login": "ForexC",
     "id": 7827201,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7827201?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7827201?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ForexC",
     "htmlUrl": "https://github.com/ForexC",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "Cwoodall6",
       "id": 8728281,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/8728281?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8728281?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Cwoodall6",
       "htmlUrl": "https://github.com/Cwoodall6",
@@ -99,7 +99,7 @@
     "downloadsUrl": "https://api.github.com/repos/Cwoodall6/quickcalc/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Cwoodall6/quickcalc/deployments",
     "createdAt": "2016-09-23T14:36:50.000Z",
-    "updatedAt": "2017-04-27T12:25:00.000Z",
+    "updatedAt": "2017-09-07T06:17:05.000Z",
     "pushedAt": "2017-04-17T15:42:06.000Z",
     "gitUrl": "git://github.com/Cwoodall6/quickcalc.git",
     "sshUrl": "git@github.com:Cwoodall6/quickcalc.git",
@@ -107,8 +107,8 @@
     "svnUrl": "https://github.com/Cwoodall6/quickcalc",
     "homepage": null,
     "size": 1624,
-    "stargazersCount": 28,
-    "watchersCount": 28,
+    "stargazersCount": 34,
+    "watchersCount": 34,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -117,9 +117,10 @@
     "hasPages": false,
     "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 2,
     "openIssues": 2,
-    "watchers": 28,
+    "watchers": 34,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "Cwoodall6",
       "id": 8728281,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/8728281?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/8728281?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Cwoodall6",
       "htmlUrl": "https://github.com/Cwoodall6",
@@ -159,7 +160,7 @@
     "downloadsUrl": "https://api.github.com/repos/Cwoodall6/quickcalc/downloads",
     "deploymentsUrl": "https://api.github.com/repos/Cwoodall6/quickcalc/deployments",
     "createdAt": "2016-09-23T14:36:50.000Z",
-    "updatedAt": "2017-04-27T12:25:00.000Z",
+    "updatedAt": "2017-09-07T06:17:05.000Z",
     "pushedAt": "2017-04-17T15:42:06.000Z",
     "gitUrl": "git://github.com/Cwoodall6/quickcalc.git",
     "sshUrl": "git@github.com:Cwoodall6/quickcalc.git",
@@ -167,8 +168,8 @@
     "svnUrl": "https://github.com/Cwoodall6/quickcalc",
     "homepage": null,
     "size": 1624,
-    "stargazersCount": 28,
-    "watchersCount": 28,
+    "stargazersCount": 34,
+    "watchersCount": 34,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -177,9 +178,10 @@
     "hasPages": false,
     "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 2,
     "openIssues": 2,
-    "watchers": 28,
+    "watchers": 34,
     "defaultBranch": "master"
   },
   "networkCount": 5,
@@ -203,10 +205,7 @@
       "pack:win": "electron-packager . \"quickcalc\" --out=~/Desktop --platform=win32 --arch=ia32 --overwrite --icon=app/quickcalc.ico --ignore=dist --ignore=assets --ignore=builder.json --ignore=bower.json --ignore=README.md --ignore=.gitignore --ignore=preview.png"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Cwoodall6/quickcalc"
-    },
+    "repository": "https://github.com/Cwoodall6/quickcalc",
     "keywords": [
       "Calculator",
       "Menubar",
@@ -221,7 +220,8 @@
     "devDependencies": {
       "electron": "^1.3.3",
       "electron-packager": "^7.7.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -249,6 +249,7 @@
   "filename": "ForexC___quickcalc.json",
   "sourceRepo": "Cwoodall6/quickcalc",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:44:39.722Z",
-  "packageLastFetchedAt": "2017-05-05T01:24:14.293Z"
+  "lastFetchedAt": "2017-10-23T21:44:10.263Z",
+  "packageLastFetchedAt": "2017-05-05T01:24:14.293Z",
+  "archived": false
 }

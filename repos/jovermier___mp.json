@@ -5,7 +5,7 @@
   "owner": {
     "login": "jovermier",
     "id": 7989760,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7989760?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7989760?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jovermier",
     "htmlUrl": "https://github.com/jovermier",
@@ -69,9 +69,7 @@
     "name": "mp",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/jovermier/mp"
-    },
+    "repository": "https://github.com/jovermier/mp",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -232,7 +230,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "^0.6.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -259,6 +258,7 @@
   },
   "filename": "jovermier___mp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:40.557Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:24.736Z"
+  "lastFetchedAt": "2017-10-24T00:13:46.458Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:24.736Z",
+  "archived": false
 }

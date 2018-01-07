@@ -5,7 +5,7 @@
   "owner": {
     "login": "project-sothis",
     "id": 23204253,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23204253?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23204253?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/project-sothis",
     "htmlUrl": "https://github.com/project-sothis",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "project-sothis",
     "id": 23204253,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23204253?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23204253?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/project-sothis",
     "htmlUrl": "https://github.com/project-sothis",
@@ -108,10 +108,7 @@
       "test": "cross-env NODE_ENV=test mocha -R spec --compilers js:babel-core/register --require ignore-styles"
     },
     "author": "Resi Respati <resir014@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/project-sothis/project-sothis.git"
-    },
+    "repository": "https://github.com/project-sothis/project-sothis",
     "contributors": [],
     "license": "MIT",
     "dependencies": {
@@ -172,7 +169,8 @@
     },
     "standard": {
       "parser": "babel-eslint"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -199,6 +197,7 @@
   },
   "filename": "project-sothis___project-sothis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:10.481Z",
-  "packageLastFetchedAt": "2017-05-04T22:54:06.376Z"
+  "lastFetchedAt": "2017-10-23T22:06:32.831Z",
+  "packageLastFetchedAt": "2017-05-04T22:54:06.376Z",
+  "archived": false
 }

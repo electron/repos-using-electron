@@ -5,7 +5,7 @@
   "owner": {
     "login": "frinyvonnick",
     "id": 13099512,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13099512?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13099512?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/frinyvonnick",
     "htmlUrl": "https://github.com/frinyvonnick",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/frinyvonnick/electron-workshop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/frinyvonnick/electron-workshop/deployments",
   "createdAt": "2016-08-25T18:41:24.000Z",
-  "updatedAt": "2017-04-24T22:27:11.000Z",
+  "updatedAt": "2017-06-26T11:21:48.000Z",
   "pushedAt": "2017-02-21T19:45:25.000Z",
   "gitUrl": "git://github.com/frinyvonnick/electron-workshop.git",
   "sshUrl": "git@github.com:frinyvonnick/electron-workshop.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/frinyvonnick/electron-workshop",
   "homepage": "",
   "size": 18623,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -84,10 +84,7 @@
       "test": "mocha src/tests && npm run lint",
       "package": "echo \"TODO (Etape 8): Utiliser electron-packager pour générer l'éxécutable de votre application\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/frinyvonnick/electron-workshop.git"
-    },
+    "repository": "https://github.com/frinyvonnick/electron-workshop",
     "keywords": [
       "electron-app",
       "electron"
@@ -128,10 +125,12 @@
       ]
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/frinyvonnick/electron-workshop/issues"
-    },
-    "homepage": "https://github.com/frinyvonnick/electron-workshop#readme"
+    "homepage": "https://github.com/frinyvonnick/electron-workshop#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/frinyvonnick/electron-workshop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -158,6 +157,7 @@
   },
   "filename": "frinyvonnick___electron-workshop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:57.189Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:45.579Z"
+  "lastFetchedAt": "2017-10-23T22:13:01.039Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:45.579Z",
+  "archived": false
 }

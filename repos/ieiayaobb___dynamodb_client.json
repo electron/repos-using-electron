@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Dynamodb-GUI",
     "version": "1.0.0",
@@ -82,13 +82,15 @@
     ],
     "author": "Shen Yineng",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "request-promise": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +118,6 @@
   },
   "filename": "ieiayaobb___dynamodb_client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:40:03.730Z",
+  "lastFetchedAt": "2017-10-23T23:11:15.083Z",
   "packageLastFetchedAt": "2017-05-05T15:42:29.392Z"
 }

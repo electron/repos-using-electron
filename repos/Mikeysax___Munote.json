@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Munote",
     "version": "0.0.1",
@@ -77,9 +77,6 @@
     "author": "Michael Farrell",
     "license": "MIT",
     "homepage": "",
-    "bugs": {
-      "url": ""
-    },
     "dependencies": {
       "bootstrap": "^3.3.7",
       "css-modules-require-hook": "^4.0.1",
@@ -172,6 +169,11 @@
       "webpack-dev-middleware": "^1.6.1",
       "webpack-hot-middleware": "^2.12.2",
       "webpack-merge": "^0.14.1"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -219,6 +221,6 @@
   "svnUrl": "https://github.com/Mikeysax/Munote",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:00:28.334Z",
+  "lastFetchedAt": "2017-10-23T23:02:49.322Z",
   "packageLastFetchedAt": "2017-05-05T17:17:24.417Z"
 }

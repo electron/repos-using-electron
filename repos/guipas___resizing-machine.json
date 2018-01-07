@@ -5,7 +5,7 @@
   "owner": {
     "login": "guipas",
     "id": 11334913,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11334913?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11334913?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/guipas",
     "htmlUrl": "https://github.com/guipas",
@@ -62,10 +62,7 @@
       "build:less": "node scripts/build-less.js",
       "postinstall": "npm run build:less"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/guipas/resizing-machine.git"
-    },
+    "repository": "https://github.com/guipas/resizing-machine",
     "keywords": [
       "Electron",
       "resize",
@@ -84,7 +81,8 @@
       "bootstrap": "^3.3.7",
       "jimp": "^0.2.24",
       "jquery": "^3.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +129,7 @@
   "svnUrl": "https://github.com/guipas/resizing-machine",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:21:49.436Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:49.740Z"
+  "lastFetchedAt": "2017-10-23T22:14:57.018Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:49.740Z",
+  "archived": false
 }

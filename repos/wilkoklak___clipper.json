@@ -5,7 +5,7 @@
   "owner": {
     "login": "wilkoklak",
     "id": 17553085,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/17553085?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/17553085?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wilkoklak",
     "htmlUrl": "https://github.com/wilkoklak",
@@ -73,15 +73,9 @@
     "scripts": {
       "start": "node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/wilkoklak/clipper.git"
-    },
+    "repository": "https://github.com/wilkoklak/clipper",
     "author": "Artur Boryś",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/wilkoklak/clipper/issues"
-    },
     "homepage": "https://github.com/wilkoklak/clipper#readme",
     "dependencies": {
       "angular": "^1.5.8",
@@ -90,6 +84,11 @@
       "electron": "^1.4.5",
       "moment": "^2.15.2",
       "reset.css": "^2.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/wilkoklak/clipper/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "wilkoklak___clipper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:14:42.782Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:02.917Z"
+  "lastFetchedAt": "2017-10-23T23:43:44.431Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:02.917Z",
+  "archived": false
 }

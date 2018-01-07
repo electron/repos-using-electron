@@ -5,7 +5,7 @@
   "owner": {
     "login": "NebulousLabs",
     "id": 7471422,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7471422?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7471422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NebulousLabs",
     "htmlUrl": "https://github.com/NebulousLabs",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/NebulousLabs/Sia-UI/downloads",
   "deploymentsUrl": "https://api.github.com/repos/NebulousLabs/Sia-UI/deployments",
   "createdAt": "2015-05-15T23:48:43.000Z",
-  "updatedAt": "2017-05-02T21:04:14.000Z",
-  "pushedAt": "2017-05-03T22:22:39.000Z",
+  "updatedAt": "2017-10-23T10:00:02.000Z",
+  "pushedAt": "2017-10-23T19:30:00.000Z",
   "gitUrl": "git://github.com/NebulousLabs/Sia-UI.git",
   "sshUrl": "git@github.com:NebulousLabs/Sia-UI.git",
   "cloneUrl": "https://github.com/NebulousLabs/Sia-UI.git",
   "svnUrl": "https://github.com/NebulousLabs/Sia-UI",
   "homepage": "",
-  "size": 12615,
-  "stargazersCount": 147,
-  "watchersCount": 147,
+  "size": 14678,
+  "stargazersCount": 303,
+  "watchersCount": 303,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 34,
+  "forksCount": 81,
   "mirrorUrl": null,
-  "openIssuesCount": 23,
-  "openIssues": 23,
-  "watchers": 147,
+  "openIssuesCount": 79,
+  "openIssues": 79,
+  "watchers": 303,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "NebulousLabs",
     "id": 7471422,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7471422?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7471422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NebulousLabs",
     "htmlUrl": "https://github.com/NebulousLabs",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/NebulousLabs/received_events",
     "type": "Organization"
   },
-  "networkCount": 34,
-  "subscribersCount": 38,
+  "networkCount": 81,
+  "subscribersCount": 64,
   "status": 200,
   "packageJSON": {
     "name": "Sia-UI",
@@ -149,12 +149,11 @@
       "lint": "eslint --max-warnings 0 ./index.js ./plugins ./js ./test",
       "lint-fix": "eslint --fix ./index.js ./plugins ./js ./test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/NebulousLabs/Sia-UI.git"
-    },
-    "bugs": {
-      "url": "https://github.com/NebulousLabs/Sia-UI/issues"
+    "repository": "https://github.com/NebulousLabs/Sia-UI",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/NebulousLabs/Sia-UI/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +181,7 @@
   },
   "filename": "NebulousLabs___Sia-UI.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:05.257Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:05.744Z"
+  "lastFetchedAt": "2017-10-24T00:08:58.205Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:05.744Z",
+  "archived": false
 }

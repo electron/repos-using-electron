@@ -58,7 +58,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "knock-knock-app",
     "version": "1.0.0",
@@ -77,7 +77,8 @@
     "scripts": {
       "build": "./node_modules/.bin/electron-packager . knock-knock --platform=darwin --arch=x64 --icon=Icon.icns --ignore=node_modules/dev-dependency",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +125,6 @@
   "svnUrl": "https://github.com/tw-sg-maker-night/knock-knock-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:33:48.949Z",
+  "lastFetchedAt": "2017-10-23T22:57:06.837Z",
   "packageLastFetchedAt": "2017-05-05T14:46:33.865Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "yairb",
     "id": 1228958,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1228958?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1228958?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yairb",
     "htmlUrl": "https://github.com/yairb",
@@ -74,10 +74,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "Analayze",
@@ -85,12 +82,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "yairb___Analyze.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:35:52.322Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:34.920Z"
+  "lastFetchedAt": "2017-10-23T23:37:56.297Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:34.920Z",
+  "archived": false
 }

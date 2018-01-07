@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Cronos",
     "version": "0.0.0",
@@ -84,10 +84,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/VytorCalixto/Cronos.git"
-    },
+    "repository": "https://github.com/VytorCalixto/Cronos",
     "keywords": [
       "cronos",
       "electron",
@@ -96,10 +93,12 @@
     ],
     "author": "Vytor Calixto <vytorcaxlito@gmail.com> (https://github.com/VytorCalixto)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/VytorCalixto/Cronos/issues"
-    },
-    "homepage": "https://github.com/VytorCalixto/Cronos"
+    "homepage": "https://github.com/VytorCalixto/Cronos",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/VytorCalixto/Cronos/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +125,6 @@
   },
   "filename": "VytorCalixto___Cronos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:20:43.847Z",
+  "lastFetchedAt": "2017-10-23T23:01:09.842Z",
   "packageLastFetchedAt": "2017-05-05T17:17:47.511Z"
 }

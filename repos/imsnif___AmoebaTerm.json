@@ -5,7 +5,7 @@
   "owner": {
     "login": "imsnif",
     "id": 795598,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/795598?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/795598?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/imsnif",
     "htmlUrl": "https://github.com/imsnif",
@@ -82,10 +82,7 @@
       "coverage": "nyc --reporter text --reporter lcov npm test",
       "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/imsnif/terminal-grid.git"
-    },
+    "repository": "https://github.com/imsnif/terminal-grid",
     "author": {
       "name": "Aram Drevekenin",
       "email": "grimsniffer@gmail.com"
@@ -115,7 +112,8 @@
       "shorte": "^1.0.0",
       "validate.js": "^0.10.0",
       "xterm": "^1.1.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,7 @@
   "filename": "imsnif___AmoebaTerm.json",
   "sourceRepo": "imsnif/terminal-grid",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:25:50.549Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:46.451Z"
+  "lastFetchedAt": "2017-10-23T22:54:21.866Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:46.451Z",
+  "archived": false
 }

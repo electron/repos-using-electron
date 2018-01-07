@@ -64,7 +64,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "macaca-electron",
     "version": "1.1.6",
@@ -74,10 +74,7 @@
       "macaca"
     ],
     "main": "./lib/macaca-electron",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/macacajs/macaca-electron.git"
-    },
+    "repository": "https://github.com/macacajs/macaca-electron",
     "dependencies": {
       "co": "^4.6.0",
       "driver-base": "^0.1.0",
@@ -106,7 +103,8 @@
       "jshint"
     ],
     "homepage": "https://github.com/macacajs/macaca-electron",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/macacajs/macaca-electron",
@@ -153,6 +151,6 @@
   },
   "filename": "macacajs___macaca-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:17.703Z",
+  "lastFetchedAt": "2017-10-23T23:05:31.573Z",
   "packageLastFetchedAt": "2017-05-04T22:31:06.058Z"
 }

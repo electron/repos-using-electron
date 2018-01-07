@@ -6,7 +6,7 @@
   "owner": {
     "login": "csprance",
     "id": 7902617,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7902617?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7902617?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/csprance",
     "htmlUrl": "https://github.com/csprance",
@@ -36,16 +36,16 @@
   "downloadsUrl": "https://api.github.com/repos/csprance/MisRCON/downloads",
   "deploymentsUrl": "https://api.github.com/repos/csprance/MisRCON/deployments",
   "createdAt": "2016-12-02T07:45:49.000Z",
-  "updatedAt": "2017-02-04T08:11:08.000Z",
-  "pushedAt": "2017-05-03T08:32:15.000Z",
+  "updatedAt": "2017-09-20T20:28:50.000Z",
+  "pushedAt": "2017-10-04T02:38:39.000Z",
   "gitUrl": "git://github.com/csprance/MisRCON.git",
   "sshUrl": "git@github.com:csprance/MisRCON.git",
   "cloneUrl": "https://github.com/csprance/MisRCON.git",
   "svnUrl": "https://github.com/csprance/MisRCON",
-  "homepage": "http://csprance.github.io/MisRCON",
-  "size": 9703,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "homepage": "",
+  "size": 10320,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -53,9 +53,9 @@
   "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 11,
-  "openIssues": 11,
-  "watchers": 4,
+  "openIssuesCount": 10,
+  "openIssues": 10,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -70,7 +70,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "MisRCON",
@@ -133,26 +133,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/csprance/MisRCON.git"
-    },
+    "repository": "https://github.com/csprance/MisRCON",
     "author": {
       "name": "Chris Sprance",
       "email": "chrissprance@gmail.com",
       "url": "https://github.com/csprance"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/csprance/MisRCON/issues"
-    },
     "keywords": [
       "miscreated",
       "rcon",
@@ -268,6 +258,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/csprance/MisRCON/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -294,6 +293,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:44:57.619Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:42.644Z"
+  "lastFetchedAt": "2017-10-23T22:06:52.623Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:42.644Z",
+  "archived": false
 }

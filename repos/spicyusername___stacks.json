@@ -5,7 +5,7 @@
   "owner": {
     "login": "nccurry",
     "id": 3799024,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3799024?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3799024?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nccurry",
     "htmlUrl": "https://github.com/nccurry",
@@ -73,15 +73,9 @@
     "scripts": {
       "start": "electron src/main/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/spicyusername/stacks.git"
-    },
+    "repository": "https://github.com/spicyusername/stacks",
     "author": "Nick Curry",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/spicyusername/stacks/issues"
-    },
     "homepage": "https://github.com/spicyusername/stacks#readme",
     "dependencies": {
       "fixed-data-table": "^0.6.3"
@@ -104,6 +98,11 @@
       "react-dom": "^15.3.2",
       "react-dropzone": "^3.7.3",
       "redux": "^3.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/spicyusername/stacks/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "spicyusername___stacks.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:39.325Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:57.323Z"
+  "lastFetchedAt": "2017-10-23T23:12:38.397Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:57.323Z",
+  "archived": false
 }

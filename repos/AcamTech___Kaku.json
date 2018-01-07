@@ -178,16 +178,13 @@
   },
   "networkCount": 86,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Kaku",
     "version": "1.7.0",
     "description": "The next generation music client",
     "main": "bootup.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/EragonJ/Kaku"
-    },
+    "repository": "https://github.com/EragonJ/Kaku",
     "keywords": [
       "Kaku",
       "music",
@@ -196,9 +193,6 @@
     ],
     "author": "EragonJ <eragonj@eragonj.me>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/EragonJ/Kaku/issues"
-    },
     "homepage": "https://github.com/EragonJ/Kaku",
     "scripts": {
       "test": "./node_modules/mocha/bin/mocha -u tdd -t 5000 --reporter dot --compilers js:babel-core/register --require ./tests/unit/setup.js --harmony_arrow_functions 'tests/unit/*.test.js'",
@@ -276,6 +270,11 @@
       "yargs": "^3.32.0",
       "youtube-dl": "eragonJ/node-youtube-dl",
       "youtube-node": "eragonj/youtube-node"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/EragonJ/Kaku/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -324,6 +323,6 @@
   "svnUrl": "https://github.com/AcamTech/Kaku",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:32:52.954Z",
+  "lastFetchedAt": "2017-10-23T23:04:37.589Z",
   "packageLastFetchedAt": "2017-05-04T22:15:08.014Z"
 }

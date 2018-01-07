@@ -5,7 +5,7 @@
   "owner": {
     "login": "Wizcorp",
     "id": 592346,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/592346?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/592346?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Wizcorp",
     "htmlUrl": "https://github.com/Wizcorp",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Wizcorp",
     "id": 592346,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/592346?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/592346?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Wizcorp",
     "htmlUrl": "https://github.com/Wizcorp",
@@ -90,21 +90,20 @@
       "app3": "electron app3/index.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Wizcorp/electron-presentation.git"
-    },
+    "repository": "https://github.com/Wizcorp/electron-presentation",
     "keywords": [
       "electron"
     ],
     "author": "Marc Trudel <mtrudel@wizcorp.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Wizcorp/electron-presentation/issues"
-    },
     "homepage": "https://github.com/Wizcorp/electron-presentation#readme",
     "dependencies": {
       "electron-prebuilt": "^1.2.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Wizcorp/electron-presentation/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "Wizcorp___electron-presentation.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:11.273Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:25.830Z"
+  "lastFetchedAt": "2017-10-23T23:38:05.281Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:25.830Z",
+  "archived": false
 }

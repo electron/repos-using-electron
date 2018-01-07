@@ -50,7 +50,7 @@
   },
   "networkCount": 31,
   "subscribersCount": 11,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-with-express",
     "description": "Demonstrates spawning Express from Electron and using it to serve content",
@@ -71,7 +71,8 @@
       "lodash": "^4.17.3",
       "request": "^2.75.0",
       "strip": "^3.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/frankhale/electron-with-express",
@@ -118,6 +119,6 @@
   },
   "filename": "frankhale___electron-with-express.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:59:14.117Z",
+  "lastFetchedAt": "2017-10-23T23:03:30.834Z",
   "packageLastFetchedAt": "2017-05-04T22:05:00.496Z"
 }

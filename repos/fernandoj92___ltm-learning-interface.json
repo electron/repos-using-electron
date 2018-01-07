@@ -5,7 +5,7 @@
   "owner": {
     "login": "fernandoj92",
     "id": 6659056,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6659056?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6659056?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fernandoj92",
     "htmlUrl": "https://github.com/fernandoj92",
@@ -85,10 +85,7 @@
       "pack": "build --dir",
       "dist": "build -mwl --x64 --ia32"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fernandoj92/ltm-learning-interface.git"
-    },
+    "repository": "https://github.com/fernandoj92/ltm-learning-interface",
     "keywords": [
       "Electron",
       "LTM",
@@ -97,9 +94,6 @@
     "author": "Fernando José Rodríguez Sánchez <fernandoj92@gmail.com>",
     "license": "Apache 2.0",
     "homepage": "https://github.com/fernandoj92/ltm-learning-interface#readme",
-    "bugs": {
-      "url": "https://github.com/fernandoj92/ltm-learning-interface/issues"
-    },
     "dependencies": {
       "@angular/common": "^2.0.0",
       "@angular/compiler": "^2.0.0",
@@ -154,8 +148,13 @@
         "background": "resources/osx/dmg-background.png"
       }
     },
-    "directories": {
-      "buildResources": "resources"
+    "other": {
+      "directories": {
+        "buildResources": "resources"
+      },
+      "bugs": {
+        "url": "https://github.com/fernandoj92/ltm-learning-interface/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   },
   "filename": "fernandoj92___ltm-learning-interface.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:36.462Z",
-  "packageLastFetchedAt": "2017-05-05T06:35:47.824Z"
+  "lastFetchedAt": "2017-10-23T22:14:16.282Z",
+  "packageLastFetchedAt": "2017-05-05T06:35:47.824Z",
+  "archived": false
 }

@@ -66,18 +66,14 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T18:13:27.617Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:07:37.337Z",
   "packageJSON": {
     "name": "cucp-ember-electron",
     "version": "0.0.0",
     "description": "Small description for cucp-ember-electron goes here",
     "license": "MIT",
     "author": "",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "repository": "",
     "scripts": {
       "build": "ember build",
@@ -172,6 +168,12 @@
         "OriginalFilename": null,
         "ProductName": null,
         "InternalName": null
+      }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
       }
     }
   },

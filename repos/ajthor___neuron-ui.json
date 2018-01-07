@@ -5,7 +5,7 @@
   "owner": {
     "login": "ajthor",
     "id": 3485859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3485859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3485859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ajthor",
     "htmlUrl": "https://github.com/ajthor",
@@ -81,15 +81,9 @@
       "start": "gulp build && electron .",
       "test": "gulp test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ajthor/neuron-ui.git"
-    },
+    "repository": "https://github.com/ajthor/neuron-ui",
     "author": "",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/ajthor/neuron-ui/issues"
-    },
     "homepage": "https://github.com/ajthor/neuron-ui#readme",
     "dependencies": {
       "async": "^2.0.0",
@@ -136,6 +130,11 @@
     "xo": {
       "esnext": true,
       "space": 2
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ajthor/neuron-ui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "ajthor___neuron-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:19.680Z",
-  "packageLastFetchedAt": "2017-05-05T15:35:16.264Z"
+  "lastFetchedAt": "2017-10-24T02:02:50.184Z",
+  "packageLastFetchedAt": "2017-05-05T15:35:16.264Z",
+  "archived": false
 }

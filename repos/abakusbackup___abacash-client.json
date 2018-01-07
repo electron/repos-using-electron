@@ -5,7 +5,7 @@
   "owner": {
     "login": "abakusbackup",
     "id": 1415303,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1415303?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1415303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/abakusbackup",
     "htmlUrl": "https://github.com/abakusbackup",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "abakusbackup",
     "id": 1415303,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1415303?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1415303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/abakusbackup",
     "htmlUrl": "https://github.com/abakusbackup",
@@ -101,13 +101,7 @@
       "url": "https://github.com/abakusbackup"
     },
     "homepage": "https://github.com/abakusbackup/abacash-client#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/abakusbackup/abacash-client.git"
-    },
-    "bugs": {
-      "url": "https://github.com/abakusbackup/abacash-client/issues"
-    },
+    "repository": "https://github.com/abakusbackup/abacash-client",
     "main": "main.js",
     "scripts": {
       "flow": "flow --show-all-errors",
@@ -155,10 +149,6 @@
           "AppImage"
         ]
       }
-    },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
     },
     "bin": {
       "electron": "./node_modules/.bin/electron"
@@ -253,6 +243,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/abakusbackup/abacash-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -280,6 +279,7 @@
   },
   "filename": "abakusbackup___abacash-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:45:42.546Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:34.440Z"
+  "lastFetchedAt": "2017-10-23T22:33:06.254Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:34.440Z",
+  "archived": false
 }

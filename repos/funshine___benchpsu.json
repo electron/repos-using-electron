@@ -5,7 +5,7 @@
   "owner": {
     "login": "funshine",
     "id": 5906382,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5906382?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5906382?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/funshine",
     "htmlUrl": "https://github.com/funshine",
@@ -79,14 +79,8 @@
       "webpack": "./node_modules/.bin/webpack --watch",
       "clean": "rm -rf node_modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/funshine/benchpsu.git"
-    },
+    "repository": "https://github.com/funshine/benchpsu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/funshine/benchpsu/issues"
-    },
     "keywords": [
       "benchPSU",
       "calibration",
@@ -124,6 +118,11 @@
       "style-loader": "^0.13.1",
       "webpack": "^1.13.1",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/funshine/benchpsu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "funshine___benchpsu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:08.874Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:52.410Z"
+  "lastFetchedAt": "2017-10-24T02:04:37.899Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:52.410Z",
+  "archived": false
 }

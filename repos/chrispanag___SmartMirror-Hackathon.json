@@ -5,7 +5,7 @@
   "owner": {
     "login": "chrispanag",
     "id": 11526494,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11526494?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11526494?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chrispanag",
     "htmlUrl": "https://github.com/chrispanag",
@@ -75,10 +75,7 @@
       "start": "electron main.js ",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
@@ -87,9 +84,6 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "angular-i18n": "^1.5.0",
@@ -102,6 +96,11 @@
       "morgan": "~1.2.2",
       "ifttt": "*",
       "moment": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "filename": "chrispanag___SmartMirror-Hackathon.json",
   "sourceRepo": "evancohen/smart-mirror",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:24:00.919Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:38.286Z"
+  "lastFetchedAt": "2017-10-24T00:20:55.193Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:38.286Z",
+  "archived": false
 }

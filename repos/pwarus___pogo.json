@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pokemon-go-map",
     "description": "Electron wrapper for PokemonGo-Map",
@@ -76,7 +76,8 @@
       "grunt-contrib-compress": "*",
       "grunt-execute": "*",
       "grunt-shell": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/pwarus/pogo",
@@ -124,6 +125,6 @@
   "filename": "pwarus___pogo.json",
   "sourceRepo": "mchristopher/PokemonGo-DesktopMap",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:43.157Z",
+  "lastFetchedAt": "2017-10-23T23:03:37.090Z",
   "packageLastFetchedAt": "2017-05-05T15:12:13.732Z"
 }

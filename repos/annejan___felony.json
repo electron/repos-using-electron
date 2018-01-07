@@ -164,7 +164,7 @@
   },
   "networkCount": 114,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "felony",
     "productName": "Felony",
@@ -303,7 +303,8 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 404,
   "firstCommit": {
@@ -351,6 +352,6 @@
   "svnUrl": "https://github.com/annejan/felony",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:30:54.864Z",
+  "lastFetchedAt": "2017-10-23T23:10:39.344Z",
   "packageLastFetchedAt": "2017-05-05T14:24:46.081Z"
 }

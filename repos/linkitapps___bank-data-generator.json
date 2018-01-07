@@ -5,7 +5,7 @@
   "owner": {
     "login": "linkitapps",
     "id": 4284401,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4284401?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4284401?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/linkitapps",
     "htmlUrl": "https://github.com/linkitapps",
@@ -91,7 +91,8 @@
       "build": "electron-packager . BankDataGenerator --app-version=0.1.0 --out=builds --ignore='^/builds$' --platform=win32 --arch=ia32 --version-string.CompanyName=LinkIt --version-string.LegalCopyright=\"Copyright (C) 2016 My Company Ltd\" --version-string.FileDescription=BankDataGenerator --version-string.OriginalFilename=\"BankDataGenerator.exe\" --version-string.InternalName=BankDataGenerator --version-string.ProductName=BankDataGenerator --version-string.ProductVersion=0.1.0 --asar=true --overwrite",
       "installer": "electron-installer-squirrel-windows ./builds/BankDataGenerator-win32-ia32 --out=./dist --overwrite --authors=LinkIt --debug=true",
       "********************* comment *****************************": "electron-installer-squirrel-windows ./builds/BankDataGenerator-win32-ia32 --out=./dist --overwrite --authors=LinkIt --debug=true --icon_url=./resources/favicon.ico  --setup_icon=./resources/favicon.ico 아이콘 url은 url로만 사용"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +119,7 @@
   },
   "filename": "linkitapps___bank-data-generator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:22:07.650Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:22.588Z"
+  "lastFetchedAt": "2017-10-23T22:25:16.692Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:22.588Z",
+  "archived": false
 }

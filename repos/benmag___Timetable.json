@@ -5,7 +5,7 @@
   "owner": {
     "login": "benmag",
     "id": 4386560,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4386560?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4386560?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/benmag",
     "htmlUrl": "https://github.com/benmag",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/benmag/Timetable/downloads",
   "deploymentsUrl": "https://api.github.com/repos/benmag/Timetable/deployments",
   "createdAt": "2014-05-15T07:10:12.000Z",
-  "updatedAt": "2017-04-19T11:49:52.000Z",
+  "updatedAt": "2017-10-18T10:16:53.000Z",
   "pushedAt": "2017-02-21T10:30:59.000Z",
   "gitUrl": "git://github.com/benmag/Timetable.git",
   "sshUrl": "git@github.com:benmag/Timetable.git",
   "cloneUrl": "https://github.com/benmag/Timetable.git",
   "svnUrl": "https://github.com/benmag/Timetable",
-  "homepage": null,
+  "homepage": "",
   "size": 9980,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 9,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,15 +79,9 @@
       "dist:win32": "build --platform win32 --arch ia32",
       "dist:win64": "build --platform win32 --arch x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/benmag/Timetable.git"
-    },
+    "repository": "https://github.com/benmag/Timetable",
     "author": "Ben M, Dave A & Andrew C",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/benmag/Timetable/issues"
-    },
     "homepage": "https://github.com/benmag/Timetable#readme",
     "build": {
       "app-bundle-id": "qut.timetable.app",
@@ -98,6 +92,11 @@
       "electron-builder": "^4.2.3",
       "electron-packager": "^7.0.3",
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/benmag/Timetable/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "benmag___Timetable.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:21:55.574Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:49.467Z"
+  "lastFetchedAt": "2017-10-23T22:28:14.066Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:49.467Z",
+  "archived": false
 }

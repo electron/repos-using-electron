@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "network-file-monitor",
     "productName": "NetworkFileMonitor",
@@ -108,7 +108,8 @@
     "devDependencies": {
       "electron-packager": "^4.1.2",
       "electron-prebuilt": "^0.27.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -156,6 +157,6 @@
   "svnUrl": "https://github.com/MirumSG/main-repo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:26:54.249Z",
+  "lastFetchedAt": "2017-10-23T23:10:47.341Z",
   "packageLastFetchedAt": "2017-05-04T22:27:46.861Z"
 }

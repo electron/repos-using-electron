@@ -5,7 +5,7 @@
   "owner": {
     "login": "cyvvilek84",
     "id": 4751307,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4751307?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4751307?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cyvvilek84",
     "htmlUrl": "https://github.com/cyvvilek84",
@@ -74,10 +74,7 @@
       "start": "electron main.js",
       "dev": "concurrently --kill-others \"webpack -w\" \"npm run start\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cyvvilek84/electron-mailing-app.git"
-    },
+    "repository": "https://github.com/cyvvilek84/electron-mailing-app",
     "keywords": [
       "Electron"
     ],
@@ -93,7 +90,8 @@
       "react-dom": "^0.14.7",
       "react-router": "^2.0.1",
       "webpack": "^1.12.14"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,7 @@
   },
   "filename": "cyvvilek84___electron-mailing-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:04.027Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:58.161Z"
+  "lastFetchedAt": "2017-10-23T23:44:56.911Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:58.161Z",
+  "archived": false
 }

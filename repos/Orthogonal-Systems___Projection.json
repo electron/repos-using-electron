@@ -84,7 +84,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Projection",
     "version": "0.1.0",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Orthogonal-Systems/Projection.git"
-    },
+    "repository": "https://github.com/Orthogonal-Systems/Projection",
     "keywords": [
       "Projection",
       "Origin",
@@ -105,9 +102,6 @@
     ],
     "author": "Matthew Ebert",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Orthogonal-Systems/Projection/issues"
-    },
     "homepage": "https://github.com/Orthogonal-Systems/Projection#readme",
     "dependencies": {
       "zmq": "~2.15.3",
@@ -116,6 +110,11 @@
     },
     "devDependencies": {
       "electron-prebuilt": "~1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Orthogonal-Systems/Projection/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,6 @@
   "filename": "Orthogonal-Systems___Projection.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:59:16.269Z",
+  "lastFetchedAt": "2017-10-23T23:05:28.821Z",
   "packageLastFetchedAt": "2017-05-05T15:14:37.043Z"
 }

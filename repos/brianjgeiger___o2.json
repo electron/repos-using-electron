@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "O2",
     "version": "0.0.0",
@@ -78,7 +78,8 @@
       "build-win": "electron-packager . o2 --platform=win32 --arch=all --version=0.34.1 --out=build/Release/ --overwrite --ignore='./build/Release$' ",
       "start": "electron .",
       "test": "./node_modules/.bin/mocha --reporter spec"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/brianjgeiger/o2",
@@ -125,6 +126,6 @@
   },
   "filename": "brianjgeiger___o2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:37.381Z",
+  "lastFetchedAt": "2017-10-23T22:59:29.845Z",
   "packageLastFetchedAt": "2017-05-05T01:31:51.262Z"
 }

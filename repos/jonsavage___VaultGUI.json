@@ -5,7 +5,7 @@
   "owner": {
     "login": "jonsavage",
     "id": 4032410,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4032410?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4032410?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jonsavage",
     "htmlUrl": "https://github.com/jonsavage",
@@ -20,12 +20,12 @@
   "description": "A cross-platform desktop app for interacting with a Hashicorp Vault",
   "fork": false,
   "createdAt": "2016-05-20T19:09:55.000Z",
-  "updatedAt": "2017-03-23T13:28:03.000Z",
+  "updatedAt": "2017-08-18T06:40:55.000Z",
   "pushedAt": "2017-04-15T21:48:21.000Z",
   "homepage": "",
   "size": 187483,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,10 +61,7 @@
       "package:linux": "electron-packager . --overwrite --platform=linux --arch=x64 --prune=true --out=dist",
       "create-installer:linux": "electron-installer-debian --config installer_config/debian.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:jonsavage/VaultGUI.git"
-    },
+    "repository": "https://github.com/jonsavage/VaultGUI",
     "devDependencies": {
       "babel-cli": "^6.18.0",
       "babel-preset-es2015": "^6.18.0",
@@ -86,7 +83,8 @@
       "react-dom": "^15.4.2",
       "react-tap-event-plugin": "^2.0.1",
       "react-treebeard": "^1.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/jonsavage/VaultGUI",
@@ -133,6 +131,7 @@
   },
   "filename": "jonsavage___VaultGUI.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:33.798Z",
-  "packageLastFetchedAt": "2017-05-05T13:37:35.360Z"
+  "lastFetchedAt": "2017-10-23T22:10:23.540Z",
+  "packageLastFetchedAt": "2017-05-05T13:37:35.360Z",
+  "archived": false
 }

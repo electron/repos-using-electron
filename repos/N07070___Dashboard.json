@@ -5,7 +5,7 @@
   "owner": {
     "login": "N07070",
     "id": 2259999,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2259999?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2259999?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/N07070",
     "htmlUrl": "https://github.com/N07070",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/N07070/Dashboard/downloads",
   "deploymentsUrl": "https://api.github.com/repos/N07070/Dashboard/deployments",
   "createdAt": "2015-10-01T12:48:03.000Z",
-  "updatedAt": "2017-04-04T06:01:48.000Z",
+  "updatedAt": "2017-10-15T03:40:38.000Z",
   "pushedAt": "2016-03-05T17:10:53.000Z",
   "gitUrl": "git://github.com/N07070/Dashboard.git",
   "sshUrl": "git@github.com:N07070/Dashboard.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/N07070/Dashboard",
   "homepage": null,
   "size": 854,
-  "stargazersCount": 40,
-  "watchersCount": 40,
+  "stargazersCount": 45,
+  "watchersCount": 45,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 6,
+  "forksCount": 8,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 40,
+  "watchers": 45,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,18 +68,15 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 6,
-  "subscribersCount": 8,
+  "networkCount": 8,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "Dashboard",
     "version": "0.0.2",
     "description": " A small web dashboard for everything you need, at a glance. Free and Open-Source.",
     "main": "index.html",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/N07070/Dashboard.git"
-    },
+    "repository": "https://github.com/N07070/Dashboard",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron electron.js"
@@ -93,7 +90,8 @@
     "license": "GPL-v3",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,7 @@
   },
   "filename": "N07070___Dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:06:07.290Z",
-  "packageLastFetchedAt": "2017-05-05T15:05:02.736Z"
+  "lastFetchedAt": "2017-10-24T00:13:25.473Z",
+  "packageLastFetchedAt": "2017-05-05T15:05:02.736Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "lisaychuang",
     "id": 12424987,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12424987?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12424987?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lisaychuang",
     "htmlUrl": "https://github.com/lisaychuang",
@@ -80,19 +80,13 @@
       "start": "electron .",
       "build": "electron-packager . 'Fire Sale' --platform=all --arch=all --version=0.36.8"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stevekinney/firesale-tutorial.git"
-    },
+    "repository": "https://github.com/stevekinney/firesale-tutorial",
     "keywords": [
       "electron",
       "markdown"
     ],
     "author": "Steve Kinney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/stevekinney/firesale-tutorial/issues"
-    },
     "homepage": "https://github.com/stevekinney/firesale-tutorial#readme",
     "devDependencies": {
       "devtron": "^1.3.0",
@@ -103,6 +97,11 @@
     "dependencies": {
       "jquery": "^3.1.1",
       "marked": "^0.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stevekinney/firesale-tutorial/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "filename": "lisaychuang___electron-app.json",
   "sourceRepo": "stevekinney/firesale-tutorial",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:35:05.671Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:40.679Z"
+  "lastFetchedAt": "2017-10-23T22:11:37.775Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:40.679Z",
+  "archived": false
 }

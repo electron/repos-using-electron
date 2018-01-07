@@ -5,7 +5,7 @@
   "owner": {
     "login": "Infining",
     "id": 9121936,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9121936?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9121936?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Infining",
     "htmlUrl": "https://github.com/Infining",
@@ -83,15 +83,9 @@
       "webpack-test": "webpack --config webpack.test.js --progress --profile --colors --display-error-details --display-cached",
       "test": "karma start"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joaogarin/angular2-electron.git"
-    },
+    "repository": "https://github.com/joaogarin/angular2-electron",
     "author": "joaogarin <github@joaogarin.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/joaogarin/angular2-electron/issues"
-    },
     "homepage": "",
     "dependencies": {
       "@angular/http": "2.0.0-rc.1",
@@ -149,6 +143,11 @@
     "engines": {
       "node": ">= 4.2.1 <= 5",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/joaogarin/angular2-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -176,6 +175,7 @@
   },
   "filename": "Infining___svm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:27.025Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:28.537Z"
+  "lastFetchedAt": "2017-10-23T23:12:24.610Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:28.537Z",
+  "archived": false
 }

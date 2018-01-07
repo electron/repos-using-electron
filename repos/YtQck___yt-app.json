@@ -6,7 +6,7 @@
   "owner": {
     "login": "YtQck",
     "id": 23698805,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23698805?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23698805?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/YtQck",
     "htmlUrl": "https://github.com/YtQck",
@@ -72,7 +72,7 @@
   "organization": {
     "login": "YtQck",
     "id": 23698805,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/23698805?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/23698805?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/YtQck",
     "htmlUrl": "https://github.com/YtQck",
@@ -98,10 +98,7 @@
       "package": "electron-packager . Ytqck --platform=linux --arch=x64",
       "test": "yt"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/YtQck/yt-app.git"
-    },
+    "repository": "https://github.com/YtQck/yt-app",
     "keywords": [
       "YouTube",
       "Mini Player",
@@ -109,13 +106,15 @@
     ],
     "author": "midhruvjaink",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/YtQck/yt-app/issues"
-    },
     "homepage": "https://github.com/YtQck/yt-app#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/YtQck/yt-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:30.719Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:29.071Z"
+  "lastFetchedAt": "2017-10-24T00:14:04.221Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:29.071Z",
+  "archived": false
 }

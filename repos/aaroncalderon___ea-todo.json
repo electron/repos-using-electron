@@ -164,7 +164,7 @@
   },
   "networkCount": 24,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "eatodo",
     "description": "Simple TODO application built with Electron and AngularJS.",
@@ -216,7 +216,8 @@
     },
     "dependencies": {
       "winston": "^2.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -264,6 +265,6 @@
   "svnUrl": "https://github.com/aaroncalderon/ea-todo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:43:51.260Z",
+  "lastFetchedAt": "2017-10-23T23:06:05.834Z",
   "packageLastFetchedAt": "2017-05-05T17:36:55.907Z"
 }

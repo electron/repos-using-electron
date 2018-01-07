@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "expretron",
     "version": "0.3.0",
@@ -80,19 +80,13 @@
       "setup:jquery": "shx cp node_modules/materialize-css/node_modules/jquery/dist/jquery.min.js dist/public/vendor/jquery/jquery.min.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gasolin/expretron.git"
-    },
+    "repository": "https://github.com/gasolin/expretron",
     "keywords": [
       "electron",
       "express"
     ],
     "author": "Fred Lin",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gasolin/expretron/issues"
-    },
     "homepage": "https://github.com/gasolin/expretron#readme",
     "devDependencies": {
       "electron-builder": "^3.25.0",
@@ -108,6 +102,11 @@
     "build": {
       "app-bundle-id": "org.expretron.boilerplate",
       "app-category-type": "public.app-category.productivity"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gasolin/expretron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -155,6 +154,6 @@
   "svnUrl": "https://github.com/gasolin/expretron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:29:28.647Z",
+  "lastFetchedAt": "2017-10-23T23:04:37.361Z",
   "packageLastFetchedAt": "2017-05-04T22:27:35.793Z"
 }

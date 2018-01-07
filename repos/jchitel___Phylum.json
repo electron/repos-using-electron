@@ -5,7 +5,7 @@
   "owner": {
     "login": "jchitel",
     "id": 530108,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/530108?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/530108?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jchitel",
     "htmlUrl": "https://github.com/jchitel",
@@ -84,10 +84,7 @@
       "test": "mocha",
       "watch": "webpack --progress --colors --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jchitel/Phylum.git"
-    },
+    "repository": "https://github.com/jchitel/Phylum",
     "keywords": [
       "phylum",
       "file",
@@ -97,9 +94,6 @@
     ],
     "author": "jchitel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jchitel/Phylum/issues"
-    },
     "homepage": "https://github.com/jchitel/Phylum#readme",
     "dependencies": {
       "babel-polyfill": "^6.5.0",
@@ -138,6 +132,11 @@
       "sinon": "^1.17.3",
       "style-loader": "^0.13.0",
       "webpack": "^1.12.14"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jchitel/Phylum/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   },
   "filename": "jchitel___Phylum.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:04.417Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:26.452Z"
+  "lastFetchedAt": "2017-10-24T00:07:36.203Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:26.452Z",
+  "archived": false
 }

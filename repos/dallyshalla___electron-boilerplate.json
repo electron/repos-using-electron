@@ -5,7 +5,7 @@
   "owner": {
     "login": "dallyshalla",
     "id": 8506847,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8506847?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8506847?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dallyshalla",
     "htmlUrl": "https://github.com/dallyshalla",
@@ -74,10 +74,7 @@
       "build": "webpack --progress --profile --colors --display-error-details --display-cached",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/safex/vote.git"
-    },
+    "repository": "https://github.com/safex/vote",
     "keywords": [
       "Cryptographic",
       "Voting",
@@ -87,9 +84,6 @@
     ],
     "author": "Dallyshalla",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/safex/vote/issues"
-    },
     "homepage": "https://github.com/safex/vote#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8",
@@ -112,6 +106,11 @@
       "reflect-metadata": "0.1.2",
       "rxjs": "5.0.0-beta.6",
       "zone.js": "^0.6.12"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/safex/vote/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "dallyshalla___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:42:48.333Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:20.171Z"
+  "lastFetchedAt": "2017-10-23T23:38:25.284Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:20.171Z",
+  "archived": false
 }

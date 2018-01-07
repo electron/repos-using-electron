@@ -5,7 +5,7 @@
   "owner": {
     "login": "Perkovec",
     "id": 7426664,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7426664?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7426664?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Perkovec",
     "htmlUrl": "https://github.com/Perkovec",
@@ -77,15 +77,9 @@
       "build:dev": "rollup -c rollup.dev.js",
       "dev": "gulp dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Perkovec/PerkIDE.git"
-    },
+    "repository": "https://github.com/Perkovec/PerkIDE",
     "author": "Perkovec",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Perkovec/PerkIDE/issues"
-    },
     "homepage": "https://github.com/Perkovec/PerkIDE#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.14.0",
@@ -116,6 +110,11 @@
       "semver-compare": "^1.0.0",
       "vue": "^2.0.0-rc.4",
       "vuex": "^2.0.0-rc.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Perkovec/PerkIDE/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "Perkovec___PerkIDE.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:37:02.436Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:07.622Z"
+  "lastFetchedAt": "2017-10-24T00:13:23.692Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:07.622Z",
+  "archived": false
 }

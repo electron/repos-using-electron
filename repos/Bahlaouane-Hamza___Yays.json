@@ -50,7 +50,7 @@
   },
   "networkCount": 5,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "youtube-music-player",
     "productName": "Yays",
@@ -73,10 +73,8 @@
       "electron-packager": "^5.0.1"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Bahlaouane-Hamza/Yays"
-    }
+    "repository": "https://github.com/Bahlaouane-Hamza/Yays",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +121,6 @@
   "svnUrl": "https://github.com/Bahlaouane-Hamza/Yays",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:51:25.822Z",
+  "lastFetchedAt": "2017-10-23T22:58:00.869Z",
   "packageLastFetchedAt": "2017-05-05T17:13:36.023Z"
 }

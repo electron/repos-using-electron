@@ -5,7 +5,7 @@
   "owner": {
     "login": "keokilee",
     "id": 191770,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/191770?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/191770?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/keokilee",
     "htmlUrl": "https://github.com/keokilee",
@@ -66,10 +66,7 @@
       "test:watch": "npm run test:watch:browser",
       "test:watch:browser": "npm run test:browser -- --auto-watch --no-single-run"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/keokilee/fluidity-browser.git"
-    },
+    "repository": "https://github.com/keokilee/fluidity-browser",
     "author": "George Lee",
     "license": "ISC",
     "dependencies": {
@@ -141,7 +138,8 @@
       "webpack-dev-middleware": "^1.2.0",
       "webpack-hot-middleware": "^2.5.0",
       "webpack-sources": "^0.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/keokilee/fluidity-browser",
@@ -188,6 +186,7 @@
   },
   "filename": "keokilee___fluidity-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:18.827Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:40.763Z"
+  "lastFetchedAt": "2017-10-24T00:06:43.951Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:40.763Z",
+  "archived": false
 }

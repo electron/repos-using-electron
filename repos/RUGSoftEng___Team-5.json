@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 11,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "language-learning",
     "version": "1.0.0",
@@ -78,10 +78,7 @@
       "pretest": "jshint ./tests && jshint ./app",
       "test": "intern-client config=tests/internLocal"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/RUGSoftEng/Team-5"
-    },
+    "repository": "https://github.com/RUGSoftEng/Team-5",
     "keywords": [
       "language",
       "learning",
@@ -113,7 +110,8 @@
       "sqlite": "0.0.4",
       "underscore": "^1.8.3",
       "xlsx": "^0.8.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/RUGSoftEng/Team-5",
@@ -160,6 +158,6 @@
   },
   "filename": "RUGSoftEng___Team-5.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:36.414Z",
+  "lastFetchedAt": "2017-10-23T23:07:09.096Z",
   "packageLastFetchedAt": "2017-05-05T14:50:46.333Z"
 }

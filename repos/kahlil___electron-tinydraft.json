@@ -5,7 +5,7 @@
   "owner": {
     "login": "kahlil",
     "id": 104712,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/104712?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/104712?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kahlil",
     "htmlUrl": "https://github.com/kahlil",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-08-30T15:44:48.000Z",
   "updatedAt": "2016-09-08T06:02:12.000Z",
-  "pushedAt": "2016-09-13T08:27:25.000Z",
+  "pushedAt": "2017-07-25T08:21:23.000Z",
   "homepage": null,
-  "size": 26,
+  "size": 27,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "CSS",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -64,16 +64,10 @@
       "scss": "node-sass scss --output ./app",
       "scss:watch": "node-sass --watch scss --output ./app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kahlil/electron-tinydraft"
-    },
+    "repository": "https://github.com/kahlil/electron-tinydraft",
     "keywords": [],
     "author": "Kahlil Lechelt",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "devtron": "^1.3.0",
@@ -122,6 +116,11 @@
       "plugins": [
         "transform-react-jsx"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -169,6 +168,7 @@
   },
   "filename": "kahlil___electron-tinydraft.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:32:19.980Z",
-  "packageLastFetchedAt": "2017-05-05T11:36:58.670Z"
+  "lastFetchedAt": "2017-10-23T21:49:27.381Z",
+  "packageLastFetchedAt": "2017-05-05T11:36:58.670Z",
+  "archived": false
 }

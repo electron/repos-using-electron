@@ -5,7 +5,7 @@
   "owner": {
     "login": "atom",
     "id": 1089146,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1089146?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1089146?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/atom",
     "htmlUrl": "https://github.com/atom",
@@ -20,21 +20,21 @@
   "description": "Builds components using a simple and explicit API around virtual-dom",
   "fork": false,
   "createdAt": "2015-07-14T23:22:29.000Z",
-  "updatedAt": "2017-04-26T12:33:48.000Z",
-  "pushedAt": "2017-04-20T11:22:50.000Z",
+  "updatedAt": "2017-10-14T07:34:51.000Z",
+  "pushedAt": "2017-08-25T14:21:10.000Z",
   "homepage": "",
-  "size": 259,
-  "stargazersCount": 171,
-  "watchersCount": 171,
+  "size": 262,
+  "stargazersCount": 369,
+  "watchersCount": 369,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 18,
+  "forksCount": 29,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 171,
+  "watchers": 369,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "atom",
     "id": 1089146,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1089146?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1089146?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/atom",
     "htmlUrl": "https://github.com/atom",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/atom/received_events",
     "type": "Organization"
   },
-  "networkCount": 18,
-  "subscribersCount": 20,
+  "networkCount": 29,
+  "subscribersCount": 25,
   "status": 200,
   "packageJSON": {
     "name": "etch",
@@ -77,18 +77,12 @@
       "prepublish": "npm run standard",
       "standard": "node_modules/.bin/standard --recursive lib test && echo Linting passed"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/atom/etch.git"
-    },
+    "repository": "https://github.com/atom/etch",
     "keywords": [
       "virtual-dom dom view element custom-elements dom-diff atom electron"
     ],
     "author": "Nathan Sobo <nathan@github.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/etch/issues"
-    },
     "homepage": "https://github.com/atom/etch",
     "devDependencies": {
       "babel": "^5.8.33",
@@ -111,6 +105,11 @@
         "requestAnimationFrame",
         "SVGSVGElement"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/etch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   "svnUrl": "https://github.com/atom/etch",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:14.958Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:39.731Z"
+  "lastFetchedAt": "2017-10-23T22:16:22.776Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:39.731Z",
+  "archived": false
 }

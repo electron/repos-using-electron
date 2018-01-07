@@ -50,7 +50,7 @@
   },
   "networkCount": 26,
   "subscribersCount": 14,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-debug",
     "version": "1.1.0",
@@ -96,7 +96,8 @@
       "rules": {
         "import/no-extraneous-dependencies": "off"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +144,6 @@
   "svnUrl": "https://github.com/sindresorhus/electron-debug",
   "hasProjects": false,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T09:03:05.521Z",
+  "lastFetchedAt": "2017-10-23T23:03:08.582Z",
   "packageLastFetchedAt": "2017-05-05T15:13:26.865Z"
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mDesign10",
     "productName": "mDesign10",
@@ -88,7 +88,8 @@
       "postinstall": "install-app-deps",
       "pack": "build",
       "dist": "build"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +116,6 @@
   },
   "filename": "leewalkergm___test-electron-shell.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:04.390Z",
+  "lastFetchedAt": "2017-10-23T23:06:23.571Z",
   "packageLastFetchedAt": "2017-05-05T15:33:43.031Z"
 }

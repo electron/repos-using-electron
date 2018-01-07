@@ -5,7 +5,7 @@
   "owner": {
     "login": "beldar",
     "id": 680743,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/680743?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/680743?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/beldar",
     "htmlUrl": "https://github.com/beldar",
@@ -20,12 +20,12 @@
   "description": "Electron uploader",
   "fork": false,
   "createdAt": "2016-04-18T17:14:16.000Z",
-  "updatedAt": "2016-04-18T17:18:30.000Z",
+  "updatedAt": "2017-07-21T04:07:32.000Z",
   "pushedAt": "2016-08-20T14:22:26.000Z",
   "homepage": null,
   "size": 458,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -60,10 +60,7 @@
     "scripts": {
       "start": "nodemon --watch main.js --watch frontend/app.js --exec 'electron' main.js & gulp sass:watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/beldar/node-uploader.git"
-    },
+    "repository": "https://github.com/beldar/node-uploader",
     "author": "Marti Planellas",
     "license": "CC0-1.0",
     "devDependencies": {
@@ -81,7 +78,8 @@
       "humanize": "0.0.9",
       "knox": "^0.9.2",
       "node-dir": "^0.1.11"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +127,7 @@
   "svnUrl": "https://github.com/beldar/node-uploader",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:13:23.554Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:58.867Z"
+  "lastFetchedAt": "2017-10-24T00:08:18.962Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:58.867Z",
+  "archived": false
 }

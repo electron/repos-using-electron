@@ -5,7 +5,7 @@
   "owner": {
     "login": "danawoodman",
     "id": 157695,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/157695?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/157695?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/danawoodman",
     "htmlUrl": "https://github.com/danawoodman",
@@ -21,7 +21,7 @@
   "fork": false,
   "createdAt": "2015-11-18T02:14:59.000Z",
   "updatedAt": "2017-03-28T18:52:06.000Z",
-  "pushedAt": "2015-11-18T21:59:10.000Z",
+  "pushedAt": "2017-05-15T23:13:15.000Z",
   "homepage": "",
   "size": 68,
   "stargazersCount": 3,
@@ -31,9 +31,9 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
-  "openIssuesCount": 5,
-  "openIssues": 5,
+  "forksCount": 2,
+  "openIssuesCount": 6,
+  "openIssues": 6,
   "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -56,10 +56,7 @@
       "start": "npm run transpile && npm run build",
       "transpile": "babel -o src/build.js src/web.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danawoodman/tint.git"
-    },
+    "repository": "https://github.com/danawoodman/tint",
     "keywords": [
       "color",
       "picker",
@@ -81,9 +78,6 @@
     ],
     "author": "Dana Woodman <dana@danawoodman.com> (http://danawoodman.com/)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/danawoodman/tint/issues"
-    },
     "homepage": "https://github.com/danawoodman/tint#readme",
     "devDependencies": {
       "babel-cli": "6.1.18",
@@ -99,6 +93,11 @@
       "react": "0.14.2",
       "react-color": "1.2.1",
       "react-dom": "0.14.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/danawoodman/tint/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "svnUrl": "https://github.com/danawoodman/tint",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:08:12.287Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:44.512Z"
+  "lastFetchedAt": "2017-10-24T00:20:27.962Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:44.512Z",
+  "archived": false
 }

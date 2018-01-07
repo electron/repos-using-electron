@@ -5,7 +5,7 @@
   "owner": {
     "login": "app-frame",
     "id": 16915043,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16915043?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16915043?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/app-frame",
     "htmlUrl": "https://github.com/app-frame",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "app-frame",
     "id": 16915043,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16915043?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16915043?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/app-frame",
     "htmlUrl": "https://github.com/app-frame",
@@ -94,10 +94,7 @@
       "prestart": "npm install && bower install",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/app-frame/app-frame-electron-template.git"
-    },
+    "repository": "https://github.com/app-frame/app-frame-electron-template",
     "keywords": [
       "app-frame",
       "Electron",
@@ -107,13 +104,15 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/app-frame/app-frame-electron-template/issues"
-    },
     "homepage": "https://github.com/app-frame/app-frame-electron-template#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.7",
       "bower": "^1.7.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/app-frame/app-frame-electron-template/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "app-frame___app-frame-electron-template.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:17:18.566Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:21.113Z"
+  "lastFetchedAt": "2017-10-23T22:52:28.150Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:21.113Z",
+  "archived": false
 }

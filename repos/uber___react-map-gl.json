@@ -84,7 +84,7 @@
   },
   "networkCount": 195,
   "subscribersCount": 2220,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-map-gl",
     "description": "A React wrapper for MapboxGL-js and overlay API.",
@@ -96,10 +96,7 @@
       "react-mapbox-gl",
       "react mapbox"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/uber/react-map-gl.git"
-    },
+    "repository": "https://github.com/uber/react-map-gl",
     "license": "MIT",
     "main": "dist/index.js",
     "module": "dist-es6/index.js",
@@ -164,7 +161,8 @@
     "engines": {
       "node": ">= 4",
       "npm": ">= 3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -191,6 +189,6 @@
   },
   "filename": "uber___react-map-gl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:55.582Z",
+  "lastFetchedAt": "2017-10-23T22:57:21.083Z",
   "packageLastFetchedAt": "2017-05-05T14:47:33.333Z"
 }

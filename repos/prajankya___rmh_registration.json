@@ -5,7 +5,7 @@
   "owner": {
     "login": "prajankya",
     "id": 3451708,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3451708?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3451708?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prajankya",
     "htmlUrl": "https://github.com/prajankya",
@@ -81,10 +81,7 @@
       "dev": "DEBUG=myServer nodemon index.js",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/prajankya/rmh_registration.git"
-    },
+    "repository": "https://github.com/prajankya/rmh_registration",
     "keywords": [
       "Robot",
       "Makers",
@@ -94,9 +91,6 @@
     ],
     "author": "Prajankya",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/prajankya/rmh_registration/issues"
-    },
     "homepage": "https://github.com/prajankya/rmh_registration#readme",
     "dependencies": {
       "adm-zip": "^0.4.7",
@@ -111,6 +105,11 @@
       "electron-packager": "^8.0.0",
       "electron-prebuilt": "^1.4.1",
       "nodemon": "^1.10.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/prajankya/rmh_registration/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "prajankya___rmh_registration.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:44:58.613Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:06.656Z"
+  "lastFetchedAt": "2017-10-23T21:43:55.821Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:06.656Z",
+  "archived": false
 }

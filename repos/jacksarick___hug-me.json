@@ -5,7 +5,7 @@
   "owner": {
     "login": "jacksarick",
     "id": 6750720,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6750720?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6750720?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jacksarick",
     "htmlUrl": "https://github.com/jacksarick",
@@ -74,20 +74,19 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jacksarick/hug-me.git"
-    },
+    "repository": "https://github.com/jacksarick/hug-me",
     "author": "Jack Sarick, Matthew Wang, Simon Guo",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jacksarick/hug-me/issues"
-    },
     "homepage": "http://doyouwanttohug.me",
     "dependencies": {
       "chart.js": "^2.3.0",
       "electron": "^1.4.3",
       "serialport-js": "^0.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jacksarick/hug-me/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,7 @@
   },
   "filename": "jacksarick___hug-me.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:05:36.939Z",
-  "packageLastFetchedAt": "2017-05-04T22:31:44.336Z"
+  "lastFetchedAt": "2017-10-24T02:04:29.642Z",
+  "packageLastFetchedAt": "2017-05-04T22:31:44.336Z",
+  "archived": false
 }

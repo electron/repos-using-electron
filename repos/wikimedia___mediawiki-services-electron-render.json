@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-render-service",
     "version": "0.10.0",
@@ -109,10 +109,7 @@
     ],
     "author": "Mihkel Sokk <mihkelsokk@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/msokk/electron-render-service.git"
-    },
+    "repository": "https://github.com/msokk/electron-render-service",
     "dependencies": {
       "async": "^2.1.5",
       "electron": "^1.6.2",
@@ -135,7 +132,8 @@
       "dependencies": {
         "_all": []
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -163,6 +161,6 @@
   "filename": "wikimedia___mediawiki-services-electron-render.json",
   "sourceRepo": "msokk/electron-render-service",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:20.082Z",
+  "lastFetchedAt": "2017-10-23T23:04:31.319Z",
   "packageLastFetchedAt": "2017-05-04T22:18:06.442Z"
 }

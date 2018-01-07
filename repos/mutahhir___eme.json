@@ -5,7 +5,7 @@
   "owner": {
     "login": "mutahhir",
     "id": 573531,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/573531?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/573531?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mutahhir",
     "htmlUrl": "https://github.com/mutahhir",
@@ -54,10 +54,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mutahhir/eme.git"
-    },
+    "repository": "https://github.com/mutahhir/eme",
     "keywords": [
       "markdown",
       "electron",
@@ -65,9 +62,6 @@
     ],
     "author": "Mutahhir Ali Hayat <mutahhir.ali@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mutahhir/eme/issues"
-    },
     "homepage": "https://github.com/mutahhir/eme#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.2",
@@ -95,6 +89,11 @@
         "babel": "npm:babel-core@^5.8.24",
         "babel-runtime": "npm:babel-runtime@^5.8.24",
         "core-js": "npm:core-js@^1.1.4"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mutahhir/eme/issues"
       }
     }
   },
@@ -143,6 +142,7 @@
   "svnUrl": "https://github.com/mutahhir/eme",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:46:13.088Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:33.739Z"
+  "lastFetchedAt": "2017-10-24T00:20:59.445Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:33.739Z",
+  "archived": false
 }

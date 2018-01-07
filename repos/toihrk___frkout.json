@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "frkout",
     "version": "1.0.0",
@@ -75,10 +75,7 @@
       "build": "./node_modules/.bin/electron-packager . frkout --platform=darwin --arch=x64 --version=0.36.2 --ignore='node_modules/(electron-packager|electron-prebuilt)'"
     },
     "author": "toihrk",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/toihrk/frkout.git"
-    },
+    "repository": "https://github.com/toihrk/frkout",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "^5.2.0",
@@ -87,7 +84,8 @@
     "dependencies": {
       "applescript": "^1.0.0",
       "menubar": "^3.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +112,6 @@
   },
   "filename": "toihrk___frkout.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:32.099Z",
+  "lastFetchedAt": "2017-10-23T22:57:30.817Z",
   "packageLastFetchedAt": "2017-05-04T22:05:11.518Z"
 }

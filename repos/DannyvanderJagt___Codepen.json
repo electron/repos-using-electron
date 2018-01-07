@@ -1,5 +1,5 @@
 {
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Codepen",
     "productName": "Codepen",
@@ -28,9 +28,6 @@
       "gulp-sass": "^2.3.2",
       "gulp-sequence": "^0.4.6",
       "through2": "^2.0.1"
-    },
-    "directories": {
-      "output": "./dist/0.0.1"
     },
     "build": {
       "appId": "com.codepen.app",
@@ -66,6 +63,11 @@
             "path": "Codepen.app"
           }
         ]
+      }
+    },
+    "other": {
+      "directories": {
+        "output": "./dist/0.0.1"
       }
     }
   },
@@ -137,6 +139,6 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "lastFetchedAt": "2017-05-04T05:03:18.276Z",
+  "lastFetchedAt": "2017-10-23T23:07:01.589Z",
   "packageLastFetchedAt": "2017-05-04T22:38:56.972Z"
 }

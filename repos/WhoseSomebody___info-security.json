@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-with-express",
     "description": "Demonstrates spawning Express from Electron and using it to serve content",
@@ -91,7 +91,8 @@
       "lodash": "^4.13.1",
       "request": "^2.72.0",
       "strip": "^3.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +120,6 @@
   "filename": "WhoseSomebody___info-security.json",
   "sourceRepo": "frankhale/electron-with-express",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:19.979Z",
+  "lastFetchedAt": "2017-10-23T23:07:59.583Z",
   "packageLastFetchedAt": "2017-05-05T17:18:44.034Z"
 }

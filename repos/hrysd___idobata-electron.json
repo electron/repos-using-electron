@@ -50,7 +50,7 @@
   },
   "networkCount": 7,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "idobata-electron",
     "version": "0.7.0",
@@ -66,7 +66,8 @@
     "devDependencies": {
       "electron-packager": "8.5.0",
       "electron": "1.4.14"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -113,6 +114,6 @@
   "svnUrl": "https://github.com/hrysd/idobata-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:05:25.750Z",
+  "lastFetchedAt": "2017-10-23T23:02:31.829Z",
   "packageLastFetchedAt": "2017-05-05T01:26:35.718Z"
 }

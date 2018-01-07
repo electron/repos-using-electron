@@ -5,7 +5,7 @@
   "owner": {
     "login": "akoskaaa",
     "id": 4692150,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4692150?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4692150?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/akoskaaa",
     "htmlUrl": "https://github.com/akoskaaa",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "./node_modules/electron-prebuilt/dist/Electron.app/Contents/MacOS/Electron . && watchify app/src/main.jsx -v -t [ babelify --presets [ react ] ] -o app/js/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/akoskaaa/feeder.git"
-    },
+    "repository": "https://github.com/akoskaaa/feeder",
     "author": "hoch.akos@gmail.com",
     "license": "MIT",
     "homepage": "https://github.com/akoskaaa/feeder",
@@ -79,7 +76,8 @@
       "typescript": "^1.8.9",
       "watchify": "^3.7.0",
       "xml2json": "^0.9.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,7 @@
   "svnUrl": "https://github.com/akoskaaa/feeder",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:27:04.474Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:16.757Z"
+  "lastFetchedAt": "2017-10-24T00:17:05.970Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:16.757Z",
+  "archived": false
 }

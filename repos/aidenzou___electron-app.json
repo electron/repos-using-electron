@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-app",
     "version": "0.0.1",
@@ -73,21 +73,20 @@
     "scripts": {
       "start": "electron ./main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aidenzou/electron-app.git"
-    },
+    "repository": "https://github.com/aidenzou/electron-app",
     "keywords": [
       "Electron"
     ],
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/aidenzou/electron-app/issues"
-    },
     "homepage": "https://github.com/aidenzou/electron-app#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/aidenzou/electron-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -115,6 +114,6 @@
   },
   "filename": "aidenzou___electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:45.857Z",
+  "lastFetchedAt": "2017-10-23T23:08:36.096Z",
   "packageLastFetchedAt": "2017-05-05T14:58:44.557Z"
 }

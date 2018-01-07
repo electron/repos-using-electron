@@ -5,7 +5,7 @@
   "owner": {
     "login": "ToasterLab",
     "id": 25663165,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/25663165?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/25663165?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ToasterLab",
     "htmlUrl": "https://github.com/ToasterLab",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/ToasterLab/GreySky",
-  "description": null,
+  "description": "well, this is crap",
   "fork": false,
   "url": "https://api.github.com/repos/ToasterLab/GreySky",
   "forksUrl": "https://api.github.com/repos/ToasterLab/GreySky/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/ToasterLab/GreySky/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ToasterLab/GreySky/deployments",
   "createdAt": "2016-11-05T22:39:53.000Z",
-  "updatedAt": "2017-02-09T12:44:41.000Z",
+  "updatedAt": "2017-06-29T08:48:28.000Z",
   "pushedAt": "2016-11-06T09:28:01.000Z",
   "gitUrl": "git://github.com/ToasterLab/GreySky.git",
   "sshUrl": "git@github.com:ToasterLab/GreySky.git",
   "cloneUrl": "https://github.com/ToasterLab/GreySky.git",
   "svnUrl": "https://github.com/ToasterLab/GreySky",
-  "homepage": null,
+  "homepage": "",
   "size": 176,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hueyy/GreySky.git"
-    },
+    "repository": "https://github.com/hueyy/GreySky",
     "keywords": [],
     "author": "GitHub",
     "license": "CC0-1.0",
@@ -90,10 +87,12 @@
       "electron": "^1.4.1"
     },
     "dependencies": {},
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
-    "homepage": "https://github.com/electron/electron-quick-start#readme"
+    "homepage": "https://github.com/electron/electron-quick-start#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,7 +123,7 @@
   "organization": {
     "login": "ToasterLab",
     "id": 25663165,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/25663165?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/25663165?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ToasterLab",
     "htmlUrl": "https://github.com/ToasterLab",
@@ -135,6 +134,7 @@
     "receivedEventsUrl": "https://api.github.com/users/ToasterLab/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T17:58:55.412Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:24.963Z"
+  "lastFetchedAt": "2017-10-24T02:03:24.001Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:24.963Z",
+  "archived": false
 }

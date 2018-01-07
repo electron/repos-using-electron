@@ -5,7 +5,7 @@
   "owner": {
     "login": "luin",
     "id": 635902,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/635902?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/635902?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/luin",
     "htmlUrl": "https://github.com/luin",
@@ -35,27 +35,27 @@
   "downloadsUrl": "https://api.github.com/repos/luin/medis/downloads",
   "deploymentsUrl": "https://api.github.com/repos/luin/medis/deployments",
   "createdAt": "2015-10-12T14:19:35.000Z",
-  "updatedAt": "2017-05-03T15:24:50.000Z",
-  "pushedAt": "2017-05-01T16:35:57.000Z",
+  "updatedAt": "2017-10-23T15:13:21.000Z",
+  "pushedAt": "2017-09-01T18:40:03.000Z",
   "gitUrl": "git://github.com/luin/medis.git",
   "sshUrl": "git@github.com:luin/medis.git",
   "cloneUrl": "https://github.com/luin/medis.git",
   "svnUrl": "https://github.com/luin/medis",
   "homepage": "http://getmedis.com",
-  "size": 49611,
-  "stargazersCount": 4028,
-  "watchersCount": 4028,
+  "size": 49482,
+  "stargazersCount": 4813,
+  "watchersCount": 4813,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 199,
+  "forksCount": 286,
   "mirrorUrl": null,
-  "openIssuesCount": 36,
-  "openIssues": 36,
-  "watchers": 4028,
-  "defaultBranch": "mas",
+  "openIssuesCount": 47,
+  "openIssues": 47,
+  "watchers": 4813,
+  "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 199,
-  "subscribersCount": 101,
+  "networkCount": 286,
+  "subscribersCount": 123,
   "status": 200,
   "packageJSON": {
     "name": "medis",
@@ -90,10 +90,7 @@
       "unsign": "./bin/unsign",
       "tomedis": "./bin/tomedis"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/luin/medis.git"
-    },
+    "repository": "https://github.com/luin/medis",
     "dependencies": {
       "fixed-data-table-contextmenu": "^0.6.3",
       "ioredis": "^2.4.2",
@@ -149,7 +146,8 @@
       "commitizen": {
         "path": "./node_modules/cz-conventional-changelog"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -176,6 +174,7 @@
   },
   "filename": "luin___medis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:05:27.939Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:43.240Z"
+  "lastFetchedAt": "2017-10-24T00:20:31.696Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:43.240Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dam",
     "id": 349703,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/349703?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/349703?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dam",
     "htmlUrl": "https://github.com/dam",
@@ -82,15 +82,9 @@
       "watch": "webpack --watch --progress --profile --colors --display-error-details --display-cached",
       "electron": "electron src"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dam/packetbeat-analyzer.git"
-    },
+    "repository": "https://github.com/dam/packetbeat-analyzer",
     "author": "Damien Imberdis",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/dam/packetbeat-analyzer/issues"
-    },
     "homepage": "https://github.com/dam/packetbeat-analyzer#readme",
     "devDependencies": {
       "css-loader": "^0.23.0",
@@ -123,6 +117,11 @@
       "rxjs": "5.0.0-beta.0",
       "systemjs": "0.19.6",
       "zone.js": "0.5.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dam/packetbeat-analyzer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   },
   "filename": "dam___packetbeat-analyzer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:08.111Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:58.155Z"
+  "lastFetchedAt": "2017-10-23T22:25:07.579Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:58.155Z",
+  "archived": false
 }

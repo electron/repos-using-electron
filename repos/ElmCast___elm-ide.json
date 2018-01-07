@@ -5,7 +5,7 @@
   "owner": {
     "login": "ElmCast",
     "id": 13173280,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13173280?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13173280?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ElmCast",
     "htmlUrl": "https://github.com/ElmCast",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/ElmCast/elm-ide/downloads",
   "deploymentsUrl": "https://api.github.com/repos/ElmCast/elm-ide/deployments",
   "createdAt": "2016-10-10T23:14:22.000Z",
-  "updatedAt": "2017-02-26T19:56:51.000Z",
+  "updatedAt": "2017-07-21T18:50:46.000Z",
   "pushedAt": "2016-10-15T21:52:27.000Z",
   "gitUrl": "git://github.com/ElmCast/elm-ide.git",
   "sshUrl": "git@github.com:ElmCast/elm-ide.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/ElmCast/elm-ide",
   "homepage": "",
   "size": 62,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "Elm",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 5,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "ElmCast",
     "id": 13173280,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13173280?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13173280?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ElmCast",
     "htmlUrl": "https://github.com/ElmCast",
@@ -89,18 +89,12 @@
       "elm-make": "elm make src/Main.elm --output app/elm.js",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/elmcast/elm-ide.git"
-    },
+    "repository": "https://github.com/elmcast/elm-ide",
     "keywords": [
       "Elm"
     ],
     "author": "Joseph Hager",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/elmcast/elm-ide/issues"
-    },
     "homepage": "https://github.com/elmcast/elm-ide#readme",
     "devDependencies": {
       "electron": "^1.4.3",
@@ -108,6 +102,11 @@
     },
     "dependencies": {
       "neovim-client": "^2.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/elmcast/elm-ide/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "ElmCast___elm-ide.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:04.734Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:13.558Z"
+  "lastFetchedAt": "2017-10-23T21:41:16.373Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:13.558Z",
+  "archived": false
 }

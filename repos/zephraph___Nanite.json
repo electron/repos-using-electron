@@ -5,7 +5,7 @@
   "owner": {
     "login": "zephraph",
     "id": 3087225,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3087225?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3087225?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zephraph",
     "htmlUrl": "https://github.com/zephraph",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/zephraph/Nanite/deployments",
   "createdAt": "2015-05-08T02:52:28.000Z",
   "updatedAt": "2015-05-08T20:37:23.000Z",
-  "pushedAt": "2015-05-27T04:04:47.000Z",
+  "pushedAt": "2017-06-18T13:12:49.000Z",
   "gitUrl": "git://github.com/zephraph/Nanite.git",
   "sshUrl": "git@github.com:zephraph/Nanite.git",
   "cloneUrl": "https://github.com/zephraph/Nanite.git",
   "svnUrl": "https://github.com/zephraph/Nanite",
   "homepage": null,
-  "size": 4848,
+  "size": 4526,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -74,10 +74,7 @@
       "start": "node bin/start",
       "build": "gulp build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zephraph/nanite.git"
-    },
+    "repository": "https://github.com/zephraph/nanite",
     "keywords": [
       "robotframework",
       "electron",
@@ -85,9 +82,6 @@
     ],
     "author": "Zephraph",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zephraph/nanite/issues"
-    },
     "homepage": "https://github.com/zephraph/nanite#readme",
     "dependencies": {
       "app-root-path": "^1.0.0",
@@ -110,6 +104,11 @@
       "run-sequence": "^1.1.0",
       "shelljs": "^0.5.0",
       "vinyl-paths": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zephraph/nanite/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "zephraph___Nanite.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:55:55.132Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:30.222Z"
+  "lastFetchedAt": "2017-10-24T00:16:39.456Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:30.222Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "yeoman",
     "id": 1714870,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1714870?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1714870?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yeoman",
     "htmlUrl": "https://github.com/yeoman",
@@ -20,21 +20,21 @@
   "description": "A desktop app that scaffolds projects using Yeoman",
   "fork": false,
   "createdAt": "2014-03-31T15:26:53.000Z",
-  "updatedAt": "2017-04-27T21:36:08.000Z",
-  "pushedAt": "2017-02-11T11:30:24.000Z",
+  "updatedAt": "2017-10-19T00:40:45.000Z",
+  "pushedAt": "2017-08-22T21:21:42.000Z",
   "homepage": "",
   "size": 3504,
-  "stargazersCount": 925,
-  "watchersCount": 925,
+  "stargazersCount": 950,
+  "watchersCount": 950,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 99,
-  "openIssuesCount": 17,
-  "openIssues": 17,
-  "watchers": 925,
+  "forksCount": 103,
+  "openIssuesCount": 19,
+  "openIssues": 19,
+  "watchers": 950,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "yeoman",
     "id": 1714870,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1714870?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1714870?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yeoman",
     "htmlUrl": "https://github.com/yeoman",
@@ -56,7 +56,7 @@
     "receivedEventsUrl": "https://api.github.com/users/yeoman/received_events",
     "type": "Organization"
   },
-  "networkCount": 99,
+  "networkCount": 103,
   "subscribersCount": 52,
   "status": 200,
   "packageJSON": {
@@ -68,7 +68,6 @@
     "description": "An app made with Electron that scaffolds projects using Yeoman",
     "author": "The Yeoman Team",
     "main": "src/browser/main.js",
-    "bugs": "https://github.com/yeoman/yeoman-app/issues",
     "dependencies": {
       "async": "^1.2.1",
       "bootstrap": "^3.3.0",
@@ -135,9 +134,9 @@
       "pack-linux": "npm run build-cache && electron-packager . --asar --overwrite --platform=linux --arch=x64 --icon=resources/png.png --prune=true --out=out"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yeoman/yeoman-app"
+    "repository": "https://github.com/yeoman/yeoman-app",
+    "other": {
+      "bugs": "https://github.com/yeoman/yeoman-app/issues"
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   "svnUrl": "https://github.com/yeoman/yeoman-app",
   "hasProjects": false,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:32:32.893Z",
-  "packageLastFetchedAt": "2017-05-04T22:52:22.753Z"
+  "lastFetchedAt": "2017-10-23T22:32:15.493Z",
+  "packageLastFetchedAt": "2017-05-04T22:52:22.753Z",
+  "archived": false
 }

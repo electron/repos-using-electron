@@ -5,7 +5,7 @@
   "owner": {
     "login": "mtmckenna",
     "id": 361430,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/361430?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/361430?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mtmckenna",
     "htmlUrl": "https://github.com/mtmckenna",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Help Croissant collect pizza and avoid naps by jumping over her cat beds!",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -110,7 +106,13 @@
       "ios-safe-audio-context": "^1.0.1",
       "liquid-fire": "0.23.0"
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mtmckenna/croissant-runner-ember",
@@ -157,6 +159,7 @@
   },
   "filename": "mtmckenna___croissant-runner-ember.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:15:29.345Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:31.688Z"
+  "lastFetchedAt": "2017-10-23T22:11:38.801Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:31.688Z",
+  "archived": false
 }

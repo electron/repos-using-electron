@@ -6,7 +6,7 @@
   "owner": {
     "login": "arantes555",
     "id": 99662,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/99662?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/99662?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/arantes555",
     "htmlUrl": "https://github.com/arantes555",
@@ -20,7 +20,7 @@
   "private": false,
   "htmlUrl": "https://github.com/arantes555/electron-fetch",
   "description": "A light-weight module that brings window.fetch to the background process of Electron",
-  "fork": true,
+  "fork": false,
   "url": "https://api.github.com/repos/arantes555/electron-fetch",
   "forksUrl": "https://api.github.com/repos/arantes555/electron-fetch/forks",
   "teamsUrl": "https://api.github.com/repos/arantes555/electron-fetch/teams",
@@ -36,27 +36,27 @@
   "downloadsUrl": "https://api.github.com/repos/arantes555/electron-fetch/downloads",
   "deploymentsUrl": "https://api.github.com/repos/arantes555/electron-fetch/deployments",
   "createdAt": "2017-03-06T20:25:28.000Z",
-  "updatedAt": "2017-04-25T04:05:30.000Z",
-  "pushedAt": "2017-03-20T17:03:21.000Z",
+  "updatedAt": "2017-10-22T20:23:18.000Z",
+  "pushedAt": "2017-09-14T08:41:40.000Z",
   "gitUrl": "git://github.com/arantes555/electron-fetch.git",
   "sshUrl": "git@github.com:arantes555/electron-fetch.git",
   "cloneUrl": "https://github.com/arantes555/electron-fetch.git",
   "svnUrl": "https://github.com/arantes555/electron-fetch",
   "homepage": "",
-  "size": 510,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 502,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "JavaScript",
-  "hasIssues": false,
+  "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -190,10 +190,10 @@
     "watchers": 1665,
     "defaultBranch": "master"
   },
-  "networkCount": 173,
-  "subscribersCount": 2,
+  "networkCount": 2,
+  "subscribersCount": 4,
   "status": 200,
-  "lastFetchedAt": "2017-05-03T20:04:57.947Z",
+  "lastFetchedAt": "2017-10-23T22:55:25.443Z",
   "packageJSON": {
     "name": "electron-fetch",
     "version": "1.0.0",
@@ -216,10 +216,7 @@
       "coverage": "xvfb-maybe cross-env BABEL_ENV=coverage electron-mocha --compilers js:babel-register test/test.js -R test/coverage-reporter.js",
       "report": "npm run coverage && codecov -f coverage/coverage-final.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/arantes555/electron-fetch.git"
-    },
+    "repository": "https://github.com/arantes555/electron-fetch",
     "keywords": [
       "fetch",
       "http",
@@ -228,9 +225,6 @@
     ],
     "author": "Mehdi Kouhen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/arantes555/electron-fetch/issues"
-    },
     "homepage": "https://github.com/arantes555/electron-fetch",
     "devDependencies": {
       "babel-eslint": "^7.1.1",
@@ -263,8 +257,14 @@
     },
     "dependencies": {
       "encoding": "^0.1.11"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/arantes555/electron-fetch/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T23:04:33.215Z"
+  "packageLastFetchedAt": "2017-05-04T23:04:33.215Z",
+  "archived": false
 }

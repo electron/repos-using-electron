@@ -5,7 +5,7 @@
   "owner": {
     "login": "plotter",
     "id": 12588622,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12588622?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12588622?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotter",
     "htmlUrl": "https://github.com/plotter",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "plotter",
     "id": 12588622,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12588622?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12588622?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotter",
     "htmlUrl": "https://github.com/plotter",
@@ -90,10 +90,7 @@
     "description": "An Aurelia client application.",
     "version": "1.0.7",
     "main": "main.js",
-    "repository": {
-      "type": "github",
-      "url": "https://github.com/plotter/platform"
-    },
+    "repository": "https://github.com/plotter/platform",
     "scripts": {
       "clean": "rimraf dist",
       "start": "electron .",
@@ -150,7 +147,8 @@
       "typings": "^1.3.0",
       "uglify-js": "^2.6.3",
       "vinyl-fs": "^2.4.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -177,6 +175,7 @@
   },
   "filename": "plotter___platform.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:31:43.697Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:13.003Z"
+  "lastFetchedAt": "2017-10-23T23:43:05.692Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:13.003Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "HuayraLinux",
     "id": 2466518,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2466518?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2466518?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HuayraLinux",
     "htmlUrl": "https://github.com/HuayraLinux",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "HuayraLinux",
     "id": 2466518,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2466518?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2466518?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HuayraLinux",
     "htmlUrl": "https://github.com/HuayraLinux",
@@ -90,10 +90,6 @@
     "version": "0.9.9",
     "description": "huayra-ritmos es un software que permite armar patrones rítmicos son un secuenciador de 16 steps",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -188,6 +184,12 @@
       "home-config": "^0.1.0",
       "tar-stream": "^1.5.2",
       "tmp": "0.0.28"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -215,6 +217,7 @@
   },
   "filename": "HuayraLinux___huayra-ritmos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:50:48.220Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:39.715Z"
+  "lastFetchedAt": "2017-10-24T00:07:09.694Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:39.715Z",
+  "archived": false
 }

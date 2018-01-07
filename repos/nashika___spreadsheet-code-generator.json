@@ -5,7 +5,7 @@
   "owner": {
     "login": "nashika",
     "id": 13431354,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13431354?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13431354?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nashika",
     "htmlUrl": "https://github.com/nashika",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-06-06T09:12:05.000Z",
   "updatedAt": "2016-06-07T09:27:11.000Z",
-  "pushedAt": "2016-12-06T08:58:04.000Z",
+  "pushedAt": "2017-10-22T03:52:25.000Z",
   "homepage": null,
-  "size": 223,
+  "size": 422,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -70,15 +70,9 @@
       "webpack": "webpack --watch --config webpack.config.js",
       "webpack-production": "cross-env NODE_ENV=production webpack --config webpack.config.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://nashika@github.com/nashika/spreadsheet-code-generator.git"
-    },
+    "repository": "https://github.com/nashika/spreadsheet-code-generator",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nashika/spreadsheet-code-generator/issues"
-    },
     "homepage": "https://github.com/nashika/spreadsheet-code-generator#readme",
     "devDependencies": {
       "ace-builds": "^1.2.5",
@@ -110,7 +104,12 @@
       "vue-strap": "^1.1.34",
       "webpack": "^1.13.3"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nashika/spreadsheet-code-generator/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/nashika/spreadsheet-code-generator",
@@ -157,6 +156,7 @@
   },
   "filename": "nashika___spreadsheet-code-generator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:26.313Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:59.876Z"
+  "lastFetchedAt": "2017-10-23T22:55:53.381Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:59.876Z",
+  "archived": false
 }

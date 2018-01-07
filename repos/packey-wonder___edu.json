@@ -5,7 +5,7 @@
   "owner": {
     "login": "packey-wonder",
     "id": 17522015,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17522015?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17522015?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/packey-wonder",
     "htmlUrl": "https://github.com/packey-wonder",
@@ -78,15 +78,9 @@
       "pack-lin": "electron-packager . Git-it --platform=linux  --arch=x64   --icon=assets/git-it.png  --overwrite --ignore=/out/ --ignore=assets/PortableGit --prune=true --out=out",
       "pack-win": "electron-packager . Git-it --platform=win32  --arch=ia32  --icon=assets/git-it.ico  --overwrite --ignore=/out/ --prune=true --out=out "
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jlord/git-it-electron.git"
-    },
+    "repository": "https://github.com/jlord/git-it-electron",
     "author": "Jessica Lord",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/jlord/git-it-electron/issues"
-    },
     "homepage": "https://github.com/jlord/git-it-electron",
     "devDependencies": {
       "electron-packager": "^7.0.0",
@@ -98,6 +92,11 @@
       "glob": "^5.0.5",
       "handlebars": "^3.0.3",
       "request": "^2.57.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jlord/git-it-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   "filename": "packey-wonder___edu.json",
   "sourceRepo": "jlord/git-it-electron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:28.668Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:22.732Z"
+  "lastFetchedAt": "2017-10-23T22:30:56.492Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:22.732Z",
+  "archived": false
 }

@@ -170,7 +170,7 @@
   },
   "networkCount": 294,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "friends",
     "description": "p2p chat",
@@ -184,9 +184,6 @@
       "jlord",
       "chrisdickinson"
     ],
-    "bugs": {
-      "url": "https://github.com/moose-team/friends/issues"
-    },
     "dependencies": {
       "cat-names": "^1.0.2",
       "ctype": "^0.5.4",
@@ -244,10 +241,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/moose-team/friends.git"
-    },
+    "repository": "https://github.com/moose-team/friends",
     "scripts": {
       "build-css": "mkdir -p dist && stylus -u nib css/app.styl -o dist/ -c",
       "package": "npm run build-css && electron-packager . Friends --icon=static/Icon.icns",
@@ -256,6 +250,11 @@
       "watch": "npm run build-css && (npm run watch-css & electron index.js 2>&1 | silence-chromium)",
       "watch-css": "mkdir -p dist && stylus -u nib css/app.styl -o dist/ -w",
       "rebuild-leveldb": "cd node_modules/leveldown && HOME=~/.electron-gyp node-gyp rebuild --target=0.25.1 --arch=x64 --dist-url=https://atom.io/download/atom-shell"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/moose-team/friends/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -304,6 +303,6 @@
   "sourceRepo": "moose-team/friends",
   "filename": "liuyujie___friends.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:29.424Z",
+  "lastFetchedAt": "2017-10-23T23:07:45.375Z",
   "packageLastFetchedAt": "2017-05-04T23:05:37.502Z"
 }

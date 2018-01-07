@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -20,21 +20,21 @@
   "description": "<neovim-editor> WebComponent to embed Neovim to your app with great ease",
   "fork": false,
   "createdAt": "2015-11-23T17:07:39.000Z",
-  "updatedAt": "2017-05-04T06:26:58.000Z",
-  "pushedAt": "2016-12-28T16:18:46.000Z",
+  "updatedAt": "2017-09-20T06:50:45.000Z",
+  "pushedAt": "2017-10-16T14:08:26.000Z",
   "homepage": "https://github.com/rhysd/NyaoVim",
-  "size": 288,
-  "stargazersCount": 95,
-  "watchersCount": 95,
+  "size": 318,
+  "stargazersCount": 107,
+  "watchersCount": 107,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 13,
+  "forksCount": 15,
   "openIssuesCount": 8,
   "openIssues": 8,
-  "watchers": 95,
+  "watchers": 107,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 13,
+  "networkCount": 15,
   "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
@@ -56,13 +56,7 @@
     "version": "0.8.2",
     "description": "Polymer component for Neovim frontend",
     "main": "example/minimal/main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rhysd/neovim-component.git"
-    },
-    "bugs": {
-      "url": "https://github.com/rhysd/neovim-component/issues"
-    },
+    "repository": "https://github.com/rhysd/neovim-component",
     "scripts": {
       "start": "npm run dep && npm run build && npm run example",
       "build": "tsc --pretty -p src && browserify -o build/index.js src/out/index.js",
@@ -101,6 +95,11 @@
       "tslint": "^3.15.1",
       "typescript": "^2.0.3",
       "typings": "^1.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/neovim-component/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -148,6 +147,7 @@
   "svnUrl": "https://github.com/rhysd/neovim-component",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:00:43.327Z",
-  "packageLastFetchedAt": "2017-05-04T22:51:29.395Z"
+  "lastFetchedAt": "2017-10-23T23:46:12.903Z",
+  "packageLastFetchedAt": "2017-05-04T22:51:29.395Z",
+  "archived": false
 }

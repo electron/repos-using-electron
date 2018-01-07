@@ -5,7 +5,7 @@
   "owner": {
     "login": "sjmarshy",
     "id": 288933,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/288933?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/288933?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sjmarshy",
     "htmlUrl": "https://github.com/sjmarshy",
@@ -50,9 +50,6 @@
     "version": "0.2.0",
     "description": "So, [pinboard](https://pinboard.in) is a thing. It's an awesome thing, and since I started using it I've gone back and hunted down links that otherwise would have been lost forever.",
     "main": "index.js",
-    "directories": {
-      "doc": "docs"
-    },
     "dependencies": {
       "express": "^4.13.3",
       "fetch": "^0.3.6",
@@ -91,7 +88,12 @@
       "build:scss:watch": "watch 'npm run build:scss' assets/scss/"
     },
     "author": "Sam Marshall",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "directories": {
+        "doc": "docs"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/sjmarshy/pinboard-tag-editor",
@@ -138,6 +140,7 @@
   },
   "filename": "sjmarshy___pinboard-tag-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:16.163Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:02.991Z"
+  "lastFetchedAt": "2017-10-24T00:05:13.207Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:02.991Z",
+  "archived": false
 }

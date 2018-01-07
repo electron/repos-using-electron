@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "myomedia",
     "productName": "MyoMedia",
@@ -88,7 +88,8 @@
       "babel-core": "^5.3.1",
       "myo": "^1.5.0",
       "node-wit": "git+https://github.com/Glavin001/node-wit.git"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +136,6 @@
   "svnUrl": "https://github.com/Glavin001/MyoMedia",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:43:47.294Z",
+  "lastFetchedAt": "2017-10-23T22:58:48.085Z",
   "packageLastFetchedAt": "2017-05-04T22:06:58.842Z"
 }

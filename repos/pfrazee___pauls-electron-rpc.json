@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pauls-electron-rpc",
     "version": "3.1.0",
@@ -53,10 +53,7 @@
     "scripts": {
       "test": "node -e \"require('child_process').spawn(require('electron'), ['./test'], { stdio: 'inherit' })\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pfraze/pauls-electron-rpc.git"
-    },
+    "repository": "https://github.com/pfraze/pauls-electron-rpc",
     "keywords": [
       "electron",
       "rpc",
@@ -64,9 +61,6 @@
     ],
     "author": "Paul Frazee <pfrazee@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pfraze/pauls-electron-rpc/issues"
-    },
     "homepage": "https://github.com/pfraze/pauls-electron-rpc#readme",
     "devDependencies": {
       "electron": "1.6.4",
@@ -74,6 +68,11 @@
       "tape": "^4.6.0",
       "tape-dom": "0.0.10",
       "zerr": "^1.0.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pfraze/pauls-electron-rpc/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,6 @@
   "svnUrl": "https://github.com/pfrazee/pauls-electron-rpc",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:43:49.546Z",
+  "lastFetchedAt": "2017-10-23T23:09:29.387Z",
   "packageLastFetchedAt": "2017-05-04T22:37:59.622Z"
 }

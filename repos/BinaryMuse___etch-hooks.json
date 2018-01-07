@@ -5,7 +5,7 @@
   "owner": {
     "login": "BinaryMuse",
     "id": 189606,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/189606?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/189606?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BinaryMuse",
     "htmlUrl": "https://github.com/BinaryMuse",
@@ -64,18 +64,12 @@
       "build": "node_modules/.bin/babel src --out-dir dist",
       "clean": "rm -rf dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/BinaryMuse/etch-hooks.git"
-    },
+    "repository": "https://github.com/BinaryMuse/etch-hooks",
     "keywords": [
       "virtual-dom dom view element custom-elements dom-diff atom electron hooks etch"
     ],
     "author": "Michelle Tilley <michelle@michelletilley.net>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/BinaryMuse/etch-hooks/issues"
-    },
     "homepage": "https://github.com/BinaryMuse/etch-hooks",
     "devDependencies": {
       "babel": "^5.0.0",
@@ -97,6 +91,11 @@
         "it",
         "expect"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/BinaryMuse/etch-hooks/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/BinaryMuse/etch-hooks",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:16:19.952Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:10.513Z"
+  "lastFetchedAt": "2017-10-23T21:51:58.382Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:10.513Z",
+  "archived": false
 }

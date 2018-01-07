@@ -5,7 +5,7 @@
   "owner": {
     "login": "mweibel",
     "id": 307427,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/307427?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/307427?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mweibel",
     "htmlUrl": "https://github.com/mweibel",
@@ -99,10 +99,7 @@
         "target": "deb"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mweibel/esrscan-desktop.git"
-    },
+    "repository": "https://github.com/mweibel/esrscan-desktop",
     "keywords": [
       "ESR",
       "Einzahlungsschein",
@@ -110,9 +107,6 @@
     ],
     "author": "Michael Weibel <esrscan@openflex.ne>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mweibel/esrscan-desktop/issues"
-    },
     "homepage": "https://github.com/mweibel/esrscan-desktop",
     "devDependencies": {
       "@semantic-release/last-release-git-tag": "git+https://github.com/swissmanu/last-release-git-tag.git#feat-initial-implementation",
@@ -167,6 +161,11 @@
     },
     "release": {
       "getLastRelease": "./node_modules/@semantic-release/last-release-git-tag/dist/index.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mweibel/esrscan-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -214,6 +213,7 @@
   },
   "filename": "mweibel___esrscan-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:00.832Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:29.569Z"
+  "lastFetchedAt": "2017-10-23T23:45:27.923Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:29.569Z",
+  "archived": false
 }

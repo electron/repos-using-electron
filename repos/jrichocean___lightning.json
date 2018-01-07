@@ -5,7 +5,7 @@
   "owner": {
     "login": "jrichocean",
     "id": 6404358,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6404358?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6404358?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jrichocean",
     "htmlUrl": "https://github.com/jrichocean",
@@ -75,7 +75,7 @@
     "owner": {
       "login": "lightning-viz",
       "id": 10238128,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10238128?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10238128?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lightning-viz",
       "htmlUrl": "https://github.com/lightning-viz",
@@ -105,7 +105,7 @@
     "downloadsUrl": "https://api.github.com/repos/lightning-viz/lightning/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lightning-viz/lightning/deployments",
     "createdAt": "2014-07-20T01:55:18.000Z",
-    "updatedAt": "2017-05-03T08:12:00.000Z",
+    "updatedAt": "2017-10-22T17:03:06.000Z",
     "pushedAt": "2016-11-23T02:43:16.000Z",
     "gitUrl": "git://github.com/lightning-viz/lightning.git",
     "sshUrl": "git@github.com:lightning-viz/lightning.git",
@@ -113,19 +113,20 @@
     "svnUrl": "https://github.com/lightning-viz/lightning",
     "homepage": "http://lightning-viz.org",
     "size": 21506,
-    "stargazersCount": 741,
-    "watchersCount": 741,
+    "stargazersCount": 801,
+    "watchersCount": 801,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 88,
+    "forksCount": 95,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 21,
     "openIssues": 21,
-    "watchers": 741,
+    "watchers": 801,
     "defaultBranch": "master"
   },
   "source": {
@@ -135,7 +136,7 @@
     "owner": {
       "login": "lightning-viz",
       "id": 10238128,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/10238128?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/10238128?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lightning-viz",
       "htmlUrl": "https://github.com/lightning-viz",
@@ -165,7 +166,7 @@
     "downloadsUrl": "https://api.github.com/repos/lightning-viz/lightning/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lightning-viz/lightning/deployments",
     "createdAt": "2014-07-20T01:55:18.000Z",
-    "updatedAt": "2017-05-03T08:12:00.000Z",
+    "updatedAt": "2017-10-22T17:03:06.000Z",
     "pushedAt": "2016-11-23T02:43:16.000Z",
     "gitUrl": "git://github.com/lightning-viz/lightning.git",
     "sshUrl": "git@github.com:lightning-viz/lightning.git",
@@ -173,22 +174,23 @@
     "svnUrl": "https://github.com/lightning-viz/lightning",
     "homepage": "http://lightning-viz.org",
     "size": 21506,
-    "stargazersCount": 741,
-    "watchersCount": 741,
+    "stargazersCount": 801,
+    "watchersCount": 801,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 88,
+    "forksCount": 95,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 21,
     "openIssues": 21,
-    "watchers": 741,
+    "watchers": 801,
     "defaultBranch": "master"
   },
-  "networkCount": 88,
+  "networkCount": 95,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -220,10 +222,7 @@
       "node": "0.10.x"
     },
     "homepage": "http://lightning-viz.org",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lightning-viz/lightning"
-    },
+    "repository": "https://github.com/lightning-viz/lightning",
     "scripts": {
       "start": "NODE_ENV=development nodemon server.js --watch server.js ",
       "electron": "electron electron/",
@@ -320,7 +319,8 @@
       "menubar": "^2.0.16",
       "tiny-lr": "0.0.5",
       "nodemon": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -348,6 +348,7 @@
   "sourceRepo": "lightning-viz/lightning",
   "filename": "jrichocean___lightning.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:56.224Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:18.862Z"
+  "lastFetchedAt": "2017-10-23T23:35:36.083Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:18.862Z",
+  "archived": false
 }

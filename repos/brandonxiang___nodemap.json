@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nodemap",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/brandonxiang/nodemap.git"
-    },
+    "repository": "https://github.com/brandonxiang/nodemap",
     "keywords": [
       "node",
       "map",
@@ -90,15 +87,17 @@
     ],
     "author": "brandonxiang",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/brandonxiang/nodemap/issues"
-    },
     "homepage": "https://github.com/brandonxiang/nodemap#readme",
     "devDependencies": {
       "electron": "^1.3.5"
     },
     "dependencies": {
       "nodemap_spider": "0.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/brandonxiang/nodemap/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,6 @@
   },
   "filename": "brandonxiang___nodemap.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:47:17.763Z",
+  "lastFetchedAt": "2017-10-24T00:11:11.418Z",
   "packageLastFetchedAt": "2017-05-05T14:49:01.288Z"
 }

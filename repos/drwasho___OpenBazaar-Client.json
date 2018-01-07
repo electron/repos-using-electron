@@ -185,18 +185,14 @@
   },
   "networkCount": 162,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "OpenBazaar",
     "version": "1.1.9",
     "description": "OpenBazaar Client",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/OpenBazaar/OpenBazaar-Client.git"
-    },
+    "repository": "https://github.com/OpenBazaar/OpenBazaar-Client",
     "homepage": "https://openbazaar.org/",
-    "bugs": "https://github.com/OpenBazaar/OpenBazaar-Client/issues/",
     "license": "MIT",
     "scripts": {
       "start": "electron main.js",
@@ -244,7 +240,10 @@
       "lint",
       "valiquire",
       "test"
-    ]
+    ],
+    "other": {
+      "bugs": "https://github.com/OpenBazaar/OpenBazaar-Client/issues/"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -271,6 +270,6 @@
   },
   "sourceRepo": "OpenBazaar/OpenBazaar-Client",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:46.894Z",
+  "lastFetchedAt": "2017-10-23T23:01:15.833Z",
   "packageLastFetchedAt": "2017-05-04T22:26:27.410Z"
 }

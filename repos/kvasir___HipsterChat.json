@@ -5,7 +5,7 @@
   "owner": {
     "login": "kvasir",
     "id": 11892109,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11892109?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11892109?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kvasir",
     "htmlUrl": "https://github.com/kvasir",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "kvasir",
     "id": 11892109,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11892109?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11892109?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kvasir",
     "htmlUrl": "https://github.com/kvasir",
@@ -71,14 +71,8 @@
     "version": "0.2.1",
     "description": "Unofficial HipChat desktop client.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kvasir/HipsterChat.git"
-    },
+    "repository": "https://github.com/kvasir/HipsterChat",
     "homepage": "https://github.com/kvasir/HipsterChat",
-    "bugs": {
-      "url": "https://github.com/kvasir/HipsterChat/issues"
-    },
     "author": "Kvasir",
     "contributors": [
       "Martin Sandström <maartiin_91@hotmail.com> (http://martinsandstrom.github.io)",
@@ -138,6 +132,11 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kvasir/HipsterChat/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -185,6 +184,7 @@
   },
   "filename": "kvasir___HipsterChat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:11.572Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:52.947Z"
+  "lastFetchedAt": "2017-10-23T21:50:49.639Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:52.947Z",
+  "archived": false
 }

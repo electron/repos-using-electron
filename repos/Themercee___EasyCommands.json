@@ -5,7 +5,7 @@
   "owner": {
     "login": "Themercee",
     "id": 6720140,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6720140?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6720140?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Themercee",
     "htmlUrl": "https://github.com/Themercee",
@@ -69,7 +69,7 @@
     "featured": false
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
     "name": "EasyCommands",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Themercee/EasyCommands.git"
-    },
+    "repository": "https://github.com/Themercee/EasyCommands",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "Jimmy M.D.",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/Themercee/EasyCommands/issues"
-    },
     "homepage": "https://github.com/Themercee/EasyCommands#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Themercee/EasyCommands/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "filename": "Themercee___EasyCommands.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:12.064Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:01.938Z"
+  "lastFetchedAt": "2017-10-24T00:07:59.207Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:01.938Z",
+  "archived": false
 }

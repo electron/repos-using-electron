@@ -199,7 +199,7 @@
   },
   "networkCount": 17,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "message-box",
     "productName": "MessageBox",
@@ -243,7 +243,8 @@
       "package": "node ./tasks/package.js --platform=all --arch=all",
       "package:osx": "node ./tasks/package.js --platform=darwin --arch=x64",
       "package:win": "node ./tasks/package.js --platform=win32 --arch=all"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -270,6 +271,6 @@
   },
   "sourceRepo": "infohold-works/message-box",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:37.038Z",
+  "lastFetchedAt": "2017-10-23T23:06:10.337Z",
   "packageLastFetchedAt": "2017-05-04T21:55:48.922Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ChesterHub",
     "id": 19144919,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19144919?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19144919?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ChesterHub",
     "htmlUrl": "https://github.com/ChesterHub",
@@ -85,10 +85,7 @@
       "snyk-protect": "snyk protect",
       "prepublish": "npm run snyk-protect"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MichMich/MagicMirror.git"
-    },
+    "repository": "https://github.com/MichMich/MagicMirror",
     "keywords": [
       "magic mirror",
       "smart mirror",
@@ -98,9 +95,6 @@
     "author": "Michael Teeuw",
     "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MichMich/MagicMirror/issues"
-    },
     "homepage": "https://github.com/MichMich/MagicMirror#readme",
     "devDependencies": {
       "electron-prebuilt": "latest",
@@ -124,7 +118,12 @@
       "valid-url": "latest",
       "walk": "latest"
     },
-    "snyk": true
+    "snyk": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/MichMich/MagicMirror/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +150,7 @@
   },
   "filename": "ChesterHub___RFLCTT.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:08.086Z",
-  "packageLastFetchedAt": "2017-05-05T14:53:10.632Z"
+  "lastFetchedAt": "2017-10-24T00:12:47.708Z",
+  "packageLastFetchedAt": "2017-05-05T14:53:10.632Z",
+  "archived": false
 }

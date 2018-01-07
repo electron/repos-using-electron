@@ -6,7 +6,7 @@
   "owner": {
     "login": "topolr",
     "id": 19883616,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19883616?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19883616?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/topolr",
     "htmlUrl": "https://github.com/topolr",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/topolr/marklr/downloads",
   "deploymentsUrl": "https://api.github.com/repos/topolr/marklr/deployments",
   "createdAt": "2017-02-28T16:28:30.000Z",
-  "updatedAt": "2017-04-27T08:45:12.000Z",
+  "updatedAt": "2017-08-31T03:57:41.000Z",
   "pushedAt": "2017-04-07T03:01:41.000Z",
   "gitUrl": "git://github.com/topolr/marklr.git",
   "sshUrl": "git@github.com:topolr/marklr.git",
@@ -44,8 +44,8 @@
   "svnUrl": "https://github.com/topolr/marklr",
   "homepage": null,
   "size": 4239,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
@@ -56,7 +56,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 12,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,7 +73,7 @@
   "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-03T20:07:04.054Z",
+  "lastFetchedAt": "2017-10-24T00:18:56.705Z",
   "packageJSON": {
     "name": "marklr",
     "version": "1.0.0",
@@ -92,16 +92,10 @@
       "markdown",
       "editor"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/topolr/marklr.git"
-    },
+    "repository": "https://github.com/topolr/marklr",
     "author": {
       "name": "WangJinliang(hou80houzhu)",
       "email": "hou80houzhu@vip.qq.com"
-    },
-    "bugs": {
-      "url": "https://github.com/topolr/marklr/issues"
     },
     "homepage": "http://topolr.org/",
     "contributors": [],
@@ -115,8 +109,14 @@
       "electron": "^0.4.1",
       "electron-prebuilt": "^1.2.1",
       "electron-packager": "^8.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/topolr/marklr/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:38:06.576Z"
+  "packageLastFetchedAt": "2017-05-05T14:38:06.576Z",
+  "archived": false
 }

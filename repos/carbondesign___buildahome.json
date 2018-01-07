@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Kitematic",
     "version": "0.12.0",
@@ -78,11 +78,7 @@
     "description": "Simple Docker Container management for Mac OS X, Windows and Ubuntu.",
     "homepage": "https://kitematic.com/",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:kitematic/kitematic.git"
-    },
-    "bugs": "https://github.com/kitematic/kitematic/issues",
+    "repository": "https://github.com/kitematic/kitematic",
     "scripts": {
       "start": "grunt",
       "start-dev": "NODE_ENV=development grunt",
@@ -164,6 +160,9 @@
     "optionalDependencies": {
       "grunt-electron-installer-debian": "^0.3.0",
       "grunt-electron-installer-redhat": "^0.3.0"
+    },
+    "other": {
+      "bugs": "https://github.com/kitematic/kitematic/issues"
     }
   },
   "packageStatus": 200,
@@ -191,6 +190,6 @@
   },
   "filename": "carbondesign___buildahome.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:27.607Z",
+  "lastFetchedAt": "2017-10-23T22:58:19.597Z",
   "packageLastFetchedAt": "2017-05-04T22:50:36.127Z"
 }

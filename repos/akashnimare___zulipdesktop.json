@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ZulipDesktop",
     "productName": "ZulipDesktop",
@@ -91,7 +91,8 @@
       "ignores": [
         "dist/**"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/akashnimare/zulipdesktop",
@@ -138,6 +139,6 @@
   },
   "filename": "akashnimare___zulipdesktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:51.693Z",
+  "lastFetchedAt": "2017-10-24T00:10:34.421Z",
   "packageLastFetchedAt": "2017-05-04T22:04:57.597Z"
 }

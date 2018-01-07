@@ -5,7 +5,7 @@
   "owner": {
     "login": "FaCuZ",
     "id": 462079,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/462079?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/462079?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FaCuZ",
     "htmlUrl": "https://github.com/FaCuZ",
@@ -20,21 +20,21 @@
   "description": "Fully-featured desktop WebTorrent client",
   "fork": false,
   "createdAt": "2016-05-05T00:28:35.000Z",
-  "updatedAt": "2017-04-10T03:54:25.000Z",
+  "updatedAt": "2017-10-16T02:35:11.000Z",
   "pushedAt": "2016-12-10T02:27:01.000Z",
   "homepage": "",
   "size": 84642,
-  "stargazersCount": 34,
-  "watchersCount": 34,
+  "stargazersCount": 39,
+  "watchersCount": 39,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
+  "forksCount": 7,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 34,
+  "watchers": 39,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 5,
+  "networkCount": 7,
   "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
@@ -59,10 +59,7 @@
     "description": "Cliente de bitorrent",
     "main": "main.js",
     "app-id": "com.facuz.torrentmedia",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/FaCuZ/torrentmedia.git"
-    },
+    "repository": "https://github.com/FaCuZ/torrentmedia",
     "scripts": {
       "start": "gulp",
       "adminlte": "echo 'Making offline AdminLTE...' && cd node_modules/admin-lte/dist/css/ && sed -i.bak '1i/*' AdminLTE.css",
@@ -96,7 +93,8 @@
       "humanize-plus": "^1.8.2",
       "pixl-xml": "^1.0.6",
       "webtorrent": "^0.98.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,7 @@
   "svnUrl": "https://github.com/FaCuZ/torrentmedia",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:44:13.691Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:15.451Z"
+  "lastFetchedAt": "2017-10-24T02:04:07.161Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:15.451Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jorisroovers",
     "id": 575086,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/575086?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/575086?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jorisroovers",
     "htmlUrl": "https://github.com/jorisroovers",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/jorisroovers/ralphy/deployments",
   "createdAt": "2016-08-24T11:00:42.000Z",
   "updatedAt": "2016-08-25T10:24:23.000Z",
-  "pushedAt": "2017-03-31T14:03:41.000Z",
+  "pushedAt": "2017-06-26T09:10:59.000Z",
   "gitUrl": "git://github.com/jorisroovers/ralphy.git",
   "sshUrl": "git@github.com:jorisroovers/ralphy.git",
   "cloneUrl": "https://github.com/jorisroovers/ralphy.git",
   "svnUrl": "https://github.com/jorisroovers/ralphy",
   "homepage": null,
-  "size": 150,
+  "size": 166,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -79,18 +79,12 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jorisroovers/ralphy.git"
-    },
+    "repository": "https://github.com/jorisroovers/ralphy",
     "keywords": [
       "Ralphy"
     ],
     "author": "Joris Roovers",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jorisroovers/ralphy/issues"
-    },
     "homepage": "https://github.com/ralphy/jorisroovers",
     "devDependencies": {
       "electron": "^1.4.15",
@@ -102,6 +96,11 @@
       "electron-json-storage": "^3.0.1",
       "hummus": "^1.0.75",
       "pdfjs-dist": "^1.7.312"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jorisroovers/ralphy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "jorisroovers___ralphy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:30.225Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:42.824Z"
+  "lastFetchedAt": "2017-10-23T21:45:52.903Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:42.824Z",
+  "archived": false
 }

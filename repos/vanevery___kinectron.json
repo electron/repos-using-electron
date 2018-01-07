@@ -5,7 +5,7 @@
   "owner": {
     "login": "vanevery",
     "id": 431774,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/431774?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/431774?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vanevery",
     "htmlUrl": "https://github.com/vanevery",
@@ -20,21 +20,21 @@
   "description": "Electron + Kinect2 + PeerJS = Kinect data broadcast to browsers",
   "fork": false,
   "createdAt": "2016-04-11T21:22:13.000Z",
-  "updatedAt": "2016-11-04T01:51:42.000Z",
-  "pushedAt": "2017-01-03T18:01:32.000Z",
+  "updatedAt": "2017-10-14T22:02:11.000Z",
+  "pushedAt": "2017-09-11T20:29:07.000Z",
   "homepage": null,
   "size": 1121,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 6,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 7,
+  "forksCount": 9,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 6,
+  "networkCount": 9,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -56,9 +56,6 @@
     "version": "0.0.1",
     "description": "An electron application to broadcast Kinect2 data over a peer connection",
     "main": "main.js",
-    "directories": {
-      "example": "examples"
-    },
     "dependencies": {
       "kinect2": "^0.1.4",
       "minimist": "^1.2.0",
@@ -74,20 +71,22 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lisajamhoury/kinectron.git"
-    },
+    "repository": "https://github.com/lisajamhoury/kinectron",
     "keywords": [
       "kinect2",
       "peer"
     ],
     "author": "Lisa Jamhoury <lisa.jamhoury@nyu.edu>, Shawn Van Every <Shawn.Van.Every@nyu.edu>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lisajamhoury/kinectron/issues"
-    },
-    "homepage": "https://github.com/lisajamhoury/kinectron#readme"
+    "homepage": "https://github.com/lisajamhoury/kinectron#readme",
+    "other": {
+      "directories": {
+        "example": "examples"
+      },
+      "bugs": {
+        "url": "https://github.com/lisajamhoury/kinectron/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +133,7 @@
   "svnUrl": "https://github.com/vanevery/kinectron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:33:02.915Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:54.611Z"
+  "lastFetchedAt": "2017-10-23T22:12:52.013Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:54.611Z",
+  "archived": false
 }

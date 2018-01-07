@@ -7,7 +7,7 @@
   "owner": {
     "login": "spleenboy",
     "id": 1503272,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1503272?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1503272?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/spleenboy",
     "htmlUrl": "https://github.com/spleenboy",
@@ -73,7 +73,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "lastFetchedAt": "2017-05-04T19:40:50.958Z",
+  "lastFetchedAt": "2017-10-23T21:50:05.875Z",
   "packageJSON": {
     "name": "pallium",
     "productName": "Pallium",
@@ -100,18 +100,12 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/spleenboy/pallium.git"
-    },
+    "repository": "https://github.com/spleenboy/pallium",
     "author": {
       "name": "Alexander Barrett",
       "url": "https://github.com/spleenboy"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/spleenboy/pallium/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -197,8 +191,14 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/spleenboy/pallium/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:36:13.249Z"
+  "packageLastFetchedAt": "2017-05-05T14:36:13.249Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "zacharytamas",
     "id": 581096,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/581096?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/581096?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zacharytamas",
     "htmlUrl": "https://github.com/zacharytamas",
@@ -59,22 +59,21 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zacharytamas/noon-pacific.git"
-    },
+    "repository": "https://github.com/zacharytamas/noon-pacific",
     "keywords": [
       "electron",
       "polymer"
     ],
     "author": "Zachary Jones <zacharytamas@gmail.com>",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/zacharytamas/noon-pacific/issues"
-    },
     "homepage": "https://github.com/zacharytamas/noon-pacific#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zacharytamas/noon-pacific/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   "svnUrl": "https://github.com/zacharytamas/noon-pacific",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:23:15.396Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:15.001Z"
+  "lastFetchedAt": "2017-10-23T23:12:43.112Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:15.001Z",
+  "archived": false
 }

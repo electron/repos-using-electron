@@ -5,7 +5,7 @@
   "owner": {
     "login": "osxi",
     "id": 6734090,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6734090?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6734090?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/osxi",
     "htmlUrl": "https://github.com/osxi",
@@ -76,10 +76,6 @@
     "version": "0.1.0",
     "description": "Small description for ember-markdown-editor goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -124,7 +120,13 @@
       "marked": "^0.3.5"
     },
     "dependencies": {},
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +153,7 @@
   },
   "filename": "osxi___ember-markdown-editor-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:22.833Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:19.895Z"
+  "lastFetchedAt": "2017-10-23T22:09:15.291Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:19.895Z",
+  "archived": false
 }

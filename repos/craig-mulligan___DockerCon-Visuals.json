@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,9 +68,6 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
@@ -84,6 +78,11 @@
       "resin-sdk": "*",
       "term.js": "0.0.7",
       "arduino-firmata": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,6 @@
   },
   "filename": "craig-mulligan___DockerCon-Visuals.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:51.562Z",
+  "lastFetchedAt": "2017-10-23T22:59:40.594Z",
   "packageLastFetchedAt": "2017-05-04T22:41:17.874Z"
 }

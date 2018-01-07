@@ -1,11 +1,11 @@
 {
   "id": 45283910,
-  "name": "qmk_firmware_flasher",
-  "fullName": "qmk/qmk_firmware_flasher",
+  "name": "qmk_flasher",
+  "fullName": "qmk/qmk_flasher",
   "owner": {
     "login": "qmk",
     "id": 25358678,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25358678?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25358678?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qmk",
     "htmlUrl": "https://github.com/qmk",
@@ -20,21 +20,21 @@
   "description": "flashing utility for the Atmel AVR USB family",
   "fork": false,
   "createdAt": "2015-10-31T01:06:57.000Z",
-  "updatedAt": "2017-04-25T17:19:46.000Z",
-  "pushedAt": "2017-04-06T00:48:56.000Z",
+  "updatedAt": "2017-10-22T17:05:41.000Z",
+  "pushedAt": "2017-09-29T23:27:17.000Z",
   "homepage": "",
-  "size": 4891,
-  "stargazersCount": 32,
-  "watchersCount": 32,
+  "size": 4900,
+  "stargazersCount": 49,
+  "watchersCount": 49,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 9,
-  "openIssuesCount": 18,
-  "openIssues": 18,
-  "watchers": 32,
+  "forksCount": 13,
+  "openIssuesCount": 17,
+  "openIssues": 17,
+  "watchers": 49,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 9,
-  "subscribersCount": 11,
+  "networkCount": 13,
+  "subscribersCount": 18,
   "status": 200,
   "packageJSON": {
     "name": "qmk-firmware-flasher",
@@ -63,10 +63,7 @@
       "pack": "build",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/qmk/qmk_firmware_flasher.git"
-    },
+    "repository": "https://github.com/qmk/qmk_firmware_flasher",
     "keywords": [
       "dfu-programmer",
       "dfu",
@@ -77,9 +74,6 @@
     ],
     "author": "Jack Humbert",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/qmk/qmk_firmware_flasher/issues"
-    },
     "homepage": "https://github.com/qmk/qmk_firmware_flasher",
     "dependencies": {
       "bootbox": "~4.4",
@@ -111,28 +105,33 @@
       "win": {
         "iconUrl": "https://github.com/qmk/qmk_firmware_flasher/blob/master/build/windows.ico?raw=true"
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/qmk/qmk_firmware_flasher/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/qmk/qmk_firmware_flasher",
-  "url": "https://api.github.com/repos/qmk/qmk_firmware_flasher",
-  "forksUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/forks",
-  "teamsUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/teams",
-  "hooksUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/hooks",
-  "eventsUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/events",
-  "tagsUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/tags",
-  "languagesUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/languages",
-  "stargazersUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/contributors",
-  "subscribersUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/subscription",
-  "mergesUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/merges",
-  "downloadsUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/qmk/qmk_firmware_flasher/deployments",
-  "gitUrl": "git://github.com/qmk/qmk_firmware_flasher.git",
-  "sshUrl": "git@github.com:qmk/qmk_firmware_flasher.git",
-  "cloneUrl": "https://github.com/qmk/qmk_firmware_flasher.git",
-  "svnUrl": "https://github.com/qmk/qmk_firmware_flasher",
+  "htmlUrl": "https://github.com/qmk/qmk_flasher",
+  "url": "https://api.github.com/repos/qmk/qmk_flasher",
+  "forksUrl": "https://api.github.com/repos/qmk/qmk_flasher/forks",
+  "teamsUrl": "https://api.github.com/repos/qmk/qmk_flasher/teams",
+  "hooksUrl": "https://api.github.com/repos/qmk/qmk_flasher/hooks",
+  "eventsUrl": "https://api.github.com/repos/qmk/qmk_flasher/events",
+  "tagsUrl": "https://api.github.com/repos/qmk/qmk_flasher/tags",
+  "languagesUrl": "https://api.github.com/repos/qmk/qmk_flasher/languages",
+  "stargazersUrl": "https://api.github.com/repos/qmk/qmk_flasher/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/qmk/qmk_flasher/contributors",
+  "subscribersUrl": "https://api.github.com/repos/qmk/qmk_flasher/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/qmk/qmk_flasher/subscription",
+  "mergesUrl": "https://api.github.com/repos/qmk/qmk_flasher/merges",
+  "downloadsUrl": "https://api.github.com/repos/qmk/qmk_flasher/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/qmk/qmk_flasher/deployments",
+  "gitUrl": "git://github.com/qmk/qmk_flasher.git",
+  "sshUrl": "git@github.com:qmk/qmk_flasher.git",
+  "cloneUrl": "https://github.com/qmk/qmk_flasher.git",
+  "svnUrl": "https://github.com/qmk/qmk_flasher",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "29ac078cd93f33fa659307511279ebe53becde61",
@@ -161,7 +160,7 @@
   "organization": {
     "login": "qmk",
     "id": 25358678,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/25358678?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/25358678?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/qmk",
     "htmlUrl": "https://github.com/qmk",
@@ -172,6 +171,7 @@
     "receivedEventsUrl": "https://api.github.com/users/qmk/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T20:35:25.530Z",
-  "packageLastFetchedAt": "2017-05-05T15:19:16.821Z"
+  "lastFetchedAt": "2017-10-24T00:18:30.275Z",
+  "packageLastFetchedAt": "2017-05-05T15:19:16.821Z",
+  "archived": false
 }

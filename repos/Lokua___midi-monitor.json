@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "midi-monitor",
     "version": "1.0.1",
@@ -83,10 +83,7 @@
       "dev-server": "node webpack/dev-server",
       "nodemon": "./node_modules/.bin/nodemon --exec \"./node_modules/.bin/electron .\" "
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lokua/midi-monitor.git"
-    },
+    "repository": "https://github.com/lokua/midi-monitor",
     "keywords": [
       "midi",
       "monitor",
@@ -95,9 +92,6 @@
     ],
     "author": "Joshua Kleckner <lokua@lokua.net> (http://github.com/lokua)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lokua/midi-monitor/issues"
-    },
     "homepage": "https://github.com/lokua/midi-monitor",
     "devDependencies": {
       "autoprefixer": "^6.3.6",
@@ -198,6 +192,11 @@
       "redux-thunk": "^2.0.1",
       "reselect": "^2.5.1",
       "whatwg-fetch": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lokua/midi-monitor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -225,6 +224,6 @@
   },
   "filename": "Lokua___midi-monitor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:55:37.607Z",
+  "lastFetchedAt": "2017-10-23T22:58:02.098Z",
   "packageLastFetchedAt": "2017-05-04T22:12:57.710Z"
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "chequeconvert-desktop",
     "version": "0.0.1",
@@ -61,10 +61,7 @@
     },
     "author": "Ryan Liao <pirsquare.ryan@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pirsquare/chequeconvert-desktop.git"
-    },
+    "repository": "https://github.com/pirsquare/chequeconvert-desktop",
     "dependencies": {
       "chequeconvert": "^0.0.3",
       "jquery": "^2.1.4"
@@ -72,7 +69,8 @@
     "devDependencies": {
       "electron-prebuilt": "^0.35.0",
       "electron-packager": "^5.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,6 @@
   "svnUrl": "https://github.com/pirsquare/chequeconvert-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:36:41.156Z",
+  "lastFetchedAt": "2017-10-23T23:09:16.596Z",
   "packageLastFetchedAt": "2017-05-05T14:56:12.154Z"
 }

@@ -58,7 +58,7 @@
   },
   "networkCount": 101,
   "subscribersCount": 54,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "@angular2/electron",
     "version": "1.0.0",
@@ -75,19 +75,13 @@
       "demo": "npm run build && npm run build_demo && electron ./demo",
       "start": "npm run demo"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/angular/angular-electron.git"
-    },
+    "repository": "https://github.com/angular/angular-electron",
     "keywords": [
       "Angular2",
       "Electron"
     ],
     "author": "Rob Wormald <robwormald@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/angular/angular-electron/issues"
-    },
     "homepage": "https://github.com/angular/angular-electron#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.2",
@@ -99,6 +93,11 @@
     },
     "dependencies": {
       "parse5": "^1.5.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/angular/angular-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,6 @@
   },
   "filename": "angular___angular-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:36:51.410Z",
+  "lastFetchedAt": "2017-10-23T23:04:36.318Z",
   "packageLastFetchedAt": "2017-05-05T17:21:57.130Z"
 }

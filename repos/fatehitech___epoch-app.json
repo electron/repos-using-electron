@@ -5,7 +5,7 @@
   "owner": {
     "login": "kfatehi",
     "id": 175305,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/175305?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/175305?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kfatehi",
     "htmlUrl": "https://github.com/kfatehi",
@@ -72,7 +72,8 @@
     "scripts": {
       "build": "electron-packager . Epoch --platform=darwin --arch=x64 --version=0.26.0 --ignore=node_modules/electron --icon=Icon.icns --overwrite",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +120,7 @@
   "svnUrl": "https://github.com/kfatehi/epoch-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:53:01.751Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:04.626Z"
+  "lastFetchedAt": "2017-10-23T22:06:50.397Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:04.626Z",
+  "archived": false
 }

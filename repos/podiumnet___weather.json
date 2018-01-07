@@ -5,7 +5,7 @@
   "owner": {
     "login": "podiumnet",
     "id": 13813885,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13813885?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13813885?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/podiumnet",
     "htmlUrl": "https://github.com/podiumnet",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "podiumnet",
     "id": 13813885,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13813885?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13813885?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/podiumnet",
     "htmlUrl": "https://github.com/podiumnet",
@@ -93,10 +93,7 @@
     "bin": {
       "pweather": "./startscript.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/podiumnet/pweather.git"
-    },
+    "repository": "https://github.com/podiumnet/pweather",
     "scripts": {
       "start": "electron ."
     },
@@ -105,13 +102,15 @@
     ],
     "author": "podium",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/podiumnet/pweather/issues"
-    },
     "homepage": "https://github.com/podiumnet/pweather#readme",
     "dependencies": {
       "coffee-script": "^1.10.0",
       "electron-prebuilt": "^0.34.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/podiumnet/pweather/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "podiumnet___weather.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:10:05.125Z",
-  "packageLastFetchedAt": "2017-05-04T23:05:13.523Z"
+  "lastFetchedAt": "2017-10-24T00:05:12.440Z",
+  "packageLastFetchedAt": "2017-05-04T23:05:13.523Z",
+  "archived": false
 }

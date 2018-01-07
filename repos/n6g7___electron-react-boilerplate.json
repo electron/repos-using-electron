@@ -5,7 +5,7 @@
   "owner": {
     "login": "n6g7",
     "id": 3386177,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3386177?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3386177?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/n6g7",
     "htmlUrl": "https://github.com/n6g7",
@@ -77,19 +77,13 @@
       "start": "electron .",
       "build": "webpack && rm -r dist && build -mwl"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/n6g7/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/n6g7/electron-react-boilerplate",
     "keywords": [
       "electron",
       "react",
       "boilerplate",
       "webpack"
     ],
-    "bugs": {
-      "url": "https://github.com/n6g7/electron-react-boilerplate/issues"
-    },
     "homepage": "https://github.com/n6g7/electron-react-boilerplate#readme",
     "dependencies": {
       "react": "^15.1.0",
@@ -146,6 +140,11 @@
     "build": {
       "appId": "fr.gnab.electron-react-boilerplate",
       "app-category-type": "public.app-category.developer-tools"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/n6g7/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -173,6 +172,7 @@
   },
   "filename": "n6g7___electron-react-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:08.383Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:36.277Z"
+  "lastFetchedAt": "2017-10-23T21:50:33.881Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:36.277Z",
+  "archived": false
 }

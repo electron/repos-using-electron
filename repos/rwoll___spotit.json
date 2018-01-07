@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "SpotIt",
     "version": "0.0.1",
@@ -80,10 +80,7 @@
       "start": "electron src/es6-init",
       "package": "./node_modules/.bin/electron-packager-compile ./ --out=./dist --platform=darwin --arch=x64  --ignore=logo.ai --overwrite --icon=./spotIt.icns"
     },
-    "repository": {
-      "url": "https://github.com/rwoll/spot-it.git",
-      "type": "git"
-    },
+    "repository": "https://github.com/rwoll/spot-it",
     "author": "rwoll",
     "license": "MIT",
     "devDependencies": {
@@ -104,7 +101,8 @@
       "menubar": "^5.1.0",
       "react": "^15.4.1",
       "react-dom": "^15.4.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +129,6 @@
   },
   "filename": "rwoll___spotit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:58:32.700Z",
+  "lastFetchedAt": "2017-10-23T23:04:05.082Z",
   "packageLastFetchedAt": "2017-05-04T23:04:29.094Z"
 }

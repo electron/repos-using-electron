@@ -5,7 +5,7 @@
   "owner": {
     "login": "t0k4rt",
     "id": 498106,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/498106?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/498106?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/t0k4rt",
     "htmlUrl": "https://github.com/t0k4rt",
@@ -82,10 +82,7 @@
       "rebuild": "electron-rebuild -f -w electron-quick-start",
       "rebuild-all": "electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -94,9 +91,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4",
@@ -112,6 +106,11 @@
       "node-schedule": "^1.1.1",
       "sendgrid": "^4.7.0",
       "urijs": "^1.18.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   "filename": "t0k4rt___housing-meta-search.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:45.104Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:41.587Z"
+  "lastFetchedAt": "2017-10-23T21:44:12.037Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:41.587Z",
+  "archived": false
 }

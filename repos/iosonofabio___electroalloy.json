@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electroalloy",
     "version": "0.0.1",
@@ -75,16 +75,14 @@
     },
     "main": "build/electroalloy.js",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/iosonofabio/electroalloy"
-    },
+    "repository": "https://github.com/iosonofabio/electroalloy",
     "dependencies": {
       "react": "^0.13.3"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.33.6"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -111,6 +109,6 @@
   },
   "filename": "iosonofabio___electroalloy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:19.269Z",
+  "lastFetchedAt": "2017-10-23T23:04:16.345Z",
   "packageLastFetchedAt": "2017-05-05T15:36:46.534Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "IonicaBizau",
     "id": 2864371,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2864371?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2864371?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IonicaBizau",
     "htmlUrl": "https://github.com/IonicaBizau",
@@ -20,12 +20,12 @@
   "description": ":crystal_ball: A terminal emulator based on Electron.",
   "fork": false,
   "createdAt": "2016-01-10T19:38:38.000Z",
-  "updatedAt": "2017-05-04T18:39:56.000Z",
-  "pushedAt": "2017-03-23T16:22:38.000Z",
+  "updatedAt": "2017-06-16T15:21:12.000Z",
+  "pushedAt": "2017-09-08T12:02:18.000Z",
   "homepage": "",
-  "size": 141,
-  "stargazersCount": 33,
-  "watchersCount": 33,
+  "size": 142,
+  "stargazersCount": 32,
+  "watchersCount": 32,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 5,
   "openIssuesCount": 6,
   "openIssues": 6,
-  "watchers": 33,
+  "watchers": 32,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -64,10 +64,7 @@
       "postinstall": "electron-rebuild",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/IonicaBizau/magnesium.git"
-    },
+    "repository": "https://github.com/IonicaBizau/magnesium",
     "keywords": [
       "magnesium",
       "terminal",
@@ -78,9 +75,6 @@
     ],
     "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/IonicaBizau/magnesium/issues"
-    },
     "homepage": "https://github.com/IonicaBizau/magnesium#readme",
     "dependencies": {
       "electronify": "^1.3.0",
@@ -125,7 +119,12 @@
       "menu/",
       "cli.js",
       "index.js"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/IonicaBizau/magnesium/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -172,6 +171,7 @@
   "svnUrl": "https://github.com/IonicaBizau/magnesium",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:18:36.957Z",
-  "packageLastFetchedAt": "2017-05-04T21:54:40.765Z"
+  "lastFetchedAt": "2017-10-23T21:48:47.028Z",
+  "packageLastFetchedAt": "2017-05-04T21:54:40.765Z",
+  "archived": false
 }

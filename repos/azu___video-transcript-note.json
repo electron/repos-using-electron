@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -20,12 +20,12 @@
   "description": "[electron] HTML5 Video viewer + Ruby translate transcript + Markdown note. ",
   "fork": false,
   "createdAt": "2015-07-05T15:03:14.000Z",
-  "updatedAt": "2016-08-25T16:43:37.000Z",
+  "updatedAt": "2017-10-14T02:05:21.000Z",
   "pushedAt": "2016-04-19T04:15:04.000Z",
   "homepage": "",
   "size": 21878,
-  "stargazersCount": 10,
-  "watchersCount": 10,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 10,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -53,22 +53,13 @@
   "status": 200,
   "packageJSON": {
     "name": "video-transcript-note",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/azu/video-transcript-note.git"
-    },
+    "repository": "https://github.com/azu/video-transcript-note",
     "author": "azu",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/video-transcript-note",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/video-transcript-note/issues"
-    },
     "version": "1.1.1",
     "main": "index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "start": "electron .",
       "dist": "electron-zip-packager ./ video-transcript-note --platform=darwin,win32 --arch=x64 --version=0.30.0 --ignore videos"
@@ -106,6 +97,14 @@
     "devDependencies": {
       "electron-prebuilt": "0.30.0",
       "electron-zip-packager": "^1.0.2"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/azu/video-transcript-note/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   "svnUrl": "https://github.com/azu/video-transcript-note",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:25:57.868Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:17.397Z"
+  "lastFetchedAt": "2017-10-23T22:12:26.547Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:17.397Z",
+  "archived": false
 }

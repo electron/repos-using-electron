@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gpii-electron",
     "version": "1.0.0",
@@ -74,10 +74,7 @@
       "start": "electron main.js",
       "dedupe-infusion": "node -e \"require('dedupe-infusion')();\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gpii/gpii-electron.git"
-    },
+    "repository": "https://github.com/gpii/gpii-electron",
     "keywords": [
       "Electron",
       "quick",
@@ -93,7 +90,8 @@
     "dependencies": {
       "windows": "git://github.com/amb26/windows.git#61cb7163b83044a689e4c5a24d0fdb706fc58d1a",
       "universal": "git://github.com/amb26/universal.git#9a8956efb9ebcdeb99f2d9213c3f0d1ec4e7a82a"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +118,6 @@
   },
   "filename": "sgithens___electron-gpii.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T13:05:26.901Z",
+  "lastFetchedAt": "2017-10-23T23:02:01.587Z",
   "packageLastFetchedAt": "2017-05-05T17:29:13.891Z"
 }

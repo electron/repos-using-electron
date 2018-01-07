@@ -5,7 +5,7 @@
   "owner": {
     "login": "sithika-a",
     "id": 10615257,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10615257?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10615257?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sithika-a",
     "htmlUrl": "https://github.com/sithika-a",
@@ -70,10 +70,7 @@
     "version": "3.0.0",
     "description": "high level way to create menubar desktop applications with atom-shell",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maxogden/menubar.git"
-    },
+    "repository": "https://github.com/maxogden/menubar",
     "scripts": {
       "test": "standard"
     },
@@ -90,9 +87,6 @@
       "name": "max ogden"
     },
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/maxogden/menubar/issues"
-    },
     "homepage": "https://github.com/maxogden/menubar",
     "dependencies": {
       "electron-positioner": "^2.0.1",
@@ -102,20 +96,16 @@
       "standard": "^3.2.1"
     },
     "gitHead": "5b3556711ff099b9b80298d51bf9a4b22cb081e8",
-    "_id": "menubar@3.0.0",
-    "_shasum": "7bc92949f392f1af6f72aa1dbc4778dde17b6de0",
-    "_from": "menubar@*",
-    "_npmVersion": "2.14.2",
-    "_nodeVersion": "4.0.0",
-    "_npmUser": {
-      "name": "maxogden",
-      "email": "max@maxogden.com"
-    },
     "dist": {
       "shasum": "7bc92949f392f1af6f72aa1dbc4778dde17b6de0",
       "tarball": "http://registry.npmjs.org/menubar/-/menubar-3.0.0.tgz"
     },
-    "maintainers": [
+    "_resolved": "https://registry.npmjs.org/menubar/-/menubar-3.0.0.tgz",
+    "lastPublisher": {
+      "name": "maxogden",
+      "email": "max@maxogden.com"
+    },
+    "owners": [
       {
         "name": "maxogden",
         "email": "max@maxogden.com"
@@ -133,8 +123,39 @@
         "email": "jens@jensl.se"
       }
     ],
-    "directories": {},
-    "_resolved": "https://registry.npmjs.org/menubar/-/menubar-3.0.0.tgz"
+    "other": {
+      "directories": {},
+      "bugs": {
+        "url": "https://github.com/maxogden/menubar/issues"
+      },
+      "_id": "menubar@3.0.0",
+      "_shasum": "7bc92949f392f1af6f72aa1dbc4778dde17b6de0",
+      "_from": "menubar@*",
+      "_npmVersion": "2.14.2",
+      "_nodeVersion": "4.0.0",
+      "maintainers": [
+        {
+          "name": "maxogden",
+          "email": "max@maxogden.com"
+        },
+        {
+          "name": "fritzy",
+          "email": "fritzy@netflint.net"
+        },
+        {
+          "name": "fabien-d",
+          "email": "fabien.doiron@gmail.com"
+        },
+        {
+          "name": "jenslind",
+          "email": "jens@jensl.se"
+        }
+      ],
+      "_npmUser": {
+        "name": "maxogden",
+        "email": "max@maxogden.com"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -161,6 +182,7 @@
   },
   "filename": "sithika-a___testRepo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:19:14.179Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:19.470Z"
+  "lastFetchedAt": "2017-10-24T00:16:19.437Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:19.470Z",
+  "archived": false
 }

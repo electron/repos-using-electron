@@ -5,7 +5,7 @@
   "owner": {
     "login": "applegrain",
     "id": 10555255,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10555255?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10555255?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/applegrain",
     "htmlUrl": "https://github.com/applegrain",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/applegrain/bulletin-board/downloads",
   "deploymentsUrl": "https://api.github.com/repos/applegrain/bulletin-board/deployments",
   "createdAt": "2016-07-31T03:42:29.000Z",
-  "updatedAt": "2017-03-18T09:07:06.000Z",
+  "updatedAt": "2017-06-13T08:48:57.000Z",
   "pushedAt": "2016-09-05T16:41:41.000Z",
   "gitUrl": "git://github.com/applegrain/bulletin-board.git",
   "sshUrl": "git@github.com:applegrain/bulletin-board.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/applegrain/bulletin-board",
   "homepage": "",
   "size": 22,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "up-and-running",
   "permissions": {
     "admin": false,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -74,10 +74,7 @@
       "start": "electron .",
       "test": "mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/applegrain/reactron.git"
-    },
+    "repository": "https://github.com/applegrain/reactron",
     "keywords": [
       "react",
       "electron",
@@ -85,9 +82,6 @@
     ],
     "author": "Lovisa Svallingson",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/applegrain/reactron/issues"
-    },
     "homepage": "https://github.com/applegrain/reactron#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
@@ -99,6 +93,11 @@
       "babel-register": "^6.11.6",
       "react": "^15.3.0",
       "react-dom": "^15.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/applegrain/reactron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "applegrain___bulletin-board.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:41:44.168Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:19.744Z"
+  "lastFetchedAt": "2017-10-23T22:53:25.864Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:19.744Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "oleander",
     "id": 220827,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/220827?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/220827?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/oleander",
     "htmlUrl": "https://github.com/oleander",
@@ -20,12 +20,12 @@
   "description": "A torrent desktop client for Trakt.tv with live updates from kickasstorrents/tpb with Popcorn-Time and VLC integration.",
   "fork": false,
   "createdAt": "2015-05-14T21:19:21.000Z",
-  "updatedAt": "2017-02-22T20:35:20.000Z",
+  "updatedAt": "2017-10-11T22:46:46.000Z",
   "pushedAt": "2016-03-21T11:03:56.000Z",
   "homepage": "",
   "size": 5174,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "stargazersCount": 14,
+  "watchersCount": 14,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 12,
+  "watchers": 14,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,10 +56,6 @@
     "version": "0.1.0",
     "description": "A torrent desktop client for Trakt.tv with live updates from kickasstorrents and Popcorn-Time integration",
     "main": "main.js",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "start": "ember server",
       "build": "ember build",
@@ -115,6 +111,12 @@
       "underscore": "1.8.3",
       "wuzzy": "0.1.2",
       "zpad": "0.5.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +164,7 @@
   "svnUrl": "https://github.com/oleander/show-time",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:32:54.915Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:15.370Z"
+  "lastFetchedAt": "2017-10-23T22:54:11.399Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:15.370Z",
+  "archived": false
 }

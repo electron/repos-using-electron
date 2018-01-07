@@ -164,7 +164,7 @@
   },
   "networkCount": 99,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "airman-app",
     "productName": "Airman",
@@ -174,7 +174,6 @@
     "description": "An app made with Electron that scaffolds InAiR projects using Yeoman",
     "author": "Long Nguyen <long@seespace.co>",
     "main": "src/browser/main.js",
-    "bugs": "https://github.com/longseespace/yeoman-app/issues",
     "dependencies": {
       "array.prototype.findindex": "^1.0.0",
       "async": "^1.2.1",
@@ -237,9 +236,9 @@
       "build": "electron-compile --target ./cache src/ static/ && node scripts/build.js"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/longseespace/yeoman-app"
+    "repository": "https://github.com/longseespace/yeoman-app",
+    "other": {
+      "bugs": "https://github.com/longseespace/yeoman-app/issues"
     }
   },
   "packageStatus": 200,
@@ -288,6 +287,6 @@
   "svnUrl": "https://github.com/longseespace/yeoman-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:11:43.469Z",
+  "lastFetchedAt": "2017-10-23T23:01:41.080Z",
   "packageLastFetchedAt": "2017-05-05T17:45:14.533Z"
 }

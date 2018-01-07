@@ -5,7 +5,7 @@
   "owner": {
     "login": "2graphic",
     "id": 22456859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22456859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22456859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/2graphic",
     "htmlUrl": "https://github.com/2graphic",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/2graphic/sinap-ide/downloads",
   "deploymentsUrl": "https://api.github.com/repos/2graphic/sinap-ide/deployments",
   "createdAt": "2016-10-22T02:50:42.000Z",
-  "updatedAt": "2017-04-27T17:55:09.000Z",
-  "pushedAt": "2017-05-04T07:20:03.000Z",
+  "updatedAt": "2017-08-06T08:17:52.000Z",
+  "pushedAt": "2017-09-12T19:18:38.000Z",
   "gitUrl": "git://github.com/2graphic/sinap-ide.git",
   "sshUrl": "git@github.com:2graphic/sinap-ide.git",
   "cloneUrl": "https://github.com/2graphic/sinap-ide.git",
   "svnUrl": "https://github.com/2graphic/sinap-ide",
   "homepage": null,
-  "size": 1811,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 1817,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 67,
-  "openIssues": 67,
-  "watchers": 3,
+  "openIssuesCount": 71,
+  "openIssues": 71,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "2graphic",
     "id": 22456859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22456859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22456859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/2graphic",
     "htmlUrl": "https://github.com/2graphic",
@@ -77,17 +77,14 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "sinap-ide",
     "version": "0.0.0",
     "description": "Sinap is not a plot.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/2graphic/sinap-ide"
-    },
+    "repository": "https://github.com/2graphic/sinap-ide",
     "main": "build/index.js",
     "scripts": {
       "clean": "rimraf ./build && rimraf ./dist && rimraf ./dll",
@@ -159,7 +156,8 @@
       "webpack": "2.2.1",
       "webpack-material-design-icons": "0.1.0",
       "webpack-merge": "4.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -186,6 +184,7 @@
   },
   "filename": "2graphic___sinap-ide.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T08:01:08.510Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:45.489Z"
+  "lastFetchedAt": "2017-10-23T23:40:53.390Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:45.489Z",
+  "archived": false
 }

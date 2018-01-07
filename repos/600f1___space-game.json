@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "space-game",
     "version": "0.0.1",
@@ -79,20 +79,19 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/600f1/space-game.git"
-    },
+    "repository": "https://github.com/600f1/space-game",
     "author": "Alonso Zamorano, Javier Torres, Diego Troncoso",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/600f1/space-game/issues"
-    },
     "homepage": "https://github.com/600f1/space-game#readme",
     "dependencies": {
       "electron": "^1.4.1",
       "express": "^4.14.0",
       "socket.io": "^1.4.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/600f1/space-game/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,6 @@
   },
   "filename": "600f1___space-game.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:39.440Z",
+  "lastFetchedAt": "2017-10-23T23:12:14.339Z",
   "packageLastFetchedAt": "2017-05-05T15:32:17.885Z"
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -95,7 +95,8 @@
     },
     "dependencies": {
       "electron-squirrel-startup": "^0.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +123,6 @@
   },
   "filename": "mobuter___electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:25:55.968Z",
+  "lastFetchedAt": "2017-10-23T22:10:58.233Z",
   "packageLastFetchedAt": "2017-05-05T01:33:38.943Z"
 }

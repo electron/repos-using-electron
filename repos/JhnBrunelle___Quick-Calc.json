@@ -1,11 +1,11 @@
 {
   "id": 66763937,
-  "name": "Quick-Calc",
-  "fullName": "JhnBrunelle/Quick-Calc",
+  "name": "electron-calc",
+  "fullName": "JhnBrunelle/electron-calc",
   "owner": {
     "login": "JhnBrunelle",
     "id": 20272851,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20272851?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20272851?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JhnBrunelle",
     "htmlUrl": "https://github.com/JhnBrunelle",
@@ -17,30 +17,30 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/JhnBrunelle/Quick-Calc",
+  "htmlUrl": "https://github.com/JhnBrunelle/electron-calc",
   "description": "An Ember/Electron basic taskbar calculator",
   "fork": false,
-  "url": "https://api.github.com/repos/JhnBrunelle/Quick-Calc",
-  "forksUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/forks",
-  "teamsUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/teams",
-  "hooksUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/hooks",
-  "eventsUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/events",
-  "tagsUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/tags",
-  "languagesUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/languages",
-  "stargazersUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/contributors",
-  "subscribersUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/subscription",
-  "mergesUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/merges",
-  "downloadsUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/JhnBrunelle/Quick-Calc/deployments",
+  "url": "https://api.github.com/repos/JhnBrunelle/electron-calc",
+  "forksUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/forks",
+  "teamsUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/teams",
+  "hooksUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/hooks",
+  "eventsUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/events",
+  "tagsUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/tags",
+  "languagesUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/languages",
+  "stargazersUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/contributors",
+  "subscribersUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/subscription",
+  "mergesUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/merges",
+  "downloadsUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/JhnBrunelle/electron-calc/deployments",
   "createdAt": "2016-08-28T11:10:37.000Z",
-  "updatedAt": "2017-04-20T22:35:23.000Z",
+  "updatedAt": "2017-06-09T04:50:47.000Z",
   "pushedAt": "2016-09-13T02:54:29.000Z",
-  "gitUrl": "git://github.com/JhnBrunelle/Quick-Calc.git",
-  "sshUrl": "git@github.com:JhnBrunelle/Quick-Calc.git",
-  "cloneUrl": "https://github.com/JhnBrunelle/Quick-Calc.git",
-  "svnUrl": "https://github.com/JhnBrunelle/Quick-Calc",
+  "gitUrl": "git://github.com/JhnBrunelle/electron-calc.git",
+  "sshUrl": "git@github.com:JhnBrunelle/electron-calc.git",
+  "cloneUrl": "https://github.com/JhnBrunelle/electron-calc.git",
+  "svnUrl": "https://github.com/JhnBrunelle/electron-calc",
   "homepage": "",
   "size": 23,
   "stargazersCount": 2,
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for quick-calc goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -159,6 +155,12 @@
     },
     "dependencies": {
       "menubar": "^5.1.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -186,6 +188,7 @@
   },
   "filename": "JhnBrunelle___Quick-Calc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:07.802Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:55.009Z"
+  "lastFetchedAt": "2017-10-23T22:13:18.108Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:55.009Z",
+  "archived": false
 }

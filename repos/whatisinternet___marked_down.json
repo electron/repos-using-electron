@@ -5,7 +5,7 @@
   "owner": {
     "login": "whatisinternet",
     "id": 5445478,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5445478?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5445478?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/whatisinternet",
     "htmlUrl": "https://github.com/whatisinternet",
@@ -69,10 +69,7 @@
     "name": "MarkedDown",
     "version": "0.1.0",
     "description": "A Markdown live preview",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/whatisinternet/marked_down.git"
-    },
+    "repository": "https://github.com/whatisinternet/marked_down",
     "main": "index.js",
     "scripts": {
       "deploy": "NODE_ENV=production webpack -p --config config/application/webpack.production.config.js",
@@ -112,7 +109,8 @@
       "react-hot-loader": "^1.3.0",
       "webpack": "^1.8.10",
       "webpack-dev-server": "~1.12.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +137,7 @@
   },
   "filename": "whatisinternet___marked_down.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:57:22.549Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:15.230Z"
+  "lastFetchedAt": "2017-10-23T23:44:42.674Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:15.230Z",
+  "archived": false
 }

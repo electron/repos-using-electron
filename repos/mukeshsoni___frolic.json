@@ -50,7 +50,7 @@
   },
   "networkCount": 4,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "frolic",
     "productName": "Frolic",
@@ -88,9 +88,6 @@
       "url": "https://github.com/mukeshsoni"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mukeshsoni/frolic/issues"
-    },
     "keywords": [
       "playground",
       "elm",
@@ -185,6 +182,11 @@
     },
     "jest": {
       "testEnvironment": "node"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mukeshsoni/frolic/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -232,6 +234,6 @@
   "svnUrl": "https://github.com/mukeshsoni/frolic",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:33:28.938Z",
+  "lastFetchedAt": "2017-10-23T23:04:49.320Z",
   "packageLastFetchedAt": "2017-05-04T22:25:08.979Z"
 }

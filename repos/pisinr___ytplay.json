@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ytplay",
     "version": "1.1.0",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pisinr/ytplay.git"
-    },
+    "repository": "https://github.com/pisinr/ytplay",
     "keywords": [
       "Electron",
       "Youtube"
@@ -71,7 +68,8 @@
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/pisinr/ytplay",
@@ -118,6 +116,6 @@
   },
   "filename": "pisinr___ytplay.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:20.067Z",
+  "lastFetchedAt": "2017-10-23T23:02:44.100Z",
   "packageLastFetchedAt": "2017-05-05T01:19:53.542Z"
 }

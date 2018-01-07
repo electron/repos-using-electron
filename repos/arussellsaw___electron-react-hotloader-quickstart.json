@@ -5,7 +5,7 @@
   "owner": {
     "login": "arussellsaw",
     "id": 5236823,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5236823?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5236823?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/arussellsaw",
     "htmlUrl": "https://github.com/arussellsaw",
@@ -82,10 +82,7 @@
       "electron": "electron main.js",
       "lint": "eslint src"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/arussellsaw/electron-react-hotloader-quickstart.git"
-    },
+    "repository": "https://github.com/arussellsaw/electron-react-hotloader-quickstart",
     "keywords": [
       "Electron",
       "quick",
@@ -94,9 +91,6 @@
     ],
     "author": "arussellsaw",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/arussellsaw/electron-react-hotloader-quickstart/issues"
-    },
     "homepage": "https://github.com/arussellsaw/electron-react-hotloader-quickstart#readme",
     "devDependencies": {
       "babel-core": "^6.0.20",
@@ -116,6 +110,11 @@
     "dependencies": {
       "react": "^0.14.6",
       "react-dom": "^0.14.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/arussellsaw/electron-react-hotloader-quickstart/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "arussellsaw___electron-react-hotloader-quickstart.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:43.026Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:12.838Z"
+  "lastFetchedAt": "2017-10-23T22:06:29.784Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:12.838Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "uraway",
     "id": 15242484,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15242484?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15242484?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uraway",
     "htmlUrl": "https://github.com/uraway",
@@ -53,17 +53,11 @@
   "status": 200,
   "packageJSON": {
     "name": "electron-oauth-twitter",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/uraway/electron-oauth-twitter.git"
-    },
+    "repository": "https://github.com/uraway/electron-oauth-twitter",
     "author": "Masato Urai @uraway_",
     "email": "masato.u0107@gmail.com",
     "homepage": "https://github.com/uraway/electron-oauth-twitter",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/uraway/electron-oauth-twitter/issues"
-    },
     "version": "1.1.0",
     "description": "Twitter OAuth Window library.",
     "main": "lib/OauthTwitter.js",
@@ -71,9 +65,6 @@
       "lib",
       "src"
     ],
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "build": "babel src --out-dir lib --source-maps",
       "watch": "babel src --out-dir lib --watch --source-maps",
@@ -104,6 +95,14 @@
         "add-module-exports"
       ],
       "sourceType": "module"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/uraway/electron-oauth-twitter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   "svnUrl": "https://github.com/uraway/electron-oauth-twitter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:44:21.768Z",
-  "packageLastFetchedAt": "2017-05-04T22:04:13.385Z"
+  "lastFetchedAt": "2017-10-23T22:31:21.986Z",
+  "packageLastFetchedAt": "2017-05-04T22:04:13.385Z",
+  "archived": false
 }

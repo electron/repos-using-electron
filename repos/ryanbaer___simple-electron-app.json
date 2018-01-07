@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tutorial-menubar-app",
     "version": "1.0.0",
@@ -86,7 +86,8 @@
     "scripts": {
       "build-osx": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -113,6 +114,6 @@
   },
   "filename": "ryanbaer___simple-electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:53.083Z",
+  "lastFetchedAt": "2017-10-23T23:06:43.629Z",
   "packageLastFetchedAt": "2017-05-05T17:32:35.820Z"
 }

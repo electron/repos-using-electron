@@ -5,7 +5,7 @@
   "owner": {
     "login": "gittron",
     "id": 19244189,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19244189?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19244189?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gittron",
     "htmlUrl": "https://github.com/gittron",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "gittron",
     "id": 19244189,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19244189?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19244189?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gittron",
     "htmlUrl": "https://github.com/gittron",
@@ -104,10 +104,7 @@
       "test": "npm run lint-js && npm run lint-sass && npm run coverage",
       "start": "electron . --enable-logging"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gittron/gittron.git"
-    },
+    "repository": "https://github.com/gittron/gittron",
     "keywords": [
       "gittron",
       "github",
@@ -125,9 +122,6 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gittron/gittron/issues"
-    },
     "homepage": "https://github.com/gittron/gittron",
     "dependencies": {
       "auto-launch": "=2.0.1",
@@ -184,6 +178,11 @@
       "sinon-chai": "=2.8.0",
       "style-loader": "=0.13.1",
       "webpack": "=1.13.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gittron/gittron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -211,6 +210,7 @@
   },
   "filename": "gittron___gittron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:33.595Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:30.873Z"
+  "lastFetchedAt": "2017-10-23T23:45:32.164Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:30.873Z",
+  "archived": false
 }

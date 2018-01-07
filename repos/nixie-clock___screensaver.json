@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nixie-clock",
     "version": "0.1.0",
@@ -88,15 +88,9 @@
       "start": "npm run build && electron .",
       "build": "rm -rf app/ && exec coffee -b -c -o app/ src/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nixie-clock/electron.git"
-    },
+    "repository": "https://github.com/nixie-clock/electron",
     "author": "Nick Iv",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nixie-clock/electron/issues"
-    },
     "homepage": "https://github.com/nixie-clock/electron#readme",
     "devDependencies": {
       "coffee-script": "^1.10.0",
@@ -107,6 +101,11 @@
     "dependencies": {
       "jquery": "^3.1.0",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nixie-clock/electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,6 @@
   },
   "filename": "nixie-clock___screensaver.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:46.328Z",
+  "lastFetchedAt": "2017-10-24T00:09:54.925Z",
   "packageLastFetchedAt": "2017-05-05T15:16:36.412Z"
 }

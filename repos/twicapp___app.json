@@ -5,7 +5,7 @@
   "owner": {
     "login": "twicapp",
     "id": 13690606,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13690606?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13690606?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/twicapp",
     "htmlUrl": "https://github.com/twicapp",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "twicapp",
     "id": 13690606,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13690606?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13690606?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/twicapp",
     "htmlUrl": "https://github.com/twicapp",
@@ -70,10 +70,7 @@
       "lint": "eslint src/",
       "start": "electron src/index"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/twicapp/app.git"
-    },
+    "repository": "https://github.com/twicapp/app",
     "keywords": [
       "twic",
       "twitter",
@@ -82,9 +79,6 @@
     ],
     "author": "Igor Kalashnikov <igor.kalashnikov@me.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/twicapp/app/issues"
-    },
     "homepage": "https://github.com/twicapp/app#readme",
     "dependencies": {
       "@twic/config": "1.0.1",
@@ -111,6 +105,11 @@
       ],
       "collectCoverage": true,
       "verbose": true
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/twicapp/app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +157,7 @@
   },
   "filename": "twicapp___app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:39.613Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:47.573Z"
+  "lastFetchedAt": "2017-10-24T02:03:41.406Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:47.573Z",
+  "archived": false
 }

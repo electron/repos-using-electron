@@ -5,7 +5,7 @@
   "owner": {
     "login": "smoli",
     "id": 1009634,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1009634?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1009634?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/smoli",
     "htmlUrl": "https://github.com/smoli",
@@ -73,10 +73,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/smoli/electron-test.git"
-    },
+    "repository": "https://github.com/smoli/electron-test",
     "keywords": [
       "electron",
       "js"
@@ -85,7 +82,8 @@
     "license": "ISC",
     "dependencies": {
       "electron-prebuilt": "^0.30.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +110,7 @@
   },
   "filename": "smoli___electron-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:40.538Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:02.978Z"
+  "lastFetchedAt": "2017-10-24T00:06:03.699Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:02.978Z",
+  "archived": false
 }

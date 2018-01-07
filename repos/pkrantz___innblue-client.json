@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "innblue-app",
     "version": "0.1.0",
@@ -207,7 +207,8 @@
       "version": "npm run build",
       "postversion": "git push && git push --tags",
       "electron": "electron ./src/electron/main.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -234,6 +235,6 @@
   },
   "filename": "pkrantz___innblue-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:15:42.699Z",
+  "lastFetchedAt": "2017-10-24T00:18:35.922Z",
   "packageLastFetchedAt": "2017-05-05T17:43:39.275Z"
 }

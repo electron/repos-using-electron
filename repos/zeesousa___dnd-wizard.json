@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dnd-wizard",
     "version": "0.0.3",
@@ -80,10 +80,7 @@
       "build": "electron-packager . electron-test --all --out build",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zeesousa/dnd-wizard.git"
-    },
+    "repository": "https://github.com/zeesousa/dnd-wizard",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "GNU AGPLv3",
-    "bugs": {
-      "url": "https://github.com/zeesousa/dnd-wizard/issues"
-    },
     "homepage": "https://github.com/zeesousa/dnd-wizard/#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.18.0",
@@ -129,6 +123,11 @@
         "main.js",
         "package.json"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zeesousa/dnd-wizard/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +155,6 @@
   },
   "filename": "zeesousa___dnd-wizard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:18.952Z",
+  "lastFetchedAt": "2017-10-24T00:14:07.406Z",
   "packageLastFetchedAt": "2017-05-05T15:29:09.245Z"
 }

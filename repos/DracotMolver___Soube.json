@@ -5,7 +5,7 @@
   "owner": {
     "login": "DracotMolver",
     "id": 13334764,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13334764?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13334764?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DracotMolver",
     "htmlUrl": "https://github.com/DracotMolver",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/DracotMolver/Soube/downloads",
   "deploymentsUrl": "https://api.github.com/repos/DracotMolver/Soube/deployments",
   "createdAt": "2016-08-09T16:03:25.000Z",
-  "updatedAt": "2017-05-02T20:29:49.000Z",
-  "pushedAt": "2017-05-01T02:06:51.000Z",
+  "updatedAt": "2017-09-07T07:05:37.000Z",
+  "pushedAt": "2017-10-18T00:23:00.000Z",
   "gitUrl": "git://github.com/DracotMolver/Soube.git",
   "sshUrl": "git@github.com:DracotMolver/Soube.git",
   "cloneUrl": "https://github.com/DracotMolver/Soube.git",
   "svnUrl": "https://github.com/DracotMolver/Soube",
   "homepage": "http://soube.diegomolina.cl",
-  "size": 1135,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 1378,
+  "stargazersCount": 23,
+  "watchersCount": 23,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 7,
+  "forksCount": 6,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 18,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 23,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 7,
-  "subscribersCount": 1,
+  "networkCount": 6,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "soube",
@@ -121,7 +121,8 @@
       "pack": "build --dir",
       "dist": "build",
       "build": "electron-packager ./app soube --out=dist --platform=linux --ignore='^/dist$' --arch=all --prune --icon='./app/assets/img/icon.png'"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -148,6 +149,7 @@
   },
   "filename": "DracotMolver___Soube.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:05:21.274Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:28.487Z"
+  "lastFetchedAt": "2017-10-23T21:49:41.856Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:28.487Z",
+  "archived": false
 }

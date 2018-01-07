@@ -5,7 +5,7 @@
   "owner": {
     "login": "fupslot",
     "id": 2789775,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2789775?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2789775?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fupslot",
     "htmlUrl": "https://github.com/fupslot",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fupslot/CodeAnalizer.git"
-    },
+    "repository": "https://github.com/fupslot/CodeAnalizer",
     "keywords": [
       "Code",
       "Analize",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/fupslot/CodeAnalizer/issues"
-    },
     "homepage": "https://github.com/fupslot/CodeAnalizer/issues",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -103,6 +97,11 @@
       "highcharts": "^4.2.3",
       "jquery": "^2.2.0",
       "lodash": "^4.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fupslot/CodeAnalizer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "fupslot___CodeAnalizer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:27:16.272Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:58.473Z"
+  "lastFetchedAt": "2017-10-23T21:48:16.622Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:58.473Z",
+  "archived": false
 }

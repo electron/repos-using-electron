@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hl7-viewer",
     "version": "0.9.2",
@@ -71,7 +71,8 @@
       "electron-packager": "^8.0.0",
       "electron-prebuilt": "^1.4.1",
       "electron-winstaller": "^2.3.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +119,6 @@
   "svnUrl": "https://github.com/farcasmihai91/hl7-viewer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:58:03.016Z",
+  "lastFetchedAt": "2017-10-23T23:02:28.104Z",
   "packageLastFetchedAt": "2017-05-05T17:45:15.678Z"
 }

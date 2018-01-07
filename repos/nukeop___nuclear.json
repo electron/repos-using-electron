@@ -5,7 +5,7 @@
   "owner": {
     "login": "nukeop",
     "id": 12746779,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12746779?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12746779?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nukeop",
     "htmlUrl": "https://github.com/nukeop",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/nukeop/nuclear/downloads",
   "deploymentsUrl": "https://api.github.com/repos/nukeop/nuclear/deployments",
   "createdAt": "2016-09-22T22:58:21.000Z",
-  "updatedAt": "2017-05-03T14:38:16.000Z",
-  "pushedAt": "2017-05-01T14:11:31.000Z",
+  "updatedAt": "2017-10-20T12:42:37.000Z",
+  "pushedAt": "2017-10-23T20:39:59.000Z",
   "gitUrl": "git://github.com/nukeop/nuclear.git",
   "sshUrl": "git@github.com:nukeop/nuclear.git",
   "cloneUrl": "https://github.com/nukeop/nuclear.git",
   "svnUrl": "https://github.com/nukeop/nuclear",
   "homepage": "http://nuclear.gumblert.tech/",
-  "size": 7621,
-  "stargazersCount": 215,
-  "watchersCount": 215,
+  "size": 9742,
+  "stargazersCount": 298,
+  "watchersCount": 298,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 28,
+  "forksCount": 45,
   "mirrorUrl": null,
   "openIssuesCount": 14,
   "openIssues": 14,
-  "watchers": 215,
+  "watchers": 298,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 28,
-  "subscribersCount": 19,
+  "networkCount": 45,
+  "subscribersCount": 28,
   "status": 200,
   "packageJSON": {
     "name": "nuclear",
@@ -146,19 +146,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nukeop/nuclear.git"
-    },
+    "repository": "https://github.com/nukeop/nuclear",
     "author": {
       "name": "nukeop",
       "email": "alsw@protonmail.com",
       "url": "https://github.com/nukeop/"
     },
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/nukeop/nuclear/issues"
-    },
     "keywords": [
       "electron",
       "music",
@@ -265,6 +259,11 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nukeop/nuclear/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -292,6 +291,7 @@
   },
   "filename": "nukeop___nuclear.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:02:35.290Z",
-  "packageLastFetchedAt": "2017-05-05T11:37:01.617Z"
+  "lastFetchedAt": "2017-10-23T22:32:18.000Z",
+  "packageLastFetchedAt": "2017-05-05T11:37:01.617Z",
+  "archived": false
 }

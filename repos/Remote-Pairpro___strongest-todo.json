@@ -5,7 +5,7 @@
   "owner": {
     "login": "Remote-Pairpro",
     "id": 15126005,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15126005?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15126005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Remote-Pairpro",
     "htmlUrl": "https://github.com/Remote-Pairpro",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Remote-Pairpro",
     "id": 15126005,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15126005?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15126005?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Remote-Pairpro",
     "htmlUrl": "https://github.com/Remote-Pairpro",
@@ -84,11 +84,6 @@
     "version": "1.0.6",
     "description": "俺達が考える最強のTODOリスト！",
     "main": "index.js",
-    "directories": {
-      "app": "app",
-      "src": "src",
-      "doc": "doc"
-    },
     "scripts": {
       "postinstall": "gulp download-typings",
       "download-typings": "gulp download-typings",
@@ -103,10 +98,7 @@
       "develop": "gulp develop",
       "upload-ghpages-for-wercker": "gulp upload-ghpages-for-wercker"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Remote-Pairpro/strongest-todo.git"
-    },
+    "repository": "https://github.com/Remote-Pairpro/strongest-todo",
     "keywords": [
       "typescript",
       "electron",
@@ -114,9 +106,6 @@
     ],
     "author": "kazuhito-m,HIDARI0415",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Remote-Pairpro/strongest-todo/issues"
-    },
     "homepage": "https://github.com/Remote-Pairpro/strongest-todo#readme",
     "devDependencies": {
       "browserify": "^13.0.0",
@@ -148,6 +137,16 @@
       "tsify": "^0.14.1",
       "typings": "^0.7.9",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "directories": {
+        "app": "app",
+        "src": "src",
+        "doc": "doc"
+      },
+      "bugs": {
+        "url": "https://github.com/Remote-Pairpro/strongest-todo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -175,6 +174,7 @@
   },
   "filename": "Remote-Pairpro___strongest-todo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:46:10.834Z",
-  "packageLastFetchedAt": "2017-05-05T16:58:59.298Z"
+  "lastFetchedAt": "2017-10-23T23:38:18.780Z",
+  "packageLastFetchedAt": "2017-05-05T16:58:59.298Z",
+  "archived": false
 }

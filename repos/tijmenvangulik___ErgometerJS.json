@@ -70,7 +70,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ErgometerJS",
     "description": "Java script ergometer driver for concept 2 performance monitor with BLE. (The PM5) Works on all major platforms using cordova and node/electron",
@@ -107,10 +107,8 @@
       "build:webbluetooth": "node_modules/.bin/tsc -p demos/webbluetooth ",
       "build": "npm run build:api && npm run build:copy_api && npm run build:simplecordova && npm run build:simple_electron  && npm run build:recording && npm run build:webbluetooth"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tijmenvangulik/MobileErgometer"
-    }
+    "repository": "https://github.com/tijmenvangulik/MobileErgometer",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,6 @@
   },
   "filename": "tijmenvangulik___ErgometerJS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:24.839Z",
+  "lastFetchedAt": "2017-10-23T22:56:37.591Z",
   "packageLastFetchedAt": "2017-05-05T17:52:16.649Z"
 }

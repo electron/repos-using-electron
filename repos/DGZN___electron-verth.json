@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "Vertheron",
@@ -96,18 +96,12 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DGZN/electron-verth.git"
-    },
+    "repository": "https://github.com/DGZN/electron-verth",
     "author": {
       "name": "DGZN",
       "email": "digizn@gmail.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/DGZN/electron-verth/issues"
-    },
     "keywords": [],
     "homepage": "https://github.com/DGZN/electron-verth#readme",
     "devDependencies": {
@@ -191,6 +185,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/DGZN/electron-verth/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -218,6 +217,6 @@
   },
   "filename": "DGZN___electron-verth.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:48.977Z",
+  "lastFetchedAt": "2017-10-23T23:10:05.335Z",
   "packageLastFetchedAt": "2017-05-05T17:37:59.359Z"
 }

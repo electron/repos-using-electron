@@ -5,7 +5,7 @@
   "owner": {
     "login": "miloszmd",
     "id": 8069072,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8069072?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8069072?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/miloszmd",
     "htmlUrl": "https://github.com/miloszmd",
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "Mailman",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,15 +82,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "monaco-editor": "^0.5.3",
       "request": "^2.74.0",
       "vue-devtools": "^2.0.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "miloszmd___mailman.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:50.003Z",
-  "packageLastFetchedAt": "2017-05-04T23:02:51.503Z"
+  "lastFetchedAt": "2017-10-23T23:35:23.693Z",
+  "packageLastFetchedAt": "2017-05-04T23:02:51.503Z",
+  "archived": false
 }

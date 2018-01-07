@@ -5,7 +5,7 @@
   "owner": {
     "login": "mcmartins",
     "id": 7697098,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7697098?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7697098?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mcmartins",
     "htmlUrl": "https://github.com/mcmartins",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/mcmartins/gap-ide",
-  "description": "GAP IDE",
+  "description": "GAP Interactive Development Environment in Brackets",
   "fork": false,
   "url": "https://api.github.com/repos/mcmartins/gap-ide",
   "forksUrl": "https://api.github.com/repos/mcmartins/gap-ide/forks",
@@ -35,17 +35,17 @@
   "downloadsUrl": "https://api.github.com/repos/mcmartins/gap-ide/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mcmartins/gap-ide/deployments",
   "createdAt": "2016-10-10T17:21:23.000Z",
-  "updatedAt": "2016-11-07T19:50:55.000Z",
-  "pushedAt": "2016-11-17T08:54:53.000Z",
+  "updatedAt": "2017-10-23T14:37:33.000Z",
+  "pushedAt": "2017-10-20T07:17:29.000Z",
   "gitUrl": "git://github.com/mcmartins/gap-ide.git",
   "sshUrl": "git@github.com:mcmartins/gap-ide.git",
   "cloneUrl": "https://github.com/mcmartins/gap-ide.git",
   "svnUrl": "https://github.com/mcmartins/gap-ide",
   "homepage": "",
-  "size": 99,
+  "size": 148,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "CSS",
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -101,14 +101,7 @@
     },
     "author": "Manuel Martins <manuelmachadomartins@gmail.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mcmartins/gap-ide.git",
-      "docs": "https://github.com/mcmartins/gap-ide/blob/master/README.md"
-    },
-    "bugs": {
-      "url": "https://github.com/mcmartins/gap-ide/issues"
-    },
+    "repository": "https://github.com/mcmartins/gap-ide",
     "devDependencies": {
       "devtron": "^1.3.0",
       "electron-packager": "^8.0.0",
@@ -120,6 +113,11 @@
     "dependencies": {
       "electron": "^1.4.5",
       "menubar": "^5.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mcmartins/gap-ide/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +145,7 @@
   },
   "filename": "mcmartins___gap-ide.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:04:02.910Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:17.518Z"
+  "lastFetchedAt": "2017-10-23T23:36:39.553Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:17.518Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "sethvincent",
     "id": 164214,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/164214?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/164214?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sethvincent",
     "htmlUrl": "https://github.com/sethvincent",
@@ -20,12 +20,12 @@
   "description": "A tiny module for managing state",
   "fork": false,
   "createdAt": "2016-03-30T00:22:02.000Z",
-  "updatedAt": "2017-04-22T10:53:41.000Z",
+  "updatedAt": "2017-10-04T15:21:47.000Z",
   "pushedAt": "2016-12-10T04:31:27.000Z",
   "homepage": "https://send-action.static.land/",
   "size": 2532,
-  "stargazersCount": 56,
-  "watchersCount": 56,
+  "stargazersCount": 59,
+  "watchersCount": 59,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 4,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 56,
+  "watchers": 59,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 4,
-  "subscribersCount": 8,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "send-action",
@@ -65,10 +65,7 @@
       "start": "budo --dir dist --pushstate",
       "deploy": "npm run build:deploy && staticland dist/ send-action.static.land"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sethvincent/send-action.git"
-    },
+    "repository": "https://github.com/sethvincent/send-action",
     "keywords": [
       "state",
       "store",
@@ -79,9 +76,6 @@
     ],
     "author": "sethvincent",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/sethvincent/send-action/issues"
-    },
     "homepage": "https://github.com/sethvincent/send-action#readme",
     "dependencies": {
       "xtend": "^4.0.1"
@@ -98,6 +92,11 @@
       "virtual-dom": "^2.1.1",
       "virtual-raf": "^3.0.0",
       "yo-yo": "^1.3.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sethvincent/send-action/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   },
   "filename": "sethvincent___send-action.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:26.703Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:58.226Z"
+  "lastFetchedAt": "2017-10-23T22:16:11.276Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:58.226Z",
+  "archived": false
 }

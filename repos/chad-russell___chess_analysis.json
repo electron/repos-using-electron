@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Nf5",
     "productName": "Nf5",
@@ -67,10 +67,7 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Nf5/Nf5.git"
-    },
+    "repository": "https://github.com/Nf5/Nf5",
     "keywords": [
       "Chess",
       "Nf5"
@@ -104,7 +101,8 @@
       "env": {
         "mocha": true
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/chad-russell/nf5",
@@ -152,6 +150,6 @@
   "filename": "chad-russell___chess_analysis.json",
   "sourceRepo": "electron/electron-api-demos",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:17.965Z",
+  "lastFetchedAt": "2017-10-23T22:59:25.314Z",
   "packageLastFetchedAt": "2017-05-05T15:27:55.017Z"
 }

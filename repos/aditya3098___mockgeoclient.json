@@ -5,7 +5,7 @@
   "owner": {
     "login": "aditya3098",
     "id": 1984211,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1984211?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1984211?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aditya3098",
     "htmlUrl": "https://github.com/aditya3098",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/aditya3098/mockgeoclient",
-  "description": "A client for MockGeoFix and the android emulator using \"geo fix\" commands over the network",
+  "description": "This will stay here to remind me that I too fell for the electron hype, before realising how bad of an idea it was",
   "fork": false,
   "url": "https://api.github.com/repos/aditya3098/mockgeoclient",
   "forksUrl": "https://api.github.com/repos/aditya3098/mockgeoclient/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/aditya3098/mockgeoclient/downloads",
   "deploymentsUrl": "https://api.github.com/repos/aditya3098/mockgeoclient/deployments",
   "createdAt": "2016-08-09T13:14:04.000Z",
-  "updatedAt": "2016-08-15T20:04:52.000Z",
+  "updatedAt": "2017-10-21T09:32:34.000Z",
   "pushedAt": "2016-08-21T07:35:00.000Z",
   "gitUrl": "git://github.com/aditya3098/mockgeoclient.git",
   "sshUrl": "git@github.com:aditya3098/mockgeoclient.git",
   "cloneUrl": "https://github.com/aditya3098/mockgeoclient.git",
   "svnUrl": "https://github.com/aditya3098/mockgeoclient",
-  "homepage": null,
+  "homepage": "",
   "size": 1877,
   "stargazersCount": 1,
   "watchersCount": 1,
@@ -81,10 +81,7 @@
       "pack": "build --dir",
       "dist": "build --ia32 --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aditya3098/mockgeoclient.git"
-    },
+    "repository": "https://github.com/aditya3098/mockgeoclient",
     "author": "Aditya Goturu",
     "homepage": "https://www.sudoforlunch.org",
     "dependencies": {
@@ -110,7 +107,8 @@
       "electron-builder": "^5.24.0",
       "grunt": "^1.0.1",
       "grunt-bump": "^0.8.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,7 @@
   },
   "filename": "aditya3098___mockgeoclient.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:14:33.816Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:23.168Z"
+  "lastFetchedAt": "2017-10-24T00:16:50.205Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:23.168Z",
+  "archived": false
 }

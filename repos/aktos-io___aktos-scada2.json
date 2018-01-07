@@ -78,7 +78,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "scada",
     "version": "0.4.0",
@@ -88,15 +88,9 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "clean": "rm -rf ./build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ceremcem/livescript-ractive-example-project.git"
-    },
+    "repository": "https://github.com/ceremcem/livescript-ractive-example-project",
     "author": "Cerem Cem ASLAN",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ceremcem/livescript-ractive-example-project/issues"
-    },
     "homepage": "https://github.com/ceremcem/livescript-ractive-example-project#readme",
     "dependencies": {
       "bases": "^0.2.1",
@@ -154,9 +148,6 @@
       "watchify": "^3.7.0",
       "yargs": "^4.8.1"
     },
-    "directories": {
-      "doc": "doc"
-    },
     "keywords": [
       "scada",
       "ractive",
@@ -165,7 +156,15 @@
       "ERP",
       "distributed",
       "control"
-    ]
+    ],
+    "other": {
+      "directories": {
+        "doc": "doc"
+      },
+      "bugs": {
+        "url": "https://github.com/ceremcem/livescript-ractive-example-project/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -192,6 +191,6 @@
   },
   "filename": "aktos-io___aktos-scada2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:33:39.937Z",
+  "lastFetchedAt": "2017-10-23T22:59:25.087Z",
   "packageLastFetchedAt": "2017-05-04T23:05:04.402Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Focalworks",
     "id": 8167762,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8167762?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8167762?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Focalworks",
     "htmlUrl": "https://github.com/Focalworks",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "Focalworks",
     "id": 8167762,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8167762?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8167762?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Focalworks",
     "htmlUrl": "https://github.com/Focalworks",
@@ -88,18 +88,12 @@
       "start": "electron .",
       "build:all": "electron-packager . TimesheetTracker --platform=all --arch=all --version=0.35.2"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Focalworks/TimesheetTtracker.git"
-    },
+    "repository": "https://github.com/Focalworks/TimesheetTtracker",
     "keywords": [
       "timesheet"
     ],
     "author": "FW",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Focalworks/TimesheetTtracker/issues"
-    },
     "homepage": "https://github.com/Focalworks/TimesheetTtracker#readme",
     "devDependencies": {
       "angular": "^1.4.8",
@@ -109,6 +103,11 @@
       "lokijs": "^1.3.10",
       "moment": "^2.10.6",
       "node-uuid": "^1.4.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Focalworks/TimesheetTtracker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -136,6 +135,7 @@
   },
   "filename": "Focalworks___TimesheetTtracker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:27.309Z",
-  "packageLastFetchedAt": "2017-05-05T09:36:14.367Z"
+  "lastFetchedAt": "2017-10-23T22:26:55.495Z",
+  "packageLastFetchedAt": "2017-05-05T09:36:14.367Z",
+  "archived": false
 }

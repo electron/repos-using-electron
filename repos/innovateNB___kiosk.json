@@ -78,16 +78,12 @@
   },
   "networkCount": 2,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "kiosk",
     "version": "0.0.0",
     "description": "Small description for kiosk goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -186,7 +182,13 @@
         "InternalName": null
       }
     },
-    "optionalDependencies": {}
+    "optionalDependencies": {},
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -213,6 +215,6 @@
   },
   "filename": "innovateNB___kiosk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:42.499Z",
+  "lastFetchedAt": "2017-10-23T21:45:38.369Z",
   "packageLastFetchedAt": "2017-05-04T21:55:50.281Z"
 }

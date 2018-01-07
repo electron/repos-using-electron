@@ -5,7 +5,7 @@
   "owner": {
     "login": "vincent",
     "id": 5623,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5623?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5623?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vincent",
     "htmlUrl": "https://github.com/vincent",
@@ -99,15 +99,9 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/vincent/trippy.git"
-    },
+    "repository": "https://github.com/vincent/trippy",
     "author": "Vincent Lark",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vincent/trippy/issues"
-    },
     "keywords": [
       "electron",
       "games",
@@ -243,9 +237,14 @@
         ]
       }
     },
-    "directories": {
-      "app": "./dist/",
-      "output": "./release/"
+    "other": {
+      "directories": {
+        "app": "./dist/",
+        "output": "./release/"
+      },
+      "bugs": {
+        "url": "https://github.com/vincent/trippy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -273,6 +272,7 @@
   },
   "filename": "vincent___trippy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:32:55.634Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:54.335Z"
+  "lastFetchedAt": "2017-10-24T00:15:12.455Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:54.335Z",
+  "archived": false
 }

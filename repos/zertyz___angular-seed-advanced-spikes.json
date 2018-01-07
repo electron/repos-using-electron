@@ -6,7 +6,7 @@
   "owner": {
     "login": "zertyz",
     "id": 20879629,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/20879629?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/20879629?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zertyz",
     "htmlUrl": "https://github.com/zertyz",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/zertyz/angular-seed-advanced-spikes/deployments",
   "createdAt": "2016-11-24T14:27:56.000Z",
   "updatedAt": "2016-11-24T17:08:59.000Z",
-  "pushedAt": "2017-04-28T15:54:43.000Z",
+  "pushedAt": "2017-10-17T18:32:12.000Z",
   "gitUrl": "git://github.com/zertyz/angular-seed-advanced-spikes.git",
   "sshUrl": "git@github.com:zertyz/angular-seed-advanced-spikes.git",
   "cloneUrl": "https://github.com/zertyz/angular-seed-advanced-spikes.git",
   "svnUrl": "https://github.com/zertyz/angular-seed-advanced-spikes",
   "homepage": "http://InstantVAS.com",
-  "size": 16488,
+  "size": 17158,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "TypeScript",
@@ -76,9 +76,7 @@
     "name": "angular-seed-advanced-mutuatech",
     "version": "0.1.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -271,7 +269,8 @@
       "rxjs": "~5.2.0",
       "systemjs": "0.19.41",
       "zone.js": "^0.8.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -298,6 +297,7 @@
   },
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:57.155Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:16.853Z"
+  "lastFetchedAt": "2017-10-24T00:13:34.939Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:16.853Z",
+  "archived": false
 }

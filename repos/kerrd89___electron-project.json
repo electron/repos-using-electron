@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-project",
     "version": "0.0.0",
@@ -136,7 +136,8 @@
       "knex": "^0.12.6",
       "moment": "^2.17.1",
       "sqlite3": "^3.1.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -162,6 +163,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:41.620Z",
+  "lastFetchedAt": "2017-10-23T22:57:01.591Z",
   "packageLastFetchedAt": "2017-05-05T15:36:43.564Z"
 }

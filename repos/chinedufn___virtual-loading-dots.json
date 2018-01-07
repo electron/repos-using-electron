@@ -5,7 +5,7 @@
   "owner": {
     "login": "chinedufn",
     "id": 2099811,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2099811?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2099811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/chinedufn",
     "htmlUrl": "https://github.com/chinedufn",
@@ -20,7 +20,7 @@
   "description": "virtual-dom loading dots component",
   "fork": false,
   "createdAt": "2016-02-06T21:37:45.000Z",
-  "updatedAt": "2016-12-25T02:13:38.000Z",
+  "updatedAt": "2017-10-12T20:24:07.000Z",
   "pushedAt": "2016-06-16T11:36:13.000Z",
   "homepage": "http://chinedufn.github.io/virtual-loading-dots/",
   "size": 262,
@@ -50,18 +50,12 @@
     "version": "1.1.1",
     "description": "Virtual-dom loading dots component",
     "main": "src/virtual-loading-dots.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "demo": "budo demo/browser.js --open --live",
       "deploy": "mkdirp example-dist && browserify demo/browser.js | htmlify > example-dist/index.html && gh-pages -d example-dist",
       "test": "standard && node test/virtual-loading-dots.js && browserify test/virtual-loading-dots.js | testron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chinedufn/virtual-loading-dots.git"
-    },
+    "repository": "https://github.com/chinedufn/virtual-loading-dots",
     "keywords": [
       "component",
       "load",
@@ -74,9 +68,6 @@
     ],
     "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chinedufn/virtual-loading-dots/issues"
-    },
     "homepage": "https://github.com/chinedufn/virtual-loading-dots#readme",
     "dependencies": {
       "create-keyframe": "^1.0.1",
@@ -96,6 +87,14 @@
       "tape": "^4.4.0",
       "testron": "^1.2.0",
       "virtual-dom": "^2.1.1"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/chinedufn/virtual-loading-dots/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   "svnUrl": "https://github.com/chinedufn/virtual-loading-dots",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:02:20.145Z",
-  "packageLastFetchedAt": "2017-05-05T17:35:50.011Z"
+  "lastFetchedAt": "2017-10-23T22:54:02.613Z",
+  "packageLastFetchedAt": "2017-05-05T17:35:50.011Z",
+  "archived": false
 }

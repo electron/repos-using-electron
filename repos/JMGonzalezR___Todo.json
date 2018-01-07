@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "todo",
     "version": "1.0.0",
@@ -77,15 +77,9 @@
       "run-server": "node server",
       "start": "electron ./"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/JMGonzalezR/Todo.git"
-    },
+    "repository": "https://github.com/JMGonzalezR/Todo",
     "author": "Juan M. Gonzalez R.",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/JMGonzalezR/Todo/issues"
-    },
     "homepage": "https://github.com/JMGonzalezR/Todo#readme",
     "dependencies": {
       "babel-preset-es2015": "^6.6.0",
@@ -117,6 +111,11 @@
       "webpack": "^1.12.14",
       "webpack-dev-server": "^1.14.1",
       "webpack-hot-hapi-plugin": "0.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/JMGonzalezR/Todo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,6 @@
   },
   "filename": "JMGonzalezR___Todo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:02.002Z",
+  "lastFetchedAt": "2017-10-23T23:06:12.069Z",
   "packageLastFetchedAt": "2017-05-05T17:00:13.288Z"
 }

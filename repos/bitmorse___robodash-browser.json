@@ -5,7 +5,7 @@
   "owner": {
     "login": "bitmorse",
     "id": 1045808,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1045808?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1045808?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bitmorse",
     "htmlUrl": "https://github.com/bitmorse",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for robodash-browser goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "start": "ember server",
       "test": "ember test",
@@ -160,6 +156,12 @@
       "paths": [
         "lib/link-after-build"
       ]
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -187,6 +189,7 @@
   },
   "filename": "bitmorse___robodash-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:45.290Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:56.703Z"
+  "lastFetchedAt": "2017-10-23T22:06:21.607Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:56.703Z",
+  "archived": false
 }

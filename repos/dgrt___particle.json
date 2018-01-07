@@ -5,7 +5,7 @@
   "owner": {
     "login": "dgrt",
     "id": 18549299,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18549299?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18549299?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dgrt",
     "htmlUrl": "https://github.com/dgrt",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/dgrt/particle/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dgrt/particle/deployments",
   "createdAt": "2016-05-09T18:07:54.000Z",
-  "updatedAt": "2016-05-09T18:19:12.000Z",
+  "updatedAt": "2017-08-28T06:42:29.000Z",
   "pushedAt": "2016-05-09T18:19:11.000Z",
   "gitUrl": "git://github.com/dgrt/particle.git",
   "sshUrl": "git@github.com:dgrt/particle.git",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dgrt/particle.git"
-    },
+    "repository": "https://github.com/dgrt/particle",
     "keywords": [
       "Electron",
       "dgrt",
@@ -91,12 +88,14 @@
     ],
     "author": "dgrt",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/dgrt/particle/issues"
-    },
     "homepage": "https://github.com/dgrt/particle",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dgrt/particle/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "dgrt___particle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:23.751Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:47.247Z"
+  "lastFetchedAt": "2017-10-23T22:14:55.269Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:47.247Z",
+  "archived": false
 }

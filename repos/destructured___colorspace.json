@@ -5,7 +5,7 @@
   "owner": {
     "login": "destructured",
     "id": 16993475,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16993475?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16993475?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/destructured",
     "htmlUrl": "https://github.com/destructured",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "destructured",
     "id": 16993475,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16993475?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16993475?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/destructured",
     "htmlUrl": "https://github.com/destructured",
@@ -75,10 +75,7 @@
       "build": "webpack -p --progress",
       "dev": "webpack --progress --color --watch & electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:destructured/colorspace.git"
-    },
+    "repository": "https://github.com/destructured/colorspace",
     "author": "Jen",
     "devDependencies": {
       "babel-core": "^6.2.1",
@@ -92,7 +89,8 @@
       "style-loader": "^0.13.0",
       "url-loader": "^0.5.7",
       "webpack": "^1.12.9"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/destructured/colorspace",
@@ -139,6 +137,7 @@
   },
   "filename": "destructured___colorspace.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:10.361Z",
-  "packageLastFetchedAt": "2017-05-04T22:37:11.523Z"
+  "lastFetchedAt": "2017-10-23T23:12:08.638Z",
+  "packageLastFetchedAt": "2017-05-04T22:37:11.523Z",
+  "archived": false
 }

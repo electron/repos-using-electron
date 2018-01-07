@@ -5,7 +5,7 @@
   "owner": {
     "login": "zce",
     "id": 6166576,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6166576?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6166576?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zce",
     "htmlUrl": "https://github.com/zce",
@@ -69,15 +69,9 @@
     "name": "itcast-tms",
     "description": "A management system for Itcast, Inc.",
     "version": "5.0.0",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zce/itcast-tms.git"
-    },
+    "repository": "https://github.com/zce/itcast-tms",
     "author": "iceStone <ice@wedn.net> (http://wedn.net/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zce/itcast-tms/issues"
-    },
     "homepage": "http://tms.uieee.com/",
     "scripts": {
       "submodule": "git clone https://git.oschina.net/wedn/itcast-tms.git dist -b v5.x --depth 1",
@@ -144,6 +138,11 @@
       "webpack-dashboard": "^0.1.8",
       "webpack-dev-server": "^1.15.1",
       "webpack-merge": "^0.14.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zce/itcast-tms/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "zce___itcast-tms.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:36:40.348Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:02.706Z"
+  "lastFetchedAt": "2017-10-23T21:43:37.766Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:02.706Z",
+  "archived": false
 }

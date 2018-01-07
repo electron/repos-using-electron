@@ -5,7 +5,7 @@
   "owner": {
     "login": "toowoo",
     "id": 21359333,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21359333?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21359333?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/toowoo",
     "htmlUrl": "https://github.com/toowoo",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "toowoo",
     "id": 21359333,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/21359333?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/21359333?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/toowoo",
     "htmlUrl": "https://github.com/toowoo",
@@ -83,7 +83,7 @@
     "owner": {
       "login": "jackd248",
       "id": 4558190,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4558190?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4558190?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jackd248",
       "htmlUrl": "https://github.com/jackd248",
@@ -113,7 +113,7 @@
     "downloadsUrl": "https://api.github.com/repos/jackd248/temps/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jackd248/temps/deployments",
     "createdAt": "2016-06-05T14:13:10.000Z",
-    "updatedAt": "2017-04-29T18:17:48.000Z",
+    "updatedAt": "2017-10-23T18:04:11.000Z",
     "pushedAt": "2017-03-02T01:16:44.000Z",
     "gitUrl": "git://github.com/jackd248/temps.git",
     "sshUrl": "git@github.com:jackd248/temps.git",
@@ -121,19 +121,20 @@
     "svnUrl": "https://github.com/jackd248/temps",
     "homepage": "https://jackd248.github.io/temps/",
     "size": 9318,
-    "stargazersCount": 334,
-    "watchersCount": 334,
+    "stargazersCount": 387,
+    "watchersCount": 387,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 30,
+    "forksCount": 48,
     "mirrorUrl": null,
-    "openIssuesCount": 20,
-    "openIssues": 20,
-    "watchers": 334,
+    "archived": false,
+    "openIssuesCount": 22,
+    "openIssues": 22,
+    "watchers": 387,
     "defaultBranch": "master"
   },
   "source": {
@@ -143,7 +144,7 @@
     "owner": {
       "login": "jackd248",
       "id": 4558190,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/4558190?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4558190?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jackd248",
       "htmlUrl": "https://github.com/jackd248",
@@ -173,7 +174,7 @@
     "downloadsUrl": "https://api.github.com/repos/jackd248/temps/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jackd248/temps/deployments",
     "createdAt": "2016-06-05T14:13:10.000Z",
-    "updatedAt": "2017-04-29T18:17:48.000Z",
+    "updatedAt": "2017-10-23T18:04:11.000Z",
     "pushedAt": "2017-03-02T01:16:44.000Z",
     "gitUrl": "git://github.com/jackd248/temps.git",
     "sshUrl": "git@github.com:jackd248/temps.git",
@@ -181,22 +182,23 @@
     "svnUrl": "https://github.com/jackd248/temps",
     "homepage": "https://jackd248.github.io/temps/",
     "size": 9318,
-    "stargazersCount": 334,
-    "watchersCount": 334,
+    "stargazersCount": 387,
+    "watchersCount": 387,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 30,
+    "forksCount": 48,
     "mirrorUrl": null,
-    "openIssuesCount": 20,
-    "openIssues": 20,
-    "watchers": 334,
+    "archived": false,
+    "openIssuesCount": 22,
+    "openIssues": 22,
+    "watchers": 387,
     "defaultBranch": "master"
   },
-  "networkCount": 30,
+  "networkCount": 48,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -233,14 +235,7 @@
     },
     "author": "Konrad Michalik <hello@konradmichalik.eu>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jackd248/temps.git",
-      "docs": "https://github.com/jackd248/temps/blob/master/README.md"
-    },
-    "bugs": {
-      "url": "https://github.com/jackd248/temps/issues"
-    },
+    "repository": "https://github.com/jackd248/temps",
     "devDependencies": {
       "devtron": "^1.3.0",
       "electron-packager": "^8.0.0",
@@ -259,6 +254,11 @@
       "localStorage": "^1.0.3",
       "chart.js": "^2.2.1",
       "countup.js": "^1.7.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jackd248/temps/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -287,6 +287,7 @@
   "filename": "toowoo___temps.json",
   "sourceRepo": "jackd248/temps",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:04:04.922Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:17.145Z"
+  "lastFetchedAt": "2017-10-24T02:03:40.522Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:17.145Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "camunda-modeler",
     "version": "1.2.2",
@@ -85,10 +85,7 @@
     },
     "author": "Camunda BPM <http://camunda.org>",
     "license": "SEE LICENSE IN LICENSE",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/camunda/camunda-modeler"
-    },
+    "repository": "https://github.com/camunda/camunda-modeler",
     "browserify": {
       "transform": [
         "babelify",
@@ -188,7 +185,8 @@
       "vtree-select": "^2.0.0",
       "watchify": "^3.7.0",
       "which": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -216,6 +214,6 @@
   "filename": "SrikantBisoi___insane-labs.json",
   "sourceRepo": "camunda/camunda-modeler",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:16.339Z",
+  "lastFetchedAt": "2017-10-23T23:00:58.844Z",
   "packageLastFetchedAt": "2017-05-05T17:41:20.783Z"
 }

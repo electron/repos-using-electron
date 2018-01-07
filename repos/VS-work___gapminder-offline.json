@@ -5,7 +5,7 @@
   "owner": {
     "login": "Gapminder",
     "id": 1391460,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1391460?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1391460?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Gapminder",
     "htmlUrl": "https://github.com/Gapminder",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/Gapminder/gapminder-offline/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Gapminder/gapminder-offline/deployments",
   "createdAt": "2016-08-03T11:28:32.000Z",
-  "updatedAt": "2017-03-21T10:07:50.000Z",
-  "pushedAt": "2017-04-19T12:49:52.000Z",
+  "updatedAt": "2017-10-22T18:04:13.000Z",
+  "pushedAt": "2017-10-16T20:00:29.000Z",
   "gitUrl": "git://github.com/Gapminder/gapminder-offline.git",
   "sshUrl": "git@github.com:Gapminder/gapminder-offline.git",
   "cloneUrl": "https://github.com/Gapminder/gapminder-offline.git",
   "svnUrl": "https://github.com/Gapminder/gapminder-offline",
   "homepage": null,
-  "size": 52447,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 55919,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 4,
   "mirrorUrl": null,
-  "openIssuesCount": 12,
-  "openIssues": 12,
-  "watchers": 0,
+  "openIssuesCount": 19,
+  "openIssues": 19,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Gapminder",
     "id": 1391460,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1391460?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1391460?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Gapminder",
     "htmlUrl": "https://github.com/Gapminder",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/Gapminder/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
-  "subscribersCount": 37,
+  "networkCount": 4,
+  "subscribersCount": 35,
   "status": 200,
   "packageJSON": {
     "name": "gapminder-offline",
@@ -115,10 +115,7 @@
       "webpack-test": "webpack --config webpack.test.js --progress --profile --colors --display-error-details --display-cached",
       "test": "karma start || true"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/VS-work/gapminder-offline.git"
-    },
+    "repository": "https://github.com/VS-work/gapminder-offline",
     "author": "Vyacheslav Chub <vyacheslav.chub@valor-software.com>",
     "license": "GPL-3.0",
     "homepage": "",
@@ -206,7 +203,8 @@
     "engines": {
       "node": ">= 4.2.1 <= 6",
       "npm": ">= 3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -233,6 +231,7 @@
   },
   "filename": "VS-work___gapminder-offline.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:23.081Z",
-  "packageLastFetchedAt": "2017-05-05T01:28:42.099Z"
+  "lastFetchedAt": "2017-10-23T23:34:56.185Z",
+  "packageLastFetchedAt": "2017-05-05T01:28:42.099Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "prusnak",
     "id": 42201,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/42201?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/42201?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prusnak",
     "htmlUrl": "https://github.com/prusnak",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/prusnak/breadflix.git"
-    },
+    "repository": "https://github.com/prusnak/breadflix",
     "keywords": [
       "breadflix",
       "watch",
@@ -92,7 +89,8 @@
     "dependencies": {
       "ipfsd-ctl": "^0.13.0",
       "jquery": "^2.2.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,7 @@
   },
   "filename": "prusnak___breadflix.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:44.253Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:21.214Z"
+  "lastFetchedAt": "2017-10-24T00:15:15.096Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:21.214Z",
+  "archived": false
 }

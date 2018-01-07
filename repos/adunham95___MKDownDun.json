@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "SkelEktron",
     "description": "Unofficial Electron Template Application",
@@ -81,10 +81,7 @@
       "url": "https://bzcoding.com/"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/BZCoding/SkelEktron.git"
-    },
+    "repository": "https://github.com/BZCoding/SkelEktron",
     "main": "main.js",
     "scripts": {
       "test": "standard && mocha --recursive",
@@ -179,7 +176,8 @@
       "markdown-it": "^8.0.0",
       "marked": "^0.3.6",
       "materialize-css": "^0.97.7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -206,6 +204,6 @@
   },
   "filename": "adunham95___MKDownDun.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:20:06.840Z",
+  "lastFetchedAt": "2017-10-23T22:13:26.243Z",
   "packageLastFetchedAt": "2017-05-05T17:34:30.842Z"
 }

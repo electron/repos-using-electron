@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "music-app",
     "private": true,
@@ -90,7 +90,8 @@
     "scripts": {
       "start": "electron .",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +118,6 @@
   },
   "filename": "Andy--Rose___music-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:22:19.701Z",
+  "lastFetchedAt": "2017-10-23T23:09:18.599Z",
   "packageLastFetchedAt": "2017-05-05T14:37:00.428Z"
 }

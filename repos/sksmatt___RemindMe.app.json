@@ -5,7 +5,7 @@
   "owner": {
     "login": "sksmatt",
     "id": 21919,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21919?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21919?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sksmatt",
     "htmlUrl": "https://github.com/sksmatt",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -82,7 +82,8 @@
     "scripts": {
       "build": "electron-packager . Remind --platform=darwin --arch=x64 --icon=Icon.icns --overwrite | open .",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,6 +110,7 @@
   },
   "filename": "sksmatt___RemindMe.app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:59:02.113Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:22.539Z"
+  "lastFetchedAt": "2017-10-23T22:31:49.776Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:22.539Z",
+  "archived": false
 }

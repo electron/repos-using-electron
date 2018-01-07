@@ -5,7 +5,7 @@
   "owner": {
     "login": "koopjs",
     "id": 11509517,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11509517?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11509517?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/koopjs",
     "htmlUrl": "https://github.com/koopjs",
@@ -20,21 +20,21 @@
   "description": "An Electron-based user interface for installations of Koop (experimental).",
   "fork": false,
   "createdAt": "2015-07-24T03:30:13.000Z",
-  "updatedAt": "2017-01-04T14:59:22.000Z",
-  "pushedAt": "2015-08-31T22:41:17.000Z",
+  "updatedAt": "2017-06-25T23:24:37.000Z",
+  "pushedAt": "2017-08-14T22:11:56.000Z",
   "homepage": "",
-  "size": 253,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "size": 138,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 4,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "koopjs",
     "id": 11509517,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11509517?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11509517?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/koopjs",
     "htmlUrl": "https://github.com/koopjs",
@@ -70,9 +70,6 @@
     "description": "An experimental user interface for Koop",
     "version": "1.0.0",
     "author": "Chris Helm",
-    "bugs": {
-      "url": "https://github.com/koopjs/koop-ui/issues"
-    },
     "devDependencies": {
       "bower": "^1.5.2",
       "electron-prebuilt": "^0.30.0",
@@ -88,14 +85,16 @@
     ],
     "license": "Apache-2.0",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:koopjs/koop-ui.git"
-    },
+    "repository": "https://github.com/koopjs/koop-ui",
     "scripts": {
       "postinstall": "bower install",
       "sass": "node-sass styles/main.scss -o ./styles/css --output-style=compressed",
       "start": "electron ."
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/koopjs/koop-ui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "koopjs___koop-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:58.769Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:01.910Z"
+  "lastFetchedAt": "2017-10-23T22:08:56.759Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:01.910Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "minimalchat",
     "id": 23282219,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23282219?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23282219?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/minimalchat",
     "htmlUrl": "https://github.com/minimalchat",
@@ -36,14 +36,14 @@
   "downloadsUrl": "https://api.github.com/repos/minimalchat/operator-app/downloads",
   "deploymentsUrl": "https://api.github.com/repos/minimalchat/operator-app/deployments",
   "createdAt": "2017-01-23T01:40:26.000Z",
-  "updatedAt": "2017-04-30T16:10:15.000Z",
-  "pushedAt": "2017-04-02T14:40:14.000Z",
+  "updatedAt": "2017-09-13T12:49:20.000Z",
+  "pushedAt": "2017-10-07T15:57:32.000Z",
   "gitUrl": "git://github.com/minimalchat/operator-app.git",
   "sshUrl": "git@github.com:minimalchat/operator-app.git",
   "cloneUrl": "https://github.com/minimalchat/operator-app.git",
   "svnUrl": "https://github.com/minimalchat/operator-app",
   "homepage": null,
-  "size": 1453,
+  "size": 2972,
   "stargazersCount": 4,
   "watchersCount": 4,
   "language": "JavaScript",
@@ -52,10 +52,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 13,
-  "openIssues": 13,
+  "openIssuesCount": 2,
+  "openIssues": 2,
   "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
@@ -63,11 +63,17 @@
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-clause \"New\" or \"Revised\" License",
+    "spdxId": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "featured": false
+  },
   "organization": {
     "login": "minimalchat",
     "id": 23282219,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/23282219?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/23282219?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/minimalchat",
     "htmlUrl": "https://github.com/minimalchat",
@@ -78,10 +84,10 @@
     "receivedEventsUrl": "https://api.github.com/users/minimalchat/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:16:16.139Z",
+  "lastFetchedAt": "2017-10-24T00:05:23.758Z",
   "packageJSON": {
     "name": "operator",
     "version": "1.0.0",
@@ -173,8 +179,10 @@
       "react-test-renderer": "^15.4.1",
       "style-loader": "^0.13.1",
       "webpack": "^2.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:33:30.879Z"
+  "packageLastFetchedAt": "2017-05-05T14:33:30.879Z",
+  "archived": false
 }

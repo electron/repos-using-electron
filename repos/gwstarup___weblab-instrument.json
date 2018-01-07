@@ -5,7 +5,7 @@
   "owner": {
     "login": "gwstarup",
     "id": 17699614,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17699614?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17699614?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gwstarup",
     "htmlUrl": "https://github.com/gwstarup",
@@ -98,10 +98,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gwstarup/weblab-instrument.git"
-    },
+    "repository": "https://github.com/gwstarup/weblab-instrument",
     "keywords": [
       "gw"
     ],
@@ -109,37 +106,49 @@
       "name": "benny"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gwstarup/weblab-instrument/issues"
-    },
     "homepage": "https://github.com/gwstarup/weblab-instrument",
     "gitHead": "beb1146305dd63eca1433788055fca009ebdf93c",
-    "_id": "weblab-instrument@0.1.19",
-    "_shasum": "45bfe25064e726bc16b5e5a30153748048de7e83",
-    "_from": "weblab-instrument@>=0.1.19 <0.2.0",
-    "_npmVersion": "2.14.7",
-    "_nodeVersion": "4.2.2",
-    "_npmUser": {
-      "name": "gwstarup",
-      "email": "benny_lin@goodwill.com.tw"
-    },
     "dist": {
       "shasum": "45bfe25064e726bc16b5e5a30153748048de7e83",
       "tarball": "https://registry.npmjs.org/weblab-instrument/-/weblab-instrument-0.1.19.tgz"
     },
-    "maintainers": [
+    "_resolved": "https://registry.npmjs.org/weblab-instrument/-/weblab-instrument-0.1.19.tgz",
+    "readme": "ERROR: No README data found!",
+    "lastPublisher": {
+      "name": "gwstarup",
+      "email": "benny_lin@goodwill.com.tw"
+    },
+    "owners": [
       {
         "name": "gwstarup",
         "email": "benny_lin@goodwill.com.tw"
       }
     ],
-    "_npmOperationalInternal": {
-      "host": "packages-18-east.internal.npmjs.com",
-      "tmp": "tmp/weblab-instrument-0.1.19.tgz_1477447603245_0.22140288399532437"
-    },
-    "directories": {},
-    "_resolved": "https://registry.npmjs.org/weblab-instrument/-/weblab-instrument-0.1.19.tgz",
-    "readme": "ERROR: No README data found!"
+    "other": {
+      "_npmOperationalInternal": {
+        "host": "packages-18-east.internal.npmjs.com",
+        "tmp": "tmp/weblab-instrument-0.1.19.tgz_1477447603245_0.22140288399532437"
+      },
+      "directories": {},
+      "bugs": {
+        "url": "https://github.com/gwstarup/weblab-instrument/issues"
+      },
+      "_id": "weblab-instrument@0.1.19",
+      "_shasum": "45bfe25064e726bc16b5e5a30153748048de7e83",
+      "_from": "weblab-instrument@>=0.1.19 <0.2.0",
+      "_npmVersion": "2.14.7",
+      "_nodeVersion": "4.2.2",
+      "maintainers": [
+        {
+          "name": "gwstarup",
+          "email": "benny_lin@goodwill.com.tw"
+        }
+      ],
+      "_npmUser": {
+        "name": "gwstarup",
+        "email": "benny_lin@goodwill.com.tw"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -166,6 +175,7 @@
   },
   "filename": "gwstarup___weblab-instrument.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:47.582Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:19.099Z"
+  "lastFetchedAt": "2017-10-23T22:16:03.068Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:19.099Z",
+  "archived": false
 }

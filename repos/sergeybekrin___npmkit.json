@@ -5,7 +5,7 @@
   "owner": {
     "login": "sergeybekrin",
     "id": 9248479,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9248479?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9248479?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sergeybekrin",
     "htmlUrl": "https://github.com/sergeybekrin",
@@ -20,12 +20,12 @@
   "description": "App to control your npm chaos with ease",
   "fork": false,
   "createdAt": "2016-08-01T12:18:41.000Z",
-  "updatedAt": "2016-11-26T19:09:08.000Z",
+  "updatedAt": "2017-07-13T13:05:43.000Z",
   "pushedAt": "2017-02-08T07:02:31.000Z",
   "homepage": "",
   "size": 919,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,13 +79,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sergeybekrin/npmkit.git"
-    },
-    "bugs": {
-      "url": "https://github.com/sergeybekrin/npmkit/issues"
-    },
+    "repository": "https://github.com/sergeybekrin/npmkit",
     "author": {
       "name": "Sergey Bekrin",
       "email": "sergey@bekrin.me"
@@ -215,8 +209,13 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "assets"
+    "other": {
+      "directories": {
+        "buildResources": "assets"
+      },
+      "bugs": {
+        "url": "https://github.com/sergeybekrin/npmkit/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -264,6 +263,7 @@
   "svnUrl": "https://github.com/sergeybekrin/npmkit",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:30:33.594Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:05.523Z"
+  "lastFetchedAt": "2017-10-23T22:09:57.758Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:05.523Z",
+  "archived": false
 }

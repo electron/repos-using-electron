@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "node-dns-window",
     "version": "0.1.0",
@@ -114,14 +114,13 @@
       "panto-transformer-write": "^0.3.4",
       "time-panto": "^0.2.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yanni4night/node-dns-window.git"
-    },
-    "bugs": {
-      "url": "https://github.com/yanni4night/node-dns-window/issues"
-    },
-    "homepage": "https://github.com/yanni4night/node-dns-window#readme"
+    "repository": "https://github.com/yanni4night/node-dns-window",
+    "homepage": "https://github.com/yanni4night/node-dns-window#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/yanni4night/node-dns-window/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -148,6 +147,6 @@
   },
   "filename": "yanni4night___node-dns-window.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:21:54.575Z",
+  "lastFetchedAt": "2017-10-23T22:58:42.584Z",
   "packageLastFetchedAt": "2017-05-04T22:41:28.942Z"
 }

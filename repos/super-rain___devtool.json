@@ -164,7 +164,7 @@
   },
   "networkCount": 137,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "devtool",
     "version": "1.9.1",
@@ -230,16 +230,15 @@
       ]
     },
     "keywords": [],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Jam3/devtool.git"
-    },
+    "repository": "https://github.com/Jam3/devtool",
     "homepage": "https://github.com/Jam3/devtool",
-    "bugs": {
-      "url": "https://github.com/Jam3/devtool/issues"
-    },
     "bin": {
       "devtool": "./bin/index.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Jam3/devtool/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -288,6 +287,6 @@
   "svnUrl": "https://github.com/super-rain/devtool",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:43:02.267Z",
+  "lastFetchedAt": "2017-10-23T23:00:36.323Z",
   "packageLastFetchedAt": "2017-05-04T22:19:37.952Z"
 }

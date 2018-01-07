@@ -84,17 +84,14 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "balm-app",
     "productName": "BalmJS",
     "version": "0.0.0",
     "description": "Write Once, Build Anywhere.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/balmjs/balm-app.git"
-    },
+    "repository": "https://github.com/balmjs/balm-app",
     "author": {
       "name": "Elf-mousE",
       "email": "ifmouz@gmail.com",
@@ -128,7 +125,8 @@
         "node",
         "browser"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -155,6 +153,6 @@
   },
   "filename": "balmjs___balm-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:48:18.898Z",
+  "lastFetchedAt": "2017-10-23T21:45:06.871Z",
   "packageLastFetchedAt": "2017-05-05T01:30:25.662Z"
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "vortex",
     "version": "1.0.0",
@@ -85,19 +85,13 @@
       "e2e": "node test/e2e/runner.js",
       "test": "npm run unit && npm run e2e"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tajpure/vortex.git"
-    },
+    "repository": "https://github.com/tajpure/vortex",
     "keywords": [
       "Electron",
       "presentation"
     ],
     "author": "tajpure",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tajpure/vortex/issues"
-    },
     "homepage": "https://github.com/tajpure/vortex#readme",
     "devDependencies": {
       "babel-core": "^6.0.0",
@@ -163,6 +157,11 @@
       "webpack-externals-plugin": "1.0.0",
       "webpack-hot-middleware": "^2.6.0",
       "webpack-merge": "^0.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tajpure/vortex/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -190,6 +189,6 @@
   },
   "filename": "tajpure___vortex.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:18:31.000Z",
+  "lastFetchedAt": "2017-10-23T23:11:25.100Z",
   "packageLastFetchedAt": "2017-05-04T22:37:27.411Z"
 }

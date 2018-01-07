@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pdf-template-lib",
     "version": "0.0.9",
@@ -63,10 +63,7 @@
     "files": [
       "build"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/nathanial/pdf-template-lib.git"
-    },
+    "repository": "https://github.com/nathanial/pdf-template-lib",
     "dependencies": {
       "babel-runtime": "5.8.20",
       "underscore": "1.8.3",
@@ -90,7 +87,8 @@
       "react": "*",
       "react-dom": "*",
       "react-es6-component": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/nathanial/pdf-template-lib",
@@ -137,6 +135,6 @@
   },
   "filename": "nathanial___pdf-template-lib.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:16:44.200Z",
+  "lastFetchedAt": "2017-10-23T22:59:04.073Z",
   "packageLastFetchedAt": "2017-05-05T17:42:21.078Z"
 }

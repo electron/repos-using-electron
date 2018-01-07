@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-test",
     "productName": "electron-test",
@@ -94,7 +94,8 @@
         "node",
         "browser"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -141,6 +142,6 @@
   "svnUrl": "https://github.com/sebakerckhof/electron-problem",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:06:04.284Z",
+  "lastFetchedAt": "2017-10-24T00:16:24.695Z",
   "packageLastFetchedAt": "2017-05-04T22:24:39.766Z"
 }

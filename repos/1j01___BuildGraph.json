@@ -5,7 +5,7 @@
   "owner": {
     "login": "1j01",
     "id": 3630663,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3630663?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3630663?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/1j01",
     "htmlUrl": "https://github.com/1j01",
@@ -98,13 +98,7 @@
       "linting",
       "lint"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/1j01/BuildGraph.git"
-    },
-    "bugs": {
-      "url": "https://github.com/1j01/BuildGraph/issues"
-    },
+    "repository": "https://github.com/1j01/BuildGraph",
     "scripts": {
       "postinstall": "electron-rebuild",
       "start": "electron app/electron-main.js"
@@ -119,6 +113,11 @@
       "react": "^15.2.1",
       "react-dom": "^15.2.1",
       "react-script": "^2.0.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/1j01/BuildGraph/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "1j01___BuildGraph.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:18.151Z",
-  "packageLastFetchedAt": "2017-05-04T23:06:53.975Z"
+  "lastFetchedAt": "2017-10-23T22:52:15.236Z",
+  "packageLastFetchedAt": "2017-05-04T23:06:53.975Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "pixeldesu",
     "id": 1774242,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1774242?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1774242?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pixeldesu",
     "htmlUrl": "https://github.com/pixeldesu",
@@ -63,10 +63,7 @@
       "build:linux": "electron-packager . --overwrite --out=dist --ignore='^node_modules$' --prune --platform=linux --arch=x64 --app-bundle-id=com.pixeldesu.animetwister",
       "build:windows": "electron-packager . --overwrite --asar --out=dist --ignore='^node_modules$' --prune --platform=win32 --arch=ia32 --version-string.ProductName=$npm_package_productName"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pixeldesu/animetwister.git"
-    },
+    "repository": "https://github.com/pixeldesu/animetwister",
     "keywords": [
       "anime",
       "animetwister",
@@ -74,13 +71,15 @@
     ],
     "author": "pixeldesu",
     "license": "aGPLv3",
-    "bugs": {
-      "url": "https://github.com/pixeldesu/animetwister/issues"
-    },
     "homepage": "https://github.com/pixeldesu/animetwister#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
       "electron-packager": "^7.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pixeldesu/animetwister/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/pixeldesu/animetwister",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:24:20.154Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:02.004Z"
+  "lastFetchedAt": "2017-10-24T00:18:54.742Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:02.004Z",
+  "archived": false
 }

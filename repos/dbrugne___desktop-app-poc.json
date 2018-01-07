@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "desktop-app-poc",
     "version": "1.0.0",
@@ -89,10 +89,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dbrugne/desktop-app-poc.git"
-    },
+    "repository": "https://github.com/dbrugne/desktop-app-poc",
     "author": "dbrugne",
     "license": "ISC",
     "keywords": [
@@ -175,7 +172,8 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -202,6 +200,6 @@
   },
   "filename": "dbrugne___desktop-app-poc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:13:30.609Z",
+  "lastFetchedAt": "2017-10-23T23:05:42.585Z",
   "packageLastFetchedAt": "2017-05-04T22:41:58.102Z"
 }

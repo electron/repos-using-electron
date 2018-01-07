@@ -70,7 +70,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ufpamail",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,19 +88,21 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0",
       "grunt-electron-installer-debian": "^0.3.1"
     },
-    "directories": {
-      "example": "example"
-    },
     "dependencies": {
       "node-notifier": "^4.6.1"
+    },
+    "other": {
+      "directories": {
+        "example": "example"
+      },
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,6 @@
   },
   "filename": "caiosbentes___UFPAmail.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:17.064Z",
+  "lastFetchedAt": "2017-10-23T23:04:43.830Z",
   "packageLastFetchedAt": "2017-05-05T15:28:15.057Z"
 }

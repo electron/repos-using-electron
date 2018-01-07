@@ -5,7 +5,7 @@
   "owner": {
     "login": "Unforgiven-wanda",
     "id": 4499783,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4499783?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4499783?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Unforgiven-wanda",
     "htmlUrl": "https://github.com/Unforgiven-wanda",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -86,21 +86,9 @@
         ""
       ]
     ],
-    "_from": "electrify-updated-test@latest",
-    "_id": "electrify-updated-test@2.1.8",
     "_inCache": true,
     "_installable": true,
     "_location": "/electrify-updated-test",
-    "_nodeVersion": "6.3.1",
-    "_npmOperationalInternal": {
-      "host": "packages-12-west.internal.npmjs.com",
-      "tmp": "tmp/electrify-updated-test-2.1.8.tgz_1473933946617_0.6075121134053916"
-    },
-    "_npmUser": {
-      "name": "unforgiven",
-      "email": "Unforgiven-wanda@hotmail.fr"
-    },
-    "_npmVersion": "3.10.3",
     "_phantomChildren": {},
     "_requested": {
       "raw": "electrify-updated-test",
@@ -115,7 +103,6 @@
       "#USER"
     ],
     "_resolved": "https://registry.npmjs.org/electrify-updated-test/-/electrify-updated-test-2.1.8.tgz",
-    "_shasum": "229799f7d28dcf9dc334562a25d939605fe38bdc",
     "_shrinkwrap": null,
     "_spec": "electrify-updated-test",
     "_where": "",
@@ -125,9 +112,6 @@
     },
     "bin": {
       "electrify": "bin/cli.js"
-    },
-    "bugs": {
-      "url": "https://github.com/arboleya/electrify/issues"
     },
     "dependencies": {
       "commander": "^2.8.1",
@@ -147,7 +131,6 @@
       "npm-check": "^5.2.2",
       "should": "^11.1.0"
     },
-    "directories": {},
     "dist": {
       "shasum": "229799f7d28dcf9dc334562a25d939605fe38bdc",
       "tarball": "https://registry.npmjs.org/electrify-updated-test/-/electrify-updated-test-2.1.8.tgz"
@@ -164,20 +147,46 @@
     ],
     "license": "MIT",
     "main": "lib/index.js",
-    "maintainers": [
+    "name": "electrify-updated-test",
+    "optionalDependencies": {},
+    "repository": "https://github.com/Unforgiven-wanda/electrify-updated-test",
+    "scripts": {},
+    "version": "2.1.10",
+    "lastPublisher": {
+      "name": "unforgiven",
+      "email": "Unforgiven-wanda@hotmail.fr"
+    },
+    "owners": [
       {
         "name": "unforgiven",
         "email": "Unforgiven-wanda@hotmail.fr"
       }
     ],
-    "name": "electrify-updated-test",
-    "optionalDependencies": {},
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Unforgiven-wanda/electrify-updated-test.git"
-    },
-    "scripts": {},
-    "version": "2.1.10"
+    "other": {
+      "_npmOperationalInternal": {
+        "host": "packages-12-west.internal.npmjs.com",
+        "tmp": "tmp/electrify-updated-test-2.1.8.tgz_1473933946617_0.6075121134053916"
+      },
+      "directories": {},
+      "bugs": {
+        "url": "https://github.com/arboleya/electrify/issues"
+      },
+      "_id": "electrify-updated-test@2.1.8",
+      "_shasum": "229799f7d28dcf9dc334562a25d939605fe38bdc",
+      "_from": "electrify-updated-test@latest",
+      "_npmVersion": "3.10.3",
+      "_nodeVersion": "6.3.1",
+      "maintainers": [
+        {
+          "name": "unforgiven",
+          "email": "Unforgiven-wanda@hotmail.fr"
+        }
+      ],
+      "_npmUser": {
+        "name": "unforgiven",
+        "email": "Unforgiven-wanda@hotmail.fr"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -204,6 +213,7 @@
   },
   "filename": "Unforgiven-wanda___electrify-updated-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:07.838Z",
-  "packageLastFetchedAt": "2017-05-05T17:04:24.383Z"
+  "lastFetchedAt": "2017-10-23T22:08:36.523Z",
+  "packageLastFetchedAt": "2017-05-05T17:04:24.383Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 4,
   "subscribersCount": 7,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tistory-editor",
     "productName": "TistoryEditor",
@@ -88,10 +88,7 @@
       "dist-linux": "build -l --x64",
       "dist-win": "build -w --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/joostory/tistory-editor.git"
-    },
+    "repository": "https://github.com/joostory/tistory-editor",
     "keywords": [
       "editor",
       "tistory"
@@ -102,9 +99,6 @@
       "url": "http://joostory.net"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/joostory/tistory-editor/issues"
-    },
     "homepage": "https://github.com/joostory/tistory-editor#readme",
     "devDependencies": {
       "babel-core": "^6.23.1",
@@ -162,6 +156,11 @@
     },
     "build": {
       "appId": "net.joostory.tistory-editor"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/joostory/tistory-editor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,6 @@
   },
   "filename": "joostory___tistory-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:32:51.866Z",
+  "lastFetchedAt": "2017-10-23T22:57:20.831Z",
   "packageLastFetchedAt": "2017-05-04T23:07:49.286Z"
 }

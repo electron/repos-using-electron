@@ -5,7 +5,7 @@
   "owner": {
     "login": "pocmanu",
     "id": 9366309,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9366309?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9366309?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pocmanu",
     "htmlUrl": "https://github.com/pocmanu",
@@ -55,9 +55,7 @@
     "name": "angular-seed-advanced",
     "version": "0.0.0",
     "description": "High-quality, modular starter (advanced seed) project for Angular 2 apps with statically typed build and AoT + NativeScript + Electron",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -244,7 +242,8 @@
       "rxjs": "5.0.0-beta.12",
       "systemjs": "0.19.40",
       "zone.js": "0.6.25"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/pocmanu/angular2-seed-advanced",
@@ -292,6 +291,7 @@
   "filename": "pocmanu___angular2-seed-advanced.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:26.726Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:12.236Z"
+  "lastFetchedAt": "2017-10-24T00:16:27.221Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:12.236Z",
+  "archived": false
 }

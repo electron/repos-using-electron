@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Chunes",
     "version": "1.0.0",
@@ -74,18 +74,12 @@
       "start": "electron main.js",
       "build": "start tsc --watch && node-sass main.scss main.css --source-map true --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DjSuperNintendo/Chunes.git"
-    },
+    "repository": "https://github.com/DjSuperNintendo/Chunes",
     "keywords": [
       "chunes"
     ],
     "author": "DjSuperNintendo",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
@@ -99,6 +93,11 @@
       "vue": "^1.0.24",
       "youtube-best-video": "0.0.8",
       "youtube-search": "^1.0.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,6 @@
   },
   "filename": "DjSuperNintendo___Chunes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:53.179Z",
+  "lastFetchedAt": "2017-10-23T22:59:02.582Z",
   "packageLastFetchedAt": "2017-05-05T17:40:51.892Z"
 }

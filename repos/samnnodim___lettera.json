@@ -1,46 +1,46 @@
 {
   "id": 58570913,
   "name": "lettera",
-  "fullName": "samnnodim/lettera",
+  "fullName": "obiiiknows/lettera",
   "owner": {
-    "login": "samnnodim",
+    "login": "obiiiknows",
     "id": 10480589,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10480589?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10480589?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/samnnodim",
-    "htmlUrl": "https://github.com/samnnodim",
-    "followersUrl": "https://api.github.com/users/samnnodim/followers",
-    "subscriptionsUrl": "https://api.github.com/users/samnnodim/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/samnnodim/orgs",
-    "reposUrl": "https://api.github.com/users/samnnodim/repos",
-    "receivedEventsUrl": "https://api.github.com/users/samnnodim/received_events",
+    "url": "https://api.github.com/users/obiiiknows",
+    "htmlUrl": "https://github.com/obiiiknows",
+    "followersUrl": "https://api.github.com/users/obiiiknows/followers",
+    "subscriptionsUrl": "https://api.github.com/users/obiiiknows/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/obiiiknows/orgs",
+    "reposUrl": "https://api.github.com/users/obiiiknows/repos",
+    "receivedEventsUrl": "https://api.github.com/users/obiiiknows/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/samnnodim/lettera",
+  "htmlUrl": "https://github.com/obiiiknows/lettera",
   "description": "all purpose typing thing",
   "fork": false,
-  "url": "https://api.github.com/repos/samnnodim/lettera",
-  "forksUrl": "https://api.github.com/repos/samnnodim/lettera/forks",
-  "teamsUrl": "https://api.github.com/repos/samnnodim/lettera/teams",
-  "hooksUrl": "https://api.github.com/repos/samnnodim/lettera/hooks",
-  "eventsUrl": "https://api.github.com/repos/samnnodim/lettera/events",
-  "tagsUrl": "https://api.github.com/repos/samnnodim/lettera/tags",
-  "languagesUrl": "https://api.github.com/repos/samnnodim/lettera/languages",
-  "stargazersUrl": "https://api.github.com/repos/samnnodim/lettera/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/samnnodim/lettera/contributors",
-  "subscribersUrl": "https://api.github.com/repos/samnnodim/lettera/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/samnnodim/lettera/subscription",
-  "mergesUrl": "https://api.github.com/repos/samnnodim/lettera/merges",
-  "downloadsUrl": "https://api.github.com/repos/samnnodim/lettera/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/samnnodim/lettera/deployments",
+  "url": "https://api.github.com/repos/obiiiknows/lettera",
+  "forksUrl": "https://api.github.com/repos/obiiiknows/lettera/forks",
+  "teamsUrl": "https://api.github.com/repos/obiiiknows/lettera/teams",
+  "hooksUrl": "https://api.github.com/repos/obiiiknows/lettera/hooks",
+  "eventsUrl": "https://api.github.com/repos/obiiiknows/lettera/events",
+  "tagsUrl": "https://api.github.com/repos/obiiiknows/lettera/tags",
+  "languagesUrl": "https://api.github.com/repos/obiiiknows/lettera/languages",
+  "stargazersUrl": "https://api.github.com/repos/obiiiknows/lettera/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/obiiiknows/lettera/contributors",
+  "subscribersUrl": "https://api.github.com/repos/obiiiknows/lettera/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/obiiiknows/lettera/subscription",
+  "mergesUrl": "https://api.github.com/repos/obiiiknows/lettera/merges",
+  "downloadsUrl": "https://api.github.com/repos/obiiiknows/lettera/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/obiiiknows/lettera/deployments",
   "createdAt": "2016-05-11T18:36:04.000Z",
   "updatedAt": "2016-05-11T19:56:09.000Z",
   "pushedAt": "2016-05-14T13:50:28.000Z",
-  "gitUrl": "git://github.com/samnnodim/lettera.git",
-  "sshUrl": "git@github.com:samnnodim/lettera.git",
-  "cloneUrl": "https://github.com/samnnodim/lettera.git",
-  "svnUrl": "https://github.com/samnnodim/lettera",
+  "gitUrl": "git://github.com/obiiiknows/lettera.git",
+  "sshUrl": "git@github.com:obiiiknows/lettera.git",
+  "cloneUrl": "https://github.com/obiiiknows/lettera.git",
+  "svnUrl": "https://github.com/obiiiknows/lettera",
   "homepage": null,
   "size": 13,
   "stargazersCount": 0,
@@ -80,10 +80,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/samnnodim/lettera.git"
-    },
+    "repository": "https://github.com/samnnodim/lettera",
     "keywords": [
       "type",
       "typewriter",
@@ -94,9 +91,6 @@
     ],
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/samnnodim/lettera/issues"
-    },
     "homepage": "https://github.com/samnnodim/lettera#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
@@ -105,6 +99,11 @@
       "electron-prebuilt": "^1.0.1",
       "react": "^15.0.2",
       "react-dom": "^15.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/samnnodim/lettera/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,7 @@
   },
   "filename": "samnnodim___lettera.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:06:03.610Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:26.199Z"
+  "lastFetchedAt": "2017-10-23T22:10:29.098Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:26.199Z",
+  "archived": false
 }

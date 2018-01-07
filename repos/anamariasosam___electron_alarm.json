@@ -5,7 +5,7 @@
   "owner": {
     "login": "anamariasosam",
     "id": 2703269,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2703269?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2703269?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/anamariasosam",
     "htmlUrl": "https://github.com/anamariasosam",
@@ -68,10 +68,7 @@
   "packageJSON": {
     "name": "alarm",
     "companyName": "Ana Sosa",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/anamariasosa/electron_alarm"
-    },
+    "repository": "https://github.com/anamariasosa/electron_alarm",
     "version": "1.0.0",
     "description": "You need to configure your mac to turn on at some time, then you set the time you want to wake up.",
     "main": "window.js",
@@ -85,7 +82,8 @@
       "build": "electron-packager ./ Alarm --platform=darwin --arch=x64 --version=0.34.3 --icon='src/icons/icon.icns' --app-version=0.0.1"
     },
     "author": "@anamariasosam",
-    "license": "ISC"
+    "license": "ISC",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +110,7 @@
   },
   "filename": "anamariasosam___electron_alarm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:46.991Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:29.364Z"
+  "lastFetchedAt": "2017-10-23T23:41:15.146Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:29.364Z",
+  "archived": false
 }

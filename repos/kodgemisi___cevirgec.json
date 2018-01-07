@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "version": "0.4.3",
@@ -82,19 +82,13 @@
       "package": "node package.js",
       "package-all": "node package.js --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -186,6 +180,11 @@
       "object-assign": "^4.0.1",
       "react": "^0.13.3",
       "react-router": "^1.0.0-rc1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -233,6 +232,6 @@
   "svnUrl": "https://github.com/kodgemisi-archive/cevirgec",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:21:58.353Z",
+  "lastFetchedAt": "2017-10-23T23:02:25.568Z",
   "packageLastFetchedAt": "2017-05-05T17:46:01.638Z"
 }

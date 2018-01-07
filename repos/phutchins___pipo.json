@@ -70,7 +70,7 @@
   },
   "networkCount": 9,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "PiPo",
     "license": {
@@ -93,13 +93,6 @@
       "start-dev": "nodemon main",
       "setup": "node ./scripts/setup.js",
       "start-client": "electron ."
-    },
-    "directories": {
-      "test": "test",
-      "client": "client",
-      "server": "server",
-      "output": "dist",
-      "buildResources": "build"
     },
     "contributors": [
       {
@@ -207,6 +200,15 @@
       "sinon": "^1.17.4",
       "supertest": "^1.2.0",
       "uglify-js": "^2.6.2"
+    },
+    "other": {
+      "directories": {
+        "test": "test",
+        "client": "client",
+        "server": "server",
+        "output": "dist",
+        "buildResources": "build"
+      }
     }
   },
   "packageStatus": 200,
@@ -234,6 +236,6 @@
   },
   "filename": "phutchins___pipo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:54.464Z",
+  "lastFetchedAt": "2017-10-23T22:57:26.347Z",
   "packageLastFetchedAt": "2017-05-05T15:39:03.059Z"
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 3,
   "subscribersCount": 7,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dps",
     "version": "1.0.1",
@@ -57,15 +57,9 @@
     "bin": {
       "dps": "./cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/karissa/dps.git"
-    },
+    "repository": "https://github.com/karissa/dps",
     "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/karissa/dps/issues"
-    },
     "homepage": "https://github.com/karissa/dps",
     "dependencies": {
       "ansi-diff-stream": "^1.2.0",
@@ -97,6 +91,11 @@
     "devDependencies": {
       "electron-prebuilt": "^0.33.0",
       "tape": "^4.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/karissa/dps/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,6 @@
   "svnUrl": "https://github.com/karissa/dps",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:25:27.811Z",
+  "lastFetchedAt": "2017-10-23T23:04:41.580Z",
   "packageLastFetchedAt": "2017-05-05T15:28:12.071Z"
 }

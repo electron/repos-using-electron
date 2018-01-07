@@ -5,7 +5,7 @@
   "owner": {
     "login": "dkundel",
     "id": 1505101,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1505101?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1505101?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dkundel",
     "htmlUrl": "https://github.com/dkundel",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/dkundel/hybrid-appocalypse/deployments",
   "createdAt": "2016-10-26T15:40:57.000Z",
   "updatedAt": "2016-11-05T07:33:36.000Z",
-  "pushedAt": "2016-12-07T15:33:09.000Z",
+  "pushedAt": "2017-10-11T13:12:10.000Z",
   "gitUrl": "git://github.com/dkundel/hybrid-appocalypse.git",
   "sshUrl": "git@github.com:dkundel/hybrid-appocalypse.git",
   "cloneUrl": "https://github.com/dkundel/hybrid-appocalypse.git",
   "svnUrl": "https://github.com/dkundel/hybrid-appocalypse",
   "homepage": "",
-  "size": 11906,
+  "size": 12997,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "hybrid-appocalypse",
@@ -82,21 +82,20 @@
       "serve": "serve slides",
       "deploy": "git subtree push --prefix slides origin gh-pages"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dkundel/hybrid-appocalypse.git"
-    },
+    "repository": "https://github.com/dkundel/hybrid-appocalypse",
     "author": "Dominik Kundel <dominik.kundel@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dkundel/hybrid-appocalypse/issues"
-    },
     "homepage": "https://github.com/dkundel/hybrid-appocalypse#readme",
     "dependencies": {
       "electron": "^1.4.4",
       "express": "^4.14.0",
       "mkdirp": "^0.5.1",
       "serve": "^1.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dkundel/hybrid-appocalypse/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "dkundel___hybrid-appocalypse.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:40:02.613Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:05.536Z"
+  "lastFetchedAt": "2017-10-24T00:16:42.695Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:05.536Z",
+  "archived": false
 }

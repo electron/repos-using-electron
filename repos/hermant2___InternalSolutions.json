@@ -5,7 +5,7 @@
   "owner": {
     "login": "hermant2",
     "id": 18289624,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18289624?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18289624?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hermant2",
     "htmlUrl": "https://github.com/hermant2",
@@ -81,10 +81,7 @@
       "start:server": "node index",
       "start": "run-p start:*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hermant2/InternalSolutions.git"
-    },
+    "repository": "https://github.com/hermant2/InternalSolutions",
     "keywords": [
       "Electron",
       "quick",
@@ -93,15 +90,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/hermant2/InternalSolutions.git"
-    },
     "homepage": "https://github.com/hermant2/InternalSolutions.git",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "npm-run-all": "^2.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hermant2/InternalSolutions.git"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   "filename": "hermant2___InternalSolutions.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:47:25.977Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:21.722Z"
+  "lastFetchedAt": "2017-10-23T23:11:51.881Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:21.722Z",
+  "archived": false
 }

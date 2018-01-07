@@ -84,7 +84,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "@http/fetch",
     "version": "1.0.0",
@@ -99,10 +99,7 @@
     "license": "Apache-2.0",
     "homepage": "https://github.com/httpjs/fetch",
     "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/httpjs/fetch.git"
-    },
+    "repository": "https://github.com/httpjs/fetch",
     "dependencies": {
       "@http/headers": "^1.0.0",
       "qs": "^6.1.0"
@@ -125,7 +122,8 @@
       "test": "npm run lint && npm run test-ci",
       "test-ci": "electron test",
       "lint": "eslint index.js && echo Lint Passed"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +150,6 @@
   },
   "filename": "httpjs___fetch.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:59:16.115Z",
+  "lastFetchedAt": "2017-10-24T00:19:45.433Z",
   "packageLastFetchedAt": "2017-05-05T01:26:51.778Z"
 }

@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "SkelEktron",
     "description": "Unofficial Electron Template Application",
@@ -75,10 +75,7 @@
       "url": "https://bzcoding.com/"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/BZCoding/SkelEktron.git"
-    },
+    "repository": "https://github.com/BZCoding/SkelEktron",
     "main": "main.js",
     "scripts": {
       "test": "standard && mocha --recursive",
@@ -172,7 +169,8 @@
       "shelljs": "^0.7",
       "spectron": "~3.0.0",
       "standard": "^7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -219,6 +217,6 @@
   "svnUrl": "https://github.com/seekwell/playground-1",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:59:07.930Z",
+  "lastFetchedAt": "2017-10-23T23:00:07.122Z",
   "packageLastFetchedAt": "2017-05-05T15:03:41.372Z"
 }

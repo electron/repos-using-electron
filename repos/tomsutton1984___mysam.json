@@ -164,7 +164,7 @@
   },
   "networkCount": 57,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mysam",
     "version": "0.1.2",
@@ -187,10 +187,7 @@
       "release:minor": "npm version minor && npm publish",
       "release:major": "npm version major && npm publish"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:daffl/mysam.git"
-    },
+    "repository": "https://github.com/daffl/mysam",
     "author": "David Luecke <daff@neyeon.com>",
     "license": "MIT",
     "dependencies": {
@@ -214,7 +211,8 @@
       "mocha": "^2.3.0",
       "mysam-weather": "0.0.2",
       "supervisor": "^0.6.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -262,6 +260,6 @@
   "svnUrl": "https://github.com/tomsutton1984/mysam",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:02:25.745Z",
+  "lastFetchedAt": "2017-10-23T23:10:54.586Z",
   "packageLastFetchedAt": "2017-05-04T22:33:24.007Z"
 }

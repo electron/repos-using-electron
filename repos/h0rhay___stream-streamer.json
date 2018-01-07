@@ -5,7 +5,7 @@
   "owner": {
     "login": "h0rhay",
     "id": 2151724,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2151724?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2151724?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/h0rhay",
     "htmlUrl": "https://github.com/h0rhay",
@@ -74,10 +74,7 @@
       "start": "electron main.js",
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/h0rhay/stream-streamer.git"
-    },
+    "repository": "https://github.com/h0rhay/stream-streamer",
     "keywords": [
       "Electron",
       "quick",
@@ -86,9 +83,6 @@
     ],
     "author": "Moi",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -103,6 +97,11 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "h0rhay___stream-streamer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:23.099Z",
-  "packageLastFetchedAt": "2017-05-05T17:20:50.987Z"
+  "lastFetchedAt": "2017-10-23T22:33:00.269Z",
+  "packageLastFetchedAt": "2017-05-05T17:20:50.987Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "author": "Adam Salma <adam3salma@gmail.com>",
     "name": "Lurka",
@@ -85,10 +85,7 @@
       "test-watch": "cross-env NODE_ENV=test NODE_PATH=./app/node_modules mocha -R min -w",
       "install-all": "npm install && cd app && npm install && cd .."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AdamSalma/Lurka.git"
-    },
+    "repository": "https://github.com/AdamSalma/Lurka",
     "keywords": [
       "React",
       "Webpack",
@@ -97,9 +94,6 @@
       "Viewer"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/AdamSalma/Lurka/issues"
-    },
     "homepage": "https://github.com/AdamSalma/Lurka#readme",
     "devDependencies": {
       "autoprefixer": "^6.4.1",
@@ -146,7 +140,12 @@
       "webpack-dev-middleware": "^1.7.0",
       "webpack-hot-middleware": "^2.17.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AdamSalma/Lurka/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -173,6 +172,6 @@
   },
   "filename": "AdamSalma___Lurka.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:01:40.569Z",
+  "lastFetchedAt": "2017-10-23T23:01:49.078Z",
   "packageLastFetchedAt": "2017-05-05T14:42:30.189Z"
 }

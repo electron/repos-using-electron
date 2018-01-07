@@ -58,7 +58,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 13,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cnbrowser",
     "version": "0.1.0",
@@ -79,7 +79,8 @@
       "run": "babel-node node_modules/.bin/electron ."
     },
     "author": "dwarfcrank",
-    "license": "WTFPL"
+    "license": "WTFPL",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +127,6 @@
   "svnUrl": "https://github.com/code-n-beer/cnbrowser",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:47:20.969Z",
+  "lastFetchedAt": "2017-10-23T23:03:04.839Z",
   "packageLastFetchedAt": "2017-05-05T15:10:16.398Z"
 }

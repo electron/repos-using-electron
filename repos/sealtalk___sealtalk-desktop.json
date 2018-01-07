@@ -5,7 +5,7 @@
   "owner": {
     "login": "sealtalk",
     "id": 17310999,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17310999?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17310999?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sealtalk",
     "htmlUrl": "https://github.com/sealtalk",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/sealtalk/sealtalk-desktop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/sealtalk/sealtalk-desktop/deployments",
   "createdAt": "2016-02-29T10:17:50.000Z",
-  "updatedAt": "2017-05-04T00:58:31.000Z",
-  "pushedAt": "2017-03-01T09:52:32.000Z",
+  "updatedAt": "2017-10-08T12:32:33.000Z",
+  "pushedAt": "2017-08-04T10:02:04.000Z",
   "gitUrl": "git://github.com/sealtalk/sealtalk-desktop.git",
   "sshUrl": "git@github.com:sealtalk/sealtalk-desktop.git",
   "cloneUrl": "https://github.com/sealtalk/sealtalk-desktop.git",
   "svnUrl": "https://github.com/sealtalk/sealtalk-desktop",
   "homepage": "sealtalk.im",
-  "size": 2112,
-  "stargazersCount": 21,
-  "watchersCount": 21,
+  "size": 2115,
+  "stargazersCount": 27,
+  "watchersCount": 27,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 17,
+  "forksCount": 21,
   "mirrorUrl": null,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 21,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 27,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "sealtalk",
     "id": 17310999,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17310999?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17310999?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sealtalk",
     "htmlUrl": "https://github.com/sealtalk",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/sealtalk/received_events",
     "type": "Organization"
   },
-  "networkCount": 17,
-  "subscribersCount": 8,
+  "networkCount": 21,
+  "subscribersCount": 9,
   "status": 200,
   "packageJSON": {
     "name": "SealTalk",
@@ -110,18 +110,12 @@
       "release:win": "npm run package:win && npm run installer:win"
     },
     "packageNameTemplate": "{{name}}-v{{version}}-{{platform}}-{{arch}}",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sealtalk/sealtalk-desktop.git"
-    },
+    "repository": "https://github.com/sealtalk/sealtalk-desktop",
     "keywords": [
       "SealTalk",
       "RongCloud",
       "IM"
     ],
-    "bugs": {
-      "url": "https://github.com/sealtalk/sealtalk-desktop/issues"
-    },
     "homepage": "https://github.com/sealtalk/sealtalk-desktop#readme",
     "devDependencies": {
       "electron-builder": "^2.6.0",
@@ -145,6 +139,11 @@
       "jsonfile": "^2.2.3",
       "log4js": "^0.6.36",
       "nodobjc": "^2.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sealtalk/sealtalk-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,7 @@
   },
   "filename": "sealtalk___sealtalk-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:05.299Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:22.577Z"
+  "lastFetchedAt": "2017-10-24T02:04:44.160Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:22.577Z",
+  "archived": false
 }

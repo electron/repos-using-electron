@@ -85,7 +85,7 @@
   },
   "networkCount": 5,
   "subscribersCount": 25,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ohm-js-editor",
     "productName": "Ohm Editor",
@@ -103,7 +103,6 @@
       "prototyping"
     ],
     "homepage": "https://ohmlang.github.io/editor/",
-    "bugs": "https://github.com/harc/ohm-editor/issues",
     "main": "index.js",
     "bin": {
       "ohm-editor": "cli.js"
@@ -177,6 +176,9 @@
     },
     "engines": {
       "node": ">=4.0"
+    },
+    "other": {
+      "bugs": "https://github.com/harc/ohm-editor/issues"
     }
   },
   "packageStatus": 200,
@@ -204,6 +206,6 @@
   },
   "sourceRepo": "cdglabs/ohm-editor",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:31:05.902Z",
+  "lastFetchedAt": "2017-10-23T23:02:51.080Z",
   "packageLastFetchedAt": "2017-05-05T15:32:44.896Z"
 }

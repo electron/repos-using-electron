@@ -191,22 +191,16 @@
   },
   "networkCount": 16,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "devstudio-platform-installer",
     "productName": "Red Hat Development Suite Installer",
     "version": "1.4.0-GA",
     "description": "Red Hat Development Suite Installer",
     "main": "main/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/redhat-developer-tooling/developer-platform-install.git"
-    },
+    "repository": "https://github.com/redhat-developer-tooling/developer-platform-install",
     "author": "Red Hat Developer Tooling Group",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://issues.jboss.org/projects/JBDS/summary"
-    },
     "homepage": "https://github.com/redhat-developer-tooling/developer-platform-install#readme",
     "scripts": {
       "start": "./node_modules/.bin/gulp run",
@@ -287,6 +281,11 @@
       "tmp": "0.0.31",
       "xunit-file": "1.0.0",
       "yargs": "6.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://issues.jboss.org/projects/JBDS/summary"
+      }
     }
   },
   "packageStatus": 200,
@@ -314,6 +313,6 @@
   },
   "sourceRepo": "redhat-developer-tooling/developer-platform-install",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:33.506Z",
+  "lastFetchedAt": "2017-10-23T23:02:47.828Z",
   "packageLastFetchedAt": "2017-05-05T15:09:01.280Z"
 }

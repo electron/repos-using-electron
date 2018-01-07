@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dockerTab",
     "productName": "dockerTab",
@@ -83,10 +83,7 @@
       "build": "electron-packager . Monu --platform=darwin --arch=x64 --version=0.36.4 --icon=images/Monu.icns",
       "publish": "publish-release --template notes.md --assets Monu.zip"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/davidino/dockerTab"
-    },
+    "repository": "https://github.com/davidino/dockerTab",
     "author": "David Funaro <ing.davidino@gmail.com>",
     "license": "BSD-2-Clause",
     "dependencies": {
@@ -111,7 +108,8 @@
       "ignore": [
         "Monu.app/**"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +136,6 @@
   },
   "filename": "davidino___dockerTab.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:29.306Z",
+  "lastFetchedAt": "2017-10-23T23:05:52.829Z",
   "packageLastFetchedAt": "2017-05-05T17:20:59.017Z"
 }

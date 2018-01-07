@@ -5,7 +5,7 @@
   "owner": {
     "login": "willclarktech",
     "id": 11036220,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11036220?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11036220?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/willclarktech",
     "htmlUrl": "https://github.com/willclarktech",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/willclarktech/elm-boilerplate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/willclarktech/elm-boilerplate/deployments",
   "createdAt": "2016-06-11T11:14:57.000Z",
-  "updatedAt": "2017-03-07T21:05:13.000Z",
+  "updatedAt": "2017-10-12T14:22:16.000Z",
   "pushedAt": "2016-10-30T17:09:04.000Z",
   "gitUrl": "git://github.com/willclarktech/elm-boilerplate.git",
   "sshUrl": "git@github.com:willclarktech/elm-boilerplate.git",
@@ -72,13 +72,7 @@
     "author": "willclarktech <will@willclark.tech>",
     "license": "MIT",
     "homepage": "https://github.com/willclarktech/elm-boilerplate#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/willclarktech/elm-boilerplate.git"
-    },
-    "bugs": {
-      "url": "https://github.com/willclarktech/elm-boilerplate/issues"
-    },
+    "repository": "https://github.com/willclarktech/elm-boilerplate",
     "scripts": {
       "start": "npm run dev",
       "deploy": "git-directory-deploy --directory ./dist --repo origin --branch gh-pages",
@@ -152,6 +146,11 @@
       "pretty-error": "^2.0.2",
       "semantic-ui": "^2.2.4",
       "yarn": "^0.16.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/willclarktech/elm-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -179,6 +178,7 @@
   },
   "filename": "willclarktech___elm-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:37:01.476Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:11.474Z"
+  "lastFetchedAt": "2017-10-24T00:19:37.716Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:11.474Z",
+  "archived": false
 }

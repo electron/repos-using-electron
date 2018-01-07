@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sertle",
     "version": "0.0.8",
@@ -79,10 +79,7 @@
     },
     "author": "donati.sergio@gmail.com",
     "license": "GPL-3.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/SergioDonati/sertle.git"
-    },
+    "repository": "https://github.com/SergioDonati/sertle",
     "build": {
       "appId": "com.sertle.desktop.app",
       "category": "public.app-category.business",
@@ -106,7 +103,8 @@
       "electron": "^1.4.15",
       "electron-builder": "^10.17.3",
       "lokijs": "^1.4.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,6 @@
   },
   "filename": "SergioDonati___sertle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:07:24.810Z",
+  "lastFetchedAt": "2017-10-23T23:09:59.371Z",
   "packageLastFetchedAt": "2017-05-04T22:52:45.873Z"
 }

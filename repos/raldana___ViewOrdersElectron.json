@@ -5,7 +5,7 @@
   "owner": {
     "login": "raldana",
     "id": 764835,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/764835?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/764835?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/raldana",
     "htmlUrl": "https://github.com/raldana",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/raldana/vieworderselectron.git"
-    },
+    "repository": "https://github.com/raldana/vieworderselectron",
     "keywords": [
       "Electron",
       "A360",
@@ -90,9 +87,6 @@
     ],
     "author": "Richard Aldana",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/raldana/vieworders/issues"
-    },
     "homepage": "https://github.com/raldana/vieworderselectron#readme",
     "devDependencies": {
       "bower": "^1.7.9",
@@ -109,6 +103,11 @@
       "mssql": "^3.3.0",
       "pdf-view": "^1.0.1",
       "remote": "^0.2.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/raldana/vieworders/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "filename": "raldana___ViewOrdersElectron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:02.505Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:23.228Z"
+  "lastFetchedAt": "2017-10-23T21:49:55.398Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:23.228Z",
+  "archived": false
 }

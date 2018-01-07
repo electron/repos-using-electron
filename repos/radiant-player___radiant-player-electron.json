@@ -58,7 +58,7 @@
   },
   "networkCount": 5,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "private": true,
     "name": "radiant-player",
@@ -165,7 +165,8 @@
       "webpack-dev-server": "^2.4.2",
       "webpack-merge": "^4.1.0",
       "webpack-node-externals": "^1.5.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -212,6 +213,6 @@
   "svnUrl": "https://github.com/radiant-player/radiant-player-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:04:19.215Z",
+  "lastFetchedAt": "2017-10-23T23:05:33.327Z",
   "packageLastFetchedAt": "2017-05-05T17:03:06.271Z"
 }

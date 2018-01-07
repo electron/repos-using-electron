@@ -70,17 +70,14 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-study-app",
     "productName": "ESP",
     "version": "0.1.0",
     "description": "A Study of Electron",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MamoruTsujimoto/electron-study.git"
-    },
+    "repository": "https://github.com/MamoruTsujimoto/electron-study",
     "author": {
       "name": "TsujimotoSirChristopherMamoru",
       "email": "tsujimotosirchristophermamoru@gmail.com",
@@ -129,7 +126,8 @@
         "node",
         "browser"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -156,6 +154,6 @@
   },
   "filename": "MamoruTsujimoto___electron-study.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:04:12.864Z",
+  "lastFetchedAt": "2017-10-24T00:15:37.660Z",
   "packageLastFetchedAt": "2017-05-04T21:56:36.274Z"
 }

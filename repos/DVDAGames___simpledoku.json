@@ -5,7 +5,7 @@
   "owner": {
     "login": "DVDAGames",
     "id": 18276602,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18276602?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18276602?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DVDAGames",
     "htmlUrl": "https://github.com/DVDAGames",
@@ -20,7 +20,7 @@
   "description": "Simple JavaScript sudoku game built with React, Electron, and Webpack",
   "fork": false,
   "createdAt": "2016-04-03T06:43:08.000Z",
-  "updatedAt": "2016-04-05T03:13:05.000Z",
+  "updatedAt": "2017-10-15T05:26:56.000Z",
   "pushedAt": "2016-04-07T04:31:12.000Z",
   "homepage": null,
   "size": 16064,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "DVDAGames",
     "id": 18276602,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18276602?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18276602?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DVDAGames",
     "htmlUrl": "https://github.com/DVDAGames",
@@ -75,17 +75,13 @@
       "game"
     ],
     "homepage": "https://github.com/dvdagames/simpledoku",
-    "bugs": "https://github.com/dvdagames/simpledoku/issues",
     "license": "MIT",
     "author": {
       "name": "Eric Allen",
       "url": "https://www.interwebalchemy.com/"
     },
     "main": "app/window.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dvdagames/simpledoku"
-    },
+    "repository": "https://github.com/dvdagames/simpledoku",
     "scripts": {
       "clean": "cleandir ./app/",
       "copy:main": "cp ./src/window.js ./app/window.js",
@@ -151,6 +147,9 @@
           "never"
         ]
       }
+    },
+    "other": {
+      "bugs": "https://github.com/dvdagames/simpledoku/issues"
     }
   },
   "packageStatus": 200,
@@ -198,6 +197,7 @@
   },
   "filename": "DVDAGames___simpledoku.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:31.203Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:40.900Z"
+  "lastFetchedAt": "2017-10-24T00:18:39.714Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:40.900Z",
+  "archived": false
 }

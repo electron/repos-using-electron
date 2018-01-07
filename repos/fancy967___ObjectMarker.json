@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "object-marker",
     "version": "2.4.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fancy967/ObjectMarker.git"
-    },
+    "repository": "https://github.com/fancy967/ObjectMarker",
     "keywords": [
       "Object",
       "Marker",
@@ -91,7 +88,8 @@
     "devDependencies": {
       "xml2js": "*",
       "electron-prebuilt": "0.37.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +116,6 @@
   },
   "filename": "fancy967___ObjectMarker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:44.554Z",
+  "lastFetchedAt": "2017-10-23T23:01:34.086Z",
   "packageLastFetchedAt": "2017-05-05T17:20:52.557Z"
 }

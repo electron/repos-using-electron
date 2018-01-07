@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-soundcloud",
     "version": "1.0.0",
@@ -80,10 +80,7 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "Sambarilov",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
@@ -123,6 +117,11 @@
       "redux": "^3.5.2",
       "redux-logger": "^2.6.1",
       "tether": "^1.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,6 @@
   "filename": "VitorHP___electron-ddp.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:27:56.466Z",
+  "lastFetchedAt": "2017-10-23T23:10:43.592Z",
   "packageLastFetchedAt": "2017-05-05T01:32:10.377Z"
 }

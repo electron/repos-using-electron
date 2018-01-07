@@ -5,7 +5,7 @@
   "owner": {
     "login": "apoco",
     "id": 551316,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/551316?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/551316?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/apoco",
     "htmlUrl": "https://github.com/apoco",
@@ -20,21 +20,21 @@
   "description": "Cycle.js drivers for electron apps",
   "fork": false,
   "createdAt": "2016-02-08T00:25:03.000Z",
-  "updatedAt": "2016-10-05T18:52:52.000Z",
-  "pushedAt": "2016-03-19T04:18:47.000Z",
+  "updatedAt": "2017-09-08T09:26:48.000Z",
+  "pushedAt": "2017-06-06T15:17:31.000Z",
   "homepage": null,
-  "size": 168,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "size": 94,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 18,
+  "forksCount": 1,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
-  "subscribersCount": 5,
+  "networkCount": 1,
+  "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
     "name": "cycle-electron-driver",
@@ -58,13 +58,7 @@
     "author": "jacob.h.page@gmail.com",
     "license": "MIT",
     "homepage": "https://github.com/apoco/cycle-electron-driver#readme",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/apoco/cycle-electron-driver.git"
-    },
-    "bugs": {
-      "url": "https://github.com/apoco/cycle-electron-driver/issues"
-    },
+    "repository": "https://github.com/apoco/cycle-electron-driver",
     "keywords": [
       "cycle.js",
       "electron"
@@ -93,6 +87,11 @@
       "coverage": "istanbul cover _mocha -- --compilers js:babel-register --recursive ./test/specs",
       "build": "babel src -d lib",
       "prepublish": "npm run build"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/apoco/cycle-electron-driver/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   "svnUrl": "https://github.com/apoco/cycle-electron-driver",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:21:51.957Z",
-  "packageLastFetchedAt": "2017-05-04T22:21:33.627Z"
+  "lastFetchedAt": "2017-10-23T22:13:32.776Z",
+  "packageLastFetchedAt": "2017-05-04T22:21:33.627Z",
+  "archived": false
 }

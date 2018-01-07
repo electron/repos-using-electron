@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "PirateFlix",
     "version": "0.5.2",
@@ -86,10 +86,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ppajer/pirateflix.git"
-    },
+    "repository": "https://github.com/ppajer/pirateflix",
     "keywords": [
       "torrent",
       "stream",
@@ -119,7 +116,8 @@
     "build": {
       "appId": "pirateflix-alpha",
       "productName": "PirateFlix Alpha"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +144,6 @@
   },
   "filename": "ppajer___pirateflix.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:52.275Z",
+  "lastFetchedAt": "2017-10-23T22:57:14.572Z",
   "packageLastFetchedAt": "2017-05-04T22:38:14.700Z"
 }

@@ -71,7 +71,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "BLEXT-editor",
     "version": "1.0.0",
@@ -95,7 +95,8 @@
     },
     "dependencies": {
       "simplemde": "^1.11.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -121,6 +122,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:26.879Z",
+  "lastFetchedAt": "2017-10-23T23:34:50.139Z",
   "packageLastFetchedAt": "2017-05-04T22:52:08.780Z"
 }

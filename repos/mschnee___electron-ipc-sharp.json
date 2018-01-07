@@ -5,7 +5,7 @@
   "owner": {
     "login": "mschnee",
     "id": 1375316,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1375316?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1375316?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mschnee",
     "htmlUrl": "https://github.com/mschnee",
@@ -70,23 +70,22 @@
     "version": "1.0.0",
     "description": "A little experiment: Get a C# app to launch and communicate with Electron using node-ipc",
     "main": "index.js",
-    "directories": {
-      "doc": "docs",
-      "test": "tests"
-    },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mschnee/electron-ipc-sharp.git"
-    },
+    "repository": "https://github.com/mschnee/electron-ipc-sharp",
     "author": "Matt Schnee <https://github.com/mschnee>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mschnee/electron-ipc-sharp/issues"
-    },
-    "homepage": "https://github.com/mschnee/electron-ipc-sharp#readme"
+    "homepage": "https://github.com/mschnee/electron-ipc-sharp#readme",
+    "other": {
+      "directories": {
+        "doc": "docs",
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/mschnee/electron-ipc-sharp/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -113,6 +112,7 @@
   },
   "filename": "mschnee___electron-ipc-sharp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:41.804Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:24.934Z"
+  "lastFetchedAt": "2017-10-24T00:08:46.947Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:24.934Z",
+  "archived": false
 }

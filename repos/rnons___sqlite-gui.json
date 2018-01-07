@@ -5,7 +5,7 @@
   "owner": {
     "login": "rnons",
     "id": 1082650,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1082650?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1082650?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rnons",
     "htmlUrl": "https://github.com/rnons",
@@ -55,10 +55,7 @@
       "dev": "watchify -t [ babelify --optional es7.decorators ] -o dist/app.js src/app.js & postcss -c postcss.conf.js --local-plugins -o dist/main.css src/styles/main.css -w",
       "lint": "eslint src *.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rnons/sqlite-gui.git"
-    },
+    "repository": "https://github.com/rnons/sqlite-gui",
     "keywords": [
       "sqlite",
       "gui",
@@ -67,9 +64,6 @@
     ],
     "author": "rnons",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/rnons/sqlite-gui/issues"
-    },
     "homepage": "https://github.com/rnons/sqlite-gui#readme",
     "dependencies": {
       "angular2": "^2.0.0-alpha.45",
@@ -86,6 +80,11 @@
       "postcss-cssnext": "^2.2.0",
       "postcss-import": "^7.1.0",
       "watchify": "^3.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rnons/sqlite-gui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "rnons___sqlite-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:05.774Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:11.071Z"
+  "lastFetchedAt": "2017-10-23T22:55:26.386Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:11.071Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "lyssdod",
     "id": 2615950,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2615950?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2615950?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lyssdod",
     "htmlUrl": "https://github.com/lyssdod",
@@ -76,15 +76,9 @@
       "start": "electron app",
       "postinstall": "install-app-deps"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lyssdod/electron-abi-test.git"
-    },
+    "repository": "https://github.com/lyssdod/electron-abi-test",
     "author": "Alex Revin",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/cosmosgenius/electron-abi-test/issues"
-    },
     "homepage": "https://github.com/cosmosgenius/electron-abi-test#readme",
     "devDependencies": {
       "electron-builder": "latest",
@@ -94,6 +88,11 @@
       "appId": "com.cosmosgenius.sampleelectronleveldb",
       "app-category-type": "public.app-category.developer-tools",
       "asar": false
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/cosmosgenius/electron-abi-test/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "lyssdod___electron-abi-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:30.090Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:15.018Z"
+  "lastFetchedAt": "2017-10-23T22:11:34.547Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:15.018Z",
+  "archived": false
 }

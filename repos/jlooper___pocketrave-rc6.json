@@ -5,7 +5,7 @@
   "owner": {
     "login": "jlooper",
     "id": 1450004,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1450004?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1450004?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jlooper",
     "htmlUrl": "https://github.com/jlooper",
@@ -75,9 +75,7 @@
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -241,7 +239,8 @@
       "rxjs": "5.0.0-beta.11",
       "systemjs": "0.19.27",
       "zone.js": "0.6.17"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -269,6 +268,7 @@
   "filename": "jlooper___pocketrave-rc6.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:48.835Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:20.688Z"
+  "lastFetchedAt": "2017-10-23T22:26:42.507Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:20.688Z",
+  "archived": false
 }

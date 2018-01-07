@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nachos",
     "version": "0.0.0",
@@ -78,19 +78,13 @@
     "pre-commit": [
       "lint"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nachos/nachos.git"
-    },
+    "repository": "https://github.com/nachos/nachos",
     "keywords": [
       "launcher",
       "desktop"
     ],
     "author": "Nachos team",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nachos/nachos/issues"
-    },
     "homepage": "https://github.com/nachos/nachos",
     "devDependencies": {
       "del": "^2.0.2",
@@ -135,6 +129,11 @@
     },
     "engines": {
       "electron": "0.34.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nachos/nachos/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +181,6 @@
   "svnUrl": "https://github.com/nachos/nachos",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:18:51.103Z",
+  "lastFetchedAt": "2017-10-23T22:57:44.336Z",
   "packageLastFetchedAt": "2017-05-05T15:06:19.890Z"
 }

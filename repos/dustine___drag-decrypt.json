@@ -5,7 +5,7 @@
   "owner": {
     "login": "dustine",
     "id": 8994495,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8994495?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8994495?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dustine",
     "htmlUrl": "https://github.com/dustine",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dustine/drag-decrypt.git"
-    },
+    "repository": "https://github.com/dustine/drag-decrypt",
     "keywords": [
       "encryption",
       "decryption",
@@ -91,12 +88,14 @@
     ],
     "author": "Dustine Camacho",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dustine/drag-decrypt/issues"
-    },
     "homepage": "https://github.com/dustine/drag-decrypt#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.26.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dustine/drag-decrypt/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "dustine___drag-decrypt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:27.143Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:39.129Z"
+  "lastFetchedAt": "2017-10-23T23:45:45.672Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:39.129Z",
+  "archived": false
 }

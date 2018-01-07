@@ -5,7 +5,7 @@
   "owner": {
     "login": "celador",
     "id": 4984798,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4984798?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4984798?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/celador",
     "htmlUrl": "https://github.com/celador",
@@ -20,12 +20,12 @@
   "description": "Task Tray is a tray app that helps with TaskWarrior",
   "fork": false,
   "createdAt": "2016-04-11T06:01:01.000Z",
-  "updatedAt": "2017-03-14T10:33:34.000Z",
+  "updatedAt": "2017-09-27T15:07:32.000Z",
   "pushedAt": "2016-11-01T20:20:43.000Z",
   "homepage": null,
   "size": 852,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -54,10 +54,7 @@
       "start": "electron .",
       "package": "electron-packager . --platform=darwin --arch=x64 --overwrite --icon=pomo\\.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/celador/tasktray.git"
-    },
+    "repository": "https://github.com/celador/tasktray",
     "keywords": [
       "Taskwarrior",
       "Pomodoro",
@@ -66,9 +63,6 @@
     ],
     "author": "celador",
     "license": "MIT",
-    "bugs": {
-      "url": "git+https://github.com/celador/tasktray/issues"
-    },
     "dependencies": {
       "angular": "^1.5.8",
       "electron": "^1.4.4",
@@ -86,6 +80,11 @@
       "chai-as-promised": "^6.0.0",
       "electron-packager": "^8.2.0",
       "mocha": "^3.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "git+https://github.com/celador/tasktray/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   "svnUrl": "https://github.com/celador/tasktray",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:22:39.723Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:54.425Z"
+  "lastFetchedAt": "2017-10-23T22:06:22.210Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:54.425Z",
+  "archived": false
 }

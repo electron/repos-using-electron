@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -55,13 +55,7 @@
       "soundkloud": "./bin/cli.js"
     },
     "author": "rhysd <lin90162@yahoo.co.jp>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rhysd/SoundKloud.git"
-    },
-    "bugs": {
-      "url": "https://github.com/rhysd/SoundKloud/issues"
-    },
+    "repository": "https://github.com/rhysd/SoundKloud",
     "license": "MIT",
     "dependencies": {
       "auto-launch": "^0.1.18",
@@ -76,6 +70,11 @@
     "scripts": {
       "build": "rake build",
       "start": "./bin/cli.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/SoundKloud/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "rhysd___SoundKloud.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:02.998Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:48.052Z"
+  "lastFetchedAt": "2017-10-23T21:51:57.372Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:48.052Z",
+  "archived": false
 }

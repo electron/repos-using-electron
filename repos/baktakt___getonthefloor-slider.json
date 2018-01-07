@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-with-express",
     "description": "Demonstrates spawning Express from Electron and using it to serve content",
@@ -94,7 +94,8 @@
     },
     "devDependencies": {
       "electron-packager": "^8.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -121,6 +122,6 @@
   },
   "filename": "baktakt___getonthefloor-slider.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:50:14.381Z",
+  "lastFetchedAt": "2017-10-23T23:10:48.097Z",
   "packageLastFetchedAt": "2017-05-05T01:22:07.886Z"
 }

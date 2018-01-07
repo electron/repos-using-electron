@@ -178,7 +178,7 @@
   },
   "networkCount": 49,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "openbazaar",
     "productName": "OpenBazaar",
@@ -188,10 +188,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OpenBazaar/OpenBazaar-Installer.git"
-    },
+    "repository": "https://github.com/OpenBazaar/OpenBazaar-Installer",
     "keywords": [
       "p2p",
       "bitcoin",
@@ -200,9 +197,6 @@
     ],
     "author": "OpenBazaar",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/OpenBazaar/OpenBazaar-Installer/issues"
-    },
     "homepage": "https://github.com/OpenBazaar/OpenBazaar-Installer#readme",
     "devDependencies": {
       "electron-installer-dmg": "^0.1.0",
@@ -220,6 +214,11 @@
       "electron-installer-debian": "*",
       "electron-packager": "*",
       "electron-prebuilt": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/OpenBazaar/OpenBazaar-Installer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -268,6 +267,6 @@
   "filename": "bankonmeOS___OpenBazaar-Installer.json",
   "sourceRepo": "OpenBazaar/OpenBazaar-Installer",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:27.552Z",
+  "lastFetchedAt": "2017-10-23T22:58:33.604Z",
   "packageLastFetchedAt": "2017-05-04T22:14:14.934Z"
 }

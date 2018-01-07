@@ -71,17 +71,14 @@
   },
   "networkCount": 14,
   "subscribersCount": 16,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "inpad",
     "productName": "Inpad",
     "version": "0.1.0",
     "description": "A Polished Notes App with Github Flavored Markdown",
     "main": "app/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Sarah-Seo/Inpad.git"
-    },
+    "repository": "https://github.com/Sarah-Seo/Inpad",
     "scripts": {
       "start": "electron app/index.js",
       "start-dev": "NODE_ENV=development electron app/index.js",
@@ -180,7 +177,8 @@
         "target": "dmg",
         "icon": "resources/icon.icns"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -207,6 +205,6 @@
   },
   "sourceRepo": "CarbonStack/Inpad",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:39.793Z",
+  "lastFetchedAt": "2017-10-23T23:10:23.358Z",
   "packageLastFetchedAt": "2017-05-04T22:57:48.804Z"
 }

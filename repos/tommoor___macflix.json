@@ -5,7 +5,7 @@
   "owner": {
     "login": "tommoor",
     "id": 380914,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/380914?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/380914?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tommoor",
     "htmlUrl": "https://github.com/tommoor",
@@ -35,8 +35,8 @@
   "downloadsUrl": "https://api.github.com/repos/tommoor/macflix/downloads",
   "deploymentsUrl": "https://api.github.com/repos/tommoor/macflix/deployments",
   "createdAt": "2016-01-07T13:32:59.000Z",
-  "updatedAt": "2017-04-16T19:28:52.000Z",
-  "pushedAt": "2017-04-26T08:44:43.000Z",
+  "updatedAt": "2017-07-18T23:00:32.000Z",
+  "pushedAt": "2017-09-26T14:15:15.000Z",
   "gitUrl": "git://github.com/tommoor/macflix.git",
   "sshUrl": "git@github.com:tommoor/macflix.git",
   "cloneUrl": "https://github.com/tommoor/macflix.git",
@@ -50,10 +50,10 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 3,
+  "openIssues": 3,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -81,10 +81,7 @@
       "start": "electron src/main/main.js",
       "package": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/netflix.icns --prune=true --out=builds"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tommoor/macflix.git"
-    },
+    "repository": "https://github.com/tommoor/macflix",
     "keywords": [
       "electron",
       "desktop",
@@ -93,9 +90,6 @@
     ],
     "author": "Tom Moor",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tommoor/macflix/issues"
-    },
     "dependencies": {
       "jquery": "^2.1.4",
       "underscore": "^1.7.0"
@@ -103,6 +97,11 @@
     "devDependencies": {
       "electron-packager": "^8.6.0",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tommoor/macflix/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,7 @@
   },
   "filename": "tommoor___macflix.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:15:36.836Z",
-  "packageLastFetchedAt": "2017-05-04T22:00:02.011Z"
+  "lastFetchedAt": "2017-10-23T23:45:37.949Z",
+  "packageLastFetchedAt": "2017-05-04T22:00:02.011Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "cranndarach",
     "id": 14372867,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14372867?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14372867?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cranndarach",
     "htmlUrl": "https://github.com/cranndarach",
@@ -81,7 +81,6 @@
       "security",
       "encryption"
     ],
-    "bugs": "https://github.com/cranndarach/passbox/issues",
     "author": {
       "name": "Rachael Steiner",
       "email": "r.steiner@uconn.edu",
@@ -96,9 +95,6 @@
       "build-win": "electron-packager . PassBox --platform=win32 --arch=x64 --out=dist --ignore='^/dist$' --overwrite",
       "build-mac": "electron-packager . PassBox --platform=darwin --arch=x64 --out=dist --ignore='^/dist$' --overwrite"
     },
-    "directories": {
-      "lib": "lib/"
-    },
     "dependencies": {
       "array-member": "^1.0.0",
       "jsonfile": "^2.4.0",
@@ -109,6 +105,12 @@
     "devDependencies": {
       "electron": "1.4.x",
       "electron-packager": "^8.2.0"
+    },
+    "other": {
+      "directories": {
+        "lib": "lib/"
+      },
+      "bugs": "https://github.com/cranndarach/passbox/issues"
     }
   },
   "packageStatus": 200,
@@ -136,6 +138,7 @@
   },
   "filename": "cranndarach___passbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:59.098Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:57.486Z"
+  "lastFetchedAt": "2017-10-23T22:54:00.384Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:57.486Z",
+  "archived": false
 }

@@ -66,8 +66,8 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T20:23:14.521Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:03:32.089Z",
   "packageJSON": {
     "name": "chai-browser",
     "version": "0.0.2b",
@@ -75,15 +75,13 @@
     "main": "chai-browser.js",
     "author": "Balint Fulop",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bfulop/chai-css-browser.git"
-    },
+    "repository": "https://github.com/bfulop/chai-css-browser",
     "devDependencies": {
       "chai": "^3.5.0",
       "electron": "^1.6.1",
       "expect.js": "^0.3.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "packageLastFetchedAt": "2017-05-05T17:41:54.983Z"

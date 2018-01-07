@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "WizerdataApp",
     "version": "0.1.0",
@@ -87,10 +87,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Wizerdata/wizerdata-electron.git"
-    },
+    "repository": "https://github.com/Wizerdata/wizerdata-electron",
     "keywords": [
       "Wizerdata",
       "Desktop",
@@ -102,7 +99,8 @@
     "homepage": "https://github.com/Wizerdata/wizerdata-electron/blob/master/README.md",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +127,6 @@
   },
   "filename": "Wizerdata___wizerdata-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:52.676Z",
+  "lastFetchedAt": "2017-10-23T22:25:59.495Z",
   "packageLastFetchedAt": "2017-05-05T17:52:13.831Z"
 }

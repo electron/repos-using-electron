@@ -5,7 +5,7 @@
   "owner": {
     "login": "tomkp",
     "id": 171331,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/171331?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/171331?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomkp",
     "htmlUrl": "https://github.com/tomkp",
@@ -106,7 +106,8 @@
       "deploy": "npm run prod && surge dist statae.com",
       "start": "node server.js",
       "prod": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +154,7 @@
   "svnUrl": "https://github.com/tomkp/shares",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:25:53.852Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:47.922Z"
+  "lastFetchedAt": "2017-10-24T00:14:43.965Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:47.922Z",
+  "archived": false
 }

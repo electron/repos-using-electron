@@ -5,7 +5,7 @@
   "owner": {
     "login": "flaccid",
     "id": 131730,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/131730?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/131730?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/flaccid",
     "htmlUrl": "https://github.com/flaccid",
@@ -96,19 +96,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/flaccid/rightscale-desktop.git"
-    },
+    "repository": "https://github.com/flaccid/rightscale-desktop",
     "author": {
       "name": "Chris Fordham",
       "email": "chris@fordham-nagy.id.au",
       "url": "https://github.com/flaccid"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/flaccid/rightscale-desktop/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -185,6 +179,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/flaccid/rightscale-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -212,6 +211,7 @@
   },
   "filename": "flaccid___rightscale-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:44.929Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:43.251Z"
+  "lastFetchedAt": "2017-10-23T21:43:39.517Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:43.251Z",
+  "archived": false
 }

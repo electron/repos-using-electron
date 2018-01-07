@@ -5,7 +5,7 @@
   "owner": {
     "login": "retroverse",
     "id": 16392483,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16392483?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16392483?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/retroverse",
     "htmlUrl": "https://github.com/retroverse",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/retroverse/NJSGMF.git"
-    },
+    "repository": "https://github.com/retroverse/NJSGMF",
     "dependencies": {
       "require-all": "*",
       "electron-prebuilt": "^1.3.3",
@@ -99,10 +96,12 @@
     ],
     "author": "Ewan Breakey",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/retroverse/NJSGMF/issues"
-    },
-    "homepage": "https://github.com/retroverse/NJSGMF#readme"
+    "homepage": "https://github.com/retroverse/NJSGMF#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/retroverse/NJSGMF/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +128,7 @@
   },
   "filename": "retroverse___NJSGMF.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:07.565Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:49.373Z"
+  "lastFetchedAt": "2017-10-24T00:09:39.222Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:49.373Z",
+  "archived": false
 }

@@ -164,7 +164,7 @@
   },
   "networkCount": 1148,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "version": "0.7.1",
@@ -268,7 +268,8 @@
       "pack": "npm run build && build --dir",
       "dist": "npm run build && build",
       "release": "npm run build && build --publish=onTagOrDraft"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -316,6 +317,6 @@
   "svnUrl": "https://github.com/amio/hyperterm",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:04:30.761Z",
+  "lastFetchedAt": "2017-10-23T23:08:23.097Z",
   "packageLastFetchedAt": "2017-05-05T14:43:36.460Z"
 }

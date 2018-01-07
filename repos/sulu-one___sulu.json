@@ -5,7 +5,7 @@
   "owner": {
     "login": "sulu-one",
     "id": 13284628,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13284628?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13284628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sulu-one",
     "htmlUrl": "https://github.com/sulu-one",
@@ -20,21 +20,21 @@
   "description": ":file_folder: Hackable file manager application for Linux, Windows and OS X",
   "fork": false,
   "createdAt": "2015-07-02T16:09:19.000Z",
-  "updatedAt": "2017-03-24T12:58:56.000Z",
+  "updatedAt": "2017-07-16T05:13:50.000Z",
   "pushedAt": "2017-02-23T09:32:47.000Z",
   "homepage": "https://sulu-one.github.io/website/",
   "size": 88523,
-  "stargazersCount": 40,
-  "watchersCount": 40,
+  "stargazersCount": 39,
+  "watchersCount": 39,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
   "forksCount": 5,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 40,
+  "openIssuesCount": 5,
+  "openIssues": 5,
+  "watchers": 39,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "sulu-one",
     "id": 13284628,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13284628?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13284628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sulu-one",
     "htmlUrl": "https://github.com/sulu-one",
@@ -71,9 +71,6 @@
     "description": "A hackable file manager",
     "version": "0.7.4",
     "author": "Stephan Ahlf <stephan.ahlf@gmail.com>",
-    "bugs": {
-      "url": "https://github.com/s-a/sulu/issues"
-    },
     "preferGlobal": true,
     "bin": {
       "sulu": "lib/index.js"
@@ -88,10 +85,7 @@
       "folder"
     ],
     "license": "",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sulu-one/sulu"
-    },
+    "repository": "https://github.com/sulu-one/sulu",
     "scripts": {
       "docs": "jsdoc2md \"./app/packages/**/*.js\" > api.md",
       "start": "electron ./app",
@@ -115,7 +109,12 @@
       "electron-prebuilt": "^1.2.2",
       "minimist": "^1.2.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/s-a/sulu/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -162,6 +161,7 @@
   "svnUrl": "https://github.com/sulu-one/sulu",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:40:36.461Z",
-  "packageLastFetchedAt": "2017-05-05T17:06:46.098Z"
+  "lastFetchedAt": "2017-10-23T23:43:36.659Z",
+  "packageLastFetchedAt": "2017-05-05T17:06:46.098Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "fandy",
     "id": 19108762,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19108762?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19108762?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fandy",
     "htmlUrl": "https://github.com/fandy",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/fandy/universal-frontend-boilerplate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fandy/universal-frontend-boilerplate/deployments",
   "createdAt": "2017-03-19T01:00:41.000Z",
-  "updatedAt": "2017-03-26T04:44:22.000Z",
+  "updatedAt": "2017-10-06T06:40:40.000Z",
   "pushedAt": "2017-03-26T04:42:19.000Z",
   "gitUrl": "git://github.com/fandy/universal-frontend-boilerplate.git",
   "sshUrl": "git@github.com:fandy/universal-frontend-boilerplate.git",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 0,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:09:31.133Z",
+  "lastFetchedAt": "2017-10-24T00:20:33.988Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -148,19 +148,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -267,8 +261,14 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:06:57.846Z"
+  "packageLastFetchedAt": "2017-05-04T22:06:57.846Z",
+  "archived": false
 }

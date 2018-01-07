@@ -5,7 +5,7 @@
   "owner": {
     "login": "kalahari",
     "id": 607610,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/607610?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/607610?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kalahari",
     "htmlUrl": "https://github.com/kalahari",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kalahari/js-bson-issue152-electron-buffer.git"
-    },
+    "repository": "https://github.com/kalahari/js-bson-issue152-electron-buffer",
     "keywords": [
       "mongodb",
       "js-bson",
@@ -90,15 +87,17 @@
     ],
     "author": "Blake Mitchell <blake@barkingspoon.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kalahari/js-bson-issue152-electron-buffer/issues"
-    },
     "homepage": "https://github.com/kalahari/js-bson-issue152-electron-buffer",
     "devDependencies": {
       "electron-prebuilt": "^0.36.9"
     },
     "dependencies": {
       "mongodb": "^2.1.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kalahari/js-bson-issue152-electron-buffer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "kalahari___js-bson-issue152-electron-buffer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:34.731Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:44.632Z"
+  "lastFetchedAt": "2017-10-23T22:27:37.484Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:44.632Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "odds-maker",
     "version": "1.1.0",
@@ -89,13 +89,12 @@
     },
     "license": "MIT",
     "author": "Evan Lucas <evanlucas@me.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/evanlucas/odds-maker"
-    },
+    "repository": "https://github.com/evanlucas/odds-maker",
     "homepage": "https://github.com/evanlucas/odds-maker",
-    "bugs": {
-      "url": "https://github.com/evanlucas/odds-maker/issues"
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evanlucas/odds-maker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,6 @@
   },
   "filename": "evanlucas___odds-maker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:27:18.393Z",
+  "lastFetchedAt": "2017-10-23T23:01:58.321Z",
   "packageLastFetchedAt": "2017-05-05T15:05:04.569Z"
 }

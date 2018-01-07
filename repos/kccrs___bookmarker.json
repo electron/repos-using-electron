@@ -6,7 +6,7 @@
   "owner": {
     "login": "kccrs",
     "id": 14968813,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14968813?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14968813?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kccrs",
     "htmlUrl": "https://github.com/kccrs",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "turingschool-examples",
       "id": 8518346,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8518346?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/turingschool-examples",
       "htmlUrl": "https://github.com/turingschool-examples",
@@ -116,8 +116,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 5,
+    "forksCount": 6,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 2,
@@ -130,7 +131,7 @@
     "owner": {
       "login": "turingschool-examples",
       "id": 8518346,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/8518346?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/turingschool-examples",
       "htmlUrl": "https://github.com/turingschool-examples",
@@ -176,14 +177,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 5,
+    "forksCount": 6,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 2,
     "defaultBranch": "master"
   },
-  "networkCount": 5,
+  "networkCount": 6,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -195,16 +197,10 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kccrs/bookmarker"
-    },
+    "repository": "https://github.com/kccrs/bookmarker",
     "keywords": [],
     "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/kccrs/bookmarker/issues"
-    },
     "homepage": "https://github.com/kccrs/bookmarker#readme",
     "dependencies": {
       "electron": "^1.4.6"
@@ -213,6 +209,11 @@
       "devtron": "^1.4.0",
       "eslint": "^3.10.0",
       "spectron": "^3.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kccrs/bookmarker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -240,6 +241,7 @@
   },
   "sourceRepo": "turingschool-examples/bookmarker",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:18.829Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:39.093Z"
+  "lastFetchedAt": "2017-10-23T22:53:06.861Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:39.093Z",
+  "archived": false
 }

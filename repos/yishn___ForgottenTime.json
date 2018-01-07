@@ -6,7 +6,7 @@
   "owner": {
     "login": "yishn",
     "id": 9217349,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9217349?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9217349?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yishn",
     "htmlUrl": "https://github.com/yishn",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:02:09.218Z",
+  "lastFetchedAt": "2017-10-23T21:51:51.381Z",
   "packageJSON": {
     "name": "forgottentime",
     "productName": "ForgottenTime",
@@ -88,13 +88,7 @@
       "app",
       "electron"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yishn/ForgottenTime.git"
-    },
-    "bugs": {
-      "url": "https://github.com/yishn/ForgottenTime/issues"
-    },
+    "repository": "https://github.com/yishn/ForgottenTime",
     "build": {
       "appId": "de.yichuanshen.forgottentime",
       "compression": "maximum",
@@ -119,8 +113,14 @@
     },
     "dependencies": {
       "preact": "^7.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/yishn/ForgottenTime/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:06:14.730Z"
+  "packageLastFetchedAt": "2017-05-05T15:06:14.730Z",
+  "archived": false
 }

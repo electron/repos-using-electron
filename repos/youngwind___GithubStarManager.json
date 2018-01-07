@@ -5,7 +5,7 @@
   "owner": {
     "login": "youngwind",
     "id": 8401872,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/8401872?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/8401872?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/youngwind",
     "htmlUrl": "https://github.com/youngwind",
@@ -74,10 +74,7 @@
       "start": "electron main.js",
       "mongo": "mongod"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -86,14 +83,16 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
     },
-    "productName": "github-star-manager"
+    "productName": "github-star-manager",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +119,7 @@
   },
   "filename": "youngwind___GithubStarManager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:22:47.382Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:54.824Z"
+  "lastFetchedAt": "2017-10-24T00:05:20.200Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:54.824Z",
+  "archived": false
 }

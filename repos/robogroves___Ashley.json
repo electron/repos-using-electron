@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Ashley",
     "productName": "Ashley",
@@ -99,19 +99,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/robogroves/Ashley.git"
-    },
+    "repository": "https://github.com/robogroves/Ashley",
     "author": {
       "name": "Brent Groves",
       "email": "brent.groves@gmail.com",
       "url": "https://github.com/robogroves"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/robogroves/Ashley/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -220,6 +214,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/robogroves/Ashley/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -248,6 +247,6 @@
   "filename": "robogroves___Ashley.json",
   "sourceRepo": "robogroves/ebpReact",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:11:08.222Z",
+  "lastFetchedAt": "2017-10-23T23:09:24.829Z",
   "packageLastFetchedAt": "2017-05-05T15:07:26.065Z"
 }

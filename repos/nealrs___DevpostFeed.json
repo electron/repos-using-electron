@@ -44,13 +44,10 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "DevpostFeed",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nealrs/DevpostFeed.git"
-    },
+    "repository": "https://github.com/nealrs/DevpostFeed",
     "version": "1.0.0",
     "description": "Electron tray app for Devpost notification feed",
     "main": "index.js",
@@ -71,7 +68,8 @@
     "devDependencies": {
       "electron-packager": "^5.0.1",
       "electron-prebuilt": "0.30.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/nealrs/DevpostFeed",
@@ -118,6 +116,6 @@
   },
   "filename": "nealrs___DevpostFeed.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:29.848Z",
+  "lastFetchedAt": "2017-10-23T23:09:54.581Z",
   "packageLastFetchedAt": "2017-05-05T14:56:20.169Z"
 }

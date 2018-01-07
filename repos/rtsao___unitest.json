@@ -50,7 +50,7 @@
   },
   "networkCount": 6,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "unitest",
     "version": "1.0.0",
@@ -58,7 +58,6 @@
     "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
     "repository": "git@github.com:rtsao/unitest.git",
     "homepage": "https://github.com/rtsao/unitest",
-    "bugs": "https://github.com/rtsao/unitest/issues",
     "main": "index.js",
     "bin": "bin/cli.js",
     "scripts": {
@@ -90,7 +89,10 @@
     "engines": {
       "npm": "^3.0.0"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": "https://github.com/rtsao/unitest/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +139,6 @@
   "svnUrl": "https://github.com/rtsao/unitest",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:27:26.065Z",
+  "lastFetchedAt": "2017-10-23T22:58:44.586Z",
   "packageLastFetchedAt": "2017-05-05T15:21:08.092Z"
 }

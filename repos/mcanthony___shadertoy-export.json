@@ -5,7 +5,7 @@
   "owner": {
     "login": "mcanthony",
     "id": 1610158,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1610158?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1610158?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mcanthony",
     "htmlUrl": "https://github.com/mcanthony",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "mattdesl",
       "id": 1383811,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1383811?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1383811?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mattdesl",
       "htmlUrl": "https://github.com/mattdesl",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/mattdesl/shadertoy-export/downloads",
     "deploymentsUrl": "https://api.github.com/repos/mattdesl/shadertoy-export/deployments",
     "createdAt": "2015-11-07T17:36:43.000Z",
-    "updatedAt": "2017-05-03T02:54:33.000Z",
+    "updatedAt": "2017-09-06T18:07:10.000Z",
     "pushedAt": "2015-12-24T03:28:07.000Z",
     "gitUrl": "git://github.com/mattdesl/shadertoy-export.git",
     "sshUrl": "git@github.com:mattdesl/shadertoy-export.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/mattdesl/shadertoy-export",
     "homepage": "",
     "size": 2564,
-    "stargazersCount": 42,
-    "watchersCount": 42,
+    "stargazersCount": 44,
+    "watchersCount": 44,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 4,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 42,
+    "archived": false,
+    "openIssuesCount": 3,
+    "openIssues": 3,
+    "watchers": 44,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "mattdesl",
       "id": 1383811,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1383811?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1383811?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/mattdesl",
       "htmlUrl": "https://github.com/mattdesl",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/mattdesl/shadertoy-export/downloads",
     "deploymentsUrl": "https://api.github.com/repos/mattdesl/shadertoy-export/deployments",
     "createdAt": "2015-11-07T17:36:43.000Z",
-    "updatedAt": "2017-05-03T02:54:33.000Z",
+    "updatedAt": "2017-09-06T18:07:10.000Z",
     "pushedAt": "2015-12-24T03:28:07.000Z",
     "gitUrl": "git://github.com/mattdesl/shadertoy-export.git",
     "sshUrl": "git@github.com:mattdesl/shadertoy-export.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/mattdesl/shadertoy-export",
     "homepage": "",
     "size": 2564,
-    "stargazersCount": 42,
-    "watchersCount": 42,
+    "stargazersCount": 44,
+    "watchersCount": 44,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 3,
+    "forksCount": 4,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 42,
+    "archived": false,
+    "openIssuesCount": 3,
+    "openIssues": 3,
+    "watchers": 44,
     "defaultBranch": "master"
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -218,16 +220,15 @@
       "frag",
       "fragment"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/mattdesl/shadertoy-export.git"
-    },
+    "repository": "https://github.com/mattdesl/shadertoy-export",
     "homepage": "https://github.com/mattdesl/shadertoy-export",
-    "bugs": {
-      "url": "https://github.com/mattdesl/shadertoy-export/issues"
-    },
     "bin": {
       "shadertoy-export": "./bin/index.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mattdesl/shadertoy-export/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -276,6 +277,7 @@
   "svnUrl": "https://github.com/mcanthony/shadertoy-export",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:28:49.401Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:11.019Z"
+  "lastFetchedAt": "2017-10-23T23:45:28.491Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:11.019Z",
+  "archived": false
 }

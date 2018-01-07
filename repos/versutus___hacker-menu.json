@@ -5,7 +5,7 @@
   "owner": {
     "login": "versutus",
     "id": 14093558,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14093558?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14093558?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/versutus",
     "htmlUrl": "https://github.com/versutus",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "versutus",
     "id": 14093558,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14093558?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14093558?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/versutus",
     "htmlUrl": "https://github.com/versutus",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "jingweno",
       "id": 169064,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/169064?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/169064?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jingweno",
       "htmlUrl": "https://github.com/jingweno",
@@ -99,7 +99,7 @@
     "downloadsUrl": "https://api.github.com/repos/jingweno/hacker-menu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jingweno/hacker-menu/deployments",
     "createdAt": "2015-08-17T15:21:43.000Z",
-    "updatedAt": "2017-05-02T11:02:03.000Z",
+    "updatedAt": "2017-10-12T22:57:17.000Z",
     "pushedAt": "2015-12-02T15:41:53.000Z",
     "gitUrl": "git://github.com/jingweno/hacker-menu.git",
     "sshUrl": "git@github.com:jingweno/hacker-menu.git",
@@ -107,19 +107,20 @@
     "svnUrl": "https://github.com/jingweno/hacker-menu",
     "homepage": "https://hackermenu.io/",
     "size": 382,
-    "stargazersCount": 909,
-    "watchersCount": 909,
+    "stargazersCount": 917,
+    "watchersCount": 917,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 70,
+    "forksCount": 71,
     "mirrorUrl": null,
-    "openIssuesCount": 4,
-    "openIssues": 4,
-    "watchers": 909,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 917,
     "defaultBranch": "master"
   },
   "source": {
@@ -129,7 +130,7 @@
     "owner": {
       "login": "jingweno",
       "id": 169064,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/169064?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/169064?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/jingweno",
       "htmlUrl": "https://github.com/jingweno",
@@ -159,7 +160,7 @@
     "downloadsUrl": "https://api.github.com/repos/jingweno/hacker-menu/downloads",
     "deploymentsUrl": "https://api.github.com/repos/jingweno/hacker-menu/deployments",
     "createdAt": "2015-08-17T15:21:43.000Z",
-    "updatedAt": "2017-05-02T11:02:03.000Z",
+    "updatedAt": "2017-10-12T22:57:17.000Z",
     "pushedAt": "2015-12-02T15:41:53.000Z",
     "gitUrl": "git://github.com/jingweno/hacker-menu.git",
     "sshUrl": "git@github.com:jingweno/hacker-menu.git",
@@ -167,22 +168,23 @@
     "svnUrl": "https://github.com/jingweno/hacker-menu",
     "homepage": "https://hackermenu.io/",
     "size": 382,
-    "stargazersCount": 909,
-    "watchersCount": 909,
+    "stargazersCount": 917,
+    "watchersCount": 917,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": false,
-    "forksCount": 70,
+    "forksCount": 71,
     "mirrorUrl": null,
-    "openIssuesCount": 4,
-    "openIssues": 4,
-    "watchers": 909,
+    "archived": false,
+    "openIssuesCount": 6,
+    "openIssues": 6,
+    "watchers": 917,
     "defaultBranch": "master"
   },
-  "networkCount": 70,
+  "networkCount": 71,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -191,16 +193,10 @@
     "version": "1.1.4",
     "description": "A menu to read Hacker News",
     "main": "./dist/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jingweno/hacker-menu.git"
-    },
+    "repository": "https://github.com/jingweno/hacker-menu",
     "engines": {
       "node": "0.12.7",
       "npm": "2.11.3"
-    },
-    "bugs": {
-      "url": "https://github.com/jingweno/hacker-menu/issues"
     },
     "license": "MIT",
     "scripts": {
@@ -239,6 +235,11 @@
       "newrelic-winston": "0.0.1",
       "react": "^0.13.3",
       "winston": "^1.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jingweno/hacker-menu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -287,6 +288,7 @@
   "svnUrl": "https://github.com/versutus/hacker-menu",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:35:18.616Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:06.929Z"
+  "lastFetchedAt": "2017-10-24T02:03:11.789Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:06.929Z",
+  "archived": false
 }

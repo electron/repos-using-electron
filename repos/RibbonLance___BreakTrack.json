@@ -5,7 +5,7 @@
   "owner": {
     "login": "RibbonLance",
     "id": 12173414,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12173414?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12173414?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RibbonLance",
     "htmlUrl": "https://github.com/RibbonLance",
@@ -120,17 +120,10 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/RibbonLance/BreakTrack.git"
-    },
+    "repository": "https://github.com/RibbonLance/BreakTrack",
     "author": {
       "name": "Matt Barker",
       "email": "ribbonlance@gmail.com",
@@ -214,6 +207,12 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -241,6 +240,7 @@
   },
   "filename": "RibbonLance___BreakTrack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:05:43.245Z",
-  "packageLastFetchedAt": "2017-05-05T14:35:22.180Z"
+  "lastFetchedAt": "2017-10-23T21:45:48.632Z",
+  "packageLastFetchedAt": "2017-05-05T14:35:22.180Z",
+  "archived": false
 }

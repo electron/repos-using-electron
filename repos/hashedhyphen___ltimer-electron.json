@@ -5,7 +5,7 @@
   "owner": {
     "login": "hashedhyphen",
     "id": 13907611,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13907611?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13907611?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hashedhyphen",
     "htmlUrl": "https://github.com/hashedhyphen",
@@ -20,7 +20,7 @@
   "description": "A timer for LTs (Electron)",
   "fork": false,
   "createdAt": "2016-02-24T06:24:28.000Z",
-  "updatedAt": "2016-05-27T08:59:07.000Z",
+  "updatedAt": "2017-08-16T20:19:14.000Z",
   "pushedAt": "2016-08-08T14:15:00.000Z",
   "homepage": null,
   "size": 39,
@@ -57,7 +57,6 @@
     "version": "2.1.13",
     "author": "Ryo Kato <ryo_kato@hashedhyphen.com>",
     "bin": "ltimer.js",
-    "bugs": "https://github.com/hashedhyphen/ltimer-electron/issues",
     "dependencies": {
       "electron-prebuilt": "^1.2.3",
       "react": "^15.1.0",
@@ -83,15 +82,15 @@
     ],
     "license": "MIT",
     "main": "js/build/index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hashedhyphen/ltimer-electron.git"
-    },
+    "repository": "https://github.com/hashedhyphen/ltimer-electron",
     "scripts": {
       "build": "gulp build",
       "lint": "gulp lint",
       "start": "electron .",
       "watch": "gulp watch"
+    },
+    "other": {
+      "bugs": "https://github.com/hashedhyphen/ltimer-electron/issues"
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   "svnUrl": "https://github.com/hashedhyphen/ltimer-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:35:30.196Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:47.746Z"
+  "lastFetchedAt": "2017-10-23T22:33:24.496Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:47.746Z",
+  "archived": false
 }

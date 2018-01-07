@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hackly",
     "version": "0.0.1",
@@ -76,10 +76,12 @@
       "url": "8bitpickle.github.io"
     },
     "main": "main.js",
-    "bugs": "https://github.com/8bitpickle/hackly/issues",
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "^1.2.2"
+    },
+    "other": {
+      "bugs": "https://github.com/8bitpickle/hackly/issues"
     }
   },
   "packageStatus": 200,
@@ -107,6 +109,6 @@
   },
   "filename": "8bitpickle___hackly.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:05.637Z",
+  "lastFetchedAt": "2017-10-23T23:02:43.082Z",
   "packageLastFetchedAt": "2017-05-05T01:29:18.228Z"
 }

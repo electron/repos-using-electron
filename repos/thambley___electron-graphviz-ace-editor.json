@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-graphviz-ace-editor",
     "version": "0.2.0",
@@ -70,10 +70,7 @@
       "start": "electron .",
       "build": "node build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/thambley/electron-graphviz-ace-editor.git"
-    },
+    "repository": "https://github.com/thambley/electron-graphviz-ace-editor",
     "author": "Todd Hambley",
     "license": "MIT",
     "dependencies": {
@@ -86,10 +83,12 @@
       "electron-packager": "^8.3.0",
       "electron-prebuilt": "^1.4.10"
     },
-    "bugs": {
-      "url": "https://github.com/thambley/electron-graphviz-ace-editor/issues"
-    },
-    "homepage": "https://github.com/thambley/electron-graphviz-ace-editor#readme"
+    "homepage": "https://github.com/thambley/electron-graphviz-ace-editor#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/thambley/electron-graphviz-ace-editor/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/thambley/electron-graphviz-ace-editor",
@@ -136,6 +135,6 @@
   },
   "filename": "thambley___electron-graphviz-ace-editor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:02.743Z",
+  "lastFetchedAt": "2017-10-23T23:10:11.836Z",
   "packageLastFetchedAt": "2017-05-05T17:00:50.712Z"
 }

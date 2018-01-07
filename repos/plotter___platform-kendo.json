@@ -5,7 +5,7 @@
   "owner": {
     "login": "plotter",
     "id": 12588622,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12588622?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12588622?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotter",
     "htmlUrl": "https://github.com/plotter",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "plotter",
     "id": 12588622,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12588622?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12588622?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotter",
     "htmlUrl": "https://github.com/plotter",
@@ -75,9 +75,6 @@
       "skeleton"
     ],
     "homepage": "http://plotter.github.io",
-    "bugs": {
-      "url": "https://github.com/plotter/platform2/issues"
-    },
     "scripts": {
       "clean": "rimraf dist",
       "start": "electron .",
@@ -91,10 +88,7 @@
     "license": "MIT",
     "author": "Mike Graham <mgraham@technicalmedia.com> (http://cmichaelgraham.io)",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/plotter/platform2"
-    },
+    "repository": "https://github.com/plotter/platform2",
     "devDependencies": {
       "aurelia-bootstrapper": "^1.0.0",
       "aurelia-framework": "^1.0.2",
@@ -116,6 +110,11 @@
       "text": "github:requirejs/text",
       "tslint": "^3.11.0",
       "typescript": ">=1.9.0-dev || ^2.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/plotter/platform2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,7 @@
   "svnUrl": "https://github.com/plotter/platform-kendo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:40:36.702Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:49.858Z"
+  "lastFetchedAt": "2017-10-24T00:16:20.955Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:49.858Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "inarli",
     "id": 1387333,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1387333?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1387333?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/inarli",
     "htmlUrl": "https://github.com/inarli",
@@ -79,19 +79,12 @@
     "icon": "app/resources/icons/app.png",
     "description": "My spectacular app",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/inarli/gohome.git",
-      "docs": "https://github.com/inarli/gohome/blob/master/README.md"
-    },
+    "repository": "https://github.com/inarli/gohome",
     "main": "app/main/index.js",
     "author": {
       "name": "İlkay Narlı",
       "email": "ilkaynarli@gmail.com",
       "url": "https://www.github.com/inarli"
-    },
-    "bugs": {
-      "url": "https://github.com/inarli/gohome/issues"
     },
     "scripts": {
       "test": "xo",
@@ -132,6 +125,11 @@
         "node",
         "browser"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/inarli/gohome/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -158,6 +156,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:10:49.105Z",
-  "packageLastFetchedAt": "2017-05-05T15:22:30.247Z"
+  "lastFetchedAt": "2017-10-23T22:28:22.526Z",
+  "packageLastFetchedAt": "2017-05-05T15:22:30.247Z",
+  "archived": false
 }

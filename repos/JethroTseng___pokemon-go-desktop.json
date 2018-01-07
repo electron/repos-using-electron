@@ -164,7 +164,7 @@
   },
   "networkCount": 15,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pokemon-go-desktop",
     "productName": "Pokemon Go Desktop",
@@ -185,19 +185,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jackypan1989/pokemon-go-desktop.git"
-    },
+    "repository": "https://github.com/jackypan1989/pokemon-go-desktop",
     "author": {
       "name": "Guan Yu Pan",
       "email": "jackypan1989@gmail.com",
       "url": "https://github.com/jackypan1989"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jackypan1989/pokemon-go-desktop/issues"
-    },
     "keywords": [
       "pokemon",
       "pokemon-go",
@@ -285,6 +279,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jackypan1989/pokemon-go-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -333,6 +332,6 @@
   "filename": "JethroTseng___pokemon-go-desktop.json",
   "sourceRepo": "jackypan1989/pokemon-go-desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:12:44.058Z",
+  "lastFetchedAt": "2017-10-24T00:10:52.424Z",
   "packageLastFetchedAt": "2017-05-05T01:34:04.114Z"
 }

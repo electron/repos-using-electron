@@ -5,7 +5,7 @@
   "owner": {
     "login": "pomodoro-cc",
     "id": 17209287,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17209287?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17209287?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pomodoro-cc",
     "htmlUrl": "https://github.com/pomodoro-cc",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "pomodoro-cc",
     "id": 17209287,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17209287?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17209287?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pomodoro-cc",
     "htmlUrl": "https://github.com/pomodoro-cc",
@@ -101,7 +101,8 @@
       "build": "electron-packager . Pomodoro --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns --overwrite",
       "optimize": "ditto -c -k --sequesterRsrc --keepParent ./Pomodoro-darwin-x64/Pomodoro.app ./Pomodoro-darwin-x64/Pomodoro.zip",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +129,7 @@
   },
   "filename": "pomodoro-cc___mac.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:04:53.862Z",
-  "packageLastFetchedAt": "2017-05-05T17:38:33.631Z"
+  "lastFetchedAt": "2017-10-23T21:47:04.878Z",
+  "packageLastFetchedAt": "2017-05-05T17:38:33.631Z",
+  "archived": false
 }

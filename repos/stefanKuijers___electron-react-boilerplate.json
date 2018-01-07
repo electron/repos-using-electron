@@ -5,7 +5,7 @@
   "owner": {
     "login": "stefanKuijers",
     "id": 1039326,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1039326?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1039326?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stefanKuijers",
     "htmlUrl": "https://github.com/stefanKuijers",
@@ -129,10 +129,6 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
@@ -214,6 +210,12 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -242,6 +244,7 @@
   "filename": "stefanKuijers___electron-react-boilerplate.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:01.633Z",
-  "packageLastFetchedAt": "2017-05-05T15:07:38.955Z"
+  "lastFetchedAt": "2017-10-23T22:23:09.814Z",
+  "packageLastFetchedAt": "2017-05-05T15:07:38.955Z",
+  "archived": false
 }

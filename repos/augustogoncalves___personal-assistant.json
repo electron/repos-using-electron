@@ -5,7 +5,7 @@
   "owner": {
     "login": "augustogoncalves",
     "id": 4291593,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4291593?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4291593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/augustogoncalves",
     "htmlUrl": "https://github.com/augustogoncalves",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/augustogoncalves/personal-assistant/downloads",
   "deploymentsUrl": "https://api.github.com/repos/augustogoncalves/personal-assistant/deployments",
   "createdAt": "2016-04-04T17:24:06.000Z",
-  "updatedAt": "2017-04-15T10:32:28.000Z",
+  "updatedAt": "2017-09-28T20:57:33.000Z",
   "pushedAt": "2016-04-04T17:52:30.000Z",
   "gitUrl": "git://github.com/augustogoncalves/personal-assistant.git",
   "sshUrl": "git@github.com:augustogoncalves/personal-assistant.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/augustogoncalves/personal-assistant",
   "homepage": null,
   "size": 80,
-  "stargazersCount": 36,
-  "watchersCount": 36,
+  "stargazersCount": 45,
+  "watchersCount": 45,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 11,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 36,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 45,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 11,
-  "subscribersCount": 4,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "personal-assistant",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/augustogoncalves/personal-assistant"
-    },
+    "repository": "https://github.com/augustogoncalves/personal-assistant",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "Augusto Goncalves",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/augustogoncalves/personal-assistant/issues"
-    },
     "homepage": "https://github.com/augustogoncalves/personal-assistant",
     "devDependencies": {
       "electron-prebuilt": "^0.36.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/augustogoncalves/personal-assistant/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "augustogoncalves___personal-assistant.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:01:30.188Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:01.019Z"
+  "lastFetchedAt": "2017-10-24T00:15:38.950Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:01.019Z",
+  "archived": false
 }

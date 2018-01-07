@@ -5,7 +5,7 @@
   "owner": {
     "login": "Bunkerbewohner",
     "id": 500529,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/500529?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/500529?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Bunkerbewohner",
     "htmlUrl": "https://github.com/Bunkerbewohner",
@@ -20,21 +20,21 @@
   "description": "An electron based wrapper around the Tidal web player for Linux",
   "fork": false,
   "createdAt": "2015-12-01T15:41:46.000Z",
-  "updatedAt": "2017-04-18T11:01:37.000Z",
-  "pushedAt": "2016-11-26T20:12:36.000Z",
+  "updatedAt": "2017-10-23T14:03:08.000Z",
+  "pushedAt": "2017-07-16T17:21:14.000Z",
   "homepage": null,
   "size": 2947,
-  "stargazersCount": 15,
-  "watchersCount": 15,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 15,
+  "forksCount": 6,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
-  "subscribersCount": 4,
+  "networkCount": 6,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "Tidal Music - Linux",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,12 +68,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/Bunkerbewohner/tidal-music-linux",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:07:22.514Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:50.734Z"
+  "lastFetchedAt": "2017-10-24T00:12:00.349Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:50.734Z",
+  "archived": false
 }

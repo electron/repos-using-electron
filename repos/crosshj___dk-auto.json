@@ -5,7 +5,7 @@
   "owner": {
     "login": "crosshj",
     "id": 1816471,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1816471?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1816471?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/crosshj",
     "htmlUrl": "https://github.com/crosshj",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -102,6 +96,11 @@
       "adbkit": "^2.3.1",
       "gm": "^1.21.1",
       "raphael": "^2.1.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "crosshj___dk-auto.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:33.966Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:54.072Z"
+  "lastFetchedAt": "2017-10-23T23:12:13.024Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:54.072Z",
+  "archived": false
 }

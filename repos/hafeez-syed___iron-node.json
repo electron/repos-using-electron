@@ -5,7 +5,7 @@
   "owner": {
     "login": "hafeez-syed",
     "id": 2829657,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2829657?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2829657?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hafeez-syed",
     "htmlUrl": "https://github.com/hafeez-syed",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "s-a",
       "id": 1270662,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1270662?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1270662?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/s-a",
       "htmlUrl": "https://github.com/s-a",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/s-a/iron-node/downloads",
     "deploymentsUrl": "https://api.github.com/repos/s-a/iron-node/deployments",
     "createdAt": "2015-07-17T06:30:34.000Z",
-    "updatedAt": "2017-05-04T20:48:00.000Z",
-    "pushedAt": "2017-02-19T09:03:20.000Z",
+    "updatedAt": "2017-10-23T01:32:37.000Z",
+    "pushedAt": "2017-08-18T13:55:21.000Z",
     "gitUrl": "git://github.com/s-a/iron-node.git",
     "sshUrl": "git@github.com:s-a/iron-node.git",
     "cloneUrl": "https://github.com/s-a/iron-node.git",
     "svnUrl": "https://github.com/s-a/iron-node",
     "homepage": "http://s-a.github.io/iron-node/",
-    "size": 8250,
-    "stargazersCount": 2316,
-    "watchersCount": 2316,
+    "size": 8252,
+    "stargazersCount": 2349,
+    "watchersCount": 2349,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 68,
+    "forksCount": 74,
     "mirrorUrl": null,
-    "openIssuesCount": 1,
-    "openIssues": 1,
-    "watchers": 2316,
+    "archived": false,
+    "openIssuesCount": 2,
+    "openIssues": 2,
+    "watchers": 2349,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "s-a",
       "id": 1270662,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/1270662?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1270662?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/s-a",
       "htmlUrl": "https://github.com/s-a",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/s-a/iron-node/downloads",
     "deploymentsUrl": "https://api.github.com/repos/s-a/iron-node/deployments",
     "createdAt": "2015-07-17T06:30:34.000Z",
-    "updatedAt": "2017-05-04T20:48:00.000Z",
-    "pushedAt": "2017-02-19T09:03:20.000Z",
+    "updatedAt": "2017-10-23T01:32:37.000Z",
+    "pushedAt": "2017-08-18T13:55:21.000Z",
     "gitUrl": "git://github.com/s-a/iron-node.git",
     "sshUrl": "git@github.com:s-a/iron-node.git",
     "cloneUrl": "https://github.com/s-a/iron-node.git",
     "svnUrl": "https://github.com/s-a/iron-node",
     "homepage": "http://s-a.github.io/iron-node/",
-    "size": 8250,
-    "stargazersCount": 2316,
-    "watchersCount": 2316,
+    "size": 8252,
+    "stargazersCount": 2349,
+    "watchersCount": 2349,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": false,
     "hasPages": true,
-    "forksCount": 68,
+    "forksCount": 74,
     "mirrorUrl": null,
-    "openIssuesCount": 1,
-    "openIssues": 1,
-    "watchers": 2316,
+    "archived": false,
+    "openIssuesCount": 2,
+    "openIssues": 2,
+    "watchers": 2349,
     "defaultBranch": "master"
   },
-  "networkCount": 68,
+  "networkCount": 74,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -187,15 +189,9 @@
       "test",
       "mdlint"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/s-a/iron-node.git"
-    },
+    "repository": "https://github.com/s-a/iron-node",
     "author": "Stephan Ahlf <stephan.ahlf@gmail.com> (https://github.com/s-a)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/s-a/iron-node/issues"
-    },
     "homepage": "https://github.com/s-a/iron-node#readme",
     "dependencies": {
       "commander": "^2.8.1",
@@ -213,6 +209,11 @@
       "mocha": "^2.2.5",
       "pre-commit": "^1.1.1",
       "should": "^7.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/s-a/iron-node/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -261,6 +262,7 @@
   "svnUrl": "https://github.com/hafeez-syed/iron-node",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:50:13.480Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:04.246Z"
+  "lastFetchedAt": "2017-10-23T22:15:28.912Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:04.246Z",
+  "archived": false
 }

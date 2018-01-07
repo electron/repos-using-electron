@@ -1,46 +1,46 @@
 {
   "id": 65966240,
   "name": "dashboard-electron",
-  "fullName": "liamgall/dashboard-electron",
+  "fullName": "doanf/dashboard-electron",
   "owner": {
-    "login": "liamgall",
+    "login": "doanf",
     "id": 16508308,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16508308?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16508308?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/liamgall",
-    "htmlUrl": "https://github.com/liamgall",
-    "followersUrl": "https://api.github.com/users/liamgall/followers",
-    "subscriptionsUrl": "https://api.github.com/users/liamgall/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/liamgall/orgs",
-    "reposUrl": "https://api.github.com/users/liamgall/repos",
-    "receivedEventsUrl": "https://api.github.com/users/liamgall/received_events",
+    "url": "https://api.github.com/users/doanf",
+    "htmlUrl": "https://github.com/doanf",
+    "followersUrl": "https://api.github.com/users/doanf/followers",
+    "subscriptionsUrl": "https://api.github.com/users/doanf/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/doanf/orgs",
+    "reposUrl": "https://api.github.com/users/doanf/repos",
+    "receivedEventsUrl": "https://api.github.com/users/doanf/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/liamgall/dashboard-electron",
+  "htmlUrl": "https://github.com/doanf/dashboard-electron",
   "description": null,
   "fork": false,
-  "url": "https://api.github.com/repos/liamgall/dashboard-electron",
-  "forksUrl": "https://api.github.com/repos/liamgall/dashboard-electron/forks",
-  "teamsUrl": "https://api.github.com/repos/liamgall/dashboard-electron/teams",
-  "hooksUrl": "https://api.github.com/repos/liamgall/dashboard-electron/hooks",
-  "eventsUrl": "https://api.github.com/repos/liamgall/dashboard-electron/events",
-  "tagsUrl": "https://api.github.com/repos/liamgall/dashboard-electron/tags",
-  "languagesUrl": "https://api.github.com/repos/liamgall/dashboard-electron/languages",
-  "stargazersUrl": "https://api.github.com/repos/liamgall/dashboard-electron/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/liamgall/dashboard-electron/contributors",
-  "subscribersUrl": "https://api.github.com/repos/liamgall/dashboard-electron/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/liamgall/dashboard-electron/subscription",
-  "mergesUrl": "https://api.github.com/repos/liamgall/dashboard-electron/merges",
-  "downloadsUrl": "https://api.github.com/repos/liamgall/dashboard-electron/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/liamgall/dashboard-electron/deployments",
+  "url": "https://api.github.com/repos/doanf/dashboard-electron",
+  "forksUrl": "https://api.github.com/repos/doanf/dashboard-electron/forks",
+  "teamsUrl": "https://api.github.com/repos/doanf/dashboard-electron/teams",
+  "hooksUrl": "https://api.github.com/repos/doanf/dashboard-electron/hooks",
+  "eventsUrl": "https://api.github.com/repos/doanf/dashboard-electron/events",
+  "tagsUrl": "https://api.github.com/repos/doanf/dashboard-electron/tags",
+  "languagesUrl": "https://api.github.com/repos/doanf/dashboard-electron/languages",
+  "stargazersUrl": "https://api.github.com/repos/doanf/dashboard-electron/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/doanf/dashboard-electron/contributors",
+  "subscribersUrl": "https://api.github.com/repos/doanf/dashboard-electron/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/doanf/dashboard-electron/subscription",
+  "mergesUrl": "https://api.github.com/repos/doanf/dashboard-electron/merges",
+  "downloadsUrl": "https://api.github.com/repos/doanf/dashboard-electron/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/doanf/dashboard-electron/deployments",
   "createdAt": "2016-08-18T04:54:58.000Z",
   "updatedAt": "2016-08-18T04:55:09.000Z",
   "pushedAt": "2016-08-18T09:40:29.000Z",
-  "gitUrl": "git://github.com/liamgall/dashboard-electron.git",
-  "sshUrl": "git@github.com:liamgall/dashboard-electron.git",
-  "cloneUrl": "https://github.com/liamgall/dashboard-electron.git",
-  "svnUrl": "https://github.com/liamgall/dashboard-electron",
+  "gitUrl": "git://github.com/doanf/dashboard-electron.git",
+  "sshUrl": "git@github.com:doanf/dashboard-electron.git",
+  "cloneUrl": "https://github.com/doanf/dashboard-electron.git",
+  "svnUrl": "https://github.com/doanf/dashboard-electron",
   "homepage": null,
   "size": 3979,
   "stargazersCount": 0,
@@ -86,10 +86,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -98,12 +95,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "liamgall___dashboard-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:56.428Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:25.196Z"
+  "lastFetchedAt": "2017-10-24T00:07:29.515Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:25.196Z",
+  "archived": false
 }

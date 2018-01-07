@@ -5,7 +5,7 @@
   "owner": {
     "login": "manosim",
     "id": 6333409,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6333409?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6333409?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/manosim",
     "htmlUrl": "https://github.com/manosim",
@@ -17,24 +17,24 @@
     "type": "User"
   },
   "private": false,
-  "description": "GitHub Notifications on your menu bar.",
+  "description": "GitHub Notifications on your desktop.",
   "fork": false,
   "createdAt": "2015-05-21T18:15:28.000Z",
-  "updatedAt": "2017-05-04T14:24:49.000Z",
-  "pushedAt": "2017-05-01T19:13:37.000Z",
+  "updatedAt": "2017-10-23T15:42:36.000Z",
+  "pushedAt": "2017-06-24T12:50:33.000Z",
   "homepage": "http://www.gitify.io/",
-  "size": 5491,
-  "stargazersCount": 1737,
-  "watchersCount": 1737,
+  "size": 7114,
+  "stargazersCount": 2106,
+  "watchersCount": 2106,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 110,
-  "openIssuesCount": 43,
-  "openIssues": 43,
-  "watchers": 1737,
+  "forksCount": 131,
+  "openIssuesCount": 56,
+  "openIssues": 56,
+  "watchers": 2106,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 110,
-  "subscribersCount": 37,
+  "networkCount": 131,
+  "subscribersCount": 47,
   "status": 200,
   "packageJSON": {
     "name": "gitify",
@@ -69,10 +69,7 @@
       "test": "npm run lint-js && npm run lint-sass && npm run coverage",
       "start": "electron . –enable-logging"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/manosim/gitify.git"
-    },
+    "repository": "https://github.com/manosim/gitify",
     "keywords": [
       "gitify",
       "github",
@@ -96,9 +93,6 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/manosim/gitify/issues"
-    },
     "homepage": "http://www.gitify.io/",
     "dependencies": {
       "auto-launch": "=4.0.0",
@@ -158,6 +152,11 @@
       "vinyl-buffer": "=1.0.0",
       "vinyl-source-stream": "=1.1.0",
       "watchify": "=3.7.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/manosim/gitify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -206,6 +205,7 @@
   "svnUrl": "https://github.com/manosim/gitify",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:11:12.389Z",
-  "packageLastFetchedAt": "2017-05-05T17:05:08.173Z"
+  "lastFetchedAt": "2017-10-24T00:17:01.469Z",
+  "packageLastFetchedAt": "2017-05-05T17:05:08.173Z",
+  "archived": false
 }

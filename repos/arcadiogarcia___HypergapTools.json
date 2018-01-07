@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hypergap-tools",
     "displayName": "Hypergap Tools",
@@ -118,7 +118,8 @@
       "socket.io": "^1.4.8",
       "xml2js": "^0.4.16",
       "electron-prebuilt": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +146,6 @@
   },
   "filename": "arcadiogarcia___HypergapTools.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:00.737Z",
+  "lastFetchedAt": "2017-10-23T23:06:42.128Z",
   "packageLastFetchedAt": "2017-05-05T17:44:48.482Z"
 }

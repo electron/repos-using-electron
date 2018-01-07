@@ -5,7 +5,7 @@
   "owner": {
     "login": "Calit2-UCI",
     "id": 3720493,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3720493?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3720493?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Calit2-UCI",
     "htmlUrl": "https://github.com/Calit2-UCI",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "Calit2-UCI",
     "id": 3720493,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3720493?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3720493?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Calit2-UCI",
     "htmlUrl": "https://github.com/Calit2-UCI",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,9 +82,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -95,6 +89,11 @@
     "dependencies": {
       "d3": "^4.2.1",
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   "svnUrl": "https://github.com/Calit2-UCI/ec-channel-ui",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:34:10.038Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:21.189Z"
+  "lastFetchedAt": "2017-10-23T22:53:48.608Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:21.189Z",
+  "archived": false
 }

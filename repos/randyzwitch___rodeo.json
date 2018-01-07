@@ -184,7 +184,7 @@
   },
   "networkCount": 350,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "rodeo",
     "productName": "Rodeo",
@@ -193,10 +193,7 @@
     "author": "Yhat Inc. <team@yhathq.com> (https://www.yhat.com/products/rodeo)",
     "license": "AGPL-3.0",
     "main": "app/node",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/yhat/rodeo.git"
-    },
+    "repository": "https://github.com/yhat/rodeo",
     "scripts": {
       "start": "electron app",
       "hot-server": "node -r babel-register server.js",
@@ -359,7 +356,8 @@
         "<rootDir>/__mocks__/browser-mocks.js"
       ],
       "testRegex": "/src/browser/.*\\.test\\.js$"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -387,6 +385,6 @@
   "filename": "randyzwitch___rodeo.json",
   "sourceRepo": "ChinaQuants/rodeo",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:39.339Z",
+  "lastFetchedAt": "2017-10-23T23:02:00.330Z",
   "packageLastFetchedAt": "2017-05-04T23:01:32.104Z"
 }

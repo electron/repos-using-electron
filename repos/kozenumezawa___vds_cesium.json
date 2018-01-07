@@ -5,7 +5,7 @@
   "owner": {
     "login": "kozenumezawa",
     "id": 18299097,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18299097?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18299097?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kozenumezawa",
     "htmlUrl": "https://github.com/kozenumezawa",
@@ -92,14 +92,7 @@
       "map",
       "globe"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium.git"
-    },
-    "bugs": {
-      "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
-      "email": "cesium-dev@googlegroups.com"
-    },
+    "repository": "https://github.com/AnalyticalGraphicsInc/cesium",
     "dependencies": {
       "requirejs": "2.2.0"
     },
@@ -169,6 +162,12 @@
       "deploy-s3": "gulp deploy-s3",
       "deploy-status": "gulp deploy-status",
       "deploy-set-version": "gulp deploy-set-version"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AnalyticalGraphicsInc/cesium/issues",
+        "email": "cesium-dev@googlegroups.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -196,6 +195,7 @@
   },
   "filename": "kozenumezawa___vds_cesium.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:32.455Z",
-  "packageLastFetchedAt": "2017-05-04T22:24:47.881Z"
+  "lastFetchedAt": "2017-10-23T23:42:20.899Z",
+  "packageLastFetchedAt": "2017-05-04T22:24:47.881Z",
+  "archived": false
 }

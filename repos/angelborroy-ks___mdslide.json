@@ -64,15 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mdSlide",
     "version": "0.0.3",
     "description": "Markdown slide writer, powered by Electron.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yhatt/mdslide"
-    },
+    "repository": "https://github.com/yhatt/mdslide",
     "main": "main.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
@@ -116,7 +113,8 @@
       "path": "^0.12.7",
       "photon": "git+https://github.com/connors/photon.git",
       "twemoji": "^1.4.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,6 @@
   },
   "filename": "angelborroy-ks___mdslide.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:43.674Z",
+  "lastFetchedAt": "2017-10-23T23:04:15.324Z",
   "packageLastFetchedAt": "2017-05-04T22:16:51.289Z"
 }

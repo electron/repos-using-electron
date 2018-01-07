@@ -5,7 +5,7 @@
   "owner": {
     "login": "fun-alex-alex2006hw",
     "id": 15843413,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15843413?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15843413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fun-alex-alex2006hw",
     "htmlUrl": "https://github.com/fun-alex-alex2006hw",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "fun-alex-alex2006hw",
     "id": 15843413,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15843413?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15843413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fun-alex-alex2006hw",
     "htmlUrl": "https://github.com/fun-alex-alex2006hw",
@@ -186,10 +186,7 @@
       "start": "electron main.js",
       "test": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pltarun/spark-file-transfer.git"
-    },
+    "repository": "https://github.com/pltarun/spark-file-transfer",
     "keywords": [
       "spark",
       "file",
@@ -202,13 +199,15 @@
     ],
     "author": "Tarun Pemmaraju",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pltarun/spark-file-transfer/issues"
-    },
     "homepage": "https://github.com/pltarun/spark-file-transfer#readme",
     "dependencies": {
       "copy-paste": "^1.1.3",
       "electron-prebuilt": "^0.31.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pltarun/spark-file-transfer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -257,6 +256,7 @@
   "filename": "fun-alex-alex2006hw___spark-file-transfer.json",
   "sourceRepo": "pltarun/spark-file-transfer",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:11.293Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:13.202Z"
+  "lastFetchedAt": "2017-10-24T00:09:44.943Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:13.202Z",
+  "archived": false
 }

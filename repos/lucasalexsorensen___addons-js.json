@@ -5,7 +5,7 @@
   "owner": {
     "login": "lucasalexsorensen",
     "id": 3528296,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3528296?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3528296?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lucasalexsorensen",
     "htmlUrl": "https://github.com/lucasalexsorensen",
@@ -95,19 +95,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lucasalexsorensen/addons.js.git"
-    },
+    "repository": "https://github.com/lucasalexsorensen/addons.js",
     "author": {
       "name": "Lucas A. Sorensen",
       "email": "lucas.alex.sorensen@gmail.com",
       "url": "https://github.com/lucasalexsorensen"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lucasalexsorensen/addons-js/issues"
-    },
     "homepage": "https://github.com/lucasalexsorensen/addons-js#readme",
     "devDependencies": {
       "asar": "^0.11.0",
@@ -183,6 +177,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lucasalexsorensen/addons-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -210,6 +209,7 @@
   },
   "filename": "lucasalexsorensen___addons-js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:23:09.767Z",
-  "packageLastFetchedAt": "2017-05-05T17:48:27.022Z"
+  "lastFetchedAt": "2017-10-23T22:06:01.123Z",
+  "packageLastFetchedAt": "2017-05-05T17:48:27.022Z",
+  "archived": false
 }

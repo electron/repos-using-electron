@@ -5,7 +5,7 @@
   "owner": {
     "login": "mathieumg",
     "id": 1624812,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1624812?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1624812?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mathieumg",
     "htmlUrl": "https://github.com/mathieumg",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "plaidchat",
       "id": 12647569,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12647569?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12647569?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/plaidchat",
       "htmlUrl": "https://github.com/plaidchat",
@@ -85,7 +85,7 @@
     "downloadsUrl": "https://api.github.com/repos/plaidchat/plaidchat/downloads",
     "deploymentsUrl": "https://api.github.com/repos/plaidchat/plaidchat/deployments",
     "createdAt": "2014-12-15T16:37:37.000Z",
-    "updatedAt": "2017-05-02T18:46:48.000Z",
+    "updatedAt": "2017-10-17T06:26:25.000Z",
     "pushedAt": "2016-11-27T21:54:33.000Z",
     "gitUrl": "git://github.com/plaidchat/plaidchat.git",
     "sshUrl": "git@github.com:plaidchat/plaidchat.git",
@@ -93,19 +93,20 @@
     "svnUrl": "https://github.com/plaidchat/plaidchat",
     "homepage": "",
     "size": 74349,
-    "stargazersCount": 518,
-    "watchersCount": 518,
+    "stargazersCount": 513,
+    "watchersCount": 513,
     "language": null,
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 38,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 518,
+    "watchers": 513,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "plaidchat",
       "id": 12647569,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/12647569?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/12647569?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/plaidchat",
       "htmlUrl": "https://github.com/plaidchat",
@@ -145,7 +146,7 @@
     "downloadsUrl": "https://api.github.com/repos/plaidchat/plaidchat/downloads",
     "deploymentsUrl": "https://api.github.com/repos/plaidchat/plaidchat/deployments",
     "createdAt": "2014-12-15T16:37:37.000Z",
-    "updatedAt": "2017-05-02T18:46:48.000Z",
+    "updatedAt": "2017-10-17T06:26:25.000Z",
     "pushedAt": "2016-11-27T21:54:33.000Z",
     "gitUrl": "git://github.com/plaidchat/plaidchat.git",
     "sshUrl": "git@github.com:plaidchat/plaidchat.git",
@@ -153,22 +154,23 @@
     "svnUrl": "https://github.com/plaidchat/plaidchat",
     "homepage": "",
     "size": 74349,
-    "stargazersCount": 518,
-    "watchersCount": 518,
+    "stargazersCount": 513,
+    "watchersCount": 513,
     "language": null,
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 38,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 518,
+    "watchers": 513,
     "defaultBranch": "master"
   },
-  "networkCount": 38,
+  "networkCount": 36,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,16 +183,12 @@
       "node-webkit"
     ],
     "homepage": "https://github.com/plaidchat/plaidchat",
-    "bugs": "https://github.com/plaidchat/plaidchat/issues",
     "author": {
       "name": "Will Laurance",
       "email": "",
       "url": "https://github.com/wlaurance"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/plaidchat/plaidchat"
-    },
+    "repository": "https://github.com/plaidchat/plaidchat",
     "main": "app/views/index.html",
     "dependencies": {
       "browserify": "^10.2.4",
@@ -251,7 +249,10 @@
     "webkit": {
       "plugin": true
     },
-    "chromium-args": "--child-clean-exit"
+    "chromium-args": "--child-clean-exit",
+    "other": {
+      "bugs": "https://github.com/plaidchat/plaidchat/issues"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mathieumg/plaidchat",
@@ -299,6 +300,7 @@
   "sourceRepo": "plaidchat/plaidchat",
   "filename": "mathieumg___plaidchat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:37.470Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:34.892Z"
+  "lastFetchedAt": "2017-10-23T23:45:51.030Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:34.892Z",
+  "archived": false
 }

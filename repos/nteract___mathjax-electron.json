@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -20,12 +20,12 @@
   "description": ":symbols::electron: A trimmed down version of the MathJax library for use with electron and modern browsers",
   "fork": false,
   "createdAt": "2016-04-11T19:31:35.000Z",
-  "updatedAt": "2017-04-06T17:01:48.000Z",
-  "pushedAt": "2017-04-24T18:10:44.000Z",
+  "updatedAt": "2017-08-14T21:04:12.000Z",
+  "pushedAt": "2017-08-09T19:52:09.000Z",
   "homepage": "http://nteract.io/mathjax-electron",
   "size": 4392,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 15,
+  "watchersCount": 15,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 4,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 11,
+  "watchers": 15,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -74,10 +74,7 @@
       "build:docs": "jsdoc -R README.md -d docs index.js",
       "test": "electron-mocha --renderer test/load.test.js && electron-mocha --renderer test/load-and-typeset.test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/nteract/mathjax-electron.git"
-    },
+    "repository": "https://github.com/nteract/mathjax-electron",
     "keywords": [
       "mathjax",
       "math",
@@ -89,13 +86,15 @@
     ],
     "author": "Lukas Geiger",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nteract/mathjax-electron/issues"
-    },
     "devDependencies": {
       "electron": "^1.6.2",
       "electron-mocha": "^3.0.4",
       "jsdoc": "^3.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nteract/mathjax-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   "svnUrl": "https://github.com/nteract/mathjax-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:59:39.067Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:49.684Z"
+  "lastFetchedAt": "2017-10-24T00:14:34.221Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:49.684Z",
+  "archived": false
 }

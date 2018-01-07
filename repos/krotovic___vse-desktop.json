@@ -44,17 +44,14 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "karbonit",
     "description": "Desktop app for everything that student from University of economics in Prague needs.",
     "version": "0.0.1",
     "main": "main.js",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/krotovic/karbonit"
-    },
+    "repository": "https://github.com/krotovic/karbonit",
     "scripts": {
       "start": "electron .",
       "postinstall": "typings install",
@@ -93,7 +90,8 @@
       "typescript": "^1.8.10",
       "typings": "^0.8.1",
       "webpack": "^1.13.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -140,6 +138,6 @@
   "svnUrl": "https://github.com/krotovic/karbonit",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:07:44.278Z",
+  "lastFetchedAt": "2017-10-23T23:05:49.833Z",
   "packageLastFetchedAt": "2017-05-05T14:57:43.410Z"
 }

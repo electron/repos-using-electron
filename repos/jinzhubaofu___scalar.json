@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "scalar",
     "version": "1.0.0",
@@ -75,18 +75,12 @@
       "start": "ENV=dev electron .",
       "server": "babel-node server.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jinzhubaofu/scalar.git"
-    },
+    "repository": "https://github.com/jinzhubaofu/scalar",
     "keywords": [
       "calendar"
     ],
     "author": "leonlu@outlook.com",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jinzhubaofu/scalar/issues"
-    },
     "homepage": "https://github.com/jinzhubaofu/scalar#readme",
     "dependencies": {
       "moment": "^2.13.0",
@@ -111,6 +105,11 @@
         "stage-0",
         "react"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jinzhubaofu/scalar/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   },
   "filename": "jinzhubaofu___scalar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:02.117Z",
+  "lastFetchedAt": "2017-10-23T23:07:41.345Z",
   "packageLastFetchedAt": "2017-05-05T17:16:14.398Z"
 }

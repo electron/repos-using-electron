@@ -5,7 +5,7 @@
   "owner": {
     "login": "elkuku",
     "id": 33978,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/33978?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/33978?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/elkuku",
     "htmlUrl": "https://github.com/elkuku",
@@ -64,10 +64,7 @@
       "start": "./node_modules/.bin/electron .",
       "build": "electron-packager . $npm_package_productName --platform=linux --arch=x64 --version=$npm_package_electronVersion --out=build --overwrite && cd build/$npm_package_productName-linux-x64/ && zip -ryq9 ../$npm_package_productName-linux-\"$npm_package_version\".zip *"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/elkuku/gitxplorer.git"
-    },
+    "repository": "https://github.com/elkuku/gitxplorer",
     "devDependencies": {
       "electron-prebuilt": "^1.3.2"
     },
@@ -75,7 +72,8 @@
       "ejs": "^2.5.1",
       "electron-config": "^0.2.1",
       "simple-git": "^1.45.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +120,7 @@
   "svnUrl": "https://github.com/elkuku/gitxplorer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:06:48.722Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:38.601Z"
+  "lastFetchedAt": "2017-10-23T22:24:45.233Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:38.601Z",
+  "archived": false
 }

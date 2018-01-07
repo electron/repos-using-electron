@@ -5,7 +5,7 @@
   "owner": {
     "login": "VitorHP",
     "id": 875763,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/875763?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/875763?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/VitorHP",
     "htmlUrl": "https://github.com/VitorHP",
@@ -80,10 +80,7 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "Sambarilov",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
@@ -117,6 +111,11 @@
       "react-loading": "0.0.9",
       "react-soundplayer": "^0.3.6",
       "tether": "^1.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +144,7 @@
   "filename": "VitorHP___electron-react-template.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:35:20.910Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:48.805Z"
+  "lastFetchedAt": "2017-10-23T21:50:17.134Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:48.805Z",
+  "archived": false
 }

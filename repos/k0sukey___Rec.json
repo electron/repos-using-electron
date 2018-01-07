@@ -50,7 +50,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Rec",
     "version": "1.0.0",
@@ -87,7 +87,8 @@
       "photon": "git+https://github.com/connors/photon.git",
       "react": "^15.4.1",
       "react-dom": "^15.4.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +135,6 @@
   "svnUrl": "https://github.com/k0sukey/Rec",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:19:09.857Z",
+  "lastFetchedAt": "2017-10-23T22:57:54.362Z",
   "packageLastFetchedAt": "2017-05-04T23:04:18.030Z"
 }

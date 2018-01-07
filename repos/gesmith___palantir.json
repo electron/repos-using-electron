@@ -5,7 +5,7 @@
   "owner": {
     "login": "gesmith",
     "id": 2042451,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2042451?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2042451?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gesmith",
     "htmlUrl": "https://github.com/gesmith",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for palantir goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -126,6 +122,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -173,6 +175,7 @@
   "svnUrl": "https://github.com/gesmith/palantir",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:25:34.113Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:11.980Z"
+  "lastFetchedAt": "2017-10-23T22:12:24.529Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:11.980Z",
+  "archived": false
 }

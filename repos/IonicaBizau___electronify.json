@@ -5,7 +5,7 @@
   "owner": {
     "login": "IonicaBizau",
     "id": 2864371,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2864371?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2864371?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IonicaBizau",
     "htmlUrl": "https://github.com/IonicaBizau",
@@ -20,12 +20,12 @@
   "description": ":construction_worker: The simplest way to build Electron apps.",
   "fork": false,
   "createdAt": "2015-10-16T13:39:59.000Z",
-  "updatedAt": "2017-04-01T21:08:53.000Z",
-  "pushedAt": "2017-03-23T14:28:24.000Z",
+  "updatedAt": "2017-10-11T10:10:26.000Z",
+  "pushedAt": "2017-09-08T10:10:19.000Z",
   "homepage": null,
-  "size": 20,
-  "stargazersCount": 107,
-  "watchersCount": 107,
+  "size": 21,
+  "stargazersCount": 109,
+  "watchersCount": 109,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 6,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 107,
+  "watchers": 109,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,23 +49,17 @@
     "featured": true
   },
   "networkCount": 6,
-  "subscribersCount": 7,
+  "subscribersCount": 6,
   "status": 200,
   "packageJSON": {
     "name": "electronify",
     "version": "2.0.4",
     "description": "The simplest way to build Electron apps.",
     "main": "lib/index.js",
-    "directories": {
-      "example": "example"
-    },
     "scripts": {
       "test": "electron example"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/IonicaBizau/electronify.git"
-    },
+    "repository": "https://github.com/IonicaBizau/electronify",
     "keywords": [
       "electron",
       "applications",
@@ -73,9 +67,6 @@
     ],
     "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/IonicaBizau/electronify/issues"
-    },
     "homepage": "https://github.com/IonicaBizau/electronify#readme",
     "blah": {
       "ex_img": "http://i.imgur.com/o5sBv1w.png",
@@ -100,7 +91,15 @@
       "menu/",
       "cli.js",
       "index.js"
-    ]
+    ],
+    "other": {
+      "directories": {
+        "example": "example"
+      },
+      "bugs": {
+        "url": "https://github.com/IonicaBizau/electronify/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/IonicaBizau/electronify",
@@ -147,6 +146,7 @@
   },
   "filename": "IonicaBizau___electronify.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:58:29.998Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:34.557Z"
+  "lastFetchedAt": "2017-10-23T22:06:54.890Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:34.557Z",
+  "archived": false
 }

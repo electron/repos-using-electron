@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "playground",
     "version": "1.0.0",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "author": "Collin",
     "license": "ISC",
     "dependencies": {
@@ -79,7 +76,8 @@
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1",
       "electron-prebuilt": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,6 @@
   "svnUrl": "https://github.com/alecstewart/Harambe",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:10:09.151Z",
+  "lastFetchedAt": "2017-10-23T22:58:09.330Z",
   "packageLastFetchedAt": "2017-05-04T22:15:29.050Z"
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "smart-mirror",
     "version": "0.0.1",
@@ -55,10 +55,7 @@
       "start": "electron main.js ",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
@@ -67,14 +64,16 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "bower": "^1.7.7",
       "electron-prebuilt": "^0.36.5",
       "wiredep": "^3.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,6 @@
   "svnUrl": "https://github.com/mkerfoot/icysnow",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:51:20.699Z",
+  "lastFetchedAt": "2017-10-23T23:05:14.828Z",
   "packageLastFetchedAt": "2017-05-05T17:16:47.385Z"
 }

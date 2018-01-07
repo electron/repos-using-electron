@@ -6,7 +6,7 @@
   "owner": {
     "login": "aredfox",
     "id": 1333704,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1333704?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1333704?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aredfox",
     "htmlUrl": "https://github.com/aredfox",
@@ -67,19 +67,13 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:42:30.275Z",
+  "lastFetchedAt": "2017-10-23T21:50:38.695Z",
   "packageJSON": {
     "name": "electron-angular-starter",
     "version": "0.0.1",
     "description": "Electron + Angular 2 + + Webpack 2 + TypeScript",
     "author": "aredfox <yves.schelpe@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/aredfox/electron-angular-starter"
-    },
-    "bugs": {
-      "url": "https://github.com/aredfox/electron-angular-starter/issues"
-    },
+    "repository": "https://github.com/aredfox/electron-angular-starter",
     "scripts": {
       "electron": "electron src/index.html"
     },
@@ -90,8 +84,14 @@
       "@types/electron": "^1.4.34",
       "electron-packager": "^8.6.0",
       "typescript": "^2.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/aredfox/electron-angular-starter/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:22:29.977Z"
+  "packageLastFetchedAt": "2017-05-05T01:22:29.977Z",
+  "archived": false
 }

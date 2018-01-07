@@ -5,7 +5,7 @@
   "owner": {
     "login": "lloeki",
     "id": 75445,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lloeki",
     "htmlUrl": "https://github.com/lloeki",
@@ -20,7 +20,7 @@
   "description": "Mattermost frontend app for OS X, Windows and Linux",
   "fork": false,
   "createdAt": "2015-10-26T17:08:43.000Z",
-  "updatedAt": "2017-04-19T17:30:25.000Z",
+  "updatedAt": "2017-10-13T12:33:08.000Z",
   "pushedAt": "2016-03-17T09:10:14.000Z",
   "homepage": "",
   "size": 466,
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 37,
+  "forksCount": 36,
   "openIssuesCount": 17,
   "openIssues": 17,
   "watchers": 161,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 37,
-  "subscribersCount": 12,
+  "networkCount": 36,
+  "subscribersCount": 11,
   "status": 200,
   "packageJSON": {
     "name": "matterfront",
@@ -74,18 +74,12 @@
       "test-watch": "mocha watch"
     },
     "electronVersion": "0.36.2",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lloeki/matterfront"
-    },
+    "repository": "https://github.com/lloeki/matterfront",
     "keywords": [
       "Mattermost",
       "electron"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lloeki/matterfront/issues"
-    },
     "devDependencies": {
       "babel-core": "~6.3.13",
       "babel-loader": "~6.2.0",
@@ -126,6 +120,11 @@
     "config": {
       "ghooks": {
         "pre-commit": "npm run lint && npm run test"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lloeki/matterfront/issues"
       }
     }
   },
@@ -174,6 +173,7 @@
   },
   "filename": "lloeki___matterfront.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:32:47.995Z",
-  "packageLastFetchedAt": "2017-05-05T15:03:27.322Z"
+  "lastFetchedAt": "2017-10-23T22:10:22.773Z",
+  "packageLastFetchedAt": "2017-05-05T15:03:27.322Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "redmineDesktop",
     "version": "0.1.0",
@@ -84,13 +84,7 @@
     },
     "license": "MIT",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ocReaper/redmine-desktop"
-    },
-    "bugs": {
-      "url": "https://github.com/ocReaper/redmine-desktop/issues"
-    },
+    "repository": "https://github.com/ocReaper/redmine-desktop",
     "scripts": {
       "test": "gulp test",
       "changelog": "conventional-changelog -p angular -i CHANGELOG.md -w"
@@ -177,6 +171,11 @@
         "path": "./node_modules/cz-conventional-changelog"
       },
       "target": "development"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ocReaper/redmine-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -204,6 +203,6 @@
   },
   "filename": "ocReaper___redmine-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:47.353Z",
+  "lastFetchedAt": "2017-10-23T22:56:22.833Z",
   "packageLastFetchedAt": "2017-05-05T14:25:10.513Z"
 }

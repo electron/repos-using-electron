@@ -5,7 +5,7 @@
   "owner": {
     "login": "StateFarmIns",
     "id": 14837828,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14837828?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14837828?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/StateFarmIns",
     "htmlUrl": "https://github.com/StateFarmIns",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "StateFarmIns",
     "id": 14837828,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14837828?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14837828?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/StateFarmIns",
     "htmlUrl": "https://github.com/StateFarmIns",
@@ -69,7 +69,7 @@
     "owner": {
       "login": "lloeki",
       "id": 75445,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lloeki",
       "htmlUrl": "https://github.com/lloeki",
@@ -99,7 +99,7 @@
     "downloadsUrl": "https://api.github.com/repos/lloeki/matterfront/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lloeki/matterfront/deployments",
     "createdAt": "2015-10-26T17:08:43.000Z",
-    "updatedAt": "2017-04-19T17:30:25.000Z",
+    "updatedAt": "2017-10-13T12:33:08.000Z",
     "pushedAt": "2016-03-17T09:10:14.000Z",
     "gitUrl": "git://github.com/lloeki/matterfront.git",
     "sshUrl": "git@github.com:lloeki/matterfront.git",
@@ -115,8 +115,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 17,
     "openIssues": 17,
     "watchers": 161,
@@ -129,7 +130,7 @@
     "owner": {
       "login": "lloeki",
       "id": 75445,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lloeki",
       "htmlUrl": "https://github.com/lloeki",
@@ -159,7 +160,7 @@
     "downloadsUrl": "https://api.github.com/repos/lloeki/matterfront/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lloeki/matterfront/deployments",
     "createdAt": "2015-10-26T17:08:43.000Z",
-    "updatedAt": "2017-04-19T17:30:25.000Z",
+    "updatedAt": "2017-10-13T12:33:08.000Z",
     "pushedAt": "2016-03-17T09:10:14.000Z",
     "gitUrl": "git://github.com/lloeki/matterfront.git",
     "sshUrl": "git@github.com:lloeki/matterfront.git",
@@ -175,14 +176,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 17,
     "openIssues": 17,
     "watchers": 161,
     "defaultBranch": "master"
   },
-  "networkCount": 37,
+  "networkCount": 36,
   "subscribersCount": 13,
   "status": 200,
   "packageJSON": {
@@ -208,18 +210,12 @@
       "test-watch": "mocha watch"
     },
     "electronVersion": "0.36.2",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lloeki/matterfront"
-    },
+    "repository": "https://github.com/lloeki/matterfront",
     "keywords": [
       "Mattermost",
       "electron"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lloeki/matterfront/issues"
-    },
     "devDependencies": {
       "babel-core": "~6.3.13",
       "babel-loader": "~6.2.0",
@@ -257,6 +253,11 @@
     "config": {
       "ghooks": {
         "pre-commit": "npm run lint && npm run test"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lloeki/matterfront/issues"
       }
     }
   },
@@ -306,6 +307,7 @@
   "svnUrl": "https://github.com/StateFarmIns/matterfront",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:50:57.328Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:45.849Z"
+  "lastFetchedAt": "2017-10-23T23:40:56.277Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:45.849Z",
+  "archived": false
 }

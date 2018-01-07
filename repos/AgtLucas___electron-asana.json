@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "blackbriar",
     "productName": "Blackbriar",
@@ -94,15 +94,9 @@
       "media/icon.png",
       "media/Icon.icns"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AgtLucas/asana-app.git"
-    },
+    "repository": "https://github.com/AgtLucas/asana-app",
     "author": "Lucas",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/AgtLucas/asana-app/issues"
-    },
     "homepage": "https://github.com/AgtLucas/asana-app#readme",
     "dependencies": {
       "electron-debug": "^0.2.1"
@@ -110,6 +104,11 @@
     "devDependencies": {
       "electron-packager": "^5.1.0",
       "electron-prebuilt": "^0.33.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AgtLucas/asana-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,6 @@
   },
   "filename": "AgtLucas___electron-asana.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:41:25.859Z",
+  "lastFetchedAt": "2017-10-23T23:07:40.736Z",
   "packageLastFetchedAt": "2017-05-05T17:45:41.586Z"
 }

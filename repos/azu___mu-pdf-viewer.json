@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -73,17 +73,11 @@
   "status": 200,
   "packageJSON": {
     "name": "mu-pdf-viewer",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/azu/mu-pdf-viewer.git"
-    },
+    "repository": "https://github.com/azu/mu-pdf-viewer",
     "author": "azu",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/mu-pdf-viewer",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/mu-pdf-viewer/issues"
-    },
     "files": [
       "src/",
       "lib/",
@@ -99,9 +93,6 @@
     "build": {
       "appId": "info.efcl.pdf-viewer",
       "category": "util"
-    },
-    "directories": {
-      "test": "test"
     },
     "scripts": {
       "electron:build:osx": "npm run build && electron-zip-packager . --platform=darwin --arch=x64 --prune --out=dist",
@@ -165,6 +156,14 @@
       "pdfjs-dist": "^1.5.376",
       "react": "^15.3.0",
       "react-dom": "^15.3.0"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/azu/mu-pdf-viewer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -192,6 +191,7 @@
   },
   "filename": "azu___mu-pdf-viewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:31:57.272Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:04.173Z"
+  "lastFetchedAt": "2017-10-23T22:33:26.009Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:04.173Z",
+  "archived": false
 }

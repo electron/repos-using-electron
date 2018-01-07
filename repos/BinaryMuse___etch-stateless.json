@@ -5,7 +5,7 @@
   "owner": {
     "login": "BinaryMuse",
     "id": 189606,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/189606?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/189606?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BinaryMuse",
     "htmlUrl": "https://github.com/BinaryMuse",
@@ -21,7 +21,7 @@
   "fork": false,
   "createdAt": "2016-04-25T18:44:48.000Z",
   "updatedAt": "2016-04-25T18:50:30.000Z",
-  "pushedAt": "2016-04-25T18:53:08.000Z",
+  "pushedAt": "2017-05-16T13:49:30.000Z",
   "homepage": null,
   "size": 3,
   "stargazersCount": 0,
@@ -31,9 +31,9 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "forksCount": 2,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -64,18 +64,12 @@
       "build": "node_modules/.bin/babel src --out-dir dist",
       "clean": "rm -rf dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/BinaryMuse/etch-stateless.git"
-    },
+    "repository": "https://github.com/BinaryMuse/etch-stateless",
     "keywords": [
       "virtual-dom dom view element custom-elements dom-diff atom electron stateless etch"
     ],
     "author": "Michelle Tilley <michelle@michelletilley.net>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/BinaryMuse/etch-stateless/issues"
-    },
     "homepage": "https://github.com/BinaryMuse/etch-stateless",
     "devDependencies": {
       "babel": "^5.0.0",
@@ -94,6 +88,11 @@
         "it",
         "expect"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/BinaryMuse/etch-stateless/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   },
   "filename": "BinaryMuse___etch-stateless.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:04:10.696Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:55.047Z"
+  "lastFetchedAt": "2017-10-23T22:26:33.750Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:55.047Z",
+  "archived": false
 }

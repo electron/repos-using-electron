@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "shakeitoff",
     "version": "1.0.0-alpha",
@@ -59,13 +59,7 @@
       "start": "electron index.js",
       "distribute": "electron-packager ./ shakeitoff --platform=darwin,linux --arch=x64 --version=0.31.2 --ignore='(node_modules/(electron-(packager|prebuilt)|gulp|gulp-less)|src/)'"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ghostbar/shakeitoff.git"
-    },
-    "bugs": {
-      "url": "https://github.com/ghostbar/shakeitoff/issues"
-    },
+    "repository": "https://github.com/ghostbar/shakeitoff",
     "homepage": "https://github.com/ghostbar/shakeitoff",
     "author": "Jose-Luis Rivas <me@ghostbar.co>",
     "main": "index.js",
@@ -83,6 +77,11 @@
       "gulp": "^3.9.0",
       "gulp-less": "^3.0.3",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ghostbar/shakeitoff/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,6 @@
   },
   "filename": "ghostbar___shakeitoff.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:55.700Z",
+  "lastFetchedAt": "2017-10-23T23:07:21.081Z",
   "packageLastFetchedAt": "2017-05-05T14:49:50.266Z"
 }

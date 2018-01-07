@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "servicenowhelper",
     "version": "1.0.0",
@@ -74,7 +74,8 @@
     "dependencies": {
       "electron-connect": "^0.3.7",
       "yargs": "^3.32.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/OlivierBoucher/ServiceNowHelper",
@@ -121,6 +122,6 @@
   },
   "filename": "OlivierBoucher___ServiceNowHelper.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:34.301Z",
+  "lastFetchedAt": "2017-10-23T23:02:47.331Z",
   "packageLastFetchedAt": "2017-05-05T17:20:34.956Z"
 }

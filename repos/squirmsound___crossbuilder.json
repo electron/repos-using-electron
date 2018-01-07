@@ -164,7 +164,7 @@
   },
   "networkCount": 36,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "crossbuilder",
     "version": "0.8.0",
@@ -191,10 +191,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zalmoxisus/browser-extension-boilerplate"
-    },
+    "repository": "https://github.com/zalmoxisus/browser-extension-boilerplate",
     "homepage": "https://github.com/zalmoxisus/browser-extension-boilerplate",
     "keywords": [
       "react",
@@ -274,7 +271,8 @@
       "redux-notify": "^0.1.1",
       "redux-persist": "^3.1.1",
       "redux-thunk": "^2.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/squirmsound/crossbuilder",
@@ -322,6 +320,6 @@
   "filename": "squirmsound___crossbuilder.json",
   "sourceRepo": "zalmoxisus/crossbuilder",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:35.185Z",
+  "lastFetchedAt": "2017-10-23T23:06:47.341Z",
   "packageLastFetchedAt": "2017-05-04T22:42:34.331Z"
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-weather-app",
     "version": "1.0.0",
@@ -93,10 +93,7 @@
         ]
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/catalinmiron/electron-react-weather-app"
-    },
+    "repository": "https://github.com/catalinmiron/electron-react-weather-app",
     "author": "Catalin Miron",
     "license": "MIT",
     "devDependencies": {
@@ -148,7 +145,8 @@
       "webpack-target-electron-renderer": "^0.1.1",
       "whatwg-fetch": "^0.9.0",
       "yeticss": "^6.0.7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/catalinmiron/electron-react-weather-app",
@@ -195,6 +193,6 @@
   },
   "filename": "catalinmiron___electron-react-weather-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:23.765Z",
+  "lastFetchedAt": "2017-10-23T23:08:53.097Z",
   "packageLastFetchedAt": "2017-05-04T22:07:29.896Z"
 }

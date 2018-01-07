@@ -185,7 +185,7 @@
   },
   "networkCount": 32,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "oni-vim",
     "version": "0.1.3",
@@ -220,10 +220,7 @@
       "watch:plugin_api": "cd plugin_api && tsc --watch",
       "watch:plugins": "cd vim/core/oni-plugin-typescript && tsc --watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/extr0py/oni"
-    },
+    "repository": "https://github.com/extr0py/oni",
     "author": "",
     "license": "MIT",
     "dependencies": {
@@ -273,7 +270,8 @@
       "typescript": "^2.1.4",
       "webpack": "^1.13.2",
       "webpack-dev-server": "^1.16.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -300,6 +298,6 @@
   },
   "sourceRepo": "extr0py/oni",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:48.603Z",
+  "lastFetchedAt": "2017-10-24T00:10:09.660Z",
   "packageLastFetchedAt": "2017-05-05T15:27:38.007Z"
 }

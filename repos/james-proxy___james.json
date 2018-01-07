@@ -5,7 +5,7 @@
   "owner": {
     "login": "james-proxy",
     "id": 16920662,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16920662?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16920662?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/james-proxy",
     "htmlUrl": "https://github.com/james-proxy",
@@ -20,21 +20,21 @@
   "description": "Web Debugging Proxy Application",
   "fork": false,
   "createdAt": "2015-06-25T07:20:34.000Z",
-  "updatedAt": "2017-05-03T16:42:30.000Z",
-  "pushedAt": "2016-11-12T23:16:32.000Z",
+  "updatedAt": "2017-10-20T17:52:00.000Z",
+  "pushedAt": "2017-09-07T07:08:35.000Z",
   "homepage": "",
-  "size": 3285,
-  "stargazersCount": 398,
-  "watchersCount": 398,
+  "size": 3175,
+  "stargazersCount": 491,
+  "watchersCount": 491,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 27,
-  "openIssuesCount": 18,
-  "openIssues": 18,
-  "watchers": 398,
+  "forksCount": 34,
+  "openIssuesCount": 19,
+  "openIssues": 19,
+  "watchers": 491,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "james-proxy",
     "id": 16920662,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16920662?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16920662?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/james-proxy",
     "htmlUrl": "https://github.com/james-proxy",
@@ -56,8 +56,8 @@
     "receivedEventsUrl": "https://api.github.com/users/james-proxy/received_events",
     "type": "Organization"
   },
-  "networkCount": 27,
-  "subscribersCount": 25,
+  "networkCount": 34,
+  "subscribersCount": 29,
   "status": 200,
   "packageJSON": {
     "name": "james",
@@ -65,10 +65,7 @@
     "description": "HTTP/HTTPS proxy built in Electron and React",
     "author": "Julian Hollmann <hollmann@uxebu.com>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/james-proxy/james.git"
-    },
+    "repository": "https://github.com/james-proxy/james",
     "main": "main/index.js",
     "scripts": {
       "build": "gulp",
@@ -171,10 +168,12 @@
         "synopsis": "Web proxy"
       }
     },
-    "directories": {
-      "buildResources": "resource-compile",
-      "output": "binaries",
-      "app": "./package"
+    "other": {
+      "directories": {
+        "buildResources": "resource-compile",
+        "output": "binaries",
+        "app": "./package"
+      }
     }
   },
   "packageStatus": 200,
@@ -222,6 +221,7 @@
   "svnUrl": "https://github.com/james-proxy/james",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:14:50.658Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:07.529Z"
+  "lastFetchedAt": "2017-10-23T22:09:14.777Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:07.529Z",
+  "archived": false
 }

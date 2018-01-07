@@ -78,7 +78,7 @@
   },
   "networkCount": 28,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tinder-desktop",
     "version": "0.1.0",
@@ -87,10 +87,7 @@
     "scripts": {
       "postinstall": "cd desktop-app && npm install"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tinderjs/tinder-desktop.git"
-    },
+    "repository": "https://github.com/tinderjs/tinder-desktop",
     "author": "tinderjs",
     "contributors": [
       {
@@ -107,9 +104,6 @@
       }
     ],
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/tinderjs/tinder-desktop/issues"
-    },
     "homepage": "https://github.com/tinderjs/tinder-desktop",
     "devDependencies": {
       "electron-packager": "~7.0.0",
@@ -125,6 +119,11 @@
     },
     "optionalDependencies": {
       "gulp-appdmg": "^1.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tinderjs/tinder-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,6 @@
   },
   "filename": "tinderjs___tinder-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:31.047Z",
+  "lastFetchedAt": "2017-10-23T23:05:34.071Z",
   "packageLastFetchedAt": "2017-05-05T14:47:43.771Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "limweb",
     "id": 602579,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/602579?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/602579?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/limweb",
     "htmlUrl": "https://github.com/limweb",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/limweb/adminletreactapp/downloads",
   "deploymentsUrl": "https://api.github.com/repos/limweb/adminletreactapp/deployments",
   "createdAt": "2016-05-09T05:35:07.000Z",
-  "updatedAt": "2017-01-02T16:24:32.000Z",
+  "updatedAt": "2017-08-08T10:00:44.000Z",
   "pushedAt": "2016-05-09T09:59:07.000Z",
   "gitUrl": "git://github.com/limweb/adminletreactapp.git",
   "sshUrl": "git@github.com:limweb/adminletreactapp.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/limweb/adminletreactapp",
   "homepage": null,
   "size": 59768,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -101,19 +101,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -899,6 +893,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -926,6 +925,7 @@
   },
   "filename": "limweb___adminletreactapp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:55.439Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:08.236Z"
+  "lastFetchedAt": "2017-10-23T22:24:25.752Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:08.236Z",
+  "archived": false
 }

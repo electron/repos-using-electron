@@ -84,19 +84,13 @@
   },
   "networkCount": 14,
   "subscribersCount": 19,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "vtk.js",
     "version": "0.0.0-semantically-release",
     "description": "Visualization Toolkit for the Web",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kitware/vtk-js.git"
-    },
+    "repository": "https://github.com/kitware/vtk-js",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/kitware/vtk-js/issues"
-    },
     "homepage": "https://github.com/kitware/vtk-js#readme",
     "main": "./dist/vtk.js",
     "dependencies": {
@@ -162,6 +156,11 @@
       "exclude": [
         "Sources/**/test/*.js"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kitware/vtk-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,6 @@
   },
   "filename": "Kitware___vtk-js.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:22.602Z",
+  "lastFetchedAt": "2017-10-23T23:08:17.577Z",
   "packageLastFetchedAt": "2017-05-05T14:54:57.927Z"
 }

@@ -178,7 +178,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Pencilbox",
     "version": "1.0.0",
@@ -195,17 +195,15 @@
         ]
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/balaswecha/pencilbox-2.git"
-    },
+    "repository": "https://github.com/balaswecha/pencilbox-2",
     "keywords": [
       "balaswecha",
       "pencilbox"
     ],
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -253,6 +251,6 @@
   "svnUrl": "https://github.com/balaswecha/pencilbox-2",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:05:28.296Z",
+  "lastFetchedAt": "2017-10-23T23:09:15.346Z",
   "packageLastFetchedAt": "2017-05-04T22:19:25.870Z"
 }

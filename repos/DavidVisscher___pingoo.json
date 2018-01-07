@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Pingu",
     "version": "0.0.1",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DavidVisscher/pingoo.git"
-    },
+    "repository": "https://github.com/DavidVisscher/pingoo",
     "keywords": [
       "Pingoo",
       "network",
@@ -90,9 +87,6 @@
     ],
     "author": "David Visscher",
     "license": "GPL-3.0+",
-    "bugs": {
-      "url": "https://github.com/DavidVisscher/pingoo/issues"
-    },
     "homepage": "https://github.com/DavidVisscher/pingoo",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -105,6 +99,11 @@
       "jquery": "^3.0.0",
       "libnmap": "^0.2.32",
       "semantic-ui": "^2.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/DavidVisscher/pingoo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,6 @@
   },
   "filename": "DavidVisscher___pingoo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:11.222Z",
+  "lastFetchedAt": "2017-10-23T23:06:09.069Z",
   "packageLastFetchedAt": "2017-05-05T14:45:25.634Z"
 }

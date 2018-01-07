@@ -5,7 +5,7 @@
   "owner": {
     "login": "shama",
     "id": 99604,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/99604?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/99604?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shama",
     "htmlUrl": "https://github.com/shama",
@@ -20,12 +20,12 @@
   "description": "Detect resize on an element without polling or iframes",
   "fork": false,
   "createdAt": "2015-07-23T01:04:54.000Z",
-  "updatedAt": "2017-04-24T15:49:33.000Z",
+  "updatedAt": "2017-08-24T12:31:12.000Z",
   "pushedAt": "2015-07-23T22:57:57.000Z",
   "homepage": null,
   "size": 120,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 9,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -54,10 +54,7 @@
       "start": "budo example.js",
       "test": "browserify test.js -o bundle.js && testron bundle.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/shama/resize-event.git"
-    },
+    "repository": "https://github.com/shama/resize-event",
     "keywords": [
       "resize",
       "event",
@@ -65,9 +62,6 @@
     ],
     "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shama/resize-event/issues"
-    },
     "homepage": "https://github.com/shama/resize-event#readme",
     "devDependencies": {
       "browserify": "^11.0.0",
@@ -79,6 +73,11 @@
     },
     "dependencies": {
       "mutationobserver-shim": "^0.3.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shama/resize-event/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "svnUrl": "https://github.com/shama/resize-event",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:03:55.040Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:44.008Z"
+  "lastFetchedAt": "2017-10-23T22:30:25.273Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:44.008Z",
+  "archived": false
 }

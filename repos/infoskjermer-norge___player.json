@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "infoskjermer-player",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
       "update-player-raw": "./update-script.sh",
       "config-set": "electron config-set.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/infoskjermer-norge/player.git"
-    },
+    "repository": "https://github.com/infoskjermer-norge/player",
     "keywords": [],
     "author": "Infoskjermer Norge AS",
     "homepage": "http://infoskjermer-norge.no",
@@ -95,7 +92,8 @@
       "is-online": "^5.1.1",
       "raven": "^0.11.0",
       "socket.io-client": "^1.4.6"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +120,6 @@
   },
   "filename": "infoskjermer-norge___player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:48.160Z",
+  "lastFetchedAt": "2017-10-24T00:10:18.169Z",
   "packageLastFetchedAt": "2017-05-05T01:29:19.280Z"
 }

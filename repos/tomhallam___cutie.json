@@ -5,7 +5,7 @@
   "owner": {
     "login": "tomhallam",
     "id": 202395,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/202395?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/202395?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomhallam",
     "htmlUrl": "https://github.com/tomhallam",
@@ -74,19 +74,13 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tomhallam/cutie.git"
-    },
+    "repository": "https://github.com/tomhallam/cutie",
     "keywords": [
       "mqtt",
       "client"
     ],
     "author": "Tom Hallam",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/tomhallam/cutie/issues"
-    },
     "homepage": "https://github.com/tomhallam/cutie#readme",
     "dependencies": {
       "angular": "^1.5.8",
@@ -108,6 +102,11 @@
       "gulp-sass": "^2.3.2",
       "gulp-uglify": "^2.0.0",
       "gulp-uglifycss": "^1.0.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tomhallam/cutie/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "tomhallam___cutie.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:55.463Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:40.703Z"
+  "lastFetchedAt": "2017-10-23T21:45:45.991Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:40.703Z",
+  "archived": false
 }

@@ -164,7 +164,7 @@
   },
   "networkCount": 73,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tofino",
     "version": "0.1.0",
@@ -230,7 +230,8 @@
     },
     "engines": {
       "node": ">=5.8.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -278,6 +279,6 @@
   "svnUrl": "https://github.com/campd/tofino",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:16:24.174Z",
+  "lastFetchedAt": "2017-10-24T00:10:07.912Z",
   "packageLastFetchedAt": "2017-05-05T14:38:32.581Z"
 }

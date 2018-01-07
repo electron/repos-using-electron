@@ -5,7 +5,7 @@
   "owner": {
     "login": "utgwkk",
     "id": 4530627,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4530627?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4530627?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/utgwkk",
     "htmlUrl": "https://github.com/utgwkk",
@@ -89,16 +89,15 @@
       "build": "electron-packager . electron-sugoiyatsu --platform=win32 --arch=all --version=0.33.0 --overwrite --out=build --asar",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/utgw/electron-sugoiyatsu.git"
-    },
+    "repository": "https://github.com/utgw/electron-sugoiyatsu",
     "author": "utgwkk",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/utgw/electron-sugoiyatsu/issues"
-    },
-    "homepage": "https://github.com/utgw/electron-sugoiyatsu#readme"
+    "homepage": "https://github.com/utgw/electron-sugoiyatsu#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/utgw/electron-sugoiyatsu/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +124,7 @@
   },
   "filename": "utgwkk___electron-ukagaka.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:46.366Z",
-  "packageLastFetchedAt": "2017-05-04T22:25:34.138Z"
+  "lastFetchedAt": "2017-10-24T00:12:15.211Z",
+  "packageLastFetchedAt": "2017-05-04T22:25:34.138Z",
+  "archived": false
 }

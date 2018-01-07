@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pasty",
     "version": "1.0.0",
@@ -73,14 +73,8 @@
     "scripts": {
       "start": "electron static/js/main.min.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/smeeckaert/pasty"
-    },
+    "repository": "https://github.com/smeeckaert/pasty",
     "author": "Martin Smeeckaert",
-    "bugs": {
-      "url": "https://github.com/smeeckaert/pasty/issues"
-    },
     "homepage": "https://github.com/smeeckaert/pasty#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0",
@@ -93,6 +87,11 @@
       "bower": "",
       "grunt-run": "",
       "assemble": ""
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/smeeckaert/pasty/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,6 @@
   },
   "filename": "smeeckaert___pasty.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:33:24.920Z",
+  "lastFetchedAt": "2017-10-23T23:01:51.093Z",
   "packageLastFetchedAt": "2017-05-05T15:20:48.085Z"
 }

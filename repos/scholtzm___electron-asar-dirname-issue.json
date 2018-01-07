@@ -6,7 +6,7 @@
   "owner": {
     "login": "scholtzm",
     "id": 2640934,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2640934?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2640934?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scholtzm",
     "htmlUrl": "https://github.com/scholtzm",
@@ -77,10 +77,7 @@
       "email": "michael.scholtz@outlook.com"
     },
     "license": "Public domain",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/scholtzm/electron-asar-dirname-issue.git"
-    },
+    "repository": "https://github.com/scholtzm/electron-asar-dirname-issue",
     "scripts": {
       "start": "electron ./out/app.asar",
       "pack": "rimraf ./out && asar pack . ./out/app.asar --unpack-dir 'unpacked'"
@@ -90,7 +87,8 @@
       "electron": "1.4.12",
       "rimraf": "^2.5.4"
     },
-    "private": true
+    "private": true,
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -116,6 +114,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:25:21.152Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:02.038Z"
+  "lastFetchedAt": "2017-10-23T22:30:00.010Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:02.038Z",
+  "archived": false
 }

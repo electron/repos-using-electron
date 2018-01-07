@@ -5,7 +5,7 @@
   "owner": {
     "login": "codyborn",
     "id": 11261382,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11261382?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11261382?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/codyborn",
     "htmlUrl": "https://github.com/codyborn",
@@ -90,10 +90,7 @@
       "build:win": "electron-builder \"dist/win/Notegami-win32-x64\" --platform=win --out=\"dist/win\" --config=builder.json",
       "dist": "build -w --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Notegami",
       "Note",
@@ -101,9 +98,6 @@
       "Quick"
     ],
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "dependencies": {
       "electron-squirrel-startup": "^1.0.0"
@@ -122,6 +116,11 @@
         "iconUrl": "http://notegami.com/Views/Images/fav_icon.ico",
         "loadingGif": "build/loading.gif",
         "authors": "Cody Born"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
       }
     }
   },
@@ -150,6 +149,7 @@
   },
   "filename": "codyborn___notegami_electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:44.367Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:34.801Z"
+  "lastFetchedAt": "2017-10-24T00:20:02.972Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:34.801Z",
+  "archived": false
 }

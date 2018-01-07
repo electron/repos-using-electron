@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "smart-mirror",
     "version": "1.0.0",
@@ -89,9 +89,6 @@
     ],
     "author": "Bastien",
     "license": "ISC",
-    "bugs": {
-      "url": "https://gitlab.com/2902079/SmartMirror/issues"
-    },
     "homepage": "https://gitlab.com/2902079/SmartMirror#README",
     "dependencies": {
       "feed-read": "0.0.1",
@@ -117,6 +114,11 @@
       "vue-style-loader": "^1.0.0",
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://gitlab.com/2902079/SmartMirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +146,6 @@
   },
   "filename": "5boro___SmartMirror.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:32.559Z",
+  "lastFetchedAt": "2017-10-23T22:56:22.588Z",
   "packageLastFetchedAt": "2017-05-05T14:42:39.176Z"
 }

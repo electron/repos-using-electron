@@ -5,7 +5,7 @@
   "owner": {
     "login": "hasit",
     "id": 1553055,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1553055?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1553055?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hasit",
     "htmlUrl": "https://github.com/hasit",
@@ -81,10 +81,7 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hasit/onair"
-    },
+    "repository": "https://github.com/hasit/onair",
     "keywords": [
       "livecoding.tv",
       "onair",
@@ -94,9 +91,6 @@
     ],
     "author": "Hasit Mistry",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hasit/onair/issues"
-    },
     "homepage": "https://github.com/hasit/onair#readme",
     "dependencies": {
       "axios": "^0.14.0",
@@ -113,6 +107,11 @@
       "react-dom": "^15.3.2",
       "react-sound": "^0.5.2",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hasit/onair/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "filename": "hasit___onair.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:35:36.927Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:58.985Z"
+  "lastFetchedAt": "2017-10-24T00:18:30.703Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:58.985Z",
+  "archived": false
 }

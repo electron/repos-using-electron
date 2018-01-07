@@ -44,17 +44,14 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "steam-idle",
     "productName": "SteamIdle",
     "version": "2.0.0",
     "description": "A simple application for idling games on Steam.",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/DevNvll/Steam-Idle.git"
-    },
+    "repository": "https://github.com/DevNvll/Steam-Idle",
     "homepage": "https://github.com/DevNvll/Steam-Idle",
     "author": {
       "name": "Henrick Mello",
@@ -123,7 +120,8 @@
       "style-loader": "^0.13.1",
       "url-loader": "^0.5.7",
       "webpack": "^1.13.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -170,6 +168,6 @@
   "svnUrl": "https://github.com/DevNvll/Steam-Idle",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:31:21.718Z",
+  "lastFetchedAt": "2017-10-23T23:01:13.348Z",
   "packageLastFetchedAt": "2017-05-05T15:18:31.749Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jimmythompson",
     "id": 653864,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/653864?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/653864?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jimmythompson",
     "htmlUrl": "https://github.com/jimmythompson",
@@ -20,12 +20,12 @@
   "description": "An attack tree generator built on electron",
   "fork": false,
   "createdAt": "2015-05-10T21:24:11.000Z",
-  "updatedAt": "2017-05-04T10:54:00.000Z",
+  "updatedAt": "2017-08-04T12:39:40.000Z",
   "pushedAt": "2016-05-23T11:42:32.000Z",
   "homepage": null,
   "size": 2540,
-  "stargazersCount": 28,
-  "watchersCount": 28,
+  "stargazersCount": 31,
+  "watchersCount": 31,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 28,
+  "watchers": 31,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -56,10 +56,7 @@
     "description": "An attack tree visualisation tool",
     "version": "0.2.1",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/jimmythompson/ent.git"
-    },
+    "repository": "https://github.com/jimmythompson/ent",
     "main": "main.js",
     "dependencies": {
       "d3": "^3.5.5",
@@ -100,7 +97,8 @@
     "scripts": {
       "package": "electron-packager build Ent --asar --platform=darwin --arch=x64 --version=1.1.1 --app-version=0.2.1 --out=bin --icon=doc/logo.icns",
       "start": "electron build 2>&1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +145,7 @@
   "svnUrl": "https://github.com/jimmythompson/ent",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:09:20.953Z",
-  "packageLastFetchedAt": "2017-05-05T17:51:43.840Z"
+  "lastFetchedAt": "2017-10-23T22:53:29.639Z",
+  "packageLastFetchedAt": "2017-05-05T17:51:43.840Z",
+  "archived": false
 }

@@ -70,15 +70,12 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sound-warp",
     "version": "0.5.7",
     "description": "SoundWarp frontend application",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SoundWarp/sound-warp.git"
-    },
+    "repository": "https://github.com/SoundWarp/sound-warp",
     "devDependencies": {
       "babel-eslint": "^4.1.0",
       "bower": "^1.5.1",
@@ -109,7 +106,8 @@
       "jquery": "^2.1.4",
       "node-soundcloud": "0.0.3",
       "watchjs": "0.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +134,6 @@
   },
   "filename": "dkfiresky___sound-warp-player-deprecated.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:36.298Z",
+  "lastFetchedAt": "2017-10-23T23:00:53.325Z",
   "packageLastFetchedAt": "2017-05-04T21:55:25.952Z"
 }

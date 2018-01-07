@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -20,21 +20,21 @@
   "description": "Rich markdown live preview app with linter",
   "fork": false,
   "createdAt": "2015-07-05T18:42:58.000Z",
-  "updatedAt": "2017-05-03T02:52:47.000Z",
-  "pushedAt": "2016-12-02T02:57:22.000Z",
+  "updatedAt": "2017-10-20T10:02:57.000Z",
+  "pushedAt": "2017-10-23T07:25:51.000Z",
   "homepage": "",
-  "size": 6590,
-  "stargazersCount": 502,
-  "watchersCount": 502,
+  "size": 6649,
+  "stargazersCount": 544,
+  "watchersCount": 544,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 16,
+  "forksCount": 19,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 502,
+  "watchers": 544,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 16,
-  "subscribersCount": 20,
+  "networkCount": 19,
+  "subscribersCount": 24,
   "status": 200,
   "packageJSON": {
     "name": "shiba",
@@ -56,13 +56,7 @@
     },
     "author": "rhysd <lin90162@yahoo.co.jp>",
     "homepage": "https://github.com/rhysd/Shiba#readme",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rhysd/Shiba.git"
-    },
-    "bugs": {
-      "url": "https://github.com/rhysd/Shiba/issues"
-    },
+    "repository": "https://github.com/rhysd/Shiba",
     "license": "MIT",
     "keywords": [
       "markdown",
@@ -120,6 +114,11 @@
       "app": "NODE_ENV=development ./bin/cli.js README.md",
       "test": "rake test",
       "start": "npm run dep && npm run build && npm run app"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/Shiba/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   "svnUrl": "https://github.com/rhysd/Shiba",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:31:07.898Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:28.256Z"
+  "lastFetchedAt": "2017-10-23T21:52:15.880Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:28.256Z",
+  "archived": false
 }

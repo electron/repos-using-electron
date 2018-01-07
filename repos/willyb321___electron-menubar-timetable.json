@@ -5,7 +5,7 @@
   "owner": {
     "login": "willyb321",
     "id": 9222609,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/9222609?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/9222609?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/willyb321",
     "htmlUrl": "https://github.com/willyb321",
@@ -20,21 +20,21 @@
   "description": "TimeTable in the menubar using electron",
   "fork": false,
   "createdAt": "2016-05-24T03:28:37.000Z",
-  "updatedAt": "2017-04-01T12:15:53.000Z",
-  "pushedAt": "2017-05-02T10:21:53.000Z",
+  "updatedAt": "2017-10-06T23:15:49.000Z",
+  "pushedAt": "2017-10-23T16:27:47.000Z",
   "homepage": "https://timetable-menubar.xyz",
-  "size": 25637,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "size": 25654,
+  "stargazersCount": 14,
+  "watchersCount": 14,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 3,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 11,
+  "forksCount": 4,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 14,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -57,13 +57,7 @@
     "description": "Get your TimeTable in your menubar!",
     "license": "MIT",
     "author": "Willyb321",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/willyb321/electron-menubar-timetable"
-    },
-    "bugs": {
-      "url": "https://github.com/willyb321/electron-menubar-timetable/issues"
-    },
+    "repository": "https://github.com/willyb321/electron-menubar-timetable",
     "main": "./main.js",
     "scripts": {
       "lint": "xo",
@@ -117,7 +111,12 @@
     "category": "public.app-category.reference",
     "publish": [
       "github"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/willyb321/electron-menubar-timetable/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/willyb321/electron-menubar-timetable",
@@ -164,6 +163,7 @@
   },
   "filename": "willyb321___electron-menubar-timetable.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:37.928Z",
-  "packageLastFetchedAt": "2017-05-05T13:37:34.475Z"
+  "lastFetchedAt": "2017-10-24T00:04:06.856Z",
+  "packageLastFetchedAt": "2017-05-05T13:37:34.475Z",
+  "archived": false
 }

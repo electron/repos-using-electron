@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "SampleApp",
     "version": "1.0.0",
@@ -123,17 +123,16 @@
       "url-loader": "0.5.7",
       "webpack": "1.13.2"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ssreekanth/electron-ionic2-webpack-starter.git"
-    },
+    "repository": "https://github.com/ssreekanth/electron-ionic2-webpack-starter",
     "license": "UNLICENSED",
     "private": true,
-    "bugs": {
-      "url": "https://github.com/ssreekanth/electron-ionic2-webpack-starter/issues"
-    },
     "homepage": "https://github.com/ssreekanth/electron-ionic2-webpack-starter/wiki",
-    "author": "Sreekanth S"
+    "author": "Sreekanth S",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ssreekanth/electron-ionic2-webpack-starter/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -160,6 +159,6 @@
   },
   "filename": "ssreekanth___electron-ionic2-webpack-starter.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:31.930Z",
+  "lastFetchedAt": "2017-10-23T22:56:59.449Z",
   "packageLastFetchedAt": "2017-05-04T22:34:32.314Z"
 }

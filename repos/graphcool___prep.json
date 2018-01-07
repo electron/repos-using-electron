@@ -6,7 +6,7 @@
   "owner": {
     "login": "graphcool",
     "id": 17219288,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17219288?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17219288?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/graphcool",
     "htmlUrl": "https://github.com/graphcool",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/graphcool/prep/downloads",
   "deploymentsUrl": "https://api.github.com/repos/graphcool/prep/deployments",
   "createdAt": "2016-05-07T16:24:02.000Z",
-  "updatedAt": "2017-04-25T23:11:06.000Z",
-  "pushedAt": "2017-03-05T15:02:59.000Z",
+  "updatedAt": "2017-10-20T13:47:10.000Z",
+  "pushedAt": "2017-10-01T19:14:42.000Z",
   "gitUrl": "git://github.com/graphcool/prep.git",
   "sshUrl": "git@github.com:graphcool/prep.git",
   "cloneUrl": "https://github.com/graphcool/prep.git",
   "svnUrl": "https://github.com/graphcool/prep",
   "homepage": "",
-  "size": 102,
-  "stargazersCount": 35,
-  "watchersCount": 35,
+  "size": 111,
+  "stargazersCount": 198,
+  "watchersCount": 198,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 4,
+  "forksCount": 16,
   "mirrorUrl": null,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 35,
+  "openIssuesCount": 11,
+  "openIssues": 11,
+  "watchers": 198,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "graphcool",
     "id": 17219288,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17219288?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17219288?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/graphcool",
     "htmlUrl": "https://github.com/graphcool",
@@ -83,8 +83,8 @@
     "receivedEventsUrl": "https://api.github.com/users/graphcool/received_events",
     "type": "Organization"
   },
-  "networkCount": 4,
-  "subscribersCount": 3,
+  "networkCount": 16,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "prep",
@@ -102,10 +102,7 @@
       "build": "rm -rf lib && mkdir lib && babel src/index.js -o lib/index.js",
       "test": "echo \"No tests yet\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/graphcool/prep.git"
-    },
+    "repository": "https://github.com/graphcool/prep",
     "keywords": [
       "server-side",
       "rendering",
@@ -118,9 +115,6 @@
     ],
     "author": "Johannes Schickling <johannes@graph.cool>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/graphcool/prep/issues"
-    },
     "homepage": "https://github.com/graphcool/prep#readme",
     "devDependencies": {
       "babel-cli": "^6.7.7",
@@ -142,6 +136,11 @@
       "nightmare": "2.9.0",
       "serve-static": "^1.10.2",
       "sitemap": "^1.9.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/graphcool/prep/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:10.403Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:26.158Z"
+  "lastFetchedAt": "2017-10-24T00:18:21.204Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:26.158Z",
+  "archived": false
 }

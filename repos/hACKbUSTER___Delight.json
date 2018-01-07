@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 12,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Delight",
     "version": "1.0.0",
@@ -97,10 +97,8 @@
       "electron": "^1.4.3",
       "electron-rebuild": "^1.2.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hACKbUSTER/Delight"
-    }
+    "repository": "https://github.com/hACKbUSTER/Delight",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,6 @@
   },
   "filename": "hACKbUSTER___Delight.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:23:42.956Z",
+  "lastFetchedAt": "2017-10-24T00:10:31.683Z",
   "packageLastFetchedAt": "2017-05-05T17:39:20.652Z"
 }

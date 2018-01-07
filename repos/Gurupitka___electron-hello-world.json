@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hellworld",
     "version": "1.0.0",
@@ -85,7 +85,8 @@
       "start": "electron main.js"
     },
     "author": "Vinny Rapisarda",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +113,6 @@
   },
   "filename": "Gurupitka___electron-hello-world.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:56:11.862Z",
+  "lastFetchedAt": "2017-10-23T23:08:05.579Z",
   "packageLastFetchedAt": "2017-05-04T22:16:30.197Z"
 }

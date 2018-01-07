@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "menubar-calendar",
     "version": "0.0.1",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/armyofgnomes/menubar-calendar.git"
-    },
+    "repository": "https://github.com/armyofgnomes/menubar-calendar",
     "author": "Robert Stern <rstern@gmail.com>",
     "license": "MIT",
     "devDependencies": {
@@ -65,7 +62,8 @@
     "dependencies": {
       "menubar": "^5.1.0",
       "polymer": "^0.5.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/armyofgnomes/menubar-calendar",
@@ -112,6 +110,6 @@
   },
   "filename": "armyofgnomes___menubar-calendar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:25.734Z",
+  "lastFetchedAt": "2017-10-23T23:05:54.114Z",
   "packageLastFetchedAt": "2017-05-05T15:21:49.186Z"
 }

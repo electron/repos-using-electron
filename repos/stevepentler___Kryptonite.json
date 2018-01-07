@@ -6,7 +6,7 @@
   "owner": {
     "login": "stevepentler",
     "id": 13510375,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13510375?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13510375?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/stevepentler",
     "htmlUrl": "https://github.com/stevepentler",
@@ -81,19 +81,13 @@
       "start": "electron .",
       "build": "electron-packager . 'Change Me' --platform=all --arch=all --version=0.37.5"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/turingschool-examples/electron-react-starter-kid.git"
-    },
+    "repository": "https://github.com/turingschool-examples/electron-react-starter-kid",
     "keywords": [
       "electron",
       "react"
     ],
     "author": "Steve Kinney",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/turingschool-examples/electron-react-starter-kid/issues"
-    },
     "homepage": "https://github.com/turingschool-examples/electron-react-starter-kid#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -114,6 +108,11 @@
       "react": "^15.0.1",
       "react-bootstrap": "^0.28.5",
       "react-dom": "^15.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/turingschool-examples/electron-react-starter-kid/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:34:55.979Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:24.473Z"
+  "lastFetchedAt": "2017-10-23T22:29:00.043Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:24.473Z",
+  "archived": false
 }

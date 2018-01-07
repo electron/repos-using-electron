@@ -5,7 +5,7 @@
   "owner": {
     "login": "AnotherNote",
     "id": 22090826,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22090826?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22090826?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AnotherNote",
     "htmlUrl": "https://github.com/AnotherNote",
@@ -20,21 +20,21 @@
   "description": "another markdown note (inspired by evernote)",
   "fork": false,
   "createdAt": "2016-09-20T12:01:04.000Z",
-  "updatedAt": "2017-05-01T15:59:56.000Z",
+  "updatedAt": "2017-10-14T01:10:42.000Z",
   "pushedAt": "2016-12-24T14:24:19.000Z",
   "homepage": "",
   "size": 2100,
-  "stargazersCount": 285,
-  "watchersCount": 285,
+  "stargazersCount": 315,
+  "watchersCount": 315,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 42,
+  "forksCount": 47,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 285,
+  "watchers": 315,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "AnotherNote",
     "id": 22090826,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22090826?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22090826?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AnotherNote",
     "htmlUrl": "https://github.com/AnotherNote",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/AnotherNote/received_events",
     "type": "Organization"
   },
-  "networkCount": 42,
-  "subscribersCount": 18,
+  "networkCount": 47,
+  "subscribersCount": 19,
   "status": 200,
   "packageJSON": {
     "name": "Anote",
@@ -82,10 +82,7 @@
       "lint-html": "eslint . -f html -o ./reports/lint-results.html",
       "lint-fix": "eslint --fix ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wpzero/electron-makedown.git"
-    },
+    "repository": "https://github.com/wpzero/electron-makedown",
     "keywords": [
       "Electron",
       "react",
@@ -97,7 +94,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {},
     "homepage": "https://github.com/wpzero/electron-makedown.git#readme",
     "devDependencies": {
       "asar": "^0.12.1",
@@ -133,6 +129,9 @@
       "redux": "^3.5.2",
       "sanitize-html": "^1.13.0",
       "to-markdown": "^3.0.1"
+    },
+    "other": {
+      "bugs": {}
     }
   },
   "packageStatus": 200,
@@ -181,6 +180,7 @@
   "filename": "AnotherNote___anote.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:08:17.154Z",
-  "packageLastFetchedAt": "2017-05-05T15:19:54.132Z"
+  "lastFetchedAt": "2017-10-23T22:55:58.696Z",
+  "packageLastFetchedAt": "2017-05-05T15:19:54.132Z",
+  "archived": false
 }

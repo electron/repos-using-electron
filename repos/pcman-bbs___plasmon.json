@@ -5,7 +5,7 @@
   "owner": {
     "login": "pcman-bbs",
     "id": 5189909,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5189909?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5189909?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pcman-bbs",
     "htmlUrl": "https://github.com/pcman-bbs",
@@ -20,21 +20,21 @@
   "description": "PCMan BBS Client on Electron",
   "fork": false,
   "createdAt": "2015-07-07T13:57:00.000Z",
-  "updatedAt": "2017-04-01T13:33:21.000Z",
+  "updatedAt": "2017-10-01T15:42:53.000Z",
   "pushedAt": "2015-10-08T07:59:43.000Z",
   "homepage": "http://pcman.ptt.cc/",
   "size": 1392,
-  "stargazersCount": 18,
-  "watchersCount": 18,
+  "stargazersCount": 22,
+  "watchersCount": 22,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 18,
+  "watchers": 22,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "pcman-bbs",
     "id": 5189909,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5189909?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5189909?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pcman-bbs",
     "htmlUrl": "https://github.com/pcman-bbs",
@@ -56,8 +56,8 @@
     "receivedEventsUrl": "https://api.github.com/users/pcman-bbs/received_events",
     "type": "Organization"
   },
-  "networkCount": 3,
-  "subscribersCount": 11,
+  "networkCount": 4,
+  "subscribersCount": 12,
   "status": 200,
   "packageJSON": {
     "name": "plasmon",
@@ -71,18 +71,12 @@
       "build": "grunt build",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pcman-bbs/plasmon.git"
-    },
+    "repository": "https://github.com/pcman-bbs/plasmon",
     "keywords": [
       "bbs"
     ],
     "author": "kidwm",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pcman-bbs/plasmon/issues"
-    },
     "dependencies": {
       "iconv-lite": "^0.4.13"
     },
@@ -96,6 +90,11 @@
       "grunt-electron": "^2.0.1",
       "load-grunt-tasks": "^3.3.0",
       "strictify": "~0.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pcman-bbs/plasmon/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   },
   "filename": "pcman-bbs___plasmon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:09.904Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:27.083Z"
+  "lastFetchedAt": "2017-10-23T22:24:30.850Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:27.083Z",
+  "archived": false
 }

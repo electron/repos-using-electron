@@ -5,7 +5,7 @@
   "owner": {
     "login": "annexare",
     "id": 1128372,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1128372?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1128372?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/annexare",
     "htmlUrl": "https://github.com/annexare",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/annexare/Chromecast/downloads",
   "deploymentsUrl": "https://api.github.com/repos/annexare/Chromecast/deployments",
   "createdAt": "2016-02-14T16:41:06.000Z",
-  "updatedAt": "2017-02-22T22:35:51.000Z",
+  "updatedAt": "2017-10-10T02:41:37.000Z",
   "pushedAt": "2016-08-30T15:08:50.000Z",
   "gitUrl": "git://github.com/annexare/Chromecast.git",
   "sshUrl": "git@github.com:annexare/Chromecast.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/annexare/Chromecast",
   "homepage": "http://annexare.github.io/Chromecast",
   "size": 2100,
-  "stargazersCount": 19,
-  "watchersCount": 19,
+  "stargazersCount": 21,
+  "watchersCount": 21,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 19,
+  "watchers": 21,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "annexare",
     "id": 1128372,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1128372?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1128372?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/annexare",
     "htmlUrl": "https://github.com/annexare",
@@ -95,10 +95,7 @@
       "postinstall": "cd ./app && npm install",
       "start": "set NODE_ENV=development && gulp build:ui && electron app/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/annexare/Chromecast"
-    },
+    "repository": "https://github.com/annexare/Chromecast",
     "keywords": [
       "Chromecast",
       "App",
@@ -112,9 +109,6 @@
     ],
     "author": "Annexare",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/annexare/Chromecast/issues"
-    },
     "homepage": "http://annexare.github.io/Chromecast",
     "eslintConfig": ".eslintrc.json",
     "devDependencies": {
@@ -138,7 +132,12 @@
       "babel-loader": "*",
       "webpack": "*"
     },
-    "engine": "node >= 5.10.0"
+    "engine": "node >= 5.10.0",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/annexare/Chromecast/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -165,6 +164,7 @@
   },
   "filename": "annexare___Chromecast.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:50.996Z",
-  "packageLastFetchedAt": "2017-05-05T15:42:02.265Z"
+  "lastFetchedAt": "2017-10-24T00:18:38.957Z",
+  "packageLastFetchedAt": "2017-05-05T15:42:02.265Z",
+  "archived": false
 }

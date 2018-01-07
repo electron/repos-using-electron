@@ -50,7 +50,7 @@
   },
   "networkCount": 20,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-notifications",
     "version": "1.0.0",
@@ -88,7 +88,8 @@
     },
     "dependencies": {
       "electron-is": "^2.3.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +136,6 @@
   "svnUrl": "https://github.com/blainesch/electron-notifications",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:52:21.048Z",
+  "lastFetchedAt": "2017-10-23T23:03:03.820Z",
   "packageLastFetchedAt": "2017-05-05T01:24:47.365Z"
 }

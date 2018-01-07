@@ -178,7 +178,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-muli-platform",
     "version": "0.27.0",
@@ -201,15 +201,9 @@
       "test": "node ./node_modules/karma/bin/karma start",
       "server": "./node_modules/.bin/webpack-dev-server --config ./webpack.config.dev.js --content-base ./dist/ --port 8080 --inline --hot --progress"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TylerK/react-multi-platform.git"
-    },
+    "repository": "https://github.com/TylerK/react-multi-platform",
     "author": "Tyler Kelley",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/TylerK/react-multi-platform/issues"
-    },
     "homepage": "https://github.com/TylerK/react-multi-platform#readme",
     "dependencies": {
       "react": "^15.1.0",
@@ -254,6 +248,11 @@
       "style-loader": "^0.13.1",
       "webpack": "^1.13.1",
       "webpack-dev-server": "^1.14.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/TylerK/react-multi-platform/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -302,6 +301,6 @@
   "filename": "datuxer___react-multi-platform.json",
   "sourceRepo": "TylerK/react-multi-platform",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:49.451Z",
+  "lastFetchedAt": "2017-10-23T22:58:17.326Z",
   "packageLastFetchedAt": "2017-05-05T15:34:17.212Z"
 }

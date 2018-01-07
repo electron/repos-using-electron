@@ -6,7 +6,7 @@
   "owner": {
     "login": "Mike-williams3000",
     "id": 5846161,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5846161?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5846161?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Mike-williams3000",
     "htmlUrl": "https://github.com/Mike-williams3000",
@@ -95,16 +95,15 @@
       "pack:win": "electron-packager . sbd --out=./dist --platform=win32 --version=0.36.4 --arch=x64 --icon=icon.ico --cache=C:/Users/Mike/projects/cache/",
       "build": "electron-builder ./dist/sbd-win32-x64 --platform=win --out=./dist/win --config=config.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://Mike-williams3000@github.com/johnc303/scoreboard-app.git"
-    },
+    "repository": "https://github.com/johnc303/scoreboard-app",
     "author": "Mike Williams",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/johnc303/scoreboard-app/issues"
-    },
-    "homepage": "https://github.com/johnc303/scoreboard-app#readme"
+    "homepage": "https://github.com/johnc303/scoreboard-app#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/johnc303/scoreboard-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +129,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:27:57.992Z",
-  "packageLastFetchedAt": "2017-05-04T22:45:16.355Z"
+  "lastFetchedAt": "2017-10-24T00:13:38.505Z",
+  "packageLastFetchedAt": "2017-05-04T22:45:16.355Z",
+  "archived": false
 }

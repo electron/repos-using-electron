@@ -5,7 +5,7 @@
   "owner": {
     "login": "nayed",
     "id": 5424690,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5424690?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5424690?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nayed",
     "htmlUrl": "https://github.com/nayed",
@@ -80,15 +80,9 @@
       "start": "electron ./app/App.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Nayed/blog-desktop.git"
-    },
+    "repository": "https://github.com/Nayed/blog-desktop",
     "author": "Nayed Saïd Ali",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Nayed/blog-desktop/issues"
-    },
     "homepage": "https://github.com/Nayed/blog-desktop#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.3.13",
@@ -111,7 +105,12 @@
       "vue-resource": "^0.5.1",
       "vinyl-source-stream": "^1.1.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Nayed/blog-desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +137,7 @@
   },
   "filename": "nayed___blog-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:38.766Z",
-  "packageLastFetchedAt": "2017-05-05T17:19:44.273Z"
+  "lastFetchedAt": "2017-10-24T00:17:32.952Z",
+  "packageLastFetchedAt": "2017-05-05T17:19:44.273Z",
+  "archived": false
 }

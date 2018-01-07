@@ -164,7 +164,7 @@
   },
   "networkCount": 27,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "james",
     "version": "1.5.0",
@@ -274,14 +274,7 @@
         "synopsis": "Web proxy"
       }
     },
-    "other": {
-      "author": "Julian Hollmann <hollmann@uxebu.com>",
-      "directories": {
-        "buildResources": "resource-compile",
-        "output": "binaries",
-        "app": "./package"
-      }
-    }
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -329,7 +322,7 @@
   "svnUrl": "https://github.com/mitchhentges/james",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:38:08.721Z",
+  "lastFetchedAt": "2017-10-23T23:10:30.083Z",
   "packageLastFetchedAt": "2017-05-05T17:42:19.076Z",
   "contributors": [
     "mitchhentges",

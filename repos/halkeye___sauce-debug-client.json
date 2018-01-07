@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sauce_debug_client",
     "version": "1.1.0",
@@ -165,7 +165,8 @@
       "app-bundle-id": "com.gavinmogan.sauce-debug-client",
       "app-category-type": "public.app-category.developer-tools",
       "iconUrl": "https://saucelabs.com/favicon.ico"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -212,6 +213,6 @@
   "svnUrl": "https://github.com/halkeye/sauce-debug-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:35:46.244Z",
+  "lastFetchedAt": "2017-10-23T23:07:57.580Z",
   "packageLastFetchedAt": "2017-05-05T17:41:42.059Z"
 }

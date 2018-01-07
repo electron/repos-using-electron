@@ -5,7 +5,7 @@
   "owner": {
     "login": "tjallen",
     "id": 4224359,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4224359?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4224359?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tjallen",
     "htmlUrl": "https://github.com/tjallen",
@@ -134,7 +134,8 @@
       "pkg:osx": "npm run electron:pre && electron-packager ./electron --platform=mas --out=dist-electron --icon=./icons/icon.icns --overwrite",
       "dad": "webpack --display-error-details",
       "stats": "webpack --profile --json > stats.json"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -161,6 +162,7 @@
   },
   "filename": "tjallen___countdown-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:40.974Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:44.616Z"
+  "lastFetchedAt": "2017-10-23T22:25:16.094Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:44.616Z",
+  "archived": false
 }

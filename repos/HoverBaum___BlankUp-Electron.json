@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 4,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "BlankUp-Electron",
     "version": "1.1.0",
@@ -61,10 +61,7 @@
       "release": "build"
     },
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/HoverBaum/BlankUp-Electron.git"
-    },
+    "repository": "https://github.com/HoverBaum/BlankUp-Electron",
     "keywords": [
       "Markdown",
       "editor",
@@ -72,9 +69,6 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/HoverBaum/BlankUp-Electron/issues"
-    },
     "homepage": "https://github.com/HoverBaum/BlankUp-Electron",
     "devDependencies": {
       "concurrently": "^2.2.0",
@@ -90,6 +84,11 @@
     "build": {
       "appId": "de.hendrikwallbaum.blankUpElectron",
       "app-category-type": "public.app-category.productivity"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/HoverBaum/BlankUp-Electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,6 @@
   "svnUrl": "https://github.com/HoverBaum/BlankUp-Electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:21:38.555Z",
+  "lastFetchedAt": "2017-10-23T23:00:55.089Z",
   "packageLastFetchedAt": "2017-05-04T22:51:16.342Z"
 }

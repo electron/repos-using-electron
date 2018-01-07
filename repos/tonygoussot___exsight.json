@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "exsight",
     "description": "Who's your tribe ?",
@@ -84,16 +84,15 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tonygoussot/exsight.git"
-    },
+    "repository": "https://github.com/tonygoussot/exsight",
     "author": "tonygoussot",
     "license": "GPL-2.0",
-    "bugs": {
-      "url": "https://github.com/tonygoussot/exsight/issues"
-    },
-    "homepage": "https://github.com/tonygoussot/exsight#readme"
+    "homepage": "https://github.com/tonygoussot/exsight#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tonygoussot/exsight/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +119,6 @@
   },
   "filename": "tonygoussot___exsight.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:45:39.716Z",
+  "lastFetchedAt": "2017-10-23T21:52:14.322Z",
   "packageLastFetchedAt": "2017-05-04T22:42:47.372Z"
 }

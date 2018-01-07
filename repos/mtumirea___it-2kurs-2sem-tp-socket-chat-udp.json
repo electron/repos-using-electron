@@ -5,7 +5,7 @@
   "owner": {
     "login": "mtumirea",
     "id": 19676453,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19676453?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19676453?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mtumirea",
     "htmlUrl": "https://github.com/mtumirea",
@@ -81,10 +81,7 @@
       "postinstall": "install-app-deps",
       "pack": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mtumirea/it-2kurs-2sem-tp-socket-chat-udp"
-    },
+    "repository": "https://github.com/mtumirea/it-2kurs-2sem-tp-socket-chat-udp",
     "keywords": [
       "Electron",
       "quick",
@@ -93,9 +90,6 @@
     ],
     "author": "anon",
     "license": "see LICENSE && no commerce",
-    "bugs": {
-      "url": "https://github.com/mtumirea/it-2kurs-2sem-tp-socket-chat-udp/issues"
-    },
     "homepage": "https://github.com/mtumirea/it-2kurs-2sem-tp-socket-chat-udp#readme",
     "devDependencies": {
       "electron-builder": "^3.25.0",
@@ -107,6 +101,11 @@
       "app-bundle-id": "your.id",
       "app-category-type": "your.app.category.type",
       "iconUrl": "see https://github.com/develar/electron-builder#in-short"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mtumirea/it-2kurs-2sem-tp-socket-chat-udp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -134,6 +133,7 @@
   },
   "filename": "mtumirea___it-2kurs-2sem-tp-socket-chat-udp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:36.921Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:34.452Z"
+  "lastFetchedAt": "2017-10-23T22:29:03.122Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:34.452Z",
+  "archived": false
 }

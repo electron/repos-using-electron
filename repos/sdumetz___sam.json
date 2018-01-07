@@ -5,7 +5,7 @@
   "owner": {
     "login": "sdumetz",
     "id": 4112885,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4112885?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4112885?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sdumetz",
     "htmlUrl": "https://github.com/sdumetz",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "sam",
@@ -86,15 +86,9 @@
       "build": "./build.sh",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/sdumetz/sam.git"
-    },
+    "repository": "https://github.com/sdumetz/sam",
     "author": "Sebastien Dumetz <s.dumetz@holusion.com> (https://github.com/klepthys)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/sdumetz/sam/issues"
-    },
     "homepage": "https://github.com/sdumetz/sam",
     "dependencies": {
       "electron-prebuilt": "^1.1.1",
@@ -112,6 +106,11 @@
       "react": "^0.14.3",
       "react-dom": "^0.14.3",
       "webpack": "^1.12.15"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sdumetz/sam/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "sdumetz___sam.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:10.456Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:02.879Z"
+  "lastFetchedAt": "2017-10-23T23:44:26.928Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:02.879Z",
+  "archived": false
 }

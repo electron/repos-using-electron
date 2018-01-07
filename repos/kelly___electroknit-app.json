@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Electroknit",
     "productName": "Electroknit",
@@ -113,10 +113,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
@@ -201,7 +198,8 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -248,6 +246,6 @@
   "svnUrl": "https://github.com/kelly/electroknit-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T04:59:26.810Z",
+  "lastFetchedAt": "2017-10-24T00:10:41.165Z",
   "packageLastFetchedAt": "2017-05-05T17:25:15.695Z"
 }

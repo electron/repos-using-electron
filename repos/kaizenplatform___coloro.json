@@ -58,19 +58,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 25,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Coloro",
     "version": "1.0.1",
     "description": "A tiny desktop app to show a hex code and a color name of Kaizen UI Colors which you copy in a clipboard.",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/kaizenplatform/kaizen-ui-color-converter.git"
-    },
-    "bugs": {
-      "url": "https://github.com/kaizenplatform/kaizen-ui-color-converter/issues"
-    },
+    "repository": "https://github.com/kaizenplatform/kaizen-ui-color-converter",
     "homepage": "https://github.com/kaizenplatform/kaizen-ui-color-converter",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
@@ -110,6 +104,11 @@
     },
     "engines": {
       "node": ">=4.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kaizenplatform/kaizen-ui-color-converter/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,6 @@
   "svnUrl": "https://github.com/kaizenplatform/coloro",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:50:35.840Z",
+  "lastFetchedAt": "2017-10-23T23:09:58.844Z",
   "packageLastFetchedAt": "2017-05-04T22:44:45.032Z"
 }

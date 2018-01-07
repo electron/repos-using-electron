@@ -50,7 +50,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "playa",
     "productName": "Playa",
@@ -63,13 +63,7 @@
       "url": "http://www.diegocaponera.com"
     },
     "engine": "node 7.1.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/moonwave99/playa.git"
-    },
-    "bugs": {
-      "url": "https://github.com/moonwave99/playa/issues"
-    },
+    "repository": "https://github.com/moonwave99/playa",
     "licenses": [
       {
         "type": "MIT",
@@ -170,7 +164,12 @@
       "rebuild": "./node_modules/.bin/electron-rebuild -v 1.4.13",
       "localInstall": "cp -r ./release/Playa-darwin-x64/Playa.app/ /Applications/Playa.app/"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/moonwave99/playa/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -217,6 +216,6 @@
   "svnUrl": "https://github.com/moonwave99/playa",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:43:43.251Z",
+  "lastFetchedAt": "2017-10-23T23:03:41.344Z",
   "packageLastFetchedAt": "2017-05-04T22:04:35.418Z"
 }

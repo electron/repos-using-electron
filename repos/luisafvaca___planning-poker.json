@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "planning-poker",
     "version": "1.0.0",
@@ -74,16 +74,10 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/luisafvaca/planning-poker.git"
-    },
+    "repository": "https://github.com/luisafvaca/planning-poker",
     "author": "Luisa Fernanda Vaca Correa <luisafernanda9111@gmail.com> (https://github.com/luisafvaca)",
     "contributors": "Guillermo Rodas <garethderioth@gmail.com> (http://guillermorodas.com)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/luisafvaca/planning-poker/issues"
-    },
     "homepage": "https://github.com/luisafvaca/planning-poker#readme",
     "devDependencies": {
       "electron-prebuilt": "0.37.7",
@@ -93,7 +87,12 @@
       "eslint-plugin-jsx-a11y": "1.2.0",
       "eslint-plugin-react": "5.0.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/luisafvaca/planning-poker/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -120,6 +119,6 @@
   },
   "filename": "luisafvaca___planning-poker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:45:05.761Z",
+  "lastFetchedAt": "2017-10-23T23:02:11.324Z",
   "packageLastFetchedAt": "2017-05-04T22:42:17.214Z"
 }

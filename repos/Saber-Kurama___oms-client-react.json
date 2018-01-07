@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "oms-clentt-react",
     "description": "使用react+redux+immutable+antd 重新财富pc",
@@ -283,17 +283,7 @@
       "test:mocha:watch": "npm run test:mocha -- --watch",
       "test:watch": "karma start --watch -- --test"
     },
-    "other": {
-      "author": {
-        "name": "guochao",
-        "email": "463561248@qq.com",
-        "url": "https://github.com/saber_kurama"
-      },
-      "bugs": {
-        "url": "",
-        "email": ""
-      }
-    }
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -320,7 +310,7 @@
   },
   "filename": "Saber-Kurama___oms-client-react.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:58.661Z",
+  "lastFetchedAt": "2017-10-23T23:01:45.073Z",
   "packageLastFetchedAt": "2017-05-04T22:52:12.704Z",
   "contributors": []
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "Grenadingue",
     "id": 9608184,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9608184?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9608184?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Grenadingue",
     "htmlUrl": "https://github.com/Grenadingue",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 3,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "sam-irc-nodejs",
@@ -83,10 +83,7 @@
       "install": "cd ./server && npm install && cd .. && cd ./client && npm install",
       "start": "node quick_launcher.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Grenadingue/sam-irc-nodejs.git"
-    },
+    "repository": "https://github.com/Grenadingue/sam-irc-nodejs",
     "keywords": [
       "node",
       "node.js",
@@ -101,10 +98,12 @@
       "url": "https://github.com/Grenadingue"
     },
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Grenadingue/sam-irc-nodejs/issues"
-    },
-    "homepage": "https://github.com/Grenadingue/sam-irc-nodejs#readme"
+    "homepage": "https://github.com/Grenadingue/sam-irc-nodejs#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Grenadingue/sam-irc-nodejs/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,7 @@
   },
   "filename": "Grenadingue___sam-irc-nodejs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:30:07.762Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:46.540Z"
+  "lastFetchedAt": "2017-10-23T22:29:28.774Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:46.540Z",
+  "archived": false
 }

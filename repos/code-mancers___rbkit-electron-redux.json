@@ -5,7 +5,7 @@
   "owner": {
     "login": "code-mancers",
     "id": 1137275,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1137275?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1137275?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/code-mancers",
     "htmlUrl": "https://github.com/code-mancers",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "code-mancers",
     "id": 1137275,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1137275?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1137275?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/code-mancers",
     "htmlUrl": "https://github.com/code-mancers",
@@ -74,10 +74,7 @@
       "start": "NODE_ENV=development electron main.js",
       "lint": "xo"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -86,9 +83,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "babel-eslint": "6.0.0-beta.5",
@@ -170,6 +164,11 @@
       "ignores": [
         "vendor/**"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -217,6 +216,7 @@
   },
   "filename": "code-mancers___rbkit-electron-redux.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:11:21.431Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:08.168Z"
+  "lastFetchedAt": "2017-10-23T21:52:43.882Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:08.168Z",
+  "archived": false
 }

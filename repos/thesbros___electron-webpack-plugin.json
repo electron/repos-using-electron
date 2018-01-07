@@ -1,46 +1,46 @@
 {
   "id": 70958614,
   "name": "electron-webpack-plugin",
-  "fullName": "thesbros/electron-webpack-plugin",
+  "fullName": "odensc/electron-webpack-plugin",
   "owner": {
-    "login": "thesbros",
+    "login": "odensc",
     "id": 1520776,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1520776?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1520776?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/thesbros",
-    "htmlUrl": "https://github.com/thesbros",
-    "followersUrl": "https://api.github.com/users/thesbros/followers",
-    "subscriptionsUrl": "https://api.github.com/users/thesbros/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/thesbros/orgs",
-    "reposUrl": "https://api.github.com/users/thesbros/repos",
-    "receivedEventsUrl": "https://api.github.com/users/thesbros/received_events",
+    "url": "https://api.github.com/users/odensc",
+    "htmlUrl": "https://github.com/odensc",
+    "followersUrl": "https://api.github.com/users/odensc/followers",
+    "subscriptionsUrl": "https://api.github.com/users/odensc/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/odensc/orgs",
+    "reposUrl": "https://api.github.com/users/odensc/repos",
+    "receivedEventsUrl": "https://api.github.com/users/odensc/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/thesbros/electron-webpack-plugin",
+  "htmlUrl": "https://github.com/odensc/electron-webpack-plugin",
   "description": "Webpack plugin to restart Electron.",
   "fork": false,
-  "url": "https://api.github.com/repos/thesbros/electron-webpack-plugin",
-  "forksUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/forks",
-  "teamsUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/teams",
-  "hooksUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/hooks",
-  "eventsUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/events",
-  "tagsUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/tags",
-  "languagesUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/languages",
-  "stargazersUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/contributors",
-  "subscribersUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/subscription",
-  "mergesUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/merges",
-  "downloadsUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/thesbros/electron-webpack-plugin/deployments",
+  "url": "https://api.github.com/repos/odensc/electron-webpack-plugin",
+  "forksUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/forks",
+  "teamsUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/teams",
+  "hooksUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/hooks",
+  "eventsUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/events",
+  "tagsUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/tags",
+  "languagesUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/languages",
+  "stargazersUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/contributors",
+  "subscribersUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/subscription",
+  "mergesUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/merges",
+  "downloadsUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/odensc/electron-webpack-plugin/deployments",
   "createdAt": "2016-10-15T01:28:23.000Z",
   "updatedAt": "2017-02-13T03:10:17.000Z",
   "pushedAt": "2017-04-10T23:40:24.000Z",
-  "gitUrl": "git://github.com/thesbros/electron-webpack-plugin.git",
-  "sshUrl": "git@github.com:thesbros/electron-webpack-plugin.git",
-  "cloneUrl": "https://github.com/thesbros/electron-webpack-plugin.git",
-  "svnUrl": "https://github.com/thesbros/electron-webpack-plugin",
+  "gitUrl": "git://github.com/odensc/electron-webpack-plugin.git",
+  "sshUrl": "git@github.com:odensc/electron-webpack-plugin.git",
+  "cloneUrl": "https://github.com/odensc/electron-webpack-plugin.git",
+  "svnUrl": "https://github.com/odensc/electron-webpack-plugin",
   "homepage": null,
   "size": 12,
   "stargazersCount": 4,
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,7 +68,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 0,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -80,15 +80,9 @@
       "prepublish": "npm test && babel src --out-dir lib",
       "test": "echo"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thesbros/electron-webpack-plugin.git"
-    },
+    "repository": "https://github.com/thesbros/electron-webpack-plugin",
     "author": "thesbros",
     "license": "X11",
-    "bugs": {
-      "url": "https://github.com/thesbros/electron-webpack-plugin/issues"
-    },
     "keywords": [
       "electron",
       "webpack",
@@ -106,6 +100,11 @@
       "babel-cli": "^6.24.1",
       "babel-plugin-add-module-exports": "^0.2.1",
       "babel-preset-es2015": "^6.24.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/thesbros/electron-webpack-plugin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "thesbros___electron-webpack-plugin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:29.430Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:13.980Z"
+  "lastFetchedAt": "2017-10-23T21:46:46.963Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:13.980Z",
+  "archived": false
 }

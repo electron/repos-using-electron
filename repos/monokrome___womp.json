@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "author": "Bailey Stoner <monokrome@monokro.me>",
     "description": "An engine for tiled games",
@@ -90,7 +90,8 @@
       "webpack-dev-server": "~1.16.2",
       "webpack-livereload-plugin": "~0.9.0",
       "webpack-validator": "~2.2.9"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -117,6 +118,6 @@
   },
   "filename": "monokrome___womp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:47:13.239Z",
+  "lastFetchedAt": "2017-10-23T23:04:44.589Z",
   "packageLastFetchedAt": "2017-05-05T17:10:56.579Z"
 }

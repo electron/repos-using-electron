@@ -5,7 +5,7 @@
   "owner": {
     "login": "nhannan",
     "id": 19350294,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19350294?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19350294?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nhannan",
     "htmlUrl": "https://github.com/nhannan",
@@ -75,15 +75,9 @@
       "start": "watchify lib/*.js -o out/index.js --ignore-missing --entry lib/index.js --verbose",
       "test": "mocha test/unit/*-test.js test/integration/*-test.js && standard"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/devtron.git"
-    },
+    "repository": "https://github.com/electron/devtron",
     "author": "Kevin Sawicki",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/devtron/issues"
-    },
     "keywords": [
       "Electron",
       "Chrome",
@@ -113,6 +107,11 @@
       "ignore": [
         "/out/index.js"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/devtron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "filename": "nhannan___devtron.json",
   "sourceRepo": "electron/devtron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:30.569Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:41.346Z"
+  "lastFetchedAt": "2017-10-23T23:36:10.543Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:41.346Z",
+  "archived": false
 }

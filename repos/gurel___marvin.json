@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "marvin",
     "productName": "Marvin",
@@ -94,19 +94,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gurel/marvin"
-    },
+    "repository": "https://github.com/gurel/marvin",
     "author": {
       "name": "Gurel Erceis",
       "email": "gurel.erceis@gmail.com",
       "url": "https://github.com/gurel"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/gurel/marvin/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -184,6 +178,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gurel/marvin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -211,6 +210,6 @@
   },
   "filename": "gurel___marvin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:59:43.196Z",
+  "lastFetchedAt": "2017-10-23T22:57:19.080Z",
   "packageLastFetchedAt": "2017-05-05T17:34:15.710Z"
 }

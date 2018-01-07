@@ -5,7 +5,7 @@
   "owner": {
     "login": "kenokabe",
     "id": 1316994,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1316994?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1316994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kenokabe",
     "htmlUrl": "https://github.com/kenokabe",
@@ -59,19 +59,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kenokabe/quick-coder.git"
-    },
+    "repository": "https://github.com/kenokabe/quick-coder",
     "keywords": [
       "quick",
       "coder"
     ],
     "author": "Ken Okabe",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kenokabe/quick-coder/issues"
-    },
     "homepage": "https://github.com/kenokabe/quick-coder#readme",
     "devDependencies": {},
     "dependencies": {
@@ -90,6 +84,11 @@
       "timeengine": "*",
       "timeengine-react": "*",
       "webpack": "^1.12.11"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kenokabe/quick-coder/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "svnUrl": "https://github.com/kenokabe/quick-coder",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:38:21.394Z",
-  "packageLastFetchedAt": "2017-05-05T15:39:18.858Z"
+  "lastFetchedAt": "2017-10-23T22:11:37.040Z",
+  "packageLastFetchedAt": "2017-05-05T15:39:18.858Z",
+  "archived": false
 }

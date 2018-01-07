@@ -5,7 +5,7 @@
   "owner": {
     "login": "colinbdclark",
     "id": 558076,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/558076?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/558076?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/colinbdclark",
     "htmlUrl": "https://github.com/colinbdclark",
@@ -74,7 +74,6 @@
     "author": "Colin Clark",
     "license": "MIT",
     "repository": "git://github.com/colinbdclark/lou.git",
-    "bugs": "http://github.com/colinbdclark/lou/issues",
     "homepage": "http://github.com/colinbdclark/lou",
     "readmeFilename": "README.md",
     "dependencies": {
@@ -90,6 +89,9 @@
     "scripts": {
       "dedupe-infusion": "node -e \"require('dedupe-infusion')();\"",
       "start": "electron main.js"
+    },
+    "other": {
+      "bugs": "http://github.com/colinbdclark/lou/issues"
     }
   },
   "packageStatus": 200,
@@ -117,6 +119,7 @@
   },
   "filename": "colinbdclark___lou.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:58:09.665Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:47.327Z"
+  "lastFetchedAt": "2017-10-23T21:43:30.759Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:47.327Z",
+  "archived": false
 }

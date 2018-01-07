@@ -5,7 +5,7 @@
   "owner": {
     "login": "Alamantus",
     "id": 7747935,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7747935?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7747935?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Alamantus",
     "htmlUrl": "https://github.com/Alamantus",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 2,
@@ -49,7 +49,7 @@
     "owner": {
       "login": "etodd",
       "id": 1226339,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1226339?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1226339?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/etodd",
       "htmlUrl": "https://github.com/etodd",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/etodd/dialogger/downloads",
     "deploymentsUrl": "https://api.github.com/repos/etodd/dialogger/deployments",
     "createdAt": "2016-02-15T23:55:38.000Z",
-    "updatedAt": "2017-05-01T18:57:13.000Z",
+    "updatedAt": "2017-10-20T20:24:26.000Z",
     "pushedAt": "2016-09-06T17:44:38.000Z",
     "gitUrl": "git://github.com/etodd/dialogger.git",
     "sshUrl": "git@github.com:etodd/dialogger.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/etodd/dialogger",
     "homepage": null,
     "size": 298,
-    "stargazersCount": 112,
-    "watchersCount": 112,
+    "stargazersCount": 139,
+    "watchersCount": 139,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 16,
+    "forksCount": 21,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 112,
+    "watchers": 139,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "etodd",
       "id": 1226339,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1226339?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1226339?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/etodd",
       "htmlUrl": "https://github.com/etodd",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/etodd/dialogger/downloads",
     "deploymentsUrl": "https://api.github.com/repos/etodd/dialogger/deployments",
     "createdAt": "2016-02-15T23:55:38.000Z",
-    "updatedAt": "2017-05-01T18:57:13.000Z",
+    "updatedAt": "2017-10-20T20:24:26.000Z",
     "pushedAt": "2016-09-06T17:44:38.000Z",
     "gitUrl": "git://github.com/etodd/dialogger.git",
     "sshUrl": "git@github.com:etodd/dialogger.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/etodd/dialogger",
     "homepage": null,
     "size": 298,
-    "stargazersCount": 112,
-    "watchersCount": 112,
+    "stargazersCount": 139,
+    "watchersCount": 139,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 16,
+    "forksCount": 21,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
-    "watchers": 112,
+    "watchers": 139,
     "defaultBranch": "master"
   },
-  "networkCount": 16,
+  "networkCount": 21,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,19 +183,13 @@
     "scripts": {
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://Alamantus@github.com/Alamantus/dialogger.git"
-    },
+    "repository": "https://github.com/Alamantus/dialogger",
     "keywords": [
       "dialogue",
       "conversation",
       "choices"
     ],
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Alamantus/dialogger/issues"
-    },
     "homepage": "https://github.com/Alamantus/dialogger",
     "dependencies": {
       "backbone": "~1.3.3",
@@ -204,6 +200,11 @@
     },
     "devDependencies": {
       "electron-prebuilt": "~1.2.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Alamantus/dialogger/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -251,6 +252,7 @@
   },
   "filename": "Alamantus___Dialogger.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:16.067Z",
-  "packageLastFetchedAt": "2017-05-05T14:51:14.402Z"
+  "lastFetchedAt": "2017-10-23T22:16:18.899Z",
+  "packageLastFetchedAt": "2017-05-05T14:51:14.402Z",
+  "archived": false
 }

@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "private": true,
     "name": "map-maker",
@@ -99,7 +99,8 @@
     "devDependencies": {
       "browser-sync": "^2.11.1",
       "webpack-dev-server": "^1.14.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +147,6 @@
   "svnUrl": "https://github.com/timhuijgen/map-maker",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:07:25.547Z",
+  "lastFetchedAt": "2017-10-23T23:03:26.072Z",
   "packageLastFetchedAt": "2017-05-05T06:34:55.952Z"
 }

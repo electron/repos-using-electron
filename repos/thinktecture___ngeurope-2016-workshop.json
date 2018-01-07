@@ -5,7 +5,7 @@
   "owner": {
     "login": "thinktecture",
     "id": 1458091,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1458091?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1458091?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thinktecture",
     "htmlUrl": "https://github.com/thinktecture",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 10,
+  "forksCount": 11,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "thinktecture",
     "id": 1458091,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1458091?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1458091?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thinktecture",
     "htmlUrl": "https://github.com/thinktecture",
@@ -76,7 +76,7 @@
     "receivedEventsUrl": "https://api.github.com/users/thinktecture/received_events",
     "type": "Organization"
   },
-  "networkCount": 10,
+  "networkCount": 11,
   "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
@@ -84,10 +84,7 @@
     "version": "1.0.0",
     "description": "Sample for demonstrating various aspects of modern cross-platform applications.",
     "main": "gulpfile.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thinktecture/boardz-cross-platform-sample.git"
-    },
+    "repository": "https://github.com/thinktecture/boardz-cross-platform-sample",
     "scripts": {
       "postinstall": "typings install",
       "build-web": "gulp build-web",
@@ -109,9 +106,6 @@
       "watch-mobile-windows": "npm run build-mobile-windows && gulp start-mobile-windows"
     },
     "author": "Thinktecture AG <office@thinktecture.com>",
-    "bugs": {
-      "url": "https://github.com/thinktecture/boardz-cross-platform-sample/issues"
-    },
     "homepage": "https://github.com/thinktecture/boardz-cross-platform-sample#readme",
     "devDependencies": {
       "bootstrap": "^3.3.6",
@@ -173,6 +167,11 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "^0.19.27",
       "zone.js": "^0.6.23"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/thinktecture/boardz-cross-platform-sample/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   },
   "filename": "thinktecture___ngeurope-2016-workshop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:16.601Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:55.938Z"
+  "lastFetchedAt": "2017-10-24T00:13:30.203Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:55.938Z",
+  "archived": false
 }

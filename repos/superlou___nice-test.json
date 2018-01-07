@@ -5,7 +5,7 @@
   "owner": {
     "login": "superlou",
     "id": 709695,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/709695?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/709695?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/superlou",
     "htmlUrl": "https://github.com/superlou",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "Small description for nice-test goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -152,6 +148,12 @@
     },
     "dependencies": {
       "npid": "^0.4.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -179,6 +181,7 @@
   },
   "filename": "superlou___nice-test.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:54:03.528Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:56.785Z"
+  "lastFetchedAt": "2017-10-23T22:09:12.063Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:56.785Z",
+  "archived": false
 }

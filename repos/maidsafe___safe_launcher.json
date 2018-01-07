@@ -64,7 +64,7 @@
   },
   "networkCount": 43,
   "subscribersCount": 45,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "safe-launcher",
     "productName": "SAFE Launcher",
@@ -94,17 +94,11 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/maidsafe/safe_launcher.git"
-    },
+    "repository": "https://github.com/maidsafe/safe_launcher",
     "author": {
       "name": "MaidSafe",
       "email": "qa@maidsafe.net",
       "url": "https://maidsafe.net"
-    },
-    "bugs": {
-      "url": "https://github.com/maidsafe/safe_launcher/issues"
     },
     "keywords": [
       "maidsafe",
@@ -197,6 +191,11 @@
     "devEngines": {
       "node": "6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/maidsafe/safe_launcher/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +243,6 @@
   },
   "filename": "maidsafe___safe_launcher.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:43.278Z",
+  "lastFetchedAt": "2017-10-23T23:10:32.588Z",
   "packageLastFetchedAt": "2017-05-05T17:28:33.848Z"
 }

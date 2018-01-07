@@ -5,7 +5,7 @@
   "owner": {
     "login": "biirus",
     "id": 1442293,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1442293?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1442293?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/biirus",
     "htmlUrl": "https://github.com/biirus",
@@ -71,10 +71,7 @@
     "version": "0.0.1",
     "main": "./src/main.js",
     "author": "Ivan Burnaev",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/biirus/photy.app"
-    },
+    "repository": "https://github.com/biirus/photy.app",
     "scripts": {
       "dev": "./node_modules/.bin/gulp default",
       "start": "electron ./",
@@ -111,7 +108,8 @@
     },
     "buildOptions": {
       "prebuildDir": ".prebuild"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +136,7 @@
   },
   "filename": "biirus___photy.app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:28.279Z",
-  "packageLastFetchedAt": "2017-05-05T15:25:09.630Z"
+  "lastFetchedAt": "2017-10-24T00:16:51.203Z",
+  "packageLastFetchedAt": "2017-05-05T15:25:09.630Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "nnasoody",
     "id": 3522519,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3522519?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3522519?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nnasoody",
     "htmlUrl": "https://github.com/nnasoody",
@@ -76,19 +76,13 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nnasoody/electron-worker.git"
-    },
+    "repository": "https://github.com/nnasoody/electron-worker",
     "author": {
       "name": "Nima Nasoody",
       "email": "nnasoody@gmail.com",
       "url": "https://github.com/nnasoody"
     },
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/nnasoody/electron-worker/issues"
-    },
     "homepage": "https://github.com/nnasoody/electron-worker#readme",
     "keywords": [
       "electron",
@@ -101,12 +95,23 @@
       "mkdirp": "^0.5.0",
       "prompt": "^0.2.14"
     },
-    "maintainers": [
+    "owners": [
       {
         "name": "nima-nasoody",
         "email": "nnasoody@gmail.com"
       }
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nnasoody/electron-worker/issues"
+      },
+      "maintainers": [
+        {
+          "name": "nima-nasoody",
+          "email": "nnasoody@gmail.com"
+        }
+      ]
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +138,7 @@
   },
   "filename": "nnasoody___electron-worker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:54:52.484Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:08.935Z"
+  "lastFetchedAt": "2017-10-23T22:55:05.904Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:08.935Z",
+  "archived": false
 }

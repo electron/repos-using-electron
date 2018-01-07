@@ -5,7 +5,7 @@
   "owner": {
     "login": "mbrainiac",
     "id": 1453038,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1453038?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1453038?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mbrainiac",
     "htmlUrl": "https://github.com/mbrainiac",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/mbrainiac/font-manager-prebuilt/deployments",
   "createdAt": "2016-06-07T13:50:08.000Z",
   "updatedAt": "2017-02-11T03:56:36.000Z",
-  "pushedAt": "2017-02-13T04:14:10.000Z",
+  "pushedAt": "2017-07-18T03:48:45.000Z",
   "gitUrl": "git://github.com/mbrainiac/font-manager-prebuilt.git",
   "sshUrl": "git@github.com:mbrainiac/font-manager-prebuilt.git",
   "cloneUrl": "https://github.com/mbrainiac/font-manager-prebuilt.git",
   "svnUrl": "https://github.com/mbrainiac/font-manager-prebuilt",
   "homepage": null,
-  "size": 21,
+  "size": 19,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "Shell",
@@ -113,10 +113,7 @@
         "cache": ".electron-cache"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mbrainiac/font-manager-prebuilt.git"
-    },
+    "repository": "https://github.com/mbrainiac/font-manager-prebuilt",
     "keywords": [
       "font",
       "find",
@@ -130,11 +127,13 @@
     ],
     "author": "Nguyen Tien Dzung <ngtdungnt@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mbrainiac/font-manager-prebuilt/issues"
-    },
     "homepage": "https://github.com/mbrainiac/font-manager-prebuilt",
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mbrainiac/font-manager-prebuilt/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -161,6 +160,7 @@
   },
   "filename": "mbrainiac___font-manager-prebuilt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:37:39.312Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:01.208Z"
+  "lastFetchedAt": "2017-10-23T21:46:53.628Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:01.208Z",
+  "archived": false
 }

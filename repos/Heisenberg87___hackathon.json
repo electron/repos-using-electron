@@ -5,7 +5,7 @@
   "owner": {
     "login": "Heisenberg87",
     "id": 7046577,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7046577?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7046577?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Heisenberg87",
     "htmlUrl": "https://github.com/Heisenberg87",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,15 +88,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
     },
     "dependencies": {
       "ajax-request": "^1.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "Heisenberg87___hackathon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:06.826Z",
-  "packageLastFetchedAt": "2017-05-04T22:16:41.214Z"
+  "lastFetchedAt": "2017-10-24T00:08:52.450Z",
+  "packageLastFetchedAt": "2017-05-04T22:16:41.214Z",
+  "archived": false
 }

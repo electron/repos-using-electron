@@ -5,7 +5,7 @@
   "owner": {
     "login": "vim-sp",
     "id": 16489581,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16489581?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16489581?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vim-sp",
     "htmlUrl": "https://github.com/vim-sp",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "vim-sp",
     "id": 16489581,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16489581?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16489581?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vim-sp",
     "htmlUrl": "https://github.com/vim-sp",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "rhysd",
       "id": 823277,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/rhysd",
       "htmlUrl": "https://github.com/rhysd",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/rhysd/NyaoVim/downloads",
     "deploymentsUrl": "https://api.github.com/repos/rhysd/NyaoVim/deployments",
     "createdAt": "2015-10-23T18:08:11.000Z",
-    "updatedAt": "2017-05-04T07:29:14.000Z",
-    "pushedAt": "2016-12-30T02:08:13.000Z",
+    "updatedAt": "2017-10-21T22:34:59.000Z",
+    "pushedAt": "2017-10-16T14:28:40.000Z",
     "gitUrl": "git://github.com/rhysd/NyaoVim.git",
     "sshUrl": "git@github.com:rhysd/NyaoVim.git",
     "cloneUrl": "https://github.com/rhysd/NyaoVim.git",
     "svnUrl": "https://github.com/rhysd/NyaoVim",
     "homepage": "",
-    "size": 8391,
-    "stargazersCount": 1629,
-    "watchersCount": 1629,
+    "size": 8396,
+    "stargazersCount": 1759,
+    "watchersCount": 1759,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 42,
+    "forksCount": 45,
     "mirrorUrl": null,
-    "openIssuesCount": 38,
-    "openIssues": 38,
-    "watchers": 1629,
+    "archived": false,
+    "openIssuesCount": 39,
+    "openIssues": 39,
+    "watchers": 1759,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "rhysd",
       "id": 823277,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/rhysd",
       "htmlUrl": "https://github.com/rhysd",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/rhysd/NyaoVim/downloads",
     "deploymentsUrl": "https://api.github.com/repos/rhysd/NyaoVim/deployments",
     "createdAt": "2015-10-23T18:08:11.000Z",
-    "updatedAt": "2017-05-04T07:29:14.000Z",
-    "pushedAt": "2016-12-30T02:08:13.000Z",
+    "updatedAt": "2017-10-21T22:34:59.000Z",
+    "pushedAt": "2017-10-16T14:28:40.000Z",
     "gitUrl": "git://github.com/rhysd/NyaoVim.git",
     "sshUrl": "git@github.com:rhysd/NyaoVim.git",
     "cloneUrl": "https://github.com/rhysd/NyaoVim.git",
     "svnUrl": "https://github.com/rhysd/NyaoVim",
     "homepage": "",
-    "size": 8391,
-    "stargazersCount": 1629,
-    "watchersCount": 1629,
+    "size": 8396,
+    "stargazersCount": 1759,
+    "watchersCount": 1759,
     "language": "TypeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 42,
+    "forksCount": 45,
     "mirrorUrl": null,
-    "openIssuesCount": 38,
-    "openIssues": 38,
-    "watchers": 1629,
+    "archived": false,
+    "openIssuesCount": 39,
+    "openIssues": 39,
+    "watchers": 1759,
     "defaultBranch": "master"
   },
-  "networkCount": 42,
+  "networkCount": 45,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -197,10 +199,7 @@
       "start": "npm run dep && npm run build && npm run app",
       "clean": "rm -rf \"$(npm prefix)/build\" \"$(npm prefix)/typings\" \"$(npm prefix)/bower_components\" \"$(npm prefix)/node_modules\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/NyaoVim.git"
-    },
+    "repository": "https://github.com/rhysd/NyaoVim",
     "keywords": [
       "editor",
       "extensible",
@@ -214,9 +213,6 @@
     ],
     "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rhysd/NyaoVim/issues"
-    },
     "homepage": "https://github.com/rhysd/NyaoVim#readme",
     "dependencies": {
       "about-window": "^0.1.0",
@@ -230,6 +226,11 @@
       "browserify": "^12.0.1",
       "tsd": "^0.6.5",
       "typescript": "^1.7.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/NyaoVim/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -278,6 +279,7 @@
   "filename": "vim-sp___NyaoVim.json",
   "sourceRepo": "rhysd/NyaoVim",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:09.177Z",
-  "packageLastFetchedAt": "2017-05-05T17:22:26.184Z"
+  "lastFetchedAt": "2017-10-23T22:52:14.433Z",
+  "packageLastFetchedAt": "2017-05-05T17:22:26.184Z",
+  "archived": false
 }

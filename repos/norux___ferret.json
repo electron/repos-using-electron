@@ -5,7 +5,7 @@
   "owner": {
     "login": "norux",
     "id": 4457861,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4457861?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4457861?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/norux",
     "htmlUrl": "https://github.com/norux",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/norux/ferret/downloads",
   "deploymentsUrl": "https://api.github.com/repos/norux/ferret/deployments",
   "createdAt": "2016-09-24T04:09:42.000Z",
-  "updatedAt": "2016-09-25T13:27:37.000Z",
+  "updatedAt": "2017-06-04T14:37:10.000Z",
   "pushedAt": "2016-10-24T12:08:00.000Z",
   "gitUrl": "git://github.com/norux/ferret.git",
   "sshUrl": "git@github.com:norux/ferret.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/norux/ferret",
   "homepage": null,
   "size": 715,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -79,18 +79,12 @@
     "scripts": {
       "start": "electron . dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/norux/ferret.git"
-    },
+    "repository": "https://github.com/norux/ferret",
     "keywords": [
       "logviwer"
     ],
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/norux/ferret/issues"
-    },
     "homepage": "https://github.com/norux/ferret#readme",
     "devDependencies": {
       "electron-packager": "^8.0.0",
@@ -108,6 +102,11 @@
       "ssh2": "^0.5.2",
       "glob": "^7.1.0",
       "winston": "^2.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/norux/ferret/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "norux___ferret.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:42:15.012Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:26.695Z"
+  "lastFetchedAt": "2017-10-23T23:45:07.905Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:26.695Z",
+  "archived": false
 }

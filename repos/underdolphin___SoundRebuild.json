@@ -5,7 +5,7 @@
   "owner": {
     "login": "underdolphin",
     "id": 10368816,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10368816?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10368816?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/underdolphin",
     "htmlUrl": "https://github.com/underdolphin",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/underdolphin/SoundRebuild.git"
-    },
+    "repository": "https://github.com/underdolphin/SoundRebuild",
     "keywords": [
       "bms",
       "game",
@@ -91,9 +88,6 @@
     ],
     "author": "underdolphin (masato sueda)",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/underdolphin/SoundRebuild/issues"
-    },
     "homepage": "https://github.com/underdolphin/SoundRebuild#readme",
     "devDependencies": {
       "@types/body-parser": "0.0.33",
@@ -133,6 +127,11 @@
       "pixi.js": "^4.2.2",
       "systemjs": "^0.19.41",
       "zepto": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/underdolphin/SoundRebuild/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -160,6 +159,7 @@
   },
   "filename": "underdolphin___SoundRebuild.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:18.039Z",
-  "packageLastFetchedAt": "2017-05-05T17:17:18.446Z"
+  "lastFetchedAt": "2017-10-23T22:07:08.398Z",
+  "packageLastFetchedAt": "2017-05-05T17:17:18.446Z",
+  "archived": false
 }

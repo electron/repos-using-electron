@@ -5,7 +5,7 @@
   "owner": {
     "login": "jwronline",
     "id": 12004978,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12004978?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12004978?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jwronline",
     "htmlUrl": "https://github.com/jwronline",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "jwronline",
     "id": 12004978,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12004978?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12004978?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jwronline",
     "htmlUrl": "https://github.com/jwronline",
@@ -97,10 +97,7 @@
       "pack": "npm run build && electron-packager . --platform=all --icon=src/icon --overwrite --ignore=apt-cache",
       "test": "xo"
     },
-    "repository": {
-      "url": "https://github.com/jwronline/caw.git",
-      "type": "git"
-    },
+    "repository": "https://github.com/jwronline/caw",
     "author": "Haroen Viaene <hello@haroen.me>",
     "license": "Apache-2.0",
     "dependencies": {
@@ -140,7 +137,8 @@
           ]
         }
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -167,6 +165,7 @@
   },
   "filename": "jwronline___caw.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:25:39.844Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:43.859Z"
+  "lastFetchedAt": "2017-10-24T02:02:55.644Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:43.859Z",
+  "archived": false
 }

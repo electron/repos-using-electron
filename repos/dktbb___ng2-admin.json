@@ -5,7 +5,7 @@
   "owner": {
     "login": "dktbb",
     "id": 22629738,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/22629738?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/22629738?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dktbb",
     "htmlUrl": "https://github.com/dktbb",
@@ -215,16 +215,15 @@
       "postversion": "git push && git push --tags",
       "electron": "electron ./src/electron/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -253,6 +252,7 @@
   "filename": "dktbb___ng2-admin.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:53:19.126Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:56.852Z"
+  "lastFetchedAt": "2017-10-23T22:24:00.544Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:56.852Z",
+  "archived": false
 }

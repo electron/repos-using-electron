@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "clustering-market",
     "version": "1.0.0",
@@ -80,10 +80,7 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js && browserify -t [ babelify --presets [ react es2015 ] ] lib/src/caslr.js -o lib/caslr_compiled.js",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/felizalde/clustering-market.git"
-    },
+    "repository": "https://github.com/felizalde/clustering-market",
     "author": "Federico Elizalde",
     "license": "MIT",
     "devDependencies": {
@@ -108,7 +105,8 @@
       "redux-logger": "^2.6.1",
       "redux-thunk": "^2.1.0",
       "shell": "^0.3.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,6 @@
   },
   "filename": "felizalde___clustering-market.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:40:03.975Z",
+  "lastFetchedAt": "2017-10-24T00:11:19.667Z",
   "packageLastFetchedAt": "2017-05-05T17:29:38.955Z"
 }

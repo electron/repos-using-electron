@@ -84,7 +84,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "galaxy",
     "version": "0.0.1",
@@ -96,10 +96,7 @@
       "test": "mocha --compilers js:babel-core/register,css:test/css-null-compiler.js --recursive --reporter nyan test/*.js",
       "coverage": "istanbul cover _mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/thereactleague/galaxy.git"
-    },
+    "repository": "https://github.com/thereactleague/galaxy",
     "keywords": [
       "Solr",
       "Electron",
@@ -112,9 +109,6 @@
       "fbielejec"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/thereactleague/galaxy/issues"
-    },
     "homepage": "https://github.com/thereactleague/galaxy#readme",
     "devDependencies": {
       "autoprefixer": "^6.1.2",
@@ -170,6 +164,11 @@
       "react-router": "^2.8.0",
       "react-tap-event-plugin": "^1.0.0",
       "request": "^2.74.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/thereactleague/galaxy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -197,6 +196,6 @@
   },
   "filename": "thereactleague___galaxy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:07:19.066Z",
+  "lastFetchedAt": "2017-10-23T22:57:34.092Z",
   "packageLastFetchedAt": "2017-05-05T01:32:04.359Z"
 }

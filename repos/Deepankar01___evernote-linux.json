@@ -6,7 +6,7 @@
   "owner": {
     "login": "Deepankar01",
     "id": 8193233,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8193233?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8193233?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Deepankar01",
     "htmlUrl": "https://github.com/Deepankar01",
@@ -36,7 +36,7 @@
   "downloadsUrl": "https://api.github.com/repos/Deepankar01/evernote-linux/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Deepankar01/evernote-linux/deployments",
   "createdAt": "2017-03-06T05:40:14.000Z",
-  "updatedAt": "2017-03-22T04:50:37.000Z",
+  "updatedAt": "2017-06-20T15:48:22.000Z",
   "pushedAt": "2017-03-19T21:53:33.000Z",
   "gitUrl": "git://github.com/Deepankar01/evernote-linux.git",
   "sshUrl": "git@github.com:Deepankar01/evernote-linux.git",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 2,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:32:13.992Z",
+  "lastFetchedAt": "2017-10-23T23:41:17.916Z",
   "packageJSON": {
     "name": "evernote-linux",
     "version": "1.0.0",
@@ -84,10 +84,7 @@
       "start": "gulp build && react-scripts build && .\\node_modules\\.bin\\electron .",
       "build": "gulp build && react-scripts build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Deepankar01/evernote-linux.git"
-    },
+    "repository": "https://github.com/Deepankar01/evernote-linux",
     "keywords": [
       "Electron",
       "Evernote",
@@ -95,9 +92,6 @@
     ],
     "author": "Deepankar Agrawal",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Deepankar01/evernote-linux/issues"
-    },
     "homepage": "https://github.com/Deepankar01/evernote-linux#readme",
     "dependencies": {
       "electron": "^1.6.1",
@@ -117,8 +111,14 @@
       "gulp-less": "^3.3.0",
       "react-scripts": "^0.9.3",
       "standard": "^9.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Deepankar01/evernote-linux/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:48:18.078Z"
+  "packageLastFetchedAt": "2017-05-05T14:48:18.078Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jonatanR10",
     "id": 14837959,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/14837959?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/14837959?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jonatanR10",
     "htmlUrl": "https://github.com/jonatanR10",
@@ -79,10 +79,7 @@
       "osx": "electron-packager . myApp --platform=darwin --arch=x64",
       "build": "electron-packager . --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,13 +88,15 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "jonatanR10___JonatanR10.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:24:49.566Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:47.564Z"
+  "lastFetchedAt": "2017-10-24T00:07:44.458Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:47.564Z",
+  "archived": false
 }

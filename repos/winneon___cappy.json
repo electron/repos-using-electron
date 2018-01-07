@@ -5,7 +5,7 @@
   "owner": {
     "login": "winneon",
     "id": 4269491,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4269491?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4269491?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/winneon",
     "htmlUrl": "https://github.com/winneon",
@@ -112,7 +112,8 @@
       "sass": "node-sass --include-path sass --output-style compressed sass/base.scss app/dist/bundle.css",
       "start": "npm run dev && concurrently --kill-others --raw \"watch 'npm run sass' sass\" \"NODE_ENV=development electron app\"",
       "webpack": "webpack"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +140,7 @@
   },
   "filename": "winneon___cappy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:48.350Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:50.866Z"
+  "lastFetchedAt": "2017-10-23T22:24:40.770Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:50.866Z",
+  "archived": false
 }

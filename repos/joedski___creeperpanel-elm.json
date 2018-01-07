@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "creeperpanel-elm",
     "version": "0.1.0",
@@ -58,10 +58,7 @@
       "nw",
       "creeperhost"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joedski/creeperpanel-elm.git"
-    },
+    "repository": "https://github.com/joedski/creeperpanel-elm",
     "author": "Joseph Sikorski <joedski@gmail.com>",
     "license": "ISC",
     "devDependencies": {
@@ -71,7 +68,8 @@
       "javascript-brunch": "^1.7.1",
       "less-brunch": "^1.8.1",
       "electron-prebuilt": "^0.30.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/joedski/creeperpanel-elm",
@@ -118,6 +116,6 @@
   },
   "filename": "joedski___creeperpanel-elm.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:05:02.691Z",
+  "lastFetchedAt": "2017-10-24T00:03:56.153Z",
   "packageLastFetchedAt": "2017-05-05T17:51:56.560Z"
 }

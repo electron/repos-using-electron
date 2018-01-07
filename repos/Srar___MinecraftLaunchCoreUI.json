@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "MinecraftLaunchCoreUI",
     "version": "0.0.1",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron ./app/browser.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Srar/MinecraftLaunchCoreUI.git"
-    },
+    "repository": "https://github.com/Srar/MinecraftLaunchCoreUI",
     "author": "Srar",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
@@ -86,7 +83,8 @@
       "react": "^15.0.2",
       "react-dom": "^15.0.2",
       "webpack": "^1.13.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,6 @@
   "svnUrl": "https://github.com/Srar/MinecraftLaunchCoreUI",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:14:35.699Z",
+  "lastFetchedAt": "2017-10-23T22:58:02.598Z",
   "packageLastFetchedAt": "2017-05-05T17:31:21.256Z"
 }

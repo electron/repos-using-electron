@@ -5,7 +5,7 @@
   "owner": {
     "login": "azwreith",
     "id": 10354323,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10354323?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10354323?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azwreith",
     "htmlUrl": "https://github.com/azwreith",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/azwreith/elementary-browser/downloads",
   "deploymentsUrl": "https://api.github.com/repos/azwreith/elementary-browser/deployments",
   "createdAt": "2016-09-25T10:42:02.000Z",
-  "updatedAt": "2016-11-19T06:57:29.000Z",
+  "updatedAt": "2017-05-12T10:37:19.000Z",
   "pushedAt": "2016-12-16T05:26:20.000Z",
   "gitUrl": "git://github.com/azwreith/elementary-browser.git",
   "sshUrl": "git@github.com:azwreith/elementary-browser.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/azwreith/elementary-browser",
   "homepage": "",
   "size": 1192,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 0,
+  "watchersCount": 0,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 1,
+  "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -80,19 +80,13 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "nodemon --exec 'electron .'"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/azwreith/elementary-browser.git"
-    },
+    "repository": "https://github.com/azwreith/elementary-browser",
     "keywords": [
       "electron",
       "browser"
     ],
     "author": "Ujjwal Arora <arora.ujjwal@gmail.com> (http://ujjwalarora.xyz)",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/azwreith/elementary-browser/issues"
-    },
     "homepage": "https://github.com/azwreith/elementary-browser#readme",
     "devDependencies": {
       "electron": "^1.4.2",
@@ -100,6 +94,11 @@
     },
     "dependencies": {
       "jquery": "^3.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/azwreith/elementary-browser/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "azwreith___elementary-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:59:41.017Z",
-  "packageLastFetchedAt": "2017-05-05T15:16:55.413Z"
+  "lastFetchedAt": "2017-10-23T21:48:06.948Z",
+  "packageLastFetchedAt": "2017-05-05T15:16:55.413Z",
+  "archived": false
 }

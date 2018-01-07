@@ -5,7 +5,7 @@
   "owner": {
     "login": "cryptag",
     "id": 20253311,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20253311?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20253311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cryptag",
     "htmlUrl": "https://github.com/cryptag",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/cryptag/backchannel/deployments",
   "createdAt": "2016-06-28T20:34:00.000Z",
   "updatedAt": "2017-03-30T02:13:04.000Z",
-  "pushedAt": "2016-12-08T14:05:41.000Z",
+  "pushedAt": "2017-05-27T09:46:54.000Z",
   "gitUrl": "git://github.com/cryptag/backchannel.git",
   "sshUrl": "git@github.com:cryptag/backchannel.git",
   "cloneUrl": "https://github.com/cryptag/backchannel.git",
   "svnUrl": "https://github.com/cryptag/backchannel",
   "homepage": "https://www.cryptag.org/",
-  "size": 215,
+  "size": 217,
   "stargazersCount": 4,
   "watchersCount": 4,
   "language": "JavaScript",
@@ -61,11 +61,17 @@
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
+  },
   "organization": {
     "login": "cryptag",
     "id": 20253311,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/20253311?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/20253311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cryptag",
     "htmlUrl": "https://github.com/cryptag",
@@ -84,9 +90,6 @@
     "version": "0.1.0",
     "description": "Secure chat and file sharing app",
     "main": "main.js",
-    "bugs": {
-      "url": "https://github.com/elimisteve/backchannel/issues"
-    },
     "scripts": {
       "start": "node_modules/.bin/electron main.js",
       "build": "electron-packager ./ Backchannel --platform=darwin --arch=x64 --overwrite",
@@ -128,6 +131,11 @@
       "superagent": "^2.0.0",
       "superagent-prefix": "^0.0.2",
       "utf8": "^2.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/elimisteve/backchannel/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -156,6 +164,7 @@
   "filename": "cryptag___backchannel.json",
   "sourceRepo": "cryptag/cryptask",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:47.023Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:43.852Z"
+  "lastFetchedAt": "2017-10-23T22:53:10.588Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:43.852Z",
+  "archived": false
 }

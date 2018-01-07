@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "musicplayer",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/manojpandey/musicplayer.git"
-    },
+    "repository": "https://github.com/manojpandey/musicplayer",
     "keywords": [
       "music",
       "player",
@@ -91,12 +88,14 @@
     ],
     "author": "manojpandey",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/manojpandey/musicplayer/issues"
-    },
     "homepage": "https://github.com/manojpandey/musicplayer#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/manojpandey/musicplayer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   },
   "filename": "manojpandey___musicplayer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:33.773Z",
+  "lastFetchedAt": "2017-10-23T23:00:02.110Z",
   "packageLastFetchedAt": "2017-05-04T22:12:22.615Z"
 }

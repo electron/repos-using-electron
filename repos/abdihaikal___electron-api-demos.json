@@ -164,7 +164,7 @@
   },
   "networkCount": 384,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ElectronAPIDemos",
     "productName": "Electron API Demos",
@@ -189,10 +189,7 @@
       "prepare-release": "npm run package && npm run sign-exe && npm run installer && npm run sign-installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-api-demos.git"
-    },
+    "repository": "https://github.com/electron/electron-api-demos",
     "keywords": [
       "Electron",
       "API",
@@ -200,9 +197,6 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-api-demos/issues"
-    },
     "homepage": "https://github.com/electron/electron-api-demos#readme",
     "devDependencies": {
       "chai": "^3.4.1",
@@ -228,6 +222,11 @@
     "standard": {
       "env": {
         "mocha": true
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-api-demos/issues"
       }
     }
   },
@@ -277,6 +276,6 @@
   "svnUrl": "https://github.com/abdihaikal/electron-api-demos",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T16:45:14.886Z",
+  "lastFetchedAt": "2017-10-24T00:10:02.936Z",
   "packageLastFetchedAt": "2017-05-05T14:29:47.570Z"
 }

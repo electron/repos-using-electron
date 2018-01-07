@@ -5,7 +5,7 @@
   "owner": {
     "login": "disolution",
     "id": 19746503,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19746503?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19746503?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/disolution",
     "htmlUrl": "https://github.com/disolution",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "disolution",
     "id": 19746503,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19746503?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19746503?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/disolution",
     "htmlUrl": "https://github.com/disolution",
@@ -110,15 +110,9 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/disolution/molecule.git"
-    },
+    "repository": "https://github.com/disolution/molecule",
     "author": "Henry Kehlmann <henry@blooob.me> (https://github.com/madhenry)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/disolution/molecule/issues"
-    },
     "keywords": [
       "disolution",
       "projects",
@@ -233,8 +227,13 @@
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
     },
-    "directories": {
-      "test": "test"
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/disolution/molecule/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -262,6 +261,7 @@
   },
   "filename": "disolution___molecule.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:48.434Z",
-  "packageLastFetchedAt": "2017-05-05T17:00:56.868Z"
+  "lastFetchedAt": "2017-10-23T23:43:56.908Z",
+  "packageLastFetchedAt": "2017-05-05T17:00:56.868Z",
+  "archived": false
 }

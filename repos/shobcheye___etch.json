@@ -5,7 +5,7 @@
   "owner": {
     "login": "shobcheye",
     "id": 16422209,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16422209?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16422209?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shobcheye",
     "htmlUrl": "https://github.com/shobcheye",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "shobcheye",
     "id": 16422209,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16422209?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16422209?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shobcheye",
     "htmlUrl": "https://github.com/shobcheye",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "atom",
       "id": 1089146,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1089146?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1089146?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/atom",
       "htmlUrl": "https://github.com/atom",
@@ -93,27 +93,28 @@
     "downloadsUrl": "https://api.github.com/repos/atom/etch/downloads",
     "deploymentsUrl": "https://api.github.com/repos/atom/etch/deployments",
     "createdAt": "2015-07-14T23:22:29.000Z",
-    "updatedAt": "2017-04-26T12:33:48.000Z",
-    "pushedAt": "2017-04-20T11:22:50.000Z",
+    "updatedAt": "2017-10-14T07:34:51.000Z",
+    "pushedAt": "2017-08-25T14:21:10.000Z",
     "gitUrl": "git://github.com/atom/etch.git",
     "sshUrl": "git@github.com:atom/etch.git",
     "cloneUrl": "https://github.com/atom/etch.git",
     "svnUrl": "https://github.com/atom/etch",
     "homepage": "",
-    "size": 259,
-    "stargazersCount": 171,
-    "watchersCount": 171,
+    "size": 262,
+    "stargazersCount": 369,
+    "watchersCount": 369,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 18,
+    "forksCount": 29,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 4,
     "openIssues": 4,
-    "watchers": 171,
+    "watchers": 369,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "atom",
       "id": 1089146,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1089146?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1089146?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/atom",
       "htmlUrl": "https://github.com/atom",
@@ -153,30 +154,31 @@
     "downloadsUrl": "https://api.github.com/repos/atom/etch/downloads",
     "deploymentsUrl": "https://api.github.com/repos/atom/etch/deployments",
     "createdAt": "2015-07-14T23:22:29.000Z",
-    "updatedAt": "2017-04-26T12:33:48.000Z",
-    "pushedAt": "2017-04-20T11:22:50.000Z",
+    "updatedAt": "2017-10-14T07:34:51.000Z",
+    "pushedAt": "2017-08-25T14:21:10.000Z",
     "gitUrl": "git://github.com/atom/etch.git",
     "sshUrl": "git@github.com:atom/etch.git",
     "cloneUrl": "https://github.com/atom/etch.git",
     "svnUrl": "https://github.com/atom/etch",
     "homepage": "",
-    "size": 259,
-    "stargazersCount": 171,
-    "watchersCount": 171,
+    "size": 262,
+    "stargazersCount": 369,
+    "watchersCount": 369,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 18,
+    "forksCount": 29,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 4,
     "openIssues": 4,
-    "watchers": 171,
+    "watchers": 369,
     "defaultBranch": "master"
   },
-  "networkCount": 18,
+  "networkCount": 29,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -192,18 +194,12 @@
       "build": "node_modules/.bin/babel src --out-dir dist",
       "clean": "rm -rf dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nathansobo/etch.git"
-    },
+    "repository": "https://github.com/nathansobo/etch",
     "keywords": [
       "virtual-dom dom view element custom-elements dom-diff atom electron"
     ],
     "author": "Nathan Sobo <nathan@github.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nathansobo/etch/issues"
-    },
     "homepage": "https://github.com/nathansobo/etch",
     "devDependencies": {
       "babel": "^5.0.0",
@@ -224,6 +220,11 @@
         "it",
         "expect"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nathansobo/etch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -272,6 +273,7 @@
   "svnUrl": "https://github.com/shobcheye/etch",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:19:00.109Z",
-  "packageLastFetchedAt": "2017-05-05T17:32:24.499Z"
+  "lastFetchedAt": "2017-10-23T22:05:24.326Z",
+  "packageLastFetchedAt": "2017-05-05T17:32:24.499Z",
+  "archived": false
 }

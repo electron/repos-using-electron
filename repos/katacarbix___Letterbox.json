@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "letterbox",
     "version": "0.0.1",
@@ -61,10 +61,7 @@
         "email": "me@katacarbix.xyz"
       }
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/katacarbix/Letterbox.git"
-    },
+    "repository": "https://github.com/katacarbix/Letterbox",
     "private": true,
     "main": "index.js",
     "scripts": {
@@ -99,7 +96,8 @@
       "grunt-contrib-compass": "~0.7.0",
       "grunt-contrib-concat": "~0.3.0",
       "grunt-contrib-watch": "~0.5.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +144,6 @@
   "svnUrl": "https://github.com/katacarbix/Letterbox",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:28:22.613Z",
+  "lastFetchedAt": "2017-10-23T23:00:20.327Z",
   "packageLastFetchedAt": "2017-05-05T17:27:43.645Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "hedgerh",
     "id": 2524280,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2524280?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2524280?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hedgerh",
     "htmlUrl": "https://github.com/hedgerh",
@@ -20,12 +20,12 @@
   "description": "irc-moo electron client",
   "fork": false,
   "createdAt": "2015-11-14T19:22:54.000Z",
-  "updatedAt": "2016-05-19T09:16:32.000Z",
+  "updatedAt": "2017-06-10T10:34:56.000Z",
   "pushedAt": "2015-11-29T21:36:59.000Z",
   "homepage": "",
   "size": 608,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "dev",
   "permissions": {
     "admin": false,
@@ -72,19 +72,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -159,6 +153,11 @@
       "redux-thunk": "^1.0.0",
       "reselect": "^2.0.1",
       "slate-irc": "^0.8.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -206,6 +205,7 @@
   "svnUrl": "https://github.com/hedgerh/electron-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:37:48.910Z",
-  "packageLastFetchedAt": "2017-05-05T14:50:31.304Z"
+  "lastFetchedAt": "2017-10-23T23:45:35.198Z",
+  "packageLastFetchedAt": "2017-05-05T14:50:31.304Z",
+  "archived": false
 }

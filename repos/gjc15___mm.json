@@ -5,7 +5,7 @@
   "owner": {
     "login": "gjc15",
     "id": 19829880,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19829880?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19829880?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gjc15",
     "htmlUrl": "https://github.com/gjc15",
@@ -83,10 +83,7 @@
       "htmlvalidator": "html-validator --file=index.html",
       "test": "snyk test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MichMich/MagicMirror.git"
-    },
+    "repository": "https://github.com/MichMich/MagicMirror",
     "keywords": [
       "magic mirror",
       "smart mirror",
@@ -96,9 +93,6 @@
     "author": "Michael Teeuw",
     "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MichMich/MagicMirror/issues"
-    },
     "homepage": "https://github.com/MichMich/MagicMirror#readme",
     "devDependencies": {
       "electron-prebuilt": "latest",
@@ -121,6 +115,11 @@
       "valid-url": "latest",
       "walk": "latest",
       "rrule": "latest"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/MichMich/MagicMirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "filename": "gjc15___mm.json",
   "sourceRepo": "MichMich/MagicMirror",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:50.331Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:05.861Z"
+  "lastFetchedAt": "2017-10-23T22:26:29.750Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:05.861Z",
+  "archived": false
 }

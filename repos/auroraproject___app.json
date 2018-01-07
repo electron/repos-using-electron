@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "aurora",
     "version": "1.0.0",
@@ -87,18 +87,17 @@
     "scripts": {
       "start": "electron ./app/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/auroraproject/app.git"
-    },
+    "repository": "https://github.com/auroraproject/app",
     "author": "Justin O'Boyle and the open source community",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/auroraproject/app/issues"
-    },
     "homepage": "https://github.com/auroraproject/app#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/auroraproject/app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,6 @@
   },
   "filename": "auroraproject___app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:16:48.212Z",
+  "lastFetchedAt": "2017-10-23T23:00:48.831Z",
   "packageLastFetchedAt": "2017-05-05T15:35:10.294Z"
 }

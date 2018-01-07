@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "models-of-self-organization",
     "version": "0.1.0",
@@ -105,7 +105,8 @@
       "release": "gulp release --env=production",
       "start": "node ./tasks/start",
       "test": "node ./tasks/start --env=test"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +133,6 @@
   },
   "filename": "studioalgorhythmics___models-of-self-organization.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:20:54.013Z",
+  "lastFetchedAt": "2017-10-23T22:57:08.080Z",
   "packageLastFetchedAt": "2017-05-05T14:33:04.883Z"
 }

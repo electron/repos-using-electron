@@ -5,7 +5,7 @@
   "owner": {
     "login": "newbiethetest",
     "id": 5111568,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5111568?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5111568?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/newbiethetest",
     "htmlUrl": "https://github.com/newbiethetest",
@@ -20,21 +20,21 @@
   "description": "Linux下的音速启动器,管理文件和网址,支持文件拖拽,支持OSX平台",
   "fork": false,
   "createdAt": "2016-04-08T18:35:19.000Z",
-  "updatedAt": "2017-03-15T09:24:35.000Z",
+  "updatedAt": "2017-07-03T08:46:25.000Z",
   "pushedAt": "2016-04-18T06:06:12.000Z",
   "homepage": null,
   "size": 7827,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -70,14 +70,13 @@
       "webpack": "^1.12.14"
     },
     "devDependencies": {},
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/newbiethetest/uitools.git"
-    },
-    "bugs": {
-      "url": "https://github.com/newbiethetest/uitools/issues"
-    },
-    "homepage": "https://github.com/newbiethetest/uitools#readme"
+    "repository": "https://github.com/newbiethetest/uitools",
+    "homepage": "https://github.com/newbiethetest/uitools#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/newbiethetest/uitools/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/newbiethetest/uitools",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:12:26.458Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:45.997Z"
+  "lastFetchedAt": "2017-10-23T22:14:36.299Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:45.997Z",
+  "archived": false
 }

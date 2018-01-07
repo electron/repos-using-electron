@@ -5,7 +5,7 @@
   "owner": {
     "login": "athombv",
     "id": 8502422,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8502422?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8502422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/athombv",
     "htmlUrl": "https://github.com/athombv",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "athombv",
     "id": 8502422,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8502422?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8502422?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/athombv",
     "htmlUrl": "https://github.com/athombv",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "matjaz",
       "id": 10425,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/10425?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10425?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/matjaz",
       "htmlUrl": "https://github.com/matjaz",
@@ -111,6 +111,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "matjaz",
       "id": 10425,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/10425?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10425?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/matjaz",
       "htmlUrl": "https://github.com/matjaz",
@@ -171,6 +172,7 @@
     "hasPages": false,
     "forksCount": 1,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 0,
@@ -200,10 +202,7 @@
       "prepare-release": "npm run package && npm run installer",
       "release": "node ./script/release.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/matjaz/athom-desktop.git"
-    },
+    "repository": "https://github.com/matjaz/athom-desktop",
     "keywords": [
       "Homey"
     ],
@@ -232,7 +231,8 @@
       "env": {
         "mocha": true
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -280,6 +280,7 @@
   "svnUrl": "https://github.com/athombv/athom-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:39:53.002Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:34.053Z"
+  "lastFetchedAt": "2017-10-24T00:04:19.315Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:34.053Z",
+  "archived": false
 }

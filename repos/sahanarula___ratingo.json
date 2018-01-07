@@ -5,7 +5,7 @@
   "owner": {
     "login": "sahanarula",
     "id": 7797853,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7797853?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7797853?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sahanarula",
     "htmlUrl": "https://github.com/sahanarula",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,12 +68,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   "svnUrl": "https://github.com/sahanarula/ratingo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:22:05.631Z",
-  "packageLastFetchedAt": "2017-05-05T14:54:55.955Z"
+  "lastFetchedAt": "2017-10-24T00:18:45.963Z",
+  "packageLastFetchedAt": "2017-05-05T14:54:55.955Z",
+  "archived": false
 }

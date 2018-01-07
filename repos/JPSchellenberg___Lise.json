@@ -5,7 +5,7 @@
   "owner": {
     "login": "JPSchellenberg",
     "id": 9697985,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/9697985?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/9697985?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JPSchellenberg",
     "htmlUrl": "https://github.com/JPSchellenberg",
@@ -50,10 +50,7 @@
     "version": "1.0.0-prerelease.11",
     "description": "Low-cost interface for science experiments",
     "main": "./app/electron.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/JPSchellenberg/Lise"
-    },
+    "repository": "https://github.com/JPSchellenberg/Lise",
     "scripts": {
       "test": "NODE_ENV=test ./node_modules/.bin/mocha --watch --watch-extensions tsx,ts,test.ts --require ts-node/register --recursive ./**/*.test.ts",
       "clear": "rm -rf dist && rm -rf build",
@@ -126,7 +123,8 @@
         "target": "nsis",
         "iconUrl": "https://cdn0.iconfinder.com/data/icons/thin-hardware/24/thin-0332_computer_laptop_website_url_www-512.png"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/JPSchellenberg/Lise",
@@ -173,6 +171,7 @@
   },
   "filename": "JPSchellenberg___Lise.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:41.411Z",
-  "packageLastFetchedAt": "2017-05-05T14:36:45.508Z"
+  "lastFetchedAt": "2017-10-24T00:15:07.184Z",
+  "packageLastFetchedAt": "2017-05-05T14:36:45.508Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "pitaj",
     "id": 803701,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/803701?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/803701?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pitaj",
     "htmlUrl": "https://github.com/pitaj",
@@ -90,19 +90,18 @@
       "start": "node_modules/.bin/electron ./",
       "build": "node build.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pitaj/banner-scheduler.git"
-    },
+    "repository": "https://github.com/pitaj/banner-scheduler",
     "keywords": [
       "student"
     ],
     "author": "PitaJ",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pitaj/banner-scheduler/issues"
-    },
-    "homepage": "https://github.com/pitaj/banner-scheduler"
+    "homepage": "https://github.com/pitaj/banner-scheduler",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pitaj/banner-scheduler/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +128,7 @@
   },
   "filename": "pitaj___banner-scheduler.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:32:30.820Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:00.663Z"
+  "lastFetchedAt": "2017-10-23T21:43:45.770Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:00.663Z",
+  "archived": false
 }

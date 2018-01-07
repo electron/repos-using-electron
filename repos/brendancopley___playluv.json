@@ -5,7 +5,7 @@
   "owner": {
     "login": "brendancopley",
     "id": 15661730,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/15661730?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/15661730?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/brendancopley",
     "htmlUrl": "https://github.com/brendancopley",
@@ -224,16 +224,15 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -262,6 +261,7 @@
   "filename": "brendancopley___playluv.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:58.890Z",
-  "packageLastFetchedAt": "2017-05-05T15:03:03.280Z"
+  "lastFetchedAt": "2017-10-24T00:09:23.724Z",
+  "packageLastFetchedAt": "2017-05-05T15:03:03.280Z",
+  "archived": false
 }

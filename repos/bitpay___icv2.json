@@ -5,7 +5,7 @@
   "owner": {
     "login": "bitpay",
     "id": 2554930,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2554930?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2554930?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bitpay",
     "htmlUrl": "https://github.com/bitpay",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
+  "forksCount": 13,
   "openIssuesCount": 73,
   "openIssues": 73,
   "watchers": 1,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "bitpay",
     "id": 2554930,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2554930?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2554930?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bitpay",
     "htmlUrl": "https://github.com/bitpay",
@@ -56,7 +56,7 @@
     "receivedEventsUrl": "https://api.github.com/users/bitpay/received_events",
     "type": "Organization"
   },
-  "networkCount": 11,
+  "networkCount": 13,
   "subscribersCount": 4,
   "status": 200,
   "packageJSON": {
@@ -135,10 +135,7 @@
       "map-coverage": "remap-istanbul -i coverage/unmapped-json/coverage-final.json -o coverage/report-html -t html && remap-istanbul -i coverage/unmapped-json/coverage-final.json -o coverage/lcov.info -t lcovonly && remap-istanbul -i coverage/unmapped-json/coverage-final.json -o coverage/report.json -t json && remap-istanbul -i coverage/unmapped-json/coverage-final.json -t text-summary -o coverage/report-summary.txt && cat coverage/report-summary.txt && echo ''",
       "coveralls": "npm run coverage && cat coverage/lcov.info | coveralls"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/bitpay/icv2.git"
-    },
+    "repository": "https://github.com/bitpay/icv2",
     "cordovaPlugins": [
       "cordova-plugin-device",
       "cordova-plugin-console",
@@ -165,7 +162,8 @@
     "pre-commit": "coverage",
     "engines": {
       "node": ">=4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/bitpay/icv2",
@@ -212,6 +210,7 @@
   },
   "filename": "bitpay___icv2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:37:37.632Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:56.302Z"
+  "lastFetchedAt": "2017-10-23T22:55:42.646Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:56.302Z",
+  "archived": false
 }

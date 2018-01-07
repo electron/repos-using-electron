@@ -170,7 +170,7 @@
   },
   "networkCount": 142,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mattermost",
     "productName": "Mattermost",
@@ -239,10 +239,12 @@
         "target": "deb"
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "app": "dist",
-      "output": "release"
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "app": "dist",
+        "output": "release"
+      }
     }
   },
   "packageStatus": 200,
@@ -291,6 +293,6 @@
   "svnUrl": "https://github.com/St-Ex/desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:34:54.247Z",
+  "lastFetchedAt": "2017-10-23T23:00:59.083Z",
   "packageLastFetchedAt": "2017-05-05T14:38:24.586Z"
 }

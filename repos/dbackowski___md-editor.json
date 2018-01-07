@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "MdEditor",
     "version": "1.0.6",
@@ -62,10 +62,7 @@
       "prebuild": "webpack",
       "build": "electron-packager ./ --platform=darwin,linux --overwrite --ignore=bower_components --ignore=src --ignore=node_modules/electron-packager --ignore=node_modules/electron-prebuilt --ignore=node_modules/webpack --ignore=node_modules/extract-text-webpack-plugin --ignore=node_modules/style-loader --icon=./app/images/icon --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dbackowski/md-editor.git"
-    },
+    "repository": "https://github.com/dbackowski/md-editor",
     "author": "Damian Baćkowski",
     "license": "MIT",
     "devDependencies": {
@@ -79,7 +76,8 @@
       "markdown-it": "^8.3.1",
       "style-loader": "^0.17.0",
       "webpack": "^2.4.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,6 @@
   "svnUrl": "https://github.com/dbackowski/md-editor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:07:02.524Z",
+  "lastFetchedAt": "2017-10-23T23:07:22.824Z",
   "packageLastFetchedAt": "2017-05-05T17:32:21.454Z"
 }

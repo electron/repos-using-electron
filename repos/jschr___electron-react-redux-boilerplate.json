@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 33,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-redux-boilerplate",
     "version": "0.0.0",
@@ -106,7 +106,8 @@
       "private:serve": "babel-node scripts/serve.js",
       "private:compile": "babel app/ --copy-files --out-dir build",
       "private:clean": "rimraf build"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +154,6 @@
   "svnUrl": "https://github.com/jschr/electron-react-redux-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:32:55.892Z",
+  "lastFetchedAt": "2017-10-23T22:56:38.594Z",
   "packageLastFetchedAt": "2017-05-05T14:34:47.072Z"
 }

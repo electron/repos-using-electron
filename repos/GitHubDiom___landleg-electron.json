@@ -184,7 +184,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "landleg-electron",
     "version": "0.0.0",
@@ -232,7 +232,8 @@
       "webpack": "^1.13.0",
       "webpack-dev-server": "^1.14.1"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -260,6 +261,6 @@
   "filename": "GitHubDiom___landleg-electron.json",
   "sourceRepo": "ahonn/landleg-electron",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:24.913Z",
+  "lastFetchedAt": "2017-10-23T22:57:54.076Z",
   "packageLastFetchedAt": "2017-05-04T22:58:15.831Z"
 }

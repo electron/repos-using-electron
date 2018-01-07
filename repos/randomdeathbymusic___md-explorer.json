@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "explorer",
     "version": "0.0.1",
@@ -85,16 +85,15 @@
       "test": "npm install && npm start",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/randomdeathbymusic/explorer.git"
-    },
+    "repository": "https://github.com/randomdeathbymusic/explorer",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/randomdeathbymusic/explorer/issues"
-    },
-    "homepage": "https://github.com/randomdeathbymusic/explorer#readme"
+    "homepage": "https://github.com/randomdeathbymusic/explorer#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/randomdeathbymusic/explorer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -121,6 +120,6 @@
   },
   "filename": "randomdeathbymusic___md-explorer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:49:47.666Z",
+  "lastFetchedAt": "2017-10-23T23:10:05.543Z",
   "packageLastFetchedAt": "2017-05-05T14:59:05.663Z"
 }

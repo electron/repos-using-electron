@@ -58,7 +58,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "com.bridgefog.fog",
     "version": "1.0.2",
@@ -67,14 +67,8 @@
     "scripts": {},
     "private": true,
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bridgefog/desktop.git"
-    },
+    "repository": "https://github.com/bridgefog/desktop",
     "author": "",
-    "bugs": {
-      "url": "https://github.com/bridgefog/desktop/issues"
-    },
     "homepage": "https://github.com/bridgefog/desktop",
     "optionalDependencies": {
       "electron-packager": "^5.0.1",
@@ -137,6 +131,11 @@
       "through2-map": "^1.4.0",
       "tmp": "0.0.26",
       "ursa-purejs": "0.0.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bridgefog/desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -184,6 +183,6 @@
   "svnUrl": "https://github.com/bridgefog/desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:18:52.168Z",
+  "lastFetchedAt": "2017-10-23T23:05:15.575Z",
   "packageLastFetchedAt": "2017-05-05T17:35:22.434Z"
 }

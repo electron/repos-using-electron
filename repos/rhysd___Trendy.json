@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -20,12 +20,12 @@
   "description": "Menubar app to keep you in the loop of GitHub trends :octocat:",
   "fork": false,
   "createdAt": "2015-09-08T16:39:23.000Z",
-  "updatedAt": "2017-04-27T19:24:40.000Z",
+  "updatedAt": "2017-10-20T02:21:35.000Z",
   "pushedAt": "2015-10-11T06:31:34.000Z",
   "homepage": "http://rhysd.github.io/Trendy/",
   "size": 9364,
-  "stargazersCount": 148,
-  "watchersCount": 148,
+  "stargazersCount": 151,
+  "watchersCount": 151,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 7,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 148,
+  "watchers": 151,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -61,10 +61,7 @@
       "stream": "./bin/cli.js"
     },
     "author": "rhysd <lin90162@yahoo.co.jp>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rhysd/Trendy.git"
-    },
+    "repository": "https://github.com/rhysd/Trendy",
     "keywords": [
       "GitHub",
       "trend",
@@ -72,9 +69,6 @@
       "menubar",
       "Electron"
     ],
-    "bugs": {
-      "url": "https://github.com/rhysd/Trendy/issues"
-    },
     "license": "MIT",
     "scripts": {
       "start": "./bin/cli.js"
@@ -93,6 +87,11 @@
       "browserify": "^11.0.1",
       "electron-prebuilt": "^0.33.0",
       "typescript": "^1.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/Trendy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "rhysd___Trendy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:09.010Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:14.519Z"
+  "lastFetchedAt": "2017-10-24T00:17:51.963Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:14.519Z",
+  "archived": false
 }

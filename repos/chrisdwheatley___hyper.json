@@ -184,7 +184,7 @@
   },
   "networkCount": 1147,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyper",
     "version": "0.8.1",
@@ -298,7 +298,8 @@
       "postinstall": "install-app-deps",
       "pack": "npm run build && build --dir && babel --no-comments --compact --minified --out-file app/dist/bundle.js app/dist/bundle.js",
       "dist": "npm run build && build"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -326,6 +327,6 @@
   "filename": "chrisdwheatley___hyper.json",
   "sourceRepo": "zeit/hyperterm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:58.688Z",
+  "lastFetchedAt": "2017-10-23T23:08:22.585Z",
   "packageLastFetchedAt": "2017-05-05T14:47:58.141Z"
 }

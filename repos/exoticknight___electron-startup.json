@@ -5,7 +5,7 @@
   "owner": {
     "login": "exoticknight",
     "id": 1171407,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1171407?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1171407?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/exoticknight",
     "htmlUrl": "https://github.com/exoticknight",
@@ -85,7 +85,8 @@
       "start": "npm run build:js && npm run build:css && electron main.js 2>&1 | silence-chromium",
       "package": "npm run release:js && npm run release:css && electron-packager . Radioit --icon=static/app.ico"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +133,7 @@
   "svnUrl": "https://github.com/exoticknight/electron-startup",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:47:25.243Z",
-  "packageLastFetchedAt": "2017-05-05T15:21:24.136Z"
+  "lastFetchedAt": "2017-10-23T23:37:31.521Z",
+  "packageLastFetchedAt": "2017-05-05T15:21:24.136Z",
+  "archived": false
 }

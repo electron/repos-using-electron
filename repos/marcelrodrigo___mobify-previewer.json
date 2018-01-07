@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mobify-previewer",
     "version": "0.0.1",
@@ -88,10 +88,7 @@
     "scripts": {
       "start": "electron dist/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/marcelrodrigo/mobify-previewer.git"
-    },
+    "repository": "https://github.com/marcelrodrigo/mobify-previewer",
     "keywords": [
       "Mobify",
       "electron",
@@ -100,10 +97,12 @@
     ],
     "author": "marcelrodrigo",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/marcelrodrigo/mobify-previewer/issues"
-    },
-    "homepage": "https://github.com/marcelrodrigo/mobify-previewer#readme"
+    "homepage": "https://github.com/marcelrodrigo/mobify-previewer#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/marcelrodrigo/mobify-previewer/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +129,6 @@
   },
   "filename": "marcelrodrigo___mobify-previewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:54:51.847Z",
+  "lastFetchedAt": "2017-10-23T23:03:40.593Z",
   "packageLastFetchedAt": "2017-05-05T14:58:56.580Z"
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 37,
   "subscribersCount": 21,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "caption",
     "productName": "Caption",
@@ -93,10 +93,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gielcobben/Caption.git"
-    },
+    "repository": "https://github.com/gielcobben/Caption",
     "author": {
       "name": "Giel Cobben",
       "email": "g.cobben@gmail.com",
@@ -201,7 +198,8 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -228,6 +226,6 @@
   },
   "filename": "gielcobben___Caption.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:25.781Z",
+  "lastFetchedAt": "2017-10-24T00:10:57.185Z",
   "packageLastFetchedAt": "2017-05-05T17:53:36.855Z"
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-boilerplate",
     "version": "0.0.1",
@@ -93,15 +93,13 @@
       "electron-packager": "^8.1.0",
       "gulp": "^3.9.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pedro-lucas/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/pedro-lucas/electron-boilerplate",
     "dependencies": {
       "jquery": "^3.1.0",
       "octicons": "^4.2.0",
       "underscore": "^1.8.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,6 @@
   },
   "filename": "pedro-lucas___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:04:36.268Z",
+  "lastFetchedAt": "2017-10-23T23:06:12.828Z",
   "packageLastFetchedAt": "2017-05-05T15:24:44.624Z"
 }

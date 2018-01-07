@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 9,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-markdown-editor",
     "productName": "ElectronMarkdownEditor",
@@ -69,10 +69,7 @@
       "build:win": "electron-packager . $npm_package_productName --out=dist --arch=all --platform=win32 --ignore='^/dist$' --prune --asar --overwrite --icon=./resources/icon.ico --version=$npm_package_electronVersion --app-version=$npm_package_version",
       "build:linux": "electron-packager . $npm_package_productName --out=dist --arch=x64 --platform=linux --ignore='^/dist$' --prune --asar --overwrite --icon=./resources/icon.png --version=$npm_package_electronVersion --app-version=$npm_package_version"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/diversen/electron-markdown-editor.git"
-    },
+    "repository": "https://github.com/diversen/electron-markdown-editor",
     "author": "Dennis Iversen",
     "license": "MIT",
     "dependencies": {
@@ -96,7 +93,8 @@
     },
     "devDependencies": {
       "electron": "^1.4.15"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,6 @@
   "svnUrl": "https://github.com/diversen/electron-markdown-editor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:22:16.730Z",
+  "lastFetchedAt": "2017-10-23T23:08:28.329Z",
   "packageLastFetchedAt": "2017-05-04T22:20:51.421Z"
 }

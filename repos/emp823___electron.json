@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron",
     "productName": "Electron",
@@ -105,7 +105,8 @@
     "devDependencies": {
       "electron-packager": "^4.1.2",
       "electron-prebuilt": "^0.27.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +133,6 @@
   },
   "filename": "emp823___electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:44:20.304Z",
+  "lastFetchedAt": "2017-10-23T23:08:54.330Z",
   "packageLastFetchedAt": "2017-05-05T01:24:43.367Z"
 }

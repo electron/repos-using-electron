@@ -5,7 +5,7 @@
   "owner": {
     "login": "jkup",
     "id": 490294,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/490294?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/490294?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jkup",
     "htmlUrl": "https://github.com/jkup",
@@ -76,19 +76,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jkup/startr.git"
-    },
+    "repository": "https://github.com/jkup/startr",
     "author": {
       "name": "Jon Kuperman",
       "email": "jon.kuperman@gmail.com",
       "url": "https://jonkuperman.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jkup/startr/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -165,6 +159,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jkup/startr/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -212,6 +211,7 @@
   "svnUrl": "https://github.com/jkup/startr",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:05:41.196Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:30.358Z"
+  "lastFetchedAt": "2017-10-23T22:12:27.290Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:30.358Z",
+  "archived": false
 }

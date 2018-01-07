@@ -5,7 +5,7 @@
   "owner": {
     "login": "prsolucoes",
     "id": 395096,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/395096?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/395096?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/prsolucoes",
     "htmlUrl": "https://github.com/prsolucoes",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/prsolucoes/go-electron.git"
-    },
+    "repository": "https://github.com/prsolucoes/go-electron",
     "keywords": [
       "Go",
       "Golang",
@@ -84,12 +81,14 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/prsolucoes/go-electron/issues"
-    },
     "homepage": "https://github.com/prsolucoes/go-electron",
     "devDependencies": {
       "electron-prebuilt": "^1.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/prsolucoes/go-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "prsolucoes___go-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:26:44.990Z",
-  "packageLastFetchedAt": "2017-05-04T22:40:22.532Z"
+  "lastFetchedAt": "2017-10-23T22:31:14.260Z",
+  "packageLastFetchedAt": "2017-05-04T22:40:22.532Z",
+  "archived": false
 }

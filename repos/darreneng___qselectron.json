@@ -5,7 +5,7 @@
   "owner": {
     "login": "darreneng",
     "id": 11209547,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/11209547?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/11209547?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/darreneng",
     "htmlUrl": "https://github.com/darreneng",
@@ -80,10 +80,7 @@
       "start": "webpack --display-error-details; electron .",
       "start:debug": "webpack --display-error-details --devtool source-map; electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -131,6 +125,11 @@
         "es6": true,
         "node": true
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   "filename": "darreneng___qselectron.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:28.531Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:23.105Z"
+  "lastFetchedAt": "2017-10-24T00:09:11.442Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:23.105Z",
+  "archived": false
 }

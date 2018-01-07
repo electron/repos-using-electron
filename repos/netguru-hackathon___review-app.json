@@ -5,7 +5,7 @@
   "owner": {
     "login": "netguru-hackathon",
     "id": 10065025,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10065025?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10065025?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/netguru-hackathon",
     "htmlUrl": "https://github.com/netguru-hackathon",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "netguru-hackathon",
     "id": 10065025,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10065025?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10065025?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/netguru-hackathon",
     "htmlUrl": "https://github.com/netguru-hackathon",
@@ -64,10 +64,6 @@
     "version": "0.0.0",
     "description": "Small description for review-app goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "main": "app.js",
     "scripts": {
       "build": "ember build",
@@ -102,6 +98,12 @@
       "ember-data": "2.1.0",
       "ember-disable-proxy-controllers": "^1.0.0",
       "ember-export-application-global": "^1.0.3"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +151,7 @@
   "svnUrl": "https://github.com/netguru-hackathon/review-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:25:43.870Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:57.882Z"
+  "lastFetchedAt": "2017-10-23T23:42:51.914Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:57.882Z",
+  "archived": false
 }

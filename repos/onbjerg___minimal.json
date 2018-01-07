@@ -5,7 +5,7 @@
   "owner": {
     "login": "onbjerg",
     "id": 8862627,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/8862627?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/8862627?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/onbjerg",
     "htmlUrl": "https://github.com/onbjerg",
@@ -20,21 +20,21 @@
   "description": ":link: a beautiful and modern IRC client powered by the web",
   "fork": false,
   "createdAt": "2015-08-20T17:09:05.000Z",
-  "updatedAt": "2017-02-04T21:58:12.000Z",
+  "updatedAt": "2017-10-01T10:15:35.000Z",
   "pushedAt": "2017-02-04T21:58:22.000Z",
   "homepage": "",
   "size": 17,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 0,
+  "forksCount": 1,
+  "openIssuesCount": 0,
+  "openIssues": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,27 +42,21 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "networkCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "minimal",
     "version": "1.0.0",
     "description": "A beautiful and modern IRC client",
     "main": "index.js",
-    "bugs": {
-      "url": "https://github.com/onbjerg/minimal/issues"
-    },
     "homepage": "https://github.com/onbjerg/minimal#readme",
     "scripts": {
       "test": "standard",
       "start": "electron index.js",
       "package": "node pkg.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/onbjerg/minimal.git"
-    },
+    "repository": "https://github.com/onbjerg/minimal",
     "keywords": [
       "irc",
       "chat",
@@ -82,6 +76,11 @@
       "inherits": "^2.0.1",
       "lodash": "^3.10.1",
       "virtual-dom": "^2.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/onbjerg/minimal/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "onbjerg___minimal.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:36.339Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:24.244Z"
+  "lastFetchedAt": "2017-10-23T21:42:08.876Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:24.244Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "hinnerkoetting",
     "id": 1167629,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1167629?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1167629?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hinnerkoetting",
     "htmlUrl": "https://github.com/hinnerkoetting",
@@ -79,10 +79,7 @@
       "release": "npm run clean && npm install && npm run release-zip-packager && npm run release-mac",
       "debug": "cd app && npm run debug"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hinnerkoetting/tunein-recorder/"
-    },
+    "repository": "https://github.com/hinnerkoetting/tunein-recorder",
     "author": "Hinnerk Oetting",
     "license": "MIT",
     "devDependencies": {
@@ -91,7 +88,8 @@
       "electron-prebuilt": "^1.2.3",
       "electron-zip-packager": "1.0.4",
       "rimraf": "^2.5.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,7 @@
   "filename": "hinnerkoetting___tin-recorder.json",
   "sourceRepo": "hinnerkoetting/tunein-recorder",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T11:04:13.472Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:47.138Z"
+  "lastFetchedAt": "2017-10-23T23:39:33.044Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:47.138Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 16,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-spawn",
     "version": "5.0.0",
@@ -64,10 +64,7 @@
     ],
     "author": "max ogden",
     "license": "BSD-2-Clause",
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/maxogden/electron-spawn.git"
-    },
+    "repository": "https://github.com/maxogden/electron-spawn",
     "standard": {
       "ignore": [
         "cli.js"
@@ -80,7 +77,8 @@
     "devDependencies": {
       "standard": "^4.5.4",
       "tape": "^4.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,6 @@
   "svnUrl": "https://github.com/maxogden/electron-spawn",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:49:58.129Z",
+  "lastFetchedAt": "2017-10-23T23:09:51.350Z",
   "packageLastFetchedAt": "2017-05-05T17:51:11.451Z"
 }

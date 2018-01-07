@@ -6,7 +6,7 @@
   "owner": {
     "login": "ramanan12345",
     "id": 2283456,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2283456?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2283456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ramanan12345",
     "htmlUrl": "https://github.com/ramanan12345",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "weexteam",
       "id": 19679046,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/19679046?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19679046?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/weexteam",
       "htmlUrl": "https://github.com/weexteam",
@@ -100,7 +100,7 @@
     "downloadsUrl": "https://api.github.com/repos/weexteam/weex-ide/downloads",
     "deploymentsUrl": "https://api.github.com/repos/weexteam/weex-ide/deployments",
     "createdAt": "2016-06-29T12:42:11.000Z",
-    "updatedAt": "2017-04-16T14:49:27.000Z",
+    "updatedAt": "2017-06-22T09:10:30.000Z",
     "pushedAt": "2016-07-18T09:22:51.000Z",
     "gitUrl": "git://github.com/weexteam/weex-ide.git",
     "sshUrl": "git@github.com:weexteam/weex-ide.git",
@@ -108,8 +108,8 @@
     "svnUrl": "https://github.com/weexteam/weex-ide",
     "homepage": null,
     "size": 194,
-    "stargazersCount": 38,
-    "watchersCount": 38,
+    "stargazersCount": 41,
+    "watchersCount": 41,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -118,9 +118,10 @@
     "hasPages": false,
     "forksCount": 11,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 38,
+    "archived": false,
+    "openIssuesCount": 3,
+    "openIssues": 3,
+    "watchers": 41,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "weexteam",
       "id": 19679046,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/19679046?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/19679046?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/weexteam",
       "htmlUrl": "https://github.com/weexteam",
@@ -160,7 +161,7 @@
     "downloadsUrl": "https://api.github.com/repos/weexteam/weex-ide/downloads",
     "deploymentsUrl": "https://api.github.com/repos/weexteam/weex-ide/deployments",
     "createdAt": "2016-06-29T12:42:11.000Z",
-    "updatedAt": "2017-04-16T14:49:27.000Z",
+    "updatedAt": "2017-06-22T09:10:30.000Z",
     "pushedAt": "2016-07-18T09:22:51.000Z",
     "gitUrl": "git://github.com/weexteam/weex-ide.git",
     "sshUrl": "git@github.com:weexteam/weex-ide.git",
@@ -168,8 +169,8 @@
     "svnUrl": "https://github.com/weexteam/weex-ide",
     "homepage": null,
     "size": 194,
-    "stargazersCount": 38,
-    "watchersCount": 38,
+    "stargazersCount": 41,
+    "watchersCount": 41,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -178,9 +179,10 @@
     "hasPages": false,
     "forksCount": 11,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 38,
+    "archived": false,
+    "openIssuesCount": 3,
+    "openIssues": 3,
+    "watchers": 41,
     "defaultBranch": "master"
   },
   "networkCount": 11,
@@ -199,10 +201,7 @@
       "prebuild": "rm -rf ./package/*",
       "build": "npm run pack-app && npm run make-dmg"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:weexteam/weex-ide.git"
-    },
+    "repository": "https://github.com/weexteam/weex-ide",
     "keywords": [
       "weex",
       "IDE",
@@ -222,7 +221,8 @@
       "local-ip": "^1.0.1",
       "serve-static": "^1.11.1",
       "weex-transformer": "^0.3.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -249,6 +249,7 @@
   },
   "sourceRepo": "weexteam/weex-ide",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:50.551Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:34.915Z"
+  "lastFetchedAt": "2017-10-24T00:06:08.081Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:34.915Z",
+  "archived": false
 }

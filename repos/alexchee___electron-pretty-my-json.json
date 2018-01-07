@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pretty-my-json",
     "version": "0.0.1",
@@ -75,10 +75,7 @@
       "start": "electron .",
       "package": "electron-packager . --all --out=out"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/alexchee/electron-pretty-my-json.git"
-    },
+    "repository": "https://github.com/alexchee/electron-pretty-my-json",
     "keywords": [
       "json",
       "node",
@@ -101,7 +98,8 @@
       "pretty-data": "^0.40.0",
       "react": "^15.3.0",
       "react-dom": "^15.3.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,6 @@
   },
   "filename": "alexchee___electron-pretty-my-json.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:10.331Z",
+  "lastFetchedAt": "2017-10-23T23:09:59.114Z",
   "packageLastFetchedAt": "2017-05-05T01:31:45.208Z"
 }

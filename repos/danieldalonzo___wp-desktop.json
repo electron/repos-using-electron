@@ -164,15 +164,12 @@
   },
   "networkCount": 113,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "WordPressDesktop",
     "productName": "WordPress.com",
     "version": "1.7.0-beta1",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Automattic/wp-desktop/"
-    },
+    "repository": "https://github.com/Automattic/wp-desktop",
     "private": true,
     "description": "Desktop version of WordPress.com",
     "main": "build/desktop.js",
@@ -223,7 +220,8 @@
       "portscanner": "^1.0.0",
       "spellchecker": "^3.2.3",
       "superagent": "^1.4.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -271,6 +269,6 @@
   "svnUrl": "https://github.com/danieldalonzo/wp-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:10:25.280Z",
+  "lastFetchedAt": "2017-10-24T00:10:04.422Z",
   "packageLastFetchedAt": "2017-05-05T17:12:05.689Z"
 }

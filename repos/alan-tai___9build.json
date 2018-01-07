@@ -5,7 +5,7 @@
   "owner": {
     "login": "alan-tai",
     "id": 17396307,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17396307?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17396307?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alan-tai",
     "htmlUrl": "https://github.com/alan-tai",
@@ -89,13 +89,7 @@
     ],
     "author": "Alan Tai <alan@9gag.com>",
     "license": "Apache-2.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/alan-tai/9build.git"
-    },
-    "bugs": {
-      "url": "https://github.com/alan-tai/9build/issues"
-    },
+    "repository": "https://github.com/alan-tai/9build",
     "devDependencies": {
       "babel-eslint": "^7.0.0",
       "electron": "^1.4.4",
@@ -125,7 +119,12 @@
     "os": [
       "win32",
       "darwin"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alan-tai/9build/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +151,7 @@
   },
   "filename": "alan-tai___9build.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:59.645Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:30.892Z"
+  "lastFetchedAt": "2017-10-23T22:54:52.945Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:30.892Z",
+  "archived": false
 }

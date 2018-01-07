@@ -5,7 +5,7 @@
   "owner": {
     "login": "HelixOne",
     "id": 13632051,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13632051?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13632051?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HelixOne",
     "htmlUrl": "https://github.com/HelixOne",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "HelixOne",
     "id": 13632051,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/13632051?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/13632051?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/HelixOne",
     "htmlUrl": "https://github.com/HelixOne",
@@ -96,10 +96,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/HelixOne/letojs.git"
-    },
+    "repository": "https://github.com/HelixOne/letojs",
     "keywords": [
       "leto"
     ],
@@ -108,13 +105,15 @@
       "email": "leto@helix.one"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/HelixOne/letojs/issues"
-    },
     "homepage": "https://github.com/HelixOne/letojs#readme",
     "dependencies": {
       "commander": "^2.9.0",
       "fs-extra": "^0.26.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/HelixOne/letojs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "HelixOne___letojs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:05:41.292Z",
-  "packageLastFetchedAt": "2017-05-04T22:47:53.186Z"
+  "lastFetchedAt": "2017-10-24T00:07:12.715Z",
+  "packageLastFetchedAt": "2017-05-04T22:47:53.186Z",
+  "archived": false
 }

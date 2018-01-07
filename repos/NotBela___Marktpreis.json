@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "EMonkey",
     "version": "1.0.0",
@@ -82,7 +82,8 @@
     "scripts": {
       "start": "./node_modules/.bin/electron .",
       "compile": "electron-packager ./ E-Monkeys-Marktpreise --platform=win32 --arch=x64 --icon=Monkey.png --asar"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,6 +110,6 @@
   },
   "filename": "NotBela___Marktpreis.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:46:13.196Z",
+  "lastFetchedAt": "2017-10-23T22:56:24.578Z",
   "packageLastFetchedAt": "2017-05-04T22:39:23.160Z"
 }

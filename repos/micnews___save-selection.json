@@ -5,7 +5,7 @@
   "owner": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-04-21T10:49:04.000Z",
   "updatedAt": "2016-04-21T10:59:31.000Z",
-  "pushedAt": "2017-04-20T23:03:26.000Z",
+  "pushedAt": "2017-05-27T20:07:03.000Z",
   "homepage": null,
-  "size": 22,
+  "size": 23,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 67,
-  "openIssues": 67,
+  "openIssuesCount": 69,
+  "openIssues": 69,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -45,7 +45,7 @@
   "organization": {
     "login": "micnews",
     "id": 7944468,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7944468?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7944468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/micnews",
     "htmlUrl": "https://github.com/micnews",
@@ -57,7 +57,7 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 11,
+  "subscribersCount": 12,
   "status": 200,
   "packageJSON": {
     "name": "save-selection",
@@ -71,15 +71,9 @@
       "prepublish": "npm run build",
       "posttest": "readme package.json > readme.md"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/micnews/save-selection.git"
-    },
+    "repository": "https://github.com/micnews/save-selection",
     "author": "mic.com",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/micnews/save-selection/issues"
-    },
     "homepage": "https://github.com/micnews/save-selection#readme",
     "devDependencies": {
       "babel-cli": "^6.7.7",
@@ -96,6 +90,11 @@
     },
     "dependencies": {
       "get-selection-range-from-elm": "^2.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/micnews/save-selection/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,6 +142,7 @@
   "svnUrl": "https://github.com/micnews/save-selection",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:23:32.285Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:32.924Z"
+  "lastFetchedAt": "2017-10-23T22:10:29.519Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:32.924Z",
+  "archived": false
 }

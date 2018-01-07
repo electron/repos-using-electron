@@ -5,7 +5,7 @@
   "owner": {
     "login": "Synchronized-TV",
     "id": 8123918,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8123918?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8123918?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Synchronized-TV",
     "htmlUrl": "https://github.com/Synchronized-TV",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Synchronized-TV",
     "id": 8123918,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8123918?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8123918?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Synchronized-TV",
     "htmlUrl": "https://github.com/Synchronized-TV",
@@ -94,19 +94,13 @@
     "bin": {
       "electron-live-preview": "./start.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Synchronized-TV/electron-live-preview.git"
-    },
+    "repository": "https://github.com/Synchronized-TV/electron-live-preview",
     "authors": [
       "Alexis Kofman <alexis.kofman@synchronized.tv>",
       "Julien De Luca <julien.deluca@synchronized.tv>",
       "Julien Bouquillon <julien.bouquillon@synchronized.tv>"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Synchronized-TV/electron-live-preview/issues"
-    },
     "keywords": [
       "electron",
       "react",
@@ -136,6 +130,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Synchronized-TV/electron-live-preview/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "Synchronized-TV___electron-live-preview.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:12:03.654Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:25.287Z"
+  "lastFetchedAt": "2017-10-23T21:45:17.632Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:25.287Z",
+  "archived": false
 }

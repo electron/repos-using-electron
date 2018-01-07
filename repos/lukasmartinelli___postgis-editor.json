@@ -50,17 +50,14 @@
   },
   "networkCount": 8,
   "subscribersCount": 15,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "postgis-editor",
     "version": "1.2.1",
     "description": "A PostGIS SQL query editor focused on accessible spatial development.",
     "main": "main.js",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lukasmartinelli/postgis-editor.git"
-    },
+    "repository": "https://github.com/lukasmartinelli/postgis-editor",
     "scripts": {
       "start": "electron main.js",
       "build": "npm run build-es6 && npm run build-sass",
@@ -119,7 +116,8 @@
       "react-modal": "^1.4.0",
       "react-virtualized": "^7.12.1",
       "turf": "^3.0.14"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -166,6 +164,6 @@
   "svnUrl": "https://github.com/lukasmartinelli/postgis-editor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:20:11.077Z",
+  "lastFetchedAt": "2017-10-23T23:07:05.573Z",
   "packageLastFetchedAt": "2017-05-05T01:29:53.445Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "draw-a-thing",
     "id": 17970157,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17970157?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17970157?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/draw-a-thing",
     "htmlUrl": "https://github.com/draw-a-thing",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "draw-a-thing",
     "id": 17970157,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17970157?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17970157?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/draw-a-thing",
     "htmlUrl": "https://github.com/draw-a-thing",
@@ -93,10 +93,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/draw-a-thing/draw-a-volume.git"
-    },
+    "repository": "https://github.com/draw-a-thing/draw-a-volume",
     "keywords": [
       "image",
       "volume",
@@ -105,14 +102,16 @@
     ],
     "author": "freeman-lab",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/draw-a-thing/draw-a-volume/issues"
-    },
     "homepage": "https://github.com/draw-a-thing/draw-a-volume#readme",
     "dependencies": {
       "dom-css": "^2.0.0",
       "drag-and-drop-files": "0.0.1",
       "electron-prebuilt": "^0.37.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/draw-a-thing/draw-a-volume/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   },
   "filename": "draw-a-thing___draw-a-volume.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:20.068Z",
-  "packageLastFetchedAt": "2017-05-05T01:19:09.512Z"
+  "lastFetchedAt": "2017-10-24T02:04:19.166Z",
+  "packageLastFetchedAt": "2017-05-05T01:19:09.512Z",
+  "archived": false
 }

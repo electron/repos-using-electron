@@ -184,7 +184,7 @@
   },
   "networkCount": 1147,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "version": "0.8.0",
@@ -305,7 +305,8 @@
       "pack": "npm run build && build --dir && babel --no-comments --compact --minified --out-file app/dist/bundle.js app/dist/bundle.js",
       "dist": "npm run build && build",
       "release": "npm run build && build --publish=onTagOrDraft"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -333,6 +334,6 @@
   "filename": "rye___hyperterm.json",
   "sourceRepo": "zeit/hyperterm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:44:29.604Z",
+  "lastFetchedAt": "2017-10-23T21:46:26.426Z",
   "packageLastFetchedAt": "2017-05-05T01:21:27.800Z"
 }

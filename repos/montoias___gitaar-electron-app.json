@@ -5,7 +5,7 @@
   "owner": {
     "login": "montoias",
     "id": 1915774,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1915774?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1915774?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/montoias",
     "htmlUrl": "https://github.com/montoias",
@@ -63,17 +63,13 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "gitaar-frontend-ember",
     "version": "0.0.0",
     "description": "Small description for gitaar-frontend-ember goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -160,6 +156,12 @@
     "dependencies": {
       "fs-extra": "^0.30.0",
       "midi-converter": "^0.1.5"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -187,6 +189,7 @@
   },
   "filename": "montoias___gitaar-electron-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:05:05.727Z",
-  "packageLastFetchedAt": "2017-05-05T15:36:57.990Z"
+  "lastFetchedAt": "2017-10-23T23:38:29.271Z",
+  "packageLastFetchedAt": "2017-05-05T15:36:57.990Z",
+  "archived": false
 }

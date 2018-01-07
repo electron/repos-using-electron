@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-wms-labeling",
     "version": "1.0.0",
@@ -53,17 +53,16 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/malantonio/electron-wms-labeling.git"
-    },
+    "repository": "https://github.com/malantonio/electron-wms-labeling",
     "keywords": [],
     "author": "Adam Malantonio <adam.malantonio@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/malantonio/electron-wms-labeling/issues"
-    },
-    "homepage": "https://github.com/malantonio/electron-wms-labeling#readme"
+    "homepage": "https://github.com/malantonio/electron-wms-labeling#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/malantonio/electron-wms-labeling/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/malantonio/electron-wms-labeling",
@@ -110,6 +109,6 @@
   },
   "filename": "malantonio___electron-wms-labeling.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:18:31.588Z",
+  "lastFetchedAt": "2017-10-23T23:09:32.606Z",
   "packageLastFetchedAt": "2017-05-04T22:19:56.092Z"
 }

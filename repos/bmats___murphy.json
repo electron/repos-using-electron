@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "murphy",
     "productName": "Murphy",
@@ -69,15 +69,9 @@
       "build:osx": "electron-builder dist/Murphy-darwin-x64/Murphy.app --platform=osx --out=dist --config=builder.json && mv dist/Murphy.dmg \"dist/Murphy OSX.dmg\"",
       "build:win": "electron-builder dist/Murphy-win32-x64 --platform=win --out=dist --config=builder.json && (cd dist; zip -D \"Murphy Windows.zip\" \"Murphy Setup.exe\")"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bmats/murphy.git"
-    },
+    "repository": "https://github.com/bmats/murphy",
     "author": "Bryce Matsumori",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bmats/murphy/issues"
-    },
     "homepage": "https://github.com/bmats/murphy#readme",
     "dependencies": {
       "async": "^1.5.0",
@@ -120,6 +114,11 @@
       "ts-node": "^0.5.5",
       "tsd": "^0.6.5",
       "typescript": "^1.7.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bmats/murphy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,6 @@
   "svnUrl": "https://github.com/bmats/murphy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:41:12.100Z",
+  "lastFetchedAt": "2017-10-23T23:03:15.324Z",
   "packageLastFetchedAt": "2017-05-05T15:35:29.312Z"
 }

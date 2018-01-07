@@ -1,11 +1,11 @@
 {
-  "id": 52297960,
-  "name": "Feltix",
-  "fullName": "Feltix/Feltix",
+  "id": 100461005,
+  "name": "feltix",
+  "fullName": "Feltix/feltix",
   "owner": {
     "login": "Feltix",
     "id": 17410349,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17410349?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17410349?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Feltix",
     "htmlUrl": "https://github.com/Feltix",
@@ -17,35 +17,35 @@
     "type": "Organization"
   },
   "private": false,
-  "htmlUrl": "https://github.com/Feltix/Feltix",
-  "description": null,
+  "htmlUrl": "https://github.com/Feltix/feltix",
+  "description": "A Fountain export tool with some extra's...",
   "fork": false,
-  "url": "https://api.github.com/repos/Feltix/Feltix",
-  "forksUrl": "https://api.github.com/repos/Feltix/Feltix/forks",
-  "teamsUrl": "https://api.github.com/repos/Feltix/Feltix/teams",
-  "hooksUrl": "https://api.github.com/repos/Feltix/Feltix/hooks",
-  "eventsUrl": "https://api.github.com/repos/Feltix/Feltix/events",
-  "tagsUrl": "https://api.github.com/repos/Feltix/Feltix/tags",
-  "languagesUrl": "https://api.github.com/repos/Feltix/Feltix/languages",
-  "stargazersUrl": "https://api.github.com/repos/Feltix/Feltix/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/Feltix/Feltix/contributors",
-  "subscribersUrl": "https://api.github.com/repos/Feltix/Feltix/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/Feltix/Feltix/subscription",
-  "mergesUrl": "https://api.github.com/repos/Feltix/Feltix/merges",
-  "downloadsUrl": "https://api.github.com/repos/Feltix/Feltix/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/Feltix/Feltix/deployments",
-  "createdAt": "2016-02-22T19:08:07.000Z",
-  "updatedAt": "2016-06-05T19:40:35.000Z",
-  "pushedAt": "2016-06-06T15:58:12.000Z",
-  "gitUrl": "git://github.com/Feltix/Feltix.git",
-  "sshUrl": "git@github.com:Feltix/Feltix.git",
-  "cloneUrl": "https://github.com/Feltix/Feltix.git",
-  "svnUrl": "https://github.com/Feltix/Feltix",
-  "homepage": null,
-  "size": 1279,
+  "url": "https://api.github.com/repos/Feltix/feltix",
+  "forksUrl": "https://api.github.com/repos/Feltix/feltix/forks",
+  "teamsUrl": "https://api.github.com/repos/Feltix/feltix/teams",
+  "hooksUrl": "https://api.github.com/repos/Feltix/feltix/hooks",
+  "eventsUrl": "https://api.github.com/repos/Feltix/feltix/events",
+  "tagsUrl": "https://api.github.com/repos/Feltix/feltix/tags",
+  "languagesUrl": "https://api.github.com/repos/Feltix/feltix/languages",
+  "stargazersUrl": "https://api.github.com/repos/Feltix/feltix/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/Feltix/feltix/contributors",
+  "subscribersUrl": "https://api.github.com/repos/Feltix/feltix/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/Feltix/feltix/subscription",
+  "mergesUrl": "https://api.github.com/repos/Feltix/feltix/merges",
+  "downloadsUrl": "https://api.github.com/repos/Feltix/feltix/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/Feltix/feltix/deployments",
+  "createdAt": "2017-08-16T07:28:49.000Z",
+  "updatedAt": "2017-08-16T18:12:56.000Z",
+  "pushedAt": "2017-09-24T14:28:30.000Z",
+  "gitUrl": "git://github.com/Feltix/feltix.git",
+  "sshUrl": "git@github.com:Feltix/feltix.git",
+  "cloneUrl": "https://github.com/Feltix/feltix.git",
+  "svnUrl": "https://github.com/Feltix/feltix",
+  "homepage": "https://feltix.github.io",
+  "size": 173,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": "CoffeeScript",
+  "language": "Go",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Feltix",
     "id": 17410349,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/17410349?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/17410349?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Feltix",
     "htmlUrl": "https://github.com/Feltix",
@@ -96,10 +96,7 @@
       "prepublish": "coffee --compile --bare --output app/ src/",
       "package": "electron-packager . --platform darwin,linux,win32 --arch all --out builds/ --icon app/static/progicon.icns --ignore \"(devREADME.md|node_modules/coffee-script|.vscode|builds|src|[A-z]+.cmd|.git[A-z]*)\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Feltix/Feltix"
-    },
+    "repository": "https://github.com/Feltix/Feltix",
     "keywords": [
       "Fountain",
       "Screenplays",
@@ -109,14 +106,16 @@
     ],
     "author": "Evert Provoost",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Feltix/Feltix/issues"
-    },
     "homepage": "https://github.com/Feltix/Feltix/blob/master/README.md",
     "devDependencies": {
       "coffee-script": "^1.10.0",
       "electron-packager": "^7.0.3",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Feltix/Feltix/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -143,7 +142,8 @@
     }
   },
   "filename": "Feltix___Feltix.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:06.811Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:20.128Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T22:11:30.565Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:20.128Z",
+  "archived": false
 }

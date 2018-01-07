@@ -5,7 +5,7 @@
   "owner": {
     "login": "proshunsuke",
     "id": 3148511,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3148511?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3148511?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/proshunsuke",
     "htmlUrl": "https://github.com/proshunsuke",
@@ -124,26 +124,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -238,6 +228,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -265,6 +264,7 @@
   },
   "filename": "proshunsuke___niconama-comment-viewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:50:18.664Z",
-  "packageLastFetchedAt": "2017-05-05T01:31:10.956Z"
+  "lastFetchedAt": "2017-10-24T00:14:16.449Z",
+  "packageLastFetchedAt": "2017-05-05T01:31:10.956Z",
+  "archived": false
 }

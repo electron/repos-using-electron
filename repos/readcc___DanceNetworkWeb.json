@@ -5,7 +5,7 @@
   "owner": {
     "login": "readcc",
     "id": 18842804,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18842804?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18842804?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/readcc",
     "htmlUrl": "https://github.com/readcc",
@@ -229,16 +229,15 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -267,6 +266,7 @@
   "filename": "readcc___DanceNetworkWeb.json",
   "sourceRepo": "akveo/ng2-admin",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:15.972Z",
-  "packageLastFetchedAt": "2017-05-04T22:13:14.731Z"
+  "lastFetchedAt": "2017-10-23T22:07:45.528Z",
+  "packageLastFetchedAt": "2017-05-04T22:13:14.731Z",
+  "archived": false
 }

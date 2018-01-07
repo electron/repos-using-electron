@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-calc",
     "version": "1.0.0",
@@ -73,17 +73,15 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/quillaja/electroncalc"
-    },
+    "repository": "https://github.com/quillaja/electroncalc",
     "keywords": [
       "Electron"
     ],
     "author": "quillaja",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -110,6 +108,6 @@
   },
   "filename": "quillaja___electroncalc.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:12.783Z",
+  "lastFetchedAt": "2017-10-23T23:05:39.848Z",
   "packageLastFetchedAt": "2017-05-04T22:30:51.001Z"
 }

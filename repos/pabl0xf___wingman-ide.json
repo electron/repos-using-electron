@@ -5,7 +5,7 @@
   "owner": {
     "login": "pabl0xf",
     "id": 6700982,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6700982?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6700982?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pabl0xf",
     "htmlUrl": "https://github.com/pabl0xf",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pabl0xf/wingman-ide"
-    },
+    "repository": "https://github.com/pabl0xf/wingman-ide",
     "keywords": [
       "Jesus",
       "wingman",
@@ -91,12 +88,14 @@
     ],
     "author": "Pablo Frias",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pabl0xf/wingman-ide/issues"
-    },
     "homepage": "https://github.com/pabl0xf/wingman-ide#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pabl0xf/wingman-ide/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "pabl0xf___wingman-ide.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:27.644Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:41.097Z"
+  "lastFetchedAt": "2017-10-23T23:36:13.035Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:41.097Z",
+  "archived": false
 }

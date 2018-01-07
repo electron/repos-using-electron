@@ -5,7 +5,7 @@
   "owner": {
     "login": "adamdharrington",
     "id": 5477801,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5477801?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5477801?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/adamdharrington",
     "htmlUrl": "https://github.com/adamdharrington",
@@ -64,10 +64,7 @@
       "package-all": "node ./node_modules/electron-packager/cli.js ./ UpliftCUP --all --out ./dist --version 1.2.5 --overwrite --icon=./img/UpliftCSVCUPIcon.png.ico",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/adamdharrington/uplift-csv-cup-ui.git"
-    },
+    "repository": "https://github.com/adamdharrington/uplift-csv-cup-ui",
     "dependencies": {
       "jquery": "^2.0.0",
       "uplift-csv-cup": "^1.0.5"
@@ -75,7 +72,8 @@
     "devDependencies": {
       "electron-packager": "^7.0.0",
       "electron-prebuilt": "^1.2.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/adamdharrington/uplift-csv-cup-ui",
@@ -122,6 +120,7 @@
   },
   "filename": "adamdharrington___uplift-csv-cup-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:41.337Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:33.668Z"
+  "lastFetchedAt": "2017-10-24T00:18:11.699Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:33.668Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "ihgrant",
     "id": 3476027,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3476027?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3476027?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ihgrant",
     "htmlUrl": "https://github.com/ihgrant",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/ihgrant/museamp/deployments",
   "createdAt": "2016-06-13T00:33:33.000Z",
   "updatedAt": "2017-04-23T16:35:15.000Z",
-  "pushedAt": "2017-04-23T16:34:24.000Z",
+  "pushedAt": "2017-07-01T22:07:50.000Z",
   "gitUrl": "git://github.com/ihgrant/museamp.git",
   "sshUrl": "git@github.com:ihgrant/museamp.git",
   "cloneUrl": "https://github.com/ihgrant/museamp.git",
   "svnUrl": "https://github.com/ihgrant/museamp",
   "homepage": "",
-  "size": 349,
+  "size": 317,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -83,10 +83,7 @@
       "test": "tape -r babel-register test/**/*.js | tap-spec",
       "postinstall": "./node_modules/.bin/electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ihgrant/museamp.git"
-    },
+    "repository": "https://github.com/ihgrant/museamp",
     "author": "ihgrant",
     "license": "MIT",
     "devDependencies": {
@@ -116,7 +113,8 @@
       "redux": "^3.6.0",
       "sequelize": "^3.23.3",
       "sqlite3": "^3.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -143,6 +141,7 @@
   },
   "filename": "ihgrant___museamp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:57:40.821Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:28.158Z"
+  "lastFetchedAt": "2017-10-23T23:45:18.448Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:28.158Z",
+  "archived": false
 }

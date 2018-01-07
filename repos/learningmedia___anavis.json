@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "anavis",
     "description": "AnaVis is a tool to visualize musical form",
@@ -75,10 +75,7 @@
       "Ulrich Kaiser <ulrich.kaiser@hmtm.de>"
     ],
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/learningmedia/anavis.git"
-    },
+    "repository": "https://github.com/learningmedia/anavis",
     "private": true,
     "main": "app/server/main.js",
     "scripts": {
@@ -151,7 +148,8 @@
       "mockery": "^2.0.0",
       "rimraf": "^2.5.4",
       "shelljs": "^0.7.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -198,6 +196,6 @@
   "svnUrl": "https://github.com/learningmedia/anavis",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:26:14.279Z",
+  "lastFetchedAt": "2017-10-23T23:00:14.335Z",
   "packageLastFetchedAt": "2017-05-05T17:45:25.680Z"
 }

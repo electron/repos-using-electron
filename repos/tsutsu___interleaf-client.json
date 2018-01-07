@@ -5,7 +5,7 @@
   "owner": {
     "login": "tsutsu",
     "id": 3542676,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3542676?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3542676?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tsutsu",
     "htmlUrl": "https://github.com/tsutsu",
@@ -73,16 +73,10 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tsutsu/interleaf-client.git"
-    },
+    "repository": "https://github.com/tsutsu/interleaf-client",
     "keywords": [],
     "author": "Levi Aul",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tsutsu/interleaf-client/issues"
-    },
     "homepage": "https://github.com/tsutsu/interleaf-client#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -90,6 +84,11 @@
     },
     "dependencies": {
       "sqlite3": "^3.1.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tsutsu/interleaf-client/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "tsutsu___interleaf-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:52.348Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:37.003Z"
+  "lastFetchedAt": "2017-10-23T23:37:17.420Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:37.003Z",
+  "archived": false
 }

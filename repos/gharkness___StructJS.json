@@ -5,7 +5,7 @@
   "owner": {
     "login": "gharkness",
     "id": 6400637,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6400637?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6400637?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gharkness",
     "htmlUrl": "https://github.com/gharkness",
@@ -84,10 +84,7 @@
       "cleanMac": "rm -rf ./StructJS-darwin-x64",
       "cleanWin": "rm -rf ./StructJS-win32-x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -96,12 +93,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron": "^1.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "gharkness___StructJS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:46.518Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:51.154Z"
+  "lastFetchedAt": "2017-10-23T22:16:29.844Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:51.154Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jmwright",
     "id": 1015439,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1015439?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1015439?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jmwright",
     "htmlUrl": "https://github.com/jmwright",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/jmwright/cadquery-gui/downloads",
   "deploymentsUrl": "https://api.github.com/repos/jmwright/cadquery-gui/deployments",
   "createdAt": "2016-03-22T01:09:05.000Z",
-  "updatedAt": "2017-02-16T10:40:38.000Z",
+  "updatedAt": "2017-06-01T13:25:35.000Z",
   "pushedAt": "2016-06-09T20:45:07.000Z",
   "gitUrl": "git://github.com/jmwright/cadquery-gui.git",
   "sshUrl": "git@github.com:jmwright/cadquery-gui.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/jmwright/cadquery-gui",
   "homepage": null,
   "size": 44169,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 8,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -81,10 +81,7 @@
       "email": "wrightjmf@hotmail.com",
       "url": "https://github.com/jmwright"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jmwright/cadquery-gui.git"
-    },
+    "repository": "https://github.com/jmwright/cadquery-gui",
     "main": "main.js",
     "scripts": {
       "start": "electron main.js"
@@ -99,7 +96,8 @@
       "electron-packager": "^5.0.0",
       "electron-prebuilt": "^0.37.2"
     },
-    "engine": "node >= 5.9.0"
+    "engine": "node >= 5.9.0",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,7 @@
   },
   "filename": "jmwright___cadquery-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:48.675Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:18.636Z"
+  "lastFetchedAt": "2017-10-23T22:24:17.766Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:18.636Z",
+  "archived": false
 }

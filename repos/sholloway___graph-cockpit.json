@@ -5,7 +5,7 @@
   "owner": {
     "login": "sholloway",
     "id": 150241,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/150241?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/150241?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sholloway",
     "htmlUrl": "https://github.com/sholloway",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/sholloway/graph-cockpit/deployments",
   "createdAt": "2016-04-23T12:08:21.000Z",
   "updatedAt": "2016-04-23T13:29:00.000Z",
-  "pushedAt": "2016-12-02T11:52:41.000Z",
+  "pushedAt": "2017-10-04T19:16:40.000Z",
   "gitUrl": "git://github.com/sholloway/graph-cockpit.git",
   "sshUrl": "git@github.com:sholloway/graph-cockpit.git",
   "cloneUrl": "https://github.com/sholloway/graph-cockpit.git",
   "svnUrl": "https://github.com/sholloway/graph-cockpit",
   "homepage": null,
-  "size": 119,
+  "size": 205,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,16 +52,22 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 5,
-  "openIssues": 5,
+  "openIssuesCount": 19,
+  "openIssues": 19,
   "watchers": 0,
-  "defaultBranch": "master",
+  "defaultBranch": "dev",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
@@ -79,10 +85,7 @@
       "test": "NODE_ENV=test NODE_PATH=. BABEL_DISABLE_CACHE=1 node_modules/mocha/bin/mocha",
       "cov": "BABEL_DISABLE_CACHE=1 ./node_modules/.bin/istanbul cover --report text --report html _mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sholloway/graph-cockpit.git"
-    },
+    "repository": "https://github.com/sholloway/graph-cockpit",
     "keywords": [
       "Graph",
       "notes",
@@ -91,9 +94,6 @@
     "author": "Samuel D. Holloway",
     "license": "MIT",
     "private": "true",
-    "bugs": {
-      "url": "https://github.com/sholloway/graph-cockpit/issues"
-    },
     "homepage": "https://github.com/sholloway/graph-cockpit#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -139,6 +139,11 @@
       "react-router-redux": "^4.0.7",
       "redux": "^3.5.2",
       "shortid": "^2.2.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sholloway/graph-cockpit/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -166,6 +171,7 @@
   },
   "filename": "sholloway___graph-cockpit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:11:32.279Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:49.698Z"
+  "lastFetchedAt": "2017-10-23T22:32:31.502Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:49.698Z",
+  "archived": false
 }

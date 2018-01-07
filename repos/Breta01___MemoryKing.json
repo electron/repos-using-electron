@@ -5,7 +5,7 @@
   "owner": {
     "login": "Breta01",
     "id": 10288864,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10288864?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10288864?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Breta01",
     "htmlUrl": "https://github.com/Breta01",
@@ -20,12 +20,12 @@
   "description": "Memory training app.",
   "fork": false,
   "createdAt": "2016-07-22T14:23:25.000Z",
-  "updatedAt": "2017-01-08T05:22:04.000Z",
+  "updatedAt": "2017-07-01T17:33:00.000Z",
   "pushedAt": "2017-01-08T15:37:24.000Z",
   "homepage": null,
   "size": 732,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 2,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,10 +69,7 @@
       "postinstall": "install-app-deps",
       "dist": "npm run build && build --publish onTagOrDraft"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Breta01/MemoryKing"
-    },
+    "repository": "https://github.com/Breta01/MemoryKing",
     "build": {
       "appId": "org.breta.MemoryKing",
       "category": "public.app-category.education",
@@ -108,9 +105,6 @@
         ]
       }
     },
-    "directories": {
-      "output": "release"
-    },
     "keywords": [
       "Memory King",
       "Memory",
@@ -123,9 +117,6 @@
       "url": "https://github.com/Breta01"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Breta01/MemoryKing/issues"
-    },
     "homepage": "https://github.com/Breta01/MemoryKing#readme",
     "dependencies": {
       "babel-cli": "^6.11.4",
@@ -175,6 +166,14 @@
       "webpack-dev-middleware": "^1.6.1",
       "webpack-hot-middleware": "^2.12.2",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "directories": {
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/Breta01/MemoryKing/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -222,6 +221,7 @@
   "svnUrl": "https://github.com/Breta01/MemoryKing",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:28:50.275Z",
-  "packageLastFetchedAt": "2017-05-05T15:38:35.774Z"
+  "lastFetchedAt": "2017-10-24T00:18:06.213Z",
+  "packageLastFetchedAt": "2017-05-05T15:38:35.774Z",
+  "archived": false
 }

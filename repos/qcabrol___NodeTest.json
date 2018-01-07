@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "arduinom",
     "version": "0.0.0",
@@ -115,7 +115,8 @@
       "arduino"
     ],
     "author": "qcabrol",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -156,6 +157,6 @@
     "receivedEventsUrl": "https://api.github.com/users/Bioreactor/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T05:01:27.431Z",
+  "lastFetchedAt": "2017-10-23T23:04:07.574Z",
   "packageLastFetchedAt": "2017-05-05T14:31:49.679Z"
 }

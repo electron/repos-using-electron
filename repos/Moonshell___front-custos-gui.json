@@ -5,7 +5,7 @@
   "owner": {
     "login": "krimeshu",
     "id": 4216470,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4216470?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4216470?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/krimeshu",
     "htmlUrl": "https://github.com/krimeshu",
@@ -20,12 +20,12 @@
   "description": "Front Custos 的 GUI 版。",
   "fork": false,
   "createdAt": "2016-03-06T13:43:00.000Z",
-  "updatedAt": "2017-04-15T02:24:58.000Z",
-  "pushedAt": "2017-05-02T08:34:21.000Z",
+  "updatedAt": "2017-08-09T06:59:48.000Z",
+  "pushedAt": "2017-10-19T07:58:25.000Z",
   "homepage": "",
-  "size": 5671,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "size": 42768,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -59,15 +59,9 @@
       "dist-win64": "electron-packager . FrontCustos --out=../front-custos-gui-dist --icon=./tea-time --platform=win32 --arch=x64 --overwrite=true --ignore=\"(.idea|patches|front-custos/example/dist)\"",
       "dist-win32": "electron-packager . FrontCustos --out=../front-custos-gui-dist --icon=./tea-time --platform=win32 --arch=ia32 --overwrite=true --ignore=\"(.idea|patches|front-custos/example/dist)\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/krimeshu/front-custos-gui.git"
-    },
+    "repository": "https://github.com/krimeshu/front-custos-gui",
     "author": "krimeshu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/krimeshu/front-custos-gui/issues"
-    },
     "homepage": "https://github.com/krimeshu/front-custos-gui#readme",
     "devDependencies": {
       "angular": "^1.5.0",
@@ -86,7 +80,12 @@
       "request-progress": "^2.0.1",
       "watch": "^0.18.0"
     },
-    "useDevCore": false
+    "useDevCore": false,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/krimeshu/front-custos-gui/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/krimeshu/front-custos-gui",
@@ -133,6 +132,7 @@
   },
   "filename": "Moonshell___front-custos-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:38:59.126Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:13.629Z"
+  "lastFetchedAt": "2017-10-24T00:14:09.046Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:13.629Z",
+  "archived": false
 }

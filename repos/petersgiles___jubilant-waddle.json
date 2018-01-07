@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "jubilant-waddle",
     "version": "1.0.0",
@@ -85,15 +85,9 @@
       "tsc:w": "tsc -w",
       "typings": "typings"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/petersgiles/jubilant-waddle.git"
-    },
+    "repository": "https://github.com/petersgiles/jubilant-waddle",
     "author": "petersgiles",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/petersgiles/jubilant-waddle/issues"
-    },
     "homepage": "https://github.com/petersgiles/jubilant-waddle#readme",
     "dependencies": {
       "@angular/common": "2.0.0-rc.4",
@@ -120,6 +114,11 @@
       "typescript": "^1.8.10",
       "typings": "^1.0.4",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/petersgiles/jubilant-waddle/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,6 @@
   },
   "filename": "petersgiles___jubilant-waddle.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:15.187Z",
+  "lastFetchedAt": "2017-10-23T22:56:46.830Z",
   "packageLastFetchedAt": "2017-05-05T17:22:20.220Z"
 }

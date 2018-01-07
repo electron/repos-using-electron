@@ -5,7 +5,7 @@
   "owner": {
     "login": "ViliamKopecky",
     "id": 316435,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/316435?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/316435?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ViliamKopecky",
     "htmlUrl": "https://github.com/ViliamKopecky",
@@ -58,10 +58,7 @@
       "build": "cross-env NODE_ENV=development webpack --config webpack.config.production.js && electron-packager . --out=build --platform=win32 --arch=x64 --prune --overwrite",
       "test": "karma start"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/viliamkopecky/electron-starter.git"
-    },
+    "repository": "https://github.com/viliamkopecky/electron-starter",
     "babel": {
       "presets": [
         "es2015-node6",
@@ -135,7 +132,8 @@
       "webpack-dev-middleware": "^1.6.1",
       "webpack-hot-middleware": "^2.10.0",
       "webpack-target-electron-renderer": "^0.4.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -182,6 +180,7 @@
   "svnUrl": "https://github.com/ViliamKopecky/electron-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:21:01.447Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:56.434Z"
+  "lastFetchedAt": "2017-10-23T22:32:14.761Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:56.434Z",
+  "archived": false
 }

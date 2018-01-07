@@ -5,7 +5,7 @@
   "owner": {
     "login": "NativeScript",
     "id": 7392261,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7392261?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7392261?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NativeScript",
     "htmlUrl": "https://github.com/NativeScript",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/NativeScript/plugins/downloads",
   "deploymentsUrl": "https://api.github.com/repos/NativeScript/plugins/deployments",
   "createdAt": "2016-10-14T16:28:40.000Z",
-  "updatedAt": "2017-04-18T18:41:03.000Z",
-  "pushedAt": "2017-04-26T16:21:58.000Z",
+  "updatedAt": "2017-09-04T20:10:45.000Z",
+  "pushedAt": "2017-06-16T07:43:11.000Z",
   "gitUrl": "git://github.com/NativeScript/plugins.git",
   "sshUrl": "git@github.com:NativeScript/plugins.git",
   "cloneUrl": "https://github.com/NativeScript/plugins.git",
   "svnUrl": "https://github.com/NativeScript/plugins",
   "homepage": null,
-  "size": 8640,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "size": 8652,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 2,
+  "forksCount": 3,
   "mirrorUrl": null,
-  "openIssuesCount": 9,
-  "openIssues": 9,
-  "watchers": 7,
+  "openIssuesCount": 12,
+  "openIssues": 12,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "NativeScript",
     "id": 7392261,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7392261?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7392261?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NativeScript",
     "htmlUrl": "https://github.com/NativeScript",
@@ -82,16 +82,14 @@
     "receivedEventsUrl": "https://api.github.com/users/NativeScript/received_events",
     "type": "Organization"
   },
-  "networkCount": 2,
+  "networkCount": 3,
   "subscribersCount": 32,
   "status": 200,
   "packageJSON": {
     "name": "plugins",
     "version": "1.0.0",
     "description": "The Official NativeScript Plugins Resource.",
-    "repository": {
-      "url": "https://github.com/NativeScript/plugins"
-    },
+    "repository": "https://github.com/NativeScript/plugins",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -288,7 +286,8 @@
       "showdown": "^1.6.0",
       "systemjs": "0.19.41",
       "zone.js": "^0.8.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -316,6 +315,7 @@
   "filename": "NativeScript___plugins.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:26:23.189Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:08.037Z"
+  "lastFetchedAt": "2017-10-23T22:25:15.127Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:08.037Z",
+  "archived": false
 }

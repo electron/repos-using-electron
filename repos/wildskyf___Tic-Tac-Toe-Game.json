@@ -5,7 +5,7 @@
   "owner": {
     "login": "wildskyf",
     "id": 6042803,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6042803?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6042803?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wildskyf",
     "htmlUrl": "https://github.com/wildskyf",
@@ -81,23 +81,22 @@
       "build_mac": "electron-packager . --platform=darwin --arch=x64 --version=0.36.5 Tic-Tac-Toe-Game",
       "build_linux": "electron-packager . --platform=linux --arch=x64 --version=0.36.5 Tic-Tac-Toe-Game"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wi1d5ky/Tic-Tac-Toe-Game"
-    },
+    "repository": "https://github.com/wi1d5ky/Tic-Tac-Toe-Game",
     "keywords": [
       "Tic-Tac-Toe",
       "Game"
     ],
     "author": "Wildsky",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/wi1d5ky/Tic-Tac-Toe-Game/issues"
-    },
     "homepage": "http://blog.wildsky.cc",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/wi1d5ky/Tic-Tac-Toe-Game/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "wildskyf___Tic-Tac-Toe-Game.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:27:37.123Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:19.651Z"
+  "lastFetchedAt": "2017-10-24T00:20:03.689Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:19.651Z",
+  "archived": false
 }

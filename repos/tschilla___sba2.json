@@ -5,7 +5,7 @@
   "owner": {
     "login": "tschilla",
     "id": 298529,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/298529?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/298529?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tschilla",
     "htmlUrl": "https://github.com/tschilla",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -68,16 +68,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -230,7 +228,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.26",
       "zone.js": "^0.6.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -258,6 +257,7 @@
   "filename": "tschilla___sba2.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:56.406Z",
-  "packageLastFetchedAt": "2017-05-05T17:14:13.931Z"
+  "lastFetchedAt": "2017-10-24T00:09:46.710Z",
+  "packageLastFetchedAt": "2017-05-05T17:14:13.931Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "landho-app",
     "id": 19391230,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19391230?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19391230?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/landho-app",
     "htmlUrl": "https://github.com/landho-app",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "landho-app",
     "id": 19391230,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/19391230?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/19391230?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/landho-app",
     "htmlUrl": "https://github.com/landho-app",
@@ -85,7 +85,8 @@
       "package:win": "electron-packager ./ LandHo --platform=win32 --arch=all --out ./build --ignore='^/build$' --version 0.35.2 --overwrite --version-string.CompanyName='Thomas Brüggemann' --version-string.LegalCopyright='Copyright (C) 2016 Thomas Brüggemann' --version-string.FileDescription=$npm_package_productName --version-string.OriginalFilename='LandHo.exe' --version-string.InternalName=$npm_package_productName --version-string.ProductName=$npm_package_productName --version-string.ProductVersion=$npm_package_version --icon=./icon.ico"
     },
     "license": "MIT",
-    "homepage": "https://landho-app.com"
+    "homepage": "https://landho-app.com",
+    "other": {}
   },
   "packageStatus": 404,
   "firstCommit": {
@@ -132,6 +133,7 @@
   "svnUrl": "https://github.com/landho-app/landho-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:44:05.691Z",
-  "packageLastFetchedAt": "2017-05-05T16:58:29.072Z"
+  "lastFetchedAt": "2017-10-23T23:43:09.163Z",
+  "packageLastFetchedAt": "2017-05-05T16:58:29.072Z",
+  "archived": false
 }

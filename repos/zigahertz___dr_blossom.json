@@ -5,7 +5,7 @@
   "owner": {
     "login": "zigahertz",
     "id": 2994167,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2994167?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2994167?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zigahertz",
     "htmlUrl": "https://github.com/zigahertz",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for blossom goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -105,7 +101,13 @@
       "liquid-fire": "0.22.0",
       "loader.js": "^4.0.1"
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -152,6 +154,7 @@
   "svnUrl": "https://github.com/zigahertz/dr_blossom",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:05:37.234Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:22.474Z"
+  "lastFetchedAt": "2017-10-23T22:12:01.334Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:22.474Z",
+  "archived": false
 }

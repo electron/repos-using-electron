@@ -5,7 +5,7 @@
   "owner": {
     "login": "zuck",
     "id": 1370938,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1370938?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1370938?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zuck",
     "htmlUrl": "https://github.com/zuck",
@@ -82,10 +82,7 @@
       "test": "mocha",
       "package": "electron-packager . --overwrite --icon=./app/ux/images/logo.png"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zuck/pin1n.git"
-    },
+    "repository": "https://github.com/zuck/pin1n",
     "keywords": [
       "pin1n",
       "pinyin",
@@ -99,9 +96,6 @@
       "email": "emanuele.bertoldi@gmail.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zuck/pin1n/issues"
-    },
     "homepage": "https://github.com/zuck/pin1n#readme",
     "dependencies": {
       "segment": ">=0.1.3",
@@ -112,6 +106,11 @@
       "electron-reload": ">=1.0.2",
       "electron-packager": ">=7.7.0",
       "mocha": ">=3.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zuck/pin1n/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "zuck___pin1n.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:24.594Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:14.652Z"
+  "lastFetchedAt": "2017-10-24T02:02:10.955Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:14.652Z",
+  "archived": false
 }

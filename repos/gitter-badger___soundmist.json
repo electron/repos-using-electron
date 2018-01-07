@@ -5,7 +5,7 @@
   "owner": {
     "login": "gitter-badger",
     "id": 8518239,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8518239?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8518239?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gitter-badger",
     "htmlUrl": "https://github.com/gitter-badger",
@@ -77,10 +77,7 @@
       "watch-windows": "gulp start && START /MIN npm run electron && gulp watch",
       "build": "gulp start && electron-packager .tmp Soundmist --out=dist --prune --asar --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kattjakt/soundmist.git"
-    },
+    "repository": "https://github.com/kattjakt/soundmist",
     "author": "GitHub",
     "license": "CC0-1.0",
     "devDependencies": {
@@ -105,7 +102,8 @@
       "gulp-sym": "0.0.14",
       "gulp-util": "^3.0.7",
       "request": "^2.72.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +130,7 @@
   },
   "filename": "gitter-badger___soundmist.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:32:27.545Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:02.908Z"
+  "lastFetchedAt": "2017-10-24T02:02:27.550Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:02.908Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-api-demo",
     "version": "0.0.0",
@@ -73,18 +73,17 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jack-zheng/electron-api-demo.git"
-    },
+    "repository": "https://github.com/jack-zheng/electron-api-demo",
     "author": "Jack",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jack-zheng/electron-api-demo/issues"
-    },
     "homepage": "https://github.com/jack-zheng/electron-api-demo#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jack-zheng/electron-api-demo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -112,6 +111,6 @@
   },
   "filename": "jack-zheng___electron-api-demos.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:01.271Z",
+  "lastFetchedAt": "2017-10-23T23:39:03.750Z",
   "packageLastFetchedAt": "2017-05-05T17:38:17.356Z"
 }

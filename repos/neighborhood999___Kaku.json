@@ -164,16 +164,13 @@
   },
   "networkCount": 86,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Kaku",
     "version": "1.7.0",
     "description": "The next generation music client",
     "main": "bootup.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/EragonJ/Kaku"
-    },
+    "repository": "https://github.com/EragonJ/Kaku",
     "keywords": [
       "Kaku",
       "music",
@@ -186,9 +183,6 @@
       "url": "http://eragonj.me"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/EragonJ/Kaku/issues"
-    },
     "homepage": "https://github.com/EragonJ/Kaku",
     "scripts": {
       "dev": "./node_modules/.bin/webpack --watch",
@@ -302,6 +296,11 @@
       "vimeo": "^1.1.4",
       "youtube-dl": "EragonJ/node-youtube-dl",
       "youtube-node": "EragonJ/youtube-node"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/EragonJ/Kaku/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -350,6 +349,6 @@
   "filename": "neighborhood999___Kaku.json",
   "sourceRepo": "EragonJ/Kaku",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:52.558Z",
+  "lastFetchedAt": "2017-10-23T23:08:08.596Z",
   "packageLastFetchedAt": "2017-05-05T15:04:42.560Z"
 }

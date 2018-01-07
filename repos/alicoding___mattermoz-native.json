@@ -5,7 +5,7 @@
   "owner": {
     "login": "alicoding",
     "id": 4368149,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4368149?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4368149?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alicoding",
     "htmlUrl": "https://github.com/alicoding",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "lloeki",
       "id": 75445,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lloeki",
       "htmlUrl": "https://github.com/lloeki",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/lloeki/matterfront/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lloeki/matterfront/deployments",
     "createdAt": "2015-10-26T17:08:43.000Z",
-    "updatedAt": "2017-04-19T17:30:25.000Z",
+    "updatedAt": "2017-10-13T12:33:08.000Z",
     "pushedAt": "2016-03-17T09:10:14.000Z",
     "gitUrl": "git://github.com/lloeki/matterfront.git",
     "sshUrl": "git@github.com:lloeki/matterfront.git",
@@ -95,8 +95,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 17,
     "openIssues": 17,
     "watchers": 161,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "lloeki",
       "id": 75445,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/75445?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/75445?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/lloeki",
       "htmlUrl": "https://github.com/lloeki",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/lloeki/matterfront/downloads",
     "deploymentsUrl": "https://api.github.com/repos/lloeki/matterfront/deployments",
     "createdAt": "2015-10-26T17:08:43.000Z",
-    "updatedAt": "2017-04-19T17:30:25.000Z",
+    "updatedAt": "2017-10-13T12:33:08.000Z",
     "pushedAt": "2016-03-17T09:10:14.000Z",
     "gitUrl": "git://github.com/lloeki/matterfront.git",
     "sshUrl": "git@github.com:lloeki/matterfront.git",
@@ -155,14 +156,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 37,
+    "forksCount": 36,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 17,
     "openIssues": 17,
     "watchers": 161,
     "defaultBranch": "master"
   },
-  "networkCount": 37,
+  "networkCount": 36,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -188,18 +190,12 @@
       "test-watch": "mocha watch"
     },
     "electronVersion": "0.36.2",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/alicoding/mattermoz"
-    },
+    "repository": "https://github.com/alicoding/mattermoz",
     "keywords": [
       "Mattermost",
       "electron"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/alicoding/mattermoz/issues"
-    },
     "devDependencies": {
       "babel-core": "~6.3.13",
       "babel-loader": "~6.2.0",
@@ -240,6 +236,11 @@
     "config": {
       "ghooks": {
         "pre-commit": "npm run lint && npm run test"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/alicoding/mattermoz/issues"
       }
     }
   },
@@ -289,6 +290,7 @@
   "filename": "alicoding___mattermoz-native.json",
   "sourceRepo": "lloeki/matterfront",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:38.812Z",
-  "packageLastFetchedAt": "2017-05-04T22:01:59.018Z"
+  "lastFetchedAt": "2017-10-23T22:25:22.831Z",
+  "packageLastFetchedAt": "2017-05-04T22:01:59.018Z",
+  "archived": false
 }

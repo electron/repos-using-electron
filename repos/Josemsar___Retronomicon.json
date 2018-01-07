@@ -5,7 +5,7 @@
   "owner": {
     "login": "Josemsar",
     "id": 4954345,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4954345?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4954345?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Josemsar",
     "htmlUrl": "https://github.com/Josemsar",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron src/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Josemsar___Retronomicon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:33:17.895Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:57.864Z"
+  "lastFetchedAt": "2017-10-23T22:10:51.328Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:57.864Z",
+  "archived": false
 }

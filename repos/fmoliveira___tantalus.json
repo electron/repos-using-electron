@@ -70,7 +70,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 19,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tantalus",
     "version": "0.2.0",
@@ -93,10 +93,7 @@
       "watch:css": "stylus -w src/styles/tantalus.styl --include-css --out dist/css/",
       "watch:js-app": "watchify src/app/app.js --outfile dist/js/bundle.js --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fmoliveira/tantalus.git"
-    },
+    "repository": "https://github.com/fmoliveira/tantalus",
     "keywords": [
       "evernote",
       "alternative",
@@ -109,9 +106,6 @@
     ],
     "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fmoliveira/tantalus/issues"
-    },
     "homepage": "https://github.com/fmoliveira/tantalus#readme",
     "devDependencies": {
       "browserify": "^13.0.1",
@@ -130,6 +124,11 @@
       "moment": "^2.13.0",
       "node-uuid": "^1.4.7",
       "photon": "github:connors/photon"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fmoliveira/tantalus/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,6 @@
   },
   "filename": "fmoliveira___tantalus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:14:01.725Z",
+  "lastFetchedAt": "2017-10-23T22:59:13.839Z",
   "packageLastFetchedAt": "2017-05-05T15:21:50.162Z"
 }

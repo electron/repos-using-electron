@@ -5,7 +5,7 @@
   "owner": {
     "login": "jonstuebe",
     "id": 156722,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/156722?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/156722?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jonstuebe",
     "htmlUrl": "https://github.com/jonstuebe",
@@ -74,10 +74,7 @@
       "build": "electron-packager ./ --platform=darwin,mas --arch=all --out=releases --overwrite --icon=./Icon.icns",
       "start": "electron index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -86,15 +83,17 @@
     ],
     "author": "Jon Stuebe",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.0.1"
     },
     "dependencies": {
       "menubar": "^4.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "jonstuebe___spotify-song-share.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:52:11.956Z",
-  "packageLastFetchedAt": "2017-05-04T22:33:56.260Z"
+  "lastFetchedAt": "2017-10-23T21:49:46.884Z",
+  "packageLastFetchedAt": "2017-05-04T22:33:56.260Z",
+  "archived": false
 }

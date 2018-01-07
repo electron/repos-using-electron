@@ -5,7 +5,7 @@
   "owner": {
     "login": "rohilsurana",
     "id": 5618578,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5618578?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5618578?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rohilsurana",
     "htmlUrl": "https://github.com/rohilsurana",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rohilsurana/yada.git"
-    },
+    "repository": "https://github.com/rohilsurana/yada",
     "keywords": [
       "Electron",
       "downloader",
@@ -65,15 +62,17 @@
     ],
     "author": "Rohil Surana",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rohilsurana/yada/issues"
-    },
     "homepage": "https://rohilsurana.github.io/yada/",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
     },
     "dependencies": {
       "nedb": "^1.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rohilsurana/yada/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,7 @@
   },
   "filename": "rohilsurana___yada.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:21:45.275Z",
-  "packageLastFetchedAt": "2017-05-05T17:47:21.000Z"
+  "lastFetchedAt": "2017-10-24T00:19:13.980Z",
+  "packageLastFetchedAt": "2017-05-05T17:47:21.000Z",
+  "archived": false
 }

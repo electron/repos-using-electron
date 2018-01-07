@@ -64,23 +64,21 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "codebase",
     "version": "0.0.1",
     "description": "One codebase",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/prasanjeevi/codebase.git"
-    },
+    "repository": "https://github.com/prasanjeevi/codebase",
     "dependencies": {
       "electron": "^1.4.15",
       "request": "^2.79.0"
     },
     "scripts": {
       "start": "electron ./main.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -107,6 +105,6 @@
   },
   "filename": "prasanjeevi___codebase.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:21.731Z",
+  "lastFetchedAt": "2017-10-23T22:59:08.320Z",
   "packageLastFetchedAt": "2017-05-05T04:34:46.432Z"
 }

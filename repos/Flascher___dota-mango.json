@@ -5,7 +5,7 @@
   "owner": {
     "login": "Flascher",
     "id": 2762315,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2762315?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2762315?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Flascher",
     "htmlUrl": "https://github.com/Flascher",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron --debug=5858 ./scripts/index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Flascher/dota-mango.git"
-    },
+    "repository": "https://github.com/Flascher/dota-mango",
     "keywords": [
       "stats",
       "dota",
@@ -91,12 +88,14 @@
     ],
     "author": "Flascher",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/Flascher/dota-mango/issues"
-    },
     "homepage": "https://github.com/Flascher/dota-mango#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.32.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Flascher/dota-mango/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Flascher___dota-mango.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:28.301Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:20.021Z"
+  "lastFetchedAt": "2017-10-24T02:03:47.138Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:20.021Z",
+  "archived": false
 }

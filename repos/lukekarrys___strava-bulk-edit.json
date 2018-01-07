@@ -5,7 +5,7 @@
   "owner": {
     "login": "lukekarrys",
     "id": 542108,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/542108?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/542108?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lukekarrys",
     "htmlUrl": "https://github.com/lukekarrys",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/lukekarrys/strava-bulk-edit/downloads",
   "deploymentsUrl": "https://api.github.com/repos/lukekarrys/strava-bulk-edit/deployments",
   "createdAt": "2015-12-03T23:27:25.000Z",
-  "updatedAt": "2016-03-05T17:35:23.000Z",
-  "pushedAt": "2017-05-04T11:29:30.000Z",
+  "updatedAt": "2017-10-07T12:58:48.000Z",
+  "pushedAt": "2017-10-20T10:09:39.000Z",
   "gitUrl": "git://github.com/lukekarrys/strava-bulk-edit.git",
   "sshUrl": "git@github.com:lukekarrys/strava-bulk-edit.git",
   "cloneUrl": "https://github.com/lukekarrys/strava-bulk-edit.git",
   "svnUrl": "https://github.com/lukekarrys/strava-bulk-edit",
   "homepage": null,
-  "size": 39,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 49,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "strava-bulk-edit",
@@ -81,9 +81,6 @@
       "transform": [
         "babelify"
       ]
-    },
-    "bugs": {
-      "url": "https://github.com/lukekarrys/strava-bulk-edit/issues"
     },
     "dependencies": {
       "lodash.pull": "^4.1.0"
@@ -120,10 +117,7 @@
       "validate",
       "test"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/lukekarrys/strava-bulk-edit.git"
-    },
+    "repository": "https://github.com/lukekarrys/strava-bulk-edit",
     "scripts": {
       "debug": "npm run development && cat dist/StravaBulkEdit.dev.js | pbcopy",
       "development": "webpack --bail src/index.js dist/StravaBulkEdit.dev.js",
@@ -138,6 +132,11 @@
         "dist/**"
       ],
       "parser": "babel-eslint"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lukekarrys/strava-bulk-edit/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   },
   "filename": "lukekarrys___strava-bulk-edit.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:47:23.972Z",
-  "packageLastFetchedAt": "2017-05-05T17:08:49.142Z"
+  "lastFetchedAt": "2017-10-23T23:38:34.284Z",
+  "packageLastFetchedAt": "2017-05-05T17:08:49.142Z",
+  "archived": false
 }

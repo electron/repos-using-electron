@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ToeflGraderGrader",
     "version": "1.0.0",
@@ -60,18 +60,17 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kaunta/ToeflGraderGrader"
-    },
+    "repository": "https://github.com/kaunta/ToeflGraderGrader",
     "author": "John Lekberg <jclekberg@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kaunta/ToeflGraderGrader/issues"
-    },
     "homepage": "https://github.com/kaunta/ToeflGraderGrader",
     "devDependencies": {
       "electron-prebuilt": "^0.33.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kaunta/ToeflGraderGrader/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,6 @@
   },
   "filename": "kaunta___ToeflGraderGrader.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:06.707Z",
+  "lastFetchedAt": "2017-10-23T21:46:53.222Z",
   "packageLastFetchedAt": "2017-05-05T01:21:23.803Z"
 }

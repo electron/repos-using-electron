@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "location-services-controller",
     "version": "1.1.0",
@@ -76,10 +76,7 @@
       "clean": "rm -rf build",
       "postinstall": "cd app && npm install"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gluxon/LocationServicesController"
-    },
+    "repository": "https://github.com/gluxon/LocationServicesController",
     "author": "gluxon",
     "license": "MPL-2.0",
     "homepage": "",
@@ -92,7 +89,8 @@
       "electron-prebuilt": "^1.2.7",
       "gulp": "^3.9.1",
       "gulp-atom": "^0.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,6 @@
   },
   "filename": "gluxon___LocationServicesController.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:06:29.949Z",
+  "lastFetchedAt": "2017-10-23T23:01:53.083Z",
   "packageLastFetchedAt": "2017-05-05T11:37:26.845Z"
 }

@@ -1,46 +1,46 @@
 {
   "id": 61491322,
   "name": "vibrations",
-  "fullName": "samnnodim/vibrations",
+  "fullName": "obiiiknows/vibrations",
   "owner": {
-    "login": "samnnodim",
+    "login": "obiiiknows",
     "id": 10480589,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/10480589?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/10480589?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/samnnodim",
-    "htmlUrl": "https://github.com/samnnodim",
-    "followersUrl": "https://api.github.com/users/samnnodim/followers",
-    "subscriptionsUrl": "https://api.github.com/users/samnnodim/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/samnnodim/orgs",
-    "reposUrl": "https://api.github.com/users/samnnodim/repos",
-    "receivedEventsUrl": "https://api.github.com/users/samnnodim/received_events",
+    "url": "https://api.github.com/users/obiiiknows",
+    "htmlUrl": "https://github.com/obiiiknows",
+    "followersUrl": "https://api.github.com/users/obiiiknows/followers",
+    "subscriptionsUrl": "https://api.github.com/users/obiiiknows/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/obiiiknows/orgs",
+    "reposUrl": "https://api.github.com/users/obiiiknows/repos",
+    "receivedEventsUrl": "https://api.github.com/users/obiiiknows/received_events",
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/samnnodim/vibrations",
+  "htmlUrl": "https://github.com/obiiiknows/vibrations",
   "description": "a lil soundcloud player..for them desktops",
   "fork": false,
-  "url": "https://api.github.com/repos/samnnodim/vibrations",
-  "forksUrl": "https://api.github.com/repos/samnnodim/vibrations/forks",
-  "teamsUrl": "https://api.github.com/repos/samnnodim/vibrations/teams",
-  "hooksUrl": "https://api.github.com/repos/samnnodim/vibrations/hooks",
-  "eventsUrl": "https://api.github.com/repos/samnnodim/vibrations/events",
-  "tagsUrl": "https://api.github.com/repos/samnnodim/vibrations/tags",
-  "languagesUrl": "https://api.github.com/repos/samnnodim/vibrations/languages",
-  "stargazersUrl": "https://api.github.com/repos/samnnodim/vibrations/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/samnnodim/vibrations/contributors",
-  "subscribersUrl": "https://api.github.com/repos/samnnodim/vibrations/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/samnnodim/vibrations/subscription",
-  "mergesUrl": "https://api.github.com/repos/samnnodim/vibrations/merges",
-  "downloadsUrl": "https://api.github.com/repos/samnnodim/vibrations/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/samnnodim/vibrations/deployments",
+  "url": "https://api.github.com/repos/obiiiknows/vibrations",
+  "forksUrl": "https://api.github.com/repos/obiiiknows/vibrations/forks",
+  "teamsUrl": "https://api.github.com/repos/obiiiknows/vibrations/teams",
+  "hooksUrl": "https://api.github.com/repos/obiiiknows/vibrations/hooks",
+  "eventsUrl": "https://api.github.com/repos/obiiiknows/vibrations/events",
+  "tagsUrl": "https://api.github.com/repos/obiiiknows/vibrations/tags",
+  "languagesUrl": "https://api.github.com/repos/obiiiknows/vibrations/languages",
+  "stargazersUrl": "https://api.github.com/repos/obiiiknows/vibrations/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/obiiiknows/vibrations/contributors",
+  "subscribersUrl": "https://api.github.com/repos/obiiiknows/vibrations/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/obiiiknows/vibrations/subscription",
+  "mergesUrl": "https://api.github.com/repos/obiiiknows/vibrations/merges",
+  "downloadsUrl": "https://api.github.com/repos/obiiiknows/vibrations/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/obiiiknows/vibrations/deployments",
   "createdAt": "2016-06-19T17:17:00.000Z",
   "updatedAt": "2016-06-20T03:59:05.000Z",
   "pushedAt": "2016-06-26T06:19:06.000Z",
-  "gitUrl": "git://github.com/samnnodim/vibrations.git",
-  "sshUrl": "git@github.com:samnnodim/vibrations.git",
-  "cloneUrl": "https://github.com/samnnodim/vibrations.git",
-  "svnUrl": "https://github.com/samnnodim/vibrations",
+  "gitUrl": "git://github.com/obiiiknows/vibrations.git",
+  "sshUrl": "git@github.com:obiiiknows/vibrations.git",
+  "cloneUrl": "https://github.com/obiiiknows/vibrations.git",
+  "svnUrl": "https://github.com/obiiiknows/vibrations",
   "homepage": null,
   "size": 137,
   "stargazersCount": 2,
@@ -80,10 +80,7 @@
       "start": "./node_modules/.bin/electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/samnnodim/vibrations.git"
-    },
+    "repository": "https://github.com/samnnodim/vibrations",
     "keywords": [
       "soundcloud",
       "desktop",
@@ -96,9 +93,6 @@
     ],
     "author": "Sam y Braxton",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/samnnodim/vibrations/issues"
-    },
     "homepage": "https://github.com/samnnodim/vibrations#readme",
     "dependencies": {
       "body-parser": "^1.15.1",
@@ -111,6 +105,11 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^1.2.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/samnnodim/vibrations/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "samnnodim___vibrations.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:30:09.987Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:38.526Z"
+  "lastFetchedAt": "2017-10-23T21:51:06.702Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:38.526Z",
+  "archived": false
 }

@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hello-world",
     "productName": "HelloWorld",
@@ -85,7 +85,8 @@
     },
     "dependencies": {
       "dombo": "^3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/Kyle-Mendes/Electron----Hello-World",
@@ -132,6 +133,6 @@
   },
   "filename": "Kyle-Mendes___Electron----Hello-World.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:45:39.589Z",
+  "lastFetchedAt": "2017-10-24T00:11:05.666Z",
   "packageLastFetchedAt": "2017-05-05T15:06:41.911Z"
 }

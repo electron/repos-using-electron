@@ -5,7 +5,7 @@
   "owner": {
     "login": "zTrix",
     "id": 471934,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/471934?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/471934?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zTrix",
     "htmlUrl": "https://github.com/zTrix",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/zTrix/electronic-wechatircd/downloads",
   "deploymentsUrl": "https://api.github.com/repos/zTrix/electronic-wechatircd/deployments",
   "createdAt": "2016-09-16T08:23:46.000Z",
-  "updatedAt": "2017-03-12T04:56:56.000Z",
-  "pushedAt": "2016-12-19T03:47:51.000Z",
+  "updatedAt": "2017-10-06T04:41:50.000Z",
+  "pushedAt": "2017-07-27T08:54:00.000Z",
   "gitUrl": "git://github.com/zTrix/electronic-wechatircd.git",
   "sshUrl": "git@github.com:zTrix/electronic-wechatircd.git",
   "cloneUrl": "https://github.com/zTrix/electronic-wechatircd.git",
   "svnUrl": "https://github.com/zTrix/electronic-wechatircd",
   "homepage": "",
-  "size": 473,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 490,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "Python",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 6,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -82,10 +82,7 @@
       "build:win32": ".\\scripts\\build-win32.bat win32 ia32",
       "build:win64": ".\\scripts\\build-win32.bat win32 x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zTrix/electronic-wechatircd.git"
-    },
+    "repository": "https://github.com/zTrix/electronic-wechatircd",
     "keywords": [
       "Electron",
       "WeChat",
@@ -94,9 +91,6 @@
     ],
     "author": "Wenlei Zhu, Zhongyi Tong, MaskRay",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zTrix/electronic-wechatircd/issues"
-    },
     "homepage": "https://github.com/zTrix/electronic-wechatircd",
     "dependencies": {
       "electron-packager": "^7.0.0",
@@ -110,6 +104,11 @@
       "eslint-plugin-import": "^1.14.0",
       "eslint-plugin-jsx-a11y": "^2.2.0",
       "eslint-plugin-react": "^6.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zTrix/electronic-wechatircd/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "zTrix___electronic-wechatircd.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:40:07.922Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:55.215Z"
+  "lastFetchedAt": "2017-10-23T23:37:29.042Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:55.215Z",
+  "archived": false
 }

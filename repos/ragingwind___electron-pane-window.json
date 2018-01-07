@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-pane-window",
     "version": "0.0.1",
@@ -95,7 +95,8 @@
     "jshintConfig": {
       "esnext": true,
       "node": true
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +143,6 @@
   "svnUrl": "https://github.com/ragingwind/electron-pane-window",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:36:21.058Z",
+  "lastFetchedAt": "2017-10-23T23:06:29.832Z",
   "packageLastFetchedAt": "2017-05-04T22:12:44.686Z"
 }

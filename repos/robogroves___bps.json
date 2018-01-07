@@ -6,7 +6,7 @@
   "owner": {
     "login": "robogroves",
     "id": 16584064,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16584064?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16584064?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/robogroves",
     "htmlUrl": "https://github.com/robogroves",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/robogroves/bps/deployments",
   "createdAt": "2017-02-23T00:24:45.000Z",
   "updatedAt": "2017-02-23T00:28:14.000Z",
-  "pushedAt": "2017-03-10T11:33:40.000Z",
+  "pushedAt": "2017-10-10T12:57:32.000Z",
   "gitUrl": "git://github.com/robogroves/bps.git",
   "sshUrl": "git@github.com:robogroves/bps.git",
   "cloneUrl": "https://github.com/robogroves/bps.git",
   "svnUrl": "https://github.com/robogroves/bps",
   "homepage": null,
-  "size": 4840,
+  "size": 4346,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T17:42:58.149Z",
+  "lastFetchedAt": "2017-10-24T00:04:35.458Z",
   "packageJSON": {
     "name": "Ashley",
     "productName": "Ashley",
@@ -154,19 +154,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/robogroves/bps.git"
-    },
+    "repository": "https://github.com/robogroves/bps",
     "author": {
       "name": "Brent Groves",
       "email": "brent.groves@gmail.com",
       "url": "https://github.com/robogroves"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/robogroves/bps/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -285,8 +279,14 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/robogroves/bps/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:17:40.502Z"
+  "packageLastFetchedAt": "2017-05-05T17:17:40.502Z",
+  "archived": false
 }

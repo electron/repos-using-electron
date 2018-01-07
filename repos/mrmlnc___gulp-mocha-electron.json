@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gulp-mocha-electron",
     "version": "1.0.0",
@@ -129,7 +129,8 @@
         "node",
         "mocha"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -176,6 +177,6 @@
   "svnUrl": "https://github.com/mrmlnc/gulp-mocha-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:41:17.010Z",
+  "lastFetchedAt": "2017-10-23T22:56:31.076Z",
   "packageLastFetchedAt": "2017-05-05T15:21:13.125Z"
 }

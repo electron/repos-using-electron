@@ -5,7 +5,7 @@
   "owner": {
     "login": "mouse-org",
     "id": 19996360,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19996360?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19996360?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mouse-org",
     "htmlUrl": "https://github.com/mouse-org",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "mouse-org",
     "id": 19996360,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19996360?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19996360?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mouse-org",
     "htmlUrl": "https://github.com/mouse-org",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -105,14 +102,16 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
-    "productName": "Mouse Demo Desktop App"
+    "productName": "Mouse Demo Desktop App",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +138,7 @@
   },
   "filename": "mouse-org___mouse-demo-desktop-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:08:10.307Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:41.648Z"
+  "lastFetchedAt": "2017-10-24T00:16:11.489Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:41.648Z",
+  "archived": false
 }

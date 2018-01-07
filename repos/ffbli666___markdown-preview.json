@@ -5,7 +5,7 @@
   "owner": {
     "login": "ffbli666",
     "id": 3271463,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3271463?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3271463?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ffbli666",
     "htmlUrl": "https://github.com/ffbli666",
@@ -62,10 +62,7 @@
       "build_win32": "electron-packager . MarkApp --platform=win32 --arch=x64 --version=0.36.0 --icon=markdown.ico --asar=true --ignore=node_modules/electron-* ",
       "build_linux": "electron-packager . MarkApp --platform=linux --arch=x64 --version=0.36.0 --asar=true --ignore=node_modules/electron-* "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ffbli666/markdown-preview.git"
-    },
+    "repository": "https://github.com/ffbli666/markdown-preview",
     "keywords": [
       "Electron",
       "markdown",
@@ -73,15 +70,17 @@
     ],
     "author": "ffbli",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ffbli666/markdown-preview/issues"
-    },
     "homepage": "https://github.com/ffbli666/markdown-preview",
     "devDependencies": {
       "electron-packager": "^5.2.0",
       "electron-prebuilt": "^0.36.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ffbli666/markdown-preview/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +127,7 @@
   "svnUrl": "https://github.com/ffbli666/markdown-preview",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:29:59.781Z",
-  "packageLastFetchedAt": "2017-05-05T17:45:13.599Z"
+  "lastFetchedAt": "2017-10-23T23:40:08.401Z",
+  "packageLastFetchedAt": "2017-05-05T17:45:13.599Z",
+  "archived": false
 }

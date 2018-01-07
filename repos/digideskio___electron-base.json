@@ -164,7 +164,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-base",
     "version": "0.0.1",
@@ -230,7 +230,8 @@
       "bootstrap": "^3.3.6",
       "express": "^4.13.3",
       "method-override": "^2.3.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -278,6 +279,6 @@
   "svnUrl": "https://github.com/digideskio/electron-base",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:27:04.609Z",
+  "lastFetchedAt": "2017-10-23T23:09:43.327Z",
   "packageLastFetchedAt": "2017-05-05T14:33:42.904Z"
 }

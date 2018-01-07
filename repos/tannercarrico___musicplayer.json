@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "music-player",
     "productName": "Tanner's Music Player",
@@ -76,19 +76,13 @@
       "start": "electron main.js",
       "watch": "watchify app/app.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tannercarrico/musicplayer.git"
-    },
+    "repository": "https://github.com/tannercarrico/musicplayer",
     "keywords": [
       "react",
       "music"
     ],
     "author": "Tanner Carrico",
     "license": "",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "https://github.com/tannercarrico/musicplayer.git",
     "dependencies": {
       "axios": "^0.9.1",
@@ -104,6 +98,11 @@
       "react-dom": "^0.14.7",
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,6 @@
   },
   "filename": "tannercarrico___musicplayer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:16:10.493Z",
+  "lastFetchedAt": "2017-10-23T22:56:43.844Z",
   "packageLastFetchedAt": "2017-05-04T22:08:43.108Z"
 }

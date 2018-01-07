@@ -5,7 +5,7 @@
   "owner": {
     "login": "sebpearce",
     "id": 6406263,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6406263?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6406263?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sebpearce",
     "htmlUrl": "https://github.com/sebpearce",
@@ -61,19 +61,13 @@
       "build": "./node_modules/.bin/webpack",
       "watch": "./node_modules/.bin/webpack-dev-server --hot --inline"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "markdown",
       "electron"
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-core": "^6.7.5",
@@ -92,6 +86,11 @@
     },
     "dependencies": {
       "remarkable": "^1.6.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   "svnUrl": "https://github.com/sebpearce/downmark",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:31:41.752Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:26.829Z"
+  "lastFetchedAt": "2017-10-24T02:03:26.717Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:26.829Z",
+  "archived": false
 }

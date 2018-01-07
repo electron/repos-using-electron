@@ -5,7 +5,7 @@
   "owner": {
     "login": "BenevidesLecontes",
     "id": 1839361,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1839361?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1839361?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/BenevidesLecontes",
     "htmlUrl": "https://github.com/BenevidesLecontes",
@@ -69,15 +69,13 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -241,7 +239,8 @@
       "jquery": "^2.2.4",
       "moment": "^2.13.0",
       "ng2-bootstrap": "^1.0.17"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -268,6 +267,7 @@
   },
   "filename": "BenevidesLecontes___angular-seed.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:14:48.744Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:49.880Z"
+  "lastFetchedAt": "2017-10-23T21:45:08.644Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:49.880Z",
+  "archived": false
 }

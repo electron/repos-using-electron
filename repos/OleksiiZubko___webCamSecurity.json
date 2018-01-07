@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "oz-webcam-security",
     "version": "0.1.0",
@@ -81,10 +81,7 @@
       "postinstall": "install-app-deps",
       "buildForWindows": "electron-packager ./ --platform=win32 --arch=x64 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OleksiiZubko/webCamSecurity.git"
-    },
+    "repository": "https://github.com/OleksiiZubko/webCamSecurity",
     "keywords": [
       "Electron",
       "webcam",
@@ -93,9 +90,6 @@
     ],
     "author": "Oleksii Zubko",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/OleksiiZubko/webCamSecurity/issues"
-    },
     "homepage": "https://github.com/OleksiiZubko/webCamSecurity#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0",
@@ -103,6 +97,11 @@
     },
     "dependencies": {
       "msr": "^1.2.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/OleksiiZubko/webCamSecurity/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,6 @@
   },
   "filename": "OleksiiZubko___webCamSecurity.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:30.928Z",
+  "lastFetchedAt": "2017-10-23T23:08:26.570Z",
   "packageLastFetchedAt": "2017-05-05T15:21:21.190Z"
 }

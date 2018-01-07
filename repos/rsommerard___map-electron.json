@@ -5,7 +5,7 @@
   "owner": {
     "login": "rsommerard",
     "id": 8227507,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8227507?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8227507?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rsommerard",
     "htmlUrl": "https://github.com/rsommerard",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/rsommerard/map-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rsommerard/map-electron/deployments",
   "createdAt": "2016-03-18T15:27:28.000Z",
-  "updatedAt": "2016-03-18T15:35:35.000Z",
+  "updatedAt": "2017-09-15T00:32:03.000Z",
   "pushedAt": "2016-06-20T12:19:14.000Z",
   "gitUrl": "git://github.com/rsommerard/map-electron.git",
   "sshUrl": "git@github.com:rsommerard/map-electron.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/rsommerard/map-electron",
   "homepage": null,
   "size": 6,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/cc0-1.0",
     "featured": false
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "rsommerard___map-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:05.161Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:51.219Z"
+  "lastFetchedAt": "2017-10-23T22:12:31.758Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:51.219Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mindmeister-desktop",
     "productName": "Mindmeister Desktop",
@@ -56,10 +56,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jonatasfreitasv/mindmesiter_desktop.git"
-    },
+    "repository": "https://github.com/jonatasfreitasv/mindmesiter_desktop",
     "keywords": [
       "mindmeister",
       "desktop",
@@ -67,9 +64,6 @@
     ],
     "author": "Jonatas Freitas",
     "license": "",
-    "bugs": {
-      "url": "https://github.com/jonatasfreitasv/mindmesiter_desktop/issues"
-    },
     "build": {
       "appId": "mindmesiter_desktop.id",
       "category": "mindmesiter.desktop.mindmap.app",
@@ -82,6 +76,11 @@
       "electron-builder": "^5.34.1",
       "electron-packager": "^7.7.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jonatasfreitasv/mindmesiter_desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -130,6 +129,6 @@
   "svnUrl": "https://github.com/jonatasfreitasv/mindmeister_desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:17:23.986Z",
+  "lastFetchedAt": "2017-10-23T23:01:36.075Z",
   "packageLastFetchedAt": "2017-05-05T15:38:37.772Z"
 }

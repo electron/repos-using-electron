@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Vladimizr",
     "version": "1.0.0",
@@ -63,7 +63,8 @@
     "scripts": {
       "start": "electron .",
       "build": "electron-packager . Vladimizr --platform=darwin --arch=x64 --version=0.30.3 --ignore=node_modules/electron --icon=Icon.icns --overwrite"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -110,6 +111,6 @@
   "svnUrl": "https://github.com/kostia/vladimizr",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:20:42.125Z",
+  "lastFetchedAt": "2017-10-23T23:01:38.848Z",
   "packageLastFetchedAt": "2017-05-05T01:21:30.796Z"
 }

@@ -58,7 +58,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Anansi",
     "version": "0.0.1",
@@ -84,15 +84,9 @@
       "linter": "eslint ./src",
       "dump_db": "rm ~/Library/Application\\ Support/Electron/db.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sergiovilar/podcast-desktop.git"
-    },
+    "repository": "https://github.com/sergiovilar/podcast-desktop",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/sergiovilar/podcast-desktop/issues"
-    },
     "homepage": "https://github.com/sergiovilar/podcast-desktop#readme",
     "dependencies": {
       "@sergiovilar/amplitudejs": "^2.2.3",
@@ -139,6 +133,11 @@
       "require-dir": "^0.3.0",
       "rimraf": "^2.5.2",
       "shelljs": "^0.7.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sergiovilar/podcast-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -186,6 +185,6 @@
   },
   "filename": "AnansiPodcast___anansi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:29.101Z",
+  "lastFetchedAt": "2017-10-24T00:10:43.920Z",
   "packageLastFetchedAt": "2017-05-05T17:24:18.351Z"
 }

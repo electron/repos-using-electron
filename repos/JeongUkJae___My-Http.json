@@ -72,8 +72,8 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T19:38:42.879Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T22:33:27.987Z",
   "packageJSON": {
     "name": "My HTTP",
     "version": "0.0.1",
@@ -91,8 +91,10 @@
     "devDependencies": {
       "electron": "^1.6.1"
     },
-    "bugs": {
-      "email": "jeongukjae@gmail.com"
+    "other": {
+      "bugs": {
+        "email": "jeongukjae@gmail.com"
+      }
     }
   },
   "packageStatus": 200,

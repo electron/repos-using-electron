@@ -50,16 +50,13 @@
   },
   "networkCount": 14,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "redis-explorer",
     "version": "0.0.6",
     "description": "A GUI for Redis",
     "main": "browser.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/cpsubrian/redis-explorer.git"
-    },
+    "repository": "https://github.com/cpsubrian/redis-explorer",
     "homepage": "https://github.com/cpsubrian/redis-explorer",
     "keywords": [
       "redis"
@@ -71,9 +68,6 @@
         "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
       }
     ],
-    "bugs": {
-      "url": "https://github.com/cpsubrian/redis-explorer/issues"
-    },
     "scripts": {
       "test": "echo 'No Tests'"
     },
@@ -125,6 +119,11 @@
       "shell-escape": "^0.2.0",
       "source-map-support": "^0.3.1",
       "standard": "^4.3.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/cpsubrian/redis-explorer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,6 @@
   "svnUrl": "https://github.com/cpsubrian/redis-explorer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:24:22.602Z",
+  "lastFetchedAt": "2017-10-23T23:06:01.083Z",
   "packageLastFetchedAt": "2017-05-05T17:03:52.349Z"
 }

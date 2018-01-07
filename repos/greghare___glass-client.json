@@ -5,7 +5,7 @@
   "owner": {
     "login": "greghare",
     "id": 6226804,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6226804?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6226804?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/greghare",
     "htmlUrl": "https://github.com/greghare",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,12 +88,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "filename": "greghare___glass-client.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:52.459Z",
-  "packageLastFetchedAt": "2017-05-05T15:23:29.390Z"
+  "lastFetchedAt": "2017-10-23T21:48:17.626Z",
+  "packageLastFetchedAt": "2017-05-05T15:23:29.390Z",
+  "archived": false
 }

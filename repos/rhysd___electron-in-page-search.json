@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/rhysd/electron-in-page-search/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rhysd/electron-in-page-search/deployments",
   "createdAt": "2016-11-10T00:06:40.000Z",
-  "updatedAt": "2017-03-19T01:25:45.000Z",
+  "updatedAt": "2017-09-28T15:48:40.000Z",
   "pushedAt": "2016-11-25T09:42:29.000Z",
   "gitUrl": "git://github.com/rhysd/electron-in-page-search.git",
   "sshUrl": "git@github.com:rhysd/electron-in-page-search.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/rhysd/electron-in-page-search",
   "homepage": null,
   "size": 92,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 9,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 17,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -85,10 +85,7 @@
       "test": "electron-mocha --timeout 10000 --renderer test/*.js",
       "gen-dts": "tsc -d src/index.ts && mv src/index.d.ts ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/electron-in-page-search.git"
-    },
+    "repository": "https://github.com/rhysd/electron-in-page-search",
     "keywords": [
       "electron",
       "module",
@@ -106,7 +103,8 @@
       "sinon": "^1.17.6",
       "tslint": "^3.15.1",
       "typescript": "^2.0.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,7 @@
   },
   "filename": "rhysd___electron-in-page-search.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:27.685Z",
-  "packageLastFetchedAt": "2017-05-05T15:18:00.750Z"
+  "lastFetchedAt": "2017-10-24T00:07:56.466Z",
+  "packageLastFetchedAt": "2017-05-05T15:18:00.750Z",
+  "archived": false
 }

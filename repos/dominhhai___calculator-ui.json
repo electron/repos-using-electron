@@ -5,7 +5,7 @@
   "owner": {
     "login": "dominhhai",
     "id": 1484298,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1484298?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1484298?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dominhhai",
     "htmlUrl": "https://github.com/dominhhai",
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 0,
-  "subscribersCount": 0,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "scalc-ui",
@@ -81,10 +81,7 @@
       "build": "electron-packager . ElectronExample --platform=darwin --arch=x64 --version=0.26.0 --ignore=node_modules/electron-* && cp img/Icon.icns ElectronExample.app/Contents/Resources/atom.icns",
       "test": "standard && tape test/*.js | faucet"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dominhhai/calculator-ui.git"
-    },
+    "repository": "https://github.com/dominhhai/calculator-ui",
     "keywords": [
       "Calculator",
       "calc",
@@ -95,9 +92,6 @@
     ],
     "author": "Hai Do Minh",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dominhhai/calculator-ui/issues"
-    },
     "homepage": "https://github.com/dominhhai/calculator-ui#readme",
     "dependencies": {
       "scalc": "^1.0.0"
@@ -108,6 +102,11 @@
       "faucet": "0.0.1",
       "standard": "^4.2.1",
       "tape": "^4.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dominhhai/calculator-ui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -135,6 +134,7 @@
   },
   "filename": "dominhhai___calculator-ui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:03:36.307Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:46.397Z"
+  "lastFetchedAt": "2017-10-23T22:27:14.015Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:46.397Z",
+  "archived": false
 }

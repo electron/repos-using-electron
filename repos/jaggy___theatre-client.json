@@ -5,7 +5,7 @@
   "owner": {
     "login": "jaggy",
     "id": 1993075,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1993075?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1993075?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jaggy",
     "htmlUrl": "https://github.com/jaggy",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,9 +68,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -82,6 +76,11 @@
       "pusher": "^1.4.0-rc6",
       "requestify": "^0.2.0",
       "vue": "^1.0.26"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   "svnUrl": "https://github.com/jaggy/theatre-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:08:06.473Z",
-  "packageLastFetchedAt": "2017-05-05T17:10:37.513Z"
+  "lastFetchedAt": "2017-10-23T23:42:12.173Z",
+  "packageLastFetchedAt": "2017-05-05T17:10:37.513Z",
+  "archived": false
 }

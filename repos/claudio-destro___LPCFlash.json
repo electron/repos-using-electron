@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "lpcflashutility",
     "version": "0.0.3",
@@ -80,13 +80,7 @@
       "typings": "^0.7.8",
       "webpack": "^1.12.14"
     },
-    "bugs": {
-      "url": "https://github.com/claudio-destro/LPCFlash/issues"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/claudio-destro/LPCFlash.git"
-    },
+    "repository": "https://github.com/claudio-destro/LPCFlash",
     "keywords": [
       "angular2",
       "electron",
@@ -99,7 +93,12 @@
       "serialport",
       "typescript"
     ],
-    "scripts": {}
+    "scripts": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/claudio-destro/LPCFlash/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/claudio-destro/LPCFlash",
@@ -146,6 +145,6 @@
   },
   "filename": "claudio-destro___LPCFlash.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:23:52.401Z",
+  "lastFetchedAt": "2017-10-23T23:04:05.844Z",
   "packageLastFetchedAt": "2017-05-05T06:35:48.749Z"
 }

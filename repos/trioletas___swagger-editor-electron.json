@@ -50,7 +50,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "swagger-editor-electron",
     "version": "1.0.1",
@@ -62,10 +62,7 @@
       "electron"
     ],
     "author": "Olegs Gabrusjonoks <olegs.gabrusjonoks@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/trioletas/swagger-editor-electron.git"
-    },
+    "repository": "https://github.com/trioletas/swagger-editor-electron",
     "main": "lib/index.js",
     "electronVersion": "0.37.2",
     "electronName": "Swagger Editor",
@@ -85,7 +82,8 @@
       "eslint": "2.3.0",
       "eslint-config-airbnb": "6.1.0"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/trioletas/swagger-editor-electron",
@@ -132,6 +130,6 @@
   },
   "filename": "trioletas___swagger-editor-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:14.985Z",
+  "lastFetchedAt": "2017-10-23T22:57:17.850Z",
   "packageLastFetchedAt": "2017-05-05T17:46:00.793Z"
 }

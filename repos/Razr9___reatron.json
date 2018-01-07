@@ -5,7 +5,7 @@
   "owner": {
     "login": "DevNvll",
     "id": 3536261,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3536261?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3536261?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DevNvll",
     "htmlUrl": "https://github.com/DevNvll",
@@ -57,10 +57,7 @@
       "dev": "webpack --config ./webpack.config.babel.js --watch",
       "pack": "electron-packager ./ Reatron --platform=win32 --arch=ia32 --out=./releases --prune --ignore=\"(/app|.gitignore|webpack.config.babel.js|.babelrc|/releases).*\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/DevNvll/reatron.git"
-    },
+    "repository": "https://github.com/DevNvll/reatron",
     "keywords": [
       "react",
       "electron"
@@ -86,7 +83,8 @@
       "style-loader": "^0.13.1",
       "url-loader": "^0.5.7",
       "webpack": "^1.13.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,7 @@
   "svnUrl": "https://github.com/DevNvll/reatron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:12:35.208Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:59.296Z"
+  "lastFetchedAt": "2017-10-23T23:45:03.963Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:59.296Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "glurp",
     "id": 27629,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/27629?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/27629?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/glurp",
     "htmlUrl": "https://github.com/glurp",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/glurp/joy2"
-    },
+    "repository": "https://github.com/glurp/joy2",
     "keywords": [
       "Electron",
       "joystick",
@@ -90,12 +87,14 @@
     ],
     "author": "Actemium",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/glurp/joy2/issues"
-    },
     "homepage": "https://github.com/glurp/joy2#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/glurp/joy2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "glurp___joy2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:47.668Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:35.621Z"
+  "lastFetchedAt": "2017-10-23T22:26:34.991Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:35.621Z",
+  "archived": false
 }

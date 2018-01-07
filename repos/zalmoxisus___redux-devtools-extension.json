@@ -5,7 +5,7 @@
   "owner": {
     "login": "zalmoxisus",
     "id": 7957859,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7957859?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7957859?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zalmoxisus",
     "htmlUrl": "https://github.com/zalmoxisus",
@@ -20,21 +20,21 @@
   "description": "Redux DevTools extension.",
   "fork": false,
   "createdAt": "2015-10-24T14:10:38.000Z",
-  "updatedAt": "2017-05-04T14:38:35.000Z",
-  "pushedAt": "2017-05-04T16:03:46.000Z",
+  "updatedAt": "2017-10-23T16:57:07.000Z",
+  "pushedAt": "2017-10-10T16:35:41.000Z",
   "homepage": "http://extension.remotedev.io",
-  "size": 10700,
-  "stargazersCount": 3764,
-  "watchersCount": 3764,
+  "size": 10650,
+  "stargazersCount": 4969,
+  "watchersCount": 4969,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 151,
-  "openIssuesCount": 51,
-  "openIssues": 51,
-  "watchers": 3764,
+  "forksCount": 224,
+  "openIssuesCount": 87,
+  "openIssues": 87,
+  "watchers": 4969,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 151,
-  "subscribersCount": 66,
+  "networkCount": 224,
+  "subscribersCount": 83,
   "status": 200,
   "packageJSON": {
     "version": "2.15.0",
@@ -76,10 +76,7 @@
       "test:electron": "gulp test:electron && rimraf test/electron/tmp",
       "test": "npm run test:app && npm run build:extension && npm run test:chrome && npm run test:electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zalmoxisus/redux-devtools-extension"
-    },
+    "repository": "https://github.com/zalmoxisus/redux-devtools-extension",
     "homepage": "https://github.com/zalmoxisus/redux-devtools-extension",
     "author": "Mihail Diordiev <zalmoxisus@gmail.com> (https://github.com/zalmoxisus)",
     "license": "MIT",
@@ -140,7 +137,8 @@
       "remotedev-serialize": "^0.1.0",
       "remotedev-slider": "^1.1.1",
       "remotedev-utils": "0.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/zalmoxisus/redux-devtools-extension",
@@ -187,6 +185,7 @@
   },
   "filename": "zalmoxisus___redux-devtools-extension.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:39:02.492Z",
-  "packageLastFetchedAt": "2017-05-05T17:07:53.008Z"
+  "lastFetchedAt": "2017-10-23T21:45:41.382Z",
+  "packageLastFetchedAt": "2017-05-05T17:07:53.008Z",
+  "archived": false
 }

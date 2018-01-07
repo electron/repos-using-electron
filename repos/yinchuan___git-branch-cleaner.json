@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "git-branch-cleaner",
     "version": "0.0.1",
@@ -73,18 +73,12 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/yinchuan/git-branch-cleaner.git"
-    },
+    "repository": "https://github.com/yinchuan/git-branch-cleaner",
     "keywords": [
       "git"
     ],
     "author": "yinchuan",
     "license": "GPL",
-    "bugs": {
-      "url": "https://github.com/yinchuan/git-branch-cleaner/issues"
-    },
     "homepage": "https://github.com/yinchuan/git-branch-cleaner",
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
@@ -93,6 +87,11 @@
       "angular": "^1.5.7",
       "bootstrap": "^3.3.6",
       "jquery": "^3.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/yinchuan/git-branch-cleaner/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,6 @@
   },
   "filename": "yinchuan___git-branch-cleaner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:20:24.405Z",
+  "lastFetchedAt": "2017-10-23T23:01:28.815Z",
   "packageLastFetchedAt": "2017-05-05T14:54:15.846Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "RoryOSiochain",
     "id": 721089,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/721089?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/721089?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RoryOSiochain",
     "htmlUrl": "https://github.com/RoryOSiochain",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "gholevas",
       "id": 6013575,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6013575?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6013575?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/gholevas",
       "htmlUrl": "https://github.com/gholevas",
@@ -95,8 +95,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 4,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 25,
     "openIssues": 25,
     "watchers": 21,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "gholevas",
       "id": 6013575,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/6013575?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6013575?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/gholevas",
       "htmlUrl": "https://github.com/gholevas",
@@ -155,14 +156,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 4,
+    "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 25,
     "openIssues": 25,
     "watchers": 21,
     "defaultBranch": "master"
   },
-  "networkCount": 4,
+  "networkCount": 3,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -173,10 +175,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gholevas/mongomulch.git"
-    },
+    "repository": "https://github.com/gholevas/mongomulch",
     "keywords": [
       "mongodb",
       "seeder",
@@ -184,9 +183,6 @@
     ],
     "author": "Team Mulch",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/gholevas/mongomulch/issues"
-    },
     "homepage": "https://mongomulch.com",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -240,6 +236,11 @@
       "mongoose": "4.0.7",
       "node-notifier": "^4.5.0",
       "run-sequence": "^1.1.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gholevas/mongomulch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -288,6 +289,7 @@
   "svnUrl": "https://github.com/RoryOSiochain/mongomulch",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:27:31.549Z",
-  "packageLastFetchedAt": "2017-05-05T14:31:35.620Z"
+  "lastFetchedAt": "2017-10-23T22:09:40.375Z",
+  "packageLastFetchedAt": "2017-05-05T14:31:35.620Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "fostertheweb",
     "id": 969506,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/969506?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/969506?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fostertheweb",
     "htmlUrl": "https://github.com/fostertheweb",
@@ -56,10 +56,6 @@
     "version": "0.0.0",
     "description": "Small description for kappa-client goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -103,7 +99,13 @@
       "hls.js": "git+https://github.com/dailymotion/hls.js.git",
       "kappa-kit": "git+https://github.com/fostertheweb/kappa-kit.git"
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -150,6 +152,7 @@
   "svnUrl": "https://github.com/fostertheweb/kappa-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:53:35.431Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:58.277Z"
+  "lastFetchedAt": "2017-10-23T22:07:17.655Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:58.277Z",
+  "archived": false
 }

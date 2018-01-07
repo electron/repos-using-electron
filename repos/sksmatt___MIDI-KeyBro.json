@@ -5,7 +5,7 @@
   "owner": {
     "login": "sksmatt",
     "id": 21919,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/21919?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/21919?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sksmatt",
     "htmlUrl": "https://github.com/sksmatt",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 1,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
+  "networkCount": 1,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -78,7 +78,8 @@
     "scripts": {
       "build": "electron-packager . KeyBro --platform=darwin --arch=x64 --icon=Icon.icns --version=0.30.2 --overwrite | open .",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -105,6 +106,7 @@
   },
   "filename": "sksmatt___MIDI-KeyBro.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:35.847Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:11.158Z"
+  "lastFetchedAt": "2017-10-24T00:17:59.719Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:11.158Z",
+  "archived": false
 }

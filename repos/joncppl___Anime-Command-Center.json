@@ -72,8 +72,8 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T15:25:17.094Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T22:59:41.174Z",
   "packageJSON": {
     "name": "acc",
     "productName": "AnimeCommandCenter",
@@ -110,9 +110,6 @@
       "url": "https://jonathanchapple.com"
     },
     "license": "CC-BY-NC-SA-4.0",
-    "bugs": {
-      "url": "https://jonathanchapple.com/acc"
-    },
     "homepage": "https://jonathanchapple.com/acc",
     "devDependencies": {
       "asar": "^0.12.3",
@@ -222,6 +219,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://jonathanchapple.com/acc"
+      }
     }
   },
   "packageStatus": 200,

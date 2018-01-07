@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fichador",
     "version": "1.0.0",
@@ -79,25 +79,24 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/carapia/fichador"
-    },
+    "repository": "https://github.com/carapia/fichador",
     "keywords": [
       "Fichador",
       "estudante"
     ],
     "author": "Carapia",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "electron-json-storage": "^2.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   },
   "filename": "carapia___fichador.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:54:52.458Z",
+  "lastFetchedAt": "2017-10-23T23:09:53.332Z",
   "packageLastFetchedAt": "2017-05-05T15:26:04.795Z"
 }

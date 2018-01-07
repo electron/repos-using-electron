@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "wake",
     "version": "0.2.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron app/electron/main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/idotjee/wake.git"
-    },
+    "repository": "https://github.com/idotjee/wake",
     "author": "idotjee",
     "license": "MIT",
     "devDependencies": {
@@ -108,7 +105,8 @@
       "typo-js": "^1.0.1",
       "yargs": "^4.7.0"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +134,6 @@
   "filename": "6A___wake.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:07.217Z",
+  "lastFetchedAt": "2017-10-23T23:44:51.133Z",
   "packageLastFetchedAt": "2017-05-05T14:47:48.028Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "CurtisLusmore",
     "id": 7506136,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/7506136?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/7506136?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/CurtisLusmore",
     "htmlUrl": "https://github.com/CurtisLusmore",
@@ -50,7 +50,6 @@
     "version": "0.1.0",
     "description": "A CLI-inspired GUI client for Git.",
     "homepage": "https://github.com/foldr/twat",
-    "bugs": "https://github.com/foldr/twat/issues",
     "contributors": [
       {
         "name": "Curtis Lusmore",
@@ -58,14 +57,14 @@
         "url": "https://github.com/CurtisLusmore"
       }
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/foldr/twat.git"
-    },
+    "repository": "https://github.com/foldr/twat",
     "main": "main.js",
     "devDependencies": {
       "electron-prebuilt": "^0.36.9",
       "parsimmon": "0.7.0"
+    },
+    "other": {
+      "bugs": "https://github.com/foldr/twat/issues"
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   "svnUrl": "https://github.com/CurtisLusmore/twat",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:06:09.045Z",
-  "packageLastFetchedAt": "2017-05-05T17:53:14.747Z"
+  "lastFetchedAt": "2017-10-23T22:30:45.079Z",
+  "packageLastFetchedAt": "2017-05-05T17:53:14.747Z",
+  "archived": false
 }

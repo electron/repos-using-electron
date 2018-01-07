@@ -5,7 +5,7 @@
   "owner": {
     "login": "bluedaniel",
     "id": 189383,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/189383?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/189383?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bluedaniel",
     "htmlUrl": "https://github.com/bluedaniel",
@@ -20,22 +20,22 @@
   "description": ":musical_note: [Web & Desktop] An open source ambient sound mixer",
   "fork": false,
   "createdAt": "2015-09-17T21:05:40.000Z",
-  "updatedAt": "2017-04-22T17:42:10.000Z",
-  "pushedAt": "2016-08-08T00:04:35.000Z",
+  "updatedAt": "2017-10-08T19:37:20.000Z",
+  "pushedAt": "2017-09-18T08:25:08.000Z",
   "homepage": "http://kakapo.co/app.html",
-  "size": 6136,
-  "stargazersCount": 292,
-  "watchersCount": 292,
+  "size": 6724,
+  "stargazersCount": 321,
+  "watchersCount": 321,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 21,
-  "openIssuesCount": 6,
-  "openIssues": 6,
-  "watchers": 292,
-  "defaultBranch": "master",
+  "forksCount": 28,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 321,
+  "defaultBranch": "develop",
   "permissions": {
     "admin": false,
     "push": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "featured": true
   },
-  "networkCount": 21,
-  "subscribersCount": 14,
+  "networkCount": 28,
+  "subscribersCount": 17,
   "status": 200,
   "packageJSON": {
     "name": "kakapo-app",
@@ -156,16 +156,15 @@
       "installer-win": "babel-node tools/run installer-win",
       "start": "babel-node tools/run start"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bluedaniel/Kakapo-app.git"
-    },
+    "repository": "https://github.com/bluedaniel/Kakapo-app",
     "author": "Daniel Levitt @supercerebral",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bluedaniel/Kakapo-app/issues"
-    },
-    "homepage": "https://github.com/bluedaniel/Kakapo-app#readme"
+    "homepage": "https://github.com/bluedaniel/Kakapo-app#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bluedaniel/Kakapo-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/bluedaniel/Kakapo-app",
@@ -212,6 +211,7 @@
   },
   "filename": "bluedaniel___Kakapo-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:46.210Z",
-  "packageLastFetchedAt": "2017-05-04T22:38:11.763Z"
+  "lastFetchedAt": "2017-10-24T00:18:59.220Z",
+  "packageLastFetchedAt": "2017-05-04T22:38:11.763Z",
+  "archived": false
 }

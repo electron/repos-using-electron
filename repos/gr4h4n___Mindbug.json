@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "scripts": {
       "watch": "watchify app/app.jsx -t [ babelify --presets [ react es2015 stage-1] --plugins [transform-decorators-legacy] ] -o app/js/app.js",
@@ -137,6 +137,6 @@
   },
   "filename": "gr4h4n___Mindbug.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:56.053Z",
+  "lastFetchedAt": "2017-10-23T23:08:18.576Z",
   "packageLastFetchedAt": "2017-05-05T17:48:03.915Z"
 }

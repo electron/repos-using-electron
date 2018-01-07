@@ -5,7 +5,7 @@
   "owner": {
     "login": "AcklenAvenue",
     "id": 861969,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/861969?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/861969?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AcklenAvenue",
     "htmlUrl": "https://github.com/AcklenAvenue",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "AcklenAvenue",
     "id": 861969,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/861969?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/861969?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AcklenAvenue",
     "htmlUrl": "https://github.com/AcklenAvenue",
@@ -129,10 +129,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AcklenAvenue/Blue-Jedi-Frontend"
-    },
+    "repository": "https://github.com/AcklenAvenue/Blue-Jedi-Frontend",
     "keywords": [
       "electron",
       "angular",
@@ -141,9 +138,6 @@
       "applications",
       "web"
     ],
-    "bugs": {
-      "url": "https://github.com/AcklenAvenue/Blue-Jedi-Frontend/issues"
-    },
     "devDependencies": {
       "babel": "^5.6.14",
       "babel-jest": "^5.3.0",
@@ -242,6 +236,11 @@
         "__tests__/app/",
         "/node_modules/"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AcklenAvenue/Blue-Jedi-Frontend/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -269,6 +268,7 @@
   },
   "filename": "AcklenAvenue___blueJediVersionManager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:18.274Z",
-  "packageLastFetchedAt": "2017-05-04T22:17:22.315Z"
+  "lastFetchedAt": "2017-10-23T22:06:27.295Z",
+  "packageLastFetchedAt": "2017-05-04T22:17:22.315Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "joeynguyen",
     "id": 776016,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/776016?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/776016?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joeynguyen",
     "htmlUrl": "https://github.com/joeynguyen",
@@ -20,12 +20,12 @@
   "description": "Personal finance tracker built using electron",
   "fork": false,
   "createdAt": "2015-09-20T09:14:29.000Z",
-  "updatedAt": "2016-11-07T05:43:45.000Z",
-  "pushedAt": "2017-04-29T04:40:32.000Z",
+  "updatedAt": "2017-09-22T04:49:02.000Z",
+  "pushedAt": "2017-10-10T07:37:17.000Z",
   "homepage": null,
-  "size": 972,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 3923,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -66,15 +66,9 @@
       "coverage": "nyc report",
       "dev": "concurrently --kill-others \"npm run hot-server\" \"npm run start-hot\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joeynguyen/spendless.git"
-    },
+    "repository": "https://github.com/joeynguyen/spendless",
     "author": "Giao Nguyen",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/joeynguyen/spendless/issues"
-    },
     "keywords": [
       "babel",
       "bootstrap",
@@ -149,6 +143,11 @@
       "redux-form": "5.3.3",
       "redux-thunk": "2.0.1",
       "toastr": "2.1.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/joeynguyen/spendless/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -196,6 +195,7 @@
   "svnUrl": "https://github.com/joeynguyen/spendless",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:45:15.382Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:32.213Z"
+  "lastFetchedAt": "2017-10-23T21:49:04.623Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:32.213Z",
+  "archived": false
 }

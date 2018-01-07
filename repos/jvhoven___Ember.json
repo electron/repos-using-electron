@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Ember",
     "version": "0.0.1",
@@ -79,16 +79,14 @@
     "scripts": {
       "start": "gulp serve"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jvhoven/Ember.git"
-    },
+    "repository": "https://github.com/jvhoven/Ember",
     "author": "Jeffrey van Joven",
     "devDependencies": {
       "electron-connect": "^0.4.0",
       "electron-prebuilt": "^0.37.8",
       "gulp": "^3.9.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,6 @@
   },
   "filename": "jvhoven___Ember.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:28:27.327Z",
+  "lastFetchedAt": "2017-10-23T23:00:00.121Z",
   "packageLastFetchedAt": "2017-05-04T22:53:25.113Z"
 }

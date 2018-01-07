@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sound-machine",
     "version": "0.1.0",
@@ -68,7 +68,8 @@
     },
     "dependencies": {
       "nconf": "^0.8.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +116,6 @@
   "svnUrl": "https://github.com/TomasAnderson/sound-machine",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:03:48.996Z",
+  "lastFetchedAt": "2017-10-23T23:05:26.330Z",
   "packageLastFetchedAt": "2017-05-05T15:24:19.599Z"
 }

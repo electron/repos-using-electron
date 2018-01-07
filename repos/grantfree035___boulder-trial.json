@@ -5,7 +5,7 @@
   "owner": {
     "login": "grantfree035",
     "id": 6607364,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6607364?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6607364?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/grantfree035",
     "htmlUrl": "https://github.com/grantfree035",
@@ -75,10 +75,7 @@
       "build": "gulp",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/grantfree035/boulder-trial.git"
-    },
+    "repository": "https://github.com/grantfree035/boulder-trial",
     "keywords": [
       "webapp",
       "climbing",
@@ -88,9 +85,6 @@
     ],
     "author": "Grant Freeman",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/grantfree035/boulder-trial/issues"
-    },
     "homepage": "https://github.com/grantfree035/boulder-trial#readme",
     "devDependencies": {
       "chai": "^3.5.0",
@@ -103,7 +97,12 @@
       "jshint-stylish": "^2.1.0",
       "mocha": "^2.4.5"
     },
-    "private": true
+    "private": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/grantfree035/boulder-trial/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +129,7 @@
   },
   "filename": "grantfree035___boulder-trial.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:30:40.156Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:44.297Z"
+  "lastFetchedAt": "2017-10-24T00:20:05.689Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:44.297Z",
+  "archived": false
 }

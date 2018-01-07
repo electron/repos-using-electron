@@ -5,7 +5,7 @@
   "owner": {
     "login": "JimmyBoh",
     "id": 2332163,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2332163?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2332163?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JimmyBoh",
     "htmlUrl": "https://github.com/JimmyBoh",
@@ -17,16 +17,16 @@
     "type": "User"
   },
   "private": false,
-  "description": "An HTML5 ALife simulator, with procedural terrain, weather, and other fun stuff.",
+  "description": "An Artificial Life simulator, with procedural terrain, weather, organisms, and other fun stuff.",
   "fork": false,
   "createdAt": "2016-05-21T13:14:21.000Z",
-  "updatedAt": "2016-06-09T19:46:21.000Z",
-  "pushedAt": "2016-07-15T20:09:27.000Z",
+  "updatedAt": "2017-07-06T17:34:41.000Z",
+  "pushedAt": "2017-06-13T03:22:01.000Z",
   "homepage": "",
-  "size": 469,
-  "stargazersCount": 0,
-  "watchersCount": 0,
-  "language": "HTML",
+  "size": 543,
+  "stargazersCount": 1,
+  "watchersCount": 1,
+  "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -34,20 +34,14 @@
   "forksCount": 0,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
-    "spdxId": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "featured": true
-  },
+  "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
@@ -64,15 +58,9 @@
       "version": "git add -A",
       "postversion": "git push && git push --tags && npm publish"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/JimmyBoh/bio-sim.git"
-    },
+    "repository": "https://github.com/JimmyBoh/bio-sim",
     "author": "Jim Buck <jim@jimmyboh.com>",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/JimmyBoh/bio-sim/issues"
-    },
     "homepage": "https://github.com/JimmyBoh/bio-sim#readme",
     "devDependencies": {
       "ava": "^0.15.1",
@@ -102,6 +90,11 @@
         "dist/**/*.spec.js",
         "dist/**/*.d.ts"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/JimmyBoh/bio-sim/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -149,6 +142,7 @@
   },
   "filename": "JimmyBoh___bio-sim.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:02:20.254Z",
-  "packageLastFetchedAt": "2017-05-05T17:36:33.105Z"
+  "lastFetchedAt": "2017-10-23T21:45:25.638Z",
+  "packageLastFetchedAt": "2017-05-05T17:36:33.105Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jmarkstevens",
     "id": 8116777,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8116777?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8116777?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jmarkstevens",
     "htmlUrl": "https://github.com/jmarkstevens",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/jmarkstevens/CodeViewer/deployments",
   "createdAt": "2016-03-04T18:16:59.000Z",
   "updatedAt": "2016-03-04T18:17:10.000Z",
-  "pushedAt": "2017-03-02T16:42:45.000Z",
+  "pushedAt": "2017-07-02T17:01:42.000Z",
   "gitUrl": "git://github.com/jmarkstevens/CodeViewer.git",
   "sshUrl": "git@github.com:jmarkstevens/CodeViewer.git",
   "cloneUrl": "https://github.com/jmarkstevens/CodeViewer.git",
   "svnUrl": "https://github.com/jmarkstevens/CodeViewer",
   "homepage": null,
-  "size": 3926,
+  "size": 3783,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -81,10 +81,7 @@
       "name": "Janaka Stevens",
       "email": "jmstevens@jmarkstevens.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jmarkstevens/CodeViewer.git"
-    },
+    "repository": "https://github.com/jmarkstevens/CodeViewer",
     "scripts": {
       "start": "nodemon --watch js js/server.js",
       "e": "electron .",
@@ -133,7 +130,8 @@
       "mocha": "latest",
       "react-addons-test-utils": "^15.0.0",
       "sinon": "latest"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -160,6 +158,7 @@
   },
   "filename": "jmarkstevens___CodeViewer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:36:29.098Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:24.494Z"
+  "lastFetchedAt": "2017-10-23T21:49:34.709Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:24.494Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "TobiasBales",
     "id": 207504,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/207504?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/207504?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TobiasBales",
     "htmlUrl": "https://github.com/TobiasBales",
@@ -20,12 +20,12 @@
   "description": "A simple cross platform tool to configure the playuav osd",
   "fork": false,
   "createdAt": "2016-04-03T15:33:07.000Z",
-  "updatedAt": "2017-04-25T21:37:41.000Z",
+  "updatedAt": "2017-09-22T21:20:17.000Z",
   "pushedAt": "2017-03-26T14:06:38.000Z",
   "homepage": "",
   "size": 12836,
-  "stargazersCount": 12,
-  "watchersCount": 12,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 14,
   "openIssues": 14,
-  "watchers": 12,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": true
   },
   "networkCount": 2,
-  "subscribersCount": 7,
+  "subscribersCount": 8,
   "status": 200,
   "packageJSON": {
     "name": "playuav-osd-configurator",
@@ -57,9 +57,6 @@
     "version": "0.12.1",
     "description": "A simple cross platform tool to configure the PlayUAV OSD",
     "main": "main.js",
-    "bugs": {
-      "url": "https://github.com/TobiasBales/PlayuavOSDConfigurator/issues"
-    },
     "contributors": [],
     "license": "MIT",
     "author": {
@@ -103,10 +100,7 @@
         ]
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/TobiasBales/PlayuavOSDConfigurator"
-    },
+    "repository": "https://github.com/TobiasBales/PlayuavOSDConfigurator",
     "keywords": [],
     "dependencies": {
       "bluebird": "2.9.33",
@@ -206,7 +200,12 @@
       "lint",
       "test",
       "validate"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/TobiasBales/PlayuavOSDConfigurator/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/TobiasBales/PlayuavOSDConfigurator",
@@ -253,6 +252,7 @@
   },
   "filename": "TobiasBales___PlayuavOSDConfigurator.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:48:34.427Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:33.569Z"
+  "lastFetchedAt": "2017-10-24T00:17:41.456Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:33.569Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "n6g7",
     "id": 3386177,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3386177?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3386177?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/n6g7",
     "htmlUrl": "https://github.com/n6g7",
@@ -58,13 +58,7 @@
       "build": "webpack && rm -r dist || build -mwl",
       "dev": "NODE_ENV=dev electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/n6g7/stylay.git"
-    },
-    "bugs": {
-      "url": "https://github.com/n6g7/stylay/issues"
-    },
+    "repository": "https://github.com/n6g7/stylay",
     "homepage": "https://github.com/n6g7/stylay#readme",
     "dependencies": {
       "immutable": "^3.8.1",
@@ -140,6 +134,11 @@
     "build": {
       "appId": "fr.gnab.stylay",
       "category": "public.app-category.developer-tools"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/n6g7/stylay/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -187,6 +186,7 @@
   },
   "filename": "n6g7___stylay.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:05.182Z",
-  "packageLastFetchedAt": "2017-05-04T22:10:45.393Z"
+  "lastFetchedAt": "2017-10-23T22:15:31.007Z",
+  "packageLastFetchedAt": "2017-05-04T22:10:45.393Z",
+  "archived": false
 }

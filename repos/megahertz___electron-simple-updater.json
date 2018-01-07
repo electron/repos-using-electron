@@ -5,7 +5,7 @@
   "owner": {
     "login": "megahertz",
     "id": 1762672,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1762672?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1762672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/megahertz",
     "htmlUrl": "https://github.com/megahertz",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/megahertz/electron-simple-updater/downloads",
   "deploymentsUrl": "https://api.github.com/repos/megahertz/electron-simple-updater/deployments",
   "createdAt": "2016-10-13T11:47:34.000Z",
-  "updatedAt": "2017-05-04T16:58:56.000Z",
-  "pushedAt": "2017-04-17T07:00:51.000Z",
+  "updatedAt": "2017-10-16T02:51:41.000Z",
+  "pushedAt": "2017-08-19T02:27:39.000Z",
   "gitUrl": "git://github.com/megahertz/electron-simple-updater.git",
   "sshUrl": "git@github.com:megahertz/electron-simple-updater.git",
   "cloneUrl": "https://github.com/megahertz/electron-simple-updater.git",
   "svnUrl": "https://github.com/megahertz/electron-simple-updater",
   "homepage": null,
-  "size": 342,
-  "stargazersCount": 63,
-  "watchersCount": 63,
+  "size": 344,
+  "stargazersCount": 105,
+  "watchersCount": 105,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 12,
+  "forksCount": 19,
   "mirrorUrl": null,
-  "openIssuesCount": 4,
-  "openIssues": 4,
-  "watchers": 63,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 105,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 12,
-  "subscribersCount": 6,
+  "networkCount": 19,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "electron-simple-updater",
@@ -81,10 +81,7 @@
       "mocha": "./node_modules/.bin/mocha ./spec/**/*.mock.js ./spec/**/*.spec.js",
       "lint": "node_modules/.bin/eslint ./index.js ./lib/**/*.js ./example/app/*.js ./spec/**/*.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/megahertz/electron-simple-updater.git"
-    },
+    "repository": "https://github.com/megahertz/electron-simple-updater",
     "files": [
       "index.js",
       "lib/*"
@@ -104,9 +101,6 @@
     ],
     "author": "Alexey Prokhorov",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/megahertz/electron-simple-updater/issues"
-    },
     "homepage": "https://github.com/megahertz/electron-simple-updater#readme",
     "engines": {
       "node": ">=6.0"
@@ -127,6 +121,11 @@
     "dependencies": {
       "httpreq": "^0.4.22",
       "semver": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/megahertz/electron-simple-updater/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -154,6 +153,7 @@
   },
   "filename": "megahertz___electron-simple-updater.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:39:50.579Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:18.970Z"
+  "lastFetchedAt": "2017-10-24T00:08:19.203Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:18.970Z",
+  "archived": false
 }

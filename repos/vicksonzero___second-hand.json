@@ -5,7 +5,7 @@
   "owner": {
     "login": "vicksonzero",
     "id": 6271771,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6271771?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6271771?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vicksonzero",
     "htmlUrl": "https://github.com/vicksonzero",
@@ -81,10 +81,7 @@
       "build": "electron-packager ./ second-hand --platform=win32 --arch=x64 --icon=img/clock-white-128.ico --out=./build",
       "build!": "electron-packager ./ second-hand --platform=win32 --arch=x64 --icon=img/clock-white-128.ico --out=./build --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/vicksonzero/second-hand.git"
-    },
+    "repository": "https://github.com/vicksonzero/second-hand",
     "keywords": [
       "timer",
       "clock",
@@ -94,9 +91,6 @@
     ],
     "author": "Dickson Chui (vicksonzero)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vicksonzero/second-hand/issues"
-    },
     "homepage": "https://github.com/vicksonzero/second-hand",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -106,6 +100,11 @@
       "moment": "^2.14.1",
       "node-schedule": "^1.1.1",
       "number-to-words": "^1.2.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/vicksonzero/second-hand/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "vicksonzero___second-hand.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:47:30.802Z",
-  "packageLastFetchedAt": "2017-05-05T14:56:15.152Z"
+  "lastFetchedAt": "2017-10-23T23:36:15.298Z",
+  "packageLastFetchedAt": "2017-05-05T14:56:15.152Z",
+  "archived": false
 }

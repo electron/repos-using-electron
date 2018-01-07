@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "falling",
     "productName": "Falling",
@@ -74,7 +74,6 @@
     "author": "Colin Clark",
     "license": "MIT",
     "repository": "git://github.com/colinbdclark/falling.git",
-    "bugs": "http://github.com/colinbdclark/falling/issues",
     "homepage": "http://github.com/colinbdclark/falling",
     "readmeFilename": "README.md",
     "dependencies": {
@@ -89,6 +88,9 @@
     "scripts": {
       "dedupe-infusion": "node -e \"require('dedupe-infusion')();\"",
       "start": "electron node_modules/windvane/main.js"
+    },
+    "other": {
+      "bugs": "http://github.com/colinbdclark/falling/issues"
     }
   },
   "packageStatus": 200,
@@ -117,6 +119,6 @@
   "filename": "colinbdclark___falling.json",
   "sourceRepo": "colinbdclark/lou",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:14:06.220Z",
+  "lastFetchedAt": "2017-10-23T22:58:37.828Z",
   "packageLastFetchedAt": "2017-05-05T17:32:22.423Z"
 }

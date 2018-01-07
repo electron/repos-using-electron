@@ -5,7 +5,7 @@
   "owner": {
     "login": "makenai",
     "id": 11425,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/11425?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/11425?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/makenai",
     "htmlUrl": "https://github.com/makenai",
@@ -20,12 +20,12 @@
   "description": "Drag and drop robotics educational library starring Johnny Five and Blockly (crowd goes wild)",
   "fork": false,
   "createdAt": "2014-02-08T04:34:51.000Z",
-  "updatedAt": "2017-04-26T16:22:49.000Z",
+  "updatedAt": "2017-09-22T18:13:46.000Z",
   "pushedAt": "2017-02-20T09:28:08.000Z",
   "homepage": null,
   "size": 27898,
-  "stargazersCount": 47,
-  "watchersCount": 47,
+  "stargazersCount": 50,
+  "watchersCount": 50,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 11,
   "openIssuesCount": 12,
   "openIssues": 12,
-  "watchers": 47,
+  "watchers": 50,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 11,
-  "subscribersCount": 13,
+  "subscribersCount": 14,
   "status": 200,
   "packageJSON": {
     "name": "robotnik",
@@ -58,10 +58,7 @@
       "webserver": "node webserver.js",
       "dev": "node_modules/.bin/parallelshell \"node_modules/.bin/gulp watch\" \"node_modules/.bin/nodemon webserver.js\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/makenai/robotnik.git"
-    },
+    "repository": "https://github.com/makenai/robotnik",
     "author": {
       "name": "Pawel Szymczykowski",
       "email": "makenai@gmail.com"
@@ -84,9 +81,6 @@
       }
     ],
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/makenai/robotnik/issues"
-    },
     "homepage": "https://github.com/makenai/robotnik",
     "dependencies": {
       "angular": "^1.3.14",
@@ -123,6 +117,11 @@
       "partialify": "^3.1.3",
       "robotnik-controls": "0.0.1",
       "vinyl-source-stream": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/makenai/robotnik/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -170,6 +169,7 @@
   "svnUrl": "https://github.com/makenai/robotnik",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:34:48.613Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:30.801Z"
+  "lastFetchedAt": "2017-10-24T00:12:57.957Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:30.801Z",
+  "archived": false
 }

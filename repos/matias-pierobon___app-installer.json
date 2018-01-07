@@ -5,7 +5,7 @@
   "owner": {
     "login": "matias-pierobon",
     "id": 5234011,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5234011?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5234011?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/matias-pierobon",
     "htmlUrl": "https://github.com/matias-pierobon",
@@ -54,21 +54,20 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/matias-pierobon/app-installer.git"
-    },
+    "repository": "https://github.com/matias-pierobon/app-installer",
     "keywords": [
       "app-installer"
     ],
     "author": "Matias Pierobon <matias.pierobonm@gmail.com>",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/matias-pierobon/app-installer/issues"
-    },
     "homepage": "https://github.com/matias-pierobon/app-installer#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/matias-pierobon/app-installer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   },
   "filename": "matias-pierobon___app-installer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:42.615Z",
-  "packageLastFetchedAt": "2017-05-05T14:57:52.420Z"
+  "lastFetchedAt": "2017-10-24T00:11:56.712Z",
+  "packageLastFetchedAt": "2017-05-05T14:57:52.420Z",
+  "archived": false
 }

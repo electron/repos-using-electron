@@ -5,7 +5,7 @@
   "owner": {
     "login": "hzeroo",
     "id": 546400,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/546400?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/546400?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hzeroo",
     "htmlUrl": "https://github.com/hzeroo",
@@ -20,12 +20,12 @@
   "description": "Simple Electron example using angular, webpack and material design",
   "fork": false,
   "createdAt": "2016-04-13T17:11:56.000Z",
-  "updatedAt": "2017-03-13T15:53:19.000Z",
+  "updatedAt": "2017-06-22T09:37:28.000Z",
   "pushedAt": "2016-08-09T16:44:10.000Z",
   "homepage": "",
   "size": 153,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 6,
+  "watchersCount": 6,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 6,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -57,10 +57,7 @@
     "description": "Electron example app",
     "author": "hzeroo",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hzeroo/electron-angular-webpack-example"
-    },
+    "repository": "https://github.com/hzeroo/electron-angular-webpack-example",
     "scripts": {
       "build-main": "webpack --config webpack.config.electron-main.js --progress --profile --colors",
       "build-renderer": "webpack --config webpack.config.electron-renderer.js --progress --profile --colors",
@@ -90,7 +87,8 @@
     },
     "dependencies": {
       "hammerjs": "^2.0.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,7 @@
   "svnUrl": "https://github.com/hzeroo/electron-angular-webpack-example",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:11:06.230Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:41.180Z"
+  "lastFetchedAt": "2017-10-24T00:20:32.940Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:41.180Z",
+  "archived": false
 }

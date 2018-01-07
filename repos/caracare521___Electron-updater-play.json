@@ -5,7 +5,7 @@
   "owner": {
     "login": "caracare521",
     "id": 7552623,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7552623?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7552623?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/caracare521",
     "htmlUrl": "https://github.com/caracare521",
@@ -56,10 +56,7 @@
     "version": "1.1.2",
     "description": "this is a play of sample application for the electron-updater project",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/caracare521/Electron-updater-play.git"
-    },
+    "repository": "https://github.com/caracare521/Electron-updater-play",
     "scripts": {
       "test": "mocha",
       "clean": "rm -rf ./release",
@@ -91,7 +88,8 @@
     },
     "plugins": {
       "electron-updater-sample-plugin": "^0.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +137,7 @@
   "svnUrl": "https://github.com/caracare521/Electron-updater-play",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:01:48.506Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:55.137Z"
+  "lastFetchedAt": "2017-10-24T02:03:20.431Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:55.137Z",
+  "archived": false
 }

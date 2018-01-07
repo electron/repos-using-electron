@@ -6,7 +6,7 @@
   "owner": {
     "login": "dplusic",
     "id": 880189,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/880189?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/880189?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dplusic",
     "htmlUrl": "https://github.com/dplusic",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:50:55.587Z",
+  "lastFetchedAt": "2017-10-24T00:04:08.705Z",
   "packageJSON": {
     "name": "daff-merge-xlsx",
     "productName": "DaffMergeXLSX",
@@ -127,26 +127,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dplusic/DaffMergeXLSX.git"
-    },
+    "repository": "https://github.com/dplusic/DaffMergeXLSX",
     "author": {
       "name": "Dongwoon Son",
       "email": "dplusic@gmail.com",
       "url": "https://github.com/dplusic"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dplusic/DaffMergeXLSX/issues"
-    },
     "keywords": [
       "table",
       "diff",
@@ -236,8 +226,18 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/dplusic/DaffMergeXLSX/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T17:01:03.037Z"
+  "packageLastFetchedAt": "2017-05-05T17:01:03.037Z",
+  "archived": false
 }

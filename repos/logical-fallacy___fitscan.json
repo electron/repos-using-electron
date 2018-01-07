@@ -5,7 +5,7 @@
   "owner": {
     "login": "logical-fallacy",
     "id": 13859995,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13859995?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13859995?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/logical-fallacy",
     "htmlUrl": "https://github.com/logical-fallacy",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/logical-fallacy/fitscan.git"
-    },
+    "repository": "https://github.com/logical-fallacy/fitscan",
     "keywords": [
       "EVE",
       "fitting",
@@ -92,7 +89,8 @@
     },
     "dependencies": {
       "node-notifier": "^4.4.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,7 @@
   },
   "filename": "logical-fallacy___fitscan.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:02:04.589Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:49.877Z"
+  "lastFetchedAt": "2017-10-23T23:39:44.435Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:49.877Z",
+  "archived": false
 }

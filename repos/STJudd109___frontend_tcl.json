@@ -5,7 +5,7 @@
   "owner": {
     "login": "STJudd109",
     "id": 7368479,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7368479?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7368479?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/STJudd109",
     "htmlUrl": "https://github.com/STJudd109",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/STJudd109/frontend_tcl.git"
-    },
+    "repository": "https://github.com/STJudd109/frontend_tcl",
     "keywords": [
       "Electron",
       "quick",
@@ -85,12 +82,14 @@
     ],
     "author": "Spencer Judd",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/STJudd109/frontend_tcl/issues"
-    },
     "homepage": "https://github.com/STJudd109/frontend_tcl#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/STJudd109/frontend_tcl/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "STJudd109___frontend_tcl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:10:43.179Z",
-  "packageLastFetchedAt": "2017-05-04T23:04:37.156Z"
+  "lastFetchedAt": "2017-10-24T00:12:48.940Z",
+  "packageLastFetchedAt": "2017-05-04T23:04:37.156Z",
+  "archived": false
 }

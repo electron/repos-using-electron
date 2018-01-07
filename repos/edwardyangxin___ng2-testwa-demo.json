@@ -6,7 +6,7 @@
   "owner": {
     "login": "edwardyangxin",
     "id": 13101725,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/13101725?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/13101725?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/edwardyangxin",
     "htmlUrl": "https://github.com/edwardyangxin",
@@ -36,17 +36,17 @@
   "downloadsUrl": "https://api.github.com/repos/edwardyangxin/ng2-testwa-demo/downloads",
   "deploymentsUrl": "https://api.github.com/repos/edwardyangxin/ng2-testwa-demo/deployments",
   "createdAt": "2017-04-20T13:35:39.000Z",
-  "updatedAt": "2017-04-20T13:35:39.000Z",
-  "pushedAt": "2017-04-20T13:41:29.000Z",
+  "updatedAt": "2017-06-25T14:08:50.000Z",
+  "pushedAt": "2017-06-26T13:56:49.000Z",
   "gitUrl": "git://github.com/edwardyangxin/ng2-testwa-demo.git",
   "sshUrl": "git@github.com:edwardyangxin/ng2-testwa-demo.git",
   "cloneUrl": "https://github.com/edwardyangxin/ng2-testwa-demo.git",
   "svnUrl": "https://github.com/edwardyangxin/ng2-testwa-demo",
   "homepage": null,
-  "size": 12980,
+  "size": 13051,
   "stargazersCount": 0,
   "watchersCount": 0,
-  "language": null,
+  "language": "JavaScript",
   "hasIssues": true,
   "hasProjects": true,
   "hasDownloads": true,
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T20:00:00.008Z",
+  "lastFetchedAt": "2017-10-23T23:11:44.865Z",
   "packageJSON": {
     "name": "ng2-admin",
     "version": "0.9.0",
@@ -251,17 +251,17 @@
       "clean:aot": "npm run rimraf -- compiled",
       "build:ci": "npm run build:prod && npm run build:aot"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 5.4.1 < 7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:20:12.612Z"
+  "packageLastFetchedAt": "2017-05-05T01:20:12.612Z",
+  "archived": false
 }

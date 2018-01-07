@@ -5,7 +5,7 @@
   "owner": {
     "login": "elisglynne",
     "id": 1309737,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1309737?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1309737?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/elisglynne",
     "htmlUrl": "https://github.com/elisglynne",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,15 +88,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "marked": "^0.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "elisglynne___deud.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:20.751Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:44.140Z"
+  "lastFetchedAt": "2017-10-24T00:04:46.047Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:44.140Z",
+  "archived": false
 }

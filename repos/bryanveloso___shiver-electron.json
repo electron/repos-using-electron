@@ -50,7 +50,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Shiver",
     "private": true,
@@ -146,7 +146,8 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/bryanveloso/shiver-electron",
@@ -193,6 +194,6 @@
   },
   "filename": "bryanveloso___shiver-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:19:04.847Z",
+  "lastFetchedAt": "2017-10-23T23:00:29.572Z",
   "packageLastFetchedAt": "2017-05-04T22:05:15.547Z"
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tbr",
     "version": "1.0.0",
@@ -91,14 +91,13 @@
         "iconUrl": "http://eatodo.s3.amazonaws.com/icon.ico"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/niros1/ElectornTBR.git"
-    },
-    "bugs": {
-      "url": "https://github.com/niros1/ElectornTBR/issues"
-    },
-    "homepage": "https://github.com/niros1/ElectornTBR#readme"
+    "repository": "https://github.com/niros1/ElectornTBR",
+    "homepage": "https://github.com/niros1/ElectornTBR#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/niros1/ElectornTBR/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +124,6 @@
   },
   "filename": "niros1___ElectornTBR.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:08:33.906Z",
+  "lastFetchedAt": "2017-10-23T23:01:58.112Z",
   "packageLastFetchedAt": "2017-05-04T22:13:28.806Z"
 }

@@ -70,26 +70,25 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "devstack-coder",
     "version": "0.1.0",
     "description": "testing out electron with an html5 js programming typer game",
     "author": "Gart Flores <gartflores@gmail.com>",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/devstackio/devstackcoder.git"
-    },
-    "bugs": {
-      "url": "https://github.com/devstackio/devstackcoder.git/issues"
-    },
+    "repository": "https://github.com/devstackio/devstackcoder",
     "devDependencies": {
       "electron-prebuilt": "0.33.0"
     },
     "license": "MIT",
     "scripts": {
       "start": "electron ."
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/devstackio/devstackcoder.git/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,6 @@
   },
   "filename": "devstackio___devstackcoder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:23:18.838Z",
+  "lastFetchedAt": "2017-10-23T23:02:56.066Z",
   "packageLastFetchedAt": "2017-05-04T23:07:23.224Z"
 }

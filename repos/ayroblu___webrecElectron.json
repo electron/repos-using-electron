@@ -5,7 +5,7 @@
   "owner": {
     "login": "ayroblu",
     "id": 4915682,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/4915682?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/4915682?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ayroblu",
     "htmlUrl": "https://github.com/ayroblu",
@@ -80,10 +80,7 @@
       "pack:osx": "npm run clean:osx && electron-packager . \"Test App\" --out=dist/osx --platform=darwin --arch=x64 --icon=assets/osx/logo.icns --ignore=dist --ignore=assets --ignore=builder.json --ignore=bower.json --ignore=README.md --ignore=.gitignore --ignore=preview.png",
       "pack:win": "npm run clean:win && electron-packager . \"Test App\" --out=dist/win --platform=win32 --arch=ia32 --icon=assets/win/logo.ico --ignore=dist --ignore=assets --ignore=builder.json --ignore=bower.json --ignore=README.md --ignore=.gitignore --ignore=preview.png"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,13 +89,15 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-packager": "^7.6.0",
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "ayroblu___webrecElectron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:31:33.993Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:45.193Z"
+  "lastFetchedAt": "2017-10-23T22:07:48.788Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:45.193Z",
+  "archived": false
 }

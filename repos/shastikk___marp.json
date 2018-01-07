@@ -164,15 +164,12 @@
   },
   "networkCount": 280,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Marp",
     "version": "0.0.8",
     "description": "Markdown Presentation Writer (Powered by Electron)",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yhatt/marp"
-    },
+    "repository": "https://github.com/yhatt/marp",
     "main": "main.js",
     "scripts": {
       "start": "gulp run",
@@ -219,7 +216,8 @@
       "path": "^0.12.7",
       "photon": "git+https://github.com/connors/photon.git",
       "twemoji": "^2.0.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/shastikk/marp",
@@ -267,6 +265,6 @@
   "filename": "shastikk___marp.json",
   "sourceRepo": "angelborroy-ks/mdslide",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:57:01.698Z",
+  "lastFetchedAt": "2017-10-24T00:10:09.918Z",
   "packageLastFetchedAt": "2017-05-05T17:51:36.503Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "sirtimbly",
     "id": 18685,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/18685?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/18685?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sirtimbly",
     "htmlUrl": "https://github.com/sirtimbly",
@@ -87,10 +87,7 @@
     "engines": {
       "node": "0.10.x"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sirtimbly/plaintexttaskmenu"
-    },
+    "repository": "https://github.com/sirtimbly/plaintexttaskmenu",
     "preferGlobal": true,
     "bin": {
       "task-scheduler": "index.js"
@@ -98,7 +95,8 @@
     "scripts": {
       "build": "electron-packager . MenubarTasklist --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +123,7 @@
   },
   "filename": "sirtimbly___plaintexttaskmenu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:00:32.251Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:14.913Z"
+  "lastFetchedAt": "2017-10-23T21:46:58.130Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:14.913Z",
+  "archived": false
 }

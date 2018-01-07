@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 11,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Button-app",
     "version": "0.1.0",
@@ -82,7 +82,8 @@
     "scripts": {
       "build": "electron-packager . Button --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +130,6 @@
   "svnUrl": "https://github.com/HackerLoop/button-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:06:16.630Z",
+  "lastFetchedAt": "2017-10-23T23:05:14.092Z",
   "packageLastFetchedAt": "2017-05-04T22:30:36.895Z"
 }

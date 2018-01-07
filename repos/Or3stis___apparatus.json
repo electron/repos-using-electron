@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "apparatus",
     "version": "0.3.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Or3stis/apparatus"
-    },
+    "repository": "https://github.com/Or3stis/apparatus",
     "keywords": [
       "Electron",
       "network",
@@ -90,14 +87,16 @@
     ],
     "author": "or3stis",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Or3stis/apparatus//issues"
-    },
     "homepage": "https://github.com/Or3stis/apparatus/#readme",
     "devDependencies": {
       "devtron": "^1.4.0",
       "electron": "^1.6.2",
       "jsonfile": "^2.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Or3stis/apparatus//issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,6 @@
   },
   "filename": "Or3stis___apparatus.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:40:00.975Z",
+  "lastFetchedAt": "2017-10-23T23:03:26.624Z",
   "packageLastFetchedAt": "2017-05-04T23:12:37.050Z"
 }

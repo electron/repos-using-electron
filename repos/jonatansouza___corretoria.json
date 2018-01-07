@@ -5,7 +5,7 @@
   "owner": {
     "login": "jonatansouza",
     "id": 16884613,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16884613?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16884613?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jonatansouza",
     "htmlUrl": "https://github.com/jonatansouza",
@@ -103,7 +103,8 @@
       "protractor": "protractor test/protractor-conf.js",
       "update-index-async": "node -e \"require('shelljs/global'); sed('-i', /\\/\\/@@NG_LOADER_START@@[\\s\\S]*\\/\\/@@NG_LOADER_END@@/, '//@@NG_LOADER_START@@\\n' + cat('bower_components/angular-loader/angular-loader.min.js') + '\\n//@@NG_LOADER_END@@', 'app/index-async.html');\""
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +131,7 @@
   },
   "filename": "jonatansouza___corretoria.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:49.295Z",
-  "packageLastFetchedAt": "2017-05-05T17:33:37.673Z"
+  "lastFetchedAt": "2017-10-24T00:08:39.202Z",
+  "packageLastFetchedAt": "2017-05-05T17:33:37.673Z",
+  "archived": false
 }

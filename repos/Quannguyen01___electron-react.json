@@ -5,7 +5,7 @@
   "owner": {
     "login": "Quannguyen01",
     "id": 4118175,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4118175?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4118175?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Quannguyen01",
     "htmlUrl": "https://github.com/Quannguyen01",
@@ -62,10 +62,7 @@
       "watch": "babel-node server.js",
       "dev": "concurrently -k \"npm run watch\" \"npm run start\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -74,9 +71,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-cli": "^6.11.4",
@@ -93,6 +87,11 @@
       "webpack-dev-middleware": "^1.6.1",
       "webpack-hot-middleware": "^2.12.2",
       "webpack-target-electron-renderer": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "svnUrl": "https://github.com/Quannguyen01/electron-react",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:26:34.962Z",
-  "packageLastFetchedAt": "2017-05-04T22:03:18.261Z"
+  "lastFetchedAt": "2017-10-23T22:26:21.781Z",
+  "packageLastFetchedAt": "2017-05-04T22:03:18.261Z",
+  "archived": false
 }

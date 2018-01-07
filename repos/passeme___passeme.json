@@ -58,7 +58,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "passeme",
     "productName": "passeme",
@@ -84,19 +84,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -174,6 +168,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -221,6 +220,6 @@
   },
   "filename": "passeme___passeme.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:06:43.033Z",
+  "lastFetchedAt": "2017-10-23T23:11:03.825Z",
   "packageLastFetchedAt": "2017-05-05T15:14:06.993Z"
 }

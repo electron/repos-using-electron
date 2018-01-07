@@ -5,7 +5,7 @@
   "owner": {
     "login": "Penagwin",
     "id": 1349689,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1349689?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1349689?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Penagwin",
     "htmlUrl": "https://github.com/Penagwin",
@@ -73,19 +73,18 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Penagwin/node-sass-binaries-electron.git"
-    },
+    "repository": "https://github.com/Penagwin/node-sass-binaries-electron",
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Penagwin/node-sass-binaries-electron/issues"
-    },
     "homepage": "https://github.com/Penagwin/node-sass-binaries-electron#readme",
     "dependencies": {
       "node-sass": "^3.0.0",
       "electron-prebuilt": "^0.27.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Penagwin/node-sass-binaries-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -113,6 +112,7 @@
   },
   "filename": "Penagwin___node-sass-binaries-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:28:24.703Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:26.257Z"
+  "lastFetchedAt": "2017-10-24T00:19:33.193Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:26.257Z",
+  "archived": false
 }

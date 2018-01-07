@@ -5,7 +5,7 @@
   "owner": {
     "login": "Ikana",
     "id": 634704,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/634704?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/634704?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Ikana",
     "htmlUrl": "https://github.com/Ikana",
@@ -53,24 +53,23 @@
     "scripts": {
       "start": "electron ./app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ikana/electron-chelajs.git"
-    },
+    "repository": "https://github.com/Ikana/electron-chelajs",
     "keywords": [
       "electron",
       "chelajs"
     ],
     "author": "roderik",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Ikana/electron-chelajs/issues"
-    },
     "homepage": "https://github.com/Ikana/electron-chelajs#readme",
     "dependencies": {
       "electron-packager": "^5.2.0",
       "electron-prebuilt": "^0.36.3",
       "express": "^4.13.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Ikana/electron-chelajs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   "svnUrl": "https://github.com/Ikana/electron-chelajs",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:54:43.874Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:05.017Z"
+  "lastFetchedAt": "2017-10-23T22:26:05.000Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:05.017Z",
+  "archived": false
 }

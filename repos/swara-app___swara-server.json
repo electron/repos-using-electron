@@ -64,7 +64,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "swara-server",
     "version": "0.0.8",
@@ -81,16 +81,12 @@
       "music-library"
     ],
     "homepage": "https://github.com/swara-app/swara-server",
-    "bugs": "https://github.com/swara-app/swara-server/issues",
     "author": {
       "name": "Floyd Pink",
       "email": "imbleedingme@googlemail.com",
       "url": "https://github.com/floydpink"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/swara-app/swara-server.git"
-    },
+    "repository": "https://github.com/swara-app/swara-server",
     "dependencies": {},
     "devDependencies": {
       "asar": "^0.9.1",
@@ -122,6 +118,9 @@
     },
     "engines": {
       "node": ">=0.12.0"
+    },
+    "other": {
+      "bugs": "https://github.com/swara-app/swara-server/issues"
     }
   },
   "packageStatus": 200,
@@ -169,6 +168,6 @@
   },
   "filename": "swara-app___swara-server.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:35.968Z",
+  "lastFetchedAt": "2017-10-23T23:10:15.588Z",
   "packageLastFetchedAt": "2017-05-05T15:17:14.509Z"
 }

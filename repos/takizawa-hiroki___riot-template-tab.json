@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "template_tab",
     "version": "1.0.0",
@@ -106,7 +106,8 @@
       "webpack-dev-server": "./node_modules/.bin/webpack-dev-server"
     },
     "author": "Takizawa Hiroki",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +134,6 @@
   },
   "filename": "takizawa-hiroki___riot-template-tab.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:07:09.573Z",
+  "lastFetchedAt": "2017-10-23T22:27:42.466Z",
   "packageLastFetchedAt": "2017-05-05T17:08:06.991Z"
 }

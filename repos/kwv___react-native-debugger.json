@@ -184,7 +184,7 @@
   },
   "networkCount": 28,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-native-debugger",
     "version": "0.5.0",
@@ -209,10 +209,7 @@
       "test": "mocha --compilers js:babel-core/register ./test/e2e/app.spec.js",
       "fetch-rdt": "./scripts/fetch-react-devtools.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jhen0409/react-native-debugger.git"
-    },
+    "repository": "https://github.com/jhen0409/react-native-debugger",
     "author": "Jhen <developer@jhen.me>",
     "license": "MIT",
     "devDependencies": {
@@ -262,7 +259,8 @@
       "remotedev-slider": "^1.1.1",
       "remotedev-utils": "0.0.5",
       "ws": "^1.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -290,6 +288,6 @@
   "filename": "kwv___react-native-debugger.json",
   "sourceRepo": "jhen0409/react-native-debugger",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:21:03.300Z",
+  "lastFetchedAt": "2017-10-23T23:00:08.140Z",
   "packageLastFetchedAt": "2017-05-05T17:25:58.727Z"
 }

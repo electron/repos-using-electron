@@ -58,7 +58,7 @@
   },
   "networkCount": 22,
   "subscribersCount": 24,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "installer",
     "version": "0.1.0",
@@ -91,7 +91,8 @@
     "license": "Apache-2.0",
     "build": {
       "appId": "org.nodejs.installer"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +139,6 @@
   "svnUrl": "https://github.com/nodejs/installer",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:09:10.770Z",
+  "lastFetchedAt": "2017-10-23T22:57:47.336Z",
   "packageLastFetchedAt": "2017-05-05T17:32:28.415Z"
 }

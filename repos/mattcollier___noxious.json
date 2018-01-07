@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 5,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "noxious",
     "version": "1.0.1-0",
@@ -79,15 +79,9 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mattcollier/noxious.git"
-    },
+    "repository": "https://github.com/mattcollier/noxious",
     "author": "",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mattcollier/noxious/issues"
-    },
     "homepage": "https://github.com/mattcollier/noxious",
     "dependencies": {
       "bootstrap": "^3.3.2",
@@ -97,6 +91,11 @@
       "node-forge": "^0.6.25",
       "socksv5": "0.0.6",
       "ths": "git+https://github.com/Mowje/node-ths.git#dev"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mattcollier/noxious/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,6 @@
   },
   "filename": "mattcollier___noxious.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:05:17.907Z",
+  "lastFetchedAt": "2017-10-23T23:03:59.083Z",
   "packageLastFetchedAt": "2017-05-05T15:34:14.117Z"
 }

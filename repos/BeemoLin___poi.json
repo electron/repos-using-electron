@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "poi",
     "version": "v7.0.0-beta.0",
@@ -82,10 +82,7 @@
       "update": "gulp update",
       "compile": "gulp compile"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/poooi/poi.git"
-    },
+    "repository": "https://github.com/poooi/poi",
     "keywords": [
       "KanColle",
       "Browser",
@@ -96,9 +93,6 @@
       "email": "readme.md@gmail.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/poooi/poi/issues"
-    },
     "homepage": "https://github.com/poooi/poi",
     "dependencies": {
       "babel-core": "^6.9.0",
@@ -208,8 +202,13 @@
         ]
       }
     },
-    "directories": {
-      "app": "app_compiled"
+    "other": {
+      "directories": {
+        "app": "app_compiled"
+      },
+      "bugs": {
+        "url": "https://github.com/poooi/poi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -238,6 +237,6 @@
   "filename": "BeemoLin___poi.json",
   "sourceRepo": "poooi/poi",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:44:34.482Z",
+  "lastFetchedAt": "2017-10-24T00:10:51.423Z",
   "packageLastFetchedAt": "2017-05-05T15:17:01.712Z"
 }

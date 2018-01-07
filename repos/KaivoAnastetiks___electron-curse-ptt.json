@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-curse-ptt",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/KaivoAnastetiks/electron-curse-ptt.git"
-    },
+    "repository": "https://github.com/KaivoAnastetiks/electron-curse-ptt",
     "author": "KaivoAnastetiks <kaivoanastetiks@gmail.com>",
     "license": "MIT",
     "devDependencies": {
@@ -91,7 +88,8 @@
     },
     "dependencies": {
       "evdev": "^0.2.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +116,6 @@
   },
   "filename": "KaivoAnastetiks___electron-curse-ptt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:57:05.705Z",
+  "lastFetchedAt": "2017-10-23T22:58:43.319Z",
   "packageLastFetchedAt": "2017-05-05T17:34:46.765Z"
 }

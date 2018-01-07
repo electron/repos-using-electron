@@ -5,7 +5,7 @@
   "owner": {
     "login": "fraserxu",
     "id": 1183541,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1183541?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1183541?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fraserxu",
     "htmlUrl": "https://github.com/fraserxu",
@@ -62,10 +62,7 @@
       "watch": "watchify app/main.js -p browserify-hmr -o app/bundle.js -dv",
       "start": "electron . & npm run watch"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fraserxu/electron-music163.git"
-    },
+    "repository": "https://github.com/fraserxu/electron-music163",
     "keywords": [
       "electron",
       "music163",
@@ -74,9 +71,6 @@
     ],
     "author": "Fraser Xu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fraserxu/electron-music163/issues"
-    },
     "homepage": "https://github.com/fraserxu/electron-music163#readme",
     "dependencies": {
       "electron-prebuilt": "^0.31.1",
@@ -90,6 +84,11 @@
       "browserify-hmr": "^0.2.1",
       "uglifyjs": "^2.4.10",
       "watchify": "^3.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fraserxu/electron-music163/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   "svnUrl": "https://github.com/fraserxu/electron-music163",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:20:31.843Z",
-  "packageLastFetchedAt": "2017-05-05T17:15:07.088Z"
+  "lastFetchedAt": "2017-10-23T22:13:04.540Z",
+  "packageLastFetchedAt": "2017-05-05T17:15:07.088Z",
+  "archived": false
 }

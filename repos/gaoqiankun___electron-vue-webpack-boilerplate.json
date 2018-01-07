@@ -50,7 +50,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-vue-webpack-boilerplate",
     "version": "0.0.1",
@@ -155,10 +155,8 @@
     "dependencies": {
       "electron-window-helper": "^0.0.8"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/gaoqiankun/electron-vue-webpack-boilerplate.git"
-    }
+    "repository": "https://github.com/gaoqiankun/electron-vue-webpack-boilerplate",
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/gaoqiankun/electron-vue-webpack-boilerplate",
@@ -205,6 +203,6 @@
   },
   "filename": "gaoqiankun___electron-vue-webpack-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:48:51.168Z",
+  "lastFetchedAt": "2017-10-23T23:05:26.576Z",
   "packageLastFetchedAt": "2017-05-04T22:48:22.291Z"
 }

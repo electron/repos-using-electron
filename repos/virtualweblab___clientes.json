@@ -5,7 +5,7 @@
   "owner": {
     "login": "virtualweblab",
     "id": 14593974,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14593974?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14593974?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/virtualweblab",
     "htmlUrl": "https://github.com/virtualweblab",
@@ -65,7 +65,7 @@
   "organization": {
     "login": "virtualweblab",
     "id": 14593974,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/14593974?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/14593974?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/virtualweblab",
     "htmlUrl": "https://github.com/virtualweblab",
@@ -88,10 +88,7 @@
       "start": "electron main.js",
       "build": "electron-packager . vwl --platform=win32 --arch=x64 "
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/virtualweblab/clientes.git"
-    },
+    "repository": "https://github.com/virtualweblab/clientes",
     "keywords": [
       "serial",
       "port",
@@ -100,9 +97,6 @@
     ],
     "author": "Mauricio Duque",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/virtualweblab/clientes/issues"
-    },
     "homepage": "https://github.com/virtualweblab/clientes#readme",
     "devDependencies": {
       "electron-packager": "^7.0.4",
@@ -110,6 +104,11 @@
     },
     "dependencies": {
       "express": "^4.14.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/virtualweblab/clientes/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,7 @@
   },
   "filename": "virtualweblab___clientes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:30.570Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:37.921Z"
+  "lastFetchedAt": "2017-10-24T00:07:04.472Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:37.921Z",
+  "archived": false
 }

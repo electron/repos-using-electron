@@ -5,7 +5,7 @@
   "owner": {
     "login": "dankennedy",
     "id": 2006353,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2006353?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2006353?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dankennedy",
     "htmlUrl": "https://github.com/dankennedy",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/dankennedy/electron-sso-saml/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dankennedy/electron-sso-saml/deployments",
   "createdAt": "2016-09-06T10:45:23.000Z",
-  "updatedAt": "2016-09-06T10:46:18.000Z",
+  "updatedAt": "2017-08-18T17:18:03.000Z",
   "pushedAt": "2016-09-06T10:49:21.000Z",
   "gitUrl": "git://github.com/dankennedy/electron-sso-saml.git",
   "sshUrl": "git@github.com:dankennedy/electron-sso-saml.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/dankennedy/electron-sso-saml",
   "homepage": null,
   "size": 7,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,9 +82,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "dependencies": {
       "xml-crypto": "0.0.x",
@@ -96,6 +90,11 @@
     },
     "devDependencies": {
       "electron": "^1.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,7 @@
   },
   "filename": "dankennedy___electron-sso-saml.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:04:58.128Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:51.085Z"
+  "lastFetchedAt": "2017-10-23T23:36:32.059Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:51.085Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kevinfang2",
     "id": 7349976,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/7349976?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/7349976?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kevinfang2",
     "htmlUrl": "https://github.com/kevinfang2",
@@ -84,12 +84,8 @@
     ],
     "main": "./bin/pixi.min.js",
     "homepage": "http://goodboydigital.com/",
-    "bugs": "https://github.com/pixijs/pixi.js/issues",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/pixijs/pixi.js.git"
-    },
+    "repository": "https://github.com/pixijs/pixi.js",
     "scripts": {
       "clean": "rimraf bin && mkdirp bin",
       "prestart": "npm run clean",
@@ -144,6 +140,9 @@
         "glslify",
         "browserify-versionify"
       ]
+    },
+    "other": {
+      "bugs": "https://github.com/pixijs/pixi.js/issues"
     }
   },
   "packageStatus": 200,
@@ -171,6 +170,7 @@
   },
   "filename": "kevinfang2___web-engineering-club.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:21:07.547Z",
-  "packageLastFetchedAt": "2017-05-05T17:09:15.149Z"
+  "lastFetchedAt": "2017-10-23T23:43:02.184Z",
+  "packageLastFetchedAt": "2017-05-05T17:09:15.149Z",
+  "archived": false
 }

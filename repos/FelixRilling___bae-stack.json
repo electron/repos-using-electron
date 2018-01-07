@@ -5,7 +5,7 @@
   "owner": {
     "login": "FelixRilling",
     "id": 3207763,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3207763?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3207763?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/FelixRilling",
     "htmlUrl": "https://github.com/FelixRilling",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/FelixRilling/vuestrap-stack",
-  "description": "A Bootstrap + Vue + Electron Stack",
+  "description": "📚 A stack for Vue2 + Bootstrap4 webapps",
   "fork": false,
   "url": "https://api.github.com/repos/FelixRilling/vuestrap-stack",
   "forksUrl": "https://api.github.com/repos/FelixRilling/vuestrap-stack/forks",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/FelixRilling/vuestrap-stack/downloads",
   "deploymentsUrl": "https://api.github.com/repos/FelixRilling/vuestrap-stack/deployments",
   "createdAt": "2016-08-20T01:08:52.000Z",
-  "updatedAt": "2017-04-24T21:10:58.000Z",
-  "pushedAt": "2017-04-23T13:46:56.000Z",
+  "updatedAt": "2017-10-14T09:53:13.000Z",
+  "pushedAt": "2017-10-20T18:42:19.000Z",
   "gitUrl": "git://github.com/FelixRilling/vuestrap-stack.git",
   "sshUrl": "git@github.com:FelixRilling/vuestrap-stack.git",
   "cloneUrl": "https://github.com/FelixRilling/vuestrap-stack.git",
   "svnUrl": "https://github.com/FelixRilling/vuestrap-stack",
   "homepage": "",
-  "size": 1821,
-  "stargazersCount": 1,
-  "watchersCount": 1,
-  "language": "CSS",
+  "size": 2560,
+  "stargazersCount": 2,
+  "watchersCount": 2,
+  "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
-  "hasWiki": true,
+  "hasWiki": false,
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -76,10 +76,7 @@
     "namespace": {
       "module": "myApp"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/FelixRilling/vuestrap-stack.git"
-    },
+    "repository": "https://github.com/FelixRilling/vuestrap-stack",
     "keywords": [
       "Bootstrap",
       "Vue",
@@ -87,9 +84,6 @@
     ],
     "author": "FelixRilling",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/FelixRilling/vuestrap-stack/issues"
-    },
     "homepage": "https://github.com/FelixRilling/vuestrap-stack#readme",
     "dependencies": {
       "bootstrap": "^4.0.0-alpha.6",
@@ -112,6 +106,11 @@
       "rollup-stream": "^1.19.0",
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/FelixRilling/vuestrap-stack/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,7 +137,8 @@
     }
   },
   "filename": "FelixRilling___bae-stack.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:21.618Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:31.558Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-23T23:40:10.722Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:31.558Z",
+  "archived": false
 }

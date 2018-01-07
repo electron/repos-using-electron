@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "web2linux",
     "version": "0.1.0",
@@ -73,19 +73,13 @@
     "scripts": {
       "test": "npm -v"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nikhiljha/web2linux.git"
-    },
+    "repository": "https://github.com/nikhiljha/web2linux",
     "keywords": [
       "webapp",
       "linux"
     ],
     "author": "Nikhil Jha <nikhilfromirvine@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nikhiljha/web2linux/issues"
-    },
     "homepage": "https://github.com/nikhiljha/web2linux#readme",
     "dependencies": {
       "electron-squirrel-startup": "^1.0.0"
@@ -99,6 +93,11 @@
       "app-category-type": "finance",
       "win": {
         "iconUrl": "https://raw.githubusercontent.com/nikhiljha/nemwallet-desktop/master/nemLogoV2_shieldOnly.ico"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nikhiljha/web2linux/issues"
       }
     }
   },
@@ -127,6 +126,6 @@
   },
   "filename": "nikhiljha___web2linux.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:29:38.445Z",
+  "lastFetchedAt": "2017-10-23T23:09:56.829Z",
   "packageLastFetchedAt": "2017-05-04T22:58:06.783Z"
 }

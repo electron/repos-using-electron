@@ -5,7 +5,7 @@
   "owner": {
     "login": "gucong3000",
     "id": 1171691,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1171691?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1171691?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gucong3000",
     "htmlUrl": "https://github.com/gucong3000",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/gucong3000/FELS/deployments",
   "createdAt": "2016-03-14T06:52:06.000Z",
   "updatedAt": "2017-04-15T01:00:27.000Z",
-  "pushedAt": "2017-05-03T01:36:05.000Z",
+  "pushedAt": "2017-10-23T01:52:58.000Z",
   "gitUrl": "git://github.com/gucong3000/FELS.git",
   "sshUrl": "git@github.com:gucong3000/FELS.git",
   "cloneUrl": "https://github.com/gucong3000/FELS.git",
   "svnUrl": "https://github.com/gucong3000/FELS",
   "homepage": "",
-  "size": 916,
+  "size": 1020,
   "stargazersCount": 12,
   "watchersCount": 12,
   "language": "JavaScript",
@@ -75,9 +75,6 @@
     "author": "gucong",
     "bin": {
       "fels": "./bin/fels.js"
-    },
-    "bugs": {
-      "url": "https://github.com/gucong3000/FELS/issues"
     },
     "dependencies": {
       "babel-core": "^6.24.1",
@@ -210,15 +207,17 @@
     "license": "MIT",
     "main": "index.js",
     "name": "fels",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/gucong3000/FELS.git"
-    },
+    "repository": "https://github.com/gucong3000/FELS",
     "scripts": {
       "start": "electron ./lib/gui.js --shortcut",
       "test": "gulp publish --url http://picdev.int.jumei.com/upload --username jumeife --password 123456 --base /static/static_account/ --dir ../static_account"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/gucong3000/FELS/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -245,6 +244,7 @@
   },
   "filename": "gucong3000___FELS.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:24.242Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:38.907Z"
+  "lastFetchedAt": "2017-10-23T23:40:47.417Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:38.907Z",
+  "archived": false
 }

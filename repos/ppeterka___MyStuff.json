@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hu.ppeterka.misc.MyStuff",
     "version": "0.0.1",
@@ -86,7 +86,8 @@
     },
     "dependencies": {
       "nedb": "^1.8.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -113,6 +114,6 @@
   },
   "filename": "ppeterka___MyStuff.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:15:08.963Z",
+  "lastFetchedAt": "2017-10-23T22:57:15.073Z",
   "packageLastFetchedAt": "2017-05-04T22:47:51.417Z"
 }

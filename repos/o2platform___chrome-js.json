@@ -64,7 +64,7 @@
   },
   "networkCount": 3,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "chrome-js",
     "main_": "nw-apps/REPL-GUI/index.html",
@@ -98,23 +98,22 @@
       "test": "node ./node_modules/mocha/bin/mocha --compilers=coffee:coffee-script/register --recursive -R list tests",
       "dev-watch": "node ./node_modules/mocha/bin/mocha --compilers=coffee:coffee-script/register -w --recursive -R list tests bin"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/o2platform/chrome-js.git"
-    },
+    "repository": "https://github.com/o2platform/chrome-js",
     "author": {
       "name": "Dinis Cruz",
       "email": "dinis.cruz@owasp.org",
       "url": "http://blog.diniscruz.com/"
     },
     "license": "Apache 2",
-    "bugs": {
-      "url": "https://github.com/o2platform/chrome-js/issues"
-    },
     "homepage": "https://github.com/o2platform/chrome-js",
     "description": "Chrome-JS: Set of APIs to help the automations and scripting of Web based applications (WebSites or WebServices).",
     "devDependencies": {
       "electron-prebuilt": "^0.29.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/o2platform/chrome-js/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,6 @@
   "svnUrl": "https://github.com/o2platform/chrome-js",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:23:02.853Z",
+  "lastFetchedAt": "2017-10-23T22:57:22.828Z",
   "packageLastFetchedAt": "2017-05-05T14:47:05.907Z"
 }

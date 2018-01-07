@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "polyglot",
     "version": "0.0.1",
@@ -80,16 +80,15 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dewyze/polyglot.git"
-    },
+    "repository": "https://github.com/dewyze/polyglot",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dewyze/polyglot/issues"
-    },
     "devDependencies": {
       "electron": "1.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dewyze/polyglot/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,6 @@
   },
   "filename": "dewyze___polyglot.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:09:10.941Z",
+  "lastFetchedAt": "2017-10-23T22:15:51.749Z",
   "packageLastFetchedAt": "2017-05-05T17:41:24.983Z"
 }

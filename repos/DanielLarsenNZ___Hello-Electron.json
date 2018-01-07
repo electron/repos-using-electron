@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Hello-Electron",
     "version": "0.1.0",
@@ -63,7 +63,8 @@
     "license": "MIT",
     "dependencies": {
       "electron-prebuilt": "~0.35.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/DanielLarsenNZ/Hello-Electron",
@@ -110,6 +111,6 @@
   },
   "filename": "DanielLarsenNZ___Hello-Electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:10:09.137Z",
+  "lastFetchedAt": "2017-10-23T23:10:21.331Z",
   "packageLastFetchedAt": "2017-05-05T15:00:20.826Z"
 }

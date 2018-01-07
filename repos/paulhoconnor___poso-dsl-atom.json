@@ -5,7 +5,7 @@
   "owner": {
     "login": "paulhoconnor",
     "id": 1361374,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1361374?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1361374?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/paulhoconnor",
     "htmlUrl": "https://github.com/paulhoconnor",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "atom",
       "id": 1089146,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1089146?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1089146?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/atom",
       "htmlUrl": "https://github.com/atom",
@@ -85,7 +85,7 @@
     "downloadsUrl": "https://api.github.com/repos/atom/language-json/downloads",
     "deploymentsUrl": "https://api.github.com/repos/atom/language-json/deployments",
     "createdAt": "2013-10-20T02:08:58.000Z",
-    "updatedAt": "2017-03-24T03:19:17.000Z",
+    "updatedAt": "2017-10-21T13:08:30.000Z",
     "pushedAt": "2017-04-18T16:42:30.000Z",
     "gitUrl": "git://github.com/atom/language-json.git",
     "sshUrl": "git@github.com:atom/language-json.git",
@@ -93,19 +93,20 @@
     "svnUrl": "https://github.com/atom/language-json",
     "homepage": null,
     "size": 55,
-    "stargazersCount": 17,
-    "watchersCount": 17,
+    "stargazersCount": 19,
+    "watchersCount": 19,
     "language": "CoffeeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 34,
+    "forksCount": 37,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 17,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 19,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "atom",
       "id": 1089146,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1089146?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1089146?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/atom",
       "htmlUrl": "https://github.com/atom",
@@ -145,7 +146,7 @@
     "downloadsUrl": "https://api.github.com/repos/atom/language-json/downloads",
     "deploymentsUrl": "https://api.github.com/repos/atom/language-json/deployments",
     "createdAt": "2013-10-20T02:08:58.000Z",
-    "updatedAt": "2017-03-24T03:19:17.000Z",
+    "updatedAt": "2017-10-21T13:08:30.000Z",
     "pushedAt": "2017-04-18T16:42:30.000Z",
     "gitUrl": "git://github.com/atom/language-json.git",
     "sshUrl": "git@github.com:atom/language-json.git",
@@ -153,22 +154,23 @@
     "svnUrl": "https://github.com/atom/language-json",
     "homepage": null,
     "size": 55,
-    "stargazersCount": 17,
-    "watchersCount": 17,
+    "stargazersCount": 19,
+    "watchersCount": 19,
     "language": "CoffeeScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 34,
+    "forksCount": 37,
     "mirrorUrl": null,
-    "openIssuesCount": 0,
-    "openIssues": 0,
-    "watchers": 17,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 19,
     "defaultBranch": "master"
   },
-  "networkCount": 34,
+  "networkCount": 37,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -181,14 +183,8 @@
       "node": "*"
     },
     "homepage": "http://atom.github.io/language-json",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/atom/language-json.git"
-    },
+    "repository": "https://github.com/atom/language-json",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/language-json/issues"
-    },
     "scripts": {
       "postinstall": "./node_modules/.bin/electron-rebuild"
     },
@@ -211,6 +207,11 @@
     "devDependencies": {
       "electron-prebuilt": "^0.28.3",
       "electron-rebuild": "^0.2.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/language-json/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -258,6 +259,7 @@
   "svnUrl": "https://github.com/paulhoconnor/poso-dsl-atom",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:59:04.290Z",
-  "packageLastFetchedAt": "2017-05-05T15:31:31.889Z"
+  "lastFetchedAt": "2017-10-23T21:50:57.230Z",
+  "packageLastFetchedAt": "2017-05-05T15:31:31.889Z",
+  "archived": false
 }

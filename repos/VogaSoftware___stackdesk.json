@@ -5,7 +5,7 @@
   "owner": {
     "login": "VogaSoftware",
     "id": 17691047,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17691047?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17691047?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/VogaSoftware",
     "htmlUrl": "https://github.com/VogaSoftware",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "VogaSoftware",
     "id": 17691047,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17691047?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17691047?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/VogaSoftware",
     "htmlUrl": "https://github.com/VogaSoftware",
@@ -188,10 +188,7 @@
       "ezbuild": "electron-packager-interactive",
       "beta": "electron beta.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/VogaSoftware/kode.git"
-    },
+    "repository": "https://github.com/VogaSoftware/kode",
     "keywords": [
       "Editor",
       "Stackedit",
@@ -200,9 +197,6 @@
     ],
     "author": "Graham Dianaty (@gmdianaty)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/VogaSoftware/kode/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-installer-codesign": "^0.1.1",
@@ -217,6 +211,11 @@
     "dependencies": {
       "electron-prebuilt": "^0.36.0",
       "electron": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/VogaSoftware/kode/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -264,6 +263,7 @@
   },
   "filename": "VogaSoftware___stackdesk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:40:46.746Z",
-  "packageLastFetchedAt": "2017-05-04T22:20:05.309Z"
+  "lastFetchedAt": "2017-10-23T23:41:44.896Z",
+  "packageLastFetchedAt": "2017-05-04T22:20:05.309Z",
+  "archived": false
 }

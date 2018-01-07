@@ -5,7 +5,7 @@
   "owner": {
     "login": "jeffandersen",
     "id": 474438,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/474438?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/474438?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jeffandersen",
     "htmlUrl": "https://github.com/jeffandersen",
@@ -52,10 +52,7 @@
     "author": "Jeff Andersen <@jeffandersen>",
     "license": "MIT",
     "readme": "https://github.com/jeffandersen/waffle-desktop",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jeffandersen/waffle-desktop.git"
-    },
+    "repository": "https://github.com/jeffandersen/waffle-desktop",
     "scripts": {
       "start": "NODE_ENV=development electron . --enable-logging",
       "build": "npm start",
@@ -82,7 +79,8 @@
       "lodash": "4.13.1",
       "request": "2.72.0",
       "semver": "5.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +127,7 @@
   "svnUrl": "https://github.com/jeffandersen/waffle-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:27:55.619Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:02.224Z"
+  "lastFetchedAt": "2017-10-23T22:12:01.774Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:02.224Z",
+  "archived": false
 }

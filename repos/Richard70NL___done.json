@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "done",
     "version": "0.0.1",
@@ -62,15 +62,9 @@
       "prestart": "jshint .",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Richard70NL/done.git"
-    },
+    "repository": "https://github.com/Richard70NL/done",
     "author": "Richard70nl (http://richard70.nl)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Richard70NL/done/issues"
-    },
     "homepage": "https://github.com/Richard70NL/done#readme",
     "dependencies": {
       "rupjs": "0.x",
@@ -94,6 +88,11 @@
       "unused": true,
       "mocha": true,
       "node": true
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Richard70NL/done/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,6 @@
   },
   "filename": "Richard70NL___done.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:13:05.093Z",
+  "lastFetchedAt": "2017-10-23T22:59:37.323Z",
   "packageLastFetchedAt": "2017-05-05T01:29:56.481Z"
 }

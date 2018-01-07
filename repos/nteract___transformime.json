@@ -5,7 +5,7 @@
   "owner": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -20,13 +20,13 @@
   "description": ":truck: Mimetype + data -> HTMLElement",
   "fork": false,
   "createdAt": "2015-07-11T21:44:26.000Z",
-  "updatedAt": "2017-03-23T14:32:17.000Z",
-  "pushedAt": "2017-05-02T17:26:16.000Z",
+  "updatedAt": "2017-09-07T19:47:41.000Z",
+  "pushedAt": "2017-08-22T00:25:06.000Z",
   "homepage": "",
-  "size": 509,
+  "size": 515,
   "stargazersCount": 13,
   "watchersCount": 13,
-  "language": "JavaScript",
+  "language": null,
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "nteract",
     "id": 12401040,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/12401040?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/12401040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nteract",
     "htmlUrl": "https://github.com/nteract",
@@ -63,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 11,
-  "subscribersCount": 24,
+  "subscribersCount": 32,
   "status": 200,
   "packageJSON": {
     "name": "transformime",
@@ -89,10 +89,7 @@
       "watch:test": "npm run test -- -w",
       "clean": "rimraf lib/* dist/*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nteract/transformime.git"
-    },
+    "repository": "https://github.com/nteract/transformime",
     "keywords": [
       "transform",
       "mime",
@@ -101,9 +98,6 @@
     ],
     "author": "nteract",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/nteract/transformime/issues"
-    },
     "homepage": "https://github.com/nteract/transformime#readme",
     "devDependencies": {
       "babel-cli": "^6.14.0",
@@ -133,6 +127,11 @@
       "commonmark": "^0.27.0",
       "escape-carriage": "^1.0.1",
       "mathjax-electron": "^2.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nteract/transformime/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -180,6 +179,7 @@
   },
   "filename": "nteract___transformime.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:03.815Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:17.219Z"
+  "lastFetchedAt": "2017-10-23T21:48:35.369Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:17.219Z",
+  "archived": true
 }

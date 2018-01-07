@@ -5,7 +5,7 @@
   "owner": {
     "login": "imfly",
     "id": 12215508,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12215508?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12215508?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/imfly",
     "htmlUrl": "https://github.com/imfly",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -62,7 +62,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -70,19 +70,12 @@
     "version": "0.0.1",
     "description": "A Desktop App for Visual Deploy",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember electron",
       "test": "ember test"
     },
     "repository": "https://github.com/imfly/VD",
-    "bugs": {
-      "url": "https://github.com/imfly/VD/issues"
-    },
     "engines": {
       "node": ">= 5.0"
     },
@@ -157,6 +150,15 @@
         "ProductName": "VD",
         "InternalName": "VD"
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/imfly/VD/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -184,6 +186,7 @@
   },
   "filename": "imfly___VD.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:23:36.577Z",
-  "packageLastFetchedAt": "2017-05-04T22:08:52.115Z"
+  "lastFetchedAt": "2017-10-23T22:23:18.762Z",
+  "packageLastFetchedAt": "2017-05-04T22:08:52.115Z",
+  "archived": false
 }

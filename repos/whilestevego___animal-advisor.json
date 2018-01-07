@@ -5,7 +5,7 @@
   "owner": {
     "login": "whilestevego",
     "id": 5523172,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5523172?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5523172?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/whilestevego",
     "htmlUrl": "https://github.com/whilestevego",
@@ -56,10 +56,7 @@
       "package": "electron-packager . \"Advisor\" --platform=darwin --arch=x64 --out=dist/ --version 0.37.6 --overwrite --icon=./src/assets/images/icon.icns",
       "test": "gulp test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/whilestevego/animal-advisor.git"
-    },
+    "repository": "https://github.com/whilestevego/animal-advisor",
     "keywords": [
       "memecaptain",
       "adviceanimal",
@@ -69,9 +66,6 @@
     ],
     "author": "Steve Godin",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/whilestevego/animal-advisor/issues"
-    },
     "homepage": "https://github.com/whilestevego/animal-advisor#readme",
     "devDependencies": {
       "babel-core": "^6.9.1",
@@ -118,6 +112,11 @@
     },
     "engines": {
       "node": "^6.2.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/whilestevego/animal-advisor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -165,6 +164,7 @@
   "svnUrl": "https://github.com/whilestevego/animal-advisor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:18:10.753Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:16.986Z"
+  "lastFetchedAt": "2017-10-23T22:07:43.773Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:16.986Z",
+  "archived": false
 }

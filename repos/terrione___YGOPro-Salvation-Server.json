@@ -5,7 +5,7 @@
   "owner": {
     "login": "terrione",
     "id": 16112829,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16112829?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16112829?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/terrione",
     "htmlUrl": "https://github.com/terrione",
@@ -77,10 +77,7 @@
       "yugioh",
       "irc"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/salvationdevelopment/YGOPro-Salvation-Server.git"
-    },
+    "repository": "https://github.com/salvationdevelopment/YGOPro-Salvation-Server",
     "dependencies": {
       "colors": "*",
       "compression": "*",
@@ -114,13 +111,15 @@
       "istanbul": "*",
       "mocha": "*"
     },
-    "bugs": "https://github.com/salvationdevelopment/YGOPro-Salvation-Server/issues",
     "author": "panthrowzay@gmail.com",
     "homepage": "http://ygopro.us",
     "license": "LicenseRef-LICENSE",
     "scripts": {
       "start": "node server/server.js",
       "test": "istanbul cover _mocha -- -u exports -R spec"
+    },
+    "other": {
+      "bugs": "https://github.com/salvationdevelopment/YGOPro-Salvation-Server/issues"
     }
   },
   "packageStatus": 200,
@@ -149,6 +148,7 @@
   "filename": "terrione___YGOPro-Salvation-Server.json",
   "sourceRepo": "SalvationDevelopment/YGOPro-Salvation-Server",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:39:47.879Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:34.286Z"
+  "lastFetchedAt": "2017-10-23T21:49:16.873Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:34.286Z",
+  "archived": false
 }

@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "game-of-thrones",
     "description": "a game of thrones",
@@ -141,7 +141,8 @@
       "dmg": {
         "icon": "src/electron/game-of-thrones.icns"
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -167,6 +168,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:17:39.633Z",
+  "lastFetchedAt": "2017-10-23T23:02:52.827Z",
   "packageLastFetchedAt": "2017-05-05T17:53:40.853Z"
 }

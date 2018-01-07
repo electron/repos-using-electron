@@ -5,7 +5,7 @@
   "owner": {
     "login": "xresloader",
     "id": 12165943,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12165943?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12165943?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xresloader",
     "htmlUrl": "https://github.com/xresloader",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/xresloader/xresconv-gui/downloads",
   "deploymentsUrl": "https://api.github.com/repos/xresloader/xresconv-gui/deployments",
   "createdAt": "2015-05-16T13:07:28.000Z",
-  "updatedAt": "2017-05-03T22:40:56.000Z",
+  "updatedAt": "2017-05-10T02:36:50.000Z",
   "pushedAt": "2016-12-13T08:54:33.000Z",
   "gitUrl": "git://github.com/xresloader/xresconv-gui.git",
   "sshUrl": "git@github.com:xresloader/xresconv-gui.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/xresloader/xresconv-gui",
   "homepage": "",
   "size": 33841,
-  "stargazersCount": 11,
-  "watchersCount": 11,
+  "stargazersCount": 12,
+  "watchersCount": 12,
   "language": "HTML",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 11,
+  "watchers": 12,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -65,7 +65,7 @@
   "organization": {
     "login": "xresloader",
     "id": 12165943,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12165943?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12165943?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xresloader",
     "htmlUrl": "https://github.com/xresloader",
@@ -92,9 +92,6 @@
       "CHANGELOG.md",
       "LICENSE"
     ],
-    "directories": {
-      "doc": "doc"
-    },
     "dependencies": {
       "jquery": "^3.1.1",
       "jquery.fancytree": "^2.20.0",
@@ -118,10 +115,7 @@
       "package": "gulp package",
       "package-all": "gulp package-all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/xresloader/xresconv-gui.git"
-    },
+    "repository": "https://github.com/xresloader/xresconv-gui",
     "author": "owent",
     "license": "MIT",
     "licenses": [
@@ -130,10 +124,15 @@
         "url": "https://github.com/xresloader/xresconv-gui/blob/master/LICENSE"
       }
     ],
-    "bugs": {
-      "url": "https://github.com/xresloader/xresconv-gui/issues"
-    },
-    "homepage": "https://github.com/xresloader/xresconv-gui"
+    "homepage": "https://github.com/xresloader/xresconv-gui",
+    "other": {
+      "directories": {
+        "doc": "doc"
+      },
+      "bugs": {
+        "url": "https://github.com/xresloader/xresconv-gui/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -160,6 +159,7 @@
   },
   "filename": "xresloader___xresconv-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:58.473Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:20.271Z"
+  "lastFetchedAt": "2017-10-23T21:51:13.155Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:20.271Z",
+  "archived": false
 }

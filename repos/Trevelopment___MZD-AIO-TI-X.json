@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "MZD-AIO-TI",
     "productName": "MZD All In One Tweaks Installer",
@@ -85,13 +85,7 @@
       "url": "https://trevelopment.com",
       "company": "Trevelopment"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/trevelopment/MZD-AIO-TI-X"
-    },
-    "bugs": {
-      "url": "https://github.com/trevelopment/MZD-AIO-TI/issues"
-    },
+    "repository": "https://github.com/trevelopment/MZD-AIO-TI-X",
     "engines": {
       "node": "4.2.x"
     },
@@ -197,9 +191,6 @@
         }
       }
     },
-    "directories": {
-      "output": "releases"
-    },
     "devDependencies": {
       "async": "^2",
       "chai": "^3",
@@ -231,6 +222,14 @@
       "extract-zip": "^1.5.0",
       "jquery": "^3.1.0",
       "mkdirp": "^0.5.1"
+    },
+    "other": {
+      "directories": {
+        "output": "releases"
+      },
+      "bugs": {
+        "url": "https://github.com/trevelopment/MZD-AIO-TI/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -258,6 +257,6 @@
   },
   "filename": "Trevelopment___MZD-AIO-TI-X.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:21:46.277Z",
+  "lastFetchedAt": "2017-10-23T22:56:39.582Z",
   "packageLastFetchedAt": "2017-05-04T22:12:04.644Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "tstringer",
     "id": 1445483,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1445483?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1445483?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tstringer",
     "htmlUrl": "https://github.com/tstringer",
@@ -20,21 +20,21 @@
   "description": ":octopus: Common UI layout for an Electron/React app",
   "fork": false,
   "createdAt": "2016-08-30T20:36:48.000Z",
-  "updatedAt": "2017-04-19T03:03:56.000Z",
+  "updatedAt": "2017-10-15T14:08:45.000Z",
   "pushedAt": "2016-09-06T14:36:49.000Z",
   "homepage": "",
   "size": 4335,
-  "stargazersCount": 42,
-  "watchersCount": 42,
+  "stargazersCount": 48,
+  "watchersCount": 48,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
+  "forksCount": 6,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 42,
+  "watchers": 48,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 5,
+  "networkCount": 6,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -76,19 +76,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -165,6 +159,11 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -213,6 +212,7 @@
   "filename": "tstringer___electron-basic-ui-layout.json",
   "sourceRepo": "chentsulin/electron-react-boilerplate",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:02.328Z",
-  "packageLastFetchedAt": "2017-05-05T15:26:58.868Z"
+  "lastFetchedAt": "2017-10-23T22:30:19.026Z",
+  "packageLastFetchedAt": "2017-05-05T15:26:58.868Z",
+  "archived": false
 }

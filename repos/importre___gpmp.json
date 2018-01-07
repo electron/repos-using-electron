@@ -5,7 +5,7 @@
   "owner": {
     "login": "importre",
     "id": 1744446,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1744446?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1744446?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/importre",
     "htmlUrl": "https://github.com/importre",
@@ -55,10 +55,7 @@
     "productName": "GooglePlayMusicPlayer",
     "description": "Google Play Music on Electron",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/importre/GooglePlayMusic.git"
-    },
+    "repository": "https://github.com/importre/GooglePlayMusic",
     "author": "Jaewe Heo <jaeweheo@gmail.com>",
     "engines": {
       "node": ">=0.10.0"
@@ -79,12 +76,14 @@
       "rcedit": "^0.3.0"
     },
     "name": "google_play_music",
-    "bugs": {
-      "url": "https://github.com/importre/GooglePlayMusic/issues"
-    },
     "homepage": "https://github.com/importre/GooglePlayMusic#readme",
     "version": "0.1.0",
-    "main": "index.js"
+    "main": "index.js",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/importre/GooglePlayMusic/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,7 @@
   "svnUrl": "https://github.com/importre/gpmp",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:50:16.666Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:31.384Z"
+  "lastFetchedAt": "2017-10-23T22:12:40.803Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:31.384Z",
+  "archived": false
 }

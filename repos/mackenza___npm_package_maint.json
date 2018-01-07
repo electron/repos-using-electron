@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "npm-package-maint",
     "version": "0.1.0",
@@ -76,7 +76,8 @@
     },
     "devDependencies": {
       "devtron": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +124,6 @@
   "svnUrl": "https://github.com/mackenza/npm_package_maint",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:48:50.461Z",
+  "lastFetchedAt": "2017-10-23T23:00:12.825Z",
   "packageLastFetchedAt": "2017-05-05T14:34:20.024Z"
 }

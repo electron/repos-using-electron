@@ -5,7 +5,7 @@
   "owner": {
     "login": "yaydogan",
     "id": 16845183,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16845183?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16845183?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/yaydogan",
     "htmlUrl": "https://github.com/yaydogan",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "evancohen",
       "id": 1198365,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1198365?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1198365?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/evancohen",
       "htmlUrl": "https://github.com/evancohen",
@@ -79,27 +79,28 @@
     "downloadsUrl": "https://api.github.com/repos/evancohen/smart-mirror/downloads",
     "deploymentsUrl": "https://api.github.com/repos/evancohen/smart-mirror/deployments",
     "createdAt": "2015-09-12T02:41:53.000Z",
-    "updatedAt": "2017-05-04T16:17:50.000Z",
-    "pushedAt": "2017-05-03T22:55:30.000Z",
+    "updatedAt": "2017-10-23T14:41:56.000Z",
+    "pushedAt": "2017-10-10T03:55:03.000Z",
     "gitUrl": "git://github.com/evancohen/smart-mirror.git",
     "sshUrl": "git@github.com:evancohen/smart-mirror.git",
     "cloneUrl": "https://github.com/evancohen/smart-mirror.git",
     "svnUrl": "https://github.com/evancohen/smart-mirror",
     "homepage": "http://smart-mirror.io",
-    "size": 12017,
-    "stargazersCount": 1886,
-    "watchersCount": 1886,
+    "size": 12815,
+    "stargazersCount": 2010,
+    "watchersCount": 2010,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 607,
+    "forksCount": 633,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 1886,
+    "archived": false,
+    "openIssuesCount": 23,
+    "openIssues": 23,
+    "watchers": 2010,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "evancohen",
       "id": 1198365,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/1198365?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1198365?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/evancohen",
       "htmlUrl": "https://github.com/evancohen",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/evancohen/smart-mirror/downloads",
     "deploymentsUrl": "https://api.github.com/repos/evancohen/smart-mirror/deployments",
     "createdAt": "2015-09-12T02:41:53.000Z",
-    "updatedAt": "2017-05-04T16:17:50.000Z",
-    "pushedAt": "2017-05-03T22:55:30.000Z",
+    "updatedAt": "2017-10-23T14:41:56.000Z",
+    "pushedAt": "2017-10-10T03:55:03.000Z",
     "gitUrl": "git://github.com/evancohen/smart-mirror.git",
     "sshUrl": "git@github.com:evancohen/smart-mirror.git",
     "cloneUrl": "https://github.com/evancohen/smart-mirror.git",
     "svnUrl": "https://github.com/evancohen/smart-mirror",
     "homepage": "http://smart-mirror.io",
-    "size": 12017,
-    "stargazersCount": 1886,
-    "watchersCount": 1886,
+    "size": 12815,
+    "stargazersCount": 2010,
+    "watchersCount": 2010,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": true,
-    "forksCount": 607,
+    "forksCount": 633,
     "mirrorUrl": null,
-    "openIssuesCount": 12,
-    "openIssues": 12,
-    "watchers": 1886,
+    "archived": false,
+    "openIssuesCount": 23,
+    "openIssues": 23,
+    "watchers": 2010,
     "defaultBranch": "master"
   },
-  "networkCount": 607,
+  "networkCount": 633,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -175,10 +177,7 @@
       "start": "electron main.js ",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
@@ -187,9 +186,6 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "angular-i18n": "^1.5.0",
@@ -198,6 +194,11 @@
       "install": "^0.5.4",
       "npm": "^3.7.5",
       "wiredep": "^3.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -246,6 +247,7 @@
   "svnUrl": "https://github.com/yaydogan/smart-mirror",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:41:59.352Z",
-  "packageLastFetchedAt": "2017-05-04T22:56:27.154Z"
+  "lastFetchedAt": "2017-10-23T22:16:07.207Z",
+  "packageLastFetchedAt": "2017-05-04T22:56:27.154Z",
+  "archived": false
 }

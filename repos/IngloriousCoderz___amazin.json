@@ -5,7 +5,7 @@
   "owner": {
     "login": "IngloriousCoderz",
     "id": 13223783,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13223783?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13223783?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IngloriousCoderz",
     "htmlUrl": "https://github.com/IngloriousCoderz",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "IngloriousCoderz",
     "id": 13223783,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13223783?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13223783?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IngloriousCoderz",
     "htmlUrl": "https://github.com/IngloriousCoderz",
@@ -90,10 +90,6 @@
     "version": "1.0.0",
     "description": "Converts spreadsheets and csv to Amazon's format.",
     "main": "main.js",
-    "directories": {
-      "test": "test",
-      "packages": "jspm_packages"
-    },
     "scripts": {
       "postinstall": "jspm install",
       "test": "echo \"Error: no test specified\" && exit 1",
@@ -101,15 +97,9 @@
       "start": "electron .",
       "bundle": "electron-packager ./ amazin --platform=win32 --arch=ia32 --version=0.36.5 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/IngloriousCoderz/amazin.git"
-    },
+    "repository": "https://github.com/IngloriousCoderz/amazin",
     "author": "Inglorious Coderz",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/IngloriousCoderz/amazin/issues"
-    },
     "homepage": "https://github.com/IngloriousCoderz/amazin#readme",
     "dependencies": {},
     "devDependencies": {
@@ -146,6 +136,15 @@
         "clean-css": "npm:clean-css@^3.4.9",
         "core-js": "npm:core-js@^1.1.4"
       }
+    },
+    "other": {
+      "directories": {
+        "test": "test",
+        "packages": "jspm_packages"
+      },
+      "bugs": {
+        "url": "https://github.com/IngloriousCoderz/amazin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -173,6 +172,7 @@
   },
   "filename": "IngloriousCoderz___amazin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:37.417Z",
-  "packageLastFetchedAt": "2017-05-05T17:16:42.332Z"
+  "lastFetchedAt": "2017-10-23T22:13:10.409Z",
+  "packageLastFetchedAt": "2017-05-05T17:16:42.332Z",
+  "archived": false
 }

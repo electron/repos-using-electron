@@ -164,7 +164,7 @@
   },
   "networkCount": 87,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Championify",
     "version": "1.3.3",
@@ -179,10 +179,7 @@
       "dev": "gulp dev",
       "lint": "gulp lint"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dustinblackman/Championify.git"
-    },
+    "repository": "https://github.com/dustinblackman/Championify",
     "engines": {
       "node": "4.1.1",
       "npm": "3.8.5"
@@ -266,7 +263,8 @@
         "browser": true,
         "mocha": true
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -314,6 +312,6 @@
   "svnUrl": "https://github.com/iggyvolz/Championify",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:56:00.087Z",
+  "lastFetchedAt": "2017-10-23T23:03:13.587Z",
   "packageLastFetchedAt": "2017-05-05T15:09:08.243Z"
 }

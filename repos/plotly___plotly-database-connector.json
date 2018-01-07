@@ -1,11 +1,11 @@
 {
   "id": 58595223,
-  "name": "plotly-database-connector",
-  "fullName": "plotly/plotly-database-connector",
+  "name": "falcon-sql-client",
+  "fullName": "plotly/falcon-sql-client",
   "owner": {
     "login": "plotly",
     "id": 5997976,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5997976?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5997976?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotly",
     "htmlUrl": "https://github.com/plotly",
@@ -17,24 +17,24 @@
     "type": "Organization"
   },
   "private": false,
-  "description": "Connect Plotly 2.0 to your SQL Database :sparkles: ",
+  "description": "Free, open-source SQL client for Windows and Mac 🔌",
   "fork": false,
   "createdAt": "2016-05-12T01:03:48.000Z",
-  "updatedAt": "2017-05-04T14:01:50.000Z",
-  "pushedAt": "2017-05-03T16:33:40.000Z",
-  "homepage": "",
-  "size": 7346,
-  "stargazersCount": 59,
-  "watchersCount": 59,
+  "updatedAt": "2017-10-16T19:03:46.000Z",
+  "pushedAt": "2017-10-23T19:49:39.000Z",
+  "homepage": "https://plot.ly/free-sql-client-download/",
+  "size": 8720,
+  "stargazersCount": 88,
+  "watchersCount": 88,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 18,
-  "openIssuesCount": 12,
-  "openIssues": 12,
-  "watchers": 59,
+  "forksCount": 27,
+  "openIssuesCount": 15,
+  "openIssues": 15,
+  "watchers": 88,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "plotly",
     "id": 5997976,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5997976?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5997976?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/plotly",
     "htmlUrl": "https://github.com/plotly",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/plotly/received_events",
     "type": "Organization"
   },
-  "networkCount": 18,
-  "subscribersCount": 10,
+  "networkCount": 27,
+  "subscribersCount": 23,
   "status": 200,
   "packageJSON": {
     "name": "plotly-database-connector",
@@ -154,19 +154,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/plotly/plotly-database-connector"
-    },
+    "repository": "https://github.com/plotly/plotly-database-connector",
     "author": {
       "name": "Plotly",
       "email": "chris@plot.ly",
       "url": ""
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/plotly/plotly-database-connector/issues"
-    },
     "keywords": [
       "electron",
       "plotly",
@@ -282,6 +276,11 @@
     "devEngines": {
       "node": "6.9.2",
       "npm": "3.10.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/plotly/plotly-database-connector/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -308,27 +307,28 @@
     }
   },
   "filename": "plotly___plotly-database-connector.json",
-  "htmlUrl": "https://github.com/plotly/plotly-database-connector",
-  "url": "https://api.github.com/repos/plotly/plotly-database-connector",
-  "forksUrl": "https://api.github.com/repos/plotly/plotly-database-connector/forks",
-  "teamsUrl": "https://api.github.com/repos/plotly/plotly-database-connector/teams",
-  "hooksUrl": "https://api.github.com/repos/plotly/plotly-database-connector/hooks",
-  "eventsUrl": "https://api.github.com/repos/plotly/plotly-database-connector/events",
-  "tagsUrl": "https://api.github.com/repos/plotly/plotly-database-connector/tags",
-  "languagesUrl": "https://api.github.com/repos/plotly/plotly-database-connector/languages",
-  "stargazersUrl": "https://api.github.com/repos/plotly/plotly-database-connector/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/plotly/plotly-database-connector/contributors",
-  "subscribersUrl": "https://api.github.com/repos/plotly/plotly-database-connector/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/plotly/plotly-database-connector/subscription",
-  "mergesUrl": "https://api.github.com/repos/plotly/plotly-database-connector/merges",
-  "downloadsUrl": "https://api.github.com/repos/plotly/plotly-database-connector/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/plotly/plotly-database-connector/deployments",
-  "gitUrl": "git://github.com/plotly/plotly-database-connector.git",
-  "sshUrl": "git@github.com:plotly/plotly-database-connector.git",
-  "cloneUrl": "https://github.com/plotly/plotly-database-connector.git",
-  "svnUrl": "https://github.com/plotly/plotly-database-connector",
+  "htmlUrl": "https://github.com/plotly/falcon-sql-client",
+  "url": "https://api.github.com/repos/plotly/falcon-sql-client",
+  "forksUrl": "https://api.github.com/repos/plotly/falcon-sql-client/forks",
+  "teamsUrl": "https://api.github.com/repos/plotly/falcon-sql-client/teams",
+  "hooksUrl": "https://api.github.com/repos/plotly/falcon-sql-client/hooks",
+  "eventsUrl": "https://api.github.com/repos/plotly/falcon-sql-client/events",
+  "tagsUrl": "https://api.github.com/repos/plotly/falcon-sql-client/tags",
+  "languagesUrl": "https://api.github.com/repos/plotly/falcon-sql-client/languages",
+  "stargazersUrl": "https://api.github.com/repos/plotly/falcon-sql-client/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/plotly/falcon-sql-client/contributors",
+  "subscribersUrl": "https://api.github.com/repos/plotly/falcon-sql-client/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/plotly/falcon-sql-client/subscription",
+  "mergesUrl": "https://api.github.com/repos/plotly/falcon-sql-client/merges",
+  "downloadsUrl": "https://api.github.com/repos/plotly/falcon-sql-client/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/plotly/falcon-sql-client/deployments",
+  "gitUrl": "git://github.com/plotly/falcon-sql-client.git",
+  "sshUrl": "git@github.com:plotly/falcon-sql-client.git",
+  "cloneUrl": "https://github.com/plotly/falcon-sql-client.git",
+  "svnUrl": "https://github.com/plotly/falcon-sql-client",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:54:38.384Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:37.209Z"
+  "lastFetchedAt": "2017-10-23T21:45:42.749Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:37.209Z",
+  "archived": false
 }

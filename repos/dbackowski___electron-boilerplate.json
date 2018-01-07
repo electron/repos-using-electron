@@ -5,7 +5,7 @@
   "owner": {
     "login": "dbackowski",
     "id": 567457,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/567457?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/567457?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dbackowski",
     "htmlUrl": "https://github.com/dbackowski",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2016-02-27T11:22:40.000Z",
   "updatedAt": "2017-03-02T14:16:47.000Z",
-  "pushedAt": "2017-04-25T06:57:33.000Z",
+  "pushedAt": "2017-10-12T06:47:39.000Z",
   "homepage": null,
-  "size": 11,
+  "size": 45,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -60,16 +60,14 @@
       "start": "electron app.js",
       "build": "electron-packager ./ --platform=darwin,linux --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dbackowski/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/dbackowski/electron-boilerplate",
     "author": "Damian Baćkowski",
     "license": "MIT",
     "devDependencies": {
       "electron-packager": "8.7.0",
       "electron": "1.6.6"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/dbackowski/electron-boilerplate",
@@ -116,6 +114,7 @@
   },
   "filename": "dbackowski___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:28:59.596Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:11.531Z"
+  "lastFetchedAt": "2017-10-23T23:40:45.161Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:11.531Z",
+  "archived": false
 }

@@ -1,12 +1,12 @@
 {
   "filename": "takeiteasy___doujinshi-db-gui.json",
   "id": 9678430,
-  "name": "doujinshi-db-gui",
-  "fullName": "takeiteasy/doujinshi-db-gui",
+  "name": "doujinshi-db",
+  "fullName": "takeiteasy/doujinshi-db",
   "owner": {
     "login": "takeiteasy",
     "id": 1756698,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1756698?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1756698?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/takeiteasy",
     "htmlUrl": "https://github.com/takeiteasy",
@@ -18,52 +18,58 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/takeiteasy/doujinshi-db-gui",
-  "description": "Doujin renamer and database",
+  "htmlUrl": "https://github.com/takeiteasy/doujinshi-db",
+  "description": "Doujin renamer and database (WIP)",
   "fork": false,
-  "url": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui",
-  "forksUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/forks",
-  "teamsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/teams",
-  "hooksUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/hooks",
-  "eventsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/events",
-  "tagsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/tags",
-  "languagesUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/languages",
-  "stargazersUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/contributors",
-  "subscribersUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/subscription",
-  "mergesUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/merges",
-  "downloadsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db-gui/deployments",
+  "url": "https://api.github.com/repos/takeiteasy/doujinshi-db",
+  "forksUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/forks",
+  "teamsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/teams",
+  "hooksUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/hooks",
+  "eventsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/events",
+  "tagsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/tags",
+  "languagesUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/languages",
+  "stargazersUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/contributors",
+  "subscribersUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/subscription",
+  "mergesUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/merges",
+  "downloadsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/takeiteasy/doujinshi-db/deployments",
   "createdAt": "2013-04-25T18:25:12.000Z",
-  "updatedAt": "2016-12-04T09:03:38.000Z",
-  "pushedAt": "2016-12-20T20:22:37.000Z",
-  "gitUrl": "git://github.com/takeiteasy/doujinshi-db-gui.git",
-  "sshUrl": "git@github.com:takeiteasy/doujinshi-db-gui.git",
-  "cloneUrl": "https://github.com/takeiteasy/doujinshi-db-gui.git",
-  "svnUrl": "https://github.com/takeiteasy/doujinshi-db-gui",
-  "homepage": null,
-  "size": 373,
-  "stargazersCount": 11,
-  "watchersCount": 11,
-  "language": "CoffeeScript",
+  "updatedAt": "2017-10-21T07:49:06.000Z",
+  "pushedAt": "2017-08-22T03:22:14.000Z",
+  "gitUrl": "git://github.com/takeiteasy/doujinshi-db.git",
+  "sshUrl": "git@github.com:takeiteasy/doujinshi-db.git",
+  "cloneUrl": "https://github.com/takeiteasy/doujinshi-db.git",
+  "svnUrl": "https://github.com/takeiteasy/doujinshi-db",
+  "homepage": "",
+  "size": 3110,
+  "stargazersCount": 16,
+  "watchersCount": 16,
+  "language": "Python",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 11,
+  "watchers": 16,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 1,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-clause \"New\" or \"Revised\" License",
+    "spdxId": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "featured": false
+  },
+  "networkCount": 2,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -74,15 +80,9 @@
     "scripts": {
       "test": "electron app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/takeiteasy/doujinshi-db-gui.git"
-    },
+    "repository": "https://github.com/takeiteasy/doujinshi-db-gui",
     "author": "",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/takeiteasy/doujinshi-db-gui/issues"
-    },
     "homepage": "https://github.com/takeiteasy/doujinshi-db-gui#readme",
     "devDependencies": {
       "gulp": "^3.9.1",
@@ -93,6 +93,11 @@
     "dependencies": {
       "electron-prebuilt": "^1.4.10",
       "electron-window": "^0.8.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/takeiteasy/doujinshi-db-gui/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +124,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:07:28.455Z",
-  "packageLastFetchedAt": "2017-05-05T01:23:25.152Z"
+  "lastFetchedAt": "2017-10-23T21:52:08.729Z",
+  "packageLastFetchedAt": "2017-05-05T01:23:25.152Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "version": "0.2.8",
@@ -87,19 +87,13 @@
       "package": "node package.js",
       "package-all": "node package.js --all"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -152,6 +146,11 @@
       "react": "^0.13.3",
       "react-router": "^0.13.3",
       "xrandr-parse": "^0.1.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -179,6 +178,6 @@
   },
   "filename": "mmai___xbrightness.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:40:23.687Z",
+  "lastFetchedAt": "2017-10-23T23:07:07.338Z",
   "packageLastFetchedAt": "2017-05-04T22:17:45.361Z"
 }

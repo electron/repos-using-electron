@@ -170,7 +170,7 @@
   },
   "networkCount": 1146,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "productName": "HyperTerm",
@@ -219,7 +219,8 @@
     "scripts": {
       "start": "electron index",
       "lint": "eslint *.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -267,6 +268,6 @@
   "svnUrl": "https://github.com/Calinou/hyperterm",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:29:41.343Z",
+  "lastFetchedAt": "2017-10-24T00:10:29.421Z",
   "packageLastFetchedAt": "2017-05-05T01:33:53.374Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "TroopTrack",
     "id": 6953226,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6953226?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6953226?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TroopTrack",
     "htmlUrl": "https://github.com/TroopTrack",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "TroopTrack",
     "id": 6953226,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6953226?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6953226?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TroopTrack",
     "htmlUrl": "https://github.com/TroopTrack",
@@ -71,10 +71,7 @@
     "version": "1.0.0",
     "description": "Sync your TroopTrack Photo albums to your desktop.",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/TroopTrack/trooptrack-photo-sync.git"
-    },
+    "repository": "https://github.com/TroopTrack/trooptrack-photo-sync",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron .",
@@ -102,7 +99,8 @@
       "request-progress": "^1.0.2",
       "toastr": "^2.1.2",
       "user-home": "^2.0.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -149,6 +147,7 @@
   "svnUrl": "https://github.com/TroopTrack/trooptrack-photo-sync",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:07:15.071Z",
-  "packageLastFetchedAt": "2017-05-05T15:19:33.918Z"
+  "lastFetchedAt": "2017-10-23T22:30:15.018Z",
+  "packageLastFetchedAt": "2017-05-05T15:19:33.918Z",
+  "archived": false
 }

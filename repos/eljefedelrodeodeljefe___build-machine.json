@@ -5,7 +5,7 @@
   "owner": {
     "login": "eljefedelrodeodeljefe",
     "id": 3899684,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3899684?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3899684?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eljefedelrodeodeljefe",
     "htmlUrl": "https://github.com/eljefedelrodeodeljefe",
@@ -69,10 +69,7 @@
     "name": "vue-electron-boilerplate",
     "description": "Simple Electron client basd on Vue and Vue-Router",
     "author": "Robert Jefe Lindstaedt <robert.lindstaedt@gmail.com>",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/eljefedelrodeodeljefe/vue-electron-boilerplate.git"
-    },
+    "repository": "https://github.com/eljefedelrodeodeljefe/vue-electron-boilerplate",
     "license": "MIT",
     "scripts": {
       "dev": "watchify --detect-globals --ignore-missing -vd -p browserify-hmr -e src/main.js -o dist/build.js & index.js & superstatic --port 8080",
@@ -128,7 +125,8 @@
       "vueify": "^8.0.0",
       "vueify-insert-css": "^1.0.0",
       "watchify": "^3.4.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -155,6 +153,7 @@
   },
   "filename": "eljefedelrodeodeljefe___build-machine.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:40.576Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:30.171Z"
+  "lastFetchedAt": "2017-10-23T23:40:07.172Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:30.171Z",
+  "archived": false
 }

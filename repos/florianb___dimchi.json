@@ -5,7 +5,7 @@
   "owner": {
     "login": "florianb",
     "id": 983507,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/983507?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/983507?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/florianb",
     "htmlUrl": "https://github.com/florianb",
@@ -90,19 +90,13 @@
       "start": "electron .",
       "repl": "node"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/florianb/dimchi.git"
-    },
+    "repository": "https://github.com/florianb/dimchi",
     "keywords": [
       "dimensiondata",
       "cloud"
     ],
     "author": "Florian Breisch <florian.breisch@mindkeeper.solutions>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/florianb/dimchi/issues"
-    },
     "homepage": "https://github.com/florianb/dimchi#readme",
     "devDependencies": {
       "ava": "^0.14.0",
@@ -151,6 +145,11 @@
         "lib/**/*",
         "*.js"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/florianb/dimchi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,7 @@
   },
   "filename": "florianb___dimchi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:47:57.381Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:15.976Z"
+  "lastFetchedAt": "2017-10-23T22:14:46.282Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:15.976Z",
+  "archived": false
 }

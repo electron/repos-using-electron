@@ -5,7 +5,7 @@
   "owner": {
     "login": "AAlakkad",
     "id": 351256,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/351256?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/351256?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AAlakkad",
     "htmlUrl": "https://github.com/AAlakkad",
@@ -81,10 +81,7 @@
       "build": "electron-packager . MyApp --out=dist --platform=linux --arch=x64 --version=0.35.1 --ignore=\"node_modules/(electron-packager|electron-prebuilt)\" --overwrite",
       "package": "asar pack MyApp-linux-x64/resources/app MyApp-linux-x64/resources/app.asar"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -93,9 +90,6 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "asar": "^0.8.3",
@@ -104,6 +98,11 @@
     },
     "dependencies": {
       "bootstrap": "^3.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "AAlakkad___electron-deploy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:02:22.152Z",
-  "packageLastFetchedAt": "2017-05-04T22:39:58.359Z"
+  "lastFetchedAt": "2017-10-23T22:16:34.866Z",
+  "packageLastFetchedAt": "2017-05-04T22:39:58.359Z",
+  "archived": false
 }

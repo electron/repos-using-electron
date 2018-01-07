@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "sharing-demo",
     "version": "0.1.0",
@@ -74,19 +74,13 @@
       "build": "webpack --progress --colors --watch",
       "run": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tylerlong/sharing-demo.git"
-    },
+    "repository": "https://github.com/tylerlong/sharing-demo",
     "keywords": [
       "demo",
       "sharing"
     ],
     "author": "Tyler Long <tyler4long@gmail.com> (https://github.com/tylerlong)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tylerlong/sharing-demo/issues"
-    },
     "homepage": "https://github.com/tylerlong/sharing-demo#readme",
     "devDependencies": {
       "babel-core": "^6.18.0",
@@ -105,6 +99,11 @@
       "react-dom": "^15.3.2",
       "react-redux": "^4.4.5",
       "redux": "^3.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tylerlong/sharing-demo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,6 @@
   },
   "filename": "tylerlong___sharing-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:50.963Z",
+  "lastFetchedAt": "2017-10-23T23:01:23.846Z",
   "packageLastFetchedAt": "2017-05-05T17:38:02.364Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "MailJS",
     "id": 16760609,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16760609?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16760609?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MailJS",
     "htmlUrl": "https://github.com/MailJS",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "MailJS",
     "id": 16760609,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16760609?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16760609?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MailJS",
     "htmlUrl": "https://github.com/MailJS",
@@ -93,15 +93,9 @@
     "scripts": {
       "start": "electron ./app/app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MailJS/MailJS-app.git"
-    },
+    "repository": "https://github.com/MailJS/MailJS-app",
     "author": "AtlasDev",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/MailJS/MailJS-app/issues"
-    },
     "homepage": "https://mailjs.net",
     "devDependencies": {
       "electron": "^0.4.1",
@@ -111,6 +105,11 @@
       "grunt-electron": "^2.0.1",
       "grunt-electron-builder-wrapper": "^0.2.0",
       "grunt-rcedit": "^0.3.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/MailJS/MailJS-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "MailJS___MailJS-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:16:50.958Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:06.694Z"
+  "lastFetchedAt": "2017-10-23T22:24:00.292Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:06.694Z",
+  "archived": false
 }

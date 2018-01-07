@@ -5,7 +5,7 @@
   "owner": {
     "login": "hunterjm",
     "id": 747670,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/747670?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/747670?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hunterjm",
     "htmlUrl": "https://github.com/hunterjm",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/hunterjm/fifa-autobuyer/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hunterjm/fifa-autobuyer/deployments",
   "createdAt": "2016-03-13T02:22:20.000Z",
-  "updatedAt": "2017-05-03T23:49:15.000Z",
-  "pushedAt": "2017-03-12T21:57:01.000Z",
+  "updatedAt": "2017-10-23T06:17:37.000Z",
+  "pushedAt": "2017-08-04T23:00:24.000Z",
   "gitUrl": "git://github.com/hunterjm/fifa-autobuyer.git",
   "sshUrl": "git@github.com:hunterjm/fifa-autobuyer.git",
   "cloneUrl": "https://github.com/hunterjm/fifa-autobuyer.git",
   "svnUrl": "https://github.com/hunterjm/fifa-autobuyer",
   "homepage": "http://fifa.hunterjm.com",
-  "size": 8719,
-  "stargazersCount": 74,
-  "watchersCount": 74,
+  "size": 8755,
+  "stargazersCount": 95,
+  "watchersCount": 95,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 15,
+  "forksCount": 27,
   "mirrorUrl": null,
-  "openIssuesCount": 47,
-  "openIssues": 47,
-  "watchers": 74,
+  "openIssuesCount": 51,
+  "openIssues": 51,
+  "watchers": 95,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,8 +68,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 15,
-  "subscribersCount": 28,
+  "networkCount": 27,
+  "subscribersCount": 48,
   "status": 200,
   "packageJSON": {
     "name": "fifa-autobuyer",
@@ -139,26 +139,16 @@
         "github"
       ]
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hunterjm/fifa-autobuyer.git"
-    },
+    "repository": "https://github.com/hunterjm/fifa-autobuyer",
     "author": {
       "name": "Jason Hunter",
       "email": "hunterjm@gmail.com",
       "url": "https://github.com/hunterjm"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hunterjm/fifa-autobuyer/issues"
-    },
     "keywords": [
       "fifa",
       "ultimate team",
@@ -262,6 +252,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/hunterjm/fifa-autobuyer/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -289,6 +288,7 @@
   },
   "filename": "hunterjm___fifa-autobuyer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:30:46.845Z",
-  "packageLastFetchedAt": "2017-05-05T17:37:30.407Z"
+  "lastFetchedAt": "2017-10-23T22:13:44.295Z",
+  "packageLastFetchedAt": "2017-05-05T17:37:30.407Z",
+  "archived": false
 }

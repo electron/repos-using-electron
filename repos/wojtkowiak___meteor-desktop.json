@@ -5,7 +5,7 @@
   "owner": {
     "login": "wojtkowiak",
     "id": 8668306,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8668306?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8668306?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wojtkowiak",
     "htmlUrl": "https://github.com/wojtkowiak",
@@ -20,21 +20,21 @@
   "description": "Build a Meteor's desktop client with hot code push.",
   "fork": false,
   "createdAt": "2016-05-04T12:18:00.000Z",
-  "updatedAt": "2017-05-02T05:00:11.000Z",
-  "pushedAt": "2017-05-04T12:15:46.000Z",
+  "updatedAt": "2017-10-12T20:57:20.000Z",
+  "pushedAt": "2017-10-11T12:45:26.000Z",
   "homepage": null,
-  "size": 2279,
-  "stargazersCount": 258,
-  "watchersCount": 258,
+  "size": 2383,
+  "stargazersCount": 310,
+  "watchersCount": 310,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 27,
-  "openIssuesCount": 21,
-  "openIssues": 21,
-  "watchers": 258,
+  "forksCount": 31,
+  "openIssuesCount": 41,
+  "openIssues": 41,
+  "watchers": 310,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 27,
-  "subscribersCount": 26,
+  "networkCount": 31,
+  "subscribersCount": 29,
   "status": 200,
   "packageJSON": {
     "name": "meteor-desktop",
@@ -145,10 +145,7 @@
       "single-line-log": "1.1.2",
       "uglify-js": "2.7.5"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wojtkowiak/meteor-desktop"
-    },
+    "repository": "https://github.com/wojtkowiak/meteor-desktop",
     "keywords": [
       "electron",
       "meteor",
@@ -172,10 +169,12 @@
       "instrument": false,
       "all": true
     },
-    "bugs": {
-      "url": "https://github.com/wojtkowiak/meteor-desktop/issues"
-    },
-    "homepage": "https://github.com/wojtkowiak/meteor-desktop"
+    "homepage": "https://github.com/wojtkowiak/meteor-desktop",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/wojtkowiak/meteor-desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -222,6 +221,7 @@
   "svnUrl": "https://github.com/wojtkowiak/meteor-desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:48:16.612Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:53.188Z"
+  "lastFetchedAt": "2017-10-23T22:54:13.142Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:53.188Z",
+  "archived": false
 }

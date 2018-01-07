@@ -50,7 +50,7 @@
   },
   "networkCount": 56,
   "subscribersCount": 51,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cncjs",
     "version": "1.9.4",
@@ -67,10 +67,7 @@
       "dist",
       "static"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:cncjs/cncjs.git"
-    },
+    "repository": "https://github.com/cncjs/cncjs",
     "license": "MIT",
     "engines": {
       "node": ">=4"
@@ -356,7 +353,8 @@
     },
     "pre-push": [
       "eslint:debug"
-    ]
+    ],
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/cncjs/cncjs",
@@ -417,6 +415,6 @@
     "receivedEventsUrl": "https://api.github.com/users/cncjs/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T18:01:30.788Z",
+  "lastFetchedAt": "2017-10-24T00:10:47.332Z",
   "packageLastFetchedAt": "2017-05-05T17:34:06.791Z"
 }

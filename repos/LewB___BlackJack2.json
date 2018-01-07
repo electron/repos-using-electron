@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "blackjack2",
     "version": "1.0.0",
@@ -79,13 +79,11 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Lewb/BlackJack2.git"
-    },
+    "repository": "https://github.com/Lewb/BlackJack2",
     "devDependencies": {
       "electron-prebuilt": "^0.36.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -112,6 +110,6 @@
   },
   "filename": "LewB___BlackJack2.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:22:24.684Z",
+  "lastFetchedAt": "2017-10-24T00:11:21.910Z",
   "packageLastFetchedAt": "2017-05-04T22:18:10.484Z"
 }

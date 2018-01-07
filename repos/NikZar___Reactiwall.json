@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "reactiwall",
     "productName": "Reactiwall",
@@ -81,10 +81,7 @@
       "electron": "./node_modules/.bin/electron",
       "concurrently": "^2.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/NikZar/Reactiwall.git"
-    },
+    "repository": "https://github.com/NikZar/Reactiwall",
     "author": {
       "name": "Niko Zarzani",
       "email": "niko.zarzani@gmail.com",
@@ -206,7 +203,8 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -253,6 +251,6 @@
   "svnUrl": "https://github.com/NikZar/Reactiwall",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:12:10.463Z",
+  "lastFetchedAt": "2017-10-23T21:46:58.606Z",
   "packageLastFetchedAt": "2017-05-05T17:49:41.254Z"
 }

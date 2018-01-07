@@ -6,7 +6,7 @@
   "owner": {
     "login": "anga",
     "id": 1065748,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1065748?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1065748?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/anga",
     "htmlUrl": "https://github.com/anga",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T15:16:42.953Z",
+  "lastFetchedAt": "2017-10-23T22:52:26.496Z",
   "packageJSON": {
     "name": "electron-react-redux-boilerplate",
     "version": "0.0.0",
@@ -139,8 +139,10 @@
       "private:serve": "babel-node scripts/serve.js",
       "private:compile": "babel app/ --copy-files --out-dir build",
       "private:clean": "rimraf build"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T01:26:59.792Z"
+  "packageLastFetchedAt": "2017-05-05T01:26:59.792Z",
+  "archived": false
 }

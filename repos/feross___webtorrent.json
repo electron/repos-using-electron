@@ -50,7 +50,7 @@
   },
   "networkCount": 1146,
   "subscribersCount": 616,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "webtorrent",
     "description": "Streaming torrent client",
@@ -74,9 +74,6 @@
       "transform": [
         "package-json-versionify"
       ]
-    },
-    "bugs": {
-      "url": "https://github.com/webtorrent/webtorrent/issues"
     },
     "dependencies": {
       "addr-to-ip-port": "^1.4.2",
@@ -160,10 +157,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/webtorrent/webtorrent.git"
-    },
+    "repository": "https://github.com/webtorrent/webtorrent",
     "scripts": {
       "build": "browserify -s WebTorrent -e ./ | uglifyjs -c warnings=false -m > webtorrent.min.js",
       "build-debug": "browserify -s WebTorrent -e ./ > webtorrent.debug.js",
@@ -174,6 +168,11 @@
       "test-browser-local": "zuul --local -- test/*.js test/browser/*.js",
       "test-node": "tape test/*.js test/node/*.js",
       "update-authors": "./bin/update-authors.sh"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/webtorrent/webtorrent/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -235,6 +234,6 @@
     "receivedEventsUrl": "https://api.github.com/users/webtorrent/received_events",
     "type": "Organization"
   },
-  "lastFetchedAt": "2017-05-04T19:43:44.794Z",
+  "lastFetchedAt": "2017-10-23T23:04:20.839Z",
   "packageLastFetchedAt": "2017-05-04T21:53:18.591Z"
 }

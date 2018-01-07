@@ -5,7 +5,7 @@
   "owner": {
     "login": "mathphreak",
     "id": 360194,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/360194?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/360194?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mathphreak",
     "htmlUrl": "https://github.com/mathphreak",
@@ -20,12 +20,12 @@
   "description": "Prevents dangerous Steam buildups by letting you juggle games between library locations.",
   "fork": false,
   "createdAt": "2015-06-23T01:25:52.000Z",
-  "updatedAt": "2017-03-24T00:43:01.000Z",
+  "updatedAt": "2017-09-03T08:12:58.000Z",
   "pushedAt": "2016-11-18T20:32:44.000Z",
   "homepage": "http://www.matthorn.tech/ReliefValve/",
   "size": 2342,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 10,
   "openIssues": 10,
-  "watchers": 6,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -133,15 +133,9 @@
       "build:run": "node build.js",
       "build": "npm run compile && npm run dist && npm run build:run"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mathphreak/ReliefValve.git"
-    },
+    "repository": "https://github.com/mathphreak/ReliefValve",
     "author": "Matt Horn",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/mathphreak/ReliefValve/issues"
-    },
     "homepage": "https://www.matthorn.tech/ReliefValve",
     "xo": {
       "space": true,
@@ -167,6 +161,11 @@
       "all": true,
       "sourceMap": false,
       "instrument": false
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mathphreak/ReliefValve/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -214,6 +213,7 @@
   },
   "filename": "mathphreak___ReliefValve.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:17:36.974Z",
-  "packageLastFetchedAt": "2017-05-05T15:28:32.123Z"
+  "lastFetchedAt": "2017-10-23T22:27:54.032Z",
+  "packageLastFetchedAt": "2017-05-05T15:28:32.123Z",
+  "archived": false
 }

@@ -58,7 +58,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 6,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-samples",
     "productName": "Electron Samples",
@@ -69,13 +69,7 @@
       "Shusen Gu <gushusen@zyeeda.com",
       "Peipei Shu <shupeipei@zyeeda.com"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zyeeda/electron-samples"
-    },
-    "bugs": {
-      "url": "https://github.com/zyeeda/electron-samples/issues"
-    },
+    "repository": "https://github.com/zyeeda/electron-samples",
     "license": "Apache-2.0",
     "main": "./build/browser/main.js",
     "dependencies": {
@@ -117,6 +111,11 @@
     "scripts": {
       "start": "./node_modules/.bin/electron . -d -l info | ./node_modules/.bin/bunyan",
       "test": "./node_modules/.bin/electron . -d -t -l info | ./node_modules/.bin/bunyan"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zyeeda/electron-samples/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -164,6 +163,6 @@
   "svnUrl": "https://github.com/zyeeda/electron-samples",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:54:40.350Z",
+  "lastFetchedAt": "2017-10-23T22:57:35.872Z",
   "packageLastFetchedAt": "2017-05-04T22:15:52.080Z"
 }

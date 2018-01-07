@@ -50,7 +50,7 @@
   },
   "networkCount": 8,
   "subscribersCount": 8,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-workers",
     "version": "1.10.2",
@@ -75,10 +75,7 @@
       "electron spawn"
     ],
     "homepage": "https://github.com/bjrmatos/electron-workers",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:bjrmatos/electron-workers.git"
-    },
+    "repository": "https://github.com/bjrmatos/electron-workers",
     "dependencies": {
       "debug": "2.3.3",
       "lodash.findindex": "4.6.0",
@@ -98,7 +95,8 @@
       "npm-run-all": "2.3.0",
       "rimraf": "2.5.4",
       "should": "9.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +143,6 @@
   "svnUrl": "https://github.com/bjrmatos/electron-workers",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:05:12.860Z",
+  "lastFetchedAt": "2017-10-23T23:00:30.627Z",
   "packageLastFetchedAt": "2017-05-05T15:33:40.070Z"
 }

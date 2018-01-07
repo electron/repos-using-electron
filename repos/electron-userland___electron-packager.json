@@ -5,7 +5,7 @@
   "owner": {
     "login": "electron-userland",
     "id": 17519142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17519142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17519142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-userland",
     "htmlUrl": "https://github.com/electron-userland",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/electron-userland/electron-packager/downloads",
   "deploymentsUrl": "https://api.github.com/repos/electron-userland/electron-packager/deployments",
   "createdAt": "2015-03-23T02:54:14.000Z",
-  "updatedAt": "2017-05-04T20:09:52.000Z",
-  "pushedAt": "2017-05-02T05:17:59.000Z",
+  "updatedAt": "2017-10-24T01:38:30.000Z",
+  "pushedAt": "2017-10-23T02:16:42.000Z",
   "gitUrl": "git://github.com/electron-userland/electron-packager.git",
   "sshUrl": "git@github.com:electron-userland/electron-packager.git",
   "cloneUrl": "https://github.com/electron-userland/electron-packager.git",
   "svnUrl": "https://github.com/electron-userland/electron-packager",
   "homepage": "http://npm.im/electron-packager",
-  "size": 727,
-  "stargazersCount": 3691,
-  "watchersCount": 3691,
+  "size": 825,
+  "stargazersCount": 4382,
+  "watchersCount": 4382,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": true,
-  "forksCount": 365,
+  "forksCount": 417,
   "mirrorUrl": null,
-  "openIssuesCount": 29,
-  "openIssues": 29,
-  "watchers": 3691,
+  "openIssuesCount": 21,
+  "openIssues": 21,
+  "watchers": 4382,
   "defaultBranch": "master",
   "permissions": {
     "admin": true,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "electron-userland",
     "id": 17519142,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17519142?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17519142?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/electron-userland",
     "htmlUrl": "https://github.com/electron-userland",
@@ -82,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/electron-userland/received_events",
     "type": "Organization"
   },
-  "networkCount": 365,
-  "subscribersCount": 105,
+  "networkCount": 417,
+  "subscribersCount": 122,
   "status": 200,
   "packageJSON": {
     "name": "electron-packager",
@@ -93,15 +93,9 @@
     "bin": {
       "electron-packager": "cli.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron-userland/electron-packager.git"
-    },
+    "repository": "https://github.com/electron-userland/electron-packager",
     "author": "max ogden",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/electron-userland/electron-packager/issues"
-    },
     "homepage": "https://github.com/electron-userland/electron-packager",
     "dependencies": {
       "asar": "^0.13.0",
@@ -145,9 +139,6 @@
       "pretest": "rimraf test/work",
       "test": "npm run lint && nyc tape test"
     },
-    "directories": {
-      "test": "test"
-    },
     "keywords": [],
     "eslintConfig": {
       "extends": [
@@ -164,6 +155,14 @@
         "strict": [
           "error"
         ]
+      }
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/electron-userland/electron-packager/issues"
       }
     }
   },
@@ -195,6 +194,7 @@
   "allowSquashMerge": true,
   "allowMergeCommit": true,
   "allowRebaseMerge": true,
-  "lastFetchedAt": "2017-05-04T20:51:13.695Z",
-  "packageLastFetchedAt": "2017-05-04T22:34:42.372Z"
+  "lastFetchedAt": "2017-10-24T02:02:11.716Z",
+  "packageLastFetchedAt": "2017-05-04T22:34:42.372Z",
+  "archived": false
 }

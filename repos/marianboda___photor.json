@@ -44,16 +44,13 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Photor",
     "version": "0.0.1",
     "description": "atom shell test",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/marianboda/atom-shell-tryout.git"
-    },
+    "repository": "https://github.com/marianboda/atom-shell-tryout",
     "scripts": {
       "test": "jest",
       "run": "./binaries/Electron.app/Contents/MacOS/Electron .",
@@ -111,7 +108,8 @@
     "devDependencies": {
       "electron-rebuild": "^1.1.3",
       "xml2js": "^0.4.9"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -158,6 +156,6 @@
   "svnUrl": "https://github.com/marianboda/photor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:07:21.766Z",
+  "lastFetchedAt": "2017-10-23T23:10:33.091Z",
   "packageLastFetchedAt": "2017-05-05T15:07:15.985Z"
 }

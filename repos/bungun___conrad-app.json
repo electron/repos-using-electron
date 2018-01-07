@@ -5,7 +5,7 @@
   "owner": {
     "login": "bungun",
     "id": 8838217,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8838217?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8838217?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bungun",
     "htmlUrl": "https://github.com/bungun",
@@ -81,9 +81,6 @@
       "request-json": "^0.5.5"
     },
     "description": "desktop application for ConRad treatment planning system",
-    "directories": {
-      "doc": "docs"
-    },
     "dependencies": {
       "flot": "^0.8.0-alpha",
       "electron-prebuilt": "^0.36.7"
@@ -92,7 +89,12 @@
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Baris Ungun",
-    "license": "GPLv3"
+    "license": "GPLv3",
+    "other": {
+      "directories": {
+        "doc": "docs"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +121,7 @@
   },
   "filename": "bungun___conrad-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:12.878Z",
-  "packageLastFetchedAt": "2017-05-05T15:29:46.374Z"
+  "lastFetchedAt": "2017-10-24T00:19:59.474Z",
+  "packageLastFetchedAt": "2017-05-05T15:29:46.374Z",
+  "archived": false
 }

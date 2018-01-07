@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 3,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "facebook_integration_spike",
     "version": "0.0.1",
@@ -63,10 +63,7 @@
       "fb": "~0.7.3",
       "node-twitter-api": "~1.6.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nageshpodilapu/Using-Facebook-Twitter-API-with-Electron-Application.git"
-    },
+    "repository": "https://github.com/nageshpodilapu/Using-Facebook-Twitter-API-with-Electron-Application",
     "keywords": [
       "Electron",
       "Facebook",
@@ -74,8 +71,10 @@
     ],
     "author": "H4rryp0tt3r",
     "license": "BSD-2-Clause",
-    "bugs": {
-      "url": "https://github.com/nageshpodilapu/Using-Facebook-Twitter-API-with-Electron-Application/issues"
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nageshpodilapu/Using-Facebook-Twitter-API-with-Electron-Application/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +122,6 @@
   },
   "filename": "nageshpodilapu___Using-Facebook-Twitter-API-with-Electron-Application.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:14.767Z",
+  "lastFetchedAt": "2017-10-23T23:10:18.575Z",
   "packageLastFetchedAt": "2017-05-05T14:52:31.544Z"
 }

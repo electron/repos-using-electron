@@ -5,7 +5,7 @@
   "owner": {
     "login": "nickhudkins",
     "id": 299126,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/299126?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/299126?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nickhudkins",
     "htmlUrl": "https://github.com/nickhudkins",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,12 +68,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   "filename": "nickhudkins___AutoUpdate.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:19.274Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:06.555Z"
+  "lastFetchedAt": "2017-10-23T23:11:33.119Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:06.555Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "udzura",
     "id": 91011,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/91011?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/91011?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/udzura",
     "htmlUrl": "https://github.com/udzura",
@@ -79,19 +79,18 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/udzura/electronica-workshop.git"
-    },
+    "repository": "https://github.com/udzura/electronica-workshop",
     "keywords": [],
     "author": "Uchio KONDO <udzura@udzura.jp> (http://udzura.jp/)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/udzura/electronica-workshop/issues"
-    },
     "homepage": "https://github.com/udzura/electronica-workshop#readme",
     "devDependencies": {
       "electronica": "^0.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/udzura/electronica-workshop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   },
   "filename": "udzura___electronica-workshop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:11:31.326Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:10.990Z"
+  "lastFetchedAt": "2017-10-23T21:42:35.356Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:10.990Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "example-menubar-app",
     "version": "1.0.0",
@@ -86,7 +86,8 @@
     },
     "bin": {
       "electron": "./node_modules/.bin/electron"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -113,6 +114,6 @@
   },
   "filename": "DevAlien___dripr-menubar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:11.166Z",
+  "lastFetchedAt": "2017-10-23T22:56:46.084Z",
   "packageLastFetchedAt": "2017-05-04T22:01:39.992Z"
 }

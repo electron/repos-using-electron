@@ -72,8 +72,8 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T19:36:04.430Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:04:18.089Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "ElectronReact",
@@ -148,19 +148,13 @@
         "output": "release"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rick-maclean/dbl-upldr-electron-react-simmering"
-    },
+    "repository": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering",
     "author": {
       "name": "R. MacLean",
       "email": "rick_maclean@sil.org",
       "url": "http://macleanmanuscript.com/"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -282,6 +276,11 @@
       "node": ">=6.x",
       "npm": ">=3.x",
       "yarn": "0.21.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rick-maclean/dbl-upldr-electron-react-simmering/issues"
+      }
     }
   },
   "packageStatus": 200,

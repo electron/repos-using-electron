@@ -5,7 +5,7 @@
   "owner": {
     "login": "evolition",
     "id": 16922626,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16922626?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16922626?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/evolition",
     "htmlUrl": "https://github.com/evolition",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/evolition/playmaster/deployments",
   "createdAt": "2016-07-29T04:28:31.000Z",
   "updatedAt": "2017-02-09T09:47:51.000Z",
-  "pushedAt": "2017-04-27T15:57:41.000Z",
+  "pushedAt": "2017-10-04T20:23:32.000Z",
   "gitUrl": "git://github.com/evolition/playmaster.git",
   "sshUrl": "git@github.com:evolition/playmaster.git",
   "cloneUrl": "https://github.com/evolition/playmaster.git",
   "svnUrl": "https://github.com/evolition/playmaster",
   "homepage": "https://evolition.io/playmaster",
-  "size": 29851,
+  "size": 38299,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -62,16 +62,16 @@
     "pull": true
   },
   "license": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
-    "spdxId": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
   "organization": {
     "login": "evolition",
     "id": 16922626,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/16922626?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/16922626?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/evolition",
     "htmlUrl": "https://github.com/evolition",
@@ -104,13 +104,7 @@
       "start": "NODE_ENV=development babel-node bin",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evolition/playmaster.git"
-    },
-    "bugs": {
-      "url": "https://github.com/evolition/playmaster/issues"
-    },
+    "repository": "https://github.com/evolition/playmaster",
     "keywords": [
       "rpg",
       "dnd",
@@ -208,6 +202,11 @@
       "estraverse": "4.2.0",
       "inquirer": "1.2.3",
       "wordwrap": "1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evolition/playmaster/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -235,6 +234,7 @@
   },
   "filename": "evolition___playmaster.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:10:50.700Z",
-  "packageLastFetchedAt": "2017-05-05T01:26:21.680Z"
+  "lastFetchedAt": "2017-10-24T00:19:02.511Z",
+  "packageLastFetchedAt": "2017-05-05T01:26:21.680Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "kaiyote",
     "id": 4969500,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4969500?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4969500?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kaiyote",
     "htmlUrl": "https://github.com/kaiyote",
@@ -20,10 +20,10 @@
   "description": "Yet another boilerplate for Electron. This time with Purescript.",
   "fork": false,
   "createdAt": "2016-09-02T19:14:15.000Z",
-  "updatedAt": "2017-03-14T10:37:44.000Z",
-  "pushedAt": "2016-12-21T22:48:21.000Z",
+  "updatedAt": "2017-05-24T15:34:03.000Z",
+  "pushedAt": "2017-05-26T00:25:43.000Z",
   "homepage": "",
-  "size": 186,
+  "size": 550,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -76,19 +76,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kaiyote/electron-purs-boilerplate.git"
-    },
+    "repository": "https://github.com/kaiyote/electron-purs-boilerplate",
     "author": {
       "name": "Tim Huddle",
       "email": "tim.huddle88@gmail.com",
       "url": "https://github.com/kaiyote"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kaiyote/electron-purs-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -153,6 +147,11 @@
     },
     "standard": {
       "parser": "babel-eslint"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kaiyote/electron-purs-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   "svnUrl": "https://github.com/kaiyote/electron-purs-boilerplate",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:27:57.155Z",
-  "packageLastFetchedAt": "2017-05-05T15:35:45.434Z"
+  "lastFetchedAt": "2017-10-23T22:56:13.881Z",
+  "packageLastFetchedAt": "2017-05-05T15:35:45.434Z",
+  "archived": false
 }

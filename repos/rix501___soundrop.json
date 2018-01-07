@@ -5,7 +5,7 @@
   "owner": {
     "login": "rix501",
     "id": 104792,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/104792?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/104792?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rix501",
     "htmlUrl": "https://github.com/rix501",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/rix501/soundrop/downloads",
   "deploymentsUrl": "https://api.github.com/repos/rix501/soundrop/deployments",
   "createdAt": "2015-12-16T03:26:31.000Z",
-  "updatedAt": "2016-07-02T17:27:31.000Z",
+  "updatedAt": "2017-09-20T16:26:45.000Z",
   "pushedAt": "2016-07-02T17:18:10.000Z",
   "gitUrl": "git://github.com/rix501/soundrop.git",
   "sshUrl": "git@github.com:rix501/soundrop.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/rix501/soundrop",
   "homepage": "",
   "size": 1321,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 0,
+  "watchersCount": 0,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 1,
+  "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,11 +71,7 @@
     "main": "client/main.js",
     "description": "A soundrop clone built with Elm + Electron + Node.",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:rix501/soundrop.git",
-      "private": true
-    },
+    "repository": "https://github.com/rix501/soundrop",
     "scripts": {
       "build": "npm-run-all --parallel build:elm build:styles",
       "build:styles": "node-sass client/src/styles --output client/build/styles",
@@ -115,7 +111,8 @@
       "express": "^4.13.3",
       "lodash": "^3.10.1",
       "mongoose": "^4.3.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -142,6 +139,7 @@
   },
   "filename": "rix501___soundrop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:29:03.729Z",
-  "packageLastFetchedAt": "2017-05-05T14:39:08.667Z"
+  "lastFetchedAt": "2017-10-24T00:15:57.195Z",
+  "packageLastFetchedAt": "2017-05-05T14:39:08.667Z",
+  "archived": false
 }

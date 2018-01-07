@@ -5,7 +5,7 @@
   "owner": {
     "login": "raluka",
     "id": 4012836,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4012836?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4012836?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/raluka",
     "htmlUrl": "https://github.com/raluka",
@@ -98,7 +98,8 @@
       "prerelease:win64": "rimraf release/win64 && mkdirp release/win64",
       "release:win64": "copyfiles -f dist/win/{RELEASES,*.nupkg,*.exe} release/win64",
       "release": "run-p release:*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +146,7 @@
   "svnUrl": "https://github.com/raluka/msos",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:54:36.318Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:34.457Z"
+  "lastFetchedAt": "2017-10-23T22:54:07.646Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:34.457Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dhaveed",
     "id": 18031525,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18031525?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18031525?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dhaveed",
     "htmlUrl": "https://github.com/dhaveed",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/davidadegoke/noted.git"
-    },
+    "repository": "https://github.com/davidadegoke/noted",
     "keywords": [
       "interactive",
       "fun",
@@ -92,12 +89,14 @@
     ],
     "author": "Syndicate Technologies",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/davidadegoke/noted/issues"
-    },
     "homepage": "https://github.com/davidadegoke/noted#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/davidadegoke/noted/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "syndicate-technologies___syndicate-notepad.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:00:44.260Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:10.973Z"
+  "lastFetchedAt": "2017-10-24T00:20:10.787Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:10.973Z",
+  "archived": false
 }

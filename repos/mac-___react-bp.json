@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "react-bp",
     "version": "1.0.0",
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [],
     "author": "Mac Angell <mac@base-ed.com>",
     "license": "ISC",
@@ -97,7 +94,8 @@
       "redux-storage-engine-localstorage": "^1.0.0",
       "redux-thunk": "^1.0.3",
       "xhr": "^2.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -144,6 +142,6 @@
   "svnUrl": "https://github.com/mac-/react-bp",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T08:01:17.564Z",
+  "lastFetchedAt": "2017-10-23T23:08:37.344Z",
   "packageLastFetchedAt": "2017-05-04T22:48:58.516Z"
 }

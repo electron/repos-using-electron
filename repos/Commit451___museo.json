@@ -5,7 +5,7 @@
   "owner": {
     "login": "Commit451",
     "id": 12497423,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12497423?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12497423?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Commit451",
     "htmlUrl": "https://github.com/Commit451",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Commit451",
     "id": 12497423,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12497423?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12497423?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Commit451",
     "htmlUrl": "https://github.com/Commit451",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -105,9 +102,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
@@ -115,6 +109,11 @@
     "dependencies": {
       "fs": "0.0.2",
       "request": "^2.74.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -142,6 +141,7 @@
   },
   "filename": "Commit451___museo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:34.398Z",
-  "packageLastFetchedAt": "2017-05-05T01:32:55.680Z"
+  "lastFetchedAt": "2017-10-23T22:32:24.759Z",
+  "packageLastFetchedAt": "2017-05-05T01:32:55.680Z",
+  "archived": false
 }

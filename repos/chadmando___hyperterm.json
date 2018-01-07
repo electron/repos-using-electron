@@ -164,7 +164,7 @@
   },
   "networkCount": 1148,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "version": "0.7.1",
@@ -277,7 +277,8 @@
       "pack": "npm run build && build --dir && babel --no-comments --compact --minified --out-file app/dist/bundle.js app/dist/bundle.js",
       "dist": "npm run build && build",
       "release": "npm run build && build --publish=onTagOrDraft"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/chadmando/hyperterm",
@@ -325,6 +326,6 @@
   "filename": "chadmando___hyperterm.json",
   "sourceRepo": "zeit/hyperterm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:26:07.336Z",
+  "lastFetchedAt": "2017-10-24T00:09:53.658Z",
   "packageLastFetchedAt": "2017-05-04T22:00:42.850Z"
 }

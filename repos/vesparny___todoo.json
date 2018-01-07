@@ -50,7 +50,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "todoo",
     "productName": "Todoo",
@@ -59,9 +59,6 @@
     "description": "Todo app for introverts",
     "author": "Alessandro Arnodo <alessandro@arnodo.net> (https://alessandro.arnodo.net)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vesparny/todoo/issues"
-    },
     "homepage": "https://github.com/vesparny/todoo",
     "scripts": {
       "dev": "electron . --debug",
@@ -116,6 +113,11 @@
       "json-loader": "0.5.4",
       "standard": "7.1.2",
       "webpack": "1.13.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/vesparny/todoo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +165,6 @@
   },
   "filename": "vesparny___todoo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:13.773Z",
+  "lastFetchedAt": "2017-10-23T23:08:07.578Z",
   "packageLastFetchedAt": "2017-05-05T14:39:30.813Z"
 }

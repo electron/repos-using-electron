@@ -5,7 +5,7 @@
   "owner": {
     "login": "demian85",
     "id": 470630,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/470630?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/470630?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/demian85",
     "htmlUrl": "https://github.com/demian85",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/demian85/electron-chat-app-demo/downloads",
   "deploymentsUrl": "https://api.github.com/repos/demian85/electron-chat-app-demo/deployments",
   "createdAt": "2016-10-01T19:57:33.000Z",
-  "updatedAt": "2016-10-01T20:22:41.000Z",
+  "updatedAt": "2017-10-05T12:16:52.000Z",
   "pushedAt": "2016-10-04T15:24:40.000Z",
   "gitUrl": "git://github.com/demian85/electron-chat-app-demo.git",
   "sshUrl": "git@github.com:demian85/electron-chat-app-demo.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/demian85/electron-chat-app-demo",
   "homepage": "",
   "size": 112,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -52,9 +52,9 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
-  "watchers": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -63,7 +63,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 1,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "electron-chat-app-demo",
@@ -76,10 +76,7 @@
       "server": "node server.js",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/demian85/electron-chat-app-demo.git"
-    },
+    "repository": "https://github.com/demian85/electron-chat-app-demo",
     "author": "Demián Rodriguez",
     "license": "ISC",
     "devDependencies": {
@@ -96,7 +93,8 @@
       "express": "4.14.0",
       "marked": "^0.3.6",
       "socket.io": "1.4.8"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +121,7 @@
   },
   "filename": "demian85___electron-chat-app-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:16.062Z",
-  "packageLastFetchedAt": "2017-05-05T15:30:47.613Z"
+  "lastFetchedAt": "2017-10-23T23:41:09.428Z",
+  "packageLastFetchedAt": "2017-05-05T15:30:47.613Z",
+  "archived": false
 }

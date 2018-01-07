@@ -5,7 +5,7 @@
   "owner": {
     "login": "Aldlevine",
     "id": 4605023,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4605023?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4605023?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Aldlevine",
     "htmlUrl": "https://github.com/Aldlevine",
@@ -83,18 +83,12 @@
       "start": "node src/init.js",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Aldlevine/uber-console.git"
-    },
+    "repository": "https://github.com/Aldlevine/uber-console",
     "keywords": [
       "console"
     ],
     "author": "Aaron Levine",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Aldlevine/uber-console/issues"
-    },
     "homepage": "https://github.com/Aldlevine/uber-console#readme",
     "dependencies": {
       "acorn": "^3.0.2",
@@ -102,6 +96,11 @@
       "lodash": "^4.3.0",
       "resolve": "^1.1.7",
       "yargs": "^3.32.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Aldlevine/uber-console/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -129,6 +128,7 @@
   },
   "filename": "Aldlevine___uber-console.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:13:28.659Z",
-  "packageLastFetchedAt": "2017-05-05T17:13:00.956Z"
+  "lastFetchedAt": "2017-10-23T22:54:03.606Z",
+  "packageLastFetchedAt": "2017-05-05T17:13:00.956Z",
+  "archived": false
 }

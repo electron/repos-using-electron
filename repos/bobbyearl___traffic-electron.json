@@ -5,7 +5,7 @@
   "owner": {
     "login": "bobbyearl",
     "id": 971639,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/971639?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/971639?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bobbyearl",
     "htmlUrl": "https://github.com/bobbyearl",
@@ -73,14 +73,8 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bobbyearl/traffic-electron.git"
-    },
+    "repository": "https://github.com/bobbyearl/traffic-electron",
     "author": "Bobby Earl",
-    "bugs": {
-      "url": "https://github.com/bobbyearl/traffic-electron/issues"
-    },
     "homepage": "https://github.com/bobbyearl/traffic-electron",
     "devDependencies": {
       "angular-sanitize": "^1.5.6",
@@ -90,6 +84,11 @@
     "dependencies": {
       "@bianjp/jwplayer": "^7.3.5",
       "ngmap": "1.17.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bobbyearl/traffic-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -117,6 +116,7 @@
   },
   "filename": "bobbyearl___traffic-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:27:31.559Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:43.770Z"
+  "lastFetchedAt": "2017-10-23T22:14:04.035Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:43.770Z",
+  "archived": false
 }

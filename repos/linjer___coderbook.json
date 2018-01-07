@@ -5,7 +5,7 @@
   "owner": {
     "login": "linjer",
     "id": 1149070,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1149070?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1149070?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/linjer",
     "htmlUrl": "https://github.com/linjer",
@@ -72,10 +72,7 @@
     "description": "A notebook app that recognizes code syntax, markdown, latex, and similar",
     "main": "./src/main.js",
     "license": "GPL-2.0",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/linjer/coderbook"
-    },
+    "repository": "https://github.com/linjer/coderbook",
     "scripts": {
       "start": "electron ."
     },
@@ -105,7 +102,8 @@
       "react-bootstrap": ">=0.27.3",
       "react-retina-image": ">=2.0.0",
       "react-router": ">=0.13.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +130,7 @@
   },
   "filename": "linjer___coderbook.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:11:03.040Z",
-  "packageLastFetchedAt": "2017-05-05T17:09:35.290Z"
+  "lastFetchedAt": "2017-10-23T21:48:10.881Z",
+  "packageLastFetchedAt": "2017-05-05T17:09:35.290Z",
+  "archived": false
 }

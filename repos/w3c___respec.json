@@ -5,7 +5,7 @@
   "owner": {
     "login": "w3c",
     "id": 379216,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/379216?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/379216?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/w3c",
     "htmlUrl": "https://github.com/w3c",
@@ -35,37 +35,43 @@
   "downloadsUrl": "https://api.github.com/repos/w3c/respec/downloads",
   "deploymentsUrl": "https://api.github.com/repos/w3c/respec/deployments",
   "createdAt": "2012-05-10T16:39:37.000Z",
-  "updatedAt": "2017-04-30T08:03:44.000Z",
-  "pushedAt": "2017-05-03T01:54:58.000Z",
+  "updatedAt": "2017-10-08T10:47:00.000Z",
+  "pushedAt": "2017-10-23T15:29:31.000Z",
   "gitUrl": "git://github.com/w3c/respec.git",
   "sshUrl": "git@github.com:w3c/respec.git",
   "cloneUrl": "https://github.com/w3c/respec.git",
   "svnUrl": "https://github.com/w3c/respec",
   "homepage": "",
-  "size": 25966,
-  "stargazersCount": 152,
-  "watchersCount": 152,
+  "size": 34005,
+  "stargazersCount": 180,
+  "watchersCount": 180,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 126,
+  "forksCount": 135,
   "mirrorUrl": null,
-  "openIssuesCount": 123,
-  "openIssues": 123,
-  "watchers": 152,
+  "openIssuesCount": 120,
+  "openIssues": 120,
+  "watchers": 180,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
+  },
   "organization": {
     "login": "w3c",
     "id": 379216,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/379216?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/379216?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/w3c",
     "htmlUrl": "https://github.com/w3c",
@@ -76,8 +82,8 @@
     "receivedEventsUrl": "https://api.github.com/users/w3c/received_events",
     "type": "Organization"
   },
-  "networkCount": 126,
-  "subscribersCount": 27,
+  "networkCount": 135,
+  "subscribersCount": 30,
   "status": 200,
   "packageJSON": {
     "name": "respec",
@@ -90,10 +96,7 @@
     "bin": {
       "respec2html": "./tools/respec2html.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/w3c/respec.git"
-    },
+    "repository": "https://github.com/w3c/respec",
     "author": "Robin Berjon",
     "devDependencies": {
       "babel-cli": "^6.24.1",
@@ -173,7 +176,8 @@
       "prompt": "^1.0.0",
       "snyk": "^1.29.0"
     },
-    "snyk": true
+    "snyk": true,
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -200,6 +204,7 @@
   },
   "filename": "w3c___respec.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:16:10.946Z",
-  "packageLastFetchedAt": "2017-05-05T15:05:40.645Z"
+  "lastFetchedAt": "2017-10-23T23:34:55.764Z",
+  "packageLastFetchedAt": "2017-05-05T15:05:40.645Z",
+  "archived": false
 }

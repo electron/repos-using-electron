@@ -5,7 +5,7 @@
   "owner": {
     "login": "shprink",
     "id": 1388706,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1388706?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1388706?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shprink",
     "htmlUrl": "https://github.com/shprink",
@@ -20,21 +20,21 @@
   "description": "Ionic boilerplate to create cross platform apps (ios, android, mobile, web and desktop). Written in TypeScript and Powered by Webpack!",
   "fork": false,
   "createdAt": "2015-12-10T22:35:05.000Z",
-  "updatedAt": "2017-04-20T15:57:06.000Z",
+  "updatedAt": "2017-08-16T02:30:06.000Z",
   "pushedAt": "2016-06-16T04:29:32.000Z",
   "homepage": "",
   "size": 4254,
-  "stargazersCount": 72,
-  "watchersCount": 72,
+  "stargazersCount": 74,
+  "watchersCount": 74,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 23,
+  "forksCount": 24,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 72,
+  "watchers": 74,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,7 +48,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 23,
+  "networkCount": 24,
   "subscribersCount": 15,
   "status": 200,
   "packageJSON": {
@@ -68,15 +68,9 @@
       "iosEmulator": "npm run dumpdev -- --config webpack.config.ios.js  && cordova run ios",
       "ios": "npm run dumpdev -- --config webpack.config.ios.js  && cordova run ios --device"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shprink/ionic-cross-platform-boilerplate.git"
-    },
+    "repository": "https://github.com/shprink/ionic-cross-platform-boilerplate",
     "author": "shprink <contact@julienrenaux.fr> (http://julienrenaux.fr/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shprink/ionic-cross-platform-boilerplate/issues"
-    },
     "homepage": "https://github.com/shprink/ionic-cross-platform-boilerplate#readme",
     "devDependencies": {
       "autoprefixer-loader": "^3.1.0",
@@ -111,7 +105,12 @@
       "ios",
       "android",
       "browser"
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shprink/ionic-cross-platform-boilerplate/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/shprink/ionic-cross-platform-boilerplate",
@@ -158,6 +157,7 @@
   },
   "filename": "shprink___ionic-cross-platform-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:13:41.522Z",
-  "packageLastFetchedAt": "2017-05-05T14:30:17.433Z"
+  "lastFetchedAt": "2017-10-24T00:15:13.399Z",
+  "packageLastFetchedAt": "2017-05-05T14:30:17.433Z",
+  "archived": false
 }

@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "rss-reader",
     "version": "0.1.0",
@@ -78,10 +78,7 @@
       "start": "electron .",
       "postinstall": "bash postinstall.sh"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/fmmajd/RSS-Reader"
-    },
+    "repository": "https://github.com/fmmajd/RSS-Reader",
     "keywords": [
       "rss",
       "reader",
@@ -118,7 +115,8 @@
       "react": "^15.3.2",
       "react-dom": "^15.3.2",
       "react-fontawesome": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +143,6 @@
   },
   "filename": "fmmajd___RSS-Reader.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:52.204Z",
+  "lastFetchedAt": "2017-10-23T23:07:42.089Z",
   "packageLastFetchedAt": "2017-05-05T17:49:59.246Z"
 }

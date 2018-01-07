@@ -5,7 +5,7 @@
   "owner": {
     "login": "oleander",
     "id": 220827,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/220827?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/220827?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/oleander",
     "htmlUrl": "https://github.com/oleander",
@@ -70,10 +70,6 @@
     "version": "0.0.0",
     "description": "::",
     "main": "main.js",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "start": "ember server",
       "build": "ember build",
@@ -96,6 +92,12 @@
     "dependencies": {
       "jquery": "^2.1.4",
       "wcjs-player": "0.5.2"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -123,6 +125,7 @@
   },
   "filename": "oleander___wcjs-fail.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:16.647Z",
-  "packageLastFetchedAt": "2017-05-05T17:54:43.476Z"
+  "lastFetchedAt": "2017-10-23T23:34:54.482Z",
+  "packageLastFetchedAt": "2017-05-05T17:54:43.476Z",
+  "archived": false
 }

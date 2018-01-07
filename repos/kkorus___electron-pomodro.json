@@ -5,7 +5,7 @@
   "owner": {
     "login": "kkorus",
     "id": 2054009,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2054009?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2054009?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kkorus",
     "htmlUrl": "https://github.com/kkorus",
@@ -74,15 +74,9 @@
       "start": "electron main.js",
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kkorus/electron-pomodro.git"
-    },
+    "repository": "https://github.com/kkorus/electron-pomodro",
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/kkorus/electron-pomodro/issues"
-    },
     "homepage": "https://github.com/kkorus/electron-pomodro#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -97,6 +91,11 @@
       "react-dom": "^0.14.8",
       "react-loading": "0.0.9",
       "rc-progress": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kkorus/electron-pomodro/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "kkorus___electron-pomodro.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:20:08.783Z",
-  "packageLastFetchedAt": "2017-05-04T22:30:05.723Z"
+  "lastFetchedAt": "2017-10-23T22:16:29.270Z",
+  "packageLastFetchedAt": "2017-05-04T22:30:05.723Z",
+  "archived": false
 }

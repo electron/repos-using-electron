@@ -5,7 +5,7 @@
   "owner": {
     "login": "pmros",
     "id": 166708,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/166708?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/166708?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pmros",
     "htmlUrl": "https://github.com/pmros",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "EvolveLabs",
       "id": 11398428,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11398428?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11398428?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/EvolveLabs",
       "htmlUrl": "https://github.com/EvolveLabs",
@@ -97,6 +97,7 @@
     "hasPages": false,
     "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
     "watchers": 12,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "EvolveLabs",
       "id": 11398428,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11398428?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11398428?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/EvolveLabs",
       "htmlUrl": "https://github.com/EvolveLabs",
@@ -157,6 +158,7 @@
     "hasPages": false,
     "forksCount": 5,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 3,
     "openIssues": 3,
     "watchers": 12,
@@ -170,10 +172,7 @@
     "version": "1.0.0",
     "description": "Sample application for the electron-updater project",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/evolvelabs/electron-updater-sample.git"
-    },
+    "repository": "https://github.com/evolvelabs/electron-updater-sample",
     "scripts": {
       "test": "mocha",
       "clean": "rm -rf ./release",
@@ -203,7 +202,8 @@
     },
     "plugins": {
       "electron-updater-sample-plugin": "^0.0.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -251,6 +251,7 @@
   "svnUrl": "https://github.com/pmros/electron-updater-sample",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-03T20:06:30.107Z",
-  "packageLastFetchedAt": "2017-05-05T15:34:08.140Z"
+  "lastFetchedAt": "2017-10-24T00:21:05.933Z",
+  "packageLastFetchedAt": "2017-05-05T15:34:08.140Z",
+  "archived": false
 }

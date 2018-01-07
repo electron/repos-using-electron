@@ -5,7 +5,7 @@
   "owner": {
     "login": "Aosdin",
     "id": 6511212,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6511212?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6511212?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Aosdin",
     "htmlUrl": "https://github.com/Aosdin",
@@ -75,10 +75,7 @@
       "start": "electron main.js",
       "wiredep": "wiredep -s index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/evancohen/smart-mirror.git"
-    },
+    "repository": "https://github.com/evancohen/smart-mirror",
     "keywords": [
       "Electron",
       "quick",
@@ -87,9 +84,6 @@
     ],
     "author": "Evan Cohen",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evancohen/smart-mirror/issues"
-    },
     "homepage": "https://github.com/evancohen/smart-mirror",
     "devDependencies": {
       "install": "^0.6.1",
@@ -97,6 +91,11 @@
       "electron-prebuilt": "^0.37.2",
       "npm": "^3.8.2",
       "bower": "^1.7.7"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evancohen/smart-mirror/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "Aosdin___smart-mirror-pulip.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:08:00.877Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:08.193Z"
+  "lastFetchedAt": "2017-10-23T23:38:16.790Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:08.193Z",
+  "archived": false
 }

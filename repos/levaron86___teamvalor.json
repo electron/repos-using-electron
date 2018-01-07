@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "pokemon-go-map",
     "description": "Electron wrapper for PokemonGo-Map",
@@ -103,7 +103,8 @@
       "grunt-electron": "*",
       "load-grunt-tasks": "*",
       "grunt": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +132,6 @@
   "filename": "levaron86___teamvalor.json",
   "sourceRepo": "mchristopher/PokemonGo-DesktopMap",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:52.196Z",
+  "lastFetchedAt": "2017-10-23T22:56:16.582Z",
   "packageLastFetchedAt": "2017-05-05T14:30:28.595Z"
 }

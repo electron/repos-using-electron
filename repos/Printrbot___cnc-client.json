@@ -78,7 +78,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 3,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "cnc-app",
     "version": "0.0.1",
@@ -97,7 +97,8 @@
     "dependencies": {
       "jquery": "^2.2.1",
       "tinyg": "git+https://github.com/giseburt/TinyG-node.git"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +125,6 @@
   },
   "filename": "Printrbot___cnc-client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:55.459Z",
+  "lastFetchedAt": "2017-10-23T23:03:49.090Z",
   "packageLastFetchedAt": "2017-05-04T22:46:20.675Z"
 }

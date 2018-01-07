@@ -5,7 +5,7 @@
   "owner": {
     "login": "dmfarcas",
     "id": 681522,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/681522?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/681522?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dmfarcas",
     "htmlUrl": "https://github.com/dmfarcas",
@@ -57,10 +57,7 @@
     "version": "0.0.1",
     "description": "Desktop companion Server",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dmfarcas/telekinesis-server.git"
-    },
+    "repository": "https://github.com/dmfarcas/telekinesis-server",
     "author": "dmfarcas <dan@farcas.me> (farcas.me)",
     "electronVersion": "0.36.0",
     "scripts": {
@@ -102,11 +99,13 @@
         "browser"
       ]
     },
-    "bugs": {
-      "url": "https://github.com/dmfarcas/telekinesis-server/issues"
-    },
     "homepage": "https://github.com/dmfarcas/telekinesis-server#readme",
-    "main": "index.js"
+    "main": "index.js",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dmfarcas/telekinesis-server/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/dmfarcas/telekinesis-server",
@@ -153,6 +152,7 @@
   },
   "filename": "dmfarcas___telekinesis-server.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:08:19.160Z",
-  "packageLastFetchedAt": "2017-05-04T22:58:25.871Z"
+  "lastFetchedAt": "2017-10-24T00:14:59.102Z",
+  "packageLastFetchedAt": "2017-05-04T22:58:25.871Z",
+  "archived": false
 }

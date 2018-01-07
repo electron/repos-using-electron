@@ -50,16 +50,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "replay",
     "productName": "Replay",
     "version": "0.1.0",
     "description": "HTML5 media player",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/scatana/replay.git"
-    },
+    "repository": "https://github.com/scatana/replay",
     "license": "MIT",
     "main": "src/main.js",
     "scripts": {
@@ -85,7 +82,8 @@
     "dependencies": {
       "node-gettext": "2.0.0-rc.1",
       "winston": "2.3.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/scatana/replay",
@@ -132,6 +130,6 @@
   },
   "filename": "scatana___electron-seed.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:28:02.081Z",
+  "lastFetchedAt": "2017-10-23T22:58:30.088Z",
   "packageLastFetchedAt": "2017-05-05T15:32:39.870Z"
 }

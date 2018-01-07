@@ -5,7 +5,7 @@
   "owner": {
     "login": "TerraTex-Community",
     "id": 19823686,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19823686?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19823686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TerraTex-Community",
     "htmlUrl": "https://github.com/TerraTex-Community",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "TerraTex-Community",
     "id": 19823686,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/19823686?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/19823686?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TerraTex-Community",
     "htmlUrl": "https://github.com/TerraTex-Community",
@@ -241,16 +241,15 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/akveo/ng2-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/akveo/ng2-admin/issues"
-    },
+    "repository": "https://github.com/akveo/ng2-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/akveo/ng2-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -277,7 +276,8 @@
     }
   },
   "filename": "TerraTex-Community___MTA-SA-TerraTex-Reloaded-Reallife-Controlpanel.json",
-  "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:26:43.380Z",
-  "packageLastFetchedAt": "2017-05-05T15:15:14.222Z"
+  "hasProjects": false,
+  "lastFetchedAt": "2017-10-24T00:20:52.704Z",
+  "packageLastFetchedAt": "2017-05-05T15:15:14.222Z",
+  "archived": false
 }

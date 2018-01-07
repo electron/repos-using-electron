@@ -164,7 +164,7 @@
   },
   "networkCount": 7,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "atom-patch",
     "version": "0.0.1",
@@ -178,18 +178,12 @@
       "build": "node_modules/.bin/babel src --out-dir dist",
       "clean": "rm -rf dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/nathansobo/atom-patch.git"
-    },
+    "repository": "https://github.com/nathansobo/atom-patch",
     "keywords": [
       "patch data-structure"
     ],
     "author": "Nathan Sobo <nathan@github.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nathansobo/atom-patch/issues"
-    },
     "homepage": "https://github.com/nathansobo/atom-patch",
     "devDependencies": {
       "babel": "^5.0.0",
@@ -210,6 +204,11 @@
         "it",
         "expect"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nathansobo/atom-patch/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -258,6 +257,6 @@
   "filename": "digideskio___atom-patch.json",
   "sourceRepo": "atom/atom-patch",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:43:07.509Z",
+  "lastFetchedAt": "2017-10-24T00:10:55.181Z",
   "packageLastFetchedAt": "2017-05-05T17:23:56.676Z"
 }

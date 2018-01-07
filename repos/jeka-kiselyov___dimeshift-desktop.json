@@ -50,7 +50,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "dimeshift-desktop",
     "version": "0.0.5",
@@ -61,10 +61,7 @@
       "preinstall": "npm install --build-from-source sqlite3",
       "postinstall": "node rebuild.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jeka-kiselyov/dimeshift-desktop.git"
-    },
+    "repository": "https://github.com/jeka-kiselyov/dimeshift-desktop",
     "keywords": [
       "desktop",
       "linux",
@@ -92,9 +89,6 @@
     ],
     "author": "Jeka Kiselyov <jeka911@gmail.com> (https://github.com/jeka-kiselyov)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jeka-kiselyov/dimeshift-desktop/issues"
-    },
     "dependencies": {
       "dimeshift": "^0.1.34",
       "electron-prebuilt": "^0.37.2",
@@ -103,7 +97,12 @@
       "electron-rebuild": "^1.1.3",
       "sqlite3": "https://github.com/mapbox/node-sqlite3/archive/master.tar.gz"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jeka-kiselyov/dimeshift-desktop/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/jeka-kiselyov/dimeshift-desktop",
@@ -150,6 +149,6 @@
   },
   "filename": "jeka-kiselyov___dimeshift-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:56:26.623Z",
+  "lastFetchedAt": "2017-10-23T23:06:00.332Z",
   "packageLastFetchedAt": "2017-05-05T17:46:30.703Z"
 }

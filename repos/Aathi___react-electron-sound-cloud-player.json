@@ -5,7 +5,7 @@
   "owner": {
     "login": "Aathi",
     "id": 5355180,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5355180?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5355180?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Aathi",
     "htmlUrl": "https://github.com/Aathi",
@@ -74,10 +74,7 @@
       "compile": "browserify -t [ babelify --presets [ react es2015 ] ] src/app.js -o js/app.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -86,9 +83,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-preset-es2015": "^6.9.0",
@@ -103,6 +97,11 @@
       "react-dom": "^15.2.1",
       "react-loading": "0.0.9",
       "react-tap-event-plugin": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "filename": "Aathi___react-electron-sound-cloud-player.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:09:57.012Z",
-  "packageLastFetchedAt": "2017-05-04T22:23:00.147Z"
+  "lastFetchedAt": "2017-10-23T23:39:48.441Z",
+  "packageLastFetchedAt": "2017-05-04T22:23:00.147Z",
+  "archived": false
 }

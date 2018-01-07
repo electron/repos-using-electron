@@ -5,7 +5,7 @@
   "owner": {
     "login": "andypavia",
     "id": 16339170,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16339170?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16339170?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andypavia",
     "htmlUrl": "https://github.com/andypavia",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,12 +82,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -119,6 +118,7 @@
   "filename": "andypavia___electron-create-window-switch-focus.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:38:17.349Z",
-  "packageLastFetchedAt": "2017-05-05T17:27:19.608Z"
+  "lastFetchedAt": "2017-10-24T00:07:05.947Z",
+  "packageLastFetchedAt": "2017-05-05T17:27:19.608Z",
+  "archived": false
 }

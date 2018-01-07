@@ -5,7 +5,7 @@
   "owner": {
     "login": "dasrick",
     "id": 377702,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/377702?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/377702?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dasrick",
     "htmlUrl": "https://github.com/dasrick",
@@ -20,12 +20,12 @@
   "description": "Eletronized Desktop App for WhatsApp ...",
   "fork": false,
   "createdAt": "2016-03-22T12:47:43.000Z",
-  "updatedAt": "2016-03-22T19:56:54.000Z",
+  "updatedAt": "2017-09-30T09:24:40.000Z",
   "pushedAt": "2016-04-15T09:57:10.000Z",
   "homepage": "http://dasrick.github.io/tox-electron-whatsapp",
   "size": 802,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -64,14 +64,8 @@
       "whatsapp",
       "toxWhatsApp"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dasrick/tox-electron-whatsapp.git"
-    },
+    "repository": "https://github.com/dasrick/tox-electron-whatsapp",
     "homepage": "https://github.com/dasrick/tox-electron-whatsapp#readme",
-    "bugs": {
-      "url": "https://github.com/dasrick/tox-electron-whatsapp/issues"
-    },
     "electronVersion": "0.37.5",
     "devDependencies": {
       "electron-builder": "~3.5.2",
@@ -115,6 +109,11 @@
       "dist:osx": "export CSC_NAME='Developer ID Application: Enrico Hoffmann (M9E3AF4GW4)' && build --platform darwin",
       "dist:win64": "build --platform win32 --arch x64",
       "dist:linux": "build --platform linux --arch x64"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dasrick/tox-electron-whatsapp/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -162,6 +161,7 @@
   },
   "filename": "dasrick___tox-electron-whatsapp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:55.517Z",
-  "packageLastFetchedAt": "2017-05-04T21:53:58.650Z"
+  "lastFetchedAt": "2017-10-24T00:17:49.200Z",
+  "packageLastFetchedAt": "2017-05-04T21:53:58.650Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "JimFung",
     "id": 2354516,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2354516?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/2354516?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JimFung",
     "htmlUrl": "https://github.com/JimFung",
@@ -81,10 +81,7 @@
       "compile": "rm -rf build/ && webpack",
       "start": "npm run compile && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/JimFung/yareb.git"
-    },
+    "repository": "https://github.com/JimFung/yareb",
     "author": "JimFung(@psisous)",
     "license": "MIT",
     "dependencies": {
@@ -103,7 +100,8 @@
       "nodemon": "^1.11.0",
       "style-loader": "^0.13.1",
       "webpack": "^1.13.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +128,7 @@
   },
   "filename": "JimFung___yareb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:26:30.749Z",
-  "packageLastFetchedAt": "2017-05-05T14:55:14.991Z"
+  "lastFetchedAt": "2017-10-24T00:04:41.749Z",
+  "packageLastFetchedAt": "2017-05-05T14:55:14.991Z",
+  "archived": false
 }

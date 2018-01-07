@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "minimization-of-boolean-functions",
     "version": "1.0.0",
@@ -79,9 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "url": "https://github.com/Jester-js/minimization-of-boolean-functions"
-    },
+    "repository": "https://github.com/Jester-js/minimization-of-boolean-functions",
     "keywords": [
       "Electron",
       "Boolean",
@@ -95,7 +93,8 @@
     },
     "dependencies": {
       "jquery": "^3.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +121,6 @@
   },
   "filename": "jestersunborn___minimization-of-boolean-functions.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:30:58.194Z",
+  "lastFetchedAt": "2017-10-24T00:04:54.086Z",
   "packageLastFetchedAt": "2017-05-05T15:19:37.856Z"
 }

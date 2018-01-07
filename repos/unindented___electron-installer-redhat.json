@@ -70,7 +70,7 @@
   },
   "networkCount": 7,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-installer-redhat",
     "description": "Create a Red Hat package for your Electron app.",
@@ -81,10 +81,7 @@
       "email": "unindented@gmail.com",
       "url": "http://unindented.org/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/unindented/electron-installer-redhat.git"
-    },
+    "repository": "https://github.com/unindented/electron-installer-redhat",
     "keywords": [
       "electron",
       "redhat"
@@ -124,7 +121,8 @@
       "mocha": "^3.2.0",
       "retry": "^0.10.1",
       "rimraf": "^2.6.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +149,6 @@
   },
   "filename": "unindented___electron-installer-redhat.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:28:17.520Z",
+  "lastFetchedAt": "2017-10-23T23:09:42.330Z",
   "packageLastFetchedAt": "2017-05-04T22:59:36.300Z"
 }

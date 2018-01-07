@@ -5,7 +5,7 @@
   "owner": {
     "login": "jeff235255",
     "id": 12045663,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12045663?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12045663?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jeff235255",
     "htmlUrl": "https://github.com/jeff235255",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -85,12 +82,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "jeff235255___jeff-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:03:24.778Z",
-  "packageLastFetchedAt": "2017-05-04T22:31:41.289Z"
+  "lastFetchedAt": "2017-10-24T00:17:30.466Z",
+  "packageLastFetchedAt": "2017-05-04T22:31:41.289Z",
+  "archived": false
 }

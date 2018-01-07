@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "atomic-stream-player",
     "version": "0.1.0",
@@ -80,10 +80,7 @@
       "pack": "build --dir",
       "dist": "build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Weasle/atomic-stream-player.git"
-    },
+    "repository": "https://github.com/Weasle/atomic-stream-player",
     "keywords": [
       "Electron",
       "Google Music",
@@ -103,7 +100,8 @@
     "devDependencies": {
       "electron-builder": "^7.10.2",
       "electron-prebuilt": "^1.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +128,6 @@
   },
   "filename": "Weasle___atomic-stream-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:18:36.064Z",
+  "lastFetchedAt": "2017-10-23T22:58:13.084Z",
   "packageLastFetchedAt": "2017-05-04T22:10:42.391Z"
 }

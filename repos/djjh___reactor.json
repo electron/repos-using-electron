@@ -65,7 +65,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "reactor",
     "version": "1.0.0",
@@ -125,7 +125,8 @@
       "redux": "^3.6.0",
       "rimraf": "^2.5.4",
       "webpack-hot-middleware": "^2.13.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +152,6 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:38:31.754Z",
+  "lastFetchedAt": "2017-10-23T22:14:37.508Z",
   "packageLastFetchedAt": "2017-05-05T14:40:46.901Z"
 }

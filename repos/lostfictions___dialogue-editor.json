@@ -5,7 +5,7 @@
   "owner": {
     "login": "lostfictions",
     "id": 567041,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/567041?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/567041?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lostfictions",
     "htmlUrl": "https://github.com/lostfictions",
@@ -64,16 +64,10 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lostfictions/portrait-dialog-editor.git"
-    },
+    "repository": "https://github.com/lostfictions/portrait-dialog-editor",
     "keywords": [],
     "author": "s",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": ""
-    },
     "homepage": "https://github.com/lostfictions/portrait-dialog-editor",
     "devDependencies": {
       "asar": "^0.11.0",
@@ -130,6 +124,11 @@
       "redux": "^3.5.2",
       "reselect": "^2.5.1",
       "velocity-react": "^1.1.5"
+    },
+    "other": {
+      "bugs": {
+        "url": ""
+      }
     }
   },
   "packageStatus": 200,
@@ -177,6 +176,7 @@
   "svnUrl": "https://github.com/lostfictions/dialogue-editor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:49:38.547Z",
-  "packageLastFetchedAt": "2017-05-05T17:03:21.512Z"
+  "lastFetchedAt": "2017-10-23T21:43:48.027Z",
+  "packageLastFetchedAt": "2017-05-05T17:03:21.512Z",
+  "archived": false
 }

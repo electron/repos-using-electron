@@ -5,7 +5,7 @@
   "owner": {
     "login": "DoG-peer",
     "id": 5571744,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5571744?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5571744?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/DoG-peer",
     "htmlUrl": "https://github.com/DoG-peer",
@@ -70,10 +70,7 @@
     "version": "0.0.1",
     "description": "yp-viewer made by electron",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/DoG-peer/electric-yp.git"
-    },
+    "repository": "https://github.com/DoG-peer/electric-yp",
     "scripts": {
       "start": "electron ./build",
       "setup": "npm i; gulp",
@@ -102,7 +99,8 @@
       "material-ui": "^0.10.1",
       "react": "^0.13.3",
       "react-tap-event-plugin": "^0.1.7"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -129,6 +127,7 @@
   },
   "filename": "DoG-peer___electric-yp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:06.338Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:16.786Z"
+  "lastFetchedAt": "2017-10-23T22:25:39.594Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:16.786Z",
+  "archived": false
 }

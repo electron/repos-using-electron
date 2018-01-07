@@ -5,7 +5,7 @@
   "owner": {
     "login": "evanlucas",
     "id": 677994,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/677994?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/677994?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/evanlucas",
     "htmlUrl": "https://github.com/evanlucas",
@@ -81,20 +81,19 @@
       "package-osx": "electron-packager . Paycoin --platform=darwin --arch=x64 --version=0.26.0 --icon resources/paycoin.icns --app-bundle-id=com.evanlucas.paycoin --prune --protocol='paycoin' --protocol-name='Paycoin Transaction Protocol'",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:evanlucas/paycoin-electron"
-    },
+    "repository": "https://github.com/evanlucas/paycoin-electron",
     "keywords": [
       "paycoin",
       "xpy"
     ],
     "author": "Evan Lucas <evanlucas@me.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/evanlucas/paycoin-electron/issues"
-    },
-    "homepage": "https://github.com/evanlucas/paycoin-electron"
+    "homepage": "https://github.com/evanlucas/paycoin-electron",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/evanlucas/paycoin-electron/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/evanlucas/paycoin-electron",
@@ -141,6 +140,7 @@
   },
   "filename": "evanlucas___paycoin-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:57:01.480Z",
-  "packageLastFetchedAt": "2017-05-05T17:29:43.982Z"
+  "lastFetchedAt": "2017-10-24T00:19:16.950Z",
+  "packageLastFetchedAt": "2017-05-05T17:29:43.982Z",
+  "archived": false
 }

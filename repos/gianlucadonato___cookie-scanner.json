@@ -5,7 +5,7 @@
   "owner": {
     "login": "gianlucadonato",
     "id": 1878447,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1878447?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1878447?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gianlucadonato",
     "htmlUrl": "https://github.com/gianlucadonato",
@@ -83,10 +83,7 @@
       "build:win": "electron-packager . CookieScanner --platform=win32 --arch=x64 --version-string.CompanyName=crclex --version-string.ProductName=CookieScanner --icon=ist/images/logo.icns",
       "zip": "cd CookieScanner-darwin-x64 && zip -ryX CookieScanner-darwin-x64.zip CookieScanner.app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/carontelabs/cookie-scanner.git"
-    },
+    "repository": "https://github.com/carontelabs/cookie-scanner",
     "keywords": [
       "cookie",
       "scanner"
@@ -96,9 +93,6 @@
       "Daniele Tomasi"
     ],
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/carontelabs/cookie-scanner/issues"
-    },
     "homepage": "https://github.com/carontelabs/cookie-scanner",
     "devDependencies": {
       "del": "^2.2.0",
@@ -120,6 +114,11 @@
       "gulp-uglify": "^1.5.3",
       "gulp-util": "^3.0.7",
       "yargs": "^4.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/carontelabs/cookie-scanner/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   },
   "filename": "gianlucadonato___cookie-scanner.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:29.223Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:20.350Z"
+  "lastFetchedAt": "2017-10-23T21:48:54.871Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:20.350Z",
+  "archived": false
 }

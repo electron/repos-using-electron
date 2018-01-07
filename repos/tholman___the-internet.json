@@ -5,7 +5,7 @@
   "owner": {
     "login": "tholman",
     "id": 794999,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/794999?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/794999?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tholman",
     "htmlUrl": "https://github.com/tholman",
@@ -20,7 +20,7 @@
   "description": "Basically the internet (or most important parts) in a module.",
   "fork": false,
   "createdAt": "2015-08-08T19:47:46.000Z",
-  "updatedAt": "2016-11-25T21:55:06.000Z",
+  "updatedAt": "2017-06-20T11:32:20.000Z",
   "pushedAt": "2015-08-08T20:51:38.000Z",
   "homepage": "",
   "size": 284,
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 35,
   "defaultBranch": "master",
   "permissions": {
@@ -43,7 +43,7 @@
   },
   "license": null,
   "networkCount": 0,
-  "subscribersCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "the-internet",
@@ -53,10 +53,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tholman/the-internet.git"
-    },
+    "repository": "https://github.com/tholman/the-internet",
     "keywords": [
       "the internet",
       "internet",
@@ -65,9 +62,6 @@
     ],
     "author": "Tim Holman <timothy.w.holman@gmail.com> (http://tholman.com/)",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tholman/the-internet/issues"
-    },
     "homepage": "https://github.com/tholman/the-internet",
     "dependencies": {
       "101": "latest",
@@ -1812,6 +1806,11 @@
       "gulp-order": "latest",
       "gzip-js": "latest",
       "koa-cors": "latest"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tholman/the-internet/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -1859,6 +1858,7 @@
   },
   "filename": "tholman___the-internet.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:34:10.004Z",
-  "packageLastFetchedAt": "2017-05-05T15:33:08.104Z"
+  "lastFetchedAt": "2017-10-23T22:32:45.750Z",
+  "packageLastFetchedAt": "2017-05-05T15:33:08.104Z",
+  "archived": false
 }

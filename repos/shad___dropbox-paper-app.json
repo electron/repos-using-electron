@@ -5,7 +5,7 @@
   "owner": {
     "login": "shad",
     "id": 3585,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3585?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3585?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/shad",
     "htmlUrl": "https://github.com/shad",
@@ -81,23 +81,22 @@
       "clean": "rm -rf ./dist",
       "build:osx": "electron-packager . \"Dropbox Paper\" --out=dist/osx --platform=darwin --arch=x64 --version=0.36.4 --icon=assets/osx/dropbox.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shad/dropbox-paper-app"
-    },
+    "repository": "https://github.com/shad/dropbox-paper-app",
     "keywords": [
       "Dropbox",
       "paper"
     ],
     "author": "Shad Reynolds",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/shad/dropbox-paper-app/issues"
-    },
     "homepage": "https://github.com/shad/dropbox-paper-app#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shad/dropbox-paper-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "shad___dropbox-paper-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:27:52.380Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:18.358Z"
+  "lastFetchedAt": "2017-10-23T22:29:38.480Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:18.358Z",
+  "archived": false
 }

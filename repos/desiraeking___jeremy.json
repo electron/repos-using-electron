@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "magicmirror",
     "version": "2.0.0",
@@ -85,10 +85,7 @@
       "snyk-protect": "snyk protect",
       "prepublish": "npm run snyk-protect"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/desiraeking/jeremy.git"
-    },
+    "repository": "https://github.com/desiraeking/jeremy",
     "keywords": [
       "magic mirror",
       "smart mirror",
@@ -98,9 +95,6 @@
     "author": "desiraeking",
     "contributors": "https://github.com/MichMich/MagicMirror/graphs/contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/desiraeking/jeremy/issues"
-    },
     "homepage": "https://github.com/desiraeking/jeremy#readme",
     "devDependencies": {
       "electron-prebuilt": "latest",
@@ -124,7 +118,12 @@
       "valid-url": "latest",
       "walk": "latest"
     },
-    "snyk": true
+    "snyk": true,
+    "other": {
+      "bugs": {
+        "url": "https://github.com/desiraeking/jeremy/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -151,6 +150,6 @@
   },
   "filename": "desiraeking___jeremy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:58.125Z",
+  "lastFetchedAt": "2017-10-23T23:07:39.838Z",
   "packageLastFetchedAt": "2017-05-05T14:49:59.280Z"
 }

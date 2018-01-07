@@ -5,7 +5,7 @@
   "owner": {
     "login": "romgrk",
     "id": 1423607,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1423607?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1423607?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/romgrk",
     "htmlUrl": "https://github.com/romgrk",
@@ -89,10 +89,7 @@
       "start": "npm run dep && npm run build && npm run app",
       "clean": "rm -rf \"$(npm prefix)/build\" \"$(npm prefix)/typings\" \"$(npm prefix)/bower_components\" \"$(npm prefix)/node_modules\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/NyaoVim.git"
-    },
+    "repository": "https://github.com/rhysd/NyaoVim",
     "keywords": [
       "editor",
       "extensible",
@@ -106,9 +103,6 @@
     ],
     "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rhysd/NyaoVim/issues"
-    },
     "homepage": "https://github.com/rhysd/NyaoVim#readme",
     "dependencies": {
       "about-window": "^0.1.0",
@@ -122,6 +116,11 @@
       "browserify": "^12.0.1",
       "tsd": "^0.6.5",
       "typescript": "^1.7.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/NyaoVim/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -150,6 +149,7 @@
   "filename": "romgrk___NyaoVim.json",
   "sourceRepo": "rhysd/NyaoVim",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:47.915Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:24.240Z"
+  "lastFetchedAt": "2017-10-23T23:35:23.451Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:24.240Z",
+  "archived": false
 }

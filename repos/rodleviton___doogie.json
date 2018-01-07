@@ -64,16 +64,13 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "doogie",
     "version": "1.0.0",
     "description": "The most fly markdown editor ever.",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/rodleviton/doogie.git"
-    },
+    "repository": "https://github.com/rodleviton/doogie",
     "scripts": {
       "start": "NODE_ENV=development electron .",
       "test": "standard && mocha",
@@ -98,7 +95,8 @@
       "markdown-it": "7.0.0",
       "npm-run-all": "2.2.0",
       "spectron": "^3.2.6"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +123,6 @@
   },
   "filename": "rodleviton___doogie.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:40:53.771Z",
+  "lastFetchedAt": "2017-10-23T23:07:29.086Z",
   "packageLastFetchedAt": "2017-05-05T15:20:46.034Z"
 }

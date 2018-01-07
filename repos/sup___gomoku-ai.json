@@ -1,11 +1,11 @@
 {
   "id": 43479319,
-  "name": "gomoku-ai",
-  "fullName": "sup/gomoku-ai",
+  "name": "gomoku",
+  "fullName": "sup/gomoku",
   "owner": {
     "login": "sup",
     "id": 3483106,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3483106?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3483106?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sup",
     "htmlUrl": "https://github.com/sup",
@@ -20,7 +20,7 @@
   "description": ":video_game: Negamax Gomoku AI with alpha-beta pruning and board evaluation heuristic",
   "fork": false,
   "createdAt": "2015-10-01T05:02:25.000Z",
-  "updatedAt": "2017-03-27T22:42:22.000Z",
+  "updatedAt": "2017-10-03T00:04:44.000Z",
   "pushedAt": "2016-12-01T23:30:20.000Z",
   "homepage": "http://charlesjianlai.com/gomoku-ai",
   "size": 17,
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/charleslai/gomoku-ai.git"
-    },
+    "repository": "https://github.com/charleslai/gomoku-ai",
     "keywords": [
       "gomoku",
       "ai",
@@ -65,34 +62,36 @@
     ],
     "author": "charleslai",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/charleslai/gomoku-ai/issues"
-    },
     "homepage": "https://github.com/charleslai/gomoku-ai#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/charleslai/gomoku-ai/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/sup/gomoku-ai",
-  "url": "https://api.github.com/repos/sup/gomoku-ai",
-  "forksUrl": "https://api.github.com/repos/sup/gomoku-ai/forks",
-  "teamsUrl": "https://api.github.com/repos/sup/gomoku-ai/teams",
-  "hooksUrl": "https://api.github.com/repos/sup/gomoku-ai/hooks",
-  "eventsUrl": "https://api.github.com/repos/sup/gomoku-ai/events",
-  "tagsUrl": "https://api.github.com/repos/sup/gomoku-ai/tags",
-  "languagesUrl": "https://api.github.com/repos/sup/gomoku-ai/languages",
-  "stargazersUrl": "https://api.github.com/repos/sup/gomoku-ai/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/sup/gomoku-ai/contributors",
-  "subscribersUrl": "https://api.github.com/repos/sup/gomoku-ai/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/sup/gomoku-ai/subscription",
-  "mergesUrl": "https://api.github.com/repos/sup/gomoku-ai/merges",
-  "downloadsUrl": "https://api.github.com/repos/sup/gomoku-ai/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/sup/gomoku-ai/deployments",
-  "gitUrl": "git://github.com/sup/gomoku-ai.git",
-  "sshUrl": "git@github.com:sup/gomoku-ai.git",
-  "cloneUrl": "https://github.com/sup/gomoku-ai.git",
-  "svnUrl": "https://github.com/sup/gomoku-ai",
+  "htmlUrl": "https://github.com/sup/gomoku",
+  "url": "https://api.github.com/repos/sup/gomoku",
+  "forksUrl": "https://api.github.com/repos/sup/gomoku/forks",
+  "teamsUrl": "https://api.github.com/repos/sup/gomoku/teams",
+  "hooksUrl": "https://api.github.com/repos/sup/gomoku/hooks",
+  "eventsUrl": "https://api.github.com/repos/sup/gomoku/events",
+  "tagsUrl": "https://api.github.com/repos/sup/gomoku/tags",
+  "languagesUrl": "https://api.github.com/repos/sup/gomoku/languages",
+  "stargazersUrl": "https://api.github.com/repos/sup/gomoku/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/sup/gomoku/contributors",
+  "subscribersUrl": "https://api.github.com/repos/sup/gomoku/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/sup/gomoku/subscription",
+  "mergesUrl": "https://api.github.com/repos/sup/gomoku/merges",
+  "downloadsUrl": "https://api.github.com/repos/sup/gomoku/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/sup/gomoku/deployments",
+  "gitUrl": "git://github.com/sup/gomoku.git",
+  "sshUrl": "git@github.com:sup/gomoku.git",
+  "cloneUrl": "https://github.com/sup/gomoku.git",
+  "svnUrl": "https://github.com/sup/gomoku",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "4f6884bb97e035f3ecca2bcce0362d886304f7c0",
@@ -118,6 +117,7 @@
   },
   "filename": "sup___gomoku-ai.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:52:14.285Z",
-  "packageLastFetchedAt": "2017-05-04T23:08:58.712Z"
+  "lastFetchedAt": "2017-10-23T21:47:53.428Z",
+  "packageLastFetchedAt": "2017-05-04T23:08:58.712Z",
+  "archived": false
 }

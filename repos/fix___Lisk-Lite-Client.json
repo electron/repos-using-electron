@@ -5,7 +5,7 @@
   "owner": {
     "login": "fix",
     "id": 709388,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/709388?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/709388?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fix",
     "htmlUrl": "https://github.com/fix",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/fix/Lisk-Lite-Client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fix/Lisk-Lite-Client/deployments",
   "createdAt": "2016-06-02T21:48:18.000Z",
-  "updatedAt": "2017-02-24T13:31:23.000Z",
+  "updatedAt": "2017-05-09T05:18:13.000Z",
   "pushedAt": "2016-12-05T12:22:11.000Z",
   "gitUrl": "git://github.com/fix/Lisk-Lite-Client.git",
   "sshUrl": "git@github.com:fix/Lisk-Lite-Client.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/fix/Lisk-Lite-Client",
   "homepage": "http://desktop.lisk-wallet.com/",
   "size": 7016,
-  "stargazersCount": 10,
-  "watchersCount": 10,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 6,
+  "forksCount": 7,
   "mirrorUrl": null,
   "openIssuesCount": 22,
   "openIssues": 22,
-  "watchers": 10,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,7 +68,7 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 6,
+  "networkCount": 7,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -84,10 +84,7 @@
       "dist:osx": "build --osx",
       "dist:linux": "build --linux"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fix/Lisk-Lite-Client.git"
-    },
+    "repository": "https://github.com/fix/Lisk-Lite-Client",
     "keywords": [
       "Electron",
       "Lisk",
@@ -98,9 +95,6 @@
       "email": "fixcrypt@gmail.com"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/fix/Lisk-Lite-Client/issues"
-    },
     "homepage": "https://github.com/fix/Lisk-Lite-Client#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0",
@@ -119,6 +113,11 @@
       "linux": {
         "synopsis": "A Lite Lisk Client to securely connect to the Lisk network and manage your lisk assets.",
         "description": ""
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fix/Lisk-Lite-Client/issues"
       }
     }
   },
@@ -147,6 +146,7 @@
   },
   "filename": "fix___Lisk-Lite-Client.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:46:21.630Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:38.712Z"
+  "lastFetchedAt": "2017-10-23T22:11:35.771Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:38.712Z",
+  "archived": false
 }

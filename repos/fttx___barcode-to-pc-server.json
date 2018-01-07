@@ -5,7 +5,7 @@
   "owner": {
     "login": "fttx",
     "id": 5663423,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5663423?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5663423?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fttx",
     "htmlUrl": "https://github.com/fttx",
@@ -35,35 +35,41 @@
   "downloadsUrl": "https://api.github.com/repos/fttx/barcode-to-pc-server/downloads",
   "deploymentsUrl": "https://api.github.com/repos/fttx/barcode-to-pc-server/deployments",
   "createdAt": "2016-11-09T17:08:29.000Z",
-  "updatedAt": "2017-04-21T12:58:33.000Z",
-  "pushedAt": "2017-04-25T13:08:59.000Z",
+  "updatedAt": "2017-10-03T11:08:22.000Z",
+  "pushedAt": "2017-10-13T21:12:38.000Z",
   "gitUrl": "git://github.com/fttx/barcode-to-pc-server.git",
   "sshUrl": "git@github.com:fttx/barcode-to-pc-server.git",
   "cloneUrl": "https://github.com/fttx/barcode-to-pc-server.git",
   "svnUrl": "https://github.com/fttx/barcode-to-pc-server",
   "homepage": "https://barcodetopc.com/",
-  "size": 601,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 2296,
+  "stargazersCount": 20,
+  "watchersCount": 20,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
+  "forksCount": 5,
   "mirrorUrl": null,
-  "openIssuesCount": 21,
-  "openIssues": 21,
-  "watchers": 2,
+  "openIssuesCount": 15,
+  "openIssues": 15,
+  "watchers": 20,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
-  "networkCount": 0,
-  "subscribersCount": 1,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdxId": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "featured": true
+  },
+  "networkCount": 5,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "barcode-to-pc-server",
@@ -129,7 +135,8 @@
       "ts-node": "~2.0.0",
       "tslint": "~4.5.0",
       "typescript": "^2.2.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -156,6 +163,7 @@
   },
   "filename": "fttx___barcode-to-pc-server.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:41.131Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:57.289Z"
+  "lastFetchedAt": "2017-10-23T22:23:21.515Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:57.289Z",
+  "archived": false
 }

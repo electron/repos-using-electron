@@ -6,7 +6,7 @@
   "owner": {
     "login": "symphonyoss",
     "id": 16778380,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16778380?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16778380?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/symphonyoss",
     "htmlUrl": "https://github.com/symphonyoss",
@@ -36,26 +36,26 @@
   "downloadsUrl": "https://api.github.com/repos/symphonyoss/SymphonyElectron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/symphonyoss/SymphonyElectron/deployments",
   "createdAt": "2016-09-27T02:33:08.000Z",
-  "updatedAt": "2017-04-27T23:50:39.000Z",
-  "pushedAt": "2017-05-04T09:04:23.000Z",
+  "updatedAt": "2017-10-09T15:44:57.000Z",
+  "pushedAt": "2017-10-23T08:47:10.000Z",
   "gitUrl": "git://github.com/symphonyoss/SymphonyElectron.git",
   "sshUrl": "git@github.com:symphonyoss/SymphonyElectron.git",
   "cloneUrl": "https://github.com/symphonyoss/SymphonyElectron.git",
   "svnUrl": "https://github.com/symphonyoss/SymphonyElectron",
   "homepage": null,
-  "size": 281,
-  "stargazersCount": 6,
-  "watchersCount": 6,
+  "size": 13925,
+  "stargazersCount": 11,
+  "watchersCount": 11,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 11,
+  "forksCount": 18,
   "mirrorUrl": null,
-  "openIssuesCount": 5,
-  "openIssues": 5,
-  "watchers": 6,
+  "openIssuesCount": 7,
+  "openIssues": 7,
+  "watchers": 11,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -72,7 +72,7 @@
   "organization": {
     "login": "symphonyoss",
     "id": 16778380,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16778380?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16778380?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/symphonyoss",
     "htmlUrl": "https://github.com/symphonyoss",
@@ -83,8 +83,8 @@
     "receivedEventsUrl": "https://api.github.com/users/symphonyoss/received_events",
     "type": "Organization"
   },
-  "networkCount": 11,
-  "subscribersCount": 14,
+  "networkCount": 18,
+  "subscribersCount": 15,
   "status": 200,
   "packageJSON": {
     "name": "Symphony",
@@ -141,18 +141,12 @@
         "target": "squirrel"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SymphonyOSS/SymphonyElectron.git"
-    },
+    "repository": "https://github.com/SymphonyOSS/SymphonyElectron",
     "keywords": [
       "Symphony",
       "start"
     ],
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://support.symphony.com"
-    },
     "devDependencies": {
       "babel-jest": "^19.0.0",
       "babel-preset-es2015": "^6.24.0",
@@ -178,6 +172,11 @@
     },
     "optionalDependencies": {
       "screen-snippet": "git+https://github.com/symphonyoss/ScreenSnippet.git#v1.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://support.symphony.com"
+      }
     }
   },
   "packageStatus": 200,
@@ -204,6 +203,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:41:00.975Z",
-  "packageLastFetchedAt": "2017-05-04T22:02:39.128Z"
+  "lastFetchedAt": "2017-10-23T22:23:10.997Z",
+  "packageLastFetchedAt": "2017-05-04T22:02:39.128Z",
+  "archived": false
 }

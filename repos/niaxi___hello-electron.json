@@ -5,7 +5,7 @@
   "owner": {
     "login": "niaxi",
     "id": 13182486,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/13182486?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/13182486?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/niaxi",
     "htmlUrl": "https://github.com/niaxi",
@@ -65,21 +65,20 @@
       "package:mac": "npm run clean:mac && electron-packager . HelloElectron --platform=darwin --arch=x64 --version=0.34.2 --ignore=node_modules --ignore=dist --out=./dist",
       "package": "npm run clean && electron-packager . HelloElectron --platform=win32,darwin --arch=x64 --version=0.34.2 --ignore=node_modules --ignore=dist --out=./dist"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/niaxi/hello-electron.git"
-    },
+    "repository": "https://github.com/niaxi/hello-electron",
     "author": "Ni Axi <niaxi@tuta.io>",
     "license": "MIT",
     "copyright": "Copyright (c) 2015, Ni Axi",
-    "bugs": {
-      "url": "https://github.com/niaxi/hello-electron/issues"
-    },
     "homepage": "https://github.com/niaxi/hello-electron#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1",
       "electron-prebuilt": "^0.34.2",
       "rimraf": "^2.4.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/niaxi/hello-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/niaxi/hello-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:27:00.343Z",
-  "packageLastFetchedAt": "2017-05-05T15:27:35.050Z"
+  "lastFetchedAt": "2017-10-23T21:44:00.784Z",
+  "packageLastFetchedAt": "2017-05-05T15:27:35.050Z",
+  "archived": false
 }

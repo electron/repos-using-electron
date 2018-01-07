@@ -5,7 +5,7 @@
   "owner": {
     "login": "SimpleWeek",
     "id": 10685114,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10685114?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10685114?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SimpleWeek",
     "htmlUrl": "https://github.com/SimpleWeek",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "SimpleWeek",
     "id": 10685114,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10685114?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/10685114?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SimpleWeek",
     "htmlUrl": "https://github.com/SimpleWeek",
@@ -126,19 +126,13 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -226,6 +220,11 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -273,6 +272,7 @@
   "svnUrl": "https://github.com/SimpleWeek/desktop-tray-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:08:19.391Z",
-  "packageLastFetchedAt": "2017-05-04T22:46:37.728Z"
+  "lastFetchedAt": "2017-10-23T23:40:07.684Z",
+  "packageLastFetchedAt": "2017-05-04T22:46:37.728Z",
+  "archived": false
 }

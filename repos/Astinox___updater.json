@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "updater",
     "version": "0.0.1",
@@ -101,7 +101,8 @@
     },
     "engines": {
       "node": ">= 6.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +129,6 @@
   },
   "filename": "Astinox___updater.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:31:57.775Z",
+  "lastFetchedAt": "2017-10-23T22:56:17.617Z",
   "packageLastFetchedAt": "2017-05-04T21:55:19.846Z"
 }

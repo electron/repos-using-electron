@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hello_world",
     "version": "1.0.0",
@@ -81,10 +81,7 @@
       "pack": "electron-packager ./ hello_world --platform=win32 --arch=x64 --asar --overwrite --out ./pack --app-version=1.0.0",
       "build": "build --platform win32 --arch x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "hellor",
@@ -92,9 +89,6 @@
     ],
     "author": "wy182000",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "asar": "^0.12.0",
@@ -109,6 +103,11 @@
       "win": {
         "msi": true,
         "iconUrl": "https://github.com/${u}/${p}/blob/master/build/icon.ico?raw=true"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
       }
     }
   },
@@ -137,6 +136,6 @@
   },
   "filename": "wy182000___electron_nodejs_native_addon.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:50:25.181Z",
+  "lastFetchedAt": "2017-10-24T00:11:02.930Z",
   "packageLastFetchedAt": "2017-05-04T22:02:27.103Z"
 }

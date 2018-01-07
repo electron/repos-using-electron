@@ -5,7 +5,7 @@
   "owner": {
     "login": "scottdj92",
     "id": 4582261,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4582261?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4582261?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scottdj92",
     "htmlUrl": "https://github.com/scottdj92",
@@ -80,10 +80,7 @@
       "test": "npm run test",
       "start": "electron src/app/index.html"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/scottdj92/webpack-jetpack.git"
-    },
+    "repository": "https://github.com/scottdj92/webpack-jetpack",
     "keywords": [
       "Electron",
       "Webpack",
@@ -91,13 +88,15 @@
     ],
     "author": "Scott Jones",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/scottdj92/webpack-jetpack/issues"
-    },
     "homepage": "https://github.com/scottdj92/webpack-jetpack#readme",
     "devDependencies": {
       "electron": "^1.3.3",
       "electron-packager": "^7.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/scottdj92/webpack-jetpack/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "scottdj92___webpack-jetpack.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:03:21.210Z",
-  "packageLastFetchedAt": "2017-05-05T17:21:09.096Z"
+  "lastFetchedAt": "2017-10-24T00:18:31.952Z",
+  "packageLastFetchedAt": "2017-05-05T17:21:09.096Z",
+  "archived": false
 }

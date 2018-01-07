@@ -5,7 +5,7 @@
   "owner": {
     "login": "vutran",
     "id": 1088312,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1088312?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1088312?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vutran",
     "htmlUrl": "https://github.com/vutran",
@@ -68,20 +68,7 @@
         "web": "http://vu-tran.com"
       }
     ],
-    "maintainers": [
-      {
-        "name": "Vu Tran",
-        "email": "vu@vu-tran.com",
-        "web": "http://vu-tran.com"
-      }
-    ],
-    "bugs": {
-      "web": "https://github.com/vutran/electron-react-jsonschema-form-demo/issues"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:vutran/electron-react-jsonschema-form-demo.git"
-    },
+    "repository": "https://github.com/vutran/electron-react-jsonschema-form-demo",
     "license": "MIT",
     "homepage": "https://github.com/vutran/electron-react-jsonschema-form-demo",
     "dependencies": {
@@ -118,6 +105,25 @@
       "watch": "webpack-dev-server --content-base examples/ --config examples/webpack.config.js --inline --hot",
       "dev": "electron examples/main.babelRegister.js",
       "prepublish": "npm run build"
+    },
+    "owners": [
+      {
+        "name": "Vu Tran",
+        "email": "vu@vu-tran.com",
+        "web": "http://vu-tran.com"
+      }
+    ],
+    "other": {
+      "bugs": {
+        "web": "https://github.com/vutran/electron-react-jsonschema-form-demo/issues"
+      },
+      "maintainers": [
+        {
+          "name": "Vu Tran",
+          "email": "vu@vu-tran.com",
+          "web": "http://vu-tran.com"
+        }
+      ]
     }
   },
   "packageStatus": 200,
@@ -165,6 +171,7 @@
   },
   "filename": "vutran___electron-react-jsonschema-form-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:04.036Z",
-  "packageLastFetchedAt": "2017-05-04T22:22:20.898Z"
+  "lastFetchedAt": "2017-10-23T22:26:23.760Z",
+  "packageLastFetchedAt": "2017-05-04T22:22:20.898Z",
+  "archived": false
 }

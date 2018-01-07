@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "grunt-electron-packager-installer",
     "version": "0.0.1",
@@ -104,10 +104,7 @@
       "grunt-contrib-jshint": "^1.0.0"
     },
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MathijsvVelde/grunt-electron-packager-installer.git"
-    },
+    "repository": "https://github.com/MathijsvVelde/grunt-electron-packager-installer",
     "keywords": [
       "gruntplugin",
       "electron",
@@ -137,7 +134,8 @@
       "linux",
       "debian",
       "rpm"
-    ]
+    ],
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -164,6 +162,6 @@
   },
   "filename": "MathijsvVelde___grunt-electron-packager-installer.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:29:40.598Z",
+  "lastFetchedAt": "2017-10-23T22:58:11.078Z",
   "packageLastFetchedAt": "2017-05-05T17:13:19.037Z"
 }

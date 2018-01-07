@@ -1,11 +1,11 @@
 {
   "id": 52432610,
-  "name": "diffdirUi",
-  "fullName": "tomk79/diffdirUi",
+  "name": "app-diffdir",
+  "fullName": "tomk79/app-diffdir",
   "owner": {
     "login": "tomk79",
     "id": 584845,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/584845?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/584845?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/tomk79",
     "htmlUrl": "https://github.com/tomk79",
@@ -17,30 +17,30 @@
     "type": "User"
   },
   "private": false,
-  "htmlUrl": "https://github.com/tomk79/diffdirUi",
+  "htmlUrl": "https://github.com/tomk79/app-diffdir",
   "description": null,
   "fork": false,
-  "url": "https://api.github.com/repos/tomk79/diffdirUi",
-  "forksUrl": "https://api.github.com/repos/tomk79/diffdirUi/forks",
-  "teamsUrl": "https://api.github.com/repos/tomk79/diffdirUi/teams",
-  "hooksUrl": "https://api.github.com/repos/tomk79/diffdirUi/hooks",
-  "eventsUrl": "https://api.github.com/repos/tomk79/diffdirUi/events",
-  "tagsUrl": "https://api.github.com/repos/tomk79/diffdirUi/tags",
-  "languagesUrl": "https://api.github.com/repos/tomk79/diffdirUi/languages",
-  "stargazersUrl": "https://api.github.com/repos/tomk79/diffdirUi/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/tomk79/diffdirUi/contributors",
-  "subscribersUrl": "https://api.github.com/repos/tomk79/diffdirUi/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/tomk79/diffdirUi/subscription",
-  "mergesUrl": "https://api.github.com/repos/tomk79/diffdirUi/merges",
-  "downloadsUrl": "https://api.github.com/repos/tomk79/diffdirUi/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/tomk79/diffdirUi/deployments",
+  "url": "https://api.github.com/repos/tomk79/app-diffdir",
+  "forksUrl": "https://api.github.com/repos/tomk79/app-diffdir/forks",
+  "teamsUrl": "https://api.github.com/repos/tomk79/app-diffdir/teams",
+  "hooksUrl": "https://api.github.com/repos/tomk79/app-diffdir/hooks",
+  "eventsUrl": "https://api.github.com/repos/tomk79/app-diffdir/events",
+  "tagsUrl": "https://api.github.com/repos/tomk79/app-diffdir/tags",
+  "languagesUrl": "https://api.github.com/repos/tomk79/app-diffdir/languages",
+  "stargazersUrl": "https://api.github.com/repos/tomk79/app-diffdir/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/tomk79/app-diffdir/contributors",
+  "subscribersUrl": "https://api.github.com/repos/tomk79/app-diffdir/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/tomk79/app-diffdir/subscription",
+  "mergesUrl": "https://api.github.com/repos/tomk79/app-diffdir/merges",
+  "downloadsUrl": "https://api.github.com/repos/tomk79/app-diffdir/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/tomk79/app-diffdir/deployments",
   "createdAt": "2016-02-24T10:04:08.000Z",
-  "updatedAt": "2016-02-24T11:28:49.000Z",
+  "updatedAt": "2017-05-07T04:04:36.000Z",
   "pushedAt": "2016-07-27T08:33:44.000Z",
-  "gitUrl": "git://github.com/tomk79/diffdirUi.git",
-  "sshUrl": "git@github.com:tomk79/diffdirUi.git",
-  "cloneUrl": "https://github.com/tomk79/diffdirUi.git",
-  "svnUrl": "https://github.com/tomk79/diffdirUi",
+  "gitUrl": "git://github.com/tomk79/app-diffdir.git",
+  "sshUrl": "git@github.com:tomk79/app-diffdir.git",
+  "cloneUrl": "https://github.com/tomk79/app-diffdir.git",
+  "svnUrl": "https://github.com/tomk79/app-diffdir",
   "homepage": null,
   "size": 1422,
   "stargazersCount": 0,
@@ -81,15 +81,9 @@
       "start": "electron .",
       "test": "mocha --ui tdd ./tests/"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/tomk79/diffdirUi.git"
-    },
+    "repository": "https://github.com/tomk79/diffdirUi",
     "author": "Tomoya Koyanagi <tomk79@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/tomk79/diffdirUi/issues"
-    },
     "homepage": "https://github.com/tomk79/diffdirUi#readme",
     "dependencies": {
       "electron": "^0.4.1",
@@ -112,6 +106,11 @@
       "gulp-twig": "^0.5.0",
       "gulp-uglify": "^1.5.3",
       "mocha": "^2.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tomk79/diffdirUi/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "tomk79___diffdirUi.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:38.247Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:23.521Z"
+  "lastFetchedAt": "2017-10-23T22:28:42.839Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:23.521Z",
+  "archived": false
 }

@@ -164,7 +164,7 @@
   },
   "networkCount": 110,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "gitify",
     "version": "0.0.18",
@@ -182,10 +182,7 @@
       "lint": "eslint 'src/js/' 'src/js/app.js' 'main.js'",
       "test": "npm run lint && jest --config=jest-config.json"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ekonstantinidis/gitify.git"
-    },
+    "repository": "https://github.com/ekonstantinidis/gitify",
     "keywords": [
       "github",
       "notifier",
@@ -205,9 +202,6 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ekonstantinidis/gitify/issues"
-    },
     "homepage": "https://github.com/ekonstantinidis/gitify",
     "dependencies": {
       "auto-launch": "=1.0.1",
@@ -247,6 +241,11 @@
       "jest-cli": "=0.8.0",
       "less": "=2.5.3",
       "watchify": "=3.6.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ekonstantinidis/gitify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -295,6 +294,6 @@
   "filename": "brandonb927___gitify.json",
   "sourceRepo": "ekonstantinidis/gitify",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:35:55.022Z",
+  "lastFetchedAt": "2017-10-23T23:00:11.577Z",
   "packageLastFetchedAt": "2017-05-05T15:40:06.991Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "NAzT",
     "id": 89108,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/89108?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/89108?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/NAzT",
     "htmlUrl": "https://github.com/NAzT",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,9 +88,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
@@ -103,6 +97,11 @@
       "each-async": "^1.1.1",
       "mqtt": "^1.8.0",
       "superagent": "^1.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   "filename": "NAzT___electron-quick-start.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T19:59:13.338Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:25.188Z"
+  "lastFetchedAt": "2017-10-23T22:29:53.572Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:25.188Z",
+  "archived": false
 }

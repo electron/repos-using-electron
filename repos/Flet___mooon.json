@@ -5,7 +5,7 @@
   "owner": {
     "login": "Flet",
     "id": 360233,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/360233?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/360233?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Flet",
     "htmlUrl": "https://github.com/Flet",
@@ -55,7 +55,7 @@
     "owner": {
       "login": "bcomnes",
       "id": 166301,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/166301?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/166301?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bcomnes",
       "htmlUrl": "https://github.com/bcomnes",
@@ -85,7 +85,7 @@
     "downloadsUrl": "https://api.github.com/repos/bcomnes/mooon/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bcomnes/mooon/deployments",
     "createdAt": "2015-05-01T02:12:36.000Z",
-    "updatedAt": "2017-02-21T02:50:48.000Z",
+    "updatedAt": "2017-07-21T09:11:53.000Z",
     "pushedAt": "2017-04-30T21:18:39.000Z",
     "gitUrl": "git://github.com/bcomnes/mooon.git",
     "sshUrl": "git@github.com:bcomnes/mooon.git",
@@ -93,8 +93,8 @@
     "svnUrl": "https://github.com/bcomnes/mooon",
     "homepage": "",
     "size": 1167,
-    "stargazersCount": 6,
-    "watchersCount": 6,
+    "stargazersCount": 8,
+    "watchersCount": 8,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -103,9 +103,10 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 7,
     "openIssues": 7,
-    "watchers": 6,
+    "watchers": 8,
     "defaultBranch": "master"
   },
   "source": {
@@ -115,7 +116,7 @@
     "owner": {
       "login": "bcomnes",
       "id": 166301,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/166301?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/166301?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bcomnes",
       "htmlUrl": "https://github.com/bcomnes",
@@ -145,7 +146,7 @@
     "downloadsUrl": "https://api.github.com/repos/bcomnes/mooon/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bcomnes/mooon/deployments",
     "createdAt": "2015-05-01T02:12:36.000Z",
-    "updatedAt": "2017-02-21T02:50:48.000Z",
+    "updatedAt": "2017-07-21T09:11:53.000Z",
     "pushedAt": "2017-04-30T21:18:39.000Z",
     "gitUrl": "git://github.com/bcomnes/mooon.git",
     "sshUrl": "git@github.com:bcomnes/mooon.git",
@@ -153,8 +154,8 @@
     "svnUrl": "https://github.com/bcomnes/mooon",
     "homepage": "",
     "size": 1167,
-    "stargazersCount": 6,
-    "watchersCount": 6,
+    "stargazersCount": 8,
+    "watchersCount": 8,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -163,9 +164,10 @@
     "hasPages": false,
     "forksCount": 2,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 7,
     "openIssues": 7,
-    "watchers": 6,
+    "watchers": 8,
     "defaultBranch": "master"
   },
   "networkCount": 2,
@@ -176,9 +178,6 @@
     "description": "Displays the moon phase in your staus bar/tray",
     "version": "1.0.0",
     "author": "Bret Comnes <bcomnes@gmail.com>",
-    "bugs": {
-      "url": "https://github.com/bcomnes/mooon/issues"
-    },
     "devDependencies": {
       "electron-packager": "^4.0.2",
       "electron-prebuilt": "^0.26.0",
@@ -192,10 +191,7 @@
     ],
     "license": "ISC",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bcomnes/mooon.git"
-    },
+    "repository": "https://github.com/bcomnes/mooon",
     "scripts": {
       "test": "tape test/*.js | tap-spec && standard",
       "start": "electron index.js",
@@ -205,6 +201,11 @@
     "dependencies": {
       "moonmoji": "0.0.5",
       "node-schedule": "^0.2.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bcomnes/mooon/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -253,6 +254,7 @@
   "svnUrl": "https://github.com/Flet/mooon",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:27:09.573Z",
-  "packageLastFetchedAt": "2017-05-05T17:49:18.194Z"
+  "lastFetchedAt": "2017-10-24T00:17:20.698Z",
+  "packageLastFetchedAt": "2017-05-05T17:49:18.194Z",
+  "archived": false
 }

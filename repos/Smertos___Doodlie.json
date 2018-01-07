@@ -5,7 +5,7 @@
   "owner": {
     "login": "Smertos",
     "id": 5755147,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/5755147?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/5755147?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Smertos",
     "htmlUrl": "https://github.com/Smertos",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/Smertos/Doodlie",
-  "description": "Doodlie - crossplatform desktop implementation of Kanban boards using Electron, Angular 2 & Co",
+  "description": "Doodlie - crossplatform desktop implementation of Kanban boards built with Electron, Angular 2 & Co",
   "fork": false,
   "url": "https://api.github.com/repos/Smertos/Doodlie",
   "forksUrl": "https://api.github.com/repos/Smertos/Doodlie/forks",
@@ -35,13 +35,13 @@
   "downloadsUrl": "https://api.github.com/repos/Smertos/Doodlie/downloads",
   "deploymentsUrl": "https://api.github.com/repos/Smertos/Doodlie/deployments",
   "createdAt": "2016-10-28T18:20:41.000Z",
-  "updatedAt": "2016-12-21T04:34:49.000Z",
+  "updatedAt": "2017-10-19T13:58:30.000Z",
   "pushedAt": "2017-01-03T08:18:56.000Z",
   "gitUrl": "git://github.com/Smertos/Doodlie.git",
   "sshUrl": "git@github.com:Smertos/Doodlie.git",
   "cloneUrl": "https://github.com/Smertos/Doodlie.git",
   "svnUrl": "https://github.com/Smertos/Doodlie",
-  "homepage": null,
+  "homepage": "",
   "size": 5474,
   "stargazersCount": 0,
   "watchersCount": 0,
@@ -75,9 +75,7 @@
     "name": "doodlie",
     "version": "0.4.0",
     "description": "Kanban boards built with :heart:, Angular 2 and Electron",
-    "repository": {
-      "url": "https://github.com/Smertos/Doodlie"
-    },
+    "repository": "https://github.com/Smertos/Doodlie",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows.ia32": "rimraf desktop/windows/ia32/* && gulp desktop.windows.ia32",
@@ -254,7 +252,8 @@
       "rxjs": "5.0.0-beta.12",
       "systemjs": "0.19.40",
       "zone.js": "0.6.25"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -281,6 +280,7 @@
   },
   "filename": "Smertos___Doodlie.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:50.349Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:57.196Z"
+  "lastFetchedAt": "2017-10-23T22:31:20.030Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:57.196Z",
+  "archived": false
 }

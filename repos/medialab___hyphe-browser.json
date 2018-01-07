@@ -5,7 +5,7 @@
   "owner": {
     "login": "medialab",
     "id": 534856,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/534856?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/534856?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/medialab",
     "htmlUrl": "https://github.com/medialab",
@@ -20,12 +20,12 @@
   "description": "Browser version of Hyphe (WIP)",
   "fork": false,
   "createdAt": "2015-11-26T10:37:20.000Z",
-  "updatedAt": "2017-03-12T18:37:12.000Z",
-  "pushedAt": "2017-01-25T12:43:09.000Z",
+  "updatedAt": "2017-10-22T15:32:54.000Z",
+  "pushedAt": "2017-09-22T16:11:09.000Z",
   "homepage": null,
-  "size": 108449,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "size": 108460,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 5,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "medialab",
     "id": 534856,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/534856?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/534856?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/medialab",
     "htmlUrl": "https://github.com/medialab",
@@ -83,15 +83,9 @@
       "watch:electron": "cross-env NODE_ENV=development electron .",
       "watch:dev-server": "cross-env NODE_ENV=development webpack-dashboard -- node dev-server.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/medialab/hyphe-browser.git"
-    },
+    "repository": "https://github.com/medialab/hyphe-browser",
     "author": "ByteClub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/medialab/hyphe-browser/issues"
-    },
     "homepage": "https://github.com/medialab/hyphe-browser#readme",
     "devDependencies": {
       "babel": "^6.5.2",
@@ -166,6 +160,11 @@
       "tether": "^1.3.7",
       "uuid": "^2.0.2",
       "valid-url": "^1.0.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/medialab/hyphe-browser/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -213,6 +212,7 @@
   "svnUrl": "https://github.com/medialab/hyphe-browser",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:17:51.143Z",
-  "packageLastFetchedAt": "2017-05-04T21:56:52.323Z"
+  "lastFetchedAt": "2017-10-23T23:12:12.114Z",
+  "packageLastFetchedAt": "2017-05-04T21:56:52.323Z",
+  "archived": false
 }

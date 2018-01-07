@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 7,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "bityn",
     "version": "1.0.0",
@@ -99,13 +99,7 @@
       "ghooks": "^1.3.2",
       "mocha": "^3.1.2"
     },
-    "directories": {
-      "test": "test"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fdiogo/bityn.git"
-    },
+    "repository": "https://github.com/fdiogo/bityn",
     "config": {
       "ghooks": {
         "pre-commit": "npm run test"
@@ -120,10 +114,15 @@
       "stream",
       "HTML5"
     ],
-    "bugs": {
-      "url": "https://github.com/fdiogo/bityn/issues"
-    },
-    "homepage": "https://github.com/fdiogo/bityn#readme"
+    "homepage": "https://github.com/fdiogo/bityn#readme",
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/fdiogo/bityn/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -150,6 +149,6 @@
   },
   "filename": "fdiogo___bityn.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:57:15.566Z",
+  "lastFetchedAt": "2017-10-23T23:09:45.587Z",
   "packageLastFetchedAt": "2017-05-04T23:05:46.549Z"
 }

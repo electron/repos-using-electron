@@ -5,7 +5,7 @@
   "owner": {
     "login": "cyrilschumacher",
     "id": 4550089,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4550089?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4550089?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/cyrilschumacher",
     "htmlUrl": "https://github.com/cyrilschumacher",
@@ -55,10 +55,7 @@
     "name": "jitter",
     "version": "0.0.1",
     "description": "Edit your language files in JSON format with ease!",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cyrilschumacher/jitter.git"
-    },
+    "repository": "https://github.com/cyrilschumacher/jitter",
     "scripts": {
       "release": "cd dist && npm install --production && electron-packager . Jitter --platform=all --arch=all --version=0.37.0 --out ../release",
       "start": "electron dist/index.js",
@@ -102,7 +99,8 @@
       "react-i18next": "^1.2.1",
       "react-modal": "^0.6.1",
       "react-router": "^2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -149,6 +147,7 @@
   "svnUrl": "https://github.com/cyrilschumacher/Jitter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:13:48.049Z",
-  "packageLastFetchedAt": "2017-05-05T15:12:48.885Z"
+  "lastFetchedAt": "2017-10-23T22:26:07.993Z",
+  "packageLastFetchedAt": "2017-05-05T15:12:48.885Z",
+  "archived": false
 }

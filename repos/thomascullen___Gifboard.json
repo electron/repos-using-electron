@@ -5,7 +5,7 @@
   "owner": {
     "login": "thomascullen",
     "id": 1512593,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1512593?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1512593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/thomascullen",
     "htmlUrl": "https://github.com/thomascullen",
@@ -82,10 +82,7 @@
       "dev": "concurrently --kill-others \"npm run server\" \"npm start\"",
       "build": "NODE_ENV=production node -r babel-register ./node_modules/webpack/bin/webpack --config webpack.config.production.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -94,9 +91,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-core": "^6.10.4",
@@ -125,6 +119,11 @@
       "redux": "^3.5.2",
       "redux-thunk": "^2.1.0",
       "request": "^2.72.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -153,6 +152,7 @@
   "filename": "thomascullen___Gifboard.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:51.289Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:39.537Z"
+  "lastFetchedAt": "2017-10-24T00:12:13.715Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:39.537Z",
+  "archived": false
 }

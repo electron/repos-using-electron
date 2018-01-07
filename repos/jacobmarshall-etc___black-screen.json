@@ -205,7 +205,7 @@
   },
   "networkCount": 454,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "black-screen",
     "version": "0.0.1",
@@ -216,13 +216,7 @@
       "Konstantin Azizov <azizovkostya97@gmail.com>",
       "Volodymyr Barna <roberto.te.ua@gmail.com>"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/shockone/black-screen.git"
-    },
-    "bugs": {
-      "url": "https://github.com/shockone/black-screen/issues"
-    },
+    "repository": "https://github.com/shockone/black-screen",
     "keywords": [
       "terminal",
       "emulator",
@@ -278,7 +272,12 @@
       "package": "electron-packager . 'Black Screen' --overwrite --platform=darwin --arch=x64 --version='0.31.2' --out='/Applications' --icon='./icon.icns'",
       "test": "gulp typescript; gulp compile-tests; electron run-tests.js"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shockone/black-screen/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -305,6 +304,6 @@
   },
   "sourceRepo": "shockone/black-screen",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:13:48.750Z",
+  "lastFetchedAt": "2017-10-24T00:09:51.666Z",
   "packageLastFetchedAt": "2017-05-05T15:35:46.347Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "pilas-engine",
     "id": 18339468,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18339468?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18339468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pilas-engine",
     "htmlUrl": "https://github.com/pilas-engine",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "pilas-engine",
     "id": 18339468,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/18339468?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/18339468?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/pilas-engine",
     "htmlUrl": "https://github.com/pilas-engine",
@@ -64,10 +64,6 @@
     "version": "0.0.46",
     "description": "Small description for pilas-editor goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -162,6 +158,12 @@
     "dependencies": {
       "quick-temp": "^0.1.5",
       "spritesheet-js": "^1.1.9"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -209,6 +211,7 @@
   "svnUrl": "https://github.com/pilas-engine/pilas-editor",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:27:54.435Z",
-  "packageLastFetchedAt": "2017-05-05T14:49:27.246Z"
+  "lastFetchedAt": "2017-10-23T22:32:49.250Z",
+  "packageLastFetchedAt": "2017-05-05T14:49:27.246Z",
+  "archived": false
 }

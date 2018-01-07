@@ -5,7 +5,7 @@
   "owner": {
     "login": "mysamai",
     "id": 15719549,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15719549?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15719549?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mysamai",
     "htmlUrl": "https://github.com/mysamai",
@@ -20,21 +20,21 @@
   "description": "An open \"intelligent\" assistant for the web that can listen to you and learn.",
   "fork": false,
   "createdAt": "2015-06-11T05:41:13.000Z",
-  "updatedAt": "2017-04-28T16:03:04.000Z",
-  "pushedAt": "2016-11-20T21:20:47.000Z",
+  "updatedAt": "2017-10-21T12:30:32.000Z",
+  "pushedAt": "2017-10-05T16:46:58.000Z",
   "homepage": "",
-  "size": 222,
-  "stargazersCount": 571,
-  "watchersCount": 571,
+  "size": 806,
+  "stargazersCount": 582,
+  "watchersCount": 582,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": true,
-  "forksCount": 57,
+  "forksCount": 65,
   "openIssuesCount": 15,
   "openIssues": 15,
-  "watchers": 571,
+  "watchers": 582,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,16 +42,16 @@
     "pull": true
   },
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "featured": true
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
   },
   "organization": {
     "login": "mysamai",
     "id": 15719549,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/15719549?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/15719549?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mysamai",
     "htmlUrl": "https://github.com/mysamai",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/mysamai/received_events",
     "type": "Organization"
   },
-  "networkCount": 57,
+  "networkCount": 65,
   "subscribersCount": 42,
   "status": 200,
   "packageJSON": {
@@ -87,10 +87,7 @@
       "release:minor": "npm version minor && npm publish",
       "release:major": "npm version major && npm publish"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:daffl/mysam.git"
-    },
+    "repository": "https://github.com/daffl/mysam",
     "author": "David Luecke <daff@neyeon.com>",
     "license": "MIT",
     "dependencies": {
@@ -114,7 +111,8 @@
       "mocha": "^2.3.0",
       "mysam-weather": "0.0.2",
       "supervisor": "^0.6.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/mysamai/mysam",
@@ -161,6 +159,7 @@
   },
   "filename": "mysamai___mysam.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:19:49.739Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:34.071Z"
+  "lastFetchedAt": "2017-10-23T23:36:32.790Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:34.071Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "todo",
     "version": "1.0.2",
@@ -117,7 +117,8 @@
       "nsis": {
         "perMachine": true
       }
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +146,6 @@
   "filename": "bahmutov___todomvc-electron-test.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:30.301Z",
+  "lastFetchedAt": "2017-10-23T23:06:13.346Z",
   "packageLastFetchedAt": "2017-05-05T01:32:32.553Z"
 }

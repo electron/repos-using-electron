@@ -5,7 +5,7 @@
   "owner": {
     "login": "Xerrion",
     "id": 1850632,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1850632?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1850632?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Xerrion",
     "htmlUrl": "https://github.com/Xerrion",
@@ -61,10 +61,7 @@
       "build": "./node_modules/.bin/gulp build",
       "postinstall": "./node_modules/.bin/gulp setup"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/dustinblackman/Championify.git"
-    },
+    "repository": "https://github.com/dustinblackman/Championify",
     "engines": {
       "iojs": "1.6.3"
     },
@@ -120,7 +117,8 @@
       "run-sequence": "^1.1.0",
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -167,6 +165,7 @@
   "svnUrl": "https://github.com/Xerrion/Championify123",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:43:00.156Z",
-  "packageLastFetchedAt": "2017-05-05T17:44:35.624Z"
+  "lastFetchedAt": "2017-10-23T22:26:25.518Z",
+  "packageLastFetchedAt": "2017-05-05T17:44:35.624Z",
+  "archived": false
 }

@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 7,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "kyoku",
     "version": "0.0.6",
@@ -63,10 +63,7 @@
     "dependencies": {
       "user-home": "~2.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/cheeaun/kyoku"
-    },
+    "repository": "https://github.com/cheeaun/kyoku",
     "devDependencies": {
       "electron-packager": "~7.0.1",
       "electron-prebuilt": "~1.0.1"
@@ -75,7 +72,8 @@
       "start": "electron .",
       "package": "electron-packager . Kyoku --overwrite --prune --platform=darwin --arch=x64 --version=0.34.0 --ignore=.DS_Store --ignore=icons --ignore=Kyoku.app --ignore=node_modules/.bin --app-version=$npm_package_version --icon=icons/music-note.icns",
       "zip": "cd Kyoku-darwin-x64 && zip -ryXq Kyoku.app.zip Kyoku.app"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/cheeaun/kyoku",
@@ -122,6 +120,6 @@
   },
   "filename": "cheeaun___kyoku.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:22:58.775Z",
+  "lastFetchedAt": "2017-10-23T23:09:03.106Z",
   "packageLastFetchedAt": "2017-05-05T15:17:33.648Z"
 }

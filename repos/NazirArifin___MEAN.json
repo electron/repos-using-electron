@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mean",
     "version": "1.0.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "test": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/NazirArifin/MEAN.git"
-    },
+    "repository": "https://github.com/NazirArifin/MEAN",
     "keywords": [
       "MEAN",
       "MySQL",
@@ -93,9 +90,6 @@
     ],
     "author": "M. Nazir Arifin",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/NazirArifin/MEAN/issues"
-    },
     "homepage": "https://github.com/NazirArifin/MEAN#readme",
     "devDependencies": {
       "babel-preset-babili": "0.0.10",
@@ -112,7 +106,12 @@
       "gulp-util": "^3.0.7",
       "gulp-watch": "^4.3.5"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/NazirArifin/MEAN/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -139,6 +138,6 @@
   },
   "filename": "NazirArifin___MEAN.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:31.907Z",
+  "lastFetchedAt": "2017-10-23T23:07:52.585Z",
   "packageLastFetchedAt": "2017-05-04T22:08:28.039Z"
 }

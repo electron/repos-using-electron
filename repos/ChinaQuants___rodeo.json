@@ -178,7 +178,7 @@
   },
   "networkCount": 350,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "rodeo",
     "productName": "Rodeo",
@@ -188,10 +188,7 @@
     "description": "An IDE for data science.",
     "author": "The Yhat Team",
     "main": "src/desktop/main.js",
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/yhat/rodeo.git"
-    },
+    "repository": "https://github.com/yhat/rodeo",
     "bin": {
       "rodeo-web": "./bin/rodeo-web"
     },
@@ -243,7 +240,8 @@
       "test": "echo it works",
       "build": "electron-compile --target ./cache src/ static/ --verbose && node scripts/build.js"
     },
-    "license": "AGPL-3.0"
+    "license": "AGPL-3.0",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -290,6 +288,6 @@
   "svnUrl": "https://github.com/ChinaQuants/rodeo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:33:36.792Z",
+  "lastFetchedAt": "2017-10-23T23:08:57.818Z",
   "packageLastFetchedAt": "2017-05-05T17:34:32.704Z"
 }

@@ -86,8 +86,8 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
-  "lastFetchedAt": "2017-05-04T21:14:30.785Z",
+  "status": 404,
+  "lastFetchedAt": "2017-10-23T23:08:00.588Z",
   "packageJSON": {
     "name": "electron-protocols",
     "version": "1.0.4",
@@ -97,19 +97,13 @@
       "start": "electron",
       "test": "mocha test/*.spec.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron-utils/electron-protocols.git"
-    },
+    "repository": "https://github.com/electron-utils/electron-protocols",
     "keywords": [
       "Electron",
       "Protocol"
     ],
     "author": "jwu",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron-utils/electron-protocols/issues"
-    },
     "homepage": "https://github.com/electron-utils/electron-protocols",
     "dependencies": {
       "electron-platform": "^1.2.0"
@@ -118,6 +112,11 @@
       "electron": "^1.6.2",
       "mocha": "^3.2.0",
       "spectron": "^3.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron-utils/electron-protocols/issues"
+      }
     }
   },
   "packageStatus": 200,

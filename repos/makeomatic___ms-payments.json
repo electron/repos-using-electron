@@ -5,7 +5,7 @@
   "owner": {
     "login": "makeomatic",
     "id": 15013628,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15013628?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15013628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/makeomatic",
     "htmlUrl": "https://github.com/makeomatic",
@@ -20,10 +20,10 @@
   "description": null,
   "fork": false,
   "createdAt": "2015-11-19T15:49:08.000Z",
-  "updatedAt": "2017-04-24T21:52:09.000Z",
-  "pushedAt": "2017-05-04T02:32:47.000Z",
+  "updatedAt": "2017-07-07T18:34:55.000Z",
+  "pushedAt": "2017-10-23T16:44:46.000Z",
   "homepage": null,
-  "size": 515,
+  "size": 602,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "JavaScript",
@@ -31,9 +31,9 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
-  "openIssuesCount": 11,
-  "openIssues": 11,
+  "forksCount": 0,
+  "openIssuesCount": 3,
+  "openIssues": 3,
   "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
@@ -51,7 +51,7 @@
   "organization": {
     "login": "makeomatic",
     "id": 15013628,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15013628?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15013628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/makeomatic",
     "htmlUrl": "https://github.com/makeomatic",
@@ -62,7 +62,7 @@
     "receivedEventsUrl": "https://api.github.com/users/makeomatic/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 0,
   "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
@@ -80,15 +80,9 @@
       "docker-release": "mdep docker release --node 7.9.0",
       "release": "yarn && npm run semantic-release; npm run docker-release"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/makeomatic/ms-payments.git"
-    },
+    "repository": "https://github.com/makeomatic/ms-payments",
     "author": "Dmitry Gorbunov <me@tewi.tk>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/makeomatic/ms-payments/issues"
-    },
     "homepage": "https://github.com/makeomatic/ms-payments#readme",
     "dependencies": {
       "bluebird": "^3.4.6",
@@ -152,6 +146,11 @@
     },
     "engine": {
       "node": ">= 7.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/makeomatic/ms-payments/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -199,6 +198,7 @@
   },
   "filename": "makeomatic___ms-payments.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:22:44.427Z",
-  "packageLastFetchedAt": "2017-05-05T17:13:20.953Z"
+  "lastFetchedAt": "2017-10-23T21:44:41.142Z",
+  "packageLastFetchedAt": "2017-05-05T17:13:20.953Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "highmax",
     "id": 4185882,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4185882?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4185882?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/highmax",
     "htmlUrl": "https://github.com/highmax",
@@ -75,10 +75,7 @@
       "watch": "watchify app/app.js app/**/*.js -t babelify -o public/js/bundle.js --debug --verbose"
     },
     "author": "alejo",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/highmax/xk-power-music-player"
-    },
+    "repository": "https://github.com/highmax/xk-power-music-player",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.9.1",
@@ -95,7 +92,8 @@
       "react-sound": "^0.4.0",
       "soundmanager2": "^2.97.20150601-a",
       "watchify": "^3.7.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +120,7 @@
   },
   "filename": "highmax___xk-power-music-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:06:54.021Z",
-  "packageLastFetchedAt": "2017-05-04T21:55:06.820Z"
+  "lastFetchedAt": "2017-10-23T22:55:17.404Z",
+  "packageLastFetchedAt": "2017-05-04T21:55:06.820Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "krasimir",
     "id": 528677,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/528677?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/528677?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/krasimir",
     "htmlUrl": "https://github.com/krasimir",
@@ -20,21 +20,21 @@
   "description": "Chrome extension that acts as terminal and task runner",
   "fork": false,
   "createdAt": "2014-05-16T13:23:49.000Z",
-  "updatedAt": "2017-05-01T23:05:33.000Z",
+  "updatedAt": "2017-09-28T15:50:52.000Z",
   "pushedAt": "2016-05-30T04:12:21.000Z",
   "homepage": "",
   "size": 4337,
-  "stargazersCount": 268,
-  "watchersCount": 268,
+  "stargazersCount": 280,
+  "watchersCount": 280,
   "language": "CSS",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 15,
+  "forksCount": 14,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 268,
+  "watchers": 280,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 15,
-  "subscribersCount": 16,
+  "networkCount": 14,
+  "subscribersCount": 17,
   "status": 200,
   "packageJSON": {
     "name": "yez",
@@ -84,17 +84,15 @@
       "task",
       "runner"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/krasimir/yez.git"
-    },
+    "repository": "https://github.com/krasimir/yez",
     "bin": {
       "yez": "./node/index.js"
     },
     "scripts": {
       "test": "mocha ./node/tests --reporter spec",
       "start": "node ./node/index.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -141,6 +139,7 @@
   "svnUrl": "https://github.com/krasimir/yez",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:44:40.869Z",
-  "packageLastFetchedAt": "2017-05-05T14:40:41.905Z"
+  "lastFetchedAt": "2017-10-23T23:42:40.656Z",
+  "packageLastFetchedAt": "2017-05-05T14:40:41.905Z",
+  "archived": false
 }

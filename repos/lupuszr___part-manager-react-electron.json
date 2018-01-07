@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "parts-db-manager",
     "productName": "PartsDbManager",
@@ -199,7 +199,8 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/lupuszr/part-manager-react-electron",
@@ -246,6 +247,6 @@
   },
   "filename": "lupuszr___part-manager-react-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:47.129Z",
+  "lastFetchedAt": "2017-10-24T00:10:00.909Z",
   "packageLastFetchedAt": "2017-05-05T17:17:19.435Z"
 }

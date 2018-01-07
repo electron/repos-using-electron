@@ -5,7 +5,7 @@
   "owner": {
     "login": "ajfisher",
     "id": 119203,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/119203?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/119203?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ajfisher",
     "htmlUrl": "https://github.com/ajfisher",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "makenai",
       "id": 11425,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11425?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11425?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/makenai",
       "htmlUrl": "https://github.com/makenai",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/makenai/robotnik/downloads",
     "deploymentsUrl": "https://api.github.com/repos/makenai/robotnik/deployments",
     "createdAt": "2014-02-08T04:34:51.000Z",
-    "updatedAt": "2017-04-26T16:22:49.000Z",
+    "updatedAt": "2017-09-22T18:13:46.000Z",
     "pushedAt": "2017-02-20T09:28:08.000Z",
     "gitUrl": "git://github.com/makenai/robotnik.git",
     "sshUrl": "git@github.com:makenai/robotnik.git",
@@ -87,8 +87,8 @@
     "svnUrl": "https://github.com/makenai/robotnik",
     "homepage": null,
     "size": 27898,
-    "stargazersCount": 47,
-    "watchersCount": 47,
+    "stargazersCount": 50,
+    "watchersCount": 50,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -97,9 +97,10 @@
     "hasPages": true,
     "forksCount": 11,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 12,
     "openIssues": 12,
-    "watchers": 47,
+    "watchers": 50,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "makenai",
       "id": 11425,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/11425?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/11425?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/makenai",
       "htmlUrl": "https://github.com/makenai",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/makenai/robotnik/downloads",
     "deploymentsUrl": "https://api.github.com/repos/makenai/robotnik/deployments",
     "createdAt": "2014-02-08T04:34:51.000Z",
-    "updatedAt": "2017-04-26T16:22:49.000Z",
+    "updatedAt": "2017-09-22T18:13:46.000Z",
     "pushedAt": "2017-02-20T09:28:08.000Z",
     "gitUrl": "git://github.com/makenai/robotnik.git",
     "sshUrl": "git@github.com:makenai/robotnik.git",
@@ -147,8 +148,8 @@
     "svnUrl": "https://github.com/makenai/robotnik",
     "homepage": null,
     "size": 27898,
-    "stargazersCount": 47,
-    "watchersCount": 47,
+    "stargazersCount": 50,
+    "watchersCount": 50,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
@@ -157,9 +158,10 @@
     "hasPages": true,
     "forksCount": 11,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 12,
     "openIssues": 12,
-    "watchers": 47,
+    "watchers": 50,
     "defaultBranch": "master"
   },
   "networkCount": 11,
@@ -178,10 +180,7 @@
       "webserver": "node webserver.js",
       "dev": "node_modules/.bin/parallelshell \"node_modules/.bin/gulp watch\" \"node_modules/.bin/nodemon webserver.js\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/makenai/robotnik.git"
-    },
+    "repository": "https://github.com/makenai/robotnik",
     "author": {
       "name": "Pawel Szymczykowski",
       "email": "makenai@gmail.com"
@@ -204,9 +203,6 @@
       }
     ],
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/makenai/robotnik/issues"
-    },
     "homepage": "https://github.com/makenai/robotnik",
     "dependencies": {
       "angular": "^1.3.14",
@@ -243,6 +239,11 @@
       "partialify": "^3.1.3",
       "robotnik-controls": "0.0.1",
       "vinyl-source-stream": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/makenai/robotnik/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -291,6 +292,7 @@
   "svnUrl": "https://github.com/ajfisher/robotnik",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:36:31.627Z",
-  "packageLastFetchedAt": "2017-05-05T01:24:27.339Z"
+  "lastFetchedAt": "2017-10-23T22:27:13.109Z",
+  "packageLastFetchedAt": "2017-05-05T01:24:27.339Z",
+  "archived": false
 }

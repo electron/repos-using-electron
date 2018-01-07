@@ -5,7 +5,7 @@
   "owner": {
     "login": "MaraniMatias",
     "id": 7859628,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7859628?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7859628?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/MaraniMatias",
     "htmlUrl": "https://github.com/MaraniMatias",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/MaraniMatias/cnc-arduino-nodejs-electronjs/downloads",
   "deploymentsUrl": "https://api.github.com/repos/MaraniMatias/cnc-arduino-nodejs-electronjs/deployments",
   "createdAt": "2015-11-16T01:12:12.000Z",
-  "updatedAt": "2017-01-06T05:38:54.000Z",
-  "pushedAt": "2017-04-29T21:14:04.000Z",
+  "updatedAt": "2017-08-18T19:43:29.000Z",
+  "pushedAt": "2017-09-02T16:11:30.000Z",
   "gitUrl": "git://github.com/MaraniMatias/cnc-arduino-nodejs-electronjs.git",
   "sshUrl": "git@github.com:MaraniMatias/cnc-arduino-nodejs-electronjs.git",
   "cloneUrl": "https://github.com/MaraniMatias/cnc-arduino-nodejs-electronjs.git",
   "svnUrl": "https://github.com/MaraniMatias/cnc-arduino-nodejs-electronjs",
   "homepage": "",
-  "size": 30530,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 30532,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 3,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 1,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "router-cnc-nodejs-arduino",
@@ -109,10 +109,7 @@
     },
     "private": false,
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/MaraniMatias/router-cnc-nodejs-arduino"
-    },
+    "repository": "https://github.com/MaraniMatias/router-cnc-nodejs-arduino",
     "keywords": [
       "cnc",
       "arduino",
@@ -122,11 +119,6 @@
       "serialport",
       "gcode"
     ],
-    "directories": {
-      "buildResources": "build",
-      "output": "./dist",
-      "app": "./app"
-    },
     "build": {
       "asar": true,
       "compression": "maximum",
@@ -145,6 +137,13 @@
         "executable": "CNC-ino",
         "target": "deb",
         "compression": "xz"
+      }
+    },
+    "other": {
+      "directories": {
+        "buildResources": "build",
+        "output": "./dist",
+        "app": "./app"
       }
     }
   },
@@ -173,6 +172,7 @@
   },
   "filename": "MaraniMatias___cnc-arduino-nodejs-electronjs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:46.295Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:16.971Z"
+  "lastFetchedAt": "2017-10-24T00:15:43.231Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:16.971Z",
+  "archived": false
 }

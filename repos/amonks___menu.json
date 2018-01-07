@@ -5,7 +5,7 @@
   "owner": {
     "login": "amonks",
     "id": 50010,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/50010?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/50010?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/amonks",
     "htmlUrl": "https://github.com/amonks",
@@ -62,7 +62,8 @@
     "scripts": {
       "build": "electron-packager . Example --platform=darwin --arch=x64 --version=0.26.0 --ignore=node_modules/electron --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -109,6 +110,7 @@
   "svnUrl": "https://github.com/amonks/menu",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:57:52.801Z",
-  "packageLastFetchedAt": "2017-05-04T22:18:27.569Z"
+  "lastFetchedAt": "2017-10-23T22:33:07.993Z",
+  "packageLastFetchedAt": "2017-05-04T22:18:27.569Z",
+  "archived": false
 }

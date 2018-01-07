@@ -5,7 +5,7 @@
   "owner": {
     "login": "aleksey-leontiev",
     "id": 8058799,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8058799?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8058799?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/aleksey-leontiev",
     "htmlUrl": "https://github.com/aleksey-leontiev",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aleksey-leontiev/digital-brain.git"
-    },
+    "repository": "https://github.com/aleksey-leontiev/digital-brain",
     "keywords": [
       "brain",
       "mindmap",
@@ -65,9 +62,6 @@
     ],
     "author": "Aleksey Leontiev",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/aleksey-leontiev/digital-brain/issues"
-    },
     "homepage": "https://github.com/aleksey-leontiev/digital-brain#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1",
@@ -80,6 +74,11 @@
       "pouchdb": "^5.0.0",
       "shortid": "^2.2.4",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/aleksey-leontiev/digital-brain/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   "svnUrl": "https://github.com/aleksey-leontiev/digital-brain",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:20:17.333Z",
-  "packageLastFetchedAt": "2017-05-05T15:25:57.826Z"
+  "lastFetchedAt": "2017-10-24T00:04:30.204Z",
+  "packageLastFetchedAt": "2017-05-05T15:25:57.826Z",
+  "archived": false
 }

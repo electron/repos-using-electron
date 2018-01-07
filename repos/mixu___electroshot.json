@@ -5,7 +5,7 @@
   "owner": {
     "login": "mixu",
     "id": 398530,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/398530?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/398530?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mixu",
     "htmlUrl": "https://github.com/mixu",
@@ -20,21 +20,21 @@
   "description": "Capture website screenshots with optional device and network emulation as jpg, png or pdf (with web fonts!) using Electron / Chrome.",
   "fork": false,
   "createdAt": "2015-10-17T20:48:06.000Z",
-  "updatedAt": "2017-05-03T12:35:05.000Z",
-  "pushedAt": "2017-04-20T09:38:37.000Z",
+  "updatedAt": "2017-10-20T16:48:12.000Z",
+  "pushedAt": "2017-07-20T07:33:01.000Z",
   "homepage": null,
-  "size": 67,
-  "stargazersCount": 240,
-  "watchersCount": 240,
+  "size": 76,
+  "stargazersCount": 495,
+  "watchersCount": 495,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 15,
+  "forksCount": 24,
   "openIssuesCount": 5,
   "openIssues": 5,
-  "watchers": 240,
+  "watchers": 495,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 15,
-  "subscribersCount": 13,
+  "networkCount": 24,
+  "subscribersCount": 16,
   "status": 200,
   "packageJSON": {
     "name": "electroshot",
@@ -56,10 +56,7 @@
     "scripts": {
       "test": "mocha -R spec --bail ./test/*.test.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:mixu/electroshot.git"
-    },
+    "repository": "https://github.com/mixu/electroshot",
     "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
     "license": "BSD-3-Clause",
     "dependencies": {
@@ -80,7 +77,8 @@
     },
     "devDependencies": {
       "mocha": "~3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,7 @@
   "svnUrl": "https://github.com/mixu/electroshot",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:37:57.771Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:55.316Z"
+  "lastFetchedAt": "2017-10-23T22:15:09.035Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:55.316Z",
+  "archived": false
 }

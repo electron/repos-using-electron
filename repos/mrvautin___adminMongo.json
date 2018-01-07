@@ -5,7 +5,7 @@
   "owner": {
     "login": "mrvautin",
     "id": 299398,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/299398?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/299398?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mrvautin",
     "htmlUrl": "https://github.com/mrvautin",
@@ -20,21 +20,21 @@
   "description": "adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.",
   "fork": false,
   "createdAt": "2016-01-16T07:09:15.000Z",
-  "updatedAt": "2017-05-04T16:33:51.000Z",
-  "pushedAt": "2017-05-02T05:07:52.000Z",
-  "homepage": "http://adminmongo.com",
-  "size": 2740,
-  "stargazersCount": 819,
-  "watchersCount": 819,
+  "updatedAt": "2017-10-23T14:11:31.000Z",
+  "pushedAt": "2017-10-02T18:57:29.000Z",
+  "homepage": "https://adminmongo.markmoffat.com",
+  "size": 2751,
+  "stargazersCount": 1049,
+  "watchersCount": 1049,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 218,
-  "openIssuesCount": 11,
-  "openIssues": 11,
-  "watchers": 819,
+  "forksCount": 269,
+  "openIssuesCount": 15,
+  "openIssues": 15,
+  "watchers": 1049,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -48,8 +48,8 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 218,
-  "subscribersCount": 46,
+  "networkCount": 269,
+  "subscribersCount": 55,
   "status": 200,
   "packageJSON": {
     "name": "admin-mongo",
@@ -57,14 +57,8 @@
     "description": "A Web user interface to administer MongoDB databases built using Express",
     "author": "Mark Moffat <mrvautin@gmail.com>",
     "private": false,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mrvautin/adminmongo"
-    },
+    "repository": "https://github.com/mrvautin/adminmongo",
     "main": "electron.js",
-    "bugs": {
-      "url": "https://github.com/mrvautin/adminmongo/issues"
-    },
     "scripts": {
       "start": "node app.js",
       "test": "find ./tests -name '*.js' | xargs mocha -R spec -t 5000",
@@ -139,6 +133,11 @@
       "mocha": "^2.5.3",
       "mocha-jsdom": "^1.1.0",
       "supertest": "^1.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/mrvautin/adminmongo/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -186,6 +185,7 @@
   "svnUrl": "https://github.com/mrvautin/adminMongo",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:15:28.552Z",
-  "packageLastFetchedAt": "2017-05-05T15:01:49.005Z"
+  "lastFetchedAt": "2017-10-23T22:09:07.192Z",
+  "packageLastFetchedAt": "2017-05-05T15:01:49.005Z",
+  "archived": false
 }

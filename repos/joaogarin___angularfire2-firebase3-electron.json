@@ -5,7 +5,7 @@
   "owner": {
     "login": "joaogarin",
     "id": 2866604,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2866604?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2866604?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joaogarin",
     "htmlUrl": "https://github.com/joaogarin",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/joaogarin/angularfire2-firebase3-electron/downloads",
   "deploymentsUrl": "https://api.github.com/repos/joaogarin/angularfire2-firebase3-electron/deployments",
   "createdAt": "2016-06-23T07:00:35.000Z",
-  "updatedAt": "2017-02-05T14:19:42.000Z",
+  "updatedAt": "2017-08-28T04:12:28.000Z",
   "pushedAt": "2017-01-22T21:18:44.000Z",
   "gitUrl": "git://github.com/joaogarin/angularfire2-firebase3-electron.git",
   "sshUrl": "git@github.com:joaogarin/angularfire2-firebase3-electron.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/joaogarin/angularfire2-firebase3-electron",
   "homepage": "",
   "size": 231,
-  "stargazersCount": 8,
-  "watchersCount": 8,
+  "stargazersCount": 10,
+  "watchersCount": 10,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "mirrorUrl": null,
   "openIssuesCount": 3,
   "openIssues": 3,
-  "watchers": 8,
+  "watchers": 10,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,8 +62,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 3,
-  "subscribersCount": 4,
+  "networkCount": 4,
+  "subscribersCount": 5,
   "status": 200,
   "packageJSON": {
     "name": "firebase3-electron",
@@ -83,15 +83,9 @@
       "webpack-test": "webpack --config webpack.test.js --progress --profile --colors --display-error-details --display-cached",
       "test": "karma start"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joaogarin/firebase3-electron.git"
-    },
+    "repository": "https://github.com/joaogarin/firebase3-electron",
     "author": "joaogarin <github@joaogarin.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/joaogarin/firebase3-electron/issues"
-    },
     "homepage": "",
     "dependencies": {
       "@angular/common": "2.0.0",
@@ -150,6 +144,11 @@
     "engines": {
       "node": ">= 4.2.1 <= 5",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/joaogarin/firebase3-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -177,6 +176,7 @@
   },
   "filename": "joaogarin___angularfire2-firebase3-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:55:05.935Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:32.995Z"
+  "lastFetchedAt": "2017-10-24T00:04:31.980Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:32.995Z",
+  "archived": false
 }

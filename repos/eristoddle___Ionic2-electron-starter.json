@@ -5,7 +5,7 @@
   "owner": {
     "login": "eristoddle",
     "id": 1260650,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1260650?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1260650?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eristoddle",
     "htmlUrl": "https://github.com/eristoddle",
@@ -20,21 +20,21 @@
   "description": "Starter project to build cross platform desktop and mobile apps with Ionic 2 and Electron",
   "fork": false,
   "createdAt": "2016-07-11T04:59:32.000Z",
-  "updatedAt": "2017-04-26T06:35:16.000Z",
-  "pushedAt": "2017-04-17T02:10:31.000Z",
+  "updatedAt": "2017-09-14T20:22:13.000Z",
+  "pushedAt": "2017-07-06T01:14:45.000Z",
   "homepage": null,
-  "size": 1339,
-  "stargazersCount": 28,
-  "watchersCount": 28,
+  "size": 1340,
+  "stargazersCount": 36,
+  "watchersCount": 36,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 15,
-  "openIssuesCount": 3,
-  "openIssues": 3,
-  "watchers": 28,
+  "forksCount": 21,
+  "openIssuesCount": 2,
+  "openIssues": 2,
+  "watchers": 36,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,7 +42,7 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 15,
+  "networkCount": 21,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -105,7 +105,8 @@
       "pack:win": "npm run clear:win && electron-packager ./www/ --platform=win32 --arch=ia32,x64 --asar --out=platforms ",
       "pack:nix": "npm run clear:nix && electron-packager ./www/ --platform=linux --arch=ia32,x64 --asar --out=platforms "
     },
-    "main": "electron.js"
+    "main": "electron.js",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +154,7 @@
   "svnUrl": "https://github.com/eristoddle/Ionic2-electron-starter",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:29:44.442Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:58.140Z"
+  "lastFetchedAt": "2017-10-23T22:07:47.767Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:58.140Z",
+  "archived": false
 }

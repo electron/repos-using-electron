@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "wtb-electron",
     "version": "1.0.0",
@@ -83,12 +83,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "..."
-    },
     "homepage": "..",
     "devDependencies": {
       "electron-prebuilt": "^0.37.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "..."
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +118,6 @@
   },
   "filename": "sumitarora___wtb-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:08:55.740Z",
+  "lastFetchedAt": "2017-10-23T22:57:20.583Z",
   "packageLastFetchedAt": "2017-05-04T22:58:50.014Z"
 }

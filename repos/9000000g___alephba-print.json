@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "alephba_print",
     "title": "Alephba Print",
@@ -98,12 +98,11 @@
       "nai-sql": "git+https://github.com/nainemom/nai-sql.git",
       "socket.io": "^1.4.6"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/9000000g/alephba-print.git"
-    },
-    "bugs": {
-      "url": "https://github.com/9000000g/alephba-print/issues"
+    "repository": "https://github.com/9000000g/alephba-print",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/9000000g/alephba-print/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,6 @@
   },
   "filename": "9000000g___alephba-print.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:29:05.388Z",
+  "lastFetchedAt": "2017-10-23T23:06:26.573Z",
   "packageLastFetchedAt": "2017-05-04T22:32:56.888Z"
 }

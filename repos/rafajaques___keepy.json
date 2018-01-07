@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "keepy",
     "productName": "Keepy",
@@ -66,17 +66,16 @@
       "Google Keep",
       "Tray app"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/rafajaques/keepy"
-    },
-    "bugs": {
-      "url": "https://github.com/rafajaques/keepy/issues"
-    },
+    "repository": "https://github.com/rafajaques/keepy",
     "devDependencies": {
       "electron-prebuilt": "^1.0.2"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rafajaques/keepy/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +122,6 @@
   "svnUrl": "https://github.com/rafajaques/keepy",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:33:43.331Z",
+  "lastFetchedAt": "2017-10-23T23:06:53.101Z",
   "packageLastFetchedAt": "2017-05-04T22:37:14.301Z"
 }

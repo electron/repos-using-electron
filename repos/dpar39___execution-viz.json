@@ -5,7 +5,7 @@
   "owner": {
     "login": "dpar39",
     "id": 8306298,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8306298?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8306298?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dpar39",
     "htmlUrl": "https://github.com/dpar39",
@@ -73,10 +73,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -91,7 +88,8 @@
     "dependencies": {
       "d3": "^4.1.1",
       "jquery": "^3.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -118,6 +116,7 @@
   },
   "filename": "dpar39___execution-viz.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:29:36.126Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:53.218Z"
+  "lastFetchedAt": "2017-10-23T23:43:49.417Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:53.218Z",
+  "archived": false
 }

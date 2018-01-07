@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "example-menubar-app",
     "version": "1.0.0",
@@ -81,7 +81,8 @@
     "scripts": {
       "build": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -108,7 +109,7 @@
   },
   "filename": "Gregsen___menubar.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:12:09.358Z",
+  "lastFetchedAt": "2017-10-23T23:00:23.590Z",
   "packageLastFetchedAt": "2017-05-05T14:35:32.482Z",
   "contributors": [
     "Gregsen"

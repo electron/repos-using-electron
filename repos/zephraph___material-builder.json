@@ -5,7 +5,7 @@
   "owner": {
     "login": "zephraph",
     "id": 3087225,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3087225?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3087225?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zephraph",
     "htmlUrl": "https://github.com/zephraph",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/zephraph/material-builder/deployments",
   "createdAt": "2015-10-01T03:20:08.000Z",
   "updatedAt": "2015-10-01T04:45:36.000Z",
-  "pushedAt": "2015-10-01T04:45:35.000Z",
+  "pushedAt": "2017-06-18T13:12:09.000Z",
   "gitUrl": "git://github.com/zephraph/material-builder.git",
   "sshUrl": "git@github.com:zephraph/material-builder.git",
   "cloneUrl": "https://github.com/zephraph/material-builder.git",
   "svnUrl": "https://github.com/zephraph/material-builder",
   "homepage": null,
-  "size": 144,
+  "size": 8,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -80,15 +80,9 @@
       "start": "./node_modules/.bin/electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zephraph/material-builder.git"
-    },
+    "repository": "https://github.com/zephraph/material-builder",
     "author": "Zephraph (zephraph@gmail.com)",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/zephraph/material-builder/issues"
-    },
     "homepage": "https://github.com/zephraph/material-builder#readme",
     "dependencies": {
       "electron-prebuilt": "^0.33.3",
@@ -106,6 +100,11 @@
       "vinyl-buffer": "^1.0.0",
       "vinyl-source-stream": "^1.1.0",
       "vueify": "^1.1.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zephraph/material-builder/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "zephraph___material-builder.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:46:25.119Z",
-  "packageLastFetchedAt": "2017-05-05T17:31:36.262Z"
+  "lastFetchedAt": "2017-10-23T22:26:58.993Z",
+  "packageLastFetchedAt": "2017-05-05T17:31:36.262Z",
+  "archived": false
 }

@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 9,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "noplan",
     "version": "0.0.1",
@@ -88,10 +88,7 @@
       "test": "node app.js",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Project-Neon/NoPlan.git"
-    },
+    "repository": "https://github.com/Project-Neon/NoPlan",
     "keywords": [
       "app",
       "vsss",
@@ -101,10 +98,12 @@
     ],
     "author": "Project Neon",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Project-Neon/NoPlan/issues"
-    },
-    "homepage": "https://github.com/Project-Neon/NoPlan#readme"
+    "homepage": "https://github.com/Project-Neon/NoPlan#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Project-Neon/NoPlan/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -131,6 +130,6 @@
   },
   "filename": "UFABC-NoBox___NoPlan.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:05:54.201Z",
+  "lastFetchedAt": "2017-10-23T22:57:37.845Z",
   "packageLastFetchedAt": "2017-05-04T22:16:04.191Z"
 }

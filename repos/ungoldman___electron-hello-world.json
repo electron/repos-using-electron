@@ -5,7 +5,7 @@
   "owner": {
     "login": "ungoldman",
     "id": 427322,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/427322?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/427322?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ungoldman",
     "htmlUrl": "https://github.com/ungoldman",
@@ -31,7 +31,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 7,
+  "forksCount": 6,
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 24,
@@ -48,7 +48,7 @@
     "url": null,
     "featured": false
   },
-  "networkCount": 7,
+  "networkCount": 6,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
@@ -56,9 +56,6 @@
     "description": "Absolute bare minimum Hello World Electron app",
     "version": "1.0.0",
     "author": "Nate Goldman <nate@ngoldman.me>",
-    "bugs": {
-      "url": "https://github.com/ngoldman/electron-hello-world/issues"
-    },
     "devDependencies": {
       "electron-prebuilt": "^0.34.0"
     },
@@ -74,13 +71,15 @@
     "license": "CC-0",
     "main": "index.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ngoldman/electron-hello-world.git"
-    },
+    "repository": "https://github.com/ngoldman/electron-hello-world",
     "scripts": {
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ngoldman/electron-hello-world/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -128,6 +127,7 @@
   },
   "filename": "ungoldman___electron-hello-world.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:44:28.718Z",
-  "packageLastFetchedAt": "2017-05-04T21:59:00.657Z"
+  "lastFetchedAt": "2017-10-23T23:12:44.609Z",
+  "packageLastFetchedAt": "2017-05-04T21:59:00.657Z",
+  "archived": false
 }

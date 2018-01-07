@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "onDemanager",
     "version": "0.0.1",
@@ -151,10 +151,7 @@
       "webpack": "^1.12.11",
       "webpack-dev-server": "^1.14.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Kielan/onDemanager"
-    },
+    "repository": "https://github.com/Kielan/onDemanager",
     "scripts": {
       "start": "NODE_ENV=development node webpack/server.dev.js",
       "build": "NODE_ENV=production webpack --config webpack/webpack.prod.babel.js --progress --colors -p",
@@ -177,7 +174,8 @@
     },
     "pre-commit": "lint:staged",
     "author": "Kielan",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -204,6 +202,6 @@
   },
   "filename": "Kielan___onDemanager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:03.039Z",
+  "lastFetchedAt": "2017-10-23T22:59:56.095Z",
   "packageLastFetchedAt": "2017-05-04T22:30:24.874Z"
 }

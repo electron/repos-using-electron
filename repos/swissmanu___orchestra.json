@@ -5,7 +5,7 @@
   "owner": {
     "login": "swissmanu",
     "id": 170832,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/170832?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/170832?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/swissmanu",
     "htmlUrl": "https://github.com/swissmanu",
@@ -20,12 +20,12 @@
   "description": "A desktop application to control your Logitech Harmony Hubs.",
   "fork": false,
   "createdAt": "2014-12-31T13:07:43.000Z",
-  "updatedAt": "2017-04-11T00:07:08.000Z",
+  "updatedAt": "2017-09-10T18:59:37.000Z",
   "pushedAt": "2016-11-26T11:49:40.000Z",
   "homepage": "https://github.com/swissmanu/orchestra-client",
   "size": 2462,
-  "stargazersCount": 16,
-  "watchersCount": 16,
+  "stargazersCount": 17,
+  "watchersCount": 17,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 16,
+  "watchers": 17,
   "defaultBranch": "develop",
   "permissions": {
     "admin": false,
@@ -58,13 +58,7 @@
     "main": "./dist/electron.js",
     "author": "Manuel Alabor <manuel@alabor.me>",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/swissmanu/orchestra.git"
-    },
-    "bugs": {
-      "url": "https://github.com/swissmanu/orchestra/issues"
-    },
+    "repository": "https://github.com/swissmanu/orchestra",
     "scripts": {
       "start": "electron src/electron",
       "test": "standard",
@@ -135,8 +129,13 @@
     "build": {
       "appId": "me.alabor.orchestra"
     },
-    "directories": {
-      "app": "tmp/"
+    "other": {
+      "directories": {
+        "app": "tmp/"
+      },
+      "bugs": {
+        "url": "https://github.com/swissmanu/orchestra/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -184,6 +183,7 @@
   },
   "filename": "swissmanu___orchestra.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:06:25.976Z",
-  "packageLastFetchedAt": "2017-05-05T15:04:44.501Z"
+  "lastFetchedAt": "2017-10-23T22:10:43.530Z",
+  "packageLastFetchedAt": "2017-05-05T15:04:44.501Z",
+  "archived": false
 }

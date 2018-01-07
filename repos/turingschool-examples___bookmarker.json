@@ -6,7 +6,7 @@
   "owner": {
     "login": "turingschool-examples",
     "id": 8518346,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8518346?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/turingschool-examples",
     "htmlUrl": "https://github.com/turingschool-examples",
@@ -51,7 +51,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 5,
+  "forksCount": 6,
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
@@ -66,7 +66,7 @@
   "organization": {
     "login": "turingschool-examples",
     "id": 8518346,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8518346?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8518346?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/turingschool-examples",
     "htmlUrl": "https://github.com/turingschool-examples",
@@ -77,8 +77,8 @@
     "receivedEventsUrl": "https://api.github.com/users/turingschool-examples/received_events",
     "type": "Organization"
   },
-  "networkCount": 5,
-  "subscribersCount": 11,
+  "networkCount": 6,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "fem-bookmarker",
@@ -89,16 +89,10 @@
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/stevekinney/fem-bookmarker.git"
-    },
+    "repository": "https://github.com/stevekinney/fem-bookmarker",
     "keywords": [],
     "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/stevekinney/fem-bookmarker/issues"
-    },
     "homepage": "https://github.com/stevekinney/fem-bookmarker#readme",
     "dependencies": {
       "electron": "^1.4.6"
@@ -107,6 +101,11 @@
       "devtron": "^1.4.0",
       "eslint": "^3.10.0",
       "spectron": "^3.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stevekinney/fem-bookmarker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T06:02:17.651Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:37.642Z"
+  "lastFetchedAt": "2017-10-23T22:27:24.986Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:37.642Z",
+  "archived": false
 }

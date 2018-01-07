@@ -5,7 +5,7 @@
   "owner": {
     "login": "bbuecherl",
     "id": 5740025,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5740025?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5740025?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bbuecherl",
     "htmlUrl": "https://github.com/bbuecherl",
@@ -79,10 +79,6 @@
     "browser": {
       "./utils/fs-wrap/node.js": "./utils/fs-wrap/browser.js"
     },
-    "directories": {
-      "example": "examples",
-      "test": "test"
-    },
     "dependencies": {
       "acorn": "^3.1.0",
       "jstransformer": "0.0.4",
@@ -97,15 +93,18 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bbuecherl/Maelstrom.git"
-    },
+    "repository": "https://github.com/bbuecherl/Maelstrom",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bbuecherl/Maelstrom/issues"
-    },
-    "homepage": "https://github.com/bbuecherl/Maelstrom#readme"
+    "homepage": "https://github.com/bbuecherl/Maelstrom#readme",
+    "other": {
+      "directories": {
+        "example": "examples",
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/bbuecherl/Maelstrom/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -132,6 +131,7 @@
   },
   "filename": "bbuecherl___Maelstrom.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:52.148Z",
-  "packageLastFetchedAt": "2017-05-05T17:07:29.940Z"
+  "lastFetchedAt": "2017-10-24T00:13:41.706Z",
+  "packageLastFetchedAt": "2017-05-05T17:07:29.940Z",
+  "archived": false
 }

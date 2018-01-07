@@ -5,7 +5,7 @@
   "owner": {
     "login": "perlun",
     "id": 630613,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/630613?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/630613?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/perlun",
     "htmlUrl": "https://github.com/perlun",
@@ -70,10 +70,6 @@
     "version": "0.1.0",
     "description": "Small example for how to use Electron with Ember CLI",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "tsc --target es6 --module CommonJS electron.ts && ember electron",
@@ -155,6 +151,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -182,6 +184,7 @@
   },
   "filename": "perlun___electron-ember-typescript-example.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:22:12.225Z",
-  "packageLastFetchedAt": "2017-05-05T14:34:28.062Z"
+  "lastFetchedAt": "2017-10-23T22:25:12.030Z",
+  "packageLastFetchedAt": "2017-05-05T14:34:28.062Z",
+  "archived": false
 }

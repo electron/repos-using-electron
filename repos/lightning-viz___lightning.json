@@ -5,7 +5,7 @@
   "owner": {
     "login": "lightning-viz",
     "id": 10238128,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10238128?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10238128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lightning-viz",
     "htmlUrl": "https://github.com/lightning-viz",
@@ -20,21 +20,21 @@
   "description": "Data Visualization Server",
   "fork": false,
   "createdAt": "2014-07-20T01:55:18.000Z",
-  "updatedAt": "2017-05-03T08:12:00.000Z",
+  "updatedAt": "2017-10-22T17:03:06.000Z",
   "pushedAt": "2016-11-23T02:43:16.000Z",
   "homepage": "http://lightning-viz.org",
   "size": 21506,
-  "stargazersCount": 741,
-  "watchersCount": 741,
+  "stargazersCount": 801,
+  "watchersCount": 801,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 88,
+  "forksCount": 95,
   "openIssuesCount": 21,
   "openIssues": 21,
-  "watchers": 741,
+  "watchers": 801,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "lightning-viz",
     "id": 10238128,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10238128?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10238128?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lightning-viz",
     "htmlUrl": "https://github.com/lightning-viz",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/lightning-viz/received_events",
     "type": "Organization"
   },
-  "networkCount": 88,
-  "subscribersCount": 51,
+  "networkCount": 95,
+  "subscribersCount": 54,
   "status": 200,
   "packageJSON": {
     "name": "lightning-server",
@@ -94,10 +94,7 @@
       "node": "6.3.0"
     },
     "homepage": "http://lightning-viz.org",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lightning-viz/lightning"
-    },
+    "repository": "https://github.com/lightning-viz/lightning",
     "scripts": {
       "start": "node bin/lightning-server.js",
       "dev": "NODE_ENV=development nodemon server.js --watch server.js ",
@@ -212,7 +209,8 @@
     },
     "optionalDependencies": {
       "pg-native": "^1.10.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -259,6 +257,7 @@
   "svnUrl": "https://github.com/lightning-viz/lightning",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:15:44.838Z",
-  "packageLastFetchedAt": "2017-05-04T22:35:40.715Z"
+  "lastFetchedAt": "2017-10-23T21:47:23.886Z",
+  "packageLastFetchedAt": "2017-05-04T22:35:40.715Z",
+  "archived": false
 }

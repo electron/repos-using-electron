@@ -70,7 +70,7 @@
   },
   "networkCount": 2,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "code-solution-manager",
     "displayName": "Code Solution Manager",
@@ -78,10 +78,7 @@
     "version": "0.0.1",
     "publisher": "DryWolf",
     "homepage": "https://github.com/drywolf/code-solution-manager/blob/master/README.md",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/drywolf/code-solution-manager.git"
-    },
+    "repository": "https://github.com/drywolf/code-solution-manager",
     "engines": {
       "vscode": "^0.10.6"
     },
@@ -108,7 +105,8 @@
     "devDependencies": {
       "typescript": "^1.7.5",
       "vscode": "^0.11.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -135,6 +133,6 @@
   },
   "filename": "drywolf___code-solution-manager.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:19:59.397Z",
+  "lastFetchedAt": "2017-10-23T22:58:45.334Z",
   "packageLastFetchedAt": "2017-05-04T22:15:20.083Z"
 }

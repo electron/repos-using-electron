@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "notes",
     "version": "1.0.0",
@@ -95,10 +95,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ltaoo/notes.git"
-    },
+    "repository": "https://github.com/ltaoo/notes",
     "author": {
       "name": "ltaoo"
     },
@@ -180,7 +177,8 @@
     "devEngines": {
       "node": "4.x || 5.x || 6.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -207,6 +205,6 @@
   },
   "filename": "ltaoo___notes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:12.920Z",
+  "lastFetchedAt": "2017-10-23T23:01:08.835Z",
   "packageLastFetchedAt": "2017-05-05T15:12:19.733Z"
 }

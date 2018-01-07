@@ -5,7 +5,7 @@
   "owner": {
     "login": "vine77",
     "id": 175123,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/175123?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/175123?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/vine77",
     "htmlUrl": "https://github.com/vine77",
@@ -56,10 +56,6 @@
     "version": "0.0.0",
     "description": "Small description for solanum goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember electron:package",
       "start": "ember electron",
@@ -145,6 +141,12 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -192,6 +194,7 @@
   "svnUrl": "https://github.com/vine77/solanum",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:09:05.911Z",
-  "packageLastFetchedAt": "2017-05-05T14:58:51.657Z"
+  "lastFetchedAt": "2017-10-23T22:09:08.305Z",
+  "packageLastFetchedAt": "2017-05-05T14:58:51.657Z",
+  "archived": false
 }

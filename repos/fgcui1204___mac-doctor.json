@@ -5,7 +5,7 @@
   "owner": {
     "login": "fgcui1204",
     "id": 8295896,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/8295896?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/8295896?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fgcui1204",
     "htmlUrl": "https://github.com/fgcui1204",
@@ -75,10 +75,7 @@
       "package": "asar pack MacDoctor.app/Contents/Resources/app MacDoctor.app/Contents/Resources/app.asar",
       "build": "electron-packager . MacDoctor --ignore=node_modules/electron-*  && cp logo.icns MacDoctor.app/Contents/Resources/atom.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:fgcui1204/mac-doctor.git"
-    },
+    "repository": "https://github.com/fgcui1204/mac-doctor",
     "author": "Fugang",
     "devDependencies": {
       "asar": "^0.6.1",
@@ -87,7 +84,8 @@
       "electron-prebuilt": "^0.36.0",
       "jquery": "2.1.4",
       "network": "^0.1.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +112,7 @@
   },
   "filename": "fgcui1204___mac-doctor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:15:00.412Z",
-  "packageLastFetchedAt": "2017-05-04T22:11:08.923Z"
+  "lastFetchedAt": "2017-10-23T22:11:53.041Z",
+  "packageLastFetchedAt": "2017-05-04T22:11:08.923Z",
+  "archived": false
 }

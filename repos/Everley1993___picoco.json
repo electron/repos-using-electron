@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "picoco",
     "version": "0.1.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Everley1993/picoco.git"
-    },
+    "repository": "https://github.com/Everley1993/picoco",
     "keywords": [
       "picoco"
     ],
@@ -92,7 +89,8 @@
       "electron-prebuilt": ">=1.2.5",
       "mime": ">=1.3.4",
       "fs.extra": ">=1.3.2"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +117,6 @@
   },
   "filename": "Everley1993___picoco.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:12:46.098Z",
+  "lastFetchedAt": "2017-10-23T22:56:26.334Z",
   "packageLastFetchedAt": "2017-05-05T17:53:22.764Z"
 }

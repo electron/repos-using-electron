@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "chiika-node",
     "version": "0.0.1",
@@ -73,24 +73,23 @@
       "build": "node-gyp build --debug --target=0.36.7 --arch=x64 --dist-url=https://atom.io/download/atom-shell",
       "conf": "node-gyp configure --debug --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/arkenthera/chiika-node.git"
-    },
+    "repository": "https://github.com/arkenthera/chiika-node",
     "keywords": [
       "chiika"
     ],
     "author": "arkenthera",
     "license": "ISC",
     "gypfile": true,
-    "bugs": {
-      "url": "https://github.com/arkenthera/chiika-node/issues"
-    },
     "homepage": "https://github.com/arkenthera/chiika-node#readme",
     "binary": {
       "module_name": "ChiikaNative",
       "module_path": "./lib/binding/",
       "host": "https://your_module.s3-us-west-1.amazonaws.com"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/arkenthera/chiika-node/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   },
   "filename": "Chiika-Anime___chiika-node.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:29:00.094Z",
+  "lastFetchedAt": "2017-10-23T23:07:32.589Z",
   "packageLastFetchedAt": "2017-05-05T14:52:40.581Z"
 }

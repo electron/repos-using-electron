@@ -5,7 +5,7 @@
   "owner": {
     "login": "Pugs-Not-Drugs",
     "id": 17937030,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17937030?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17937030?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Pugs-Not-Drugs",
     "htmlUrl": "https://github.com/Pugs-Not-Drugs",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Pugs-Not-Drugs",
     "id": 17937030,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17937030?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17937030?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Pugs-Not-Drugs",
     "htmlUrl": "https://github.com/Pugs-Not-Drugs",
@@ -95,18 +95,12 @@
       "test": "mocha test/",
       "lint": "jshint **.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pugs-not-drugs/orgviz.git"
-    },
+    "repository": "https://github.com/pugs-not-drugs/orgviz",
     "keywords": [
       "github"
     ],
     "author": "Pugs Not Drugs",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/pugs-not-drugs/orgviz/issues"
-    },
     "homepage": "https://github.com/pugs-not-drugs/orgviz#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0",
@@ -119,6 +113,11 @@
       "octonode": "^0.7.5",
       "thenify": "^3.2.0",
       "underscore": "^1.8.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/pugs-not-drugs/orgviz/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "Pugs-Not-Drugs___orgviz.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:33:33.312Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:20.035Z"
+  "lastFetchedAt": "2017-10-23T22:11:15.601Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:20.035Z",
+  "archived": false
 }

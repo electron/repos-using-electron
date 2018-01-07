@@ -164,7 +164,7 @@
   },
   "networkCount": 6,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-intro",
     "version": "1.2.0",
@@ -177,18 +177,12 @@
       "commit": "git-cz",
       "build": "webpack --verbose --colors --display-error-details --config webpack.config.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/henriquesosa/intro-ao-electron.git"
-    },
+    "repository": "https://github.com/henriquesosa/intro-ao-electron",
     "keywords": [
       "electron"
     ],
     "author": "Henrique Sosa <henriquesosa@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/henriquesosa/intro-ao-electron/issues"
-    },
     "homepage": "https://github.com/henriquesosa/intro-ao-electron#readme",
     "devDependencies": {
       "babel-core": "^6.4.5",
@@ -247,6 +241,11 @@
         "<rootDir>/node_modules/react-addons-test-utils",
         "<rootDir>/node_modules/babel-plugin-transform-runtime"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/henriquesosa/intro-ao-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -295,6 +294,6 @@
   "svnUrl": "https://github.com/henriqueuller/electron-intro",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:28:37.361Z",
+  "lastFetchedAt": "2017-10-23T23:01:07.823Z",
   "packageLastFetchedAt": "2017-05-05T17:46:48.767Z"
 }

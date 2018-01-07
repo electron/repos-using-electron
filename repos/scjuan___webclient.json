@@ -5,7 +5,7 @@
   "owner": {
     "login": "scjuan",
     "id": 6329031,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6329031?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6329031?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/scjuan",
     "htmlUrl": "https://github.com/scjuan",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/scjuan/webclient",
-  "description": null,
+  "description": "https://scjuan.github.io/webclient/",
   "fork": false,
   "url": "https://api.github.com/repos/scjuan/webclient",
   "forksUrl": "https://api.github.com/repos/scjuan/webclient/forks",
@@ -35,21 +35,21 @@
   "downloadsUrl": "https://api.github.com/repos/scjuan/webclient/downloads",
   "deploymentsUrl": "https://api.github.com/repos/scjuan/webclient/deployments",
   "createdAt": "2016-10-10T23:42:15.000Z",
-  "updatedAt": "2016-10-10T23:56:19.000Z",
-  "pushedAt": "2016-10-10T23:56:16.000Z",
+  "updatedAt": "2017-08-03T15:32:52.000Z",
+  "pushedAt": "2017-08-03T05:54:45.000Z",
   "gitUrl": "git://github.com/scjuan/webclient.git",
   "sshUrl": "git@github.com:scjuan/webclient.git",
   "cloneUrl": "https://github.com/scjuan/webclient.git",
   "svnUrl": "https://github.com/scjuan/webclient",
-  "homepage": null,
-  "size": 130058,
+  "homepage": "https://scjuan.github.io/webclient/",
+  "size": 131134,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
-  "hasPages": false,
+  "hasPages": true,
   "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 0,
@@ -76,11 +76,6 @@
     "version": "0.0.0",
     "description": "Web Client to access the Mega Cloud Infrastructure",
     "main": "index.js",
-    "directories": {
-      "src": "js",
-      "test": "test",
-      "doc": "doc"
-    },
     "scripts": {
       "test": "make test",
       "jscpd": "jscpd --verbose -g javascript,jsx -e **/vendor/** -p ./js --skip-comments -o jscpd-report.xml",
@@ -88,13 +83,7 @@
       "api-doc": "make api-doc"
     },
     "homepage": "https://mega.nz/",
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:meganz/webclient.git"
-    },
-    "bugs": {
-      "url": "https://issues.developers.mega.co.nz/projects/webclient"
-    },
+    "repository": "https://github.com/meganz/webclient",
     "keywords": [
       "Mega",
       "storage",
@@ -156,6 +145,16 @@
       "plato": "^1.5.0",
       "sinon": "~1.13.0",
       "webpack-dev-server": "^1.14.0"
+    },
+    "other": {
+      "directories": {
+        "src": "js",
+        "test": "test",
+        "doc": "doc"
+      },
+      "bugs": {
+        "url": "https://issues.developers.mega.co.nz/projects/webclient"
+      }
     }
   },
   "packageStatus": 200,
@@ -183,6 +182,7 @@
   },
   "filename": "scjuan___webclient.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:01:39.055Z",
-  "packageLastFetchedAt": "2017-05-04T22:05:12.516Z"
+  "lastFetchedAt": "2017-10-23T22:06:31.061Z",
+  "packageLastFetchedAt": "2017-05-04T22:05:12.516Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "duffman",
     "id": 13055,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/13055?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/13055?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/duffman",
     "htmlUrl": "https://github.com/duffman",
@@ -72,9 +72,6 @@
     "main": "index.js",
     "author": "Patrik Forsberg <mail@patrik.guru>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/duffman/commander-putte/issues"
-    },
     "homepage": "https://github.com/duffman/commander-putte#readme",
     "scripts": {
       "start": "tsc && concurrently \"npm run tsc:w\" \"npm run commander\" ",
@@ -83,10 +80,7 @@
       "tsc:w": "tsc -w",
       "test": "runtests"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/duffman/commander-putte.git"
-    },
+    "repository": "https://github.com/duffman/commander-putte",
     "keywords": [
       "Norton",
       "Commander",
@@ -111,6 +105,11 @@
     "devDependencies": {
       "concurrently": "^2.0.0",
       "typescript": "^1.8.9"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/duffman/commander-putte/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,7 @@
   },
   "filename": "duffman___commander-putte.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:17:35.607Z",
-  "packageLastFetchedAt": "2017-05-05T01:33:36.925Z"
+  "lastFetchedAt": "2017-10-23T22:55:23.122Z",
+  "packageLastFetchedAt": "2017-05-05T01:33:36.925Z",
+  "archived": false
 }

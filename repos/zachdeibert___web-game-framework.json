@@ -5,7 +5,7 @@
   "owner": {
     "login": "zachdeibert",
     "id": 5843303,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5843303?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5843303?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zachdeibert",
     "htmlUrl": "https://github.com/zachdeibert",
@@ -62,15 +62,9 @@
       "postinstall": "autodts link",
       "prepublish": "tsc && autodts generate"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/zachdeibert/web-game-framework.git"
-    },
+    "repository": "https://github.com/zachdeibert/web-game-framework",
     "author": "Zach Deibert",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/zachdeibert/web-game-framework/issues"
-    },
     "homepage": "https://github.com/zachdeibert/web-game-framework#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.5",
@@ -84,6 +78,11 @@
     },
     "typescript": {
       "definition": "framework.d.ts"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/zachdeibert/web-game-framework/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "zachdeibert___web-game-framework.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:44:39.776Z",
-  "packageLastFetchedAt": "2017-05-04T22:32:58.724Z"
+  "lastFetchedAt": "2017-10-24T00:08:32.196Z",
+  "packageLastFetchedAt": "2017-05-04T22:32:58.724Z",
+  "archived": false
 }

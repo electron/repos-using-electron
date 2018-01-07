@@ -6,7 +6,7 @@
   "owner": {
     "login": "eReuse",
     "id": 11991898,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11991898?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11991898?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eReuse",
     "htmlUrl": "https://github.com/eReuse",
@@ -37,13 +37,13 @@
   "deploymentsUrl": "https://api.github.com/repos/eReuse/desktop-app/deployments",
   "createdAt": "2017-04-04T12:42:05.000Z",
   "updatedAt": "2017-04-17T10:19:40.000Z",
-  "pushedAt": "2017-05-03T19:50:01.000Z",
+  "pushedAt": "2017-10-18T15:10:50.000Z",
   "gitUrl": "git://github.com/eReuse/desktop-app.git",
   "sshUrl": "git@github.com:eReuse/desktop-app.git",
   "cloneUrl": "https://github.com/eReuse/desktop-app.git",
   "svnUrl": "https://github.com/eReuse/desktop-app",
   "homepage": "",
-  "size": 600,
+  "size": 902,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -54,8 +54,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
+  "openIssuesCount": 0,
+  "openIssues": 0,
   "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
@@ -73,7 +73,7 @@
   "organization": {
     "login": "eReuse",
     "id": 11991898,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11991898?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11991898?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/eReuse",
     "htmlUrl": "https://github.com/eReuse",
@@ -85,9 +85,9 @@
     "type": "Organization"
   },
   "networkCount": 0,
-  "subscribersCount": 3,
+  "subscribersCount": 4,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:32:20.144Z",
+  "lastFetchedAt": "2017-10-23T22:33:14.748Z",
   "packageJSON": {
     "name": "eReuse.org-DesktopApp",
     "productName": "My eReuse.org & Support",
@@ -146,10 +146,7 @@
     "engines": {
       "node": ">=6.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/eReuse/desktop-app.git"
-    },
+    "repository": "https://github.com/eReuse/desktop-app",
     "dependencies": {
       "electron-simple-updater": "^1.2.0",
       "python-shell": "^0.4.0"
@@ -163,8 +160,10 @@
       "eslint-config-standard": "^10.2.1",
       "eslint-plugin-promise": "^3.5.0",
       "eslint-plugin-standard": "^3.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:01:10.014Z"
+  "packageLastFetchedAt": "2017-05-05T15:01:10.014Z",
+  "archived": false
 }

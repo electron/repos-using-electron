@@ -164,7 +164,7 @@
   },
   "networkCount": 1146,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "webtorrent",
     "description": "Streaming torrent client",
@@ -188,9 +188,6 @@
       "transform": [
         "package-json-versionify"
       ]
-    },
-    "bugs": {
-      "url": "https://github.com/feross/webtorrent/issues"
     },
     "dependencies": {
       "addr-to-ip-port": "^1.0.1",
@@ -271,10 +268,7 @@
     ],
     "license": "MIT",
     "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/feross/webtorrent.git"
-    },
+    "repository": "https://github.com/feross/webtorrent",
     "scripts": {
       "build": "browserify -s WebTorrent -e ./ | uglifyjs -c warnings=false -m > webtorrent.min.js",
       "build-debug": "browserify -s WebTorrent -e ./ > webtorrent.debug.js",
@@ -285,6 +279,11 @@
       "test-browser-local": "zuul --local -- test/*.js test/browser/*.js",
       "test-node": "tape test/*.js test/node/*.js",
       "update-authors": "./bin/update-authors.sh"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/feross/webtorrent/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -333,6 +332,6 @@
   "svnUrl": "https://github.com/Comi9/webtorrent",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:27:34.559Z",
+  "lastFetchedAt": "2017-10-24T00:13:05.169Z",
   "packageLastFetchedAt": "2017-05-04T23:05:10.384Z"
 }

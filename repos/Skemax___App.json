@@ -5,7 +5,7 @@
   "owner": {
     "login": "Skemax",
     "id": 14926139,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14926139?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14926139?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Skemax",
     "htmlUrl": "https://github.com/Skemax",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "Skemax",
     "id": 14926139,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/14926139?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/14926139?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Skemax",
     "htmlUrl": "https://github.com/Skemax",
@@ -93,10 +93,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Skemax/App.git"
-    },
+    "repository": "https://github.com/Skemax/App",
     "keywords": [
       "Skemax",
       "App",
@@ -111,9 +108,6 @@
       }
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Skemax/App/issues"
-    },
     "homepage": "https://skemax.net",
     "devDependencies": {
       "babel-preset-es2015": "^6.3.13",
@@ -141,6 +135,11 @@
       "react-tap-event-plugin": "^0.2.1",
       "velocity-animate": "^1.2.3",
       "web-router": "1.1.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Skemax/App/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   },
   "filename": "Skemax___App.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:41:53.767Z",
-  "packageLastFetchedAt": "2017-05-05T17:43:47.327Z"
+  "lastFetchedAt": "2017-10-24T00:12:06.960Z",
+  "packageLastFetchedAt": "2017-05-05T17:43:47.327Z",
+  "archived": false
 }

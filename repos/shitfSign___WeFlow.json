@@ -164,7 +164,7 @@
   },
   "networkCount": 320,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "WeFlow",
     "version": "1.2.0",
@@ -185,10 +185,7 @@
         "iconUrl": "http://7xojg5.com1.z0.glb.clouddn.com/icon.ico"
       }
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/weixin/WeFlow"
-    },
+    "repository": "https://github.com/weixin/WeFlow",
     "keywords": [
       "Electron",
       "workflow",
@@ -197,9 +194,6 @@
     ],
     "author": "Littledu,Zedhuang",
     "license": "MIT License",
-    "bugs": {
-      "url": "https://github.com/weixin/WeFlow/issues"
-    },
     "homepage": "https://github.com/weixin/WeFlow#readme",
     "devDependencies": {
       "electron-builder": "^4.2.2",
@@ -243,6 +237,11 @@
       "rd": "^0.0.2",
       "tmt-ejs-helper": "^0.0.1",
       "vinyl-fs": "^2.4.3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/weixin/WeFlow/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -291,6 +290,6 @@
   "filename": "shitfSign___WeFlow.json",
   "sourceRepo": "weixin/WeFlow",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:43:40.535Z",
+  "lastFetchedAt": "2017-10-23T23:36:21.999Z",
   "packageLastFetchedAt": "2017-05-04T22:11:39.517Z"
 }

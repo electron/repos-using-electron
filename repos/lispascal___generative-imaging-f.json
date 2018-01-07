@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "generative-imaging-f",
     "version": "0.1.0",
@@ -53,10 +53,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lispascal/generative-imaging-f.git"
-    },
+    "repository": "https://github.com/lispascal/generative-imaging-f",
     "keywords": [
       "Electron",
       "generative",
@@ -65,12 +62,14 @@
       "art"
     ],
     "author": "lispascal",
-    "bugs": {
-      "url": "https://github.com/lispascal/generative-imaging-f/issues"
-    },
     "homepage": "https://github.com/lispascal",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lispascal/generative-imaging-f/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,6 @@
   "svnUrl": "https://github.com/lispascal/generative-imaging-f",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:16:33.456Z",
+  "lastFetchedAt": "2017-10-23T22:59:54.336Z",
   "packageLastFetchedAt": "2017-05-05T15:01:00.007Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "dragthor",
     "id": 156634,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/156634?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/156634?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dragthor",
     "htmlUrl": "https://github.com/dragthor",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/dragthor/cryptojs/downloads",
   "deploymentsUrl": "https://api.github.com/repos/dragthor/cryptojs/deployments",
   "createdAt": "2016-07-13T16:13:25.000Z",
-  "updatedAt": "2017-05-04T10:04:58.000Z",
+  "updatedAt": "2017-09-17T03:39:40.000Z",
   "pushedAt": "2017-03-19T13:46:53.000Z",
   "gitUrl": "git://github.com/dragthor/cryptojs.git",
   "sshUrl": "git@github.com:dragthor/cryptojs.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/dragthor/cryptojs",
   "homepage": "",
   "size": 296,
-  "stargazersCount": 1,
-  "watchersCount": 1,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 1,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -86,18 +86,12 @@
       "start": "electron .",
       "test": "mocha --reporter progress \"tests/**/*.test.js\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dragthor/cryptojs.git"
-    },
+    "repository": "https://github.com/dragthor/cryptojs",
     "author": "Kris Krause",
     "license": "GPL-3.0",
     "engines": {
       "node": ">=6.9.5",
       "npm": ">=3.10.10"
-    },
-    "bugs": {
-      "url": "https://github.com/dragthor/cryptojs/issues"
     },
     "dependencies": {
       "electron": "1.6.2"
@@ -106,6 +100,11 @@
       "electron": "1.6.2",
       "chai": "3.5.0",
       "mocha": "3.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dragthor/cryptojs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "dragthor___cryptojs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:00:02.786Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:22.742Z"
+  "lastFetchedAt": "2017-10-23T21:52:41.144Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:22.742Z",
+  "archived": false
 }

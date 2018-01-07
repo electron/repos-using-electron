@@ -5,7 +5,7 @@
   "owner": {
     "login": "mcanthony",
     "id": 1610158,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1610158?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1610158?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mcanthony",
     "htmlUrl": "https://github.com/mcanthony",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "Jam3",
       "id": 1165621,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1165621?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1165621?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Jam3",
       "htmlUrl": "https://github.com/Jam3",
@@ -97,6 +97,7 @@
     "hasPages": false,
     "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 6,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "Jam3",
       "id": 1165621,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/1165621?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1165621?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/Jam3",
       "htmlUrl": "https://github.com/Jam3",
@@ -157,6 +158,7 @@
     "hasPages": false,
     "forksCount": 3,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 6,
@@ -220,16 +222,15 @@
       "texture",
       "viewer"
     ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/Jam3/preview-dds.git"
-    },
+    "repository": "https://github.com/Jam3/preview-dds",
     "homepage": "https://github.com/Jam3/preview-dds",
-    "bugs": {
-      "url": "https://github.com/Jam3/preview-dds/issues"
-    },
     "bin": {
       "preview-dds": "./bin/cli.js"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Jam3/preview-dds/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -278,6 +279,7 @@
   "filename": "mcanthony___preview-dds.json",
   "sourceRepo": "Jam3/preview-dds",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:05:31.262Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:56.686Z"
+  "lastFetchedAt": "2017-10-23T21:46:32.132Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:56.686Z",
+  "archived": false
 }

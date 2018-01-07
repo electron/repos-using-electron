@@ -5,7 +5,7 @@
   "owner": {
     "login": "JimmyBoh",
     "id": 2332163,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2332163?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2332163?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JimmyBoh",
     "htmlUrl": "https://github.com/JimmyBoh",
@@ -74,15 +74,9 @@
   "packageJSON": {
     "name": "super-conductor",
     "description": "A lightweight action-reaction system for cross-process/cross-machine integration.",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/JimmyBoh/super-conductor.git"
-    },
+    "repository": "https://github.com/JimmyBoh/super-conductor",
     "author": "Jim Buck <jim@jimmyboh.com>",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/JimmyBoh/super-conductor/issues"
-    },
     "devDependencies": {
       "asar": "^0.7.2",
       "electron-prebuilt": "^0.36.0",
@@ -106,6 +100,11 @@
       "start": "node ./tasks/start",
       "test": "node ./tasks/start --env=test",
       "install-native": "node ./tasks/install_native_module"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/JimmyBoh/super-conductor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "JimmyBoh___super-conductor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:17:41.074Z",
-  "packageLastFetchedAt": "2017-05-05T17:11:55.164Z"
+  "lastFetchedAt": "2017-10-24T02:03:22.643Z",
+  "packageLastFetchedAt": "2017-05-05T17:11:55.164Z",
+  "archived": false
 }

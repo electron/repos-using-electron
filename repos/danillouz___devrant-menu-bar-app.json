@@ -5,7 +5,7 @@
   "owner": {
     "login": "danillouz",
     "id": 6201287,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6201287?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6201287?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/danillouz",
     "htmlUrl": "https://github.com/danillouz",
@@ -65,10 +65,7 @@
       "build:electron-dev": "NODE_ENV=development electron src/js/main.js",
       "start": "npm run clean && npm run build:webpack && npm run build:electron-dev"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/danillouz/devrant-menu-bar-app.git"
-    },
+    "repository": "https://github.com/danillouz/devrant-menu-bar-app",
     "keywords": [
       "devrant",
       "menu-bar-app",
@@ -78,9 +75,6 @@
     ],
     "author": "Daniel Illouz",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/danillouz/devrant-menu-bar-app/issues"
-    },
     "homepage": "https://github.com/danillouz/devrant-menu-bar-app#readme",
     "devDependencies": {
       "babel-cli": "^6.18.0",
@@ -120,6 +114,11 @@
       "webpack": "^1.14.0",
       "webpack-dev-middleware": "^1.9.0",
       "webpack-hot-middleware": "^2.15.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/danillouz/devrant-menu-bar-app/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   "svnUrl": "https://github.com/danillouz/devrant-menu-bar-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:53:31.382Z",
-  "packageLastFetchedAt": "2017-05-05T14:46:43.853Z"
+  "lastFetchedAt": "2017-10-24T02:04:41.655Z",
+  "packageLastFetchedAt": "2017-05-05T14:46:43.853Z",
+  "archived": false
 }

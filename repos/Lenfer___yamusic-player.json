@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "yandex-music-player",
     "version": "0.4.0",
@@ -98,16 +98,15 @@
       "dist": "build",
       "postinstall": "rm -f \"./node_modules/_\" && ln -s \"../app/\" \"./node_modules/_\""
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Lenfer/yamusic-player.git"
-    },
+    "repository": "https://github.com/Lenfer/yamusic-player",
     "author": "Dergaev Andrey",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Lenfer/yamusic-player/issues"
-    },
-    "homepage": "https://github.com/Lenfer/yamusic-player#readme"
+    "homepage": "https://github.com/Lenfer/yamusic-player#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Lenfer/yamusic-player/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +133,6 @@
   },
   "filename": "Lenfer___yamusic-player.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:09.369Z",
+  "lastFetchedAt": "2017-10-23T23:09:09.338Z",
   "packageLastFetchedAt": "2017-05-05T14:38:50.590Z"
 }

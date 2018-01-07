@@ -178,7 +178,7 @@
   },
   "networkCount": 21,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nuTorrent",
     "version": "0.6.0",
@@ -196,10 +196,7 @@
       "package-all": "node package.js --name='nuTorrent' --icon=icon/web_hi_res_512.icns --all"
     },
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/LeeChSien/nuTorrent"
-    },
+    "repository": "https://github.com/LeeChSien/nuTorrent",
     "author": {
       "name": "Jason Lee",
       "email": "chsienlee@gmail.com",
@@ -258,7 +255,8 @@
       "react-bootstrap": "^0.24.5",
       "react-bootstrap-table": "^0.9.9",
       "react-router": "^0.13.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/boxup/nuTorrent",
@@ -306,6 +304,6 @@
   "filename": "boxup___nuTorrent.json",
   "sourceRepo": "LeeChSien/nuTorrent",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:25:01.367Z",
+  "lastFetchedAt": "2017-10-23T23:04:32.337Z",
   "packageLastFetchedAt": "2017-05-04T22:33:27.919Z"
 }

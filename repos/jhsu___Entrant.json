@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "Entrant",
     "version": "0.1.0",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "gulp"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/jhsu/entrant"
-    },
+    "repository": "https://github.com/jhsu/entrant",
     "author": "Joe Hsu",
     "license": "MIT",
     "homepage": "https://github.com/jhsu/entrant",
@@ -100,7 +97,8 @@
       "require-dir": "^0.3.0",
       "run-sequence": "^1.1.0",
       "vinyl-source-stream": "^1.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +125,6 @@
   },
   "filename": "jhsu___Entrant.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:33:07.620Z",
+  "lastFetchedAt": "2017-10-23T22:57:09.828Z",
   "packageLastFetchedAt": "2017-05-04T21:54:10.679Z"
 }

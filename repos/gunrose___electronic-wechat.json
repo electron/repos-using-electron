@@ -6,7 +6,7 @@
   "owner": {
     "login": "gunrose",
     "id": 5928266,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5928266?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5928266?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gunrose",
     "htmlUrl": "https://github.com/gunrose",
@@ -66,7 +66,7 @@
   "organization": {
     "login": "gunrose",
     "id": 5928266,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/5928266?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/5928266?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/gunrose",
     "htmlUrl": "https://github.com/gunrose",
@@ -84,7 +84,7 @@
     "owner": {
       "login": "geeeeeeeeek",
       "id": 7262715,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7262715?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7262715?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/geeeeeeeeek",
       "htmlUrl": "https://github.com/geeeeeeeeek",
@@ -114,27 +114,28 @@
     "downloadsUrl": "https://api.github.com/repos/geeeeeeeeek/electronic-wechat/downloads",
     "deploymentsUrl": "https://api.github.com/repos/geeeeeeeeek/electronic-wechat/deployments",
     "createdAt": "2016-02-18T09:09:53.000Z",
-    "updatedAt": "2017-05-04T19:21:49.000Z",
-    "pushedAt": "2017-04-30T04:57:04.000Z",
+    "updatedAt": "2017-10-23T15:06:24.000Z",
+    "pushedAt": "2017-07-03T15:22:42.000Z",
     "gitUrl": "git://github.com/geeeeeeeeek/electronic-wechat.git",
     "sshUrl": "git@github.com:geeeeeeeeek/electronic-wechat.git",
     "cloneUrl": "https://github.com/geeeeeeeeek/electronic-wechat.git",
     "svnUrl": "https://github.com/geeeeeeeeek/electronic-wechat",
     "homepage": "",
-    "size": 1095,
-    "stargazersCount": 6904,
-    "watchersCount": 6904,
+    "size": 1102,
+    "stargazersCount": 8576,
+    "watchersCount": 8576,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1189,
+    "forksCount": 1508,
     "mirrorUrl": null,
-    "openIssuesCount": 86,
-    "openIssues": 86,
-    "watchers": 6904,
+    "archived": false,
+    "openIssuesCount": 112,
+    "openIssues": 112,
+    "watchers": 8576,
     "defaultBranch": "master"
   },
   "source": {
@@ -144,7 +145,7 @@
     "owner": {
       "login": "geeeeeeeeek",
       "id": 7262715,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7262715?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7262715?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/geeeeeeeeek",
       "htmlUrl": "https://github.com/geeeeeeeeek",
@@ -174,30 +175,31 @@
     "downloadsUrl": "https://api.github.com/repos/geeeeeeeeek/electronic-wechat/downloads",
     "deploymentsUrl": "https://api.github.com/repos/geeeeeeeeek/electronic-wechat/deployments",
     "createdAt": "2016-02-18T09:09:53.000Z",
-    "updatedAt": "2017-05-04T19:21:49.000Z",
-    "pushedAt": "2017-04-30T04:57:04.000Z",
+    "updatedAt": "2017-10-23T15:06:24.000Z",
+    "pushedAt": "2017-07-03T15:22:42.000Z",
     "gitUrl": "git://github.com/geeeeeeeeek/electronic-wechat.git",
     "sshUrl": "git@github.com:geeeeeeeeek/electronic-wechat.git",
     "cloneUrl": "https://github.com/geeeeeeeeek/electronic-wechat.git",
     "svnUrl": "https://github.com/geeeeeeeeek/electronic-wechat",
     "homepage": "",
-    "size": 1095,
-    "stargazersCount": 6904,
-    "watchersCount": 6904,
+    "size": 1102,
+    "stargazersCount": 8576,
+    "watchersCount": 8576,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 1189,
+    "forksCount": 1508,
     "mirrorUrl": null,
-    "openIssuesCount": 86,
-    "openIssues": 86,
-    "watchers": 6904,
+    "archived": false,
+    "openIssuesCount": 112,
+    "openIssues": 112,
+    "watchers": 8576,
     "defaultBranch": "master"
   },
-  "networkCount": 1189,
+  "networkCount": 1508,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -217,10 +219,7 @@
       "build:win32": ".\\scripts\\build-win32.bat win32 ia32",
       "build:win64": ".\\scripts\\build-win32.bat win32 x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/geeeeeeeeek/wechat-electron.git"
-    },
+    "repository": "https://github.com/geeeeeeeeek/wechat-electron",
     "keywords": [
       "Electron",
       "WeChat",
@@ -229,14 +228,16 @@
     ],
     "author": "Zhongyi Tong",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/geeeeeeeeek/wechat-electron/issues"
-    },
     "homepage": "https://github.com/geeeeeeeeek/wechat-electron/",
     "dependencies": {
       "electron-packager": "^7.0.0",
       "electron-prebuilt": "^1.1.0",
       "pinyin": "^2.7.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/geeeeeeeeek/wechat-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -264,6 +265,7 @@
   },
   "sourceRepo": "geeeeeeeeek/electronic-wechat",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:17:12.695Z",
-  "packageLastFetchedAt": "2017-05-05T14:33:11.841Z"
+  "lastFetchedAt": "2017-10-23T22:54:56.490Z",
+  "packageLastFetchedAt": "2017-05-05T14:33:11.841Z",
+  "archived": false
 }

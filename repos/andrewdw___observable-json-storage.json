@@ -6,7 +6,7 @@
   "owner": {
     "login": "andrewdw",
     "id": 4855214,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4855214?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4855214?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/andrewdw",
     "htmlUrl": "https://github.com/andrewdw",
@@ -82,18 +82,9 @@
       "lint": "jshint --config .jshintrc --reporter unix lib tests",
       "readme": "jsdoc2md --template doc/README.hbs lib/storage.js > README.md"
     },
-    "directories": {
-      "test": "tests"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/andrewdw/observable-json-storage.git"
-    },
+    "repository": "https://github.com/andrewdw/observable-json-storage",
     "author": "Andrew Dillion-Walshe",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/andrewdw/observable-json-storage/issues"
-    },
     "keywords": [
       "node",
       "electron",
@@ -120,6 +111,14 @@
       "jshint": "^2.9.4",
       "mocha": "^3.1.2",
       "mochainon": "^1.0.0"
+    },
+    "other": {
+      "directories": {
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/andrewdw/observable-json-storage/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:30:34.601Z",
-  "packageLastFetchedAt": "2017-05-05T17:41:53.042Z"
+  "lastFetchedAt": "2017-10-23T22:31:05.239Z",
+  "packageLastFetchedAt": "2017-05-05T17:41:53.042Z",
+  "archived": false
 }

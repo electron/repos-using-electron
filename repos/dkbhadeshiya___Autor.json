@@ -5,7 +5,7 @@
   "owner": {
     "login": "dkbhadeshiya",
     "id": 4997593,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/4997593?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/4997593?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dkbhadeshiya",
     "htmlUrl": "https://github.com/dkbhadeshiya",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/dkbhadeshiya/Autor/deployments",
   "createdAt": "2016-05-19T12:50:36.000Z",
   "updatedAt": "2016-05-19T16:42:51.000Z",
-  "pushedAt": "2016-05-19T18:08:20.000Z",
+  "pushedAt": "2017-07-05T04:12:09.000Z",
   "gitUrl": "git://github.com/dkbhadeshiya/Autor.git",
   "sshUrl": "git@github.com:dkbhadeshiya/Autor.git",
   "cloneUrl": "https://github.com/dkbhadeshiya/Autor.git",
   "svnUrl": "https://github.com/dkbhadeshiya/Autor",
   "homepage": null,
-  "size": 136,
+  "size": 138,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -80,19 +80,13 @@
       "test": "electron .",
       "build": "electron-packager . Autor --platform=dawrin --arch=x64 --icon=icon.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dkbhadeshiya/Autor.git"
-    },
+    "repository": "https://github.com/dkbhadeshiya/Autor",
     "keywords": [
       "Autor",
       "Catagorizer"
     ],
     "author": "Dhruman Bhadeshiya <dhrumangajjar@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dkbhadeshiya/Autor/issues"
-    },
     "homepage": "https://github.com/dkbhadeshiya/Autor#readme",
     "dependencies": {
       "chokidar": "^1.5.0",
@@ -104,6 +98,11 @@
     "devDependencies": {
       "electron-packager": "^4.0.0",
       "electron-prebuilt": "*"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dkbhadeshiya/Autor/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,7 @@
   },
   "filename": "dkbhadeshiya___Autor.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:08:21.207Z",
-  "packageLastFetchedAt": "2017-05-04T22:36:19.996Z"
+  "lastFetchedAt": "2017-10-24T02:03:02.293Z",
+  "packageLastFetchedAt": "2017-05-04T22:36:19.996Z",
+  "archived": false
 }

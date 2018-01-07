@@ -5,7 +5,7 @@
   "owner": {
     "login": "dodekeract",
     "id": 1133858,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1133858?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1133858?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dodekeract",
     "htmlUrl": "https://github.com/dodekeract",
@@ -57,10 +57,7 @@
       "start": "electron .",
       "postpublish": "PACKAGE_VERSION=$(cat package.json | grep version | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && git tag $PACKAGE_VERSION && git push --tags"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dodekeract/manta-config-engine-standalone.git"
-    },
+    "repository": "https://github.com/dodekeract/manta-config-engine-standalone",
     "keywords": [
       "dota",
       "2",
@@ -74,9 +71,6 @@
     ],
     "author": "Florian Wendelborn",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dodekeract/manta-config-engine-standalone/issues"
-    },
     "homepage": "https://github.com/dodekeract/manta-config-engine-standalone#readme",
     "dependencies": {
       "electron-prebuilt": "^0.37.5",
@@ -105,6 +99,11 @@
       "disallowSpacesInsideBrackets": false,
       "disallowSpacesInsideArrayBrackets": false,
       "disallowSpacesInFunctionDeclaration": false
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dodekeract/manta-config-engine-standalone/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,7 @@
   },
   "filename": "dodekeract___manta-config-engine-standalone.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-03T20:04:58.833Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:01.616Z"
+  "lastFetchedAt": "2017-10-23T21:42:49.890Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:01.616Z",
+  "archived": false
 }

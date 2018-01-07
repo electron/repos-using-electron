@@ -5,7 +5,7 @@
   "owner": {
     "login": "zuker",
     "id": 476388,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/476388?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/476388?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zuker",
     "htmlUrl": "https://github.com/zuker",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/zuker/box2d-native/downloads",
   "deploymentsUrl": "https://api.github.com/repos/zuker/box2d-native/deployments",
   "createdAt": "2015-10-29T15:15:18.000Z",
-  "updatedAt": "2016-10-29T05:11:45.000Z",
-  "pushedAt": "2017-03-16T08:53:33.000Z",
+  "updatedAt": "2017-07-22T21:06:39.000Z",
+  "pushedAt": "2017-08-05T05:42:48.000Z",
   "gitUrl": "git://github.com/zuker/box2d-native.git",
   "sshUrl": "git@github.com:zuker/box2d-native.git",
   "cloneUrl": "https://github.com/zuker/box2d-native.git",
   "svnUrl": "https://github.com/zuker/box2d-native",
   "homepage": null,
   "size": 21,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 4,
   "mirrorUrl": null,
-  "openIssuesCount": 1,
-  "openIssues": 1,
-  "watchers": 7,
+  "openIssuesCount": 3,
+  "openIssues": 3,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -62,17 +62,14 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 3,
+  "networkCount": 4,
   "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "box2d-native",
     "version": "0.0.8",
     "description": "Box2D as native addon",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zuker/box2d-native"
-    },
+    "repository": "https://github.com/zuker/box2d-native",
     "main": "Box2D.js",
     "engines": {
       "node": ">=4.2.1"
@@ -119,7 +116,8 @@
     "devDependencies": {
       "mocha": "^2.3.3",
       "should": "^7.1.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -146,6 +144,7 @@
   },
   "filename": "zuker___box2d-native.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:18:47.098Z",
-  "packageLastFetchedAt": "2017-05-04T22:29:26.462Z"
+  "lastFetchedAt": "2017-10-23T22:27:07.526Z",
+  "packageLastFetchedAt": "2017-05-04T22:29:26.462Z",
+  "archived": false
 }

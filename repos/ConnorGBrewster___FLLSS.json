@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "fllss",
     "productName": "FLL Scoring Software",
@@ -107,10 +107,7 @@
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "Connor G Brewster",
       "email": "connorbrewster@yahoo.com",
@@ -185,7 +182,8 @@
     "devEngines": {
       "node": "4.x || 5.x",
       "npm": "2.x || 3.x"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -232,6 +230,6 @@
   "svnUrl": "https://github.com/cbrewster/FLLSS",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:26:02.375Z",
+  "lastFetchedAt": "2017-10-23T23:04:15.593Z",
   "packageLastFetchedAt": "2017-05-05T15:08:21.223Z"
 }

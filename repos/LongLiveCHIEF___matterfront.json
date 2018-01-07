@@ -164,7 +164,7 @@
   },
   "networkCount": 37,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "matterfront",
     "version": "1.1.1",
@@ -184,18 +184,12 @@
     },
     "main": "./src/main.js",
     "electronVersion": "0.35.4",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lloeki/matterfront"
-    },
+    "repository": "https://github.com/lloeki/matterfront",
     "keywords": [
       "Mattermost",
       "electron"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lloeki/matterfront/issues"
-    },
     "devDependencies": {
       "chai": "~3.4.1",
       "electron-prebuilt": "^0.35.4",
@@ -212,6 +206,11 @@
     "config": {
       "ghooks": {
         "pre-commit": "npm run lint && npm run test"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lloeki/matterfront/issues"
       }
     }
   },
@@ -261,6 +260,6 @@
   "filename": "LongLiveCHIEF___matterfront.json",
   "sourceRepo": "lloeki/matterfront",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:38.926Z",
+  "lastFetchedAt": "2017-10-23T23:05:53.836Z",
   "packageLastFetchedAt": "2017-05-05T15:30:49.002Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "jenslind",
     "id": 5213672,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/5213672?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/5213672?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jenslind",
     "htmlUrl": "https://github.com/jenslind",
@@ -55,15 +55,9 @@
       "build-darwin": "electron-packager . Test --platform=darwin --arch=x64 --version=0.35.1 --overwrite --sign=Jens Lind",
       "build-win32": "electron-packager . Test --platform=win32 --arch=x64 --version=0.35.1 --overwrite --asar=true"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jenslind/electron-gh-releases-test-v2.git"
-    },
+    "repository": "https://github.com/jenslind/electron-gh-releases-test-v2",
     "author": "",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/jenslind/electron-gh-releases-test-v2/issues"
-    },
     "homepage": "https://github.com/jenslind/electron-gh-releases-test-v2#readme",
     "devDependencies": {
       "electron-packager": "^5.1.1",
@@ -73,6 +67,11 @@
     },
     "dependencies": {
       "electron-gh-releases": "^2.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jenslind/electron-gh-releases-test-v2/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   "svnUrl": "https://github.com/jenslind/electron-gh-releases-test-v2",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:13:15.595Z",
-  "packageLastFetchedAt": "2017-05-05T14:45:21.722Z"
+  "lastFetchedAt": "2017-10-23T22:07:40.784Z",
+  "packageLastFetchedAt": "2017-05-05T14:45:21.722Z",
+  "archived": false
 }

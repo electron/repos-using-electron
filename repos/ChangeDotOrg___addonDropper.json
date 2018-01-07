@@ -6,7 +6,7 @@
   "owner": {
     "login": "ChangeDotOrg",
     "id": 13207836,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/13207836?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/13207836?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ChangeDotOrg",
     "htmlUrl": "https://github.com/ChangeDotOrg",
@@ -67,7 +67,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T17:42:56.107Z",
+  "lastFetchedAt": "2017-10-23T22:16:21.518Z",
   "packageJSON": {
     "name": "happy-hour",
     "version": "0.0.1",
@@ -77,10 +77,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ChangeDotOrg/addonDropper.git"
-    },
+    "repository": "https://github.com/ChangeDotOrg/addonDropper",
     "keywords": [
       "Electron"
     ],
@@ -100,11 +97,14 @@
       "electron-localshortcut": "^1.0.0"
     },
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ChangeDotOrg/addonDropper/issues"
-    },
-    "homepage": "https://github.com/ChangeDotOrg/addonDropper#readme"
+    "homepage": "https://github.com/ChangeDotOrg/addonDropper#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ChangeDotOrg/addonDropper/issues"
+      }
+    }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T15:29:50.470Z"
+  "packageLastFetchedAt": "2017-05-05T15:29:50.470Z",
+  "archived": false
 }

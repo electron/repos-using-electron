@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -80,10 +80,7 @@
       "start": "electron .",
       "test": "browserify -t babelify test/test-channel.js | tape-run | faucet"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -92,9 +89,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "bootstrap": "^3.3.6",
@@ -111,6 +105,11 @@
       "irc": "",
       "linkifyjs": "^2.0.5",
       "moment": "^2.13.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -138,6 +137,6 @@
   },
   "filename": "pietersartain___coast.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:18:18.139Z",
+  "lastFetchedAt": "2017-10-23T23:01:19.332Z",
   "packageLastFetchedAt": "2017-05-04T22:46:56.841Z"
 }

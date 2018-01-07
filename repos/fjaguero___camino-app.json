@@ -5,7 +5,7 @@
   "owner": {
     "login": "fjaguero",
     "id": 716123,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/716123?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/716123?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/fjaguero",
     "htmlUrl": "https://github.com/fjaguero",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 2,
-  "openIssues": 2,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -66,7 +66,8 @@
     "scripts": {
       "build": "rm -rf ./Camino-darwin-x64 && electron-packager . Camino --platform=darwin --arch=x64 --version=0.37.2 --icon=icon-circle.icns",
       "start": "electron main.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/fjaguero/camino-app",
@@ -113,6 +114,7 @@
   },
   "filename": "fjaguero___camino-app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:51:57.922Z",
-  "packageLastFetchedAt": "2017-05-04T22:19:39.986Z"
+  "lastFetchedAt": "2017-10-23T23:46:14.432Z",
+  "packageLastFetchedAt": "2017-05-04T22:19:39.986Z",
+  "archived": false
 }

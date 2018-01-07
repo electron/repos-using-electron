@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "addressbook",
     "version": "1.0.0",
@@ -87,7 +87,8 @@
     },
     "dependencies": {
       "sqlite3": "^3.1.4"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -114,6 +115,6 @@
   },
   "filename": "sonyzach___addressbook.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:29:35.787Z",
+  "lastFetchedAt": "2017-10-23T23:09:16.835Z",
   "packageLastFetchedAt": "2017-05-05T01:28:39.084Z"
 }

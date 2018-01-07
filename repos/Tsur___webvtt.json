@@ -5,7 +5,7 @@
   "owner": {
     "login": "Tsur",
     "id": 3246153,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/3246153?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/3246153?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Tsur",
     "htmlUrl": "https://github.com/Tsur",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2015-06-07T19:12:58.000Z",
   "updatedAt": "2017-03-14T17:36:38.000Z",
-  "pushedAt": "2017-03-17T19:07:41.000Z",
+  "pushedAt": "2017-06-20T12:36:02.000Z",
   "homepage": "http://tsur.github.io/webvtt/",
-  "size": 5732,
+  "size": 3739,
   "stargazersCount": 5,
   "watchersCount": 5,
   "language": "JavaScript",
@@ -53,11 +53,7 @@
     "homepage": "https://http://tsur.github.io/webvtt",
     "private": true,
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tsur/webvtt"
-    },
-    "bugs": "https://github.com/tsur/webvtt/issues",
+    "repository": "https://github.com/tsur/webvtt",
     "main": "./electron.js",
     "engines": {
       "node": ">=0.10.0"
@@ -105,7 +101,10 @@
       "build:web": "npm run build-css && npm run build-js",
       "package": "electron-packager ./ $npm_package_productName-$npm_package_version --platform=linux --arch=x64 --version=1.2.7 --ignore='node_modules/(electron-packager|electron-prebuilt|electron-debug|babelify|browserify|browserify-incremental|cssnext|exorcist|beefy|http-server|postcss-cli|postcss-nested|semantic-ui-css|silence-chromium|browser-request|express|body-parser)'"
     },
-    "config": {}
+    "config": {},
+    "other": {
+      "bugs": "https://github.com/tsur/webvtt/issues"
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/Tsur/webvtt",
@@ -152,6 +151,7 @@
   },
   "filename": "Tsur___webvtt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:14:56.672Z",
-  "packageLastFetchedAt": "2017-05-05T15:00:43.913Z"
+  "lastFetchedAt": "2017-10-23T21:41:17.368Z",
+  "packageLastFetchedAt": "2017-05-05T15:00:43.913Z",
+  "archived": false
 }

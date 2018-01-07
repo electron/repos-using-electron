@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-video-gpu-cpu-bug-demo",
     "version": "0.1.5",
@@ -79,16 +79,14 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chrisyuska/electron-video-gpu-cpu-bug-demo"
-    },
+    "repository": "https://github.com/chrisyuska/electron-video-gpu-cpu-bug-demo",
     "author": "Chris Yuska <chrisyuska@gmail.com>",
     "license": "MIT",
     "devDependencies": {
       "electron-prebuilt": "1.2.1",
       "pidusage": "1.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +113,6 @@
   },
   "filename": "chrisyuska___electron-video-gpu-cpu-bug-demo.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:20:04.307Z",
+  "lastFetchedAt": "2017-10-23T23:10:03.085Z",
   "packageLastFetchedAt": "2017-05-05T15:38:16.712Z"
 }

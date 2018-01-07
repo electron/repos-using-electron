@@ -5,7 +5,7 @@
   "owner": {
     "login": "ZachGawlik",
     "id": 5553498,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5553498?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5553498?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ZachGawlik",
     "htmlUrl": "https://github.com/ZachGawlik",
@@ -20,21 +20,21 @@
   "description": "Unofficial Habitica desktop app, created with Electron",
   "fork": false,
   "createdAt": "2016-01-23T21:50:10.000Z",
-  "updatedAt": "2017-03-22T15:38:59.000Z",
+  "updatedAt": "2017-08-17T07:30:43.000Z",
   "pushedAt": "2016-02-11T03:48:22.000Z",
   "homepage": null,
   "size": 156,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 0,
-  "openIssuesCount": 2,
-  "openIssues": 2,
-  "watchers": 5,
+  "forksCount": 2,
+  "openIssuesCount": 4,
+  "openIssues": 4,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 0,
-  "subscribersCount": 0,
+  "networkCount": 2,
+  "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "desktop-habitica",
@@ -55,10 +55,7 @@
       "start": "./node_modules/.bin/electron .",
       "build": "./node_modules/.bin/electron-packager . $npm_package_productName --overwrite --out=dist --ignore='^/dist$' --platform=darwin --arch=x64 --version=0.36.5 --app-version=$npm_package_version --icon=desktop-habitica-icon.icns"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ZachGawlik/desktop-habitica.git"
-    },
+    "repository": "https://github.com/ZachGawlik/desktop-habitica",
     "keywords": [
       "habitica",
       "habitRPG",
@@ -66,13 +63,15 @@
     ],
     "author": "Zach Gawlik",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/ZachGawlik/desktop-habitica/issues"
-    },
     "homepage": "https://github.com/ZachGawlik/desktop-habitica#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
       "electron-prebuilt": "^0.36.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ZachGawlik/desktop-habitica/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,7 @@
   "svnUrl": "https://github.com/ZachGawlik/desktop-habitica",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:32:40.575Z",
-  "packageLastFetchedAt": "2017-05-05T15:40:06.053Z"
+  "lastFetchedAt": "2017-10-23T22:27:55.263Z",
+  "packageLastFetchedAt": "2017-05-05T15:40:06.053Z",
+  "archived": false
 }

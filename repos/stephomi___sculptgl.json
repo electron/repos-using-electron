@@ -70,7 +70,7 @@
   },
   "networkCount": 124,
   "subscribersCount": 62,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "SculptGL",
     "homepage": "https://github.com/stephomi/sculptgl",
@@ -99,12 +99,11 @@
       "buildElectron": "yarn release && rm -rf standalone/app/ && cp -R app/ standalone/ && cp package.json standalone",
       "standalone": "yarn buildElectron && cd standalone && node buildStandalone.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/stephomi/sculptgl.git"
-    },
-    "bugs": {
-      "url": "https://github.com/stephomi/sculptgl/issues"
+    "repository": "https://github.com/stephomi/sculptgl",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/stephomi/sculptgl/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,6 @@
   },
   "filename": "stephomi___sculptgl.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:45:50.831Z",
+  "lastFetchedAt": "2017-10-23T23:06:08.738Z",
   "packageLastFetchedAt": "2017-05-05T01:19:42.500Z"
 }

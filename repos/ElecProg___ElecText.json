@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electext",
     "productName": "ElecText",
@@ -82,10 +82,7 @@
       "prepublish": "coffee --compile --bare --output app/lib/ src/",
       "package": "electron-packager . --platform darwin,linux,win32 --arch all --out builds/ --icon app/static/progicon.icns --ignore \"(devREADME.md|node_modules/coffee-script|.vscode|builds|src|[A-z]+.cmd|.git[A-z]*)\""
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ElecProg/ElecText"
-    },
+    "repository": "https://github.com/ElecProg/ElecText",
     "keywords": [
       "text editor",
       "beautiful",
@@ -93,9 +90,6 @@
     ],
     "author": "Evert Provoost",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/ElecProg/ElecText/issues"
-    },
     "homepage": "https://github.com/ElecProg/ElecText/blob/master/README.md",
     "dependencies": {
       "lodash.clonedeep": "^4.3.0",
@@ -110,6 +104,11 @@
       "electron-packager": "^7.0.3",
       "electron-prebuilt": "^1.2.5",
       "electron-rebuild": "^1.1.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ElecProg/ElecText/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -137,6 +136,6 @@
   },
   "filename": "ElecProg___ElecText.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:24.036Z",
+  "lastFetchedAt": "2017-10-23T22:07:13.902Z",
   "packageLastFetchedAt": "2017-05-05T15:36:38.535Z"
 }

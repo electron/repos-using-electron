@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "scirocco",
     "version": "0.0.1",
@@ -62,13 +62,7 @@
     },
     "license": "MIT",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/wolfika/scirocco"
-    },
-    "bugs": {
-      "url": "https://github.com/wolfika/scirocco/issues"
-    },
+    "repository": "https://github.com/wolfika/scirocco",
     "scripts": {
       "start": "gulp",
       "electron": "electron build/lib/bootstrap.js",
@@ -106,6 +100,11 @@
     "config": {
       "commitizen": {
         "path": "node_modules/cz-conventional-changelog"
+      }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/wolfika/scirocco/issues"
       }
     }
   },
@@ -154,6 +153,6 @@
   "svnUrl": "https://github.com/wolfika/scirocco",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:55:32.701Z",
+  "lastFetchedAt": "2017-10-23T22:59:15.579Z",
   "packageLastFetchedAt": "2017-05-05T13:58:10.540Z"
 }

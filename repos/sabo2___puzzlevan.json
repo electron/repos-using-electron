@@ -50,16 +50,13 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "puzzlevan",
     "productName": "Puzzlevan",
     "version": "0.4.0",
     "description": "Pencil puzzle editor by Javascript",
     "main": "main/main.js",
-    "directories": {
-      "test": "tests"
-    },
     "keywords": [
       "puzzle",
       "pencil puzzle",
@@ -67,10 +64,7 @@
     ],
     "author": "sabo2",
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sabo2/puzzlevan"
-    },
+    "repository": "https://github.com/sabo2/puzzlevan",
     "scripts": {
       "debug": "electron . --debug",
       "start": "electron .",
@@ -84,6 +78,11 @@
     },
     "dependencies": {
       "pzpr": "^0.7.0"
+    },
+    "other": {
+      "directories": {
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -131,6 +130,6 @@
   "svnUrl": "https://github.com/sabo2/puzzlevan",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:10:23.556Z",
+  "lastFetchedAt": "2017-10-23T23:04:03.102Z",
   "packageLastFetchedAt": "2017-05-05T17:49:05.234Z"
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "martijnpieters",
     "id": 6927498,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6927498?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6927498?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/martijnpieters",
     "htmlUrl": "https://github.com/martijnpieters",
@@ -76,10 +76,7 @@
     "productName": "Electron + TypeScript",
     "version": "0.0.1",
     "description": "Electron + Typescript boilerplate",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/martijnpieters/electron-typescript.git"
-    },
+    "repository": "https://github.com/martijnpieters/electron-typescript",
     "main": "src/electron/main.js",
     "scripts": {
       "clean": "del-cli ./src/**/*.js && del-cli ./target",
@@ -99,7 +96,8 @@
       "electron-prebuilt": "^1.4.5",
       "typescript": "^2.0.8",
       "typings": "^1.5.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,7 @@
   },
   "filename": "martijnpieters___electron-typescript.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:38.047Z",
-  "packageLastFetchedAt": "2017-05-05T01:27:24.954Z"
+  "lastFetchedAt": "2017-10-24T00:19:10.941Z",
+  "packageLastFetchedAt": "2017-05-05T01:27:24.954Z",
+  "archived": false
 }

@@ -70,7 +70,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "mva-ide",
     "version": "0.5.2",
@@ -115,14 +115,13 @@
       "nan": "^2.4.0",
       "react-ace": "^3.5.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ordinarygithubuser/IDE.git"
-    },
-    "bugs": {
-      "url": "https://github.com/ordinarygithubuser/IDE/issues"
-    },
-    "homepage": "https://github.com/ordinarygithubuser/IDE#readme"
+    "repository": "https://github.com/ordinarygithubuser/IDE",
+    "homepage": "https://github.com/ordinarygithubuser/IDE#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ordinarygithubuser/IDE/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -149,6 +148,6 @@
   },
   "filename": "ordinarygithubuser___IDE.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:59:32.052Z",
+  "lastFetchedAt": "2017-10-23T23:05:20.585Z",
   "packageLastFetchedAt": "2017-05-04T22:01:52.516Z"
 }

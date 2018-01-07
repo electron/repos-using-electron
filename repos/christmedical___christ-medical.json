@@ -5,7 +5,7 @@
   "owner": {
     "login": "christmedical",
     "id": 15088535,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15088535?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15088535?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/christmedical",
     "htmlUrl": "https://github.com/christmedical",
@@ -50,7 +50,7 @@
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 0,
   "mirrorUrl": null,
   "openIssuesCount": 1,
   "openIssues": 1,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "christmedical",
     "id": 15088535,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/15088535?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/15088535?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/christmedical",
     "htmlUrl": "https://github.com/christmedical",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/christmedical/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -94,16 +94,10 @@
       "build": "node ./build/build.js",
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/christmedical/christ-medical.git"
-    },
+    "repository": "https://github.com/christmedical/christ-medical",
     "keywords": [],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/christmedical/christ-medical/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "bootstrap-sass": "^3.3.6",
@@ -120,7 +114,12 @@
       "vue-router": "^0.7.13",
       "vuex": "^0.6.3"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {
+      "bugs": {
+        "url": "https://github.com/christmedical/christ-medical/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -147,6 +146,7 @@
   },
   "filename": "christmedical___christ-medical.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:31:41.461Z",
-  "packageLastFetchedAt": "2017-05-04T23:01:13.943Z"
+  "lastFetchedAt": "2017-10-23T23:12:21.362Z",
+  "packageLastFetchedAt": "2017-05-04T23:01:13.943Z",
+  "archived": false
 }

@@ -6,7 +6,7 @@
   "owner": {
     "login": "iscobar",
     "id": 2181057,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2181057?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2181057?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iscobar",
     "htmlUrl": "https://github.com/iscobar",
@@ -70,7 +70,7 @@
     "owner": {
       "login": "resin-io",
       "id": 6157842,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6157842?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6157842?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/resin-io",
       "htmlUrl": "https://github.com/resin-io",
@@ -100,27 +100,28 @@
     "downloadsUrl": "https://api.github.com/repos/resin-io/resin-electronjs/downloads",
     "deploymentsUrl": "https://api.github.com/repos/resin-io/resin-electronjs/deployments",
     "createdAt": "2016-01-13T18:24:04.000Z",
-    "updatedAt": "2017-05-01T23:58:32.000Z",
-    "pushedAt": "2017-05-03T13:40:57.000Z",
+    "updatedAt": "2017-10-20T15:43:46.000Z",
+    "pushedAt": "2017-10-15T08:55:36.000Z",
     "gitUrl": "git://github.com/resin-io/resin-electronjs.git",
     "sshUrl": "git@github.com:resin-io/resin-electronjs.git",
     "cloneUrl": "https://github.com/resin-io/resin-electronjs.git",
     "svnUrl": "https://github.com/resin-io/resin-electronjs",
     "homepage": "http://resin.io",
-    "size": 517,
-    "stargazersCount": 110,
-    "watchersCount": 110,
+    "size": 1723,
+    "stargazersCount": 178,
+    "watchersCount": 178,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 32,
+    "forksCount": 53,
     "mirrorUrl": null,
-    "openIssuesCount": 9,
-    "openIssues": 9,
-    "watchers": 110,
+    "archived": false,
+    "openIssuesCount": 12,
+    "openIssues": 12,
+    "watchers": 178,
     "defaultBranch": "master"
   },
   "source": {
@@ -130,7 +131,7 @@
     "owner": {
       "login": "resin-io",
       "id": 6157842,
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/6157842?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/6157842?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/resin-io",
       "htmlUrl": "https://github.com/resin-io",
@@ -160,30 +161,31 @@
     "downloadsUrl": "https://api.github.com/repos/resin-io/resin-electronjs/downloads",
     "deploymentsUrl": "https://api.github.com/repos/resin-io/resin-electronjs/deployments",
     "createdAt": "2016-01-13T18:24:04.000Z",
-    "updatedAt": "2017-05-01T23:58:32.000Z",
-    "pushedAt": "2017-05-03T13:40:57.000Z",
+    "updatedAt": "2017-10-20T15:43:46.000Z",
+    "pushedAt": "2017-10-15T08:55:36.000Z",
     "gitUrl": "git://github.com/resin-io/resin-electronjs.git",
     "sshUrl": "git@github.com:resin-io/resin-electronjs.git",
     "cloneUrl": "https://github.com/resin-io/resin-electronjs.git",
     "svnUrl": "https://github.com/resin-io/resin-electronjs",
     "homepage": "http://resin.io",
-    "size": 517,
-    "stargazersCount": 110,
-    "watchersCount": 110,
+    "size": 1723,
+    "stargazersCount": 178,
+    "watchersCount": 178,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 32,
+    "forksCount": 53,
     "mirrorUrl": null,
-    "openIssuesCount": 9,
-    "openIssues": 9,
-    "watchers": 110,
+    "archived": false,
+    "openIssuesCount": 12,
+    "openIssues": 12,
+    "watchers": 178,
     "defaultBranch": "master"
   },
-  "networkCount": 32,
+  "networkCount": 53,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -195,10 +197,7 @@
       "start": "NODE_ENV=production startx ./node_modules/electron-prebuilt/dist/electron .",
       "test": "NODE_ENV=development startx ./node_modules/electron-prebuilt/dist/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fwrgit/resin-electronjs.git"
-    },
+    "repository": "https://github.com/fwrgit/resin-electronjs",
     "keywords": [
       "resin",
       "io",
@@ -211,13 +210,15 @@
     },
     "author": "Carlo Maria Curinga",
     "license": "Apache-2.0",
-    "bugs": {
-      "url": "https://github.com/fwrgit/resin-electronjs/issues"
-    },
     "homepage": "https://github.com/fwrgit/resin-electronjs#readme",
     "jshintConfig": {
       "esnext": true,
       "strict": true
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fwrgit/resin-electronjs/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +245,7 @@
     }
   },
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:59.861Z",
-  "packageLastFetchedAt": "2017-05-05T17:26:35.868Z"
+  "lastFetchedAt": "2017-10-23T23:40:04.520Z",
+  "packageLastFetchedAt": "2017-05-05T17:26:35.868Z",
+  "archived": false
 }

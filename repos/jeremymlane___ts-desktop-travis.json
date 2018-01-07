@@ -5,7 +5,7 @@
   "owner": {
     "login": "jeremymlane",
     "id": 1743584,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1743584?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1743584?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jeremymlane",
     "htmlUrl": "https://github.com/jeremymlane",
@@ -78,16 +78,12 @@
     "description": "A utility for translating the Bible and biblical content into any language.",
     "keywords": [],
     "homepage": "https://github.com/unfoldingWord-dev/ts-desktop",
-    "bugs": "https://github.com/unfoldingWord-dev/ts-desktop/issues",
     "author": {
       "name": "Joel Lonbeck",
       "email": "",
       "url": "https://github.com/neutrinog"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:unfoldingWord-dev/ts-desktop.git"
-    },
+    "repository": "https://github.com/unfoldingWord-dev/ts-desktop",
     "dependencies": {
       "adm-zip": "^0.4.7",
       "archiver": "^0.21.0",
@@ -125,7 +121,10 @@
       "start": "electron src/js/main.js"
     },
     "main": "src/js/main.js",
-    "license": "GPL-2.0"
+    "license": "GPL-2.0",
+    "other": {
+      "bugs": "https://github.com/unfoldingWord-dev/ts-desktop/issues"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -153,6 +152,7 @@
   "filename": "jeremymlane___ts-desktop-travis.json",
   "sourceRepo": "unfoldingWord-dev/ts-desktop",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:24:34.694Z",
-  "packageLastFetchedAt": "2017-05-04T22:12:24.996Z"
+  "lastFetchedAt": "2017-10-24T00:13:33.442Z",
+  "packageLastFetchedAt": "2017-05-04T22:12:24.996Z",
+  "archived": false
 }

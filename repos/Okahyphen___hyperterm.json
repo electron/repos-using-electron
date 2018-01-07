@@ -170,7 +170,7 @@
   },
   "networkCount": 1146,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "productName": "HyperTerm",
@@ -219,7 +219,8 @@
     "scripts": {
       "start": "electron index",
       "lint": "eslint *.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/Okahyphen/hyperterm",
@@ -267,6 +268,6 @@
   "filename": "Okahyphen___hyperterm.json",
   "sourceRepo": "zeit/hyperterm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:13:45.026Z",
+  "lastFetchedAt": "2017-10-24T00:06:37.663Z",
   "packageLastFetchedAt": "2017-05-04T23:09:43.966Z"
 }

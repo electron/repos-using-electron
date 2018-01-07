@@ -50,7 +50,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "org.vi7.protonmail",
     "title": "ProtonMail Client (Unofficial)",
@@ -78,7 +78,8 @@
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +126,6 @@
   "svnUrl": "https://github.com/Cranite/ProtonMail",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T18:14:56.879Z",
+  "lastFetchedAt": "2017-10-23T23:04:19.585Z",
   "packageLastFetchedAt": "2017-05-04T22:21:40.719Z"
 }

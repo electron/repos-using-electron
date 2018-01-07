@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "nuts-desktop",
     "productName": "fdFlow",
@@ -80,10 +80,7 @@
       "build:win64": "rm -rf dist && electron-packager ./ fdFlow --platform=win32 --arch=x64 --icon=./assets/img/fd.png --overwrite --out ./dist --version=1.4.5 --ignore=.github",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/F-happy/nuts-desktop.git"
-    },
+    "repository": "https://github.com/F-happy/nuts-desktop",
     "build": {
       "appId": "com.jonnyf.fdflow",
       "mac": {
@@ -133,7 +130,8 @@
       "vue": "^2.1.10",
       "webpack": "^2.2.1",
       "webpack-stream": "^3.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -160,6 +158,6 @@
   },
   "filename": "F-happy___nuts-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:42:16.823Z",
+  "lastFetchedAt": "2017-10-23T23:04:40.338Z",
   "packageLastFetchedAt": "2017-05-05T17:21:42.079Z"
 }

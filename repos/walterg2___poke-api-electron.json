@@ -5,7 +5,7 @@
   "owner": {
     "login": "walterg2",
     "id": 103274,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/103274?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/103274?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/walterg2",
     "htmlUrl": "https://github.com/walterg2",
@@ -76,30 +76,29 @@
     "version": "0.0.1",
     "description": "Pokemon Discovery Application",
     "main": "app/main/index.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "start": "electron .",
       "test": "echo 'No tests found'"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/walterg2/poke-api-electron.git"
-    },
+    "repository": "https://github.com/walterg2/poke-api-electron",
     "keywords": [
       "Pokemon",
       "Discovery"
     ],
     "author": "George T. Walters II",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/walterg2/poke-api-electron/issues"
-    },
     "homepage": "https://github.com/walterg2/poke-api-electron#readme",
     "devDependencies": {
       "electron": "^1.4.4",
       "electron-packager": "^8.1.0"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/walterg2/poke-api-electron/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -127,6 +126,7 @@
   },
   "filename": "walterg2___poke-api-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:19:59.377Z",
-  "packageLastFetchedAt": "2017-05-05T17:24:55.655Z"
+  "lastFetchedAt": "2017-10-23T22:56:06.648Z",
+  "packageLastFetchedAt": "2017-05-05T17:24:55.655Z",
+  "archived": false
 }

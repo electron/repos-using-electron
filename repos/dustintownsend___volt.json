@@ -5,7 +5,7 @@
   "owner": {
     "login": "dustintownsend",
     "id": 16727,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16727?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16727?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dustintownsend",
     "htmlUrl": "https://github.com/dustintownsend",
@@ -84,19 +84,13 @@
       "dist:mac": "npm run build && build",
       "dist:win": "npm run build && build --win --x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dustintownsend/volt.git"
-    },
+    "repository": "https://github.com/dustintownsend/volt",
     "keywords": [
       "electron",
       "boilerplate"
     ],
     "author": "Dustin Townsend",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dustintownsend/volt/issues"
-    },
     "homepage": "https://github.com/dustintownsend/volt#readme",
     "build": {
       "appId": "org.dustintownsend.electron-volt",
@@ -127,15 +121,20 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "build_resources",
-      "output": "dist",
-      "app": "app"
-    },
     "devDependencies": {
       "babel-cli": "^6.11.4",
       "electron-builder": "^5.22.2",
       "electron-prebuilt": "^1.3.2"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "build_resources",
+        "output": "dist",
+        "app": "app"
+      },
+      "bugs": {
+        "url": "https://github.com/dustintownsend/volt/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -163,6 +162,7 @@
   },
   "filename": "dustintownsend___volt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:42:52.154Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:28.257Z"
+  "lastFetchedAt": "2017-10-24T00:17:14.696Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:28.257Z",
+  "archived": false
 }

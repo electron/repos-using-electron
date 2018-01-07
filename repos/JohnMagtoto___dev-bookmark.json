@@ -5,7 +5,7 @@
   "owner": {
     "login": "JohnMagtoto",
     "id": 6219385,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6219385?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6219385?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JohnMagtoto",
     "htmlUrl": "https://github.com/JohnMagtoto",
@@ -75,9 +75,7 @@
     "name": "dev-bookmark",
     "version": "0.0.0",
     "description": "Developer Bookmarker toy project of Enceladus for testing the viability of doing desktop apps with Angular 2 and Electron",
-    "repository": {
-      "url": "https://github.com/JohnMagtoto/dev-bookmark"
-    },
+    "repository": "https://github.com/JohnMagtoto/dev-bookmark",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -229,7 +227,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.26",
       "zone.js": "^0.6.12"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -256,6 +255,7 @@
   },
   "filename": "JohnMagtoto___dev-bookmark.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:56:30.694Z",
-  "packageLastFetchedAt": "2017-05-05T14:37:31.452Z"
+  "lastFetchedAt": "2017-10-23T22:30:08.263Z",
+  "packageLastFetchedAt": "2017-05-05T14:37:31.452Z",
+  "archived": false
 }

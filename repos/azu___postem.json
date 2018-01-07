@@ -5,7 +5,7 @@
   "owner": {
     "login": "azu",
     "id": 19714,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19714?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19714?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/azu",
     "htmlUrl": "https://github.com/azu",
@@ -17,13 +17,13 @@
     "type": "User"
   },
   "private": false,
-  "description": "Cross posting twitter/hatebu/own services client.",
+  "description": "Cross posting twitter/hatebu/own services client on electron.",
   "fork": false,
   "createdAt": "2015-09-26T11:08:47.000Z",
-  "updatedAt": "2017-01-17T11:56:32.000Z",
-  "pushedAt": "2017-03-15T00:59:33.000Z",
+  "updatedAt": "2017-08-13T13:55:01.000Z",
+  "pushedAt": "2017-10-22T11:15:26.000Z",
   "homepage": "",
-  "size": 234,
+  "size": 278,
   "stargazersCount": 2,
   "watchersCount": 2,
   "language": "JavaScript",
@@ -53,25 +53,16 @@
   "status": 200,
   "packageJSON": {
     "name": "postem",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/azu/postem.git"
-    },
+    "repository": "https://github.com/azu/postem",
     "author": "azu",
     "email": "azuciao@gmail.com",
     "homepage": "https://github.com/azu/postem",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/azu/postem/issues"
-    },
     "version": "1.0.0",
     "description": "electron app that like tombloo.",
     "main": "index.js",
     "bin": {
       "postem": "bin/cmd.js"
-    },
-    "directories": {
-      "test": "test"
     },
     "scripts": {
       "build": "NODE_ENV=production gulp build",
@@ -131,6 +122,14 @@
       "gulp": "^3.9.0",
       "gulp-babel": "^6.1.1",
       "gulp-if": "^2.0.0"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/azu/postem/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,7 @@
   },
   "filename": "azu___postem.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:32:16.212Z",
-  "packageLastFetchedAt": "2017-05-05T14:48:16.071Z"
+  "lastFetchedAt": "2017-10-23T21:50:41.646Z",
+  "packageLastFetchedAt": "2017-05-05T14:48:16.071Z",
+  "archived": false
 }

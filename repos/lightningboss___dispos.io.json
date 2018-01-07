@@ -6,7 +6,7 @@
   "owner": {
     "login": "lightningboss",
     "id": 11751444,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/11751444?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/11751444?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/lightningboss",
     "htmlUrl": "https://github.com/lightningboss",
@@ -19,7 +19,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/lightningboss/dispos.io",
-  "description": "create call sheets like a pro",
+  "description": "create call sheets like a professional",
   "fork": false,
   "url": "https://api.github.com/repos/lightningboss/dispos.io",
   "forksUrl": "https://api.github.com/repos/lightningboss/dispos.io/forks",
@@ -36,14 +36,14 @@
   "downloadsUrl": "https://api.github.com/repos/lightningboss/dispos.io/downloads",
   "deploymentsUrl": "https://api.github.com/repos/lightningboss/dispos.io/deployments",
   "createdAt": "2017-02-27T23:13:38.000Z",
-  "updatedAt": "2017-03-03T21:19:15.000Z",
-  "pushedAt": "2017-04-02T21:15:52.000Z",
+  "updatedAt": "2017-05-28T15:19:35.000Z",
+  "pushedAt": "2017-06-25T20:29:35.000Z",
   "gitUrl": "git://github.com/lightningboss/dispos.io.git",
   "sshUrl": "git@github.com:lightningboss/dispos.io.git",
   "cloneUrl": "https://github.com/lightningboss/dispos.io.git",
   "svnUrl": "https://github.com/lightningboss/dispos.io",
   "homepage": "",
-  "size": 4973,
+  "size": 5526,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -73,7 +73,7 @@
   "networkCount": 0,
   "subscribersCount": 1,
   "status": 200,
-  "lastFetchedAt": "2017-05-04T05:15:49.785Z",
+  "lastFetchedAt": "2017-10-23T21:50:05.445Z",
   "packageJSON": {
     "name": "electron-react-boilerplate",
     "productName": "dispos.io",
@@ -142,26 +142,16 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chentsulin/electron-react-boilerplate.git"
-    },
+    "repository": "https://github.com/chentsulin/electron-react-boilerplate",
     "author": {
       "name": "C. T. Lin",
       "email": "chentsulin@gmail.com",
       "url": "https://github.com/chentsulin"
     },
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
-    },
     "keywords": [
       "electron",
       "boilerplate",
@@ -258,8 +248,18 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/chentsulin/electron-react-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-05T14:52:55.628Z"
+  "packageLastFetchedAt": "2017-05-05T14:52:55.628Z",
+  "archived": false
 }

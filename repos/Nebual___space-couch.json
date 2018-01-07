@@ -5,7 +5,7 @@
   "owner": {
     "login": "Nebual",
     "id": 1627867,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1627867?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1627867?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Nebual",
     "htmlUrl": "https://github.com/Nebual",
@@ -66,19 +66,13 @@
       "7z": "./node_modules/7zip-bin-linux/x64/7za a space-couch-win32-x64.7z dist/space-couch-win32-x64",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Nebual/space-couch.git"
-    },
+    "repository": "https://github.com/Nebual/space-couch",
     "keywords": [
       "Electron",
       "quick",
       "start",
       "tutorial"
     ],
-    "bugs": {
-      "url": "https://github.com/Nebual/space-couch/issues"
-    },
     "homepage": "https://github.com/Nebual/space-couch#readme",
     "devDependencies": {
       "7zip-bin": "^1.0.5",
@@ -116,7 +110,12 @@
         "name": "Rob Williams",
         "url": "https://github.com/Robert-Williams"
       }
-    ]
+    ],
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Nebual/space-couch/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -163,6 +162,7 @@
   "svnUrl": "https://github.com/Nebual/space-couch",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:15:04.697Z",
-  "packageLastFetchedAt": "2017-05-04T22:42:11.215Z"
+  "lastFetchedAt": "2017-10-24T00:07:21.442Z",
+  "packageLastFetchedAt": "2017-05-04T22:42:11.215Z",
+  "archived": false
 }

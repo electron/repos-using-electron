@@ -5,7 +5,7 @@
   "owner": {
     "login": "colelawrence",
     "id": 2925395,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2925395?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2925395?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/colelawrence",
     "htmlUrl": "https://github.com/colelawrence",
@@ -18,7 +18,7 @@
   },
   "private": false,
   "htmlUrl": "https://github.com/colelawrence/flying",
-  "description": "Some crazy experiment",
+  "description": "Some crazy experiment to create an Atom-like IDE that could be used for Processing (p5.js)-like editing experience for beginners.",
   "fork": false,
   "url": "https://api.github.com/repos/colelawrence/flying",
   "forksUrl": "https://api.github.com/repos/colelawrence/flying/forks",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/colelawrence/flying/downloads",
   "deploymentsUrl": "https://api.github.com/repos/colelawrence/flying/deployments",
   "createdAt": "2016-03-18T03:19:48.000Z",
-  "updatedAt": "2016-04-08T01:45:11.000Z",
+  "updatedAt": "2017-09-30T06:08:41.000Z",
   "pushedAt": "2016-04-08T02:39:35.000Z",
   "gitUrl": "git://github.com/colelawrence/flying.git",
   "sshUrl": "git@github.com:colelawrence/flying.git",
@@ -82,10 +82,7 @@
       "start": "electron main.js",
       "watch": "nodemon --ext js,html,proto,less --ignore node_modules --ignore dist --exec npm-run-all build start"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -94,9 +91,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
@@ -119,6 +113,11 @@
       "url-loader": "^0.5.7",
       "webpack": "^1.12.14",
       "wolfy87-eventemitter": "github:olical/EventEmitter"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -147,6 +146,7 @@
   "filename": "ZombieHippie___flying.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:05:16.187Z",
-  "packageLastFetchedAt": "2017-05-04T23:09:41.947Z"
+  "lastFetchedAt": "2017-10-24T00:09:06.778Z",
+  "packageLastFetchedAt": "2017-05-04T23:09:41.947Z",
+  "archived": false
 }

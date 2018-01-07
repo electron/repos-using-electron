@@ -50,16 +50,13 @@
   },
   "networkCount": 1,
   "subscribersCount": 7,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "tos-laimas-compass",
     "version": "0.0.1",
     "main": "main.js",
     "description": "A companion tool for the completionist Revelator",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lbotinelly/tos-laimas-compass.git"
-    },
+    "repository": "https://github.com/lbotinelly/tos-laimas-compass",
     "keywords": [
       "Tree of Savior",
       "TOS",
@@ -104,7 +101,8 @@
       "socket.io": "^1.4.5",
       "ui-select": "^0.17.1",
       "xml2js": "^0.4.16"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/LeoLombardi/tos-laimas-compass",
@@ -151,6 +149,6 @@
   },
   "filename": "LeoLombardi___tos-laimas-compass.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:03:41.483Z",
+  "lastFetchedAt": "2017-10-23T23:10:45.580Z",
   "packageLastFetchedAt": "2017-05-05T14:49:48.233Z"
 }

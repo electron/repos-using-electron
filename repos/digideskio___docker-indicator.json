@@ -164,7 +164,7 @@
   },
   "networkCount": 4,
   "subscribersCount": 0,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "docker-indicator",
     "version": "0.0.4",
@@ -188,7 +188,8 @@
       "start": "electron ."
     },
     "author": "Kyle Hornberg <kyle.hornberg@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -236,6 +237,6 @@
   "svnUrl": "https://github.com/digideskio/docker-indicator",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:30:53.012Z",
+  "lastFetchedAt": "2017-10-23T23:11:01.576Z",
   "packageLastFetchedAt": "2017-05-04T22:05:21.540Z"
 }

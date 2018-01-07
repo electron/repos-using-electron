@@ -5,7 +5,7 @@
   "owner": {
     "login": "hawkins",
     "id": 9123458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9123458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/9123458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hawkins",
     "htmlUrl": "https://github.com/hawkins",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/hawkins/electron-boilerplate/downloads",
   "deploymentsUrl": "https://api.github.com/repos/hawkins/electron-boilerplate/deployments",
   "createdAt": "2016-09-13T16:38:30.000Z",
-  "updatedAt": "2016-09-13T16:40:48.000Z",
+  "updatedAt": "2017-08-17T19:00:48.000Z",
   "pushedAt": "2016-09-13T17:26:07.000Z",
   "gitUrl": "git://github.com/hawkins/electron-boilerplate.git",
   "sshUrl": "git@github.com:hawkins/electron-boilerplate.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/hawkins/electron-boilerplate",
   "homepage": null,
   "size": 203,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -77,19 +77,13 @@
       "scss": "gulp scss",
       "start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/hawkins/electron-boilerplate.git"
-    },
+    "repository": "https://github.com/hawkins/electron-boilerplate",
     "keywords": [
       "electron",
       "boilerplate"
     ],
     "author": "Josh Hawkins",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hawkins/electron-boilerplate/issues"
-    },
     "homepage": "https://github.com/hawkins/electron-boilerplate#readme",
     "devDependencies": {
       "electron": "^1.3.5",
@@ -99,6 +93,11 @@
     },
     "dependencies": {
       "electron-prebuilt": "^1.3.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/hawkins/electron-boilerplate/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "hawkins___electron-boilerplate.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:29:53.195Z",
-  "packageLastFetchedAt": "2017-05-05T15:08:08.041Z"
+  "lastFetchedAt": "2017-10-23T22:13:11.023Z",
+  "packageLastFetchedAt": "2017-05-05T15:08:08.041Z",
+  "archived": false
 }

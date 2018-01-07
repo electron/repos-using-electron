@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "vampirecsg",
     "version": "0.1.0",
@@ -83,22 +83,21 @@
     },
     "author": "Kornelia Kobiela",
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/korneliakobiela/VampireCSG.git"
-    },
+    "repository": "https://github.com/korneliakobiela/VampireCSG",
     "keywords": [
       "vampire",
       "game",
       "rpg",
       "generator"
     ],
-    "bugs": {
-      "url": "https://github.com/korneliakobiela/VampireCSG/issues"
-    },
     "homepage": "https://github.com/korneliakobiela/VampireCSG#readme",
-    "directories": {
-      "test": "test"
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/korneliakobiela/VampireCSG/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,6 @@
   },
   "filename": "korneliakobiela___VampireCSG.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:53:52.625Z",
+  "lastFetchedAt": "2017-10-23T23:09:42.857Z",
   "packageLastFetchedAt": "2017-05-04T22:37:39.554Z"
 }

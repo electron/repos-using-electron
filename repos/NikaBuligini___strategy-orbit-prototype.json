@@ -70,7 +70,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "game-prototype",
     "version": "0.0.1",
@@ -79,20 +79,19 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/NikaBuligini/strategy-orbit-prototype.git"
-    },
+    "repository": "https://github.com/NikaBuligini/strategy-orbit-prototype",
     "author": "Nikoloz Buligini",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/NikaBuligini/strategy-orbit-prototype/issues"
-    },
     "homepage": "https://github.com/NikaBuligini/strategy-orbit-prototype#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.3",
       "gulp": "^3.9.1",
       "gulp-sass": "^2.3.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/NikaBuligini/strategy-orbit-prototype/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -120,6 +119,6 @@
   },
   "filename": "NikaBuligini___strategy-orbit-prototype.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:10.337Z",
+  "lastFetchedAt": "2017-10-24T00:11:12.173Z",
   "packageLastFetchedAt": "2017-05-05T15:26:36.838Z"
 }

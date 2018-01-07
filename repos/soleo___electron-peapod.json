@@ -5,7 +5,7 @@
   "owner": {
     "login": "soleo",
     "id": 635858,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/635858?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/635858?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/soleo",
     "htmlUrl": "https://github.com/soleo",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/soleo/electron-peapod/deployments",
   "createdAt": "2016-11-15T04:13:49.000Z",
   "updatedAt": "2016-11-21T03:31:54.000Z",
-  "pushedAt": "2017-02-10T21:03:15.000Z",
+  "pushedAt": "2017-10-19T05:40:32.000Z",
   "gitUrl": "git://github.com/soleo/electron-peapod.git",
   "sshUrl": "git@github.com:soleo/electron-peapod.git",
   "cloneUrl": "https://github.com/soleo/electron-peapod.git",
   "svnUrl": "https://github.com/soleo/electron-peapod",
   "homepage": "",
-  "size": 940,
+  "size": 1049,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -52,8 +52,8 @@
   "hasPages": false,
   "forksCount": 0,
   "mirrorUrl": null,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 3,
+  "openIssues": 3,
   "watchers": 0,
   "defaultBranch": "master",
   "permissions": {
@@ -71,10 +71,7 @@
     "version": "0.0.1",
     "description": "Unofficial PeaPod Native App for Windows, macOS and Linux platforms",
     "main": "app.js",
-    "repository": {
-      "url": "https://github.com/soleo/electron-peapod.git",
-      "type": "git"
-    },
+    "repository": "https://github.com/soleo/electron-peapod",
     "scripts": {
       "test": "xo",
       "start": "electron .",
@@ -106,7 +103,8 @@
         "node",
         "browser"
       ]
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -133,6 +131,7 @@
   },
   "filename": "soleo___electron-peapod.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:00.618Z",
-  "packageLastFetchedAt": "2017-05-05T15:42:46.415Z"
+  "lastFetchedAt": "2017-10-24T00:19:14.950Z",
+  "packageLastFetchedAt": "2017-05-05T15:42:46.415Z",
+  "archived": false
 }

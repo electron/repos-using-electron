@@ -5,7 +5,7 @@
   "owner": {
     "login": "IonicaBizauKitchen",
     "id": 12038456,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12038456?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12038456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IonicaBizauKitchen",
     "htmlUrl": "https://github.com/IonicaBizauKitchen",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "IonicaBizauKitchen",
     "id": 12038456,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/12038456?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/12038456?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/IonicaBizauKitchen",
     "htmlUrl": "https://github.com/IonicaBizauKitchen",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "ungoldman",
       "id": 427322,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/427322?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/427322?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ungoldman",
       "htmlUrl": "https://github.com/ungoldman",
@@ -109,8 +109,9 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 7,
+    "forksCount": 6,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 24,
@@ -123,7 +124,7 @@
     "owner": {
       "login": "ungoldman",
       "id": 427322,
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/427322?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/427322?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/ungoldman",
       "htmlUrl": "https://github.com/ungoldman",
@@ -169,14 +170,15 @@
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 7,
+    "forksCount": 6,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 0,
     "openIssues": 0,
     "watchers": 24,
     "defaultBranch": "master"
   },
-  "networkCount": 7,
+  "networkCount": 6,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -184,9 +186,6 @@
     "description": "Absolute bare minimum Hello World Electron app",
     "version": "1.0.0",
     "author": "Nate Goldman <nate@ngoldman.me>",
-    "bugs": {
-      "url": "https://github.com/ngoldman/electron-hello-world/issues"
-    },
     "devDependencies": {
       "electron-prebuilt": "^0.31.2"
     },
@@ -202,13 +201,15 @@
     "license": "CC-0",
     "main": "index.js",
     "private": true,
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/ngoldman/electron-hello-world.git"
-    },
+    "repository": "https://github.com/ngoldman/electron-hello-world",
     "scripts": {
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ngoldman/electron-hello-world/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -257,6 +258,7 @@
   "filename": "IonicaBizauKitchen___electron-hello-world.json",
   "sourceRepo": "ungoldman/electron-hello-world",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:24:37.254Z",
-  "packageLastFetchedAt": "2017-05-04T22:09:52.278Z"
+  "lastFetchedAt": "2017-10-23T21:44:48.745Z",
+  "packageLastFetchedAt": "2017-05-04T22:09:52.278Z",
+  "archived": false
 }

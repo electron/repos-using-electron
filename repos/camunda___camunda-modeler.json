@@ -5,7 +5,7 @@
   "owner": {
     "login": "camunda",
     "id": 2443838,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2443838?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2443838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/camunda",
     "htmlUrl": "https://github.com/camunda",
@@ -20,21 +20,21 @@
   "description": "An integrated modeling solution for BPMN, DMN and CMMN based on bpmn.io",
   "fork": false,
   "createdAt": "2015-09-18T09:38:04.000Z",
-  "updatedAt": "2017-04-19T14:08:23.000Z",
-  "pushedAt": "2017-05-03T16:16:04.000Z",
+  "updatedAt": "2017-10-19T08:52:58.000Z",
+  "pushedAt": "2017-10-16T12:00:35.000Z",
   "homepage": "https://camunda.org/bpmn/tool",
-  "size": 3371,
-  "stargazersCount": 98,
-  "watchersCount": 98,
+  "size": 5082,
+  "stargazersCount": 156,
+  "watchersCount": 156,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 47,
-  "openIssuesCount": 146,
-  "openIssues": 146,
-  "watchers": 98,
+  "forksCount": 63,
+  "openIssuesCount": 193,
+  "openIssues": 193,
+  "watchers": 156,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "camunda",
     "id": 2443838,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/2443838?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/2443838?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/camunda",
     "htmlUrl": "https://github.com/camunda",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/camunda/received_events",
     "type": "Organization"
   },
-  "networkCount": 47,
-  "subscribersCount": 39,
+  "networkCount": 63,
+  "subscribersCount": 50,
   "status": 200,
   "packageJSON": {
     "name": "camunda-modeler",
@@ -79,10 +79,7 @@
     },
     "author": "Camunda BPM <http://camunda.org>",
     "license": "SEE LICENSE IN LICENSE",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/camunda/camunda-modeler"
-    },
+    "repository": "https://github.com/camunda/camunda-modeler",
     "browserify": {
       "transform": [
         "babelify",
@@ -183,7 +180,8 @@
       "vtree-select": "^2.0.0",
       "watchify": "^3.7.0",
       "which": "^1.2.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -230,6 +228,7 @@
   "svnUrl": "https://github.com/camunda/camunda-modeler",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:46:44.566Z",
-  "packageLastFetchedAt": "2017-05-04T22:07:21.842Z"
+  "lastFetchedAt": "2017-10-23T22:12:35.043Z",
+  "packageLastFetchedAt": "2017-05-04T22:07:21.842Z",
+  "archived": false
 }

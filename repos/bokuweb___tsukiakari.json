@@ -5,7 +5,7 @@
   "owner": {
     "login": "bokuweb",
     "id": 10220449,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/10220449?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/10220449?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bokuweb",
     "htmlUrl": "https://github.com/bokuweb",
@@ -20,21 +20,21 @@
   "description": "【WIP】Twitter Client built on Electron. ",
   "fork": false,
   "createdAt": "2015-12-15T02:10:18.000Z",
-  "updatedAt": "2017-04-21T03:43:22.000Z",
+  "updatedAt": "2017-08-28T15:25:01.000Z",
   "pushedAt": "2017-04-19T01:39:49.000Z",
   "homepage": "",
   "size": 10673,
-  "stargazersCount": 38,
-  "watchersCount": 38,
+  "stargazersCount": 44,
+  "watchersCount": 44,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 8,
+  "forksCount": 7,
   "openIssuesCount": 2,
   "openIssues": 2,
-  "watchers": 38,
+  "watchers": 44,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,8 +42,8 @@
     "pull": true
   },
   "license": null,
-  "networkCount": 8,
-  "subscribersCount": 2,
+  "networkCount": 7,
+  "subscribersCount": 3,
   "status": 200,
   "packageJSON": {
     "name": "Tsukiakari",
@@ -70,10 +70,7 @@
       "unittest:view-watch": "karma start --auto-watch --no-single-run",
       "prepush": "npm run flow && npm run unittest:view"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bokuweb/Tsukiakari.git"
-    },
+    "repository": "https://github.com/bokuweb/Tsukiakari",
     "keywords": [
       "Electron",
       "React",
@@ -82,9 +79,6 @@
     ],
     "author": "bokuweb",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bokuweb/Tsukiakari/issues"
-    },
     "homepage": "https://github.com/bokuweb/Tsukiakari#readme",
     "devDependencies": {
       "babel": "^6.23.0",
@@ -185,6 +179,11 @@
       "transform": [
         "babelify"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bokuweb/Tsukiakari/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -232,6 +231,7 @@
   },
   "filename": "bokuweb___tsukiakari.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:55:38.728Z",
-  "packageLastFetchedAt": "2017-05-04T22:36:32.189Z"
+  "lastFetchedAt": "2017-10-23T22:30:03.259Z",
+  "packageLastFetchedAt": "2017-05-04T22:36:32.189Z",
+  "archived": false
 }

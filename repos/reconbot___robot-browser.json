@@ -5,7 +5,7 @@
   "owner": {
     "login": "reconbot",
     "id": 25966,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/25966?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/25966?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/reconbot",
     "htmlUrl": "https://github.com/reconbot",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/reconbot/robot-browser/deployments",
   "createdAt": "2016-09-28T20:57:02.000Z",
   "updatedAt": "2016-10-04T19:35:01.000Z",
-  "pushedAt": "2017-05-02T10:22:00.000Z",
+  "pushedAt": "2017-10-23T16:27:42.000Z",
   "gitUrl": "git://github.com/reconbot/robot-browser.git",
   "sshUrl": "git@github.com:reconbot/robot-browser.git",
   "cloneUrl": "https://github.com/reconbot/robot-browser.git",
   "svnUrl": "https://github.com/reconbot/robot-browser",
   "homepage": null,
-  "size": 531,
+  "size": 545,
   "stargazersCount": 3,
   "watchersCount": 3,
   "language": "JavaScript",
@@ -88,14 +88,13 @@
       "electron-builder": "^7.9.0",
       "electron": "^1.4.1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:reconbot/robot-browser.git"
-    },
-    "bugs": {
-      "url": "https://github.com/reconbot/robot-browser/issues"
-    },
-    "homepage": "https://github.com/reconbot/robot-browser#readme"
+    "repository": "https://github.com/reconbot/robot-browser",
+    "homepage": "https://github.com/reconbot/robot-browser#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/reconbot/robot-browser/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -122,6 +121,7 @@
   },
   "filename": "reconbot___robot-browser.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:24:57.246Z",
-  "packageLastFetchedAt": "2017-05-05T15:14:23.134Z"
+  "lastFetchedAt": "2017-10-23T23:34:53.101Z",
+  "packageLastFetchedAt": "2017-05-05T15:14:23.134Z",
+  "archived": false
 }

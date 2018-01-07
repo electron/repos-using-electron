@@ -5,7 +5,7 @@
   "owner": {
     "login": "joshymcd",
     "id": 2259760,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2259760?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2259760?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/joshymcd",
     "htmlUrl": "https://github.com/joshymcd",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/joshymcd/mycroft-electro/downloads",
   "deploymentsUrl": "https://api.github.com/repos/joshymcd/mycroft-electro/deployments",
   "createdAt": "2016-07-11T17:03:00.000Z",
-  "updatedAt": "2016-10-14T19:25:44.000Z",
+  "updatedAt": "2017-07-14T03:08:17.000Z",
   "pushedAt": "2016-10-10T12:38:13.000Z",
   "gitUrl": "git://github.com/joshymcd/mycroft-electro.git",
   "sshUrl": "git@github.com:joshymcd/mycroft-electro.git",
@@ -43,8 +43,8 @@
   "svnUrl": "https://github.com/joshymcd/mycroft-electro",
   "homepage": null,
   "size": 66,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 5,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -69,7 +69,7 @@
     "featured": true
   },
   "networkCount": 3,
-  "subscribersCount": 1,
+  "subscribersCount": 2,
   "status": 200,
   "packageJSON": {
     "name": "Magic-Mycroft-Mirror",
@@ -80,10 +80,7 @@
       "test": "webpack && electron . test",
       "start": "webpack && electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/joshymcd/mycroft-magic-mirror.git"
-    },
+    "repository": "https://github.com/joshymcd/mycroft-magic-mirror",
     "author": "Joshua McDonald",
     "license": "MIT",
     "devDependencies": {
@@ -109,7 +106,8 @@
       "react": "^15.1.0",
       "react-bootstrap": "^0.29.5",
       "react-dom": "^15.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,7 @@
   "filename": "joshymcd___mycroft-electro.json",
   "sourceRepo": "joshymcd/mycroft-magic-mirror",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:10:51.269Z",
-  "packageLastFetchedAt": "2017-05-05T14:38:18.547Z"
+  "lastFetchedAt": "2017-10-24T00:05:27.215Z",
+  "packageLastFetchedAt": "2017-05-05T14:38:18.547Z",
+  "archived": false
 }

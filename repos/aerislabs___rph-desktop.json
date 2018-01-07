@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "private": true,
     "name": "RPH-Desktop",
@@ -87,10 +87,7 @@
     "keywords": [
       "RPHaven, electron"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/aeris/rph-desktop.git"
-    },
+    "repository": "https://github.com/aeris/rph-desktop",
     "author": {
       "name": "Alex Wilson",
       "email": "a@ax.gy"
@@ -110,7 +107,8 @@
       "electron-builder": "^2.6.0",
       "grunt-electron": "^2.0.1",
       "rcedit": "^0.3.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,6 @@
   },
   "filename": "aerislabs___rph-desktop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:34:36.758Z",
+  "lastFetchedAt": "2017-10-23T23:06:45.321Z",
   "packageLastFetchedAt": "2017-05-05T01:33:09.752Z"
 }

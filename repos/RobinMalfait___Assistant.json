@@ -5,7 +5,7 @@
   "owner": {
     "login": "RobinMalfait",
     "id": 1834413,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1834413?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1834413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/RobinMalfait",
     "htmlUrl": "https://github.com/RobinMalfait",
@@ -63,10 +63,7 @@
       "electron": "electron main.js",
       "build": "electron-packager ./ \"Personal Assistant\" --platform=all --arch=x64"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -103,7 +100,8 @@
       "gulp-sass": "^2.1.1",
       "gulp-util": "^3.0.7",
       "html2hscript": "^2.0.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/RobinMalfait/Assistant",
@@ -150,6 +148,7 @@
   },
   "filename": "RobinMalfait___Assistant.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:04:31.088Z",
-  "packageLastFetchedAt": "2017-05-05T14:59:53.831Z"
+  "lastFetchedAt": "2017-10-23T22:52:36.387Z",
+  "packageLastFetchedAt": "2017-05-05T14:59:53.831Z",
+  "archived": false
 }

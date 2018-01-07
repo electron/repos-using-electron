@@ -5,7 +5,7 @@
   "owner": {
     "login": "rafal-przybylak",
     "id": 20159563,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/20159563?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/20159563?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rafal-przybylak",
     "htmlUrl": "https://github.com/rafal-przybylak",
@@ -75,9 +75,7 @@
     "name": "angular2-seed-advanced",
     "version": "0.0.0",
     "description": "Advanced seed for Angular 2 apps",
-    "repository": {
-      "url": "https://github.com/NathanWalker/angular2-seed-advanced"
-    },
+    "repository": "https://github.com/NathanWalker/angular2-seed-advanced",
     "scripts": {
       "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
       "build.desktop.windows": "rimraf desktop/windows/* && gulp desktop.windows",
@@ -237,7 +235,8 @@
       "rxjs": "5.0.0-beta.6",
       "systemjs": "0.19.27",
       "zone.js": "0.6.13"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -265,6 +264,7 @@
   "filename": "rafal-przybylak___angular-core.json",
   "sourceRepo": "NathanWalker/angular-seed-advanced",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:34:42.625Z",
-  "packageLastFetchedAt": "2017-05-05T17:50:18.537Z"
+  "lastFetchedAt": "2017-10-23T22:31:59.024Z",
+  "packageLastFetchedAt": "2017-05-05T17:50:18.537Z",
+  "archived": false
 }

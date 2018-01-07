@@ -5,7 +5,7 @@
   "owner": {
     "login": "AskiaADX",
     "id": 11886832,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11886832?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11886832?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AskiaADX",
     "htmlUrl": "https://github.com/AskiaADX",
@@ -20,32 +20,38 @@
   "description": "Create Askia Design Controls & Askia Design Pages easily",
   "fork": false,
   "createdAt": "2015-06-26T08:05:16.000Z",
-  "updatedAt": "2017-02-01T15:39:26.000Z",
-  "pushedAt": "2017-05-02T15:29:04.000Z",
+  "updatedAt": "2017-05-23T15:32:09.000Z",
+  "pushedAt": "2017-08-29T13:48:26.000Z",
   "homepage": "https://www.askia.com",
-  "size": 649483,
-  "stargazersCount": 3,
-  "watchersCount": 3,
+  "size": 738445,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 2,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 3,
+  "openIssuesCount": 8,
+  "openIssues": 8,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
     "push": false,
     "pull": true
   },
-  "license": null,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdxId": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "featured": false
+  },
   "organization": {
     "login": "AskiaADX",
     "id": 11886832,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/11886832?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/11886832?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AskiaADX",
     "htmlUrl": "https://github.com/AskiaADX",
@@ -57,7 +63,7 @@
     "type": "Organization"
   },
   "networkCount": 2,
-  "subscribersCount": 16,
+  "subscribersCount": 18,
   "status": 200,
   "packageJSON": {
     "name": "ADXStudio",
@@ -67,10 +73,7 @@
     "scripts": {
       "test": "jasmine-node spec/"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/AskiaADX/ADXStudio.git"
-    },
+    "repository": "https://github.com/AskiaADX/ADXStudio",
     "keywords": [
       "ADX",
       "ADC",
@@ -80,9 +83,6 @@
     ],
     "author": "Askia SAS",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/AskiaADX/ADXStudio/issues"
-    },
     "homepage": "https://github.com/AskiaADX/ADXStudio",
     "dependencies": {
       "adcutil": "^1.1.1",
@@ -98,6 +98,11 @@
       "electron-packager": "^7.0.1",
       "electron-prebuilt": "^0.37.8",
       "jasmine-node": "^1.14.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AskiaADX/ADXStudio/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -145,6 +150,7 @@
   "svnUrl": "https://github.com/AskiaADX/ADXStudio",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:29:36.659Z",
-  "packageLastFetchedAt": "2017-05-04T22:26:11.338Z"
+  "lastFetchedAt": "2017-10-23T22:15:04.738Z",
+  "packageLastFetchedAt": "2017-05-04T22:26:11.338Z",
+  "archived": false
 }

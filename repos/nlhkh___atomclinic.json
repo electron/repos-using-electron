@@ -5,7 +5,7 @@
   "owner": {
     "login": "nlhkh",
     "id": 3459416,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3459416?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3459416?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nlhkh",
     "htmlUrl": "https://github.com/nlhkh",
@@ -66,15 +66,9 @@
       "pack:all": "npm run cleanup && npm run pack:darwin && npm run pack:linux && npm run pack:win",
       "rebuild": "electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nlhkh/atomclinic.git"
-    },
+    "repository": "https://github.com/nlhkh/atomclinic",
     "author": "Kha Nguyen <nlhkha@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/nlhkh/atomclinic/issues"
-    },
     "homepage": "https://github.com/nlhkh/atomclinic#readme",
     "dependencies": {
       "alt": "^0.17.3",
@@ -92,6 +86,11 @@
       "electron-prebuilt": "^0.33.0",
       "electron-rebuild": "^1.0.0",
       "rcedit": "^0.3.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/nlhkh/atomclinic/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "nlhkh___atomclinic.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:17:20.274Z",
-  "packageLastFetchedAt": "2017-05-04T22:55:37.865Z"
+  "lastFetchedAt": "2017-10-23T23:44:53.672Z",
+  "packageLastFetchedAt": "2017-05-04T22:55:37.865Z",
+  "archived": false
 }

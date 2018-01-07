@@ -5,7 +5,7 @@
   "owner": {
     "login": "Rawnly",
     "id": 16429579,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/16429579?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/16429579?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Rawnly",
     "htmlUrl": "https://github.com/Rawnly",
@@ -90,10 +90,7 @@
       "start": "electron .",
       "package": "electron-packager . --appname Bolt --all --icon ./app/img/app-icon.icns  --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://www.github.com/Rawnly/Bolt.git"
-    },
+    "repository": "https://www.github.com/Rawnly/Bolt",
     "keywords": [
       "bolt",
       "lightning",
@@ -101,7 +98,8 @@
       "atom"
     ],
     "author": "Rawnly",
-    "license": "MIT"
+    "license": "MIT",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,7 @@
   },
   "filename": "Rawnly___Bolt.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:31:40.421Z",
-  "packageLastFetchedAt": "2017-05-05T14:32:20.748Z"
+  "lastFetchedAt": "2017-10-24T00:11:38.701Z",
+  "packageLastFetchedAt": "2017-05-05T14:32:20.748Z",
+  "archived": false
 }

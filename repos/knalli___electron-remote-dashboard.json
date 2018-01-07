@@ -5,7 +5,7 @@
   "owner": {
     "login": "knalli",
     "id": 65389,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/65389?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/65389?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/knalli",
     "htmlUrl": "https://github.com/knalli",
@@ -35,7 +35,7 @@
   "downloadsUrl": "https://api.github.com/repos/knalli/electron-remote-dashboard/downloads",
   "deploymentsUrl": "https://api.github.com/repos/knalli/electron-remote-dashboard/deployments",
   "createdAt": "2016-06-02T17:06:02.000Z",
-  "updatedAt": "2017-04-12T15:04:33.000Z",
+  "updatedAt": "2017-09-24T06:04:02.000Z",
   "pushedAt": "2017-02-22T21:59:39.000Z",
   "gitUrl": "git://github.com/knalli/electron-remote-dashboard.git",
   "sshUrl": "git@github.com:knalli/electron-remote-dashboard.git",
@@ -43,18 +43,18 @@
   "svnUrl": "https://github.com/knalli/electron-remote-dashboard",
   "homepage": null,
   "size": 3620,
-  "stargazersCount": 5,
-  "watchersCount": 5,
+  "stargazersCount": 7,
+  "watchersCount": 7,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": false,
   "hasPages": false,
-  "forksCount": 3,
+  "forksCount": 2,
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 5,
+  "watchers": 7,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -68,17 +68,14 @@
     "url": "https://api.github.com/licenses/mit",
     "featured": true
   },
-  "networkCount": 3,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
     "name": "electron-remote-dashboard",
     "version": "1.0.0",
     "description": "Remote dashboard with a control app",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/knalli/electron-remote-dashboard"
-    },
+    "repository": "https://github.com/knalli/electron-remote-dashboard",
     "main": "main.js",
     "scripts": {
       "start": "electron main.js",
@@ -107,7 +104,8 @@
     },
     "devDependencies": {
       "electron-packager": "^8.5.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -134,6 +132,7 @@
   },
   "filename": "knalli___electron-remote-dashboard.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:53:50.357Z",
-  "packageLastFetchedAt": "2017-05-05T17:39:18.569Z"
+  "lastFetchedAt": "2017-10-23T22:15:52.521Z",
+  "packageLastFetchedAt": "2017-05-05T17:39:18.569Z",
+  "archived": false
 }

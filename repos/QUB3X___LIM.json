@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "LIM",
     "license": "SEE LICENSE IN NOLICENSE.md",
@@ -76,10 +76,7 @@
       "electron-compile": "^2.0.6",
       "electron-gh-releases": "^2.0.2"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/QUB3X/LIM.git"
-    },
+    "repository": "https://github.com/QUB3X/LIM",
     "contributors": [
       {
         "name": "Andrea Franchini",
@@ -96,7 +93,8 @@
       "grunt": "^0.4.5",
       "grunt-electron": "^2.0.1",
       "grunt-electron-installer": "^1.2.1"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -123,6 +121,6 @@
   },
   "filename": "QUB3X___LIM.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:00:48.107Z",
+  "lastFetchedAt": "2017-10-23T23:10:15.343Z",
   "packageLastFetchedAt": "2017-05-05T15:34:37.236Z"
 }

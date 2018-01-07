@@ -5,7 +5,7 @@
   "owner": {
     "login": "zeke",
     "id": 2289,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2289?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2289?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zeke",
     "htmlUrl": "https://github.com/zeke",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "kapetan",
       "id": 789564,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/789564?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/789564?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/kapetan",
       "htmlUrl": "https://github.com/kapetan",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/kapetan/electron-drag/downloads",
     "deploymentsUrl": "https://api.github.com/repos/kapetan/electron-drag/deployments",
     "createdAt": "2015-05-23T16:50:29.000Z",
-    "updatedAt": "2017-05-02T15:44:10.000Z",
+    "updatedAt": "2017-10-11T18:57:17.000Z",
     "pushedAt": "2017-01-18T22:05:14.000Z",
     "gitUrl": "git://github.com/kapetan/electron-drag.git",
     "sshUrl": "git@github.com:kapetan/electron-drag.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/kapetan/electron-drag",
     "homepage": null,
     "size": 7,
-    "stargazersCount": 98,
-    "watchersCount": 98,
+    "stargazersCount": 119,
+    "watchersCount": 119,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 16,
+    "forksCount": 17,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 98,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 119,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "kapetan",
       "id": 789564,
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/789564?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/789564?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/kapetan",
       "htmlUrl": "https://github.com/kapetan",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/kapetan/electron-drag/downloads",
     "deploymentsUrl": "https://api.github.com/repos/kapetan/electron-drag/deployments",
     "createdAt": "2015-05-23T16:50:29.000Z",
-    "updatedAt": "2017-05-02T15:44:10.000Z",
+    "updatedAt": "2017-10-11T18:57:17.000Z",
     "pushedAt": "2017-01-18T22:05:14.000Z",
     "gitUrl": "git://github.com/kapetan/electron-drag.git",
     "sshUrl": "git@github.com:kapetan/electron-drag.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/kapetan/electron-drag",
     "homepage": null,
     "size": 7,
-    "stargazersCount": 98,
-    "watchersCount": 98,
+    "stargazersCount": 119,
+    "watchersCount": 119,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 16,
+    "forksCount": 17,
     "mirrorUrl": null,
-    "openIssuesCount": 2,
-    "openIssues": 2,
-    "watchers": 98,
+    "archived": false,
+    "openIssuesCount": 1,
+    "openIssues": 1,
+    "watchers": 119,
     "defaultBranch": "master"
   },
-  "networkCount": 16,
+  "networkCount": 17,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -174,10 +176,7 @@
       "test": "electron test/app.js",
       "test-rebuild": "electron-rebuild"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/kapetan/electron-drag"
-    },
+    "repository": "https://github.com/kapetan/electron-drag",
     "keywords": [
       "electron",
       "mouse",
@@ -185,9 +184,6 @@
       "window"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kapetan/electron-drag/issues"
-    },
     "homepage": "https://github.com/kapetan/electron-drag",
     "optionalDependencies": {
       "osx-mouse": "^1.1.2",
@@ -200,6 +196,11 @@
     "devDependencies": {
       "electron-prebuilt": "^0.33.0",
       "electron-rebuild": "^1.0.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kapetan/electron-drag/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -251,6 +252,7 @@
   "allowSquashMerge": true,
   "allowMergeCommit": true,
   "allowRebaseMerge": true,
-  "lastFetchedAt": "2017-05-04T15:17:39.193Z",
-  "packageLastFetchedAt": "2017-05-05T14:43:49.347Z"
+  "lastFetchedAt": "2017-10-23T22:25:51.858Z",
+  "packageLastFetchedAt": "2017-05-05T14:43:49.347Z",
+  "archived": false
 }

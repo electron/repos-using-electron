@@ -5,7 +5,7 @@
   "owner": {
     "login": "kRITZCREEK",
     "id": 6189397,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6189397?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6189397?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kRITZCREEK",
     "htmlUrl": "https://github.com/kRITZCREEK",
@@ -20,12 +20,12 @@
   "description": null,
   "fork": false,
   "createdAt": "2015-10-04T22:50:11.000Z",
-  "updatedAt": "2015-11-23T14:07:54.000Z",
+  "updatedAt": "2017-06-22T16:37:42.000Z",
   "pushedAt": "2015-11-12T22:13:27.000Z",
   "homepage": null,
   "size": 618,
-  "stargazersCount": 4,
-  "watchersCount": 4,
+  "stargazersCount": 5,
+  "watchersCount": 5,
   "language": "PureScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 4,
+  "watchers": 5,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -50,9 +50,6 @@
     "version": "1.0.0",
     "description": "A GUI for the psc-ide tool",
     "main": "main.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "run": "./node_modules/.bin/electron .",
       "test": "pulp test"
@@ -64,6 +61,11 @@
     },
     "dependencies": {
       "ramda": "^0.17.1"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      }
     }
   },
   "packageStatus": 200,
@@ -111,6 +113,7 @@
   },
   "filename": "kRITZCREEK___psc-gui.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:59:28.197Z",
-  "packageLastFetchedAt": "2017-05-05T15:17:23.563Z"
+  "lastFetchedAt": "2017-10-23T23:37:37.537Z",
+  "packageLastFetchedAt": "2017-05-05T15:17:23.563Z",
+  "archived": false
 }

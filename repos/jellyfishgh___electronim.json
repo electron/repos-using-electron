@@ -5,7 +5,7 @@
   "owner": {
     "login": "jellyfishgh",
     "id": 3036042,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/3036042?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3036042?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jellyfishgh",
     "htmlUrl": "https://github.com/jellyfishgh",
@@ -80,24 +80,23 @@
       "test": "mocha",
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jellyfishgh/electronim.git"
-    },
+    "repository": "https://github.com/jellyfishgh/electronim",
     "keywords": [
       "electron",
       "im"
     ],
     "author": "jellyfishgh",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jellyfishgh/electronim/issues"
-    },
     "homepage": "https://github.com/jellyfishgh/electronim#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.3.2",
       "eslint": "^3.2.2",
       "eslint-config-google": "^0.6.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jellyfishgh/electronim/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -125,6 +124,7 @@
   },
   "filename": "jellyfishgh___electronim.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:39:04.818Z",
-  "packageLastFetchedAt": "2017-05-04T22:53:03.976Z"
+  "lastFetchedAt": "2017-10-23T22:28:46.267Z",
+  "packageLastFetchedAt": "2017-05-04T22:53:03.976Z",
+  "archived": false
 }

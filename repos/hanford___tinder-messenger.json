@@ -5,7 +5,7 @@
   "owner": {
     "login": "hanford",
     "id": 2148168,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2148168?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2148168?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/hanford",
     "htmlUrl": "https://github.com/hanford",
@@ -71,10 +71,7 @@
     "description": "A cross-platform desktop Tinder client",
     "main": "build.js",
     "scripts": {},
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/hanford/tinder-desktop.git"
-    },
+    "repository": "https://github.com/hanford/tinder-desktop",
     "author": "Jack Hanford",
     "contributors": [
       {
@@ -83,9 +80,6 @@
       }
     ],
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/tinderjs/tinder-desktop/issues"
-    },
     "homepage": "https://github.com/tinderjs/tinder-desktop",
     "devDependencies": {
       "browserify": "~13.0.0",
@@ -124,6 +118,11 @@
       "angular-image-reveal": "~1.0.1",
       "angular-route": "~1.5.5",
       "angular-sanitize": "~1.5.5"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/tinderjs/tinder-desktop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -151,6 +150,7 @@
   },
   "filename": "hanford___tinder-messenger.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T16:45:34.731Z",
-  "packageLastFetchedAt": "2017-05-04T22:50:15.250Z"
+  "lastFetchedAt": "2017-10-23T22:27:09.254Z",
+  "packageLastFetchedAt": "2017-05-04T22:50:15.250Z",
+  "archived": false
 }

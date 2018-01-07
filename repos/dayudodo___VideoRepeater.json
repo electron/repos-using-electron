@@ -5,7 +5,7 @@
   "owner": {
     "login": "dayudodo",
     "id": 1615448,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1615448?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1615448?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dayudodo",
     "htmlUrl": "https://github.com/dayudodo",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/dayudodo/VideoRepeater/deployments",
   "createdAt": "2016-05-23T10:29:07.000Z",
   "updatedAt": "2016-05-23T10:30:50.000Z",
-  "pushedAt": "2017-04-11T03:57:32.000Z",
+  "pushedAt": "2017-08-23T09:57:35.000Z",
   "gitUrl": "git://github.com/dayudodo/VideoRepeater.git",
   "sshUrl": "git@github.com:dayudodo/VideoRepeater.git",
   "cloneUrl": "https://github.com/dayudodo/VideoRepeater.git",
   "svnUrl": "https://github.com/dayudodo/VideoRepeater",
   "homepage": null,
-  "size": 1676,
+  "size": 1742,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -77,10 +77,7 @@
       "win": "node_modules\\electron\\dist\\electron .",
       "osx": "node_modules/electron/dist/Electron.app/Contents/MacOS/Electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/electron/electron-quick-start.git"
-    },
+    "repository": "https://github.com/electron/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -89,9 +86,6 @@
     ],
     "author": "GitHub",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/electron/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/electron/electron-quick-start#readme",
     "devDependencies": {
       "babel-core": "latest",
@@ -132,6 +126,11 @@
       "react-redux": "^4.4.5",
       "react-router": "^2.4.1",
       "redux": "^3.5.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/electron/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -159,6 +158,7 @@
   },
   "filename": "dayudodo___VideoRepeater.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:32:11.435Z",
-  "packageLastFetchedAt": "2017-05-04T22:15:46.072Z"
+  "lastFetchedAt": "2017-10-24T00:18:03.976Z",
+  "packageLastFetchedAt": "2017-05-04T22:15:46.072Z",
+  "archived": false
 }

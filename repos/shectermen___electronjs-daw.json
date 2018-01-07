@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electrondaw",
     "version": "1.0.0",
@@ -74,10 +74,7 @@
       "start": "electron .",
       "test": "xo"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/shectermen/electronjs-daw.git"
-    },
+    "repository": "https://github.com/shectermen/electronjs-daw",
     "keywords": [
       "Electron",
       "quick",
@@ -86,9 +83,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/shectermen/electronjs-daw/issues"
-    },
     "homepage": "https://github.com/shectermen/electronjs-daw#readme",
     "devDependencies": {
       "electron-compilers": "^3.1.6",
@@ -125,6 +119,11 @@
       "ignores": [
         "dist/**"
       ]
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/shectermen/electronjs-daw/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -152,6 +151,6 @@
   },
   "filename": "shectermen___electronjs-daw.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:50:45.508Z",
+  "lastFetchedAt": "2017-10-23T21:45:31.589Z",
   "packageLastFetchedAt": "2017-05-04T22:49:06.857Z"
 }

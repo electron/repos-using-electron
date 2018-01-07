@@ -5,7 +5,7 @@
   "owner": {
     "login": "mnutt",
     "id": 3705,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/3705?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/3705?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/mnutt",
     "htmlUrl": "https://github.com/mnutt",
@@ -35,16 +35,16 @@
   "downloadsUrl": "https://api.github.com/repos/mnutt/khepri/downloads",
   "deploymentsUrl": "https://api.github.com/repos/mnutt/khepri/deployments",
   "createdAt": "2016-09-24T00:10:16.000Z",
-  "updatedAt": "2017-05-02T19:17:59.000Z",
-  "pushedAt": "2017-03-19T03:19:41.000Z",
+  "updatedAt": "2017-09-24T17:28:39.000Z",
+  "pushedAt": "2017-10-21T00:36:10.000Z",
   "gitUrl": "git://github.com/mnutt/khepri.git",
   "sshUrl": "git@github.com:mnutt/khepri.git",
   "cloneUrl": "https://github.com/mnutt/khepri.git",
   "svnUrl": "https://github.com/mnutt/khepri",
   "homepage": "",
-  "size": 923,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 882,
+  "stargazersCount": 4,
+  "watchersCount": 4,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -54,7 +54,7 @@
   "mirrorUrl": null,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 2,
+  "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -77,10 +77,6 @@
     "version": "0.0.0",
     "description": "Process manager gui",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "node_modules/.bin/ember build",
       "start": "node_modules/.bin/ember electron",
@@ -184,6 +180,12 @@
     },
     "config": {
       "forge": "./ember-electron/.electron-forge"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -211,6 +213,7 @@
   },
   "filename": "mnutt___khepri.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:33:18.775Z",
-  "packageLastFetchedAt": "2017-05-05T17:28:48.832Z"
+  "lastFetchedAt": "2017-10-23T22:10:32.054Z",
+  "packageLastFetchedAt": "2017-05-05T17:28:48.832Z",
+  "archived": false
 }

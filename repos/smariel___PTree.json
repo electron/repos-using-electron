@@ -5,7 +5,7 @@
   "owner": {
     "login": "smariel",
     "id": 3503851,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3503851?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3503851?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/smariel",
     "htmlUrl": "https://github.com/smariel",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/smariel/PTree/deployments",
   "createdAt": "2016-10-29T22:14:07.000Z",
   "updatedAt": "2016-11-07T22:18:13.000Z",
-  "pushedAt": "2017-03-04T18:59:36.000Z",
+  "pushedAt": "2017-10-02T16:57:19.000Z",
   "gitUrl": "git://github.com/smariel/PTree.git",
   "sshUrl": "git@github.com:smariel/PTree.git",
   "cloneUrl": "https://github.com/smariel/PTree.git",
   "svnUrl": "https://github.com/smariel/PTree",
   "homepage": null,
-  "size": 1402,
+  "size": 4260,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -92,18 +92,12 @@
       "pack:lin64": "electron-packager . --out=bin --platform=linux  --arch=x64  --overwrite",
       "pack:all": "electron-packager . --out=bin --platform=all    --arch=all  --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/smariel/PTree.git"
-    },
+    "repository": "https://github.com/smariel/PTree",
     "keywords": [
       "electronics",
       "power supply",
       "power consumption"
     ],
-    "bugs": {
-      "url": "https://github.com/smariel/PTree/issues"
-    },
     "homepage": "https://github.com/smariel/PTree#readme",
     "dependencies": {
       "bootstrap": "^3.3.7",
@@ -119,6 +113,11 @@
       "electron": "^1.6.2",
       "electron-packager": "^8.5.2",
       "sass": "^0.5.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/smariel/PTree/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "smariel___PTree.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:14:30.146Z",
-  "packageLastFetchedAt": "2017-05-05T15:00:29.822Z"
+  "lastFetchedAt": "2017-10-24T00:17:17.936Z",
+  "packageLastFetchedAt": "2017-05-05T15:00:29.822Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "zacanger",
     "id": 12520493,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12520493?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12520493?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/zacanger",
     "htmlUrl": "https://github.com/zacanger",
@@ -87,10 +87,7 @@
       "codemirror",
       "angular"
     ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zacanger/ayuba.git"
-    },
+    "repository": "https://github.com/zacanger/ayuba",
     "license": "WTFPL",
     "scripts": {
       "start": "node index.js && electron app.js",
@@ -132,7 +129,8 @@
     },
     "window": {
       "toolbar": false
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -159,6 +157,7 @@
   },
   "filename": "zacanger___ayuba.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:25:15.139Z",
-  "packageLastFetchedAt": "2017-05-05T17:18:05.019Z"
+  "lastFetchedAt": "2017-10-23T22:08:37.049Z",
+  "packageLastFetchedAt": "2017-05-05T17:18:05.019Z",
+  "archived": false
 }

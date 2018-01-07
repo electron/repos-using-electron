@@ -5,7 +5,7 @@
   "owner": {
     "login": "erkyrath",
     "id": 65666,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/65666?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/65666?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/erkyrath",
     "htmlUrl": "https://github.com/erkyrath",
@@ -20,21 +20,21 @@
   "description": "The IF interpreter in an Electron shell",
   "fork": false,
   "createdAt": "2016-01-10T01:28:15.000Z",
-  "updatedAt": "2017-04-28T21:05:47.000Z",
-  "pushedAt": "2017-04-06T01:55:00.000Z",
+  "updatedAt": "2017-10-03T17:36:28.000Z",
+  "pushedAt": "2017-10-22T21:25:17.000Z",
   "homepage": "",
-  "size": 7661,
-  "stargazersCount": 45,
-  "watchersCount": 45,
+  "size": 7962,
+  "stargazersCount": 55,
+  "watchersCount": 55,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 8,
-  "openIssuesCount": 18,
-  "openIssues": 18,
-  "watchers": 45,
+  "openIssuesCount": 23,
+  "openIssues": 23,
+  "watchers": 55,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -42,14 +42,14 @@
     "pull": true
   },
   "license": {
-    "key": "mit",
-    "name": "MIT License",
-    "spdxId": "MIT",
-    "url": "https://api.github.com/licenses/mit",
-    "featured": true
+    "key": "other",
+    "name": "Other",
+    "spdxId": null,
+    "url": null,
+    "featured": false
   },
   "networkCount": 8,
-  "subscribersCount": 10,
+  "subscribersCount": 12,
   "status": 200,
   "packageJSON": {
     "name": "lectrote",
@@ -65,10 +65,7 @@
       "start": "electron .",
       "preinstall": "if [ -f quixe/LICENSE ]; then echo Quixe already installed; elif [ -d .git ]; then git submodule init; git submodule update; else git clone https://github.com/erkyrath/quixe.git; fi"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/erkyrath/lectrote.git"
-    },
+    "repository": "https://github.com/erkyrath/lectrote",
     "keywords": [
       "interactive fiction",
       "interpreter",
@@ -82,9 +79,6 @@
     ],
     "author": "Andrew Plotkin <erkyrath@eblong.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/erkyrath/lectrote/issues"
-    },
     "homepage": "https://github.com/erkyrath/lectrote",
     "dependencies": {
       "electron": "1.4.16"
@@ -94,6 +88,11 @@
     },
     "optionalDependencies": {
       "appdmg": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/erkyrath/lectrote/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -141,6 +140,7 @@
   "svnUrl": "https://github.com/erkyrath/lectrote",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T11:04:36.604Z",
-  "packageLastFetchedAt": "2017-05-05T15:32:40.874Z"
+  "lastFetchedAt": "2017-10-24T00:11:29.212Z",
+  "packageLastFetchedAt": "2017-05-05T15:32:40.874Z",
+  "archived": false
 }

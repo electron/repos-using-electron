@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "no-robot-planner",
     "author": {
@@ -163,7 +163,8 @@
       "electron-builder": "^5.12.1",
       "electron-prebuilt": "^1.2.6",
       "rimraf": "^2.5.3"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -191,6 +192,6 @@
   "filename": "UFABC-NoBox___RobotPlanner.json",
   "sourceRepo": "Project-Neon/RobotPlanner",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T04:57:15.880Z",
+  "lastFetchedAt": "2017-10-23T22:56:54.382Z",
   "packageLastFetchedAt": "2017-05-05T15:18:32.741Z"
 }

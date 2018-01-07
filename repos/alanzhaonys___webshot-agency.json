@@ -5,7 +5,7 @@
   "owner": {
     "login": "alanzhaonys",
     "id": 7269586,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/7269586?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/7269586?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/alanzhaonys",
     "htmlUrl": "https://github.com/alanzhaonys",
@@ -80,10 +80,7 @@
       "start": "electron .",
       "build": "electron-packager . --all --asar --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alanzhaonys/webshot-agency.git"
-    },
+    "repository": "https://github.com/alanzhaonys/webshot-agency",
     "keywords": [
       "Electron",
       "screenshot",
@@ -98,7 +95,8 @@
     },
     "dependencies": {
       "webshot": "^0.18.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -126,6 +124,7 @@
   "filename": "alanzhaonys___webshot-agency.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:24.969Z",
-  "packageLastFetchedAt": "2017-05-05T15:41:33.272Z"
+  "lastFetchedAt": "2017-10-23T23:44:18.921Z",
+  "packageLastFetchedAt": "2017-05-05T15:41:33.272Z",
+  "archived": false
 }

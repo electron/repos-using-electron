@@ -5,7 +5,7 @@
   "owner": {
     "login": "kumpelblase2",
     "id": 765835,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/765835?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/765835?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kumpelblase2",
     "htmlUrl": "https://github.com/kumpelblase2",
@@ -20,10 +20,10 @@
   "description": "An experimental proxer.me desktop client for doing the most common things.",
   "fork": false,
   "createdAt": "2015-09-25T17:24:26.000Z",
-  "updatedAt": "2016-11-09T22:08:32.000Z",
-  "pushedAt": "2017-02-25T22:06:04.000Z",
+  "updatedAt": "2017-07-14T21:30:52.000Z",
+  "pushedAt": "2017-09-13T19:22:04.000Z",
   "homepage": "",
-  "size": 5557,
+  "size": 5620,
   "stargazersCount": 4,
   "watchersCount": 4,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 0,
-  "openIssuesCount": 16,
-  "openIssues": 16,
+  "openIssuesCount": 17,
+  "openIssues": 17,
   "watchers": 4,
   "defaultBranch": "master",
   "permissions": {
@@ -62,10 +62,7 @@
       "dist": "make package",
       "debug": "electron --debug ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/kumpelblase2/proxtop.git"
-    },
+    "repository": "https://github.com/kumpelblase2/proxtop",
     "keywords": [
       "electron",
       "desktop",
@@ -74,9 +71,6 @@
     ],
     "author": "kumpelblase2",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kumpelblase2/proxtop/issues"
-    },
     "homepage": "https://github.com/kumpelblase2/proxtop#readme",
     "devDependencies": {
       "chai": "3.5.0",
@@ -120,9 +114,14 @@
         "msi": true
       }
     },
-    "directories": {
-      "app": "_dist",
-      "output": "_packaged"
+    "other": {
+      "directories": {
+        "app": "_dist",
+        "output": "_packaged"
+      },
+      "bugs": {
+        "url": "https://github.com/kumpelblase2/proxtop/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -170,6 +169,7 @@
   },
   "filename": "kumpelblase2___proxtop.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:02:46.321Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:11.527Z"
+  "lastFetchedAt": "2017-10-24T02:02:05.902Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:11.527Z",
+  "archived": false
 }

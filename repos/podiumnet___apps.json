@@ -5,7 +5,7 @@
   "owner": {
     "login": "podiumnet",
     "id": 13813885,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13813885?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13813885?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/podiumnet",
     "htmlUrl": "https://github.com/podiumnet",
@@ -51,7 +51,7 @@
   "organization": {
     "login": "podiumnet",
     "id": 13813885,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/13813885?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/13813885?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/podiumnet",
     "htmlUrl": "https://github.com/podiumnet",
@@ -73,10 +73,7 @@
     "bin": {
       "papps": "./startscript.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/podiumnet/papps.git"
-    },
+    "repository": "https://github.com/podiumnet/papps",
     "scripts": {
       "start": "electron ."
     },
@@ -85,14 +82,16 @@
     ],
     "author": "podium",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/podiumnet/papps/issues"
-    },
     "homepage": "https://github.com/podiumnet/papps#readme",
     "dependencies": {
       "coffee-script": "^1.10.0",
       "electron-prebuilt": "^0.34.2",
       "npm": "^3.3.10"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/podiumnet/papps/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -140,6 +139,7 @@
   "svnUrl": "https://github.com/podiumnet/apps",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T17:44:58.846Z",
-  "packageLastFetchedAt": "2017-05-05T14:44:50.504Z"
+  "lastFetchedAt": "2017-10-24T00:08:03.462Z",
+  "packageLastFetchedAt": "2017-05-05T14:44:50.504Z",
+  "archived": false
 }

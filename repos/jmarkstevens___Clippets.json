@@ -5,7 +5,7 @@
   "owner": {
     "login": "jmarkstevens",
     "id": 8116777,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/8116777?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/8116777?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jmarkstevens",
     "htmlUrl": "https://github.com/jmarkstevens",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/jmarkstevens/Clippets/deployments",
   "createdAt": "2016-09-13T18:19:28.000Z",
   "updatedAt": "2016-09-13T18:19:33.000Z",
-  "pushedAt": "2017-03-02T16:42:12.000Z",
+  "pushedAt": "2017-09-05T14:37:58.000Z",
   "gitUrl": "git://github.com/jmarkstevens/Clippets.git",
   "sshUrl": "git@github.com:jmarkstevens/Clippets.git",
   "cloneUrl": "https://github.com/jmarkstevens/Clippets.git",
   "svnUrl": "https://github.com/jmarkstevens/Clippets",
   "homepage": null,
-  "size": 889,
+  "size": 893,
   "stargazersCount": 0,
   "watchersCount": 0,
   "language": "JavaScript",
@@ -86,10 +86,7 @@
       "name": "Janaka Stevens",
       "email": "jmstevens@calitek.com"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/calitek/Clippets.git"
-    },
+    "repository": "https://github.com/calitek/Clippets",
     "scripts": {
       "start": "electron .",
       "node": "nodemon --watch js js/server.js",
@@ -98,9 +95,6 @@
       "ww": "webpack --progress --profile --colors --env.noMinimize --watch",
       "nw": "webpack --progress --profile --colors --env.noMinimize",
       "build": "webpack --progress --profile --colors --env.production"
-    },
-    "bugs": {
-      "url": "https://github.com/calitek/Clippets/issues"
     },
     "dependencies": {
       "async": "latest",
@@ -141,6 +135,11 @@
       "react-addons-test-utils": "^15.4.0",
       "redux-mock-store": "latest",
       "sinon": "latest"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/calitek/Clippets/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -168,6 +167,7 @@
   },
   "filename": "jmarkstevens___Clippets.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:28:41.571Z",
-  "packageLastFetchedAt": "2017-05-04T21:58:23.488Z"
+  "lastFetchedAt": "2017-10-24T00:04:51.470Z",
+  "packageLastFetchedAt": "2017-05-04T21:58:23.488Z",
+  "archived": false
 }

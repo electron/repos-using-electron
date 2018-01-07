@@ -5,7 +5,7 @@
   "owner": {
     "login": "owestphal",
     "id": 10613418,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/10613418?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/10613418?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/owestphal",
     "htmlUrl": "https://github.com/owestphal",
@@ -76,27 +76,26 @@
     "version": "1.0.0",
     "description": "a gui frontend for lfc",
     "main": "src/coffeescript/main.js",
-    "directories": {
-      "example": "examples"
-    },
     "scripts": {
       "prestart": "coffee -c src/coffeescript",
       "start": "electron .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/owestphal/PoE-FilterScript.git"
-    },
+    "repository": "https://github.com/owestphal/PoE-FilterScript",
     "author": "Oliver Westphal",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/owestphal/PoE-FilterScript/issues"
-    },
     "homepage": "https://github.com/owestphal/PoE-FilterScript#readme",
     "dependencies": {
       "electron-packager": "^5.0.1",
       "electron-prebuilt": "^0.30.4"
+    },
+    "other": {
+      "directories": {
+        "example": "examples"
+      },
+      "bugs": {
+        "url": "https://github.com/owestphal/PoE-FilterScript/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "owestphal___PoE-FilterScript.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:21:59.569Z",
-  "packageLastFetchedAt": "2017-05-04T22:20:36.548Z"
+  "lastFetchedAt": "2017-10-23T22:55:35.867Z",
+  "packageLastFetchedAt": "2017-05-04T22:20:36.548Z",
+  "archived": false
 }

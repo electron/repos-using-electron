@@ -70,7 +70,7 @@
   },
   "networkCount": 33,
   "subscribersCount": 7,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "angular-admin",
     "version": "1.1.0",
@@ -207,16 +207,15 @@
       "version": "npm run build",
       "postversion": "git push && git push --tags"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/surmon-china/angular-admin.git"
-    },
-    "bugs": {
-      "url": "https://github.com/surmon-china/angular-admin/issues"
-    },
+    "repository": "https://github.com/surmon-china/angular-admin",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/surmon-china/angular-admin/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -244,6 +243,6 @@
   },
   "filename": "surmon-china___angular-admin.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:39.414Z",
+  "lastFetchedAt": "2017-10-23T23:06:51.573Z",
   "packageLastFetchedAt": "2017-05-04T22:00:07.742Z"
 }

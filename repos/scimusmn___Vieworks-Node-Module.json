@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -87,10 +87,7 @@
     "scripts": {
       "start": "electron main.js --enable-logging"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/scimusmn/Vieworks-Node-Module.git"
-    },
+    "repository": "https://github.com/scimusmn/Vieworks-Node-Module",
     "keywords": [
       "Vieworks",
       "high",
@@ -109,7 +106,8 @@
       "nan": "^2.0.0",
       "serialport": "^3.1.2",
       "ws": "^1.1.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -136,6 +134,6 @@
   },
   "filename": "scimusmn___Vieworks-Node-Module.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:50:47.202Z",
+  "lastFetchedAt": "2017-10-23T23:05:50.576Z",
   "packageLastFetchedAt": "2017-05-05T15:12:35.717Z"
 }

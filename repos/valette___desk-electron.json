@@ -50,7 +50,7 @@
   },
   "networkCount": 1,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "desk-electron",
     "productName": "desk",
@@ -59,10 +59,7 @@
     "main": "desk.js",
     "author": "Sebastien Valette <sebastien.valette@creatis.insa-lyon.fr> (http://www.creatis.insa-lyon.fr/~valette)",
     "version": "0.3.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/valette/desk-electron.git"
-    },
+    "repository": "https://github.com/valette/desk-electron",
     "dependencies": {
       "desk-base": ">0.0.0",
       "desk-ui": ">0.0.0",
@@ -86,7 +83,8 @@
       "zipDarwin": "zip -r desk-darwin-x64.zip desk-darwin-x64",
       "zip": "npm run zipLinux && npm run zipArmv7l && npm run zipWindows && npm run zipDarwin",
       "build": "npm run clean && npm run package && npm run zip"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/valette/desk-electron",
@@ -133,6 +131,6 @@
   },
   "filename": "valette___desk-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:12:51.583Z",
+  "lastFetchedAt": "2017-10-23T23:00:49.329Z",
   "packageLastFetchedAt": "2017-05-05T14:33:25.862Z"
 }

@@ -184,7 +184,7 @@
   },
   "networkCount": 9,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "devdecks",
     "author": "CHAD",
@@ -246,21 +246,11 @@
         ]
       }
     },
-    "directories": {
-      "buildResources": "resources",
-      "output": "release"
-    },
     "bin": {
       "electron": "./node_modules/.bin/electron"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Team-CHAD/DevDecks.git"
-    },
+    "repository": "https://github.com/Team-CHAD/DevDecks",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/Team-CHAD/DevDecks/issues"
-    },
     "keywords": [
       "electron",
       "slides",
@@ -373,6 +363,15 @@
     "devEngines": {
       "node": ">=6.x",
       "npm": ">=3.x"
+    },
+    "other": {
+      "directories": {
+        "buildResources": "resources",
+        "output": "release"
+      },
+      "bugs": {
+        "url": "https://github.com/Team-CHAD/DevDecks/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -400,6 +399,6 @@
   },
   "filename": "hoonchoi___devdecks.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:49:48.655Z",
+  "lastFetchedAt": "2017-10-23T22:56:39.836Z",
   "packageLastFetchedAt": "2017-05-04T23:00:53.679Z"
 }

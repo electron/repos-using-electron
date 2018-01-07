@@ -70,33 +70,23 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "coulomb",
     "version": "0.0.1",
     "description": "Small description for coulomb goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember electron",
       "test": "ember electron:test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:vortizhe/coulomb.git"
-    },
+    "repository": "https://github.com/vortizhe/coulomb",
     "engines": {
       "node": ">= 0.10.0"
     },
     "author": "Victor Ortiz",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/vortizhe/coulomb/issues"
-    },
     "homepage": "https://github.com/vortizhe/coulomb",
     "devDependencies": {
       "broccoli-asset-rev": "^2.2.0",
@@ -151,6 +141,15 @@
         "ProductName": null,
         "InternalName": null
       }
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      },
+      "bugs": {
+        "url": "https://github.com/vortizhe/coulomb/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +177,6 @@
   },
   "filename": "vortizhe___coulomb.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:06:59.494Z",
+  "lastFetchedAt": "2017-10-23T22:58:01.375Z",
   "packageLastFetchedAt": "2017-05-04T22:07:10.837Z"
 }

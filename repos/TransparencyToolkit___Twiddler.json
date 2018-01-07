@@ -5,7 +5,7 @@
   "owner": {
     "login": "TransparencyToolkit",
     "id": 6210364,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6210364?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6210364?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TransparencyToolkit",
     "htmlUrl": "https://github.com/TransparencyToolkit",
@@ -20,12 +20,12 @@
   "description": "A user friendly tool for text processing, light NLP, and keyword extraction",
   "fork": false,
   "createdAt": "2015-08-21T17:51:59.000Z",
-  "updatedAt": "2016-06-14T02:41:11.000Z",
+  "updatedAt": "2017-10-21T22:24:33.000Z",
   "pushedAt": "2015-10-26T02:38:28.000Z",
   "homepage": "https://transparnecytoolkit.org",
   "size": 272,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 9,
+  "watchersCount": 9,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 3,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 7,
+  "watchers": 9,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "TransparencyToolkit",
     "id": 6210364,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6210364?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6210364?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TransparencyToolkit",
     "htmlUrl": "https://github.com/TransparencyToolkit",
@@ -71,14 +71,8 @@
     "version": "0.2.1",
     "description": "a motley assortment of text processing tools to twiddle and manipulate batches of text from/to various formats",
     "license": "AGPLv3",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/TransparencyToolkit/Twiddler"
-    },
+    "repository": "https://github.com/TransparencyToolkit/Twiddler",
     "author": "Brennan Novak <hi@bnvk.me>",
-    "bugs": {
-      "url": "https://github.com/TransparencyToolkit/Twiddler/issues"
-    },
     "scripts": {
       "test": "mocha test",
       "start": "electron .",
@@ -142,6 +136,11 @@
       "rules": {
         "prefer-arrow-callback": 0
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/TransparencyToolkit/Twiddler/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -189,6 +188,7 @@
   "svnUrl": "https://github.com/TransparencyToolkit/Twiddler",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:24:08.745Z",
-  "packageLastFetchedAt": "2017-05-04T23:00:16.596Z"
+  "lastFetchedAt": "2017-10-23T22:32:55.517Z",
+  "packageLastFetchedAt": "2017-05-04T23:00:16.596Z",
+  "archived": false
 }

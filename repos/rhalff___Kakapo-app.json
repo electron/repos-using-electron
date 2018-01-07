@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhalff",
     "id": 274358,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/274358?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/274358?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhalff",
     "htmlUrl": "https://github.com/rhalff",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "bluedaniel",
       "id": 189383,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/189383?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/189383?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bluedaniel",
       "htmlUrl": "https://github.com/bluedaniel",
@@ -79,28 +79,29 @@
     "downloadsUrl": "https://api.github.com/repos/bluedaniel/Kakapo-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bluedaniel/Kakapo-app/deployments",
     "createdAt": "2015-09-17T21:05:40.000Z",
-    "updatedAt": "2017-04-22T17:42:10.000Z",
-    "pushedAt": "2016-08-08T00:04:35.000Z",
+    "updatedAt": "2017-10-08T19:37:20.000Z",
+    "pushedAt": "2017-09-18T08:25:08.000Z",
     "gitUrl": "git://github.com/bluedaniel/Kakapo-app.git",
     "sshUrl": "git@github.com:bluedaniel/Kakapo-app.git",
     "cloneUrl": "https://github.com/bluedaniel/Kakapo-app.git",
     "svnUrl": "https://github.com/bluedaniel/Kakapo-app",
     "homepage": "http://kakapo.co/app.html",
-    "size": 6136,
-    "stargazersCount": 292,
-    "watchersCount": 292,
+    "size": 6724,
+    "stargazersCount": 321,
+    "watchersCount": 321,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 21,
+    "forksCount": 28,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 292,
-    "defaultBranch": "master"
+    "archived": false,
+    "openIssuesCount": 7,
+    "openIssues": 7,
+    "watchers": 321,
+    "defaultBranch": "develop"
   },
   "source": {
     "id": 42681928,
@@ -109,7 +110,7 @@
     "owner": {
       "login": "bluedaniel",
       "id": 189383,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/189383?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/189383?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bluedaniel",
       "htmlUrl": "https://github.com/bluedaniel",
@@ -139,30 +140,31 @@
     "downloadsUrl": "https://api.github.com/repos/bluedaniel/Kakapo-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bluedaniel/Kakapo-app/deployments",
     "createdAt": "2015-09-17T21:05:40.000Z",
-    "updatedAt": "2017-04-22T17:42:10.000Z",
-    "pushedAt": "2016-08-08T00:04:35.000Z",
+    "updatedAt": "2017-10-08T19:37:20.000Z",
+    "pushedAt": "2017-09-18T08:25:08.000Z",
     "gitUrl": "git://github.com/bluedaniel/Kakapo-app.git",
     "sshUrl": "git@github.com:bluedaniel/Kakapo-app.git",
     "cloneUrl": "https://github.com/bluedaniel/Kakapo-app.git",
     "svnUrl": "https://github.com/bluedaniel/Kakapo-app",
     "homepage": "http://kakapo.co/app.html",
-    "size": 6136,
-    "stargazersCount": 292,
-    "watchersCount": 292,
+    "size": 6724,
+    "stargazersCount": 321,
+    "watchersCount": 321,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 21,
+    "forksCount": 28,
     "mirrorUrl": null,
-    "openIssuesCount": 6,
-    "openIssues": 6,
-    "watchers": 292,
-    "defaultBranch": "master"
+    "archived": false,
+    "openIssuesCount": 7,
+    "openIssues": 7,
+    "watchers": 321,
+    "defaultBranch": "develop"
   },
-  "networkCount": 21,
+  "networkCount": 28,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -288,16 +290,15 @@
       "installer-win": "babel-node tools/run installer-win",
       "start": "babel-node tools/run start"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bluedaniel/Kakapo-app.git"
-    },
+    "repository": "https://github.com/bluedaniel/Kakapo-app",
     "author": "Daniel Levitt @supercerebral",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bluedaniel/Kakapo-app/issues"
-    },
-    "homepage": "https://github.com/bluedaniel/Kakapo-app#readme"
+    "homepage": "https://github.com/bluedaniel/Kakapo-app#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bluedaniel/Kakapo-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/rhalff/Kakapo-app",
@@ -345,6 +346,7 @@
   "filename": "rhalff___Kakapo-app.json",
   "sourceRepo": "bluedaniel/Kakapo-app",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:54:21.001Z",
-  "packageLastFetchedAt": "2017-05-05T15:11:28.558Z"
+  "lastFetchedAt": "2017-10-24T00:09:46.298Z",
+  "packageLastFetchedAt": "2017-05-05T15:11:28.558Z",
+  "archived": false
 }

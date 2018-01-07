@@ -5,7 +5,7 @@
   "owner": {
     "login": "blockchainProject",
     "id": 20138458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20138458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20138458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/blockchainProject",
     "htmlUrl": "https://github.com/blockchainProject",
@@ -35,26 +35,26 @@
   "downloadsUrl": "https://api.github.com/repos/blockchainProject/blockchain-project-client/downloads",
   "deploymentsUrl": "https://api.github.com/repos/blockchainProject/blockchain-project-client/deployments",
   "createdAt": "2016-06-25T07:46:44.000Z",
-  "updatedAt": "2017-04-19T09:38:28.000Z",
-  "pushedAt": "2017-05-02T09:24:47.000Z",
+  "updatedAt": "2017-10-05T00:42:30.000Z",
+  "pushedAt": "2017-05-12T00:57:06.000Z",
   "gitUrl": "git://github.com/blockchainProject/blockchain-project-client.git",
   "sshUrl": "git@github.com:blockchainProject/blockchain-project-client.git",
   "cloneUrl": "https://github.com/blockchainProject/blockchain-project-client.git",
   "svnUrl": "https://github.com/blockchainProject/blockchain-project-client",
   "homepage": "",
-  "size": 37843,
-  "stargazersCount": 2,
-  "watchersCount": 2,
+  "size": 37844,
+  "stargazersCount": 3,
+  "watchersCount": 3,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
+  "forksCount": 2,
   "mirrorUrl": null,
-  "openIssuesCount": 133,
-  "openIssues": 133,
-  "watchers": 2,
+  "openIssuesCount": 138,
+  "openIssues": 138,
+  "watchers": 3,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -71,7 +71,7 @@
   "organization": {
     "login": "blockchainProject",
     "id": 20138458,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20138458?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20138458?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/blockchainProject",
     "htmlUrl": "https://github.com/blockchainProject",
@@ -82,7 +82,7 @@
     "receivedEventsUrl": "https://api.github.com/users/blockchainProject/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -90,12 +90,8 @@
     "version": "1.1.6",
     "description": "OpenBazaar Client",
     "main": "main.js",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/OpenBazaar/OpenBazaar-Client.git"
-    },
+    "repository": "https://github.com/OpenBazaar/OpenBazaar-Client",
     "homepage": "https://openbazaar.org/",
-    "bugs": "https://github.com/OpenBazaar/OpenBazaar-Client/issues/",
     "license": "MIT",
     "scripts": {
       "start": "electron main.js",
@@ -141,7 +137,10 @@
     "pre-commit": [
       "lint",
       "valiquire"
-    ]
+    ],
+    "other": {
+      "bugs": "https://github.com/OpenBazaar/OpenBazaar-Client/issues/"
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -169,6 +168,7 @@
   "filename": "blockchainProject___blockchain-project-client.json",
   "sourceRepo": "OpenBazaar/OpenBazaar-Client",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:42.177Z",
-  "packageLastFetchedAt": "2017-05-05T14:41:32.060Z"
+  "lastFetchedAt": "2017-10-24T00:18:30.392Z",
+  "packageLastFetchedAt": "2017-05-05T14:41:32.060Z",
+  "archived": false
 }

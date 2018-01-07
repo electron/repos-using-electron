@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "utclock",
     "version": "0.0.1",
@@ -80,7 +80,8 @@
     "scripts": {
       "build": "electron-packager --overwrite . UTClock --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
       "start": "electron ."
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -127,6 +128,6 @@
   "svnUrl": "https://github.com/KNNCreative/UTClock",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:46:26.565Z",
+  "lastFetchedAt": "2017-10-23T23:09:36.569Z",
   "packageLastFetchedAt": "2017-05-05T17:14:55.072Z"
 }

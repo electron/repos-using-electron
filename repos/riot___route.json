@@ -5,7 +5,7 @@
   "owner": {
     "login": "riot",
     "id": 12729373,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12729373?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12729373?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/riot",
     "htmlUrl": "https://github.com/riot",
@@ -20,21 +20,21 @@
   "description": "Simple client-side router",
   "fork": false,
   "createdAt": "2015-06-06T22:20:35.000Z",
-  "updatedAt": "2017-04-19T19:00:54.000Z",
-  "pushedAt": "2017-03-23T15:51:53.000Z",
+  "updatedAt": "2017-10-04T13:42:30.000Z",
+  "pushedAt": "2017-09-05T19:33:14.000Z",
   "homepage": "http://riotjs.com/api/route/",
-  "size": 235,
-  "stargazersCount": 82,
-  "watchersCount": 82,
+  "size": 274,
+  "stargazersCount": 108,
+  "watchersCount": 108,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 23,
-  "openIssuesCount": 33,
-  "openIssues": 33,
-  "watchers": 82,
+  "forksCount": 29,
+  "openIssuesCount": 36,
+  "openIssues": 36,
+  "watchers": 108,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "riot",
     "id": 12729373,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12729373?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12729373?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/riot",
     "htmlUrl": "https://github.com/riot",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/riot/received_events",
     "type": "Organization"
   },
-  "networkCount": 23,
-  "subscribersCount": 11,
+  "networkCount": 29,
+  "subscribersCount": 10,
   "status": 200,
   "packageJSON": {
     "name": "riot-route",
@@ -73,10 +73,6 @@
     "jsnext:main": "lib/index.js",
     "module": "lib/index.js",
     "modules.root": "lib",
-    "directories": {
-      "lib": "lib",
-      "doc": "doc"
-    },
     "scripts": {
       "pretest": "npm run build",
       "test": "npm run eslint && npm run karma && npm run mocha",
@@ -94,10 +90,7 @@
       "mocha": "mocha test/specs/server.specs.js",
       "coveralls": "RIOT_COV=1 cat ./coverage/lcov.info ./coverage/report-lcov/lcov.info | coveralls"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/riot/route.git"
-    },
+    "repository": "https://github.com/riot/route",
     "keywords": [
       "riot",
       "router"
@@ -128,10 +121,16 @@
     },
     "author": "Muut, Inc. and other contributors",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/riot/route/issues"
-    },
-    "homepage": "https://github.com/riot/route#readme"
+    "homepage": "https://github.com/riot/route#readme",
+    "other": {
+      "directories": {
+        "lib": "lib",
+        "doc": "doc"
+      },
+      "bugs": {
+        "url": "https://github.com/riot/route/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/riot/route",
@@ -178,6 +177,7 @@
   },
   "filename": "riot___route.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:22:40.669Z",
-  "packageLastFetchedAt": "2017-05-05T15:20:57.101Z"
+  "lastFetchedAt": "2017-10-23T22:31:09.750Z",
+  "packageLastFetchedAt": "2017-05-05T15:20:57.101Z",
+  "archived": false
 }

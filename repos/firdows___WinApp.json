@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "win_app",
     "version": "0.1.0",
@@ -81,18 +81,17 @@
     },
     "description": "Windows Application",
     "dependencies": {},
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/firdows/WinApp.git"
-    },
+    "repository": "https://github.com/firdows/WinApp",
     "keywords": [
       "win",
       "app"
     ],
-    "bugs": {
-      "url": "https://github.com/firdows/WinApp/issues"
-    },
-    "homepage": "https://github.com/firdows/WinApp#readme"
+    "homepage": "https://github.com/firdows/WinApp#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/firdows/WinApp/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -119,6 +118,6 @@
   },
   "filename": "firdows___WinApp.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:55:29.030Z",
+  "lastFetchedAt": "2017-10-24T00:10:50.658Z",
   "packageLastFetchedAt": "2017-05-05T15:21:52.232Z"
 }

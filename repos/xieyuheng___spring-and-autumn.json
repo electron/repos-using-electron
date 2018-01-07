@@ -5,7 +5,7 @@
   "owner": {
     "login": "xieyuheng",
     "id": 4354888,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/4354888?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/4354888?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xieyuheng",
     "htmlUrl": "https://github.com/xieyuheng",
@@ -52,16 +52,10 @@
     "version": "0.0.2",
     "description": "a note taking app",
     "main": "lib/sa.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/xieyuheng/spring-and-autumn.git"
-    },
+    "repository": "https://github.com/xieyuheng/spring-and-autumn",
     "keywords": [
       "note"
     ],
-    "bugs": {
-      "url": "https://github.com/xieyuheng/spring-and-autumn/issues"
-    },
     "homepage": "http://cicada-language.github.io",
     "dependencies": {
       "sad-coffee": "*"
@@ -69,6 +63,11 @@
     "devDependencies": {
       "gulp": "^3.9.0",
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/xieyuheng/spring-and-autumn/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -116,6 +115,7 @@
   "svnUrl": "https://github.com/xieyuheng/spring-and-autumn",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:18:46.166Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:48.101Z"
+  "lastFetchedAt": "2017-10-23T22:11:32.775Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:48.101Z",
+  "archived": false
 }

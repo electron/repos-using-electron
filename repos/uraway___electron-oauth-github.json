@@ -5,7 +5,7 @@
   "owner": {
     "login": "uraway",
     "id": 15242484,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/15242484?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/15242484?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/uraway",
     "htmlUrl": "https://github.com/uraway",
@@ -20,12 +20,12 @@
   "description": "This is Electron module that OAuth authenticates your Electron app with Github",
   "fork": false,
   "createdAt": "2016-02-16T07:38:47.000Z",
-  "updatedAt": "2017-04-20T02:23:52.000Z",
+  "updatedAt": "2017-10-14T01:25:46.000Z",
   "pushedAt": "2017-03-05T06:33:18.000Z",
   "homepage": "https://www.npmjs.com/package/electron-oauth-github",
   "size": 17,
-  "stargazersCount": 9,
-  "watchersCount": 9,
+  "stargazersCount": 13,
+  "watchersCount": 13,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 2,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 9,
+  "watchers": 13,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -47,17 +47,11 @@
   "status": 200,
   "packageJSON": {
     "name": "electron-oauth-github",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/uraway/electron-oauth-github.git"
-    },
+    "repository": "https://github.com/uraway/electron-oauth-github",
     "author": "Masato Urai @uraway_",
     "email": "masato.u0107@gmail.com",
     "homepage": "https://github.com/uraway/electron-oauth-github",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/uraway/electron-oauth-github/issues"
-    },
     "version": "1.1.1",
     "description": "Github OAuth Window library.",
     "main": "lib/OauthGithub.js",
@@ -65,9 +59,6 @@
       "lib",
       "src"
     ],
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "build": "babel src --out-dir lib --source-maps",
       "watch": "babel src --out-dir lib --watch --source-maps",
@@ -97,6 +88,14 @@
         "add-module-exports"
       ],
       "sourceType": "module"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/uraway/electron-oauth-github/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -144,6 +143,7 @@
   "svnUrl": "https://github.com/uraway/electron-oauth-github",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:52:09.258Z",
-  "packageLastFetchedAt": "2017-05-05T15:02:45.140Z"
+  "lastFetchedAt": "2017-10-23T23:40:06.666Z",
+  "packageLastFetchedAt": "2017-05-05T15:02:45.140Z",
+  "archived": false
 }

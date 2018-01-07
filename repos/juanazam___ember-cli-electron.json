@@ -70,15 +70,11 @@
   },
   "networkCount": 0,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "ember-cli-electron",
     "version": "1.0.0",
     "description": "The default blueprint for ember-cli addons.",
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "start": "ember server",
       "build": "ember build",
@@ -119,6 +115,12 @@
     },
     "ember-addon": {
       "configPath": "tests/dummy/config"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +148,6 @@
   },
   "filename": "juanazam___ember-cli-electron.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:34:11.061Z",
+  "lastFetchedAt": "2017-10-23T23:07:14.820Z",
   "packageLastFetchedAt": "2017-05-05T14:48:39.429Z"
 }

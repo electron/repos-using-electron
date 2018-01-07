@@ -5,7 +5,7 @@
   "owner": {
     "login": "dsiah",
     "id": 6362717,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/6362717?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/6362717?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/dsiah",
     "htmlUrl": "https://github.com/dsiah",
@@ -61,10 +61,7 @@
       "build": "browserify ./js/test.js -t babelify --outfile ./js/testout.js",
       "watch": "watch 'npm run build' ./js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -73,9 +70,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "babel-preset-react": "^6.3.13",
@@ -86,6 +80,11 @@
     "dependencies": {
       "react": "^0.14.6",
       "react-dom": "^0.14.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -133,6 +132,7 @@
   },
   "filename": "dsiah___Panoptes.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:20:14.379Z",
-  "packageLastFetchedAt": "2017-05-04T22:57:27.585Z"
+  "lastFetchedAt": "2017-10-23T22:27:32.248Z",
+  "packageLastFetchedAt": "2017-05-04T22:57:27.585Z",
+  "archived": false
 }

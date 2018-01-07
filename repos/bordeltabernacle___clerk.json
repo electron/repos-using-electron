@@ -64,15 +64,12 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "clerk",
     "version": "0.1.0",
     "description": "Cisco Inventory Generation",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/bordeltabernacle/clerk.git"
-    },
+    "repository": "https://github.com/bordeltabernacle/clerk",
     "main": "main.js",
     "author": "Rob Phoenix <rob.phoenix@bt.com>",
     "scripts": {
@@ -89,7 +86,8 @@
       "fs-plus": "*",
       "rimraf": "*",
       "yargs": "*"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -116,6 +114,6 @@
   },
   "filename": "bordeltabernacle___clerk.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:09:17.689Z",
+  "lastFetchedAt": "2017-10-23T23:09:10.826Z",
   "packageLastFetchedAt": "2017-05-05T17:51:01.550Z"
 }

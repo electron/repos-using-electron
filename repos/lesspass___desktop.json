@@ -64,7 +64,7 @@
   },
   "networkCount": 4,
   "subscribersCount": 4,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "lesspass-desktop",
     "version": "1.0.0",
@@ -91,7 +91,8 @@
       "rimraf": "^2.6.1"
     },
     "private": true,
-    "productName": "LessPass"
+    "productName": "LessPass",
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -138,6 +139,6 @@
   "svnUrl": "https://github.com/lesspass/desktop",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T14:55:54.385Z",
+  "lastFetchedAt": "2017-10-23T22:56:16.343Z",
   "packageLastFetchedAt": "2017-05-04T22:03:03.223Z"
 }

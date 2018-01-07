@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "node-ping-pong",
     "productName": "Node Pong",
@@ -56,10 +56,7 @@
     },
     "author": "",
     "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zackpudil/node-ping-pong.git"
-    },
+    "repository": "https://github.com/zackpudil/node-ping-pong",
     "dependencies": {
       "json-socket": "^0.1.2",
       "minimist": "^1.2.0",
@@ -73,7 +70,8 @@
       "gulp-babel": "^6.1.1",
       "gulp-electron": "0.0.10",
       "gulp-install": "^0.6.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/zackpudil/node-ping-pong",
@@ -120,6 +118,6 @@
   },
   "filename": "zackpudil___node-ping-pong.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:34:18.195Z",
+  "lastFetchedAt": "2017-10-23T22:58:01.130Z",
   "packageLastFetchedAt": "2017-05-05T15:05:47.713Z"
 }

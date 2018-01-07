@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "today-i-did",
     "version": "1.0.0",
@@ -75,15 +75,9 @@
       "start": "./node_modules/.bin/electron .",
       "dev": "./node_modules/.bin/webpack --progress --colors --watch --display-error-details"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/ghernandez345/electronToy.git"
-    },
+    "repository": "https://github.com/ghernandez345/electronToy",
     "author": "Gabriel Hernandez",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/ghernandez345/electronToy/issues"
-    },
     "homepage": "https://github.com/ghernandez345/electronToy#readme",
     "devDependencies": {
       "babel-core": "^6.13.2",
@@ -105,6 +99,11 @@
       "react-dom": "^15.3.1",
       "react-redux": "^4.4.5",
       "redux": "^3.5.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/ghernandez345/electronToy/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -132,6 +131,6 @@
   },
   "filename": "ghernandez345___electronToy.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:26:20.226Z",
+  "lastFetchedAt": "2017-10-23T23:04:50.573Z",
   "packageLastFetchedAt": "2017-05-04T22:00:47.862Z"
 }

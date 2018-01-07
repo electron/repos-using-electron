@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "electron-directory",
     "version": "0.0.3",
@@ -85,10 +85,12 @@
     "dependencies": {},
     "homepage": "https://github.com/Booster2ooo/electron-directory",
     "repository": "git://github.com/Booster2ooo/electron-directory",
-    "bugs": {
-      "url": "https://github.com/Booster2ooo/electron-directory/issues"
-    },
-    "readmeFilename": "README.md"
+    "readmeFilename": "README.md",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Booster2ooo/electron-directory/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -115,6 +117,6 @@
   },
   "filename": "Booster2ooo___electron-directory.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:09:24.001Z",
+  "lastFetchedAt": "2017-10-23T22:57:24.377Z",
   "packageLastFetchedAt": "2017-05-04T23:01:39.120Z"
 }

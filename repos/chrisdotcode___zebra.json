@@ -44,7 +44,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "zebra",
     "version": "0.0.0",
@@ -54,19 +54,13 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chrisdotcode/zebra.git"
-    },
+    "repository": "https://github.com/chrisdotcode/zebra",
     "keywords": [
       "irc",
       "zebra"
     ],
     "author": "Chris Blake <chris@code.sc> (https://code.sc)",
     "license": "BSD-3-Clause",
-    "bugs": {
-      "url": "https://github.com/chrisdotcode/zebra/issues"
-    },
     "homepage": "https://github.com/chrisdotcode/zebra#readme",
     "devDependencies": {
       "bootstrap": "^3.3.6",
@@ -74,6 +68,11 @@
       "electron-prebuilt": "^0.35.0",
       "handlebars": "^4.0.5",
       "irc": "^0.4.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/chrisdotcode/zebra/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -121,6 +120,6 @@
   },
   "filename": "chrisdotcode___zebra.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:43:14.172Z",
+  "lastFetchedAt": "2017-10-23T23:08:57.578Z",
   "packageLastFetchedAt": "2017-05-05T01:24:13.274Z"
 }

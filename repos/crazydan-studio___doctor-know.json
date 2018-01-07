@@ -78,7 +78,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 2,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "doctor-know",
     "version": "0.1.0",
@@ -104,7 +104,6 @@
       "type": "git",
       "url": ""
     },
-    "bugs": "",
     "main": "src/main.js",
     "files": [
       "src"
@@ -211,6 +210,9 @@
       "webpack-merge": "^3.0.0",
       "xml2js": "^0.4.16",
       "xss": "^0.2.11"
+    },
+    "other": {
+      "bugs": ""
     }
   },
   "packageStatus": 200,
@@ -238,6 +240,6 @@
   },
   "filename": "crazydan-studio___doctor-know.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:23:34.293Z",
+  "lastFetchedAt": "2017-10-23T22:58:49.335Z",
   "packageLastFetchedAt": "2017-05-04T22:48:59.667Z"
 }

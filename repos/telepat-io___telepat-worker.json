@@ -5,7 +5,7 @@
   "owner": {
     "login": "telepat-io",
     "id": 12646345,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12646345?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12646345?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/telepat-io",
     "htmlUrl": "https://github.com/telepat-io",
@@ -21,9 +21,9 @@
   "fork": false,
   "createdAt": "2015-06-26T14:23:16.000Z",
   "updatedAt": "2017-02-25T18:38:39.000Z",
-  "pushedAt": "2017-02-17T09:25:43.000Z",
+  "pushedAt": "2017-08-25T11:14:20.000Z",
   "homepage": "http://telepat.io",
-  "size": 314,
+  "size": 378,
   "stargazersCount": 42,
   "watchersCount": 42,
   "language": "JavaScript",
@@ -32,8 +32,8 @@
   "hasWiki": true,
   "hasPages": false,
   "forksCount": 11,
-  "openIssuesCount": 0,
-  "openIssues": 0,
+  "openIssuesCount": 1,
+  "openIssues": 1,
   "watchers": 42,
   "defaultBranch": "master",
   "permissions": {
@@ -51,7 +51,7 @@
   "organization": {
     "login": "telepat-io",
     "id": 12646345,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/12646345?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/12646345?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/telepat-io",
     "htmlUrl": "https://github.com/telepat-io",
@@ -76,10 +76,7 @@
       "restart": "./bin/restart.sh",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@github.com:telepat-io/telepat-worker.git"
-    },
+    "repository": "https://github.com/telepat-io/telepat-worker",
     "keywords": [
       "telepat",
       "worker",
@@ -102,9 +99,6 @@
     "engines": {
       "node": ">=0.12.0"
     },
-    "bugs": {
-      "url": "https://github.com/telepat-io/telepat-worker/issues"
-    },
     "license": "Apache-2.0",
     "dependencies": {
       "apn": "^1.7.3",
@@ -123,6 +117,11 @@
       "telepat-models": "0.4.3",
       "underscore": "1.8.3",
       "uuid": "^2.0.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/telepat-io/telepat-worker/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -170,6 +169,7 @@
   },
   "filename": "telepat-io___telepat-worker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:49:41.083Z",
-  "packageLastFetchedAt": "2017-05-04T22:48:51.460Z"
+  "lastFetchedAt": "2017-10-24T00:18:37.222Z",
+  "packageLastFetchedAt": "2017-05-04T22:48:51.460Z",
+  "archived": false
 }

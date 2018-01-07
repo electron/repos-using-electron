@@ -5,7 +5,7 @@
   "owner": {
     "login": "elsehow",
     "id": 7132461,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/7132461?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7132461?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/elsehow",
     "htmlUrl": "https://github.com/elsehow",
@@ -85,20 +85,19 @@
     "name": "dswarmd",
     "description": "device swarm daemon",
     "version": "2.0.0",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/elsehow/dswarmd.git"
-    },
+    "repository": "https://github.com/elsehow/dswarmd",
     "keywords": [
       "dswarm",
       "swarmlog",
       "hyperkv",
       "dns"
     ],
-    "bugs": {
-      "url": "https://github.com/elsehow/dswarmd/issues"
-    },
-    "homepage": "https://github.com/elsehow/dswarmd#readme"
+    "homepage": "https://github.com/elsehow/dswarmd#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/elsehow/dswarmd/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -145,6 +144,7 @@
   "svnUrl": "https://github.com/elsehow/dswarmd",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:57:51.800Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:59.084Z"
+  "lastFetchedAt": "2017-10-24T00:19:55.823Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:59.084Z",
+  "archived": false
 }

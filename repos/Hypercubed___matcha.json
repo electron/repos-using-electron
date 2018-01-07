@@ -164,7 +164,7 @@
   },
   "networkCount": 23,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "author": "Jake Luer <jake@alogicalparadox.com>",
     "name": "matcha",
@@ -175,10 +175,7 @@
       "performance"
     ],
     "version": "0.7.0",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/logicalparadox/matcha.git"
-    },
+    "repository": "https://github.com/logicalparadox/matcha",
     "main": "index",
     "bin": {
       "matcha": "./bin/matcha",
@@ -192,7 +189,8 @@
       "electron": "0.4.x",
       "v8-argv": "0.1.x"
     },
-    "devDependencies": {}
+    "devDependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -240,6 +238,6 @@
   "svnUrl": "https://github.com/Hypercubed/matcha",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:57:16.694Z",
+  "lastFetchedAt": "2017-10-23T23:11:06.592Z",
   "packageLastFetchedAt": "2017-05-05T14:47:57.007Z"
 }

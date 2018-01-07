@@ -5,7 +5,7 @@
   "owner": {
     "login": "iamdash83",
     "id": 18201210,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/18201210?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/18201210?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/iamdash83",
     "htmlUrl": "https://github.com/iamdash83",
@@ -49,7 +49,7 @@
     "owner": {
       "login": "auchenberg",
       "id": 173559,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/173559?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/173559?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/auchenberg",
       "htmlUrl": "https://github.com/auchenberg",
@@ -79,7 +79,7 @@
     "downloadsUrl": "https://api.github.com/repos/auchenberg/chrome-devtools-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/auchenberg/chrome-devtools-app/deployments",
     "createdAt": "2014-11-17T06:06:51.000Z",
-    "updatedAt": "2017-04-28T13:05:45.000Z",
+    "updatedAt": "2017-10-20T14:12:58.000Z",
     "pushedAt": "2015-11-20T08:39:32.000Z",
     "gitUrl": "git://github.com/auchenberg/chrome-devtools-app.git",
     "sshUrl": "git@github.com:auchenberg/chrome-devtools-app.git",
@@ -87,19 +87,20 @@
     "svnUrl": "https://github.com/auchenberg/chrome-devtools-app",
     "homepage": "",
     "size": 226344,
-    "stargazersCount": 1389,
-    "watchersCount": 1389,
+    "stargazersCount": 1430,
+    "watchersCount": 1430,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 81,
+    "forksCount": 86,
     "mirrorUrl": null,
-    "openIssuesCount": 15,
-    "openIssues": 15,
-    "watchers": 1389,
+    "archived": false,
+    "openIssuesCount": 16,
+    "openIssues": 16,
+    "watchers": 1430,
     "defaultBranch": "master"
   },
   "source": {
@@ -109,7 +110,7 @@
     "owner": {
       "login": "auchenberg",
       "id": 173559,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/173559?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/173559?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/auchenberg",
       "htmlUrl": "https://github.com/auchenberg",
@@ -139,7 +140,7 @@
     "downloadsUrl": "https://api.github.com/repos/auchenberg/chrome-devtools-app/downloads",
     "deploymentsUrl": "https://api.github.com/repos/auchenberg/chrome-devtools-app/deployments",
     "createdAt": "2014-11-17T06:06:51.000Z",
-    "updatedAt": "2017-04-28T13:05:45.000Z",
+    "updatedAt": "2017-10-20T14:12:58.000Z",
     "pushedAt": "2015-11-20T08:39:32.000Z",
     "gitUrl": "git://github.com/auchenberg/chrome-devtools-app.git",
     "sshUrl": "git@github.com:auchenberg/chrome-devtools-app.git",
@@ -147,22 +148,23 @@
     "svnUrl": "https://github.com/auchenberg/chrome-devtools-app",
     "homepage": "",
     "size": 226344,
-    "stargazersCount": 1389,
-    "watchersCount": 1389,
+    "stargazersCount": 1430,
+    "watchersCount": 1430,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 81,
+    "forksCount": 86,
     "mirrorUrl": null,
-    "openIssuesCount": 15,
-    "openIssues": 15,
-    "watchers": 1389,
+    "archived": false,
+    "openIssuesCount": 16,
+    "openIssues": 16,
+    "watchers": 1430,
     "defaultBranch": "master"
   },
-  "networkCount": 81,
+  "networkCount": 86,
   "subscribersCount": 1,
   "status": 200,
   "packageJSON": {
@@ -198,14 +200,13 @@
       "start": "node ./tasks/start",
       "test": "node ./tasks/start --env=test"
     },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/auchenberg/chrome-devtools-app.git"
-    },
-    "bugs": {
-      "url": "https://github.com/auchenberg/chrome-devtools-app/issues"
-    },
-    "homepage": "https://github.com/auchenberg/chrome-devtools-app"
+    "repository": "https://github.com/auchenberg/chrome-devtools-app",
+    "homepage": "https://github.com/auchenberg/chrome-devtools-app",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/auchenberg/chrome-devtools-app/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -253,6 +254,7 @@
   "svnUrl": "https://github.com/iamdash83/chrome-devtools-app",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:24:51.134Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:00.616Z"
+  "lastFetchedAt": "2017-10-23T22:32:40.108Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:00.616Z",
+  "archived": false
 }

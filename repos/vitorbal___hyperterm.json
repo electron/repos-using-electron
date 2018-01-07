@@ -184,7 +184,7 @@
   },
   "networkCount": 1147,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "hyperterm",
     "version": "0.7.1",
@@ -294,12 +294,7 @@
       "dist": "npm run build && build",
       "release": "npm run build && build --publish=onTagOrDraft"
     },
-    "other": {
-      "author": {
-        "name": "Zeit, Inc.",
-        "email": "team@zeit.co"
-      }
-    }
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -327,7 +322,7 @@
   "filename": "vitorbal___hyperterm.json",
   "sourceRepo": "zeit/hyperterm",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:11:54.446Z",
+  "lastFetchedAt": "2017-10-23T23:11:12.000Z",
   "packageLastFetchedAt": "2017-05-04T23:09:01.718Z",
   "contributors": [
     "rauchg",

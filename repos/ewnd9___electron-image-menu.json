@@ -5,7 +5,7 @@
   "owner": {
     "login": "ewnd9",
     "id": 1713789,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/1713789?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/1713789?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/ewnd9",
     "htmlUrl": "https://github.com/ewnd9",
@@ -36,7 +36,7 @@
   "deploymentsUrl": "https://api.github.com/repos/ewnd9/electron-image-menu/deployments",
   "createdAt": "2016-04-07T14:27:22.000Z",
   "updatedAt": "2016-04-07T14:28:20.000Z",
-  "pushedAt": "2016-09-27T12:13:31.000Z",
+  "pushedAt": "2017-07-02T05:48:01.000Z",
   "gitUrl": "git://github.com/ewnd9/electron-image-menu.git",
   "sshUrl": "git@github.com:ewnd9/electron-image-menu.git",
   "cloneUrl": "https://github.com/ewnd9/electron-image-menu.git",
@@ -91,14 +91,12 @@
       "index.js"
     ],
     "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ewnd9/electron-image-menu.git"
-    },
+    "repository": "https://github.com/ewnd9/electron-image-menu",
     "scripts": {
       "lint": "eslint src/*",
       "prepush": "npm run lint && npm test"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -125,6 +123,7 @@
   },
   "filename": "ewnd9___electron-image-menu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:35:24.637Z",
-  "packageLastFetchedAt": "2017-05-05T17:40:19.792Z"
+  "lastFetchedAt": "2017-10-23T23:11:51.107Z",
+  "packageLastFetchedAt": "2017-05-05T17:40:19.792Z",
+  "archived": false
 }

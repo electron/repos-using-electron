@@ -64,7 +64,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "placas-wiki",
     "version": "0.0.0",
@@ -73,10 +73,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git@bitbucket.org:bipbop/placas-wiki.git"
-    },
+    "repository": "https://github.com/bipbop/placas-wiki",
     "author": {
       "name": "BIPBOP",
       "email": "desenvolvimento@bipbop.com.br",
@@ -124,7 +121,8 @@
       "messageformat": "^0.2.2",
       "phantomjs": "^1.9.17",
       "underscore": "^1.7.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -171,6 +169,6 @@
   "svnUrl": "https://github.com/bipbop/placas-wiki",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:30:46.954Z",
+  "lastFetchedAt": "2017-10-23T23:08:24.334Z",
   "packageLastFetchedAt": "2017-05-05T15:39:15.951Z"
 }

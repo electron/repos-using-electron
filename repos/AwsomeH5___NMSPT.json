@@ -5,7 +5,7 @@
   "owner": {
     "login": "AwsomeH5",
     "id": 20036753,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20036753?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20036753?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AwsomeH5",
     "htmlUrl": "https://github.com/AwsomeH5",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "AwsomeH5",
     "id": 20036753,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/20036753?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/20036753?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/AwsomeH5",
     "htmlUrl": "https://github.com/AwsomeH5",
@@ -96,10 +96,7 @@
       "build": "electron-builder ./MyApp-win32-x64 --platform=win --arch=x64",
       "postinstall": "bower install"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AwsomeH5/NMSPT.git"
-    },
+    "repository": "https://github.com/AwsomeH5/NMSPT",
     "keywords": [
       "Electron",
       "quick",
@@ -108,9 +105,6 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/AwsomeH5/NMSPT/issues"
-    },
     "homepage": "https://github.com/AwsomeH5/NMSPT#readme",
     "devDependencies": {
       "bower": "^1.7.9",
@@ -129,6 +123,11 @@
     },
     "dependencies": {
       "xlsx": "^0.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/AwsomeH5/NMSPT/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -157,6 +156,7 @@
   "filename": "AwsomeH5___NMSPT.json",
   "sourceRepo": "gedaiu/Voice",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:01.796Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:54.432Z"
+  "lastFetchedAt": "2017-10-24T00:15:34.992Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:54.432Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "TerriaJS",
     "id": 12078432,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12078432?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12078432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TerriaJS",
     "htmlUrl": "https://github.com/TerriaJS",
@@ -20,21 +20,21 @@
   "description": "A library for building rich, web-based geospatial data explorers.",
   "fork": false,
   "createdAt": "2014-02-25T06:30:13.000Z",
-  "updatedAt": "2017-05-02T10:33:14.000Z",
-  "pushedAt": "2017-05-04T11:19:24.000Z",
+  "updatedAt": "2017-10-23T07:19:53.000Z",
+  "pushedAt": "2017-10-23T21:07:30.000Z",
   "homepage": "http://terria.io",
-  "size": 33218,
-  "stargazersCount": 193,
-  "watchersCount": 193,
+  "size": 33856,
+  "stargazersCount": 247,
+  "watchersCount": 247,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 84,
-  "openIssuesCount": 268,
-  "openIssues": 268,
-  "watchers": 193,
+  "forksCount": 100,
+  "openIssuesCount": 320,
+  "openIssues": 320,
+  "watchers": 247,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -51,7 +51,7 @@
   "organization": {
     "login": "TerriaJS",
     "id": 12078432,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/12078432?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/12078432?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/TerriaJS",
     "htmlUrl": "https://github.com/TerriaJS",
@@ -62,8 +62,8 @@
     "receivedEventsUrl": "https://api.github.com/users/TerriaJS/received_events",
     "type": "Organization"
   },
-  "networkCount": 84,
-  "subscribersCount": 33,
+  "networkCount": 100,
+  "subscribersCount": 41,
   "status": 200,
   "packageJSON": {
     "name": "terriajs",
@@ -74,10 +74,7 @@
       "node": ">= 5.10.0",
       "npm": ">= 3.0.0"
     },
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/TerriaJS/terriajs"
-    },
+    "repository": "https://github.com/TerriaJS/terriajs",
     "config": {
       "docRepo": "git@github.com:TerriaJS/Documentation.git"
     },
@@ -192,7 +189,8 @@
       "dev": "webpack-dev-server --inline --config buildprocess/webpack.config.dev.js --host 0.0.0.0",
       "hot": "webpack-dev-server --inline --config buildprocess/webpack.config.hot.js --hot --host 0.0.0.0",
       "publish-doc": "bash -c \"rm -rf wwwroot/doc && mkdir wwwroot/doc && cp doc/index-built.html wwwroot/doc/index.html && gulp docs && cd wwwroot/doc && git init && git remote add origin $npm_package_config_docRepo && git add . && git commit -m 'Generate Documentation' && git push -f origin HEAD:gh-pages\""
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/TerriaJS/terriajs",
@@ -239,6 +237,7 @@
   },
   "filename": "TerriaJS___terriajs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:20:58.027Z",
-  "packageLastFetchedAt": "2017-05-05T15:09:24.327Z"
+  "lastFetchedAt": "2017-10-23T23:42:52.923Z",
+  "packageLastFetchedAt": "2017-05-05T15:09:24.327Z",
+  "archived": false
 }

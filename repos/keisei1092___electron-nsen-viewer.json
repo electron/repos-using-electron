@@ -7,7 +7,7 @@
   "owner": {
     "login": "keisei1092",
     "id": 3320719,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/3320719?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3320719?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/keisei1092",
     "htmlUrl": "https://github.com/keisei1092",
@@ -73,7 +73,7 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "lastFetchedAt": "2017-05-04T21:25:34.199Z",
+  "lastFetchedAt": "2017-10-24T00:14:56.645Z",
   "packageJSON": {
     "name": "electron-quick-start",
     "version": "1.0.0",
@@ -82,10 +82,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -94,14 +91,17 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.36.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "packageLastFetchedAt": "2017-05-04T22:02:46.141Z"
+  "packageLastFetchedAt": "2017-05-04T22:02:46.141Z",
+  "archived": false
 }

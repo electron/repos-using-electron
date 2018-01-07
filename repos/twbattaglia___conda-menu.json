@@ -5,7 +5,7 @@
   "owner": {
     "login": "twbattaglia",
     "id": 6052690,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/6052690?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6052690?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/twbattaglia",
     "htmlUrl": "https://github.com/twbattaglia",
@@ -77,9 +77,6 @@
     "version": "0.2.4-dev",
     "description": "An (unofficial) menubar app for creating and launching conda virtual environments.",
     "homepage": "https://github.com/twbattaglia/conda-menu",
-    "bugs": {
-      "url": "https://github.com/twbattaglia/conda-menu/issues"
-    },
     "keywords": [
       "conda",
       "electron",
@@ -121,10 +118,7 @@
       "gulp-uglify": "^2.0.0",
       "jshint": "latest"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/twbattaglia/conda-menu"
-    },
+    "repository": "https://github.com/twbattaglia/conda-menu",
     "license": "MIT",
     "main": "main.js",
     "scripts": {
@@ -140,6 +134,11 @@
       "build:win64": "electron-packager . Conda-menu --platform win32 --arch ia32 --out build --version=1.4.15 --icon=build/Icon.ico --overwrite --app-bundle-id=com.twbattaglia.conda-menu",
       "package:win32": "electron-installer-windows --src build/Conda-menu-win32-ia32 --dest dist/ --name Conda_menu --productName Conda_menu",
       "package:win64": "electron-installer-windows --src build/Conda-menu-win32-x64 --dest dist/ --name Conda_menu --productName Conda_menu"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/twbattaglia/conda-menu/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -167,6 +166,7 @@
   },
   "filename": "twbattaglia___conda-menu.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:15:41.700Z",
-  "packageLastFetchedAt": "2017-05-05T17:52:31.699Z"
+  "lastFetchedAt": "2017-10-24T00:09:03.962Z",
+  "packageLastFetchedAt": "2017-05-05T17:52:31.699Z",
+  "archived": false
 }

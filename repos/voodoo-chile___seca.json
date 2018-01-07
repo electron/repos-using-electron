@@ -5,7 +5,7 @@
   "owner": {
     "login": "voodoo-chile",
     "id": 735602,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/735602?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/735602?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/voodoo-chile",
     "htmlUrl": "https://github.com/voodoo-chile",
@@ -70,16 +70,10 @@
     "version": "0.0.1",
     "description": "A simple, encrypted chat application",
     "main": "main.js",
-    "directories": {
-      "test": "test"
-    },
     "scripts": {
       "test": "mocha test/mocha"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/voodoo-chile/seca"
-    },
+    "repository": "https://github.com/voodoo-chile/seca",
     "keywords": [
       "electron",
       "mocha",
@@ -88,9 +82,6 @@
     ],
     "author": "voodoo@blackandyellowpages.com",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/voodoo-chile/seca/issues"
-    },
     "homepage": "https://github.com/voodoo-chile/seca",
     "dependencies": {
       "angular": "^1.3.15",
@@ -112,6 +103,14 @@
       "mocha": "^2.2.4",
       "requirejs": "^2.1.17",
       "should": "^6.0.1"
+    },
+    "other": {
+      "directories": {
+        "test": "test"
+      },
+      "bugs": {
+        "url": "https://github.com/voodoo-chile/seca/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -139,6 +138,7 @@
   },
   "filename": "voodoo-chile___seca.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:51:54.644Z",
-  "packageLastFetchedAt": "2017-05-05T16:59:04.671Z"
+  "lastFetchedAt": "2017-10-24T02:04:02.187Z",
+  "packageLastFetchedAt": "2017-05-05T16:59:04.671Z",
+  "archived": false
 }

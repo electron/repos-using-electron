@@ -5,7 +5,7 @@
   "owner": {
     "login": "xiaovcn",
     "id": 13267906,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/13267906?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/13267906?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/xiaovcn",
     "htmlUrl": "https://github.com/xiaovcn",
@@ -75,18 +75,12 @@
       "dev": "electron . --enable-logging",
       "build": "electron-packager ./app notify --platform=win32 --arch=all --overwrite --icon=./app/assets/images/icon.ico --ignore=node_modules"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/xiaovcn/notify.git"
-    },
+    "repository": "https://github.com/xiaovcn/notify",
     "keywords": [
       "Notify"
     ],
     "author": "xiaov.cn",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/xiaovcn/notify/issues"
-    },
     "homepage": "https://github.com/xiaovcn/notify#readme",
     "devDependencies": {
       "devtron": "^1.3.0",
@@ -99,6 +93,11 @@
       "electron": "^1.3.3",
       "electron-json-storage": "^2.0.0",
       "jquery": "^2.1.4"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/xiaovcn/notify/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "xiaovcn___notify.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:04:41.633Z",
-  "packageLastFetchedAt": "2017-05-04T23:03:38.804Z"
+  "lastFetchedAt": "2017-10-23T22:24:43.282Z",
+  "packageLastFetchedAt": "2017-05-04T23:03:38.804Z",
+  "archived": false
 }

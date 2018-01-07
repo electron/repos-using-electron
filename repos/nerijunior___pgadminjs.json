@@ -5,7 +5,7 @@
   "owner": {
     "login": "nerijunior",
     "id": 17169,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/17169?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/17169?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/nerijunior",
     "htmlUrl": "https://github.com/nerijunior",
@@ -20,12 +20,12 @@
   "description": "A PgAdmin version using Node and Electron",
   "fork": false,
   "createdAt": "2015-12-11T13:20:24.000Z",
-  "updatedAt": "2015-12-11T13:26:09.000Z",
+  "updatedAt": "2017-08-08T10:11:00.000Z",
   "pushedAt": "2015-12-11T13:30:31.000Z",
   "homepage": null,
   "size": 3,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "stargazersCount": 1,
+  "watchersCount": 1,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 0,
   "openIssues": 0,
-  "watchers": 0,
+  "watchers": 1,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -59,10 +59,7 @@
     "scripts": {
       "start": "electron main.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/atom/electron-quick-start.git"
-    },
+    "repository": "https://github.com/atom/electron-quick-start",
     "keywords": [
       "Electron",
       "quick",
@@ -71,12 +68,14 @@
     ],
     "author": "GitHub",
     "license": "CC0-1.0",
-    "bugs": {
-      "url": "https://github.com/atom/electron-quick-start/issues"
-    },
     "homepage": "https://github.com/atom/electron-quick-start#readme",
     "devDependencies": {
       "electron-prebuilt": "^0.35.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/atom/electron-quick-start/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -124,6 +123,7 @@
   },
   "filename": "nerijunior___pgadminjs.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:53:47.993Z",
-  "packageLastFetchedAt": "2017-05-05T15:03:17.251Z"
+  "lastFetchedAt": "2017-10-23T23:45:35.902Z",
+  "packageLastFetchedAt": "2017-05-05T15:03:17.251Z",
+  "archived": false
 }

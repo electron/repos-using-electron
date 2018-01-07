@@ -1,26 +1,26 @@
 {
   "id": 42756689,
   "name": "invoices.app",
-  "fullName": "fastercar/invoices.app",
+  "fullName": "ajsb85/invoices.app",
   "owner": {
-    "login": "fastercar",
-    "id": 9324935,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/9324935?v=3",
+    "login": "ajsb85",
+    "id": 663460,
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/663460?v=4",
     "gravatarId": "",
-    "url": "https://api.github.com/users/fastercar",
-    "htmlUrl": "https://github.com/fastercar",
-    "followersUrl": "https://api.github.com/users/fastercar/followers",
-    "subscriptionsUrl": "https://api.github.com/users/fastercar/subscriptions",
-    "organizationsUrl": "https://api.github.com/users/fastercar/orgs",
-    "reposUrl": "https://api.github.com/users/fastercar/repos",
-    "receivedEventsUrl": "https://api.github.com/users/fastercar/received_events",
-    "type": "Organization"
+    "url": "https://api.github.com/users/ajsb85",
+    "htmlUrl": "https://github.com/ajsb85",
+    "followersUrl": "https://api.github.com/users/ajsb85/followers",
+    "subscriptionsUrl": "https://api.github.com/users/ajsb85/subscriptions",
+    "organizationsUrl": "https://api.github.com/users/ajsb85/orgs",
+    "reposUrl": "https://api.github.com/users/ajsb85/repos",
+    "receivedEventsUrl": "https://api.github.com/users/ajsb85/received_events",
+    "type": "User"
   },
   "private": false,
   "description": "App To Create Invoices",
   "fork": false,
   "createdAt": "2015-09-19T02:41:21.000Z",
-  "updatedAt": "2015-09-20T05:39:12.000Z",
+  "updatedAt": "2017-09-30T01:04:43.000Z",
   "pushedAt": "2015-09-28T12:38:18.000Z",
   "homepage": "http://fastercar.com.ve",
   "size": 1528,
@@ -74,19 +74,13 @@
       "test": "live-server --port=3300",
       "start": "./node_modules/.bin/electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/fastercar/invoices.app.git"
-    },
+    "repository": "https://github.com/fastercar/invoices.app",
     "keywords": [
       "fastercar",
       "invoices"
     ],
     "author": "Alexander J. Salas B. <a.salas@ieee.org>",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/fastercar/invoices.app/issues"
-    },
     "homepage": "https://github.com/fastercar/invoices.app#readme",
     "devDependencies": {
       "electron-connect": "^0.3.3",
@@ -101,28 +95,33 @@
       "electron-jade": "^1.2.2",
       "gravatar": "^1.3.0",
       "thinky": "^2.1.6"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/fastercar/invoices.app/issues"
+      }
     }
   },
   "packageStatus": 200,
-  "htmlUrl": "https://github.com/fastercar/invoices.app",
-  "url": "https://api.github.com/repos/fastercar/invoices.app",
-  "forksUrl": "https://api.github.com/repos/fastercar/invoices.app/forks",
-  "teamsUrl": "https://api.github.com/repos/fastercar/invoices.app/teams",
-  "hooksUrl": "https://api.github.com/repos/fastercar/invoices.app/hooks",
-  "eventsUrl": "https://api.github.com/repos/fastercar/invoices.app/events",
-  "tagsUrl": "https://api.github.com/repos/fastercar/invoices.app/tags",
-  "languagesUrl": "https://api.github.com/repos/fastercar/invoices.app/languages",
-  "stargazersUrl": "https://api.github.com/repos/fastercar/invoices.app/stargazers",
-  "contributorsUrl": "https://api.github.com/repos/fastercar/invoices.app/contributors",
-  "subscribersUrl": "https://api.github.com/repos/fastercar/invoices.app/subscribers",
-  "subscriptionUrl": "https://api.github.com/repos/fastercar/invoices.app/subscription",
-  "mergesUrl": "https://api.github.com/repos/fastercar/invoices.app/merges",
-  "downloadsUrl": "https://api.github.com/repos/fastercar/invoices.app/downloads",
-  "deploymentsUrl": "https://api.github.com/repos/fastercar/invoices.app/deployments",
-  "gitUrl": "git://github.com/fastercar/invoices.app.git",
-  "sshUrl": "git@github.com:fastercar/invoices.app.git",
-  "cloneUrl": "https://github.com/fastercar/invoices.app.git",
-  "svnUrl": "https://github.com/fastercar/invoices.app",
+  "htmlUrl": "https://github.com/ajsb85/invoices.app",
+  "url": "https://api.github.com/repos/ajsb85/invoices.app",
+  "forksUrl": "https://api.github.com/repos/ajsb85/invoices.app/forks",
+  "teamsUrl": "https://api.github.com/repos/ajsb85/invoices.app/teams",
+  "hooksUrl": "https://api.github.com/repos/ajsb85/invoices.app/hooks",
+  "eventsUrl": "https://api.github.com/repos/ajsb85/invoices.app/events",
+  "tagsUrl": "https://api.github.com/repos/ajsb85/invoices.app/tags",
+  "languagesUrl": "https://api.github.com/repos/ajsb85/invoices.app/languages",
+  "stargazersUrl": "https://api.github.com/repos/ajsb85/invoices.app/stargazers",
+  "contributorsUrl": "https://api.github.com/repos/ajsb85/invoices.app/contributors",
+  "subscribersUrl": "https://api.github.com/repos/ajsb85/invoices.app/subscribers",
+  "subscriptionUrl": "https://api.github.com/repos/ajsb85/invoices.app/subscription",
+  "mergesUrl": "https://api.github.com/repos/ajsb85/invoices.app/merges",
+  "downloadsUrl": "https://api.github.com/repos/ajsb85/invoices.app/downloads",
+  "deploymentsUrl": "https://api.github.com/repos/ajsb85/invoices.app/deployments",
+  "gitUrl": "git://github.com/ajsb85/invoices.app.git",
+  "sshUrl": "git@github.com:ajsb85/invoices.app.git",
+  "cloneUrl": "https://github.com/ajsb85/invoices.app.git",
+  "svnUrl": "https://github.com/ajsb85/invoices.app",
   "mirrorUrl": null,
   "firstCommit": {
     "sha": "79d4c77765b3bb539ede791a58192be11842e0ee",
@@ -148,6 +147,7 @@
   },
   "filename": "fastercar___invoices.app.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T15:24:24.095Z",
-  "packageLastFetchedAt": "2017-05-05T17:12:00.774Z"
+  "lastFetchedAt": "2017-10-23T21:46:25.707Z",
+  "packageLastFetchedAt": "2017-05-05T17:12:00.774Z",
+  "archived": false
 }

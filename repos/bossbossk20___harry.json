@@ -64,7 +64,7 @@
   "license": null,
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "harry",
     "version": "2.2.0",
@@ -74,10 +74,7 @@
       "test": "make test",
       "start": "node index.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/segmentio/nightmare.git"
-    },
+    "repository": "https://github.com/segmentio/nightmare",
     "author": "bossbossk20",
     "keywords": [
       "nightmare",
@@ -110,7 +107,8 @@
       "express": "^4.13.3",
       "mocha-generators": "^1.2.0",
       "mocha": "^2.3.0"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -137,6 +135,6 @@
   },
   "filename": "bossbossk20___harry.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:25:02.939Z",
+  "lastFetchedAt": "2017-10-23T23:00:34.067Z",
   "packageLastFetchedAt": "2017-05-05T17:40:31.745Z"
 }

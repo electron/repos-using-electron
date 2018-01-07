@@ -5,7 +5,7 @@
   "owner": {
     "login": "kooperative",
     "id": 16594040,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/16594040?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/16594040?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/kooperative",
     "htmlUrl": "https://github.com/kooperative",
@@ -94,18 +94,12 @@
       "test-watch": "mocha watch"
     },
     "electronVersion": "0.36.2",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/lloeki/matterfront"
-    },
+    "repository": "https://github.com/lloeki/matterfront",
     "keywords": [
       "Mattermost",
       "electron"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/lloeki/matterfront/issues"
-    },
     "devDependencies": {
       "babel-core": "~6.3.13",
       "babel-loader": "~6.2.0",
@@ -144,6 +138,11 @@
       "ghooks": {
         "pre-commit": "npm run lint && npm run test"
       }
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/lloeki/matterfront/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -172,6 +171,7 @@
   "filename": "kooperative___mattermost.json",
   "sourceRepo": "lloeki/matterfront",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:02:11.705Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:08.203Z"
+  "lastFetchedAt": "2017-10-23T22:08:56.544Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:08.203Z",
+  "archived": false
 }

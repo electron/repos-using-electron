@@ -5,7 +5,7 @@
   "owner": {
     "login": "psychokinesis-dev",
     "id": 17685087,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17685087?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17685087?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/psychokinesis-dev",
     "htmlUrl": "https://github.com/psychokinesis-dev",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "psychokinesis-dev",
     "id": 17685087,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/17685087?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/17685087?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/psychokinesis-dev",
     "htmlUrl": "https://github.com/psychokinesis-dev",
@@ -95,10 +95,7 @@
       "pack": "electron-packager ./ live --platform=all --arch=all --icon ./app/icon.ico --out ../live-dist --overwrite && cd ../live-dist && for file in ./*; do if test -d $file; then zip --symlinks -r $file-v0.1.0.zip $file; fi; done",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/psychokinesis-dev/live.git"
-    },
+    "repository": "https://github.com/psychokinesis-dev/live",
     "keywords": [
       "p2p",
       "live",
@@ -106,9 +103,6 @@
     ],
     "author": "covertness",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/psychokinesis-dev/live/issues"
-    },
     "homepage": "https://github.com/psychokinesis-dev/live#readme",
     "devDependencies": {
       "electron-packager": "^7.3.0",
@@ -119,6 +113,11 @@
       "psychokinesis": "^1.0.6",
       "request": "^2.73.0",
       "uuid": "^2.0.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/psychokinesis-dev/live/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -146,6 +145,7 @@
   },
   "filename": "psychokinesis-dev___live.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:21:56.100Z",
-  "packageLastFetchedAt": "2017-05-05T15:24:45.605Z"
+  "lastFetchedAt": "2017-10-24T00:06:01.312Z",
+  "packageLastFetchedAt": "2017-05-05T15:24:45.605Z",
+  "archived": false
 }

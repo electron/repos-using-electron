@@ -5,7 +5,7 @@
   "owner": {
     "login": "Rise-Vision",
     "id": 6840223,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6840223?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6840223?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Rise-Vision",
     "htmlUrl": "https://github.com/Rise-Vision",
@@ -20,21 +20,21 @@
   "description": null,
   "fork": false,
   "createdAt": "2015-10-14T17:47:09.000Z",
-  "updatedAt": "2016-01-20T13:39:21.000Z",
-  "pushedAt": "2017-05-04T15:34:24.000Z",
+  "updatedAt": "2017-08-11T08:36:19.000Z",
+  "pushedAt": "2017-10-23T22:20:24.000Z",
   "homepage": null,
-  "size": 1684,
-  "stargazersCount": 0,
-  "watchersCount": 0,
+  "size": 2038,
+  "stargazersCount": 2,
+  "watchersCount": 2,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
   "hasWiki": true,
   "hasPages": false,
-  "forksCount": 1,
-  "openIssuesCount": 7,
-  "openIssues": 7,
-  "watchers": 0,
+  "forksCount": 2,
+  "openIssuesCount": 6,
+  "openIssues": 6,
+  "watchers": 2,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -45,7 +45,7 @@
   "organization": {
     "login": "Rise-Vision",
     "id": 6840223,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6840223?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/6840223?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Rise-Vision",
     "htmlUrl": "https://github.com/Rise-Vision",
@@ -56,7 +56,7 @@
     "receivedEventsUrl": "https://api.github.com/users/Rise-Vision/received_events",
     "type": "Organization"
   },
-  "networkCount": 1,
+  "networkCount": 2,
   "subscribersCount": 19,
   "status": 200,
   "packageJSON": {
@@ -101,7 +101,8 @@
       "integration": "export ELECTRON_PATH=$PWD/node_modules/electron-prebuilt/dist/electron && node_modules/.bin/electron-mocha -r ./init.js -t 10000 test/integration",
       "ui-integration": "node_modules/.bin/electron-mocha -r init.js test/integration/ui/main-it.js",
       "start": "./node_modules/.bin/electron main.js"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -148,6 +149,7 @@
   "svnUrl": "https://github.com/Rise-Vision/rise-launcher-electron",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T15:35:06.272Z",
-  "packageLastFetchedAt": "2017-05-04T22:14:25.923Z"
+  "lastFetchedAt": "2017-10-24T00:12:50.699Z",
+  "packageLastFetchedAt": "2017-05-04T22:14:25.923Z",
+  "archived": false
 }

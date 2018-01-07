@@ -5,7 +5,7 @@
   "owner": {
     "login": "bankonca",
     "id": 19882413,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19882413?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19882413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bankonca",
     "htmlUrl": "https://github.com/bankonca",
@@ -45,7 +45,7 @@
   "organization": {
     "login": "bankonca",
     "id": 19882413,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/19882413?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/19882413?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bankonca",
     "htmlUrl": "https://github.com/bankonca",
@@ -63,7 +63,7 @@
     "owner": {
       "login": "bitpay",
       "id": 2554930,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2554930?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2554930?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bitpay",
       "htmlUrl": "https://github.com/bitpay",
@@ -93,7 +93,7 @@
     "downloadsUrl": "https://api.github.com/repos/bitpay/i-made-this/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bitpay/i-made-this/deployments",
     "createdAt": "2015-10-07T19:51:40.000Z",
-    "updatedAt": "2017-04-11T20:03:40.000Z",
+    "updatedAt": "2017-09-01T16:28:16.000Z",
     "pushedAt": "2017-01-09T18:46:14.000Z",
     "gitUrl": "git://github.com/bitpay/i-made-this.git",
     "sshUrl": "git@github.com:bitpay/i-made-this.git",
@@ -101,19 +101,20 @@
     "svnUrl": "https://github.com/bitpay/i-made-this",
     "homepage": "https://bitcore.io/guides/i-made-this",
     "size": 3008,
-    "stargazersCount": 19,
-    "watchersCount": 19,
+    "stargazersCount": 26,
+    "watchersCount": 26,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 18,
+    "forksCount": 21,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 2,
     "openIssues": 2,
-    "watchers": 19,
+    "watchers": 26,
     "defaultBranch": "master"
   },
   "source": {
@@ -123,7 +124,7 @@
     "owner": {
       "login": "bitpay",
       "id": 2554930,
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/2554930?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/2554930?v=4",
       "gravatarId": "",
       "url": "https://api.github.com/users/bitpay",
       "htmlUrl": "https://github.com/bitpay",
@@ -153,7 +154,7 @@
     "downloadsUrl": "https://api.github.com/repos/bitpay/i-made-this/downloads",
     "deploymentsUrl": "https://api.github.com/repos/bitpay/i-made-this/deployments",
     "createdAt": "2015-10-07T19:51:40.000Z",
-    "updatedAt": "2017-04-11T20:03:40.000Z",
+    "updatedAt": "2017-09-01T16:28:16.000Z",
     "pushedAt": "2017-01-09T18:46:14.000Z",
     "gitUrl": "git://github.com/bitpay/i-made-this.git",
     "sshUrl": "git@github.com:bitpay/i-made-this.git",
@@ -161,22 +162,23 @@
     "svnUrl": "https://github.com/bitpay/i-made-this",
     "homepage": "https://bitcore.io/guides/i-made-this",
     "size": 3008,
-    "stargazersCount": 19,
-    "watchersCount": 19,
+    "stargazersCount": 26,
+    "watchersCount": 26,
     "language": "JavaScript",
     "hasIssues": true,
     "hasProjects": true,
     "hasDownloads": true,
     "hasWiki": true,
     "hasPages": false,
-    "forksCount": 18,
+    "forksCount": 21,
     "mirrorUrl": null,
+    "archived": false,
     "openIssuesCount": 2,
     "openIssues": 2,
-    "watchers": 19,
+    "watchers": 26,
     "defaultBranch": "master"
   },
-  "networkCount": 18,
+  "networkCount": 21,
   "subscribersCount": 0,
   "status": 200,
   "packageJSON": {
@@ -188,20 +190,19 @@
       "start": "electron ."
     },
     "dependencies": {},
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/bitpay/i-made-this.git"
-    },
+    "repository": "https://github.com/bitpay/i-made-this",
     "keywords": [
       "bitcore"
     ],
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bitpay/i-made-this/issues"
-    },
     "homepage": "https://github.com/bitpay/i-made-this",
     "devDependencies": {
       "electron-prebuilt": "^0.34.1"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bitpay/i-made-this/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -250,6 +251,7 @@
   "svnUrl": "https://github.com/bankonca/i-made-this",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T05:31:25.157Z",
-  "packageLastFetchedAt": "2017-05-05T01:34:18.212Z"
+  "lastFetchedAt": "2017-10-23T22:10:19.201Z",
+  "packageLastFetchedAt": "2017-05-05T01:34:18.212Z",
+  "archived": false
 }

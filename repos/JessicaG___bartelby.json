@@ -5,7 +5,7 @@
   "owner": {
     "login": "JessicaG",
     "id": 957528,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/957528?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/957528?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/JessicaG",
     "htmlUrl": "https://github.com/JessicaG",
@@ -50,10 +50,6 @@
     "version": "0.0.0",
     "description": "Small description for bartleby goes here",
     "private": true,
-    "directories": {
-      "doc": "doc",
-      "test": "tests"
-    },
     "scripts": {
       "build": "ember build",
       "start": "ember server",
@@ -131,6 +127,12 @@
     },
     "dependencies": {
       "file-bin": "^0.4.0"
+    },
+    "other": {
+      "directories": {
+        "doc": "doc",
+        "test": "tests"
+      }
     }
   },
   "packageStatus": 200,
@@ -178,6 +180,7 @@
   "svnUrl": "https://github.com/JessicaG/bartelby",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T21:22:16.663Z",
-  "packageLastFetchedAt": "2017-05-05T17:02:42.590Z"
+  "lastFetchedAt": "2017-10-23T22:56:08.134Z",
+  "packageLastFetchedAt": "2017-05-05T17:02:42.590Z",
+  "archived": false
 }

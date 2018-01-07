@@ -164,7 +164,7 @@
   },
   "networkCount": 80,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "name": "betwixt",
     "version": "1.6.1",
@@ -174,10 +174,7 @@
       "start": "electron src/main.js",
       "test": "jshint src/lib/ src/*.js && jscs src/lib/ src/*.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/kdzwinel/betwixt.git"
-    },
+    "repository": "https://github.com/kdzwinel/betwixt",
     "keywords": [
       "traffic",
       "proxy",
@@ -186,9 +183,6 @@
     ],
     "author": "Konrad Dzwinel",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/kdzwinel/betwixt/issues"
-    },
     "homepage": "https://github.com/kdzwinel/betwixt",
     "dependencies": {
       "chalk": "^1.1.1",
@@ -201,6 +195,11 @@
       "electron-prebuilt": "^0.36.12",
       "jscs": "^2.6.0",
       "jshint": "^2.8.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/kdzwinel/betwixt/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -249,6 +248,6 @@
   "filename": "nunb___betwixt.json",
   "sourceRepo": "kdzwinel/betwixt",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:46:06.485Z",
+  "lastFetchedAt": "2017-10-23T23:07:54.088Z",
   "packageLastFetchedAt": "2017-05-04T23:04:47.215Z"
 }

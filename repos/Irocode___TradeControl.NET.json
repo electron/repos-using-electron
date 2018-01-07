@@ -5,7 +5,7 @@
   "owner": {
     "login": "Irocode",
     "id": 6140152,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/6140152?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/6140152?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Irocode",
     "htmlUrl": "https://github.com/Irocode",
@@ -230,16 +230,15 @@
       "build:electron.main": "npm run webpack -- --config config/electron/webpack.electron.prod.js",
       "electron:start": "electron build"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Irocode/TradeControl.NET.git"
-    },
-    "bugs": {
-      "url": "https://github.com/Irocode/TradeControl.NET/issues"
-    },
+    "repository": "https://github.com/Irocode/TradeControl.NET",
     "engines": {
       "node": ">= 4.2.1",
       "npm": ">= 3"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/Irocode/TradeControl.NET/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -267,6 +266,7 @@
   },
   "filename": "Irocode___TradeControl.NET.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:35:17.149Z",
-  "packageLastFetchedAt": "2017-05-04T22:27:57.916Z"
+  "lastFetchedAt": "2017-10-23T23:36:24.591Z",
+  "packageLastFetchedAt": "2017-05-04T22:27:57.916Z",
+  "archived": false
 }

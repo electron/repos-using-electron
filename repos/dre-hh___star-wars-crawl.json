@@ -50,14 +50,11 @@
   },
   "networkCount": 0,
   "subscribersCount": 1,
-  "status": 200,
+  "status": 404,
   "packageJSON": {
     "author": "Andreas Winschu",
     "bin": {
       "star-wars-crawl": "cli.js"
-    },
-    "bugs": {
-      "url": "https://github.com/dre-hh/star-wars-crawl/issues"
     },
     "description": "Electron based command line Star Wars opening crawl generator",
     "dependencies": {
@@ -74,14 +71,16 @@
     "license": "WTFPL",
     "main": "main.js",
     "name": "star-wars-crawl",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dre-hh/star-wars-crawl.git"
-    },
+    "repository": "https://github.com/dre-hh/star-wars-crawl",
     "scripts": {
       "start": "electron main.js"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/dre-hh/star-wars-crawl/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +127,6 @@
   "svnUrl": "https://github.com/dre-hh/star-wars-crawl",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:21:37.409Z",
+  "lastFetchedAt": "2017-10-23T23:05:17.825Z",
   "packageLastFetchedAt": "2017-05-05T15:36:59.505Z"
 }

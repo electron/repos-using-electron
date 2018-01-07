@@ -5,7 +5,7 @@
   "owner": {
     "login": "sndrs",
     "id": 867233,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/867233?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/867233?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/sndrs",
     "htmlUrl": "https://github.com/sndrs",
@@ -20,12 +20,12 @@
   "description": "Desktop app for Inbox by Gmail",
   "fork": false,
   "createdAt": "2015-10-10T12:57:19.000Z",
-  "updatedAt": "2016-08-30T18:30:33.000Z",
+  "updatedAt": "2017-07-21T20:42:53.000Z",
   "pushedAt": "2016-09-26T15:28:19.000Z",
   "homepage": "",
   "size": 266,
-  "stargazersCount": 7,
-  "watchersCount": 7,
+  "stargazersCount": 8,
+  "watchersCount": 8,
   "language": "JavaScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 0,
   "openIssuesCount": 4,
   "openIssues": 4,
-  "watchers": 7,
+  "watchers": 8,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -47,15 +47,9 @@
   "status": 200,
   "packageJSON": {
     "name": "inbox",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/sndrs/Inbox.git"
-    },
+    "repository": "https://github.com/sndrs/Inbox",
     "author": "Alex Sanders",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/sndrs/Inbox/issues"
-    },
     "homepage": "https://github.com/sndrs/Inbox#readme",
     "devDependencies": {
       "electron-packager": "^8.0.0"
@@ -64,7 +58,12 @@
       "electron-prebuilt": "^1.4.1"
     },
     "description": "Desktop app for Inbox by Gmail that adds OS integration",
-    "version": "0.1.2"
+    "version": "0.1.2",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/sndrs/Inbox/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "htmlUrl": "https://github.com/sndrs/Inbox",
@@ -111,6 +110,7 @@
   },
   "filename": "sndrs___Inbox.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T05:18:35.122Z",
-  "packageLastFetchedAt": "2017-05-05T17:34:03.704Z"
+  "lastFetchedAt": "2017-10-23T21:42:02.612Z",
+  "packageLastFetchedAt": "2017-05-05T17:34:03.704Z",
+  "archived": false
 }

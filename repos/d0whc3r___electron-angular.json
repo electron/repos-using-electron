@@ -5,7 +5,7 @@
   "owner": {
     "login": "d0whc3r",
     "id": 1378986,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1378986?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1378986?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/d0whc3r",
     "htmlUrl": "https://github.com/d0whc3r",
@@ -147,7 +147,8 @@
       "installer": "./installer.sh || sh ./installer.sh",
       "installer2": "./node_modules/.bin/grunt installer",
       "installer-deb": "./node_modules/.bin/electron-installer-debian --src $npm_package_electronOut/${npm_package_name}-linux-x64/ --dest release/ --arch amd64 --options.version $npm_package_version --config installer-deb.json"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -174,6 +175,7 @@
   },
   "filename": "d0whc3r___electron-angular.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:36.321Z",
-  "packageLastFetchedAt": "2017-05-04T23:11:51.760Z"
+  "lastFetchedAt": "2017-10-23T23:40:48.429Z",
+  "packageLastFetchedAt": "2017-05-04T23:11:51.760Z",
+  "archived": false
 }

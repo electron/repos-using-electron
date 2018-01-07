@@ -5,7 +5,7 @@
   "owner": {
     "login": "rvtraveller",
     "id": 1789427,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/1789427?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/1789427?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rvtraveller",
     "htmlUrl": "https://github.com/rvtraveller",
@@ -79,10 +79,7 @@
     "scripts": {
       "start": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rvtraveller/pastebin-local.git"
-    },
+    "repository": "https://github.com/rvtraveller/pastebin-local",
     "keywords": [
       "Electron",
       "Pastebin",
@@ -90,15 +87,17 @@
     ],
     "author": "Brian Thompson",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rvtraveller/pastebin-local/issues"
-    },
     "homepage": "https://github.com/rvtraveller/pastebin-local#readme",
     "devDependencies": {
       "electron-prebuilt": "^1.2.0"
     },
     "dependencies": {
       "waterwheel": "^0.4.2"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rvtraveller/pastebin-local/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   },
   "filename": "rvtraveller___pastebin-local.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T17:51:56.889Z",
-  "packageLastFetchedAt": "2017-05-05T01:30:56.911Z"
+  "lastFetchedAt": "2017-10-23T22:15:45.515Z",
+  "packageLastFetchedAt": "2017-05-05T01:30:56.911Z",
+  "archived": false
 }

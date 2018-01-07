@@ -5,7 +5,7 @@
   "owner": {
     "login": "Kelmar",
     "id": 2845582,
-    "avatarUrl": "https://avatars3.githubusercontent.com/u/2845582?v=3",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/2845582?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/Kelmar",
     "htmlUrl": "https://github.com/Kelmar",
@@ -36,13 +36,13 @@
   "deploymentsUrl": "https://api.github.com/repos/Kelmar/LunaIRC/deployments",
   "createdAt": "2016-07-04T02:17:06.000Z",
   "updatedAt": "2017-01-31T06:30:21.000Z",
-  "pushedAt": "2017-01-31T06:30:20.000Z",
+  "pushedAt": "2017-07-24T21:18:53.000Z",
   "gitUrl": "git://github.com/Kelmar/LunaIRC.git",
   "sshUrl": "git@github.com:Kelmar/LunaIRC.git",
   "cloneUrl": "https://github.com/Kelmar/LunaIRC.git",
   "svnUrl": "https://github.com/Kelmar/LunaIRC",
   "homepage": null,
-  "size": 54,
+  "size": 69,
   "stargazersCount": 1,
   "watchersCount": 1,
   "language": "TypeScript",
@@ -55,7 +55,7 @@
   "openIssuesCount": 0,
   "openIssues": 0,
   "watchers": 1,
-  "defaultBranch": "master",
+  "defaultBranch": "develop",
   "permissions": {
     "admin": false,
     "push": false,
@@ -79,10 +79,7 @@
     "license": "BSD-3-Clause",
     "url": "https://github.com/Kelmar/LunaIRC",
     "email": "kfiresun@gmail.com",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Kelmar/LunaIRC"
-    },
+    "repository": "https://github.com/Kelmar/LunaIRC",
     "scripts": {
       "start": "electron .",
       "install": "typings install --global --save dt~node env~electron dt~knockout dt~jquery dt~bootstrap dt~lodash dt~async dt~handlebars",
@@ -101,7 +98,8 @@
       "lodash": "^4.13.1",
       "async": "^2.0.1",
       "handlebars": "^4.0.5"
-    }
+    },
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -128,6 +126,7 @@
   },
   "filename": "Kelmar___LunaIRC.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:56:24.300Z",
-  "packageLastFetchedAt": "2017-05-04T22:59:00.084Z"
+  "lastFetchedAt": "2017-10-23T23:42:04.932Z",
+  "packageLastFetchedAt": "2017-05-04T22:59:00.084Z",
+  "archived": false
 }

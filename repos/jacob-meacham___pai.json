@@ -5,7 +5,7 @@
   "owner": {
     "login": "jacob-meacham",
     "id": 1624811,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/1624811?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/1624811?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/jacob-meacham",
     "htmlUrl": "https://github.com/jacob-meacham",
@@ -60,21 +60,20 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "dev": "electron ."
     },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/jacob-meacham/pai.git"
-    },
+    "repository": "https://github.com/jacob-meacham/pai",
     "author": "jemonjam",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/jacob-meacham/pai/issues"
-    },
     "homepage": "https://github.com/jacob-meacham/pai#readme",
     "dependencies": {
       "electron": "^0.4.1"
     },
     "devDependencies": {
       "electron-prebuilt": "^0.36.8"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/jacob-meacham/pai/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -122,6 +121,7 @@
   },
   "filename": "jacob-meacham___pai.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T20:36:31.353Z",
-  "packageLastFetchedAt": "2017-05-05T17:01:56.048Z"
+  "lastFetchedAt": "2017-10-24T00:04:03.589Z",
+  "packageLastFetchedAt": "2017-05-05T17:01:56.048Z",
+  "archived": false
 }

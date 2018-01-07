@@ -5,7 +5,7 @@
   "owner": {
     "login": "rhysd",
     "id": 823277,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/823277?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/823277?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/rhysd",
     "htmlUrl": "https://github.com/rhysd",
@@ -20,12 +20,12 @@
   "description": "Hackable YoruFukurou alternative Twitter client",
   "fork": false,
   "createdAt": "2015-08-15T18:29:18.000Z",
-  "updatedAt": "2017-03-17T11:56:16.000Z",
+  "updatedAt": "2017-10-22T14:43:14.000Z",
   "pushedAt": "2017-01-14T11:54:34.000Z",
   "homepage": "",
   "size": 8807,
-  "stargazersCount": 77,
-  "watchersCount": 77,
+  "stargazersCount": 78,
+  "watchersCount": 78,
   "language": "TypeScript",
   "hasIssues": true,
   "hasDownloads": true,
@@ -34,7 +34,7 @@
   "forksCount": 1,
   "openIssuesCount": 1,
   "openIssues": 1,
-  "watchers": 77,
+  "watchers": 78,
   "defaultBranch": "master",
   "permissions": {
     "admin": false,
@@ -49,7 +49,7 @@
     "featured": false
   },
   "networkCount": 1,
-  "subscribersCount": 6,
+  "subscribersCount": 7,
   "status": 200,
   "packageJSON": {
     "name": "yourfukurou",
@@ -78,10 +78,7 @@
       "clean": "rm -rf ./typings ./node_modules ./test/unit/renderer/js ./test/e2e/story/*.js",
       "start": "npm run dep && npm run build && npm run app"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rhysd/YourFukurou.git"
-    },
+    "repository": "https://github.com/rhysd/YourFukurou",
     "keywords": [
       "twitter client",
       "YoruFukurou",
@@ -92,9 +89,6 @@
     ],
     "author": "rhysd <lin90162@yahoo.co.jp>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/rhysd/YourFukurou/issues"
-    },
     "homepage": "https://github.com/rhysd/YourFukurou#readme",
     "engines": {
       "node": ">=6.0"
@@ -153,6 +147,11 @@
         "test/unit/renderer/js/test/unit/renderer/**/*.js"
       ],
       "timeout": "60s"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/rhysd/YourFukurou/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -200,6 +199,7 @@
   "svnUrl": "https://github.com/rhysd/YourFukurou",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T19:43:09.190Z",
-  "packageLastFetchedAt": "2017-05-04T23:07:15.143Z"
+  "lastFetchedAt": "2017-10-23T22:23:32.751Z",
+  "packageLastFetchedAt": "2017-05-04T23:07:15.143Z",
+  "archived": false
 }

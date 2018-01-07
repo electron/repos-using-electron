@@ -5,7 +5,7 @@
   "owner": {
     "login": "SkyZH",
     "id": 4198311,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/4198311?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/4198311?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/SkyZH",
     "htmlUrl": "https://github.com/SkyZH",
@@ -83,10 +83,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SkyZH/streaming.git"
-    },
+    "repository": "https://github.com/SkyZH/streaming",
     "keywords": [
       "streaming",
       "electron",
@@ -94,10 +91,12 @@
     ],
     "author": "SkyZH",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/SkyZH/streaming/issues"
-    },
-    "homepage": "https://github.com/SkyZH/streaming#readme"
+    "homepage": "https://github.com/SkyZH/streaming#readme",
+    "other": {
+      "bugs": {
+        "url": "https://github.com/SkyZH/streaming/issues"
+      }
+    }
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -124,6 +123,7 @@
   },
   "filename": "SkyZH___streaming.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T21:06:26.336Z",
-  "packageLastFetchedAt": "2017-05-04T23:10:13.150Z"
+  "lastFetchedAt": "2017-10-23T22:13:14.854Z",
+  "packageLastFetchedAt": "2017-05-04T23:10:13.150Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "bhou",
     "id": 2302370,
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/2302370?v=3",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2302370?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/bhou",
     "htmlUrl": "https://github.com/bhou",
@@ -75,22 +75,21 @@
       "package-macos": "node_modules/electron-packager/cli.js . FileNameShortener --platform=darwin --overwrite",
       "package-win": "node node_modules/electron-packager/cli.js . FileNameShortener --platform=win32 --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/bhou/collar.js-example-filenameshortener.git"
-    },
+    "repository": "https://github.com/bhou/collar.js-example-filenameshortener",
     "keywords": [
       "collar.js"
     ],
     "author": "Bo HOU <daily.bhou@gmail.com>",
     "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/bhou/collar.js-example-filenameshortener/issues"
-    },
     "homepage": "https://github.com/bhou/collar.js-example-filenameshortener#readme",
     "devDependencies": {
       "electron": "^1.4.5",
       "electron-packager": "^8.2.0"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/bhou/collar.js-example-filenameshortener/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -118,6 +117,7 @@
   },
   "filename": "bhou___collar.js-example-filenameshortener.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T14:47:47.823Z",
-  "packageLastFetchedAt": "2017-05-05T17:42:54.231Z"
+  "lastFetchedAt": "2017-10-23T22:14:35.530Z",
+  "packageLastFetchedAt": "2017-05-05T17:42:54.231Z",
+  "archived": false
 }

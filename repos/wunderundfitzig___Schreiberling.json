@@ -5,7 +5,7 @@
   "owner": {
     "login": "wunderundfitzig",
     "id": 19266118,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19266118?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19266118?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wunderundfitzig",
     "htmlUrl": "https://github.com/wunderundfitzig",
@@ -71,7 +71,7 @@
   "organization": {
     "login": "wunderundfitzig",
     "id": 19266118,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/19266118?v=3",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/19266118?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/wunderundfitzig",
     "htmlUrl": "https://github.com/wunderundfitzig",
@@ -95,15 +95,13 @@
       "buildOSX": "electron-packager . --platform=darwin --arch=x64 --icon=img/schreiberlingLogo.icns --out=/Users/manuelreich/Desktop --overwrite",
       "buildWIN": "electron-packager . --platform=win32 --arch=all --icon=img/schreiberlingLogo.ico --out=/Users/manuelreich/Desktop --overwrite"
     },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/errnesto/Schreiberling.git"
-    },
+    "repository": "https://github.com/errnesto/Schreiberling",
     "author": "Manuel Reich",
     "devDependencies": {
       "electron-prebuilt": "^0.37.8"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "other": {}
   },
   "packageStatus": 200,
   "firstCommit": {
@@ -130,6 +128,7 @@
   },
   "filename": "wunderundfitzig___Schreiberling.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T19:58:43.879Z",
-  "packageLastFetchedAt": "2017-05-04T22:06:23.082Z"
+  "lastFetchedAt": "2017-10-23T22:53:15.119Z",
+  "packageLastFetchedAt": "2017-05-04T22:06:23.082Z",
+  "archived": false
 }

@@ -5,7 +5,7 @@
   "owner": {
     "login": "avvertix",
     "id": 5672748,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/5672748?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/5672748?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/avvertix",
     "htmlUrl": "https://github.com/avvertix",
@@ -75,7 +75,8 @@
       "build-windows": "electron-packager . $npm_package_productName --overwrite --out=dist --ignore='^/dist$' --ignore='^/less$' --prune --platform=win32 --arch=x64 --version=$npm_package_electronVersion --version-string.ProductName=$npm_package_productName --version-string.ProductVersion=$npm_package_electronVersion  && cd dist/ElectroHacker-win32-x64/ && zip -ryq9 ../ElectroHacker-windows-v\"$npm_package_version\".zip *",
       "build-win-on-win": "electron-packager . %npm_package_productName% --overwrite --out=dist --ignore='^/dist$' --ignore='^/less$' --prune --platform=win32 --arch=x64 --version=%npm_package_electronVersion% --version-string.ProductName=%npm_package_productName% --version-string.ProductVersion=%npm_package_electronVersion% --app-version=%npm_package_electronVersion%"
     },
-    "electronVersion": "1.0.2"
+    "electronVersion": "1.0.2",
+    "other": {}
   },
   "packageStatus": 404,
   "htmlUrl": "https://github.com/avvertix/electrohacker",
@@ -122,5 +123,6 @@
   },
   "filename": "avvertix___electrohacker.json",
   "hasProjects": true,
-  "lastFetchedAt": "2017-05-04T18:22:42.347Z"
+  "lastFetchedAt": "2017-10-24T02:04:34.712Z",
+  "archived": false
 }

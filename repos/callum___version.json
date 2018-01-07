@@ -5,7 +5,7 @@
   "owner": {
     "login": "callum",
     "id": 1245446,
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1245446?v=3",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1245446?v=4",
     "gravatarId": "",
     "url": "https://api.github.com/users/callum",
     "htmlUrl": "https://github.com/callum",
@@ -62,15 +62,9 @@
       "build": "bin/build.sh",
       "clean": "rm -rf build/*"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/callum/version.git"
-    },
+    "repository": "https://github.com/callum/version",
     "author": "Callum Jefferies",
     "license": "GPL-3.0",
-    "bugs": {
-      "url": "https://github.com/callum/version/issues"
-    },
     "homepage": "https://github.com/callum/version#readme",
     "devDependencies": {
       "electron-packager": "^5.2.1",
@@ -79,6 +73,11 @@
     },
     "dependencies": {
       "version-filename": "github:callum/version-filename"
+    },
+    "other": {
+      "bugs": {
+        "url": "https://github.com/callum/version/issues"
+      }
     }
   },
   "packageStatus": 200,
@@ -126,6 +125,7 @@
   "svnUrl": "https://github.com/callum/version",
   "hasProjects": true,
   "mirrorUrl": null,
-  "lastFetchedAt": "2017-05-04T20:03:49.510Z",
-  "packageLastFetchedAt": "2017-05-05T01:22:08.902Z"
+  "lastFetchedAt": "2017-10-23T21:50:40.606Z",
+  "packageLastFetchedAt": "2017-05-05T01:22:08.902Z",
+  "archived": false
 }
