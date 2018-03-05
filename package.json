@@ -15,7 +15,9 @@
     "collect:contributors": "node lib/collect/contributors.js",
     "collect:releases": "node lib/collect/releases.js",
     "collect:first-commit": "node lib/collect/first-commit.js",
-    "collect:identify-forks": "node lib/collect/identify-forks.js"
+    "collect:identify-forks": "node lib/collect/identify-forks.js",
+    "collect:image-urls": "node lib/collect/images-urls.js",
+    "collect:images": "node lib/collect/images.js"
   },
   "keywords": [
     "electron",
@@ -30,15 +32,21 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
+    "async": "^2.1.4",
+    "bottleneck": "^1.16.0",
     "chai": "^3.5.0",
     "dotenv-safe": "^4.0.4",
+    "download": "^5.0.2",
     "get-repo-package-json": "^1.0.0",
+    "got": "^7.1.0",
     "limiter": "^1.1.0",
+    "mkdirp": "^0.5.1",
     "mocha": "^3.0.2",
     "npm-run-all": "^3.1.0",
     "octokat": "^0.4.18",
     "path-exists": "^3.0.0",
     "pify": "^2.3.0",
+    "repo-images": "^1.0.0",
     "request": "^2.74.0",
     "standard": "^10.0.3",
     "standard-markdown": "^1.2.1"
